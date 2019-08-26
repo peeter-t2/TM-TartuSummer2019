@@ -1,0 +1,832 @@
+startsecond	text
+13.072	Chris Anderson: The rights of citizens,
+15.083	the future of the Internet.
+17.169	So I would like to welcome to the TED stage
+20.552	the man behind those revelations,
+23.378	Ed Snowden.
+25.754	(Applause)
+29.321	Ed is in a remote location somewhere in Russia
+33.574	controlling this bot from his laptop,
+36.349	so he can see what the bot can see.
+40.402	Ed, welcome to the TED stage.
+42.35	What can you see, as a matter of fact?
+45.961	Edward Snowden: Ha, I can see everyone.
+47.699	This is amazing.
+49.949	(Laughter)
+53.162	CA: Ed, some questions for you.
+56.445	You've been called many things
+57.738	in the last few months.
+59.303	You've been called a whistleblower, a traitor,
+64.228	a hero.
+65.957	What words would you describe yourself with?
+69.774	ES: You know, everybody who is involved
+72.436	with this debate
+73.932	has been struggling over me and my personality
+76.674	and how to describe me.
+79.723	But when I think about it,
+81.412	this isn't the question that
+81.412	we should be struggling with.
+84.841	Who I am really doesn't matter at all.
+88.008	If I'm the worst person in the world,
+90.72	you can hate me and move on.
+92.677	What really matters here are the issues.
+95.212	What really matters here is the
+95.212	kind of government we want,
+98.047	the kind of Internet we want,
+99.56	the kind of relationship between people
+102.118	and societies.
+103.458	And that's what I'm hoping
+103.458	the debate will move towards,
+106.546	and we've seen that increasing over time.
+108.918	If I had to describe myself,
+110.828	"I wouldn't use words like ""hero."""
+112.172	"I wouldn't use ""patriot,"" and I wouldn't use ""traitor."""
+114.874	I'd say I'm an American and I'm a citizen,
+117.068	just like everyone else.
+119.632	CA: So just to give some context
+121.505	for those who don't know the whole story --
+123.701	(Applause) —
+127.431	this time a year ago, you were stationed in Hawaii
+131.994	working as a consultant to the NSA.
+134.384	As a sysadmin, you had access
+136.428	to their systems,
+138.833	and you began revealing
+138.833	certain classified documents
+143.087	to some handpicked journalists
+146.287	leading the way to June's revelations.
+147.878	Now, what propelled you to do this?
+153.254	ES: You know,
+156.04	when I was sitting in Hawaii,
+158.22	and the years before, when I was
+158.22	working in the intelligence community,
+160.878	I saw a lot of things that had disturbed me.
+164.6	We do a lot of good things
+164.6	in the intelligence community,
+167.877	things that need to be done,
+169.07	and things that help everyone.
+171.767	But there are also things that go too far.
+173.724	There are things that shouldn't be done,
+175.02	and decisions that were being made in secret
+178.088	without the public's awareness,
+179.336	without the public's consent,
+181.848	and without even our representatives in government
+184.7	having knowledge of these programs.
+188.333	When I really came to struggle with these issues,
+192.866	I thought to myself,
+194.488	how can I do this in the most responsible way,
+197.574	that maximizes the public benefit
+200.582	while minimizing the risks?
+203.293	And out of all the solutions that I could come up with,
+206.381	out of going to Congress,
+208.623	when there were no laws,
+209.926	there were no legal protections
+211.611	for a private employee,
+213.378	a contractor in intelligence like myself,
+216.711	there was a risk that I would be
+216.711	buried along with the information
+220.358	and the public would never find out.
+222.265	But the First Amendment of
+222.265	the United States Constitution
+225.287	guarantees us a free press for a reason,
+228.828	and that's to enable an adversarial press,
+232.033	to challenge the government,
+233.93	but also to work together with the government,
+236.564	to have a dialogue and debate about how we can
+238.882	inform the public about matters of vital importance
+244.321	without putting our national security at risk.
+247.451	And by working with journalists,
+249.127	by giving all of my information
+251.281	back to the American people,
+253.558	rather than trusting myself to make
+255.329	the decisions about publication,
+258.063	we've had a robust debate
+260.299	with a deep investment by the government
+263.566	that I think has resulted in a benefit for everyone.
+268.672	And the risks that have been threatened,
+272.447	the risks that have been played up
+274.58	by the government
+276.132	have never materialized.
+277.558	We've never seen any evidence
+279.636	of even a single instance of specific harm,
+283.192	and because of that,
+284.661	I'm comfortable with the decisions that I made.
+286.788	CA: So let me show the audience
+289.001	a couple of examples of what you revealed.
+291.47	If we could have a slide up, and Ed,
+293.382	I don't know whether you can see,
+295.137	the slides are here.
+296.251	This is a slide of the PRISM program,
+298.836	and maybe you could tell the audience
+301.305	what that was that was revealed.
+303.911	ES: The best way to understand PRISM,
+306.123	because there's been a little bit of controversy,
+307.584	is to first talk about what PRISM isn't.
+311.335	Much of the debate in the U.S.
+311.335	has been about metadata.
+314.09	They've said it's just metadata, it's just metadata,
+316.981	and they're talking about a specific legal authority
+319.722	called Section 215 of the Patriot Act.
+322.427	That allows sort of a warrantless wiretapping,
+325.496	mass surveillance of the entire country's
+327.859	phone records, things like that --
+330.016	who you're talking to,
+331.378	when you're talking to them,
+333.406	where you traveled.
+334.702	These are all metadata events.
+337.203	PRISM is about content.
+340.549	It's a program through which the government could
+342.689	compel corporate America,
+344.733	it could deputize corporate America
+348.126	to do its dirty work for the NSA.
+351.99	And even though some of
+351.99	these companies did resist,
+354.986	even though some of them --
+356.409	I believe Yahoo was one of them —
+357.655	challenged them in court, they all lost,
+360.312	because it was never tried by an open court.
+363.227	They were only tried by a secret court.
+366.358	And something that we've seen,
+367.725	something about the PRISM program
+367.725	that's very concerning to me is,
+370.429	there's been a talking point in the U.S. government
+372.408	where they've said 15 federal judges
+376.159	have reviewed these programs
+376.159	and found them to be lawful,
+378.857	but what they don't tell you
+381.577	is those are secret judges
+384.207	in a secret court
+386.209	based on secret interpretations of law
+389.283	that's considered 34,000 warrant requests
+393.517	over 33 years,
+395.976	and in 33 years only rejected
+401.046	These aren't the people that we want deciding
+403.793	what the role of corporate America
+405.939	in a free and open Internet should be.
+408.395	CA: Now, this slide that we're showing here
+410.506	shows the dates in which
+412.718	different technology companies, Internet companies,
+415.133	are alleged to have joined the program,
+417.487	and where data collection began from them.
+420.445	Now, they have denied collaborating with the NSA.
+425.194	How was that data collected by the NSA?
+430.298	ES: Right. So the NSA's own slides
+433.477	refer to it as direct access.
+436.277	What that means to an actual NSA analyst,
+439.027	someone like me who was working
+439.027	as an intelligence analyst
+442.135	targeting, Chinese cyber-hackers,
+444.606	things like that, in Hawaii,
+446.688	is the provenance of that data
+448.657	is directly from their servers.
+450.913	It doesn't mean
+452.977	that there's a group of company representatives
+455.783	sitting in a smoky room with the NSA
+458.22	palling around and making back-room deals
+460.01	about how they're going to give this stuff away.
+462.553	Now each company handles it different ways.
+464.946	Some are responsible.
+466.122	Some are somewhat less responsible.
+468.213	But the bottom line is, when we talk about
+469.981	how this information is given,
+473.36	it's coming from the companies themselves.
+475.846	It's not stolen from the lines.
+478.141	But there's an important thing to remember here:
+480.073	even though companies pushed back,
+482.004	even though companies demanded,
+484.057	hey, let's do this through a warrant process,
+486.603	let's do this
+488.377	where we actually have some sort of legal review,
+491.526	some sort of basis for handing over
+493.357	these users' data,
+495.297	we saw stories in the Washington Post last year
+497.688	that weren't as well reported as the PRISM story
+500.9	that said the NSA broke in
+503.499	to the data center communications
+505.3	between Google to itself
+507.456	and Yahoo to itself.
+509.034	So even these companies that are cooperating
+511.866	in at least a compelled but hopefully lawful manner
+514.737	with the NSA,
+516.61	the NSA isn't satisfied with that,
+519.906	and because of that, we need our companies
+521.884	to work very hard
+524.699	to guarantee that they're going to represent
+527.171	the interests of the user, and also advocate
+529.757	for the rights of the users.
+531.673	And I think over the last year,
+532.947	we've seen the companies that are named
+534.53	on the PRISM slides
+535.948	take great strides to do that,
+537.757	and I encourage them to continue.
+540.01	CA: What more should they do?
+542.692	ES: The biggest thing that an Internet company
+546.209	in America can do today, right now,
+549.435	without consulting with lawyers,
+550.877	to protect the rights of users worldwide,
+554.416	is to enable SSL web encryption
+559.799	on every page you visit.
+561.804	The reason this matters is today,
+564.746	"if you go to look at a copy of ""1984"" on Amazon.com,"
+569.984	the NSA can see a record of that,
+572.431	the Russian intelligence service
+572.431	can see a record of that,
+574.65	the Chinese service can see a record of that,
+577.107	the French service, the German service,
+579.005	the services of Andorra.
+580.327	They can all see it because it's unencrypted.
+583.605	The world's library is Amazon.com,
+587.205	but not only do they not
+587.205	support encryption by default,
+589.86	you cannot choose to use encryption
+592.026	when browsing through books.
+593.753	This is something that we need to change,
+595.462	not just for Amazon, I don't mean to single them out,
+597.337	but they're a great example.
+598.829	All companies need to move
+600.497	to an encrypted browsing habit by default
+603.89	for all users who haven't taken any action
+606.374	or picked any special methods on their own.
+608.635	That'll increase the privacy and the rights
+610.946	that people enjoy worldwide.
+613.711	CA: Ed, come with me to this part of the stage.
+616.189	I want to show you the next slide here. (Applause)
+619.142	This is a program called Boundless Informant.
+621.85	What is that?
+623.526	ES: So, I've got to give credit to the NSA
+625.706	for using appropriate names on this.
+628.149	This is one of my favorite NSA cryptonyms.
+631.994	Boundless Informant
+633.464	is a program that the NSA hid from Congress.
+636.314	The NSA was previously asked by Congress,
+638.723	was there any ability that they had
+640.936	to even give a rough ballpark estimate
+644.694	of the amount of American communications
+646.88	that were being intercepted.
+649.014	They said no. They said, we don't track those stats,
+652.045	and we can't track those stats.
+653.594	We can't tell you how many communications
+656.698	we're intercepting around the world,
+658.161	because to tell you that would be
+659.648	to invade your privacy.
+662.955	Now, I really appreciate that sentiment from them,
+665.17	but the reality, when you look at this slide is,
+667.305	not only do they have the capability,
+668.958	the capability already exists.
+671.574	It's already in place.
+673.248	The NSA has its own internal data format
+676.396	that tracks both ends of a communication,
+680.545	and if it says,
+681.827	this communication came from America,
+683.853	they can tell Congress how
+683.853	many of those communications
+686.209	they have today, right now.
+688.725	And what Boundless Informant tells us
+691.696	is more communications are being intercepted
+694.422	in America about Americans
+697.395	than there are in Russia about Russians.
+700.815	I'm not sure that's what an intelligence agency
+702.68	should be aiming for.
+704.999	CA: Ed, there was a story broken
+704.999	in the Washington Post,
+707.405	again from your data.
+709.127	The headline says,
+710.806	"""NSA broke privacy rules"
+712.303	"thousands of times per year."""
+714.333	Tell us about that.
+715.871	ES: We also heard in Congressional
+715.871	testimony last year,
+718.464	it was an amazing thing for someone like me
+720.401	who came from the NSA
+722.105	and who's seen the actual internal documents,
+724.677	knows what's in them,
+727.268	to see officials testifying under oath
+729.808	that there had been no abuses,
+731.69	that there had been no violations of the NSA's rules,
+735.323	when we knew this story was coming.
+738.264	But what's especially interesting about this,
+740.352	about the fact that the NSA has violated
+742.4	their own rules, their own laws
+744.768	thousands of times in a single year,
+747.441	including one event by itself,
+750.168	one event out of those 2,776,
+755.144	that affected more than 3,000 people.
+757.45	In another event, they intercepted
+759.289	all the calls in Washington, D.C., by accident.
+763.501	What's amazing about this,
+765.738	this report, that didn't get that much attention,
+767.946	is the fact that not only were there 2,776 abuses,
+772.807	the chairman of the Senate Intelligence Committee,
+774.948	Dianne Feinstein, had not seen this report
+778.935	until the Washington Post contacted her
+782.126	asking for comment on the report.
+784.574	And she then requested a copy from the NSA
+786.467	and received it,
+788.168	but had never seen this before that.
+790.195	What does that say about the state of oversight
+792.882	in American intelligence
+794.619	when the chairman of the
+794.619	Senate Intelligence Committee
+796.407	has no idea that the rules are being broken
+799.2	thousands of times every year?
+801.36	CA: Ed, one response to this whole debate is this:
+804.989	Why should we care about
+807.654	all this surveillance, honestly?
+809.122	I mean, look, if you've done nothing wrong,
+811.274	you've got nothing to worry about.
+814.058	What's wrong with that point of view?
+816.35	ES: Well, so the first thing is,
+817.998	you're giving up your rights.
+819.711	You're saying hey, you know,
+821.069	I don't think I'm going to need them,
+823.441	so I'm just going to trust that, you know,
+825.123	let's get rid of them, it doesn't really matter,
+828.101	these guys are going to do the right thing.
+830.075	Your rights matter
+831.934	because you never know when
+831.934	you're going to need them.
+834.776	Beyond that, it's a part of our cultural identity,
+837.058	not just in America,
+839.19	but in Western societies
+840.781	and in democratic societies around the world.
+843.743	People should be able to pick up the phone
+846.147	and to call their family,
+847.601	people should be able to send a text message
+849.6	to their loved ones,
+850.728	people should be able to buy a book online,
+853.182	they should be able to travel by train,
+854.972	they should be able to buy an airline ticket
+857.189	without wondering about how these events
+858.926	are going to look to an agent of the government,
+862.611	possibly not even your government
+865.201	years in the future,
+866.956	how they're going to be misinterpreted
+868.696	and what they're going to think your intentions were.
+871.48	We have a right to privacy.
+873.554	We require warrants to be based on probable cause
+877.172	or some kind of individualized suspicion
+879.636	because we recognize that trusting anybody,
+884.163	any government authority,
+885.757	with the entirety of human communications
+888.841	in secret and without oversight
+891.274	is simply too great a temptation to be ignored.
+896.118	CA: Some people are furious at what you've done.
+898.677	I heard a quote recently from Dick Cheney
+901.516	who said that Julian Assange was a flea bite,
+907.408	Edward Snowden is the lion
+907.408	that bit the head off the dog.
+910.83	He thinks you've committed
+912.383	one of the worst acts of betrayal
+914.675	in American history.
+916.781	What would you say to people who think that?
+922.975	ES: Dick Cheney's really something else.
+925.18	(Laughter) (Applause)
+932.476	Thank you. (Laughter)
+937.378	I think it's amazing, because at the time
+939.854	Julian Assange was doing some of his greatest work,
+943.629	Dick Cheney was saying
+945.065	he was going to end governments worldwide,
+947.495	the skies were going to ignite
+950.4	and the seas were going to boil off,
+952.536	and now he's saying it's a flea bite.
+954.754	So we should be suspicious about the same sort of
+957.267	overblown claims of damage to national security
+961.46	from these kind of officials.
+963.145	But let's assume that these
+963.145	people really believe this.
+969.994	I would argue that they have kind of
+972.224	a narrow conception of national security.
+976.594	The prerogatives of people like Dick Cheney
+979.841	do not keep the nation safe.
+982.822	The public interest is not always the same
+986.855	as the national interest.
+989.29	Going to war with people who are not our enemy
+993.184	in places that are not a threat
+995.314	doesn't make us safe,
+997.481	and that applies whether it's in Iraq
+999.648	or on the Internet.
+1001.415	The Internet is not the enemy.
+1002.938	Our economy is not the enemy.
+1004.963	American businesses, Chinese businesses,
+1007.249	and any other company out there
+1011.82	is a part of our society.
+1014.251	It's a part of our interconnected world.
+1016.465	There are ties of fraternity that bond us together,
+1020.91	and if we destroy these bonds
+1023.578	by undermining the standards, the security,
+1026.733	the manner of behavior,
+1029.59	that nations and citizens all around the world
+1032.541	expect us to abide by.
+1034.918	CA: But it's alleged that you've stolen
+1038.62	1.7 million documents.
+1040.519	It seems only a few hundred of them
+1042.346	have been shared with journalists so far.
+1045.203	Are there more revelations to come?
+1048.248	ES: There are absolutely more revelations to come.
+1050.69	I don't think there's any question
+1053.491	that some of the most important reporting
+1057.738	to be done is yet to come.
+1062.478	CA: Come here, because I want to ask you
+1064.54	about this particular revelation.
+1066.067	Come and take a look at this.
+1069.089	I mean, this is a story which I think
+1069.089	for a lot of the techies in this room
+1072.337	is the single most shocking thing
+1074.076	that they have heard in the last few months.
+1076.436	"It's about a program called ""Bullrun."""
+1079.061	Can you explain what that is?
+1082.837	ES: So Bullrun, and this is again
+1084.545	where we've got to thank the NSA for their candor,
+1091.642	this is a program named after a Civil War battle.
+1096.232	The British counterpart is called Edgehill,
+1097.845	which is a U.K. civil war battle.
+1099.32	And the reason that I believe they're named this way
+1101.527	is because they target our own infrastructure.
+1105.016	They're programs through which the NSA
+1107.707	intentionally misleads corporate partners.
+1111.922	They tell corporate partners that these
+1113.804	are safe standards.
+1115.479	They say hey, we need to work with you
+1117.498	to secure your systems,
+1121.151	but in reality, they're giving bad advice
+1124.344	to these companies that makes them
+1125.61	degrade the security of their services.
+1127.905	They're building in backdoors that not only
+1130.234	the NSA can exploit,
+1132.592	but anyone else who has time and money
+1135.113	to research and find it
+1137.233	can then use to let themselves in
+1139.367	to the world's communications.
+1141.237	And this is really dangerous,
+1143.007	because if we lose a single standard,
+1147.191	if we lose the trust of something like SSL,
+1150.25	which was specifically targeted
+1151.732	by the Bullrun program,
+1153.855	we will live a less safe world overall.
+1156.523	We won't be able to access our banks
+1158.63	and we won't be able to access commerce
+1163.883	without worrying about people
+1163.883	monitoring those communications
+1166.706	or subverting them for their own ends.
+1168.884	CA: And do those same decisions also potentially
+1172.953	open America up to cyberattacks
+1175.939	from other sources?
+1179.855	ES: Absolutely.
+1181.32	One of the problems,
+1183.052	one of the dangerous legacies
+1186.502	that we've seen in the post-9/11 era,
+1189.994	is that the NSA has traditionally worn two hats.
+1194.231	They've been in charge of offensive operations,
+1196.157	that is hacking,
+1197.278	but they've also been in
+1197.278	charge of defensive operations,
+1199.988	and traditionally they've always prioritized
+1202.351	defense over offense
+1203.738	based on the principle
+1205.128	that American secrets are simply worth more.
+1207.944	If we hack a Chinese business
+1210.054	and steal their secrets,
+1211.738	if we hack a government office in Berlin
+1213.821	and steal their secrets,
+1215.919	that has less value to the American people
+1219.526	than making sure that the Chinese
+1221.626	can't get access to our secrets.
+1224.132	So by reducing the security of our communications,
+1228.263	they're not only putting the world at risk,
+1230.291	they're putting America at risk in a fundamental way,
+1232.563	because intellectual property is the basis,
+1235.234	the foundation of our economy,
+1237.161	and if we put that at risk through weak security,
+1239.419	we're going to be paying for it for years.
+1241.048	CA: But they've made a calculation
+1242.595	that it was worth doing this
+1244.786	as part of America's defense against terrorism.
+1248.325	Surely that makes it a price worth paying.
+1251.937	ES: Well, when you look at the results
+1255.824	of these programs in stopping terrorism,
+1258.131	you will see that that's unfounded,
+1261.881	and you don't have to take my word for it,
+1263.8	because we've had the first open court,
+1267.572	the first federal court that's reviewed this,
+1269.941	outside the secrecy arrangement,
+1272.737	called these programs Orwellian
+1274.724	and likely unconstitutional.
+1276.958	Congress, who has access
+1279.697	to be briefed on these things,
+1281.008	and now has the desire to be,
+1283.99	has produced bills to reform it,
+1286.397	and two independent White House panels
+1289.282	who reviewed all of the classified evidence
+1291.372	said these programs have never stopped
+1294.005	a single terrorist attack
+1295.766	that was imminent in the United States.
+1299.269	So is it really terrorism that we're stopping?
+1302.455	Do these programs have any value at all?
+1304.786	I say no, and all three branches
+1307.03	of the American government say no as well.
+1309.462	CA: I mean, do you think there's a deeper motivation
+1311.275	for them than the war against terrorism?
+1314.56	ES: I'm sorry, I couldn't hear you, say again?
+1316.11	CA: Sorry. Do you think there's a deeper motivation
+1319.11	for them other than the war against terrorism?
+1322.989	ES: Yeah. The bottom line is that terrorism
+1325.684	has always been what we in the intelligence world
+1327.885	would call a cover for action.
+1331.158	Terrorism is something that provokes
+1333.083	an emotional response that allows people
+1335.313	to rationalize authorizing powers and programs
+1339.67	that they wouldn't give otherwise.
+1342.114	The Bullrun and Edgehill-type programs,
+1344.6	the NSA asked for these authorities
+1346.317	back in the 1990s.
+1348.254	They asked the FBI to go to
+1348.254	Congress and make the case.
+1351.244	The FBI went to Congress and did make the case.
+1353.418	But Congress and the American people said no.
+1355.983	They said, it's not worth the risk to our economy.
+1358.394	They said it's worth too much damage
+1360.313	to our society to justify the gains.
+1363	But what we saw is, in the post-9/11 era,
+1367.275	they used secrecy and they
+1367.275	used the justification of terrorism
+1370.526	to start these programs in secret
+1372.46	without asking Congress,
+1374.272	without asking the American people,
+1376.452	and it's that kind of government behind closed doors
+1379.19	that we need to guard ourselves against,
+1381.749	because it makes us less safe,
+1382.999	and it offers no value.
+1384.891	CA: Okay, come with me here for a sec,
+1386.757	because I've got a more personal question for you.
+1388.939	Speaking of terror,
+1391.863	most people would find the
+1391.863	situation you're in right now
+1395.82	in Russia pretty terrifying.
+1399.116	You obviously heard what happened,
+1402.703	what the treatment that Bradley Manning got,
+1404.896	Chelsea Manning as now is,
+1407.177	and there was a story in Buzzfeed saying that
+1409.664	there are people in the intelligence community
+1411.322	who want you dead.
+1413.601	How are you coping with this?
+1415.541	How are you coping with the fear?
+1417.49	ES: It's no mystery
+1420.494	that there are governments out
+1420.494	there that want to see me dead.
+1426.142	I've made clear again and again and again
+1429.552	that I go to sleep every morning
+1432.918	thinking about what I can
+1432.918	do for the American people.
+1437.478	I don't want to harm my government.
+1440.51	I want to help my government,
+1443.773	but the fact that they are willing to
+1447.581	completely ignore due process,
+1449.901	they're willing to declare guilt
+1452.609	without ever seeing a trial,
+1455.895	these are things that we need to work against
+1458.311	as a society, and say hey, this is not appropriate.
+1461.889	We shouldn't be threatening dissidents.
+1463.716	We shouldn't be criminalizing journalism.
+1466.73	And whatever part I can do to see that end,
+1470.049	I'm happy to do despite the risks.
+1473.202	CA: So I'd actually like to get some feedback
+1474.726	from the audience here,
+1475.945	because I know there's widely differing reactions
+1478.049	to Edward Snowden.
+1479.99	Suppose you had the following two choices, right?
+1482.278	You could view what he did
+1485.084	as fundamentally a reckless act
+1486.978	that has endangered America
+1490.197	or you could view it as fundamentally a heroic act
+1493.76	that will work towards America and the world's
+1497.235	long-term good?
+1498.622	Those are the two choices I'll give you.
+1501.94	I'm curious to see who's willing to vote with
+1504.095	the first of those,
+1505.512	that this was a reckless act?
+1508.921	There are some hands going up.
+1510.576	Some hands going up.
+1511.96	It's hard to put your hand up
+1513.236	when the man is standing right here,
+1515.347	but I see them.
+1516.912	ES: I can see you. (Laughter)
+1519.443	CA: And who goes with the second choice,
+1521.704	the fundamentally heroic act?
+1523.587	(Applause) (Cheers)
+1526.234	And I think it's true to say that
+1526.234	there are a lot of people
+1528.808	who didn't show a hand and I think
+1531.033	are still thinking this through,
+1532.743	because it seems to me that the debate around you
+1536.201	doesn't split along traditional political lines.
+1539.31	It's not left or right, it's not really about
+1541.564	pro-government, libertarian, or not just that.
+1545.686	Part of it is almost a generational issue.
+1548.399	You're part of a generation that grew up
+1550.207	with the Internet, and it seems as if
+1553.133	you become offended at almost a visceral level
+1556.341	when you see something done
+1557.637	that you think will harm the Internet.
+1559.699	Is there some truth to that?
+1563.272	ES: It is. I think it's very true.
+1568.32	This is not a left or right issue.
+1571.418	Our basic freedoms, and when I say our,
+1573.995	I don't just mean Americans,
+1575.542	I mean people around the world,
+1577.555	it's not a partisan issue.
+1579.901	These are things that all people believe,
+1581.94	and it's up to all of us to protect them,
+1584.465	and to people who have seen and enjoyed
+1587.297	a free and open Internet,
+1588.958	it's up to us to preserve that liberty
+1592.184	for the next generation to enjoy,
+1594.089	and if we don't change things,
+1595.954	if we don't stand up to make the changes
+1599.087	we need to do to keep the Internet safe,
+1602.294	not just for us but for everyone,
+1605.062	we're going to lose that,
+1606.527	and that would be a tremendous loss,
+1607.78	not just for us, but for the world.
+1610.127	CA: Well, I have heard similar language recently
+1612.2	from the founder of the world wide web,
+1614.048	who I actually think is with us, Sir Tim Berners-Lee.
+1618.565	Tim, actually, would you like to come up and say,
+1621.269	do we have a microphone for Tim?
+1623.14	(Applause)
+1625.507	Tim, good to see you. Come up there.
+1632.582	Which camp are you in, by the way,
+1635.019	traitor, hero? I have a theory on this, but --
+1638.519	Tim Berners-Lee: I've given much longer
+1641.213	answers to that question, but hero,
+1644.268	if I have to make the choice between the two.
+1647.67	CA: And Ed, I think you've read
+1651.003	the proposal that Sir Tim has talked about
+1653.087	about a new Magna Carta to take back the Internet.
+1656.055	Is that something that makes sense?
+1658.157	ES: Absolutely. I mean, my generation, I grew up
+1661.798	not just thinking about the Internet,
+1663.857	but I grew up in the Internet,
+1666.221	and although I never expected to have the chance
+1670.881	to defend it in such a direct and practical manner
+1676.428	and to embody it in this unusual,
+1680.224	almost avatar manner,
+1682.353	I think there's something poetic about the fact that
+1685.059	one of the sons of the Internet
+1687.041	has actually become close to the Internet
+1690.093	as a result of their political expression.
+1692.579	And I believe that a Magna Carta for the Internet
+1696.29	is exactly what we need.
+1698.252	We need to encode our values
+1701.76	not just in writing but in the structure of the Internet,
+1705.107	and it's something that I hope,
+1707.347	I invite everyone in the audience,
+1709.87	not just here in Vancouver but around the world,
+1713.12	to join and participate in.
+1715.476	CA: Do you have a question for Ed?
+1717.79	TBL: Well, two questions,
+1719.82	a general question —
+1720.944	CA: Ed, can you still hear us?
+1722.739	ES: Yes, I can hear you.
+1722.739	CA: Oh, he's back.
+1726.255	TBL: The wiretap on your line
+1727.85	got a little interfered with for a moment.
+1729.756	(Laughter)
+1731.409	ES: It's a little bit of an NSA problem.
+1733.611	TBL: So, from the 25 years,
+1737.418	stepping back and thinking,
+1740.355	what would you think would be
+1742.101	the best that we could achieve
+1744.708	from all the discussions that we have
+1746.568	about the web we want?
+1749.461	ES: When we think about
+1752.833	in terms of how far we can go,
+1755.946	I think that's a question that's really only limited
+1758.099	by what we're willing to put into it.
+1760.636	I think the Internet that we've enjoyed in the past
+1763.593	has been exactly what we as not just a nation
+1769.151	but as a people around the world need,
+1772.49	and by cooperating, by engaging not just
+1776.716	the technical parts of society,
+1778.12	but as you said, the users,
+1780.962	the people around the world who contribute
+1783.026	through the Internet, through social media,
+1785.468	who just check the weather,
+1787.195	who rely on it every day as a part of their life,
+1789.748	to champion that.
+1792.688	We'll get not just the Internet we've had,
+1795.225	but a better Internet, a better now,
+1798.174	something that we can use to build a future
+1802.217	that'll be better not just than what we hoped for
+1805.185	but anything that we could have imagined.
+1807.57	CA: It's 30 years ago that TED was founded, 1984.
+1813.032	A lot of the conversation since then has been
+1815.037	along the lines that
+1817.091	actually George Orwell got it wrong.
+1818.994	It's not Big Brother watching us.
+1820.713	We, through the power of the web,
+1822.327	and transparency, are now watching Big Brother.
+1824.691	Your revelations kind of drove a stake
+1826.952	through the heart of that rather optimistic view,
+1830.699	but you still believe there's a way of doing something
+1834.119	about that.
+1835.988	And you do too.
+1837.728	ES: Right, so there is an argument to be made
+1843.896	that the powers of Big Brother
+1843.896	have increased enormously.
+1847.493	There was a recent legal article at Yale
+1851.822	that established something called
+1851.822	the Bankston-Soltani Principle,
+1855.553	which is that our expectation of privacy is violated
+1860.782	when the capabilities of government surveillance
+1862.651	have become cheaper by an order of magnitude,
+1865.846	and each time that occurs, we need to revisit
+1868.568	and rebalance our privacy rights.
+1871.621	Now, that hasn't happened since
+1873.611	the government's surveillance powers
+1875.709	have increased by several orders of magnitude,
+1878.489	and that's why we're in the
+1878.489	problem that we're in today,
+1881.463	but there is still hope,
+1885.275	because the power of individuals
+1887.411	have also been increased by technology.
+1890.018	I am living proof
+1892.019	that an individual can go head to head
+1894.181	against the most powerful adversaries
+1896.499	and the most powerful intelligence agencies
+1898.82	around the world and win,
+1902.58	and I think that's something
+1904.24	that we need to take hope from,
+1906.663	and we need to build on
+1907.84	to make it accessible not just to technical experts
+1910.277	but to ordinary citizens around the world.
+1912.794	Journalism is not a crime,
+1914.461	communication is not a crime,
+1916.251	and we should not be monitored
+1916.251	in our everyday activities.
+1919.195	CA: I'm not quite sure how
+1919.195	you shake the hand of a bot,
+1921.924	but I imagine it's, this is the hand right here.
+1921.924	TBL: That'll come very soon.
+1927.814	ES: Nice to meet you,
+1928.937	and I hope my beam looks as nice
+1930.984	as my view of you guys does.
+1933.328	CA: Thank you, Tim.
+1936.048	(Applause)
+1941.78	I mean, The New York Times
+1941.78	recently called for an amnesty for you.
+1945.832	Would you welcome the chance
+1945.832	to come back to America?
+1950.058	ES: Absolutely. There's really no question,
+1953.943	the principles that have been the foundation
+1956.525	of this project
+1958.918	have been the public interest
+1962.998	and the principles that underly
+1965.941	the journalistic establishment in the United States
+1969.217	and around the world,
+1971.663	and I think if the press is now saying,
+1976.508	we support this,
+1978.59	this is something that needed to happen,
+1980.678	that's a powerful argument,
+1980.678	but it's not the final argument,
+1983.322	and I think that's something
+1983.322	that public should decide.
+1986.035	But at the same time,
+1987.877	the government has hinted that they want
+1989.423	some kind of deal,
+1991.267	that they want me to compromise
+1993.381	the journalists with which I've been working,
+1995.556	to come back,
+1996.989	and I want to make it very clear
+1999.542	that I did not do this to be safe.
+2002.268	I did this to do what was right,
+2004.536	and I'm not going to stop my work
+2006.763	in the public interest
+2008.137	just to benefit myself.
+2010.926	(Applause)
+2016.704	CA: In the meantime,
+2018.623	courtesy of the Internet and this technology,
+2022.391	you're here, back in North America,
+2024.041	not quite the U.S., Canada, in this form.
+2028.057	I'm curious, how does that feel?
+2032.951	ES: Canada is different than what I expected.
+2035.089	It's a lot warmer.
+2037.214	(Laughter)
+2042.921	"CA: At TED, the mission is ""ideas worth spreading."""
+2046.177	If you could encapsulate it in a single idea,
+2048.375	what is your idea worth spreading
+2050.59	right now at this moment?
+2054.665	ES: I would say the last year has been a reminder
+2058.315	that democracy may die behind closed doors,
+2061.918	but we as individuals are born
+2063.822	behind those same closed doors,
+2066.471	and we don't have to give up
+2068.836	our privacy to have good government.
+2072.069	We don't have to give up our liberty
+2074.159	to have security.
+2075.938	And I think by working together
+2078.726	we can have both open government
+2081.051	and private lives,
+2082.988	and I look forward to working with everyone
+2084.761	around the world to see that happen.
+2087.3	Thank you very much.
+2088.638	CA: Ed, thank you.
+2090.878	(Applause)

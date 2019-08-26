@@ -1,0 +1,577 @@
+startsecond	text
+12.835	Mark Twain summed up
+12.835	what I take to be
+14.99	one of the fundamental problems
+14.99	of cognitive science
+18.11	with a single witticism.
+20.41	"He said, ""There's something"
+20.41	fascinating about science.
+23.492	One gets such wholesale
+23.492	returns of conjecture
+26.72	out of such a trifling
+26.72	"investment in fact."""
+29.924	(Laughter)
+32.199	Twain meant it as a joke,
+32.199	of course, but he's right:
+34.803	There's something
+34.803	fascinating about science.
+37.679	From a few bones, we infer
+37.679	the existence of dinosuars.
+42.91	From spectral lines,
+42.91	the composition of nebulae.
+47.471	From fruit flies,
+50.409	the mechanisms of heredity,
+53.352	and from reconstructed images
+53.352	of blood flowing through the brain,
+57.601	or in my case, from the behavior
+57.601	of very young children,
+62.309	we try to say something about
+62.309	the fundamental mechanisms
+65.138	of human cognition.
+67.716	In particular, in my lab in the Department
+67.716	of Brain and Cognitive Sciences at MIT,
+72.475	I have spent the past decade
+72.475	trying to understand the mystery
+76.129	of how children learn so much
+76.129	from so little so quickly.
+80.666	Because, it turns out that
+80.666	the fascinating thing about science
+83.644	is also a fascinating
+83.644	thing about children,
+87.173	which, to put a gentler
+87.173	spin on Mark Twain,
+89.754	is precisely their ability
+89.754	to draw rich, abstract inferences
+94.404	rapidly and accurately
+94.404	from sparse, noisy data.
+100.355	I'm going to give you
+100.355	just two examples today.
+102.753	One is about a problem of generalization,
+105.04	and the other is about a problem
+105.04	of causal reasoning.
+107.89	And although I'm going to talk
+107.89	about work in my lab,
+110.415	this work is inspired by
+110.415	and indebted to a field.
+113.875	I'm grateful to mentors, colleagues,
+113.875	and collaborators around the world.
+119.308	Let me start with the problem
+119.308	of generalization.
+122.652	Generalizing from small samples of data
+122.652	is the bread and butter of science.
+126.785	We poll a tiny fraction of the electorate
+129.339	and we predict the outcome
+129.339	of national elections.
+132.24	We see how a handful of patients
+132.24	responds to treatment in a clinical trial,
+136.165	and we bring drugs to a national market.
+139.23	But this only works if our sample
+139.23	is randomly drawn from the population.
+143.595	If our sample is cherry-picked
+143.595	in some way --
+146.33	say, we poll only urban voters,
+148.402	or say, in our clinical trials
+148.402	for treatments for heart disease,
+152.79	we include only men --
+154.671	the results may not generalize
+154.671	to the broader population.
+158.479	So scientists care whether evidence
+158.479	is randomly sampled or not,
+162.06	but what does that have to do with babies?
+164.585	Well, babies have to generalize
+164.585	from small samples of data all the time.
+169.206	They see a few rubber ducks
+169.206	and learn that they float,
+172.364	or a few balls and learn that they bounce.
+175.939	And they develop expectations
+175.939	about ducks and balls
+178.89	that they're going to extend
+178.89	to rubber ducks and balls
+181.606	for the rest of their lives.
+183.485	And the kinds of generalizations
+183.485	babies have to make about ducks and balls
+187.224	they have to make about almost everything:
+189.313	shoes and ships and sealing wax
+189.313	and cabbages and kings.
+194.2	So do babies care whether
+194.2	the tiny bit of evidence they see
+197.161	is plausibly representative
+197.161	of a larger population?
+201.763	Let's find out.
+203.663	I'm going to show you two movies,
+205.386	one from each of two conditions
+205.386	of an experiment,
+207.848	and because you're going to see
+207.848	just two movies,
+210.286	you're going to see just two babies,
+212.422	and any two babies differ from each other
+212.422	in innumerable ways.
+216.369	But these babies, of course,
+216.369	here stand in for groups of babies,
+219.42	and the differences you're going to see
+221.315	represent average group differences
+221.315	in babies' behavior across conditions.
+227.16	In each movie, you're going to see
+227.16	a baby doing maybe
+229.743	just exactly what you might
+229.743	expect a baby to do,
+233.203	and we can hardly make babies
+233.203	more magical than they already are.
+238.09	But to my mind the magical thing,
+240.1	and what I want you to pay attention to,
+242.189	is the contrast between
+242.189	these two conditions,
+245.3	because the only thing
+245.3	that differs between these two movies
+248.829	is the statistical evidence
+248.829	the babies are going to observe.
+253.425	We're going to show babies
+253.425	a box of blue and yellow balls,
+256.608	and my then-graduate student,
+256.608	now colleague at Stanford, Hyowon Gweon,
+261.228	is going to pull three blue balls
+261.228	in a row out of this box,
+264.305	and when she pulls those balls out,
+264.305	she's going to squeeze them,
+267.428	and the balls are going to squeak.
+269.541	And if you're a baby,
+269.541	that's like a TED Talk.
+272.304	It doesn't get better than that.
+274.208	(Laughter)
+278.968	But the important point is it's really
+278.968	easy to pull three blue balls in a row
+282.627	out of a box of mostly blue balls.
+284.932	You could do that with your eyes closed.
+286.992	It's plausibly a random sample
+286.992	from this population.
+289.988	And if you can reach into a box at random
+289.988	and pull out things that squeak,
+293.72	then maybe everything in the box squeaks.
+296.559	So maybe babies should expect
+296.559	those yellow balls to squeak as well.
+300.209	Now, those yellow balls
+300.209	have funny sticks on the end,
+302.728	so babies could do other things
+302.728	with them if they wanted to.
+305.585	They could pound them or whack them.
+307.416	But let's see what the baby does.
+312.548	(Video) Hyowon Gweon: See this?
+312.548	(Ball squeaks)
+316.531	Did you see that?
+316.531	(Ball squeaks)
+320.036	Cool.
+324.706	See this one?
+326.656	(Ball squeaks)
+328.537	Wow.
+333.854	Laura Schulz: Told you. (Laughs)
+335.967	(Video) HG: See this one?
+335.967	(Ball squeaks)
+339.998	Hey Clara, this one's for you.
+339.998	You can go ahead and play.
+351.854	(Laughter)
+356.219	LS: I don't even have to talk, right?
+359.214	All right, it's nice that babies
+359.214	will generalize properties
+362.113	of blue balls to yellow balls,
+363.641	and it's impressive that babies
+363.641	can learn from imitating us,
+366.737	but we've known those things about babies
+366.737	for a very long time.
+370.406	The really interesting question
+372.217	is what happens when we show babies
+372.217	exactly the same thing,
+375.069	and we can ensure it's exactly the same
+375.069	because we have a secret compartment
+378.68	and we actually pull the balls from there,
+380.79	but this time, all we change
+380.79	is the apparent population
+384.268	from which that evidence was drawn.
+387.17	This time, we're going to show babies
+387.17	three blue balls
+390.723	pulled out of a box
+390.723	of mostly yellow balls,
+394.107	and guess what?
+395.429	You [probably won't] randomly draw
+395.429	three blue balls in a row
+398.269	out of a box of mostly yellow balls.
+400.753	That is not plausibly
+400.753	randomly sampled evidence.
+404.5	That evidence suggests that maybe Hyowon
+404.5	was deliberately sampling the blue balls.
+409.623	Maybe there's something special
+409.623	about the blue balls.
+412.846	Maybe only the blue balls squeak.
+415.822	Let's see what the baby does.
+417.717	(Video) HG: See this?
+417.717	(Ball squeaks)
+422.851	See this toy?
+422.851	(Ball squeaks)
+425.496	Oh, that was cool. See?
+425.496	(Ball squeaks)
+430.976	Now this one's for you to play.
+430.976	You can go ahead and play.
+438.074	(Fussing)
+438.074	(Laughter)
+446.901	LS: So you just saw
+446.901	two 15-month-old babies
+449.649	do entirely different things
+451.591	based only on the probability
+451.591	of the sample they observed.
+455.19	Let me show you the experimental results.
+457.511	On the vertical axis, you'll see
+457.511	the percentage of babies
+460.275	who squeezed the ball in each condition,
+462.805	and as you'll see, babies are much
+462.805	more likely to generalize the evidence
+466.52	when it's plausibly representative
+466.52	of the population
+469.655	than when the evidence
+469.655	is clearly cherry-picked.
+473.393	And this leads to a fun prediction:
+475.808	Suppose you pulled just one blue ball
+475.808	out of the mostly yellow box.
+480.896	You [probably won't] pull three blue balls
+480.896	in a row at random out of a yellow box,
+484.765	but you could randomly sample
+484.765	just one blue ball.
+487.22	That's not an improbable sample.
+489.19	And if you could reach into
+489.19	a box at random
+491.414	and pull out something that squeaks,
+491.414	maybe everything in the box squeaks.
+495.875	So even though babies are going to see
+495.875	much less evidence for squeaking,
+500.32	and have many fewer actions to imitate
+502.562	in this one ball condition than in
+502.562	the condition you just saw,
+505.905	we predicted that babies themselves
+505.905	would squeeze more,
+509.797	and that's exactly what we found.
+512.691	So 15-month-old babies,
+512.691	in this respect, like scientists,
+517.102	care whether evidence
+517.102	is randomly sampled or not,
+520.19	and they use this to develop
+520.19	expectations about the world:
+523.697	what squeaks and what doesn't,
+525.879	what to explore and what to ignore.
+530.384	Let me show you another example now,
+532.45	this time about a problem
+532.45	of causal reasoning.
+535.18	And it starts with a problem
+535.18	of confounded evidence
+537.619	that all of us have,
+539.291	which is that we are part of the world.
+541.311	And this might not seem like a problem
+541.311	to you, but like most problems,
+544.747	it's only a problem when things go wrong.
+547.464	Take this baby, for instance.
+549.275	Things are going wrong for him.
+550.98	He would like to make
+550.98	this toy go, and he can't.
+553.251	I'll show you a few-second clip.
+561.34	And there's two possibilities, broadly:
+563.26	Maybe he's doing something wrong,
+565.894	or maybe there's something
+565.894	wrong with the toy.
+570.11	So in this next experiment,
+572.221	we're going to give babies
+572.221	just a tiny bit of statistical data
+575.518	supporting one hypothesis over the other,
+578.1	and we're going to see if babies
+578.1	can use that to make different decisions
+581.555	about what to do.
+583.389	Here's the setup.
+586.071	Hyowon is going to try to make
+586.071	the toy go and succeed.
+589.101	I am then going to try twice
+589.101	and fail both times,
+592.421	and then Hyowon is going
+592.421	to try again and succeed,
+595.533	and this roughly sums up my relationship
+595.533	to my graduate students
+598.705	in technology across the board.
+602.03	But the important point here is
+602.03	it provides a little bit of evidence
+605.322	that the problem isn't with the toy,
+605.322	it's with the person.
+608.99	Some people can make this toy go,
+611.34	and some can't.
+612.799	Now, when the baby gets the toy,
+612.799	he's going to have a choice.
+616.212	His mom is right there,
+618.4	so he can go ahead and hand off the toy
+618.4	and change the person,
+621.715	but there's also going to be
+621.715	another toy at the end of that cloth,
+624.873	and he can pull the cloth towards him
+624.873	and change the toy.
+628.425	So let's see what the baby does.
+630.515	(Video) HG: Two, three. Go!
+630.515	(Music)
+634.698	LS: One, two, three, go!
+637.829	Arthur, I'm going to try again.
+637.829	One, two, three, go!
+645.677	YG: Arthur, let me try again, okay?
+648.277	One, two, three, go!
+648.277	(Music)
+653.583	Look at that. Remember these toys?
+655.466	See these toys? Yeah, I'm going
+655.466	to put this one over here,
+658.73	and I'm going to give this one to you.
+660.792	You can go ahead and play.
+683.213	LS: Okay, Laura, but of course,
+683.213	babies love their mommies.
+687.95	Of course babies give toys
+687.95	to their mommies
+690.132	when they can't make them work.
+692.162	So again, the really important question
+692.162	is what happens when we change
+695.755	the statistical data ever so slightly.
+698.909	This time, babies are going to see the toy
+698.909	work and fail in exactly the same order,
+702.996	but we're changing
+702.996	the distribution of evidence.
+705.411	This time, Hyowon is going to succeed
+705.411	once and fail once, and so am I.
+709.822	And this suggests it doesn't matter
+709.822	who tries this toy, the toy is broken.
+715.459	It doesn't work all the time.
+717.345	Again, the baby's going to have a choice.
+719.31	Her mom is right next to her,
+719.31	so she can change the person,
+722.706	and there's going to be another toy
+722.706	at the end of the cloth.
+725.91	Let's watch what she does.
+727.288	(Video) HG: Two, three, go!
+727.288	(Music)
+731.636	Let me try one more time.
+731.636	One, two, three, go!
+737.46	Hmm.
+739.95	LS: Let me try, Clara.
+742.642	One, two, three, go!
+747.265	Hmm, let me try again.
+749.2	One, two, three, go!
+749.2	(Music)
+755.009	HG: I'm going
+755.009	to put this one over here,
+757.242	and I'm going to give this one to you.
+759.243	You can go ahead and play.
+778.376	(Applause)
+784.993	LS: Let me show you
+784.993	the experimental results.
+787.385	On the vertical axis,
+787.385	you'll see the distribution
+789.86	of children's choices in each condition,
+792.437	and you'll see that the distribution
+792.437	of the choices children make
+796.988	depends on the evidence they observe.
+799.775	So in the second year of life,
+801.632	babies can use a tiny bit
+801.632	of statistical data
+804.209	to decide between two
+804.209	fundamentally different strategies
+807.576	for acting in the world:
+809.457	asking for help and exploring.
+813.7	I've just shown you
+813.7	two laboratory experiments
+817.134	out of literally hundreds in the field
+817.134	that make similar points,
+820.825	because the really critical point
+823.217	is that children's ability
+823.217	to make rich inferences from sparse data
+828.325	underlies all the species-specific
+828.325	cultural learning that we do.
+833.666	Children learn about new tools
+833.666	from just a few examples.
+838.263	They learn new causal relationships
+838.263	from just a few examples.
+843.928	They even learn new words,
+843.928	in this case in American Sign Language.
+848.799	I want to close with just two points.
+852.05	If you've been following my world,
+852.05	the field of brain and cognitive sciences,
+855.738	for the past few years,
+857.665	three big ideas will have come
+857.665	to your attention.
+860.08	The first is that this is
+860.08	the era of the brain.
+863.516	And indeed, there have been
+863.516	staggering discoveries in neuroscience:
+867.185	localizing functionally specialized
+867.185	regions of cortex,
+870.621	turning mouse brains transparent,
+873.222	activating neurons with light.
+876.998	A second big idea
+878.994	is that this is the era of big data
+878.994	and machine learning,
+883.098	and machine learning promises
+883.098	to revolutionize our understanding
+886.239	of everything from social networks
+886.239	to epidemiology.
+890.906	And maybe, as it tackles problems
+890.906	of scene understanding
+893.599	and natural language processing,
+895.592	to tell us something
+895.592	about human cognition.
+899.756	And the final big idea you'll have heard
+901.693	is that maybe it's a good idea we're going
+901.693	to know so much about brains
+905.08	and have so much access to big data,
+906.997	because left to our own devices,
+909.504	humans are fallible, we take shortcuts,
+913.335	we err, we make mistakes,
+916.772	we're biased, and in innumerable ways,
+920.456	we get the world wrong.
+924.843	I think these are all important stories,
+927.792	and they have a lot to tell us
+927.792	about what it means to be human,
+931.577	but I want you to note that today
+931.577	I told you a very different story.
+935.966	It's a story about minds and not brains,
+939.773	and in particular, it's a story
+939.773	about the kinds of computations
+942.779	that uniquely human minds can perform,
+945.369	which involve rich, structured knowledge
+945.369	and the ability to learn
+949.313	from small amounts of data,
+949.313	the evidence of just a few examples.
+956.301	And fundamentally, it's a story
+956.301	about how starting as very small children
+960.6	and continuing out all the way
+960.6	to the greatest accomplishments
+964.78	of our culture,
+968.623	we get the world right.
+972.433	Folks, human minds do not only learn
+972.433	from small amounts of data.
+978.285	Human minds think
+978.285	of altogether new ideas.
+980.746	Human minds generate
+980.746	research and discovery,
+983.787	and human minds generate
+983.787	art and literature and poetry and theater,
+989.07	and human minds take care of other humans:
+992.83	our old, our young, our sick.
+996.517	We even heal them.
+999.564	In the years to come, we're going
+999.564	to see technological innovations
+1002.667	beyond anything I can even envision,
+1006.464	but we are very unlikely
+1008.614	to see anything even approximating
+1008.614	the computational power of a human child
+1014.323	in my lifetime or in yours.
+1018.621	If we invest in these most powerful
+1018.621	learners and their development,
+1023.668	in babies and children
+1026.585	and mothers and fathers
+1028.411	and caregivers and teachers
+1031.11	the ways we invest in our other
+1031.11	most powerful and elegant forms
+1035.28	of technology, engineering and design,
+1038.498	we will not just be dreaming
+1038.498	of a better future,
+1041.437	we will be planning for one.
+1043.564	Thank you very much.
+1045.909	(Applause)
+1049.81	Chris Anderson: Laura, thank you.
+1049.81	I do actually have a question for you.
+1054.236	First of all, the research is insane.
+1056.595	I mean, who would design
+1056.595	an experiment like that? (Laughter)
+1061.15	I've seen that a couple of times,
+1062.94	and I still don't honestly believe
+1062.94	that that can truly be happening,
+1066.162	but other people have done
+1066.162	similar experiments; it checks out.
+1069.32	The babies really are that genius.
+1070.953	LS: You know, they look really impressive
+1070.953	in our experiments,
+1073.96	but think about what they
+1073.96	look like in real life, right?
+1076.612	It starts out as a baby.
+1077.762	Eighteen months later,
+1077.762	it's talking to you,
+1079.769	and babies' first words aren't just
+1079.769	things like balls and ducks,
+1082.81	"they're things like ""all gone,"""
+1082.81	which refer to disappearance,
+1085.691	"or ""uh-oh,"" which refer"
+1085.691	to unintentional actions.
+1087.974	It has to be that powerful.
+1089.536	It has to be much more powerful
+1089.536	than anything I showed you.
+1092.311	They're figuring out the entire world.
+1094.285	A four-year-old can talk to you
+1094.285	about almost anything.
+1097.429	(Applause)
+1099.03	CA: And if I understand you right,
+1099.03	the other key point you're making is,
+1102.444	we've been through these years
+1102.444	where there's all this talk
+1105.198	of how quirky and buggy our minds are,
+1107.13	that behavioral economics
+1107.13	and the whole theories behind that
+1109.997	that we're not rational agents.
+1111.6	You're really saying that the bigger
+1111.6	story is how extraordinary,
+1115.816	and there really is genius there
+1115.816	that is underappreciated.
+1120.76	LS: One of my favorite
+1120.76	quotes in psychology
+1122.83	comes from the social
+1122.83	psychologist Solomon Asch,
+1125.12	and he said the fundamental task
+1125.12	of psychology is to remove
+1127.927	the veil of self-evidence from things.
+1130.553	There are orders of magnitude
+1130.553	more decisions you make every day
+1135.104	that get the world right.
+1136.451	You know about objects
+1136.451	and their properties.
+1138.583	You know them when they're occluded.
+1138.583	You know them in the dark.
+1141.612	You can walk through rooms.
+1142.92	You can figure out what other people
+1142.92	are thinking. You can talk to them.
+1146.452	You can navigate space.
+1146.452	You know about numbers.
+1148.682	You know causal relationships.
+1148.682	You know about moral reasoning.
+1151.704	You do this effortlessly,
+1151.704	so we don't see it,
+1154.06	but that is how we get the world right,
+1154.06	and it's a remarkable
+1156.972	and very difficult-to-understand
+1156.972	accomplishment.
+1159.29	CA: I suspect there are people
+1159.29	in the audience who have
+1161.918	this view of accelerating
+1161.918	technological power
+1164.156	who might dispute your statement
+1164.156	that never in our lifetimes
+1167.114	will a computer do what
+1167.114	a three-year-old child can do,
+1169.732	but what's clear is that in any scenario,
+1172.98	our machines have so much to learn
+1172.98	from our toddlers.
+1178.23	LS: I think so. You'll have some
+1178.23	machine learning folks up here.
+1181.446	I mean, you should never bet
+1181.446	against babies or chimpanzees
+1185.649	or technology as a matter of practice,
+1189.294	but it's not just
+1189.294	a difference in quantity,
+1193.822	it's a difference in kind.
+1195.586	We have incredibly powerful computers,
+1197.746	and they do do amazingly
+1197.746	sophisticated things,
+1200.137	often with very big amounts of data.
+1203.341	Human minds do, I think,
+1203.341	something quite different,
+1205.948	and I think it's the structured,
+1205.948	hierarchical nature of human knowledge
+1209.843	that remains a real challenge.
+1211.875	CA: Laura Schulz, wonderful
+1211.875	food for thought. Thank you so much.
+1214.936	LS: Thank you.
+1214.936	(Applause)

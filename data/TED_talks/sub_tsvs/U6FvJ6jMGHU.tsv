@@ -1,0 +1,460 @@
+startsecond	text
+0	Translator: Morton Bast
+0	Reviewer: Thu-Huong Ha
+15.985	Like many of you, I'm one of the lucky people.
+19.096	I was born to a family where education was pervasive.
+22.496	I'm a third-generation PhD, a daughter of two academics.
+26.734	In my childhood, I played around in my father's university lab.
+30.528	So it was taken for granted that I attend some of the best universities,
+34.377	which in turn opened the door to a world of opportunity.
+38.178	Unfortunately, most of the people in the world are not so lucky.
+42.298	In some parts of the world, for example, South Africa,
+45.433	education is just not readily accessible.
+48.138	In South Africa, the educational system was constructed
+51.113	in the days of apartheid for the white minority.
+53.986	And as a consequence, today there is just not enough spots
+56.686	for the many more people who want and deserve a high quality education.
+60.538	That scarcity led to a crisis in January of this year
+64.418	at the University of Johannesburg.
+66.254	There were a handful of positions left open
+68.385	from the standard admissions process, and the night before
+71.354	they were supposed to open that for registration,
+73.914	thousands of people lined up outside the gate in a line a mile long,
+77.966	hoping to be first in line to get one of those positions.
+81.846	When the gates opened, there was a stampede,
+84.154	and 20 people were injured and one woman died.
+87.806	She was a mother who gave her life
+89.746	trying to get her son a chance at a better life.
+93.809	But even in parts of the world like the United States
+96.966	where education is available, it might not be within reach.
+101.322	There has been much discussed in the last few years
+103.994	about the rising cost of health care.
+105.983	What might not be quite as obvious to people
+108.625	is that during that same period the cost of higher education tuition
+112.647	has been increasing at almost twice the rate,
+115.127	for a total of 559 percent since 1985.
+119.407	This makes education unaffordable for many people.
+123.941	Finally, even for those who do manage to get the higher education,
+127.742	the doors of opportunity might not open.
+130.367	Only a little over half of recent college graduates
+133.574	in the United States who get a higher education
+135.887	actually are working in jobs that require that education.
+139.35	This, of course, is not true for the students
+141.19	who graduate from the top institutions,
+143.142	but for many others, they do not get the value
+145.774	for their time and their effort.
+149.31	Tom Friedman, in his recent New York Times article,
+152.34	captured, in the way that no one else could, the spirit behind our effort.
+156.708	He said the big breakthroughs are what happen
+159.828	when what is suddenly possible meets what is desperately necessary.
+163.727	I've talked about what's desperately necessary.
+166.348	Let's talk about what's suddenly possible.
+168.86	What's suddenly possible was demonstrated by
+171.979	three big Stanford classes,
+173.547	each of which had an enrollment of 100,000 people or more.
+177.427	So to understand this, let's look at one of those classes,
+180.811	the Machine Learning class offered by my colleague
+182.731	and cofounder Andrew Ng.
+184.46	Andrew teaches one of the bigger Stanford classes.
+186.779	It's a Machine Learning class,
+187.988	and it has 400 people enrolled every time it's offered.
+191.506	When Andrew taught the Machine Learning class to the general public,
+194.771	it had 100,000 people registered.
+197.387	So to put that number in perspective,
+199.396	for Andrew to reach that same size audience
+201.755	by teaching a Stanford class,
+203.581	he would have to do that for 250 years.
+207.507	Of course, he'd get really bored.
+210.993	So, having seen the impact of this,
+213.73	Andrew and I decided that we needed to really try and scale this up,
+216.858	to bring the best quality education to as many people as we could.
+220.978	So we formed Coursera,
+222.473	whose goal is to take the best courses
+225.61	from the best instructors at the best universities
+228.927	and provide it to everyone around the world for free.
+232.955	We currently have 43 courses on the platform
+235.555	from four universities across a range of disciplines,
+238.754	and let me show you a little bit of an overview
+240.587	of what that looks like.
+243.865	(Video) Robert Ghrist: Welcome to Calculus.
+245.078	Ezekiel Emanuel: Fifty million people are uninsured.
+246.958	Scott Page: Models help us design more effective institutions and policies.
+250.229	We get unbelievable segregation.
+252.637	Scott Klemmer: So Bush imagined that in the future,
+254.429	you'd wear a camera right in the center of your head.
+256.807	Mitchell Duneier: Mills wants the student of sociology to develop the quality of mind ...
+261.061	RG: Hanging cable takes on the form of a hyperbolic cosine.
+264.726	Nick Parlante: For each pixel in the image, set the red to zero.
+267.797	Paul Offit: ... Vaccine allowed us to eliminate polio virus.
+270.774	Dan Jurafsky: Does Lufthansa serve breakfast and San Jose? Well, that sounds funny.
+274.397	Daphne Koller: So this is which coin you pick, and this is the two tosses.
+278.013	Andrew Ng: So in large-scale machine learning, we'd like to come up with computational ...
+281.7	(Applause)
+287.309	DK: It turns out, maybe not surprisingly,
+289.583	that students like getting the best content
+291.821	from the best universities for free.
+294.708	Since we opened the website in February,
+297.23	we now have 640,000 students from 190 countries.
+301.588	We have 1.5 million enrollments,
+303.74	6 million quizzes in the 15 classes that have launched
+306.59	so far have been submitted, and 14 million videos have been viewed.
+311.506	But it's not just about the numbers,
+314.024	it's also about the people.
+315.665	Whether it's Akash, who comes from a small town in India
+318.641	and would never have access in this case
+320.816	to a Stanford-quality course
+322.305	and would never be able to afford it.
+324.82	Or Jenny, who is a single mother of two
+326.858	and wants to hone her skills
+328.825	so that she can go back and complete her master's degree.
+331.96	Or Ryan, who can't go to school,
+335.096	because his immune deficient daughter
+336.961	can't be risked to have germs come into the house,
+340.344	so he couldn't leave the house.
+342.184	I'm really glad to say --
+343.816	recently, we've been in correspondence with Ryan --
+346.068	that this story had a happy ending.
+348	Baby Shannon -- you can see her on the left --
+349.903	is doing much better now,
+351.254	and Ryan got a job by taking some of our courses.
+355.452	So what made these courses so different?
+357.696	After all, online course content has been available for a while.
+361.416	What made it different was that this was real course experience.
+365.128	It started on a given day,
+366.854	and then the students would watch videos on a weekly basis
+370.488	and do homework assignments.
+372.343	And these would be real homework assignments
+374.134	for a real grade, with a real deadline.
+377.438	You can see the deadlines and the usage graph.
+379.494	These are the spikes showing
+381.582	that procrastination is global phenomenon.
+385.371	(Laughter)
+387.947	At the end of the course,
+389.619	the students got a certificate.
+391.475	They could present that certificate
+393.635	to a prospective employer and get a better job,
+395.788	and we know many students who did.
+397.848	Some students took their certificate
+399.767	and presented this to an educational institution at which they were enrolled
+402.889	for actual college credit.
+404.73	So these students were really getting something meaningful
+406.944	for their investment of time and effort.
+409.778	Let's talk a little bit about some of the components
+412.333	that go into these courses.
+414.225	The first component is that when you move away
+416.853	from the constraints of a physical classroom
+419.15	and design content explicitly for an online format,
+421.99	you can break away from, for example,
+424.518	the monolithic one-hour lecture.
+426.933	You can break up the material, for example,
+428.718	into these short, modular units of eight to 12 minutes,
+432.094	each of which represents a coherent concept.
+435.068	Students can traverse this material in different ways,
+437.638	depending on their background, their skills or their interests.
+441.342	So, for example, some students might benefit
+443.862	from a little bit of preparatory material
+446.622	that other students might already have.
+448.693	Other students might be interested in a particular
+451.133	enrichment topic that they want to pursue individually.
+454.219	So this format allows us to break away
+457.454	from the one-size-fits-all model of education,
+460.278	and allows students to follow a much more personalized curriculum.
+464.27	Of course, we all know as educators
+466.613	that students don't learn by sitting and passively watching videos.
+469.973	Perhaps one of the biggest components of this effort
+472.918	is that we need to have students
+475.51	who practice with the material
+477.919	in order to really understand it.
+481.075	There's been a range of studies that demonstrate the importance of this.
+484.343	This one that appeared in Science last year, for example,
+486.875	demonstrates that even simple retrieval practice,
+489.707	where students are just supposed to repeat
+492.499	what they already learned
+493.899	gives considerably improved results
+495.819	on various achievement tests down the line
+498.088	than many other educational interventions.
+502.392	We've tried to build in retrieval practice into the platform,
+505.354	as well as other forms of practice in many ways.
+507.608	For example, even our videos are not just videos.
+511.752	Every few minutes, the video pauses
+513.795	and the students get asked a question.
+515.946	(Video) SP: ... These four things. Prospect theory, hyperbolic discounting,
+518.167	status quo bias, base rate bias. They're all well documented.
+521.259	So they're all well documented deviations from rational behavior.
+524.026	DK: So here the video pauses,
+525.65	and the student types in the answer into the box
+527.906	and submits. Obviously they weren't paying attention.
+531.144	(Laughter)
+532.013	So they get to try again,
+534.023	and this time they got it right.
+536.559	There's an optional explanation if they want.
+538.752	And now the video moves on to the next part of the lecture.
+543.009	This is a kind of simple question
+544.887	that I as an instructor might ask in class,
+546.968	but when I ask that kind of a question in class,
+550.768	are still scribbling the last thing I said,
+555.955	and then there's the smarty pants in the front row
+558.411	who blurts out the answer
+559.77	before anyone else has had a chance to think about it,
+561.977	and I as the instructor am terribly gratified
+564.849	that somebody actually knew the answer.
+566.497	And so the lecture moves on before, really,
+569.289	most of the students have even noticed that a question had been asked.
+572.818	Here, every single student
+575.425	has to engage with the material.
+578.209	And of course these simple retrieval questions
+580.145	are not the end of the story.
+581.807	One needs to build in much more meaningful practice questions,
+584.777	and one also needs to provide the students with feedback
+587.13	on those questions.
+588.793	Now, how do you grade the work of 100,000 students
+591.681	if you do not have 10,000 TAs?
+594.763	The answer is, you need to use technology
+597.117	to do it for you.
+598.612	Now, fortunately, technology has come a long way,
+601.26	and we can now grade a range of interesting types of homework.
+604.528	In addition to multiple choice
+606.055	and the kinds of short answer questions that you saw in the video,
+609.208	we can also grade math, mathematical expressions
+612.468	as well as mathematical derivations.
+614.42	We can grade models, whether it's
+617.294	financial models in a business class
+619.47	or physical models in a science or engineering class
+622.454	and we can grade some pretty sophisticated programming assignments.
+626.198	Let me show you one that's actually pretty simple
+628.117	but fairly visual.
+629.597	This is from Stanford's Computer Science 101 class,
+632.074	and the students are supposed to color-correct
+633.678	that blurry red image.
+635.27	They're typing their program into the browser,
+637.288	and you can see they didn't get it quite right, Lady Liberty is still seasick.
+641.346	And so, the student tries again, and now they got it right, and they're told that,
+645.102	and they can move on to the next assignment.
+647.461	This ability to interact actively with the material
+650.609	and be told when you're right or wrong
+652.293	is really essential to student learning.
+655.419	Now, of course we cannot yet grade
+657.694	the range of work that one needs for all courses.
+660.528	Specifically, what's lacking is the kind of critical thinking work
+663.829	that is so essential in such disciplines
+665.751	as the humanities, the social sciences, business and others.
+669.348	So we tried to convince, for example,
+671.597	some of our humanities faculty
+673.213	that multiple choice was not such a bad strategy.
+675.909	That didn't go over really well.
+678.1	So we had to come up with a different solution.
+680.533	And the solution we ended up using is peer grading.
+683.607	It turns out that previous studies show,
+686.029	like this one by Saddler and Good,
+687.701	that peer grading is a surprisingly effective strategy
+690.189	for providing reproducible grades.
+693.403	It was tried only in small classes,
+695.173	but there it showed, for example,
+696.66	that these student-assigned grades on the y-axis
+699.142	are actually very well correlated
+700.453	with the teacher-assigned grade on the x-axis.
+702.749	What's even more surprising is that self-grades,
+705.909	where the students grade their own work critically --
+708.22	so long as you incentivize them properly
+709.957	so they can't give themselves a perfect score --
+711.895	are actually even better correlated with the teacher grades.
+715.086	And so this is an effective strategy
+716.693	that can be used for grading at scale,
+718.797	and is also a useful learning strategy for the students,
+721.533	because they actually learn from the experience.
+723.788	So we now have the largest peer-grading pipeline ever devised,
+728.437	where tens of thousands of students
+730.941	are grading each other's work,
+732.139	and quite successfully, I have to say.
+735.208	But this is not just about students
+737.468	sitting alone in their living room working through problems.
+740.509	Around each one of our courses,
+742.316	a community of students had formed,
+744.476	a global community of people
+746.356	around a shared intellectual endeavor.
+748.888	What you see here is a self-generated map
+751.54	from students in our Princeton Sociology 101 course,
+754.501	where they have put themselves on a world map,
+757.26	and you can really see the global reach of this kind of effort.
+760.22	Students collaborated in these courses in a variety of different ways.
+764.787	First of all, there was a question and answer forum,
+767.426	where students would pose questions,
+769.57	and other students would answer those questions.
+771.994	And the really amazing thing is,
+773.707	because there were so many students,
+775.377	it means that even if a student posed a question
+777.742	at 3 o'clock in the morning,
+779.374	somewhere around the world,
+780.956	there would be somebody who was awake
+783.03	and working on the same problem.
+785.343	And so, in many of our courses,
+787.301	the median response time for a question
+789.63	on the question and answer forum was 22 minutes.
+793.048	Which is not a level of service I have ever offered to my Stanford students.
+797.625	(Laughter)
+798.966	And you can see from the student testimonials
+800.908	that students actually find
+802.595	that because of this large online community,
+805.116	they got to interact with each other in many ways
+807.715	that were deeper than they did in the context of the physical classroom.
+811.908	Students also self-assembled,
+814.252	without any kind of intervention from us,
+816.115	into small study groups.
+818.018	Some of these were physical study groups
+820.38	along geographical constraints
+822.206	and met on a weekly basis to work through problem sets.
+824.928	This is the San Francisco study group,
+826.828	but there were ones all over the world.
+829.147	Others were virtual study groups,
+831.179	sometimes along language lines or along cultural lines,
+834.168	and on the bottom left there,
+835.612	you see our multicultural universal study group
+839.408	where people explicitly wanted to connect
+841.171	with people from other cultures.
+844.177	There are some tremendous opportunities
+846.288	to be had from this kind of framework.
+849.613	The first is that it has the potential of giving us
+853.267	a completely unprecedented look
+855.701	into understanding human learning.
+857.99	Because the data that we can collect here is unique.
+861.453	You can collect every click, every homework submission,
+865.462	every forum post from tens of thousands of students.
+869.825	So you can turn the study of human learning
+872.168	from the hypothesis-driven mode
+874.101	to the data-driven mode, a transformation that,
+876.959	for example, has revolutionized biology.
+880	You can use these data to understand fundamental questions
+883.424	like, what are good learning strategies
+885.304	that are effective versus ones that are not?
+888	And in the context of particular courses,
+890.24	you can ask questions
+891.777	like, what are some of the misconceptions that are more common
+895.032	and how do we help students fix them?
+897.209	So here's an example of that,
+898.633	also from Andrew's Machine Learning class.
+900.649	This is a distribution of wrong answers
+902.857	to one of Andrew's assignments.
+904.467	The answers happen to be pairs of numbers,
+906.36	so you can draw them on this two-dimensional plot.
+908.631	Each of the little crosses that you see is a different wrong answer.
+912.409	The big cross at the top left
+914.815	is where 2,000 students
+916.963	gave the exact same wrong answer.
+920.008	Now, if two students in a class of 100
+922.335	give the same wrong answer,
+923.622	you would never notice.
+924.973	But when 2,000 students give the same wrong answer,
+927.533	it's kind of hard to miss.
+929.23	So Andrew and his students went in,
+931.422	looked at some of those assignments,
+932.942	understood the root cause of the misconception,
+937.03	and then they produced a targeted error message
+939.55	that would be provided to every student
+941.799	whose answer fell into that bucket,
+943.978	which means that students who made that same mistake
+946.062	would now get personalized feedback
+948.088	telling them how to fix their misconception much more effectively.
+952.487	So this personalization is something that one can then build
+956.298	by having the virtue of large numbers.
+959.438	Personalization is perhaps
+961.75	one of the biggest opportunities here as well,
+964.173	because it provides us with the potential
+966.518	of solving a 30-year-old problem.
+969.208	Educational researcher Benjamin Bloom, in 1984,
+972.557	posed what's called the 2 sigma problem,
+974.808	which he observed by studying three populations.
+977.87	The first is the population that studied in a lecture-based classroom.
+981.478	The second is a population of students that studied
+984.255	using a standard lecture-based classroom,
+985.974	but with a mastery-based approach,
+988.054	so the students couldn't move on to the next topic
+989.974	before demonstrating mastery of the previous one.
+993.328	And finally, there was a population of students
+995.622	that were taught in a one-on-one instruction using a tutor.
+1000.15	The mastery-based population was a full standard deviation,
+1003.422	or sigma, in achievement scores better
+1005.71	than the standard lecture-based class,
+1008.104	and the individual tutoring gives you 2 sigma
+1010.248	improvement in performance.
+1012.078	To understand what that means,
+1013.541	let's look at the lecture-based classroom,
+1015.374	and let's pick the median performance as a threshold.
+1018.293	So in a lecture-based class,
+1019.631	half the students are above that level and half are below.
+1023.51	In the individual tutoring instruction,
+1030.409	Imagine if we could teach so that 98 percent of our students
+1034.329	would be above average.
+1036.527	Hence, the 2 sigma problem.
+1039.95	Because we cannot afford, as a society,
+1042.349	to provide every student with an individual human tutor.
+1045.421	But maybe we can afford to provide each student
+1047.67	with a computer or a smartphone.
+1049.689	So the question is, how can we use technology
+1051.878	to push from the left side of the graph, from the blue curve,
+1055.253	to the right side with the green curve?
+1057.991	Mastery is easy to achieve using a computer,
+1060.328	because a computer doesn't get tired
+1061.733	of showing you the same video five times.
+1064.806	And it doesn't even get tired of grading the same work multiple times,
+1068.062	we've seen that in many of the examples that I've shown you.
+1071.088	And even personalization
+1072.942	is something that we're starting to see the beginnings of,
+1075.078	whether it's via the personalized trajectory through the curriculum
+1078.27	or some of the personalized feedback that we've shown you.
+1081.534	So the goal here is to try and push,
+1084.022	and see how far we can get towards the green curve.
+1087.519	So, if this is so great, are universities now obsolete?
+1092.878	Well, Mark Twain certainly thought so.
+1095.87	"He said that, ""College is a place where a professor's lecture notes"
+1098.415	go straight to the students' lecture notes,
+1100.118	"without passing through the brains of either."""
+1102.494	(Laughter)
+1106.541	I beg to differ with Mark Twain, though.
+1109.209	I think what he was complaining about is not
+1111.874	universities but rather the lecture-based format
+1114.624	that so many universities spend so much time on.
+1117.408	So let's go back even further, to Plutarch,
+1120.567	"who said that, ""The mind is not a vessel that needs filling,"
+1122.794	"but wood that needs igniting."""
+1124.817	And maybe we should spend less time at universities
+1127.007	filling our students' minds with content
+1129.578	by lecturing at them, and more time igniting their creativity,
+1133.378	their imagination and their problem-solving skills
+1136.633	by actually talking with them.
+1139.131	So how do we do that?
+1140.498	We do that by doing active learning in the classroom.
+1143.929	So there's been many studies, including this one,
+1146.378	that show that if you use active learning,
+1148.458	interacting with your students in the classroom,
+1150.874	performance improves on every single metric --
+1153.57	on attendance, on engagement and on learning
+1156.019	as measured by a standardized test.
+1158.074	You can see, for example, that the achievement score
+1159.938	almost doubles in this particular experiment.
+1162.808	So maybe this is how we should spend our time at universities.
+1167.209	So to summarize, if we could offer a top quality education
+1171.786	to everyone around the world for free,
+1173.689	what would that do? Three things.
+1176.51	First it would establish education as a fundamental human right,
+1179.931	where anyone around the world
+1181.297	with the ability and the motivation
+1183.218	could get the skills that they need
+1185.169	to make a better life for themselves,
+1186.754	their families and their communities.
+1188.771	Second, it would enable lifelong learning.
+1191.402	It's a shame that for so many people,
+1193.353	learning stops when we finish high school or when we finish college.
+1196.665	By having this amazing content be available,
+1199.146	we would be able to learn something new
+1201.889	every time we wanted,
+1203.025	whether it's just to expand our minds
+1204.354	or it's to change our lives.
+1206.313	And finally, this would enable a wave of innovation,
+1209.458	because amazing talent can be found anywhere.
+1212.53	Maybe the next Albert Einstein or the next Steve Jobs
+1215.538	is living somewhere in a remote village in Africa.
+1218.153	And if we could offer that person an education,
+1220.809	they would be able to come up with the next big idea
+1223.165	and make the world a better place for all of us.
+1225.569	Thank you very much.
+1226.729	(Applause)

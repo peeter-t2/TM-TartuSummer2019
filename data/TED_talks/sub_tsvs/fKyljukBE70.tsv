@@ -1,0 +1,212 @@
+startsecond	text
+15.26	I was offered a position
+15.26	as associate professor of medicine
+18.998	and chief of scientific visualization
+21.83	at Yale University
+23.831	in the department of medicine.
+25.464	And my job was to write
+25.464	many of the algorithms and code
+28.26	for NASA to do virtual surgery
+30.26	in preparation for the astronauts
+30.26	going into deep-space flight,
+33.26	so they could be kept in robotic pods.
+35.26	One of the fascinating things
+35.26	about what we were working on
+38.19	is that we were seeing,
+38.19	using new scanning technologies,
+41.232	things that had never been seen before.
+43.237	Not only in disease management,
+44.835	but also things that allowed us
+44.835	to see things about the body
+48.26	that just made you marvel.
+51.26	I remember one of the first times
+51.26	we were looking at collagen.
+54.26	And your entire body, everything --
+56.26	your hair, skin, bone, nails --
+58.26	everything is made of collagen.
+60.26	And it's a kind of rope-like structure
+60.26	that twirls and swirls like this.
+65.212	And the only place that collagen
+65.212	changes its structure
+69.441	is in the cornea of your eye.
+71.241	In your eye,
+71.241	it becomes a grid formation,
+74.64	and therefore, it becomes
+74.64	transparent, as opposed to opaque.
+77.971	So perfectly organized a structure,
+80.26	it was hard not to attribute
+80.26	divinity to it.
+82.798	Because we kept on seeing this
+82.798	in different parts of the body.
+87.92	One of the opportunities I had
+90.26	was one person was working
+90.26	on a really interesting
+92.665	micromagnetic resonance
+92.665	imaging machine with the NIH.
+95.26	And what we were going to do
+97.26	was scan a new project
+99.26	on the development of the fetus
+99.26	from conception to birth
+102.114	using these new technologies.
+103.812	So I wrote the algorithms and code,
+105.793	and he built the hardware --
+105.793	Paul Lauterbur --
+108.26	then went onto win the Nobel
+108.26	Prize for inventing the MRI.
+111.817	I got the data.
+113.26	And I'm going to show you
+113.26	a sample of the piece,
+115.944	"""From Conception to Birth."""
+117.541	(Music)
+122.727	[From Conception to Birth]
+129.044	[Oocyte]
+134.26	[Sperm]
+140.26	[Egg Inseminated]
+147.656	[24 Hours: Baby's first division]
+153.26	[The fertilized ovum divides
+153.26	a few hours after fusion...]
+158.26	[And divides anew every 12 to 15 hours.]
+162.112	[Early Embryo]
+165.155	[Yolk sack still feeding baby.]
+168.26	[25 Days: Heart chamber developing.]
+176.044	[32 Days: Arms &amp; hands are developing]
+185.668	[36 Days: Beginning
+185.668	of the primitive vertebrae]
+191.26	[These weeks are the period
+191.26	of the most rapid development
+195.554	of the fetus.]
+204.26	[If the fetus continues to grow
+204.26	at this speed for the entire 9 months,
+207.713	it would be 1.5 tons at birth.]
+211.26	[45 Days]
+220.076	[Embryo's heart is beating
+220.076	twice as fast as the mother's.]
+226.26	[51 Days]
+229.26	[Developing retina, nose and fingers]
+244.017	[The fetus' continual movement in the womb
+248.26	is necessary for muscular
+248.26	and skeletal growth.]
+265.26	[12 Weeks: Indifferent penis]
+267.26	[Girl or boy yet to be determined]
+271.94	[8 Months]
+301.26	[Delivery: The expulsion stage]
+343.395	[The moment of birth]
+353.507	(Applause)
+357.101	Alexander Tsiaras: Thank you.
+359.525	But as you can see,
+360.826	when you actually start
+360.826	working on this data,
+363.027	it's pretty spectacular.
+364.26	And as we kept on scanning more and more,
+366.899	working on this project,
+369.118	looking at these two simple cells
+371.213	that have this unbelievable machinery
+371.213	that will become the magic of you.
+375.26	And as we kept on working on this data,
+377.26	looking at small clusters of the body,
+380.26	these little pieces of tissue
+383.26	that were the trophoblasts
+383.26	coming off of the blastocyst,
+386.216	all of a sudden burrowing itself
+386.216	into the side of the uterus,
+389.202	"saying, ""I'm here to stay."""
+390.56	Having conversation and communications
+392.46	with the estrogens, the progesterones,
+394.36	"saying, ""I'm here to stay, plant me,"""
+397.04	building this incredible trilinear fetus
+400.35	that becomes, within 44 days,
+400.35	something that you can recognize,
+403.46	and then at nine weeks
+403.46	is really kind of a little human being.
+407.26	The marvel of this information:
+409.26	How do we actually have
+409.26	this biological mechanism
+412.652	inside our body
+413.976	to actually see this information?
+415.889	I'm going to show you
+415.889	something pretty unique.
+418.2	Here's a human heart at 25 days.
+420.217	It's just basically two strands.
+421.834	And like this magnificent origami,
+423.56	cells are developing at one million cells
+423.56	per second at four weeks,
+428.26	as it's just folding on itself.
+430.26	Within five weeks, you start to see
+430.26	the early atrium and the early ventricles.
+434.065	Six weeks, these folds are now beginning
+436.309	with the papilla
+436.309	on the inside of the heart
+438.49	actually being able to pull down
+438.49	each one of those valves in your heart
+441.96	until you get a mature heart --
+444.26	and then basically the development
+444.26	of the entire human body.
+447.173	The magic of the mechanisms
+447.173	inside each genetic structure
+451.26	saying exactly where
+451.26	that nerve cell should go --
+454.26	the complexity of these,
+456.29	the mathematical models
+456.29	of how these things are indeed done
+459.211	are beyond human comprehension.
+461.106	Even though I am a mathematician,
+463.053	I look at this with marvel
+464.992	of how do these instruction sets
+464.992	not make these mistakes
+469.26	as they build what is us?
+471.26	It's a mystery, it's magic, it's divinity.
+473.284	Then you start to take
+473.284	a look at adult life.
+476.26	Take a look at this
+476.26	little tuft of capillaries.
+478.523	It's just a tiny
+478.523	sub-substructure, microscopic.
+481.26	But basically by the time you're
+481.26	nine months and you're given birth,
+485.931	you have almost 60,000 miles
+485.931	of vessels inside your body.
+490.577	And only one mile is visible.
+495.26	that are basically bringing
+495.26	nutrients and taking waste away.
+498.26	The complexity of building
+498.26	that within a single system
+500.945	is, again, beyond any comprehension
+500.945	or any existing mathematics today.
+504.854	And then instructions set,
+506.26	from the brain to every other
+506.26	part of the body --
+509.069	look at the complexity of the folding.
+510.947	Where does this intelligence
+512.36	of knowing that a fold can
+512.36	actually hold more information,
+515.199	so as you actually watch
+515.199	the baby's brain grow.
+517.815	And this is one of the things we're doing.
+519.983	We're launching two new studies
+521.56	of scanning babies' brains
+521.56	from the moment they're born.
+524.357	Every six months
+524.357	until they're six years old,
+526.572	we're going to be doing
+526.572	about 250 children,
+529.26	watching exactly how the gyri
+529.26	and the sulci of the brains fold
+532.987	to see how this magnificent development
+535.048	actually turns into memories
+535.048	and the marvel that is us.
+537.66	And it's not just our own existence,
+539.46	but how does the woman's body understand
+542.326	to have genetic structure
+542.326	that not only builds her own,
+545.031	but then has the understanding
+546.56	that allows her to become
+548.26	a walking immunological,
+548.26	cardiovascular system
+551.26	that basically is a mobile system
+553.26	that can actually nurture,
+555.119	treat this child with a kind of marvel
+557.26	that is beyond, again,
+557.26	our comprehension --
+561.089	the magic that is existence, that is us?
+564.298	Thank you.
+565.46	(Applause)

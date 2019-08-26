@@ -1,0 +1,191 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+12.703	Let's face it:
+14.617	Driving is dangerous.
+17.062	It's one of the things that we don't like to think about,
+20.16	but the fact that religious icons and good luck charms
+23.812	show up on dashboards around the world
+28.602	betrays the fact that we know this to be true.
+32.739	Car accidents are the leading cause of death
+36.333	in people ages 16 to 19 in the United States --
+40.503	leading cause of death --
+43.346	and 75 percent of these accidents have nothing to do
+47.209	with drugs or alcohol.
+49.494	So what happens?
+51.755	No one can say for sure, but I remember my first accident.
+55.974	I was a young driver out on the highway,
+59.777	and the car in front of me, I saw the brake lights go on.
+62.035	"I'm like, ""Okay, all right, this guy is slowing down,"
+63.835	"I'll slow down too."""
+65.117	I step on the brake.
+67.043	But no, this guy isn't slowing down.
+69.297	This guy is stopping, dead stop, dead stop on the highway.
+72.475	It was just going 65 -- to zero?
+75.015	I slammed on the brakes.
+76.535	I felt the ABS kick in, and the car is still going,
+79.594	and it's not going to stop, and I know it's not going to stop,
+82.29	and the air bag deploys, the car is totaled,
+85.229	and fortunately, no one was hurt.
+88.786	But I had no idea that car was stopping,
+92.997	and I think we can do a lot better than that.
+96.642	I think we can transform the driving experience
+100.787	by letting our cars talk to each other.
+104.666	I just want you to think a little bit
+106.09	about what the experience of driving is like now.
+108.978	Get into your car. Close the door. You're in a glass bubble.
+113.006	You can't really directly sense the world around you.
+115.922	You're in this extended body.
+118.103	You're tasked with navigating it down
+120.266	partially-seen roadways,
+122.322	in and amongst other metal giants, at super-human speeds.
+126.746	Okay? And all you have to guide you are your two eyes.
+131.226	Okay, so that's all you have,
+132.988	eyes that weren't really designed for this task,
+134.723	but then people ask you to do things like,
+138.474	you want to make a lane change,
+140.023	what's the first thing they ask you do?
+142.344	Take your eyes off the road. That's right.
+145.439	Stop looking where you're going, turn,
+147.535	check your blind spot,
+149.553	and drive down the road without looking where you're going.
+153.024	You and everyone else. This is the safe way to drive.
+156.159	Why do we do this? Because we have to,
+158.4	we have to make a choice, do I look here or do I look here?
+160.979	What's more important?
+162.5	And usually we do a fantastic job
+165.211	picking and choosing what we attend to on the road.
+168.98	But occasionally we miss something.
+172.63	Occasionally we sense something wrong or too late.
+177.091	In countless accidents, the driver says,
+179.079	"""I didn't see it coming."""
+181.387	And I believe that. I believe that.
+184.668	We can only watch so much.
+187.593	But the technology exists now that can help us improve that.
+192.737	In the future, with cars exchanging data with each other,
+197.033	we will be able to see not just three cars ahead
+200.961	and three cars behind, to the right and left,
+202.555	all at the same time, bird's eye view,
+205.721	we will actually be able to see into those cars.
+208.849	We will be able to see the velocity of the car in front of us,
+211.22	to see how fast that guy's going or stopping.
+214.46	If that guy's going down to zero, I'll know.
+218.97	And with computation and algorithms and predictive models,
+222.829	we will be able to see the future.
+226.102	You may think that's impossible.
+227.658	How can you predict the future? That's really hard.
+230.389	Actually, no. With cars, it's not impossible.
+234.008	Cars are three-dimensional objects
+236.74	that have a fixed position and velocity.
+239.072	They travel down roads.
+240.703	Often they travel on pre-published routes.
+243.115	It's really not that hard to make reasonable predictions
+247.053	about where a car's going to be in the near future.
+249.917	Even if, when you're in your car
+251.919	and some motorcyclist comes -- bshoom! --
+256.209	I know you've had this experience --
+258.756	"that guy didn't ""just come out of nowhere."""
+261.359	That guy's been on the road probably for the last half hour.
+265.002	(Laughter)
+266.192	Right? I mean, somebody's seen him.
+269.781	Ten, 20, 30 miles back, someone's seen that guy,
+272.549	and as soon as one car sees that guy
+274.933	and puts him on the map, he's on the map --
+277.164	position, velocity,
+279.34	good estimate he'll continue going 85 miles an hour.
+281.661	You'll know, because your car will know, because
+283.845	that other car will have whispered something in his ear,
+286.12	"like, ""By the way, five minutes,"
+288.043	"motorcyclist, watch out."""
+290.818	You can make reasonable predictions about how cars behave.
+293.521	I mean, they're Newtonian objects.
+294.886	That's very nice about them.
+297.795	So how do we get there?
+300.829	We can start with something as simple
+303.095	as sharing our position data between cars,
+305.965	just sharing GPS.
+307.857	If I have a GPS and a camera in my car,
+310.301	I have a pretty precise idea of where I am
+312.532	and how fast I'm going.
+314.264	With computer vision, I can estimate where
+315.921	the cars around me are, sort of, and where they're going.
+319.458	And same with the other cars.
+320.428	They can have a precise idea of where they are,
+322.242	and sort of a vague idea of where the other cars are.
+324.388	What happens if two cars share that data,
+327.619	if they talk to each other?
+329.574	I can tell you exactly what happens.
+332.352	Both models improve.
+334.691	Everybody wins.
+336.746	Professor Bob Wang and his team
+339.323	have done computer simulations of what happens
+342.061	when fuzzy estimates combine, even in light traffic,
+345.492	when cars just share GPS data,
+348.116	and we've moved this research out of the computer simulation
+350.629	and into robot test beds that have the actual sensors
+353.656	that are in cars now on these robots:
+356.789	stereo cameras, GPS,
+358.627	and the two-dimensional laser range finders
+360.501	that are common in backup systems.
+362.741	We also attach a discrete short-range communication radio,
+367.225	and the robots talk to each other.
+369.134	When these robots come at each other,
+370.673	they track each other's position precisely,
+373.644	and they can avoid each other.
+376.381	We're now adding more and more robots into the mix,
+379.607	and we encountered some problems.
+381.078	One of the problems, when you get too much chatter,
+383.437	it's hard to process all the packets, so you have to prioritize,
+387.165	and that's where the predictive model helps you.
+389.522	If your robot cars are all tracking the predicted trajectories,
+393.894	you don't pay as much attention to those packets.
+395.661	You prioritize the one guy
+397.364	who seems to be going a little off course.
+398.697	That guy could be a problem.
+401.223	And you can predict the new trajectory.
+404.225	So you don't only know that he's going off course, you know how.
+406.988	And you know which drivers you need to alert to get out of the way.
+410.713	And we wanted to do -- how can we best alert everyone?
+413.346	"How can these cars whisper, ""You need to get out of the way?"""
+416.529	Well, it depends on two things:
+418.046	one, the ability of the car,
+420.215	and second the ability of the driver.
+423.432	If one guy has a really great car,
+424.937	but they're on their phone or, you know, doing something,
+427.862	they're not probably in the best position
+429.792	to react in an emergency.
+432.762	So we started a separate line of research
+434.427	doing driver state modeling.
+436.978	And now, using a series of three cameras,
+439.307	we can detect if a driver is looking forward,
+441.577	looking away, looking down, on the phone,
+444.437	or having a cup of coffee.
+447.498	We can predict the accident
+449.568	and we can predict who, which cars,
+453.219	are in the best position to move out of the way
+456.705	to calculate the safest route for everyone.
+459.714	Fundamentally, these technologies exist today.
+464.349	I think the biggest problem that we face
+467.173	is our own willingness to share our data.
+470.186	I think it's a very disconcerting notion,
+472.817	this idea that our cars will be watching us,
+475.203	talking about us to other cars,
+478.574	that we'll be going down the road in a sea of gossip.
+482.001	But I believe it can be done in a way that protects our privacy,
+485.898	just like right now, when I look at your car from the outside,
+489.639	I don't really know about you.
+492.002	If I look at your license plate number,
+493.139	I don't really know who you are.
+495.025	I believe our cars can talk about us behind our backs.
+499.274	(Laughter)
+502.249	And I think it's going to be a great thing.
+505.434	I want you to consider for a moment
+507.084	if you really don't want the distracted teenager behind you
+511.202	to know that you're braking,
+513.322	that you're coming to a dead stop.
+516.246	By sharing our data willingly,
+518.987	we can do what's best for everyone.
+521.799	So let your car gossip about you.
+524.875	It's going to make the roads a lot safer.
+527.913	Thank you.
+529.704	(Applause)

@@ -1,0 +1,354 @@
+startsecond	text
+12.942	Ah yes, those university days,
+15.77	a heady mix of Ph.D-level pure mathematics
+19.673	and world debating championships,
+22.144	"or, as I like to say, ""Hello, ladies. Oh yeah."""
+27.397	Didn't get much sexier than the Spence
+29.389	at university, let me tell you.
+30.853	It is such a thrill for a humble breakfast radio announcer
+35.239	from Sydney, Australia, to be here on the TED stage
+37.57	literally on the other side of the world.
+39.733	And I wanted to let you know, a lot of the things you've heard
+41.366	about Australians are true.
+43.011	From the youngest of ages, we display
+45.433	a prodigious sporting talent.
+47.944	On the field of battle, we are brave and noble warriors.
+52.289	What you've heard is true.
+52.946	Australians, we don't mind a bit of a drink,
+56.77	sometimes to excess, leading to embarrassing social situations. (Laughter)
+60.52	This is my father's work Christmas party, December 1973.
+66.707	I'm almost five years old. Fair to say,
+68.629	I'm enjoying the day a lot more than Santa was.
+71.009	But I stand before you today
+74.889	not as a breakfast radio host,
+76.335	not as a comedian, but as someone who was, is,
+80.241	and always will be a mathematician.
+83.421	And anyone who's been bitten by the numbers bug
+85.615	knows that it bites early and it bites deep.
+89.375	I cast my mind back when I was in second grade
+92.312	at a beautiful little government-run school
+94.335	called Boronia Park in the suburbs of Sydney,
+98.09	and as we came up towards lunchtime, our teacher,
+100.151	Ms. Russell, said to the class,
+101.879	"""Hey, year two. What do you want to do after lunch?"
+104.344	"I've got no plans."""
+106.613	It was an exercise in democratic schooling,
+109.76	and I am all for democratic schooling, but we were only seven.
+114.382	So some of the suggestions we made as to what
+116.124	we might want to do after lunch were a little bit impractical,
+118.688	and after a while, someone made a particularly silly suggestion
+120.962	and Ms. Russell patted them down with that gentle aphorism,
+123.107	"""That wouldn't work."
+124.704	"That'd be like trying to put a square peg through a round hole."""
+128.695	Now I wasn't trying to be smart.
+130.962	I wasn't trying to be funny.
+131.797	I just politely raised my hand,
+134.012	and when Ms. Russell acknowledged me, I said,
+135.995	in front of my year two classmates, and I quote,
+138.631	"""But Miss,"
+142.194	surely if the diagonal of the square
+145.99	is less than the diameter of the circle,
+150.201	"well, the square peg will pass quite easily through the round hole."""
+153.086	(Laughter)
+156.104	"""It'd be like putting a piece of toast through a basketball hoop, wouldn't it?"""
+160.375	And there was that same awkward silence
+162.018	from most of my classmates,
+163.216	until sitting next to me, one of my friends,
+165.319	one of the cool kids in class, Steven, leaned across
+167.771	and punched me really hard in the head.
+170.114	(Laughter)
+171.198	"Now what Steven was saying was, ""Look, Adam,"
+173.699	you are at a critical juncture in your life here, my friend.
+178.248	You can keep sitting here with us.
+180.525	Any more of that sort of talk, you've got to go and sit
+182.195	"over there with them."""
+185.975	I thought about it for a nanosecond.
+187.577	I took one look at the road map of life,
+191.353	"and I ran off down the street marked ""Geek"""
+195.181	as fast as my chubby, asthmatic little legs would carry me.
+200.623	I fell in love with mathematics from the earliest of ages.
+204.351	I explained it to all my friends. Maths is beautiful.
+207.209	It's natural. It's everywhere.
+209.193	Numbers are the musical notes
+212.498	with which the symphony of the universe is written.
+216.72	The great Descartes said something quite similar.
+219.003	"The universe ""is written in the mathematical language."""
+221.713	And today, I want to show you one of those musical notes,
+225.937	a number so beautiful, so massive,
+230.329	I think it will blow your mind.
+232.902	Today we're going to talk about prime numbers.
+235.649	Most of you I'm sure remember that six is not prime
+239.615	because it's 2 x 3.
+241.931	Seven is prime because it's 1 x 7,
+245.545	but we can't break it down into any smaller chunks,
+248.148	or as we call them, factors.
+250.131	Now a few things you might like to know about prime numbers.
+252.621	One is not prime.
+254.632	The proof of that is a great party trick
+257.172	that admittedly only works at certain parties.
+260.076	(Laughter)
+263.066	Another thing about primes, there is no final biggest prime number.
+266.728	They keep going on forever.
+268.14	We know there are an infinite number of primes
+269.979	due to the brilliant mathematician Euclid.
+271.929	Over thousands of years ago, he proved that for us.
+275.161	But the third thing about prime numbers,
+276.858	mathematicians have always wondered,
+278.368	well at any given moment in time,
+280.63	what is the biggest prime that we know about?
+283.433	Today we're going to hunt for that massive prime.
+287.741	Don't freak out.
+290.888	All you need to know, of all the mathematics
+293.889	you've ever learned, unlearned, crammed, forgotten,
+298.374	never understood in the first place,
+300.107	all you need to know is this:
+302.492	When I say 2 ^ 5,
+306.739	I'm talking about five little number twos next to each other
+309.586	all multiplied together,
+310.881	2 x 2 x 2 x 2 x 2.
+314.097	So 2 ^ 5 is 2 x 2 = 4,
+317.501	8, 16, 32.
+319.681	If you've got that, you're with me for the entire journey. Okay?
+323.195	So 2 ^ 5,
+325.167	those five little twos multiplied together.
+326.879	(2 ^ 5) - 1 = 31.
+334.453	is also a prime number.
+336.998	And the vast bulk of massive primes we've ever found
+340.502	are of that form:
+341.738	two to a prime number, take away one.
+345.017	I won't go into great detail as to why,
+347.434	because most of your eyes will bleed out of your head if I do,
+350.185	but suffice to say, a number of that form
+354.396	is fairly easy to test for primacy.
+357.859	A random odd number is a lot harder to test.
+361.459	But as soon as we go hunting for massive primes,
+363.38	we realize it's not enough
+365.219	just to put in any prime number in the power.
+367.96	(2 ^ 11) - 1 = 2,047,
+370.557	and you don't need me to tell you that's 23 x 89.
+373.925	(Laughter)
+376.051	But (2 ^ 13) - 1, (2 ^ 17) - 1
+379.291	(2 ^ 19) - 1, are all prime numbers.
+382.648	After that point, they thin out a lot.
+385.517	And one of the things about the search for massive primes
+387.647	that I love so much is some of the great mathematical minds
+390.786	of all time have gone on this search.
+393.303	This is the great Swiss mathematician Leonhard Euler.
+396.04	In the 1700s, other mathematicians said
+398.501	he is simply the master of us all.
+401.533	He was so respected, they put him on European currency
+404.721	back when that was a compliment.
+407.366	(Laughter)
+412.346	Euler discovered at the time the world's biggest prime:
+415.429	(2 ^ 31) - 1.
+417.216	It's over two billion.
+419.564	He proved it was prime with nothing more
+421.599	than a quill, ink, paper and his mind.
+425.387	You think that's big.
+426.341	We know that (2 ^ 127) - 1
+429.618	is a prime number.
+431.212	It's an absolute brute.
+432.856	Look at it here: 39 digits long,
+436.861	proven to be prime in 1876
+440.224	by a mathematician called Lucas.
+442.288	Word up, L-Dog.
+444.224	(Laughter)
+445.969	But one of the great things about the search for massive primes,
+448.363	it's not just finding the primes.
+449.56	Sometimes proving another number not to be prime is just as exciting.
+453.811	Lucas again, in 1876, showed us (2 ^ 67) - 1,
+462.269	But he didn't know what the factors were.
+464.698	We knew it was like six, but we didn't know
+466.483	what are the 2 x 3 that multiply together
+468.904	to give us that massive number.
+470.154	We didn't know for almost 40 years
+472.195	until Frank Nelson Cole came along.
+475.117	And at a gathering of prestigious American mathematicians,
+477.495	he walked to the board, took up a piece of chalk,
+481.291	and started writing out the powers of two:
+484.056	two, four, eight, 16 --
+487.177	come on, join in with me, you know how it goes --
+497.355	I'm in geek heaven. We'll stop it there for a second.
+499.907	Frank Nelson Cole did not stop there.
+502.677	He went on and on
+504.34	and calculated 67 powers of two.
+508.009	He took away one and wrote that number on the board.
+510.501	A frisson of excitement went around the room.
+514.842	It got even more exciting when he then wrote down
+517.104	these two large prime numbers in your standard multiplication format --
+521.509	and for the rest of the hour of his talk
+525.416	Frank Nelson Cole busted that out.
+530.049	He had found the prime factors
+532.223	of (2 ^ 67) - 1.
+534.633	The room went berserk --
+537.135	(Laughter) --
+538.955	as Frank Nelson Cole sat down,
+540.997	having delivered the only talk in the history of mathematics
+544.344	with no words.
+547.153	He admitted afterwards it wasn't that hard to do.
+549.84	It took focus. It took dedication.
+552.49	It took him, by his estimate,
+554.49	"""three years of Sundays."""
+558.461	But then in the field of mathematics,
+560.799	as in so many of the fields that we've heard from in this TED,
+563.914	the age of the computer goes along and things explode.
+568.257	These are the largest prime numbers we knew
+570.694	decade by decade, each one dwarfing the one before
+574.101	as computers took over and our power to calculate
+577.301	just grew and grew.
+579.23	This is the largest prime number we knew in 1996,
+582.295	a very emotional year for me.
+584.315	It was the year I left university.
+586.25	I was torn between mathematics and media.
+588.875	It was a tough decision. I loved university.
+591.33	My arts degree was the best nine and a half years of my life.
+595.203	(Laughter)
+597.786	But I came to a realization about my own ability.
+601.413	Put simply, in a room full of randomly selected people,
+604.93	I'm a maths genius.
+606.805	In a roomful of maths Ph.Ds,
+608.882	I'm as dumb as a box of hammers.
+612.611	My skill is not in the mathematics.
+614.358	It is in telling the story of the mathematics.
+618.25	And during that time, since I've left university,
+620.436	these numbers have got bigger and bigger,
+622.572	each one dwarfing the last,
+624.338	until along came this man, Dr. Curtis Cooper,
+629.231	who a few years ago held the record for the largest ever prime,
+632.59	only to see it snatched away by a rival university.
+635.895	And then Curtis Cooper got it back.
+640.072	Not years ago, not months ago, days ago.
+645.399	In an amazing moment of serendipity,
+647.043	I had to send TED a new slide
+651.195	to show you what this guy had done.
+653.205	I still remember -- (Applause) --
+655.855	I still remember when it happened.
+657.358	I was doing my breakfast radio show.
+658.806	I looked down on Twitter. There was a tweet:
+660.178	"""Adam, have you seen the new largest prime number?"""
+662.483	I shivered --
+663.897	(Laughter) --
+665.637	contacted the women who produced my radio show out in the other room,
+668.719	"and said ""Girls, hold the front page."
+671.17	We're not talking politics today.
+672.63	We're not talking sport today.
+674.587	"They found another megaprime."""
+676.917	The girls just shook their heads,
+678.429	put them in their hands, and let me go my own way.
+680.666	It's because of Curtis Cooper that we know,
+683.242	currently the largest prime number we know,
+685.571	is 2 ^ 57,885,161.
+693.581	Don't forget to subtract the one.
+696.384	This number is almost 17 and a half million digits long.
+703.608	If you typed it out on a computer and saved it as a text file,
+707.034	that's 22 meg.
+709.829	For the slightly less geeky of you,
+711.873	think about the Harry Potter novels, okay?
+714.01	This is the first Harry Potter novel.
+716.36	This is all seven Harry Potter novels,
+718.062	because she did tend to faff on a bit near the end.
+720.424	(Laughter)
+723.943	Written out as a book, this number would run
+726.255	the length of the Harry Potter novels and half again.
+730.73	Here's a slide of the first 1,000 digits of this prime.
+736.269	If, when TED had begun, at 11 o'clock on Tuesday,
+739.39	we'd walked out and simply hit one slide every second,
+743.958	it would have taken five hours to show you that number.
+749.328	I was keen to do it, could not convince Bono.
+752.294	That's the way it goes.
+754.897	This number is 17 and a half thousand slides long,
+759.317	and we know it is prime as confidently
+763.44	as we know the number seven is prime.
+766.814	That fills me with almost sexual excitement.
+772.5	And who am I kidding when I say almost?
+774.683	(Laughter)
+777.245	I know what you're thinking:
+778.896	Adam, we're happy that you're happy,
+783.875	but why should we care?
+786.373	Let me give you just three reasons why this is so beautiful.
+789.083	First of all, as I explained, to ask a computer
+792.634	"""Is that number prime?"" to type it in its abbreviated form,"
+795.713	and then only about six lines of code is the test for primacy,
+799.915	is a remarkably simple question to ask.
+802.236	It's got a remarkably clear yes/no answer,
+805.249	and just requires phenomenal grunt.
+807.806	Large prime numbers are a great way of testing
+809.975	the speed and accuracy of computer chips.
+812.608	But secondly, as Curtis Cooper was looking for that monster prime,
+815.409	he wasn't the only guy searching.
+817.334	My laptop at home was looking through
+818.519	four potential candidate primes myself
+820.794	as part of a networked computer hunt around the world
+824.45	for these large numbers.
+825.705	The discovery of that prime is similar to the work
+827.634	people are doing in unraveling RNA sequences,
+830.836	in searching through data from SETI and other astronomical projects.
+833.908	We live in an age where some of the great breakthroughs
+837.15	are not going to happen in the labs or the halls of academia
+839.669	but on laptops, desktops,
+841.783	in the palms of people's hands
+843.649	who are simply helping out for the search.
+847.062	But for me it's amazing because it's a metaphor
+849.391	for the time in which we live,
+851.328	when human minds and machines can conquer together.
+856.172	We've heard a lot about robots in this TED.
+858.531	We've heard a lot about what they can and can't do.
+860.141	It is true, you can now download onto your smartphone
+862.663	an app that would beat most grandmasters at chess.
+866.558	You think that's cool.
+868.022	Here's a machine doing something cool.
+870.588	This is the CubeStormer II.
+872.774	It can take a randomly shuffled Rubik's Cube.
+876.595	Using the power of the smartphone,
+879.161	it can examine the cube and solve the cube
+886.354	in five seconds.
+889.053	(Applause)
+892.934	That scares some people. That excites me.
+896.999	How lucky are we to live in this age
+900.23	when mind and machine can work together?
+903.523	I was asked in an interview last year in my capacity
+905.795	"as a lower-case ""c"" celebrity in Australia,"
+908.783	"""What was your highlight of 2012?"""
+910.788	People were expecting me to talk about
+912.25	my beloved Sydney Swans football team.
+914.918	In our beautiful, indigenous sport of Australian football,
+917.926	they won the equivalent of the Super Bowl.
+920.06	I was there. It was the most emotional, exciting day.
+923.051	It wasn't my highlight of 2012.
+925.165	People thought it might have been an interview I'd done on my show.
+927.128	It might have been a politician. It might have been a breakthrough.
+929.196	It might have been a book I read, the arts. No, no, no.
+931.251	It might have been something my two gorgeous daughters had done.
+933.415	No, it wasn't. The highlight of 2012, so clearly,
+936.994	was the discovery of the Higgs boson.
+940.626	Give it up for the fundamental particle
+943.302	that bequeaths all other fundamental particles their mass.
+946.307	(Applause)
+947.803	And what was so gorgeous about this discovery was
+952.852	considered one of the deepest of all questions:
+955.262	How is it that the things that make us up have no mass?
+959.902	I've clearly got mass. Where does it come from?
+964.361	And he postulated a suggestion
+966.175	that there's this infinite, incredibly small field
+969.845	stretching throughout the universe,
+971.963	and as other particles go through those particles
+974.048	and interact, that's where they get their mass.
+976.44	The rest of the scientific community said,
+978.897	"""Great idea, Higgsy."
+980.506	We've got no idea if we could ever prove it.
+982.192	"It's beyond our reach."""
+984.3	And within just 50 years,
+986.797	in his lifetime, with him sitting in the audience,
+992.681	we had designed the greatest machine ever
+996.313	to prove this incredible idea
+999.379	that originated just in a human mind.
+1003.342	That's what is so exciting for me about this prime number.
+1005.874	We thought it might be there,
+1007.96	and we went and found it.
+1010.38	That is the essence of being human.
+1014.28	That is what we are all about.
+1017.954	Or as my friend Descartes might put it,
+1019.923	we think,
+1021.636	therefore we are.
+1024.049	Thank you.
+1025.44	(Applause)

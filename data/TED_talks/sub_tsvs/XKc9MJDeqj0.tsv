@@ -1,0 +1,369 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.21	Now, extinction is a different kind of death.
+21.272	It's bigger.
+23.895	We didn't really realize that until 1914,
+26.975	when the last passenger pigeon, a female named Martha,
+30.19	died at the Cincinnati zoo.
+33.208	This had been the most abundant bird in the world
+36.749	that'd been in North America for six million years.
+40.356	Suddenly it wasn't here at all.
+43.661	Flocks that were a mile wide and 400 miles long
+47.738	used to darken the sun.
+50.385	Aldo Leopold said this was a biological storm,
+53.455	a feathered tempest.
+56.26	And indeed it was a keystone species
+58.704	that enriched the entire eastern deciduous forest,
+62.72	from the Mississippi to the Atlantic,
+65.004	from Canada down to the Gulf.
+68.319	But it went from five billion birds to zero in just a couple decades.
+71.632	What happened?
+72.832	Well, commercial hunting happened.
+74.985	These birds were hunted for meat that was sold by the ton,
+78.944	and it was easy to do because when those big flocks
+81.264	came down to the ground, they were so dense
+83.536	that hundreds of hunters and netters could show up
+85.904	and slaughter them by the tens of thousands.
+88.91	It was the cheapest source of protein in America.
+91.928	By the end of the century, there was nothing left
+93.903	but these beautiful skins in museum specimen drawers.
+98.743	There's an upside to the story.
+100.618	This made people realize that the same thing
+102.532	was about to happen to the American bison,
+105.024	and so these birds saved the buffalos.
+108.429	But a lot of other animals weren't saved.
+110.103	The Carolina parakeet was a parrot that lit up backyards everywhere.
+114.894	It was hunted to death for its feathers.
+117.24	There was a bird that people liked on the East Coast called the heath hen.
+120.342	It was loved. They tried to protect it. It died anyway.
+123.351	"A local newspaper spelled out, ""There is no survivor,"
+126.725	"there is no future, there is no life to be recreated in this form ever again."""
+131.542	There's a sense of deep tragedy that goes with these things,
+134.213	and it happened to lots of birds that people loved.
+136.638	It happened to lots of mammals.
+138.846	Another keystone species is a famous animal
+141.469	called the European aurochs.
+143.534	There was sort of a movie made about it recently.
+145.989	And the aurochs was like the bison.
+148.597	This was an animal that basically kept the forest
+151.777	mixed with grasslands across the entire Europe and Asian continent,
+156.829	from Spain to Korea.
+159.173	The documentation of this animal goes back
+161.301	to the Lascaux cave paintings.
+164.526	The extinctions still go on.
+166.718	There's an ibex in Spain called the bucardo.
+169.747	It went extinct in 2000.
+172.093	There was a marvelous animal, a marsupial wolf
+174.85	called the thylacine in Tasmania, south of Australia,
+178.581	called the Tasmanian tiger.
+180.651	It was hunted until there were just a few left to die in zoos.
+184.969	A little bit of film was shot.
+198.853	Sorrow, anger, mourning.
+204.11	Don't mourn. Organize.
+207.266	What if you could find out that, using the DNA in museum specimens,
+210.885	fossils maybe up to 200,000 years old
+213.882	could be used to bring species back,
+216.32	what would you do? Where would you start?
+217.944	Well, you'd start by finding out if the biotech is really there.
+220.858	I started with my wife, Ryan Phelan,
+222.95	who ran a biotech business called DNA Direct,
+226.084	and through her, one of her colleagues, George Church,
+230.133	one of the leading genetic engineers
+232.828	who turned out to be also obsessed with passenger pigeons
+235.837	and a lot of confidence
+237.448	that methodologies he was working on
+239.76	might actually do the deed.
+241.849	So he and Ryan organized and hosted a meeting
+245.104	at the Wyss Institute in Harvard bringing together
+247.368	specialists on passenger pigeons, conservation ornithologists, bioethicists,
+251.979	and fortunately passenger pigeon DNA had already been sequenced
+256.092	by a molecular biologist named Beth Shapiro.
+259.383	All she needed from those specimens at the Smithsonian
+262.262	was a little bit of toe pad tissue,
+264.917	because down in there is what is called ancient DNA.
+268.3	It's DNA which is pretty badly fragmented,
+271.272	but with good techniques now, you can basically reassemble the whole genome.
+276.164	Then the question is, can you reassemble,
+278.485	with that genome, the whole bird?
+280.98	George Church thinks you can.
+283.484	"So in his book, ""Regenesis,"" which I recommend,"
+286.549	he has a chapter on the science of bringing back extinct species,
+290.012	and he has a machine called
+291.548	the Multiplex Automated Genome Engineering machine.
+294.996	It's kind of like an evolution machine.
+296.73	You try combinations of genes that you write
+299.436	at the cell level and then in organs on a chip,
+302.676	and the ones that win, that you can then put
+304.585	into a living organism. It'll work.
+307.282	The precision of this, one of George's famous unreadable slides,
+310.476	nevertheless points out that there's a level of precision here
+315.075	right down to the individual base pair.
+317.641	The passenger pigeon has 1.3 billion base pairs in its genome.
+321.78	So what you're getting is the capability now
+324.785	of replacing one gene with another variation of that gene.
+328.31	It's called an allele.
+330.213	Well that's what happens in normal hybridization anyway.
+333.063	So this is a form of synthetic hybridization of the genome
+336.254	of an extinct species
+338.134	with the genome of its closest living relative.
+341.664	Now along the way, George points out that
+344.379	his technology, the technology of synthetic biology,
+348.19	is currently accelerating at four times the rate of Moore's Law.
+351.996	It's been doing that since 2005, and it's likely to continue.
+356.284	Okay, the closest living relative of the passenger pigeon
+358.988	is the band-tailed pigeon. They're abundant. There's some around here.
+362.282	Genetically, the band-tailed pigeon already is
+366.37	mostly living passenger pigeon.
+368.738	There's just some bits that are band-tailed pigeon.
+371.173	If you replace those bits with passenger pigeon bits,
+373.917	you've got the extinct bird back, cooing at you.
+378.132	Now, there's work to do.
+380.04	You have to figure out exactly what genes matter.
+382.754	So there's genes for the short tail in the band-tailed pigeon,
+385.396	genes for the long tail in the passenger pigeon,
+388.096	and so on with the red eye, peach-colored breast, flocking, and so on.
+391.654	Add them all up and the result won't be perfect.
+394.525	But it should be be perfect enough,
+396.503	because nature doesn't do perfect either.
+399.149	So this meeting in Boston led to three things.
+403.325	First off, Ryan and I decided to create a nonprofit
+406.871	called Revive and Restore that would push de-extinction generally
+410.524	and try to have it go in a responsible way,
+413.675	and we would push ahead with the passenger pigeon.
+416.963	Another direct result was a young grad student named Ben Novak,
+421.028	who had been obsessed with passenger pigeons since he was 14
+424.284	and had also learned how to work with ancient DNA,
+427.347	himself sequenced the passenger pigeon,
+430.658	using money from his family and friends.
+433.273	We hired him full-time.
+435.42	Now, this photograph I took of him last year at the Smithsonian,
+439.084	he's looking down at Martha,
+441.315	the last passenger pigeon alive.
+444.1	So if he's successful, she won't be the last.
+446.835	The third result of the Boston meeting was the realization
+449.717	that there are scientists all over the world
+451.55	working on various forms of de-extinction,
+453.524	but they'd never met each other.
+455.339	And National Geographic got interested
+457.323	because National Geographic has the theory that
+459.806	the last century, discovery was basically finding things,
+463.179	and in this century, discovery is basically making things.
+467.256	De-extinction falls in that category.
+469.08	So they hosted and funded this meeting. And 35 scientists,
+472.914	they were conservation biologists and molecular biologists,
+476.194	basically meeting to see if they had work to do together.
+479.61	Some of these conservation biologists are pretty radical.
+481.976	There's three of them who are not just re-creating ancient species,
+485.538	they're recreating extinct ecosystems
+488.659	in northern Siberia, in the Netherlands, and in Hawaii.
+492.527	Henri, from the Netherlands,
+494.802	with a Dutch last name I won't try to pronounce,
+497.493	is working on the aurochs.
+499.738	The aurochs is the ancestor of all domestic cattle,
+504.091	and so basically its genome is alive, it's just unevenly distributed.
+509.665	So what they're doing is working with seven breeds
+512.079	of primitive, hardy-looking cattle like that Maremmana primitivo on the top there
+516.834	to rebuild, over time, with selective back-breeding,
+520.299	the aurochs.
+522.362	Now, re-wilding is moving faster in Korea
+525.395	than it is in America,
+527.254	and so the plan is, with these re-wilded areas all over Europe,
+530.914	they will introduce the aurochs to do its old job,
+534.122	its old ecological role,
+536.064	of clearing the somewhat barren, closed-canopy forest
+539.323	so that it has these biodiverse meadows in it.
+543.134	Another amazing story
+544.949	came from Alberto Fernández-Arias.
+548.347	Alberto worked with the bucardo in Spain.
+551.666	The last bucardo was a female named Celia
+554.499	who was still alive, but then they captured her,
+559.062	they got a little bit of tissue from her ear,
+561.474	they cryopreserved it in liquid nitrogen,
+564.658	released her back into the wild,
+566.444	but a few months later, she was found dead under a fallen tree.
+570.194	They took the DNA from that ear,
+572.802	they planted it as a cloned egg in a goat,
+576.242	the pregnancy came to term,
+578.316	and a live baby bucardo was born.
+580.531	It was the first de-extinction in history.
+583.379	(Applause)
+586.922	It was short-lived.
+588.149	Sometimes interspecies clones have respiration problems.
+591.787	This one had a malformed lung and died after 10 minutes,
+594.828	but Alberto was confident that
+597.908	cloning has moved along well since then,
+600.308	and this will move ahead, and eventually
+601.847	there will be a population of bucardos
+603.854	back in the mountains in northern Spain.
+607.111	Cryopreservation pioneer of great depth is Oliver Ryder.
+610.937	At the San Diego zoo, his frozen zoo
+613.324	has collected the tissues from over 1,000 species
+617.275	over the last 35 years.
+620.253	Now, when it's frozen that deep,
+622.284	minus 196 degrees Celsius,
+625.004	the cells are intact and the DNA is intact.
+627.636	They're basically viable cells,
+629.713	so someone like Bob Lanza at Advanced Cell Technology
+633.341	took some of that tissue from an endangered animal
+636.556	called the Javan banteng, put it in a cow,
+638.75	the cow went to term, and what was born
+641.8	was a live, healthy baby Javan banteng,
+646.881	who thrived and is still alive.
+650.284	The most exciting thing for Bob Lanza
+653.06	is the ability now to take any kind of cell
+655.748	with induced pluripotent stem cells
+658.196	and turn it into germ cells, like sperm and eggs.
+662.169	So now we go to Mike McGrew
+664.452	who is a scientist at Roslin Institute in Scotland,
+667.948	and Mike's doing miracles with birds.
+670.252	So he'll take, say, falcon skin cells, fibroblast,
+673.772	turn it into induced pluripotent stem cells.
+676.56	Since it's so pluripotent, it can become germ plasm.
+679.99	He then has a way to put the germ plasm
+682.246	into the embryo of a chicken egg
+685.79	so that that chicken will have, basically,
+689.061	the gonads of a falcon.
+690.902	You get a male and a female each of those,
+692.816	and out of them comes falcons.
+695.757	(Laughter)
+697.716	Real falcons out of slightly doctored chickens.
+702.841	Ben Novak was the youngest scientist at the meeting.
+705.318	He showed how all of this can be put together.
+707.747	The sequence of events: he'll put together the genomes
+710.293	of the band-tailed pigeon and the passenger pigeon,
+712.671	he'll take the techniques of George Church
+715.621	and get passenger pigeon DNA,
+717.902	the techniques of Robert Lanza and Michael McGrew,
+720.587	get that DNA into chicken gonads,
+722.846	and out of the chicken gonads get passenger pigeon eggs, squabs,
+727.065	and now you're getting a population of passenger pigeons.
+730.551	It does raise the question of,
+732.495	they're not going to have passenger pigeon parents
+734.468	to teach them how to be a passenger pigeon.
+737.094	So what do you do about that?
+739.35	Well birds are pretty hard-wired, as it happens,
+742.023	so most of that is already in their DNA,
+744.39	but to supplement it, part of Ben's idea
+747.174	is to use homing pigeons
+748.83	to help train the young passenger pigeons how to flock
+752	and how to find their way to their old nesting grounds
+754.734	and feeding grounds.
+757.883	There were some conservationists,
+759.521	really famous conservationists like Stanley Temple,
+762.597	who is one of the founders of conservation biology,
+765.213	and Kate Jones from the IUCN, which does the Red List.
+769.869	They're excited about all this,
+771.83	but they're also concerned that it might be competitive
+774.333	with the extremely important efforts to protect
+777.371	endangered species that are still alive,
+779.581	that haven't gone extinct yet.
+781.427	You see, you want to work on protecting the animals out there.
+783.8	You want to work on getting the market for ivory in Asia down
+788.029	so you're not using 25,000 elephants a year.
+791.907	But at the same time, conservation biologists are realizing
+794.957	that bad news bums people out.
+797.541	And so the Red List is really important, keep track of
+800.266	what's endangered and critically endangered, and so on.
+803.59	But they're about to create what they call a Green List,
+806.615	and the Green List will have species that are doing fine, thank you,
+810.997	species that were endangered, like the bald eagle,
+813.301	but they're much better off now, thanks to everybody's good work,
+816.916	and protected areas around the world
+819.082	that are very, very well managed.
+820.843	So basically, they're learning how to build on good news.
+824.946	And they see reviving extinct species
+828.057	as the kind of good news you might be able to build on.
+830.937	Here's a couple related examples.
+834.262	Captive breeding will be a major part of bringing back these species.
+837.473	The California condor was down to 22 birds in 1987.
+840.889	Everybody thought is was finished.
+842.598	Thanks to captive breeding at the San Diego Zoo,
+845.418	there's 405 of them now, 226 are out in the wild.
+849.438	That technology will be used on de-extincted animals.
+853.647	Another success story is the mountain gorilla in Central Africa.
+857.114	In 1981, Dian Fossey was sure they were going extinct.
+860.497	There were just 254 left.
+862.53	Now there are 880. They're increasing in population
+866.069	by three percent a year.
+868.162	The secret is, they have an eco-tourism program,
+871.553	which is absolutely brilliant.
+873.222	So this photograph was taken last month by Ryan
+875.857	with an iPhone.
+878.633	That's how comfortable these wild gorillas are with visitors.
+882.948	Another interesting project, though it's going to need some help,
+886.683	is the northern white rhinoceros.
+888.594	There's no breeding pairs left.
+890.555	But this is the kind of thing that
+892.725	a wide variety of DNA for this animal is available in the frozen zoo.
+896.865	A bit of cloning, you can get them back.
+899.66	So where do we go from here?
+901.85	These have been private meetings so far.
+903.514	I think it's time for the subject to go public.
+906.171	What do people think about it?
+907.638	You know, do you want extinct species back?
+909.717	Do you want extinct species back?
+912.569	(Applause)
+917.835	Tinker Bell is going to come fluttering down.
+920.331	It is a Tinker Bell moment,
+921.545	because what are people excited about with this?
+923.941	What are they concerned about?
+925.992	We're also going to push ahead with the passenger pigeon.
+928.439	So Ben Novak, even as we speak, is joining the group
+932.209	that Beth Shapiro has at UC Santa Cruz.
+935.53	They're going to work on the genomes
+936.918	of the passenger pigeon and the band-tailed pigeon.
+939.205	As that data matures, they'll send it to George Church,
+943.114	who will work his magic, get passenger pigeon DNA out of that.
+947.009	We'll get help from Bob Lanza and Mike McGrew
+949.853	to get that into germ plasm that can go into chickens
+952.92	that can produce passenger pigeon squabs
+955.488	that can be raised by band-tailed pigeon parents,
+957.952	and then from then on, it's passenger pigeons all the way,
+960.208	maybe for the next six million years.
+963.344	You can do the same thing, as the costs come down,
+965.659	for the Carolina parakeet, for the great auk,
+968.881	for the heath hen, for the ivory-billed woodpecker,
+971.676	for the Eskimo curlew, for the Caribbean monk seal,
+973.782	for the woolly mammoth.
+976.648	Because the fact is, humans have made a huge hole
+979.124	in nature in the last 10,000 years.
+982.214	We have the ability now,
+984.253	and maybe the moral obligation, to repair some of the damage.
+989.117	Most of that we'll do by expanding and protecting wildlands,
+993.665	by expanding and protecting
+995.334	the populations of endangered species.
+999.861	But some species
+1002.016	that we killed off totally
+1007.199	we could consider bringing back
+1010.513	to a world that misses them.
+1013.68	Thank you.
+1015.89	(Applause)
+1027.088	Chris Anderson: Thank you.
+1028.942	I've got a question.
+1030.754	So, this is an emotional topic. Some people stand.
+1035.504	I suspect there are some people out there sitting,
+1038.36	kind of asking tormented questions, almost, about,
+1041.369	well, wait, wait, wait, wait, wait, wait a minute,
+1043.279	there's something wrong with mankind
+1046.376	interfering in nature in this way.
+1049.856	There's going to be unintended consequences.
+1053.328	You're going to uncork some sort of Pandora's box
+1056.105	of who-knows-what. Do they have a point?
+1060.091	Stewart Brand: Well, the earlier point is
+1061.591	we interfered in a big way by making these animals go extinct,
+1065.142	and many of them were keystone species,
+1067.683	and we changed the whole ecosystem they were in
+1070.192	by letting them go.
+1071.985	Now, there's the shifting baseline problem, which is,
+1074.566	so when these things come back,
+1076.104	they might replace some birds that are there
+1078.395	that people really know and love.
+1080.789	I think that's, you know, part of how it'll work.
+1083.536	This is a long, slow process --
+1086.421	One of the things I like about it, it's multi-generation.
+1088.655	We will get woolly mammoths back.
+1090.712	CA: Well it feels like both the conversation
+1092.488	and the potential here are pretty thrilling.
+1094.776	Thank you so much for presenting. SB: Thank you.
+1096.49	CA: Thank you. (Applause)

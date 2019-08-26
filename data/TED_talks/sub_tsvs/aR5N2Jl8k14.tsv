@@ -1,0 +1,478 @@
+startsecond	text
+0	Translator: Leslie Gauthier
+0	Reviewer: Camille Martínez
+12.555	How many of you are creatives,
+14.868	designers, engineers,
+14.868	entrepreneurs, artists,
+18.516	or maybe you just have
+18.516	a really big imagination?
+20.927	Show of hands? (Cheers)
+22.799	That's most of you.
+25.154	I have some news for us creatives.
+28.534	Over the course of the next 20 years,
+33.291	more will change around
+33.291	the way we do our work
+37.202	than has happened in the last 2,000.
+40.331	In fact, I think we're at the dawn
+40.331	of a new age in human history.
+45.465	Now, there have been four major historical
+45.465	eras defined by the way we work.
+51.224	The Hunter-Gatherer Age
+51.224	lasted several million years.
+54.983	And then the Agricultural Age
+54.983	lasted several thousand years.
+59.015	The Industrial Age lasted
+59.015	a couple of centuries.
+62.529	And now the Information Age
+62.529	has lasted just a few decades.
+66.84	And now today, we're on the cusp
+66.84	of our next great era as a species.
+73.116	Welcome to the Augmented Age.
+75.82	In this new era, your natural human
+75.82	capabilities are going to be augmented
+79.537	by computational systems
+79.537	that help you think,
+82.629	robotic systems that help you make,
+84.839	and a digital nervous system
+86.511	that connects you to the world
+86.511	far beyond your natural senses.
+91.257	Let's start with cognitive augmentation.
+93.223	How many of you are augmented cyborgs?
+95.953	(Laughter)
+98.627	I would actually argue
+98.627	that we're already augmented.
+102.108	Imagine you're at a party,
+103.636	and somebody asks you a question
+103.636	that you don't know the answer to.
+107.18	If you have one of these,
+107.18	in a few seconds, you can know the answer.
+111.689	But this is just a primitive beginning.
+114.683	Even Siri is just a passive tool.
+118.48	In fact, for the last
+118.48	three-and-a-half million years,
+121.885	the tools that we've had
+121.885	have been completely passive.
+126.023	They do exactly what we tell them
+126.023	and nothing more.
+129.702	Our very first tool only cut
+129.702	where we struck it.
+133.642	The chisel only carves
+133.642	where the artist points it.
+137.163	And even our most advanced tools
+137.163	do nothing without our explicit direction.
+142.828	In fact, to date, and this
+142.828	is something that frustrates me,
+146.033	we've always been limited
+147.505	by this need to manually
+147.505	push our wills into our tools --
+151.03	like, manual,
+151.03	literally using our hands,
+153.351	even with computers.
+155.892	"But I'm more like Scotty in ""Star Trek."""
+158.379	(Laughter)
+160.253	I want to have a conversation
+160.253	with a computer.
+162.423	"I want to say, ""Computer,"
+162.423	"let's design a car,"""
+165.417	and the computer shows me a car.
+166.98	"And I say, ""No, more fast-looking,"
+166.98	"and less German,"""
+169.612	and bang, the computer shows me an option.
+171.799	(Laughter)
+174.028	That conversation might be
+174.028	a little ways off,
+176.358	probably less than many of us think,
+179.047	but right now,
+180.834	we're working on it.
+182.009	Tools are making this leap
+182.009	from being passive to being generative.
+186.651	Generative design tools
+186.651	use a computer and algorithms
+189.983	to synthesize geometry
+192.615	to come up with new designs
+192.615	all by themselves.
+195.816	All it needs are your goals
+195.816	and your constraints.
+198.588	I'll give you an example.
+200.02	In the case of this aerial drone chassis,
+202.832	all you would need to do
+202.832	is tell it something like,
+205.482	it has four propellers,
+206.779	you want it to be
+206.779	as lightweight as possible,
+208.934	and you need it to be
+208.934	aerodynamically efficient.
+211.228	Then what the computer does
+211.228	is it explores the entire solution space:
+216.166	every single possibility that solves
+216.166	and meets your criteria --
+220.117	millions of them.
+221.583	It takes big computers to do this.
+223.582	But it comes back to us with designs
+225.561	that we, by ourselves,
+225.561	never could've imagined.
+229.146	And the computer's coming up
+229.146	with this stuff all by itself --
+232.082	no one ever drew anything,
+233.784	and it started completely from scratch.
+236.858	And by the way, it's no accident
+239.269	that the drone body looks just like
+239.269	the pelvis of a flying squirrel.
+243.107	(Laughter)
+245.86	It's because the algorithms
+245.86	are designed to work
+248.186	the same way evolution does.
+250.535	What's exciting is we're starting
+250.535	to see this technology
+253.219	out in the real world.
+254.402	We've been working with Airbus
+254.402	for a couple of years
+256.878	on this concept plane for the future.
+258.811	It's a ways out still.
+260.905	But just recently we used
+260.905	a generative-design AI
+264.709	to come up with this.
+267.429	This is a 3D-printed cabin partition
+267.429	that's been designed by a computer.
+272.606	It's stronger than the original
+272.606	yet half the weight,
+275.454	and it will be flying
+275.454	in the Airbus A320 later this year.
+279.225	So computers can now generate;
+280.808	they can come up with their own solutions
+280.808	to our well-defined problems.
+286.497	But they're not intuitive.
+287.831	They still have to start from scratch
+287.831	every single time,
+290.941	and that's because they never learn.
+294.188	Unlike Maggie.
+295.978	(Laughter)
+297.583	Maggie's actually smarter
+297.583	than our most advanced design tools.
+301.287	What do I mean by that?
+302.751	If her owner picks up that leash,
+304.365	Maggie knows with a fair
+304.365	degree of certainty
+306.457	it's time to go for a walk.
+307.885	And how did she learn?
+309.094	Well, every time the owner picked up
+309.094	the leash, they went for a walk.
+312.442	And Maggie did three things:
+314.344	she had to pay attention,
+316.237	she had to remember what happened
+318.343	and she had to retain and create
+318.343	a pattern in her mind.
+323.249	Interestingly, that's exactly what
+325.368	computer scientists
+325.368	have been trying to get AIs to do
+327.915	for the last 60 or so years.
+330.503	Back in 1952,
+331.876	they built this computer
+331.876	that could play Tic-Tac-Toe.
+336.901	Big deal.
+338.849	Then 45 years later, in 1997,
+341.873	Deep Blue beats Kasparov at chess.
+	humans at Jeopardy,
+350.858	which is much harder for a computer
+350.858	to play than chess is.
+353.81	In fact, rather than working
+353.81	from predefined recipes,
+357.646	Watson had to use reasoning
+357.646	to overcome his human opponents.
+362.213	And then a couple of weeks ago,
+364.676	DeepMind's AlphaGo beats
+364.676	the world's best human at Go,
+368.962	which is the most difficult
+368.962	game that we have.
+371.198	In fact, in Go, there are more
+371.198	possible moves
+374.118	than there are atoms in the universe.
+378.03	So in order to win,
+379.88	what AlphaGo had to do
+379.88	was develop intuition.
+382.918	And in fact, at some points,
+382.918	AlphaGo's programmers didn't understand
+387.052	why AlphaGo was doing what it was doing.
+391.271	And things are moving really fast.
+392.955	I mean, consider --
+392.955	in the space of a human lifetime,
+396.206	computers have gone from a child's game
+399.74	to what's recognized as the pinnacle
+399.74	of strategic thought.
+403.819	What's basically happening
+406.26	is computers are going
+406.26	from being like Spock
+409.594	to being a lot more like Kirk.
+411.567	(Laughter)
+415.209	Right? From pure logic to intuition.
+420.004	Would you cross this bridge?
+422.429	"Most of you are saying, ""Oh, hell no!"""
+424.776	(Laughter)
+426.108	And you arrived at that decision
+426.108	in a split second.
+428.789	You just sort of knew
+428.789	that bridge was unsafe.
+431.241	And that's exactly the kind of intuition
+433.254	that our deep-learning systems
+433.254	are starting to develop right now.
+437.542	Very soon, you'll literally be able
+439.273	to show something you've made,
+439.273	you've designed,
+441.503	to a computer,
+442.68	and it will look at it and say,
+444.193	"""Sorry, homie, that'll never work."
+444.193	"You have to try again."""
+447.674	Or you could ask it if people
+447.674	are going to like your next song,
+451.593	or your next flavor of ice cream.
+455.369	Or, much more importantly,
+457.972	you could work with a computer
+457.972	to solve a problem
+460.36	that we've never faced before.
+462.021	For instance, climate change.
+463.446	We're not doing a very
+463.446	good job on our own,
+465.49	we could certainly use
+465.49	all the help we can get.
+467.759	That's what I'm talking about,
+469.241	technology amplifying
+469.241	our cognitive abilities
+471.82	so we can imagine and design things
+471.82	that were simply out of our reach
+475.396	as plain old un-augmented humans.
+479.804	So what about making
+479.804	all of this crazy new stuff
+482.769	that we're going to invent and design?
+485.772	I think the era of human augmentation
+485.772	is as much about the physical world
+489.889	as it is about the virtual,
+489.889	intellectual realm.
+493.653	How will technology augment us?
+496.081	In the physical world, robotic systems.
+499.44	OK, there's certainly a fear
+501.2	that robots are going to take
+501.2	jobs away from humans,
+503.712	and that is true in certain sectors.
+505.994	But I'm much more interested in this idea
+508.896	that humans and robots working together
+508.896	are going to augment each other,
+513.93	and start to inhabit a new space.
+516.012	This is our applied research lab
+516.012	in San Francisco,
+518.398	where one of our areas of focus
+518.398	is advanced robotics,
+521.564	specifically, human-robot collaboration.
+524.854	And this is Bishop, one of our robots.
+527.637	As an experiment, we set it up
+529.45	to help a person working in construction
+529.45	doing repetitive tasks --
+533.804	tasks like cutting out holes for outlets
+533.804	or light switches in drywall.
+538.022	(Laughter)
+541.697	So, Bishop's human partner
+541.697	can tell what to do in plain English
+544.832	and with simple gestures,
+546.161	kind of like talking to a dog,
+547.632	and then Bishop executes
+547.632	on those instructions
+549.799	with perfect precision.
+551.715	We're using the human
+551.715	for what the human is good at:
+554.728	awareness, perception and decision making.
+557.085	And we're using the robot
+557.085	for what it's good at:
+559.349	precision and repetitiveness.
+562.072	Here's another cool project
+562.072	that Bishop worked on.
+564.463	The goal of this project,
+564.463	which we called the HIVE,
+567.562	was to prototype the experience
+567.562	of humans, computers and robots
+571.437	all working together to solve
+571.437	a highly complex design problem.
+575.613	The humans acted as labor.
+577.088	They cruised around the construction site,
+577.088	they manipulated the bamboo --
+580.585	which, by the way,
+580.585	because it's a non-isomorphic material,
+583.365	is super hard for robots to deal with.
+585.263	But then the robots
+585.263	did this fiber winding,
+587.309	which was almost impossible
+587.309	for a human to do.
+589.784	And then we had an AI
+589.784	that was controlling everything.
+593.429	It was telling the humans what to do,
+593.429	telling the robots what to do
+596.743	and keeping track of thousands
+596.743	of individual components.
+599.682	What's interesting is,
+600.886	building this pavilion
+600.886	was simply not possible
+604.051	without human, robot and AI
+604.051	augmenting each other.
+609.71	OK, I'll share one more project.
+609.71	This one's a little bit crazy.
+613.054	We're working with Amsterdam-based artist
+613.054	Joris Laarman and his team at MX3D
+617.546	to generatively design
+617.546	and robotically print
+620.448	the world's first autonomously
+620.448	manufactured bridge.
+624.135	So, Joris and an AI are designing
+624.135	this thing right now, as we speak,
+627.844	in Amsterdam.
+629.04	And when they're done,
+629.04	"we're going to hit ""Go,"""
+631.385	and robots will start 3D printing
+631.385	in stainless steel,
+634.72	and then they're going to keep printing,
+634.72	without human intervention,
+638.027	until the bridge is finished.
+640.919	So, as computers are going
+640.919	to augment our ability
+643.871	to imagine and design new stuff,
+646.045	robotic systems are going to help us
+646.045	build and make things
+648.964	that we've never been able to make before.
+652.167	But what about our ability
+652.167	to sense and control these things?
+656.351	What about a nervous system
+656.351	for the things that we make?
+660.406	Our nervous system,
+660.406	the human nervous system,
+662.942	tells us everything
+662.942	that's going on around us.
+666.006	But the nervous system of the things
+666.006	we make is rudimentary at best.
+669.714	For instance, a car doesn't tell
+669.714	the city's public works department
+673.301	that it just hit a pothole at the corner
+673.301	of Broadway and Morrison.
+676.455	A building doesn't tell its designers
+678.511	whether or not the people inside
+678.511	like being there,
+681.219	and the toy manufacturer doesn't know
+684.253	if a toy is actually being played with --
+686.284	how and where and whether
+686.284	or not it's any fun.
+689.44	Look, I'm sure that the designers
+689.44	imagined this lifestyle for Barbie
+693.278	when they designed her.
+694.526	(Laughter)
+695.997	But what if it turns out that Barbie's
+695.997	actually really lonely?
+698.927	(Laughter)
+703.086	If the designers had known
+704.398	what was really happening
+704.398	in the real world
+706.529	with their designs -- the road,
+706.529	the building, Barbie --
+709.136	they could've used that knowledge
+709.136	to create an experience
+711.854	that was better for the user.
+713.278	What's missing is a nervous system
+715.093	connecting us to all of the things
+715.093	that we design, make and use.
+719.735	What if all of you had that kind
+719.735	of information flowing to you
+723.314	from the things you create
+723.314	in the real world?
+727.252	With all of the stuff we make,
+728.727	we spend a tremendous amount
+728.727	of money and energy --
+731.186	in fact, last year,
+731.186	about two trillion dollars --
+733.586	convincing people to buy
+733.586	the things we've made.
+736.464	But if you had this connection
+736.464	to the things that you design and create
+739.876	after they're out in the real world,
+741.627	after they've been sold
+741.627	or launched or whatever,
+745.265	we could actually change that,
+746.909	and go from making people want our stuff,
+749.98	to just making stuff that people
+749.98	want in the first place.
+753.438	The good news is, we're working
+753.438	on digital nervous systems
+756.249	that connect us to the things we design.
+760.185	We're working on one project
+761.836	with a couple of guys down in Los Angeles
+761.836	called the Bandito Brothers
+765.572	and their team.
+767.003	And one of the things these guys do
+767.003	is build insane cars
+770.46	that do absolutely insane things.
+774.725	These guys are crazy --
+776.199	(Laughter)
+777.259	in the best way.
+780.813	And what we're doing with them
+782.6	is taking a traditional race-car chassis
+785.064	and giving it a nervous system.
+786.673	So we instrumented it
+786.673	with dozens of sensors,
+789.755	put a world-class driver behind the wheel,
+792.414	took it out to the desert
+792.414	and drove the hell out of it for a week.
+795.795	And the car's nervous system
+795.795	captured everything
+798.31	that was happening to the car.
+799.816	We captured four billion data points;
+802.461	all of the forces
+802.461	that it was subjected to.
+804.795	And then we did something crazy.
+807.088	We took all of that data,
+808.612	and plugged it into a generative-design AI
+808.612	"we call ""Dreamcatcher."""
+813.09	So what do get when you give
+813.09	a design tool a nervous system,
+817.078	and you ask it to build you
+817.078	the ultimate car chassis?
+820.543	You get this.
+824.113	This is something that a human
+824.113	could never have designed.
+828.527	Except a human did design this,
+830.439	but it was a human that was augmented
+830.439	by a generative-design AI,
+834.772	a digital nervous system
+836.027	and robots that can actually
+836.027	fabricate something like this.
+839.5	So if this is the future,
+839.5	the Augmented Age,
+843.119	and we're going to be augmented
+843.119	cognitively, physically and perceptually,
+847.404	what will that look like?
+849.396	What is this wonderland going to be like?
+852.741	I think we're going to see a world
+854.474	where we're moving
+854.474	from things that are fabricated
+857.566	to things that are farmed.
+859.979	Where we're moving from things
+859.979	that are constructed
+863.456	to that which is grown.
+865.954	We're going to move from being isolated
+868.166	to being connected.
+870.454	And we'll move away from extraction
+872.889	to embrace aggregation.
+875.787	I also think we'll shift
+875.787	from craving obedience from our things
+879.578	to valuing autonomy.
+882.33	Thanks to our augmented capabilities,
+884.259	our world is going to change dramatically.
+887.396	We're going to have a world
+887.396	with more variety, more connectedness,
+890.666	more dynamism, more complexity,
+892.977	more adaptability and, of course,
+895.319	more beauty.
+897.051	The shape of things to come
+898.639	will be unlike anything
+898.639	we've ever seen before.
+900.953	Why?
+902.136	Because what will be shaping those things
+902.136	is this new partnership
+905.915	between technology, nature and humanity.
+911.099	That, to me, is a future
+911.099	well worth looking forward to.
+914.927	Thank you all so much.
+916.222	(Applause)

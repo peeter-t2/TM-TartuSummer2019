@@ -1,0 +1,260 @@
+startsecond	text
+15.26	For the last 20 years I've been designing puzzles.
+19.26	And I'm here today to give you
+24.26	a little tour, starting from the very first puzzle I designed,
+26.26	through what I'm doing now.
+28.26	I've designed puzzles for books, printed things.
+31.26	I'm the puzzle columnist for Discover Magazine.
+33.26	I've been doing that for about 10 years.
+35.26	I have a monthly puzzle calendar.
+37.26	I do toys. The bulk of my work is in computer games.
+40.26	"I did puzzles for ""Bejeweled."""
+42.26	(Applause)
+43.26	"I didn't invent ""Bejeweled."" I can't take credit for that."
+45.26	So, very first puzzle,
+48.26	sixth grade, my teacher said,
+50.26	"""Oh, let's see, that guy, he likes to make stuff."
+52.26	I'll have him cut out letters out of construction paper
+55.26	"for the board."""
+58.26	I thought this was a great assignment.
+60.26	And so here is what I came up with. I start fiddling with it.
+63.26	I came up with this letter. This is a letter of the alphabet
+66.26	that's been folded just once.
+68.26	The question is, which letter is it if I unfold it?
+73.26	"One hint: It's not ""L."""
+75.26	(Laughter)
+77.26	"It could be an ""L,"" of course."
+79.26	So, what else could it be?
+81.26	Yeah, a lot of you got it.
+84.26	Oh yeah. So, clever thing.
+87.26	Now, that was my first puzzle. I got hooked.
+89.26	I created something new, I was very excited
+93.26	because, you know, I'd made crossword puzzles,
+95.26	but that's sort of like filling in somebody else's matrix.
+98.26	This was something really original. I got hooked.
+100.26	I read Martin Gardner's columns in Scientific American.
+103.26	Went on, and eventually decided to devote myself, full time, to that.
+107.26	Now, I should pause and say, what do I mean by puzzle?
+110.26	A puzzle is a problem that is fun to solve
+113.26	and has a right answer.
+115.26	"""Fun to solve,"" as opposed to everyday problems,"
+119.26	which, frankly, are not very well-designed puzzles.
+122.26	You know, they might have a solution.
+124.26	It might take a long time. Nobody wrote down the rules clearly.
+127.26	Who designed this?
+129.26	It's like, you know, life is not a very well-written story
+131.26	so we have to hire writers to make movies.
+134.26	Well, I take everyday problems, and I make puzzles out of them.
+137.26	"And ""right answer,"" of course there might be more than one right answer;"
+140.26	many puzzles have more than one.
+142.26	But as opposed to a couple other forms of play,
+144.26	toys and games --
+146.26	by toy I mean, something you play with that doesn't have a particular goal.
+149.26	You can create one out of Legos.
+151.26	You know, you can do anything you want.
+153.26	Or competitive games like chess where,
+156.26	well, you're not trying to solve ... You can make a chess puzzle,
+159.26	but the goal really is to beat another player.
+164.26	I consider that puzzles are an art form.
+166.26	They're very ancient. It goes back as long as there is written history.
+169.26	It's a very small form, like a joke,
+171.26	a poem, a magic trick or a song, very compact form.
+175.26	At worst, they're throwaways, they're for amusement.
+178.26	But at best they can reach for something more
+181.26	and create a memorable impression.
+183.26	The progression of my career that you'll see
+185.26	is looking for creating puzzles that have a memorable impact.
+189.26	So, one thing I found early on, when I started doing computer games,
+192.26	is that I could create puzzles that will alter your perception.
+195.26	I'll show you how. Here is a famous one.
+198.26	So, it's two profiles in black, or a white vase in the middle.
+201.26	This is called a figure-ground illusion.
+203.26	The artist M.C. Escher exploited that
+205.26	in some of his wonderful prints.
+207.26	"Here we have ""Day and Night."""
+209.26	Here is what I did with figure and ground.
+217.26	"So, here we have ""figure"" in black."
+219.26	"Here we have ""figure"" in white."
+221.26	And it's all part of the same design.
+224.26	The background to one is the other.
+226.26	"Originally I tried to do the words ""figure"" and ""ground."""
+228.26	But I couldn't do that, I realized. I changed the problem.
+231.26	"It's all ""figure."""
+233.26	(Laughter)
+235.26	A few other things. Here is my name.
+238.26	"And that turns into the title of my first book, ""Inversions."""
+243.26	"These sorts of designs now go by the word ""ambigram."""
+247.26	I'll show you just a couple others. Here we have
+249.26	the numbers one through 10, the digits zero through nine, actually.
+252.26	Each letter here is one of these digits.
+255.26	Not strictly an ambigram in the conventional sense.
+258.26	I like pushing on what an ambigram can mean.
+261.26	"Here's the word ""mirror."" No, it's not the same upside-down."
+263.26	It's the same this way.
+267.26	And a marvelous fellow from the Media Lab
+269.26	who just got appointed head of RISD, is John Maeda.
+273.26	And so I did this for him. It's sort of a visual canon.
+277.26	(Laughter)
+280.26	And recently in Magic magazine
+285.26	I've done a number of ambigrams on magician's names.
+287.26	So here we have Penn and Teller, same upside-down.
+292.26	This appears in my puzzle calendar.
+295.26	Okay, let's go back to the slides.
+297.26	Thank you very much.
+299.26	Now, those are fun to look at.
+301.26	Now how would you do it interactively?
+304.26	For a while I was an interface designer.
+306.26	And so I think a lot about interaction.
+308.26	Well, let's first of all simplify the vases illusion,
+310.26	make the thing on the right.
+312.26	Now, if you could pick up the black vase,
+314.26	it would look like the figure on top.
+316.26	If you could pick up the white area,
+318.26	it would look like the figure on the bottom.
+320.26	Well, you can't do that physically,
+322.26	but on a computer you can do it. Let's switch over to the P.C.
+324.26	And here it is, figure-ground.
+328.26	The goal here is to take the pieces on the left
+331.26	and make them so they look like the shape on the right.
+334.26	And this follows the rules I just said:
+336.26	any black area that is surrounded by white can be picked up.
+339.26	But that is also true of any white area.
+341.26	So, here we got the white area in the middle,
+343.26	and you can pick it up.
+345.26	I'll just go one step further.
+347.26	So, here is --
+349.26	here is a couple pieces. Move them together,
+351.26	and now this is an active piece.
+354.26	You can really get inside somebody's perception
+356.26	and have them experience something.
+358.26	It's like the old maxim of
+360.26	"""you can tell somebody something"
+362.26	"and show them, but if they do it they really learn it."""
+364.26	Here is another thing you can do.
+366.26	There is a game called Rush Hour.
+368.26	This is one of the true masterpieces in puzzle design
+370.26	besides Rubik's cube.
+372.26	So, here we have a crowded parking lot
+374.26	with cars all over the place.
+376.26	The goal is to get the red car out. It's a sliding block puzzle.
+379.26	It's made by the company Think Fun.
+381.26	It's done very well. I love this puzzle.
+383.26	Well, let's play one. Here. So, here is a very simple puzzle.
+386.26	Well, that's too simple, let's add another piece.
+388.26	Okay, so how would you solve this one?
+390.26	Well, move the blue one out of the way.
+392.26	Here, let's make it a little harder. Still pretty easy.
+394.26	Now we'll make it harder, a little harder.
+397.26	Now, this one is a little bit trickier.
+399.26	You know? What do you do here?
+401.26	The first move is going to be what?
+403.26	You're going to move the blue one up in order to get the lavender one to the right.
+407.26	And you can make puzzles like this one that aren't solvable at all.
+410.26	Those four are locked in a pinwheel; you can't get them apart.
+412.26	I wanted to make a sequel.
+414.26	I didn't come up with the original idea. But this is another way
+416.26	I work as an inventor is to create a sequel.
+419.26	I came up with this. This is Railroad Rush Hour.
+421.26	It's the same basic game except I introduced a new piece,
+424.26	a square piece that can move both horizontally and vertically.
+427.26	In the other game the cars can only move forward and back.
+430.26	Created a whole bunch of levels for it.
+433.26	Now I'm making it available to schools.
+435.26	And it includes exercises that show you
+437.26	not just how to solve these puzzles,
+439.26	but how to extract the principles that will let you solve
+442.26	mathematical puzzles or problems in science, other areas.
+446.26	So, I'm really interested in you learning how to make your own puzzles
+449.26	as well as just me creating them.
+451.26	Garry Trudeau calls himself an investigative cartoonist.
+454.26	You know, he does a lot of research before he writes a cartoon.
+457.26	In Discover Magazine, I'm an investigative puzzle maker.
+460.26	I got interested in gene sequencing.
+462.26	"And I said, ""Well, how on Earth can you come up with a sequence"
+465.26	"of the base pairs in DNA?"""
+468.26	Cut up the DNA, you sequence individual pieces,
+470.26	and then you look for overlaps,
+472.26	and you basically match them at the edges. And I said,
+474.26	"""This is kind of like a jigsaw puzzle, except the pieces overlap."""
+477.26	So, here is what I created for Discover Magazine.
+480.26	And it has to be solvable in a magazine.
+482.26	You know, you can't cut out the pieces and move them around.
+484.26	So, here is the nine pieces. And you're supposed to put them into this grid.
+489.26	And you have to choose pieces that overlap on the edge.
+492.26	There is only one solution. It's not that hard.
+494.26	But it takes some persistence.
+496.26	And when you're done, it makes this design,
+498.26	"which, if you squint, is the word ""helix."""
+503.26	So, that's the form of the puzzle coming out of the content,
+506.26	rather than the other way around.
+508.26	Here is a couple more. Here is a physics-based puzzle.
+511.26	Which way will these fall?
+513.26	One of these weighs 50 pounds, 30 pounds and 10 pounds.
+516.26	And depending on which one weighs which amount,
+518.26	they'll fall different directions.
+520.26	And here is a puzzle based on color mixing.
+522.26	I separated this image into cyan, magenta, yellow, black,
+525.26	the basic printing colors, and then mixed up the separations,
+527.26	and you get these peculiar pictures.
+529.26	Which separations were mixed up to make those pictures?
+532.26	Gets you thinking about color.
+534.26	Finally, what I'm doing now. So, ShuffleBrain.com,
+537.26	website you can go visit, I joined up with my wife, Amy-Jo Kim.
+541.26	She could easily be up here giving a talk about her work.
+544.26	So, we're making smart games for social media.
+546.26	I'll explain what that means. We're looking at three trends.
+550.26	This is what's going on in the games industry right now.
+553.26	First of all, you know, for a long time
+556.26	"computer games meant things like ""Doom,"""
+558.26	where you're going around shooting things, very violent games, very fast,
+561.26	aimed at teenage boys. Right? That's who plays computer games.
+564.26	Well, guess what? That's changing.
+566.26	"""Bejeweled"" is a big hit. It was the game that really broke open"
+568.26	what's called casual games.
+571.26	And the main players are over 35, and are female.
+575.26	"Then recently ""Rock Band"" has been a big hit."
+577.26	And it's a game you play with other people.
+579.26	It's very physical. It looks nothing like a traditional game.
+582.26	This is what's becoming the dominant form of electronic gaming.
+586.26	Now, within that there is some interesting things happening.
+588.26	There is also a trend towards games that are good for you.
+591.26	Why? Well, we aging Boomers,
+593.26	Baby Boomers, we're eating our healthy food,
+596.26	we're exercising. What about our minds?
+598.26	Oh no, our parents are getting Alzheimer's. We better do something.
+602.26	Turns out doing crossword puzzles can stave off some of the effects of Alzheimer's.
+606.26	"So, we got games like ""Brain Age"" coming out for the Nintendo DS, huge hit."
+611.26	A lot of people do Sudoku. In fact some doctors prescribe it.
+615.26	And then there is social media, and what's happening on the Internet.
+618.26	Everybody now considers themselves a creator,
+621.26	and not just a viewer.
+623.26	And what does this add up to?
+625.26	Here is what we see coming.
+627.26	It's games that fit into a healthy lifestyle.
+630.26	They're part of your life. They're not necessarily a separate thing.
+633.26	And they are both, something that is good for you, and they're fun.
+636.26	I'm a puzzle guy. My wife is an expert in social media.
+639.26	And we decided to combine our skills.
+641.26	"Our first game is called ""Photo Grab."" The game takes about a minute and 20 seconds."
+644.26	This is your first time playing my game. Okay.
+646.26	Let's see how well we can do. There are three images.
+649.26	And we have 24 seconds each.
+651.26	Where is that?
+653.26	I'll play as fast as I can.
+655.26	But if you can see it, shout out the answer.
+658.26	You get more -- Down, okay, yeah where is that?
+661.26	Oh, yeah. There, okay. J-O and --
+665.26	I guess that's that part. We got the bow. That bow helps.
+668.26	That's his hair. You get a lot of figure-ground problems.
+671.26	Yeah, that one is easy. Okay. So, ahhh! Okay on to the next one.
+676.26	Okay, so that's the lens.
+678.26	Anybody?
+680.26	Looks like a black shape. So, where is that?
+683.26	That's the corner of the whole thing.
+686.26	Yeah, I've played this image before,
+688.26	but even when I make up my own puzzles --
+690.26	and you can put your own images in here.
+692.26	And we have people all over the world doing that now.
+696.26	There we are. Visit ShuffleBrain.com
+698.26	if you want to try it yourself. Thank you.
+700.26	(Applause)

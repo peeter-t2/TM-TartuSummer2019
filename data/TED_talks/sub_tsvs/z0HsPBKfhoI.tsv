@@ -1,0 +1,319 @@
+startsecond	text
+12.58	When I was a kid,
+12.58	I was the quintessential nerd.
+17.14	I think some of you were, too.
+19.34	(Laughter)
+20.58	And you, sir, who laughed the loudest,
+20.58	you probably still are.
+23.82	(Laughter)
+26.1	I grew up in a small town
+26.1	in the dusty plains of north Texas,
+29.62	the son of a sheriff
+29.62	who was the son of a pastor.
+32.98	Getting into trouble was not an option.
+35.86	And so I started reading
+35.86	calculus books for fun.
+39.14	(Laughter)
+40.7	You did, too.
+42.42	That led me to building a laser
+42.42	and a computer and model rockets,
+46.18	and that led me to making
+46.18	rocket fuel in my bedroom.
+49.78	Now, in scientific terms,
+53.46	we call this a very bad idea.
+56.74	(Laughter)
+57.98	Around that same time,
+60.18	"Stanley Kubrick's ""2001: A Space Odyssey"""
+60.18	came to the theaters,
+63.42	and my life was forever changed.
+66.1	I loved everything about that movie,
+68.18	especially the HAL 9000.
+70.74	Now, HAL was a sentient computer
+72.82	designed to guide the Discovery spacecraft
+75.3	from the Earth to Jupiter.
+77.86	HAL was also a flawed character,
+79.94	for in the end he chose
+79.94	to value the mission over human life.
+84.66	Now, HAL was a fictional character,
+86.78	but nonetheless he speaks to our fears,
+89.46	our fears of being subjugated
+91.58	by some unfeeling, artificial intelligence
+94.62	who is indifferent to our humanity.
+97.7	I believe that such fears are unfounded.
+100.3	Indeed, we stand at a remarkable time
+103.02	in human history,
+104.58	where, driven by refusal to accept
+104.58	the limits of our bodies and our minds,
+109.58	we are building machines
+111.3	of exquisite, beautiful
+111.3	complexity and grace
+114.94	that will extend the human experience
+117.02	in ways beyond our imagining.
+119.54	After a career that led me
+119.54	from the Air Force Academy
+122.14	to Space Command to now,
+124.1	I became a systems engineer,
+125.82	and recently I was drawn
+125.82	into an engineering problem
+128.58	associated with NASA's mission to Mars.
+131.18	Now, in space flights to the Moon,
+133.7	we can rely upon
+133.7	mission control in Houston
+136.86	to watch over all aspects of a flight.
+138.86	However, Mars is 200 times further away,
+142.42	and as a result it takes
+142.42	on average 13 minutes
+145.66	for a signal to travel
+145.66	from the Earth to Mars.
+148.82	If there's trouble,
+148.82	there's not enough time.
+152.66	And so a reasonable engineering solution
+155.18	calls for us to put mission control
+157.78	inside the walls of the Orion spacecraft.
+160.82	Another fascinating idea
+160.82	in the mission profile
+163.74	places humanoid robots
+163.74	on the surface of Mars
+166.66	before the humans themselves arrive,
+168.54	first to build facilities
+170.22	and later to serve as collaborative
+170.22	members of the science team.
+175.22	Now, as I looked at this
+175.22	from an engineering perspective,
+177.98	it became very clear to me
+177.98	that what I needed to architect
+181.18	was a smart, collaborative,
+183.38	socially intelligent
+183.38	artificial intelligence.
+185.78	In other words, I needed to build
+185.78	something very much like a HAL
+190.1	but without the homicidal tendencies.
+192.54	(Laughter)
+194.74	Let's pause for a moment.
+196.58	Is it really possible to build
+196.58	an artificial intelligence like that?
+200.5	Actually, it is.
+201.98	In many ways,
+203.26	this is a hard engineering problem
+205.26	with elements of AI,
+206.74	not some wet hair ball of an AI problem
+206.74	that needs to be engineered.
+211.46	To paraphrase Alan Turing,
+214.14	I'm not interested
+214.14	in building a sentient machine.
+216.54	I'm not building a HAL.
+218.14	All I'm after is a simple brain,
+220.58	something that offers
+220.58	the illusion of intelligence.
+224.82	The art and the science of computing
+224.82	have come a long way
+227.98	since HAL was onscreen,
+229.5	and I'd imagine if his inventor
+229.5	Dr. Chandra were here today,
+232.74	he'd have a whole lot of questions for us.
+235.1	Is it really possible for us
+237.22	to take a system of millions
+237.22	upon millions of devices,
+241.26	to read in their data streams,
+242.74	to predict their failures
+242.74	and act in advance?
+245.02	Yes.
+246.26	Can we build systems that converse
+246.26	with humans in natural language?
+249.46	Yes.
+250.7	Can we build systems
+250.7	that recognize objects, identify emotions,
+253.7	emote themselves,
+253.7	play games and even read lips?
+257.1	Yes.
+258.34	Can we build a system that sets goals,
+260.5	that carries out plans against those goals
+260.5	and learns along the way?
+264.14	Yes.
+265.38	Can we build systems
+265.38	that have a theory of mind?
+268.74	This we are learning to do.
+270.26	Can we build systems that have
+270.26	an ethical and moral foundation?
+274.3	This we must learn how to do.
+277.18	So let's accept for a moment
+278.58	that it's possible to build
+278.58	such an artificial intelligence
+281.5	for this kind of mission and others.
+283.66	The next question
+283.66	you must ask yourself is,
+286.22	should we fear it?
+287.7	Now, every new technology
+289.7	brings with it
+289.7	some measure of trepidation.
+292.62	When we first saw cars,
+294.34	people lamented that we would see
+294.34	the destruction of the family.
+298.38	When we first saw telephones come in,
+301.1	people were worried it would destroy
+301.1	all civil conversation.
+304.02	At a point in time we saw
+304.02	the written word become pervasive,
+307.98	people thought we would lose
+307.98	our ability to memorize.
+310.5	These things are all true to a degree,
+312.58	but it's also the case
+312.58	that these technologies
+315.02	brought to us things
+315.02	that extended the human experience
+318.42	in some profound ways.
+321.66	So let's take this a little further.
+324.94	I do not fear the creation
+324.94	of an AI like this,
+329.7	because it will eventually
+329.7	embody some of our values.
+333.54	Consider this: building a cognitive system
+333.54	is fundamentally different
+337.06	than building a traditional
+337.06	software-intensive system of the past.
+340.38	We don't program them. We teach them.
+342.86	In order to teach a system
+342.86	how to recognize flowers,
+345.54	I show it thousands of flowers
+345.54	of the kinds I like.
+348.58	In order to teach a system
+348.58	how to play a game --
+350.86	Well, I would. You would, too.
+354.42	I like flowers. Come on.
+357.26	To teach a system
+357.26	how to play a game like Go,
+360.14	I'd have it play thousands of games of Go,
+362.22	but in the process I also teach it
+363.9	how to discern
+363.9	a good game from a bad game.
+366.34	If I want to create an artificially
+366.34	intelligent legal assistant,
+370.06	I will teach it some corpus of law
+371.86	but at the same time I am fusing with it
+374.74	the sense of mercy and justice
+374.74	that is part of that law.
+378.38	In scientific terms,
+378.38	this is what we call ground truth,
+381.38	and here's the important point:
+383.42	in producing these machines,
+384.9	we are therefore teaching them
+384.9	a sense of our values.
+388.34	To that end, I trust
+388.34	an artificial intelligence
+391.5	the same, if not more,
+391.5	as a human who is well-trained.
+395.9	But, you may ask,
+397.14	what about rogue agents,
+399.78	some well-funded
+399.78	nongovernment organization?
+403.14	I do not fear an artificial intelligence
+403.14	in the hand of a lone wolf.
+406.98	Clearly, we cannot protect ourselves
+406.98	against all random acts of violence,
+411.54	but the reality is such a system
+413.7	requires substantial training
+413.7	and subtle training
+416.82	far beyond the resources of an individual.
+419.14	And furthermore,
+420.38	it's far more than just injecting
+420.38	an internet virus to the world,
+423.66	where you push a button,
+423.66	all of a sudden it's in a million places
+426.78	and laptops start blowing up
+426.78	all over the place.
+429.26	Now, these kinds of substances
+429.26	are much larger,
+432.1	and we'll certainly see them coming.
+434.34	Do I fear that such
+434.34	an artificial intelligence
+437.42	might threaten all of humanity?
+440.1	If you look at movies
+440.1	"such as ""The Matrix,"" ""Metropolis,"""
+444.5	"""The Terminator,"""
+444.5	"shows such as ""Westworld,"""
+447.7	they all speak of this kind of fear.
+449.86	"Indeed, in the book ""Superintelligence"""
+449.86	by the philosopher Nick Bostrom,
+454.18	he picks up on this theme
+455.74	and observes that a superintelligence
+455.74	might not only be dangerous,
+459.78	it could represent an existential threat
+459.78	to all of humanity.
+463.66	Dr. Bostrom's basic argument
+465.9	is that such systems will eventually
+468.66	have such an insatiable
+468.66	thirst for information
+471.94	that they will perhaps learn how to learn
+474.86	and eventually discover
+474.86	that they may have goals
+477.5	that are contrary to human needs.
+479.82	Dr. Bostrom has a number of followers.
+481.7	He is supported by people
+481.7	such as Elon Musk and Stephen Hawking.
+486.7	With all due respect
+489.98	to these brilliant minds,
+492.02	I believe that they
+492.02	are fundamentally wrong.
+494.3	Now, there are a lot of pieces
+494.3	of Dr. Bostrom's argument to unpack,
+497.5	and I don't have time to unpack them all,
+499.66	but very briefly, consider this:
+502.38	super knowing is very different
+502.38	than super doing.
+506.14	HAL was a threat to the Discovery crew
+508.06	only insofar as HAL commanded
+508.06	all aspects of the Discovery.
+512.5	So it would have to be
+512.5	with a superintelligence.
+515.02	It would have to have dominion
+515.02	over all of our world.
+517.54	This is the stuff of Skynet
+517.54	"from the movie ""The Terminator"""
+520.38	in which we had a superintelligence
+522.26	that commanded human will,
+523.66	that directed every device
+523.66	that was in every corner of the world.
+527.54	Practically speaking,
+529.02	it ain't gonna happen.
+531.14	We are not building AIs
+531.14	that control the weather,
+534.22	that direct the tides,
+535.58	that command us
+535.58	capricious, chaotic humans.
+538.98	And furthermore, if such
+538.98	an artificial intelligence existed,
+542.9	it would have to compete
+542.9	with human economies,
+545.86	and thereby compete for resources with us.
+549.02	And in the end --
+550.26	don't tell Siri this --
+552.26	we can always unplug them.
+553.66	(Laughter)
+557.18	We are on an incredible journey
+559.66	of coevolution with our machines.
+562.18	The humans we are today
+564.7	are not the humans we will be then.
+567.26	To worry now about the rise
+567.26	of a superintelligence
+570.42	is in many ways a dangerous distraction
+573.5	because the rise of computing itself
+575.86	brings to us a number
+575.86	of human and societal issues
+578.9	to which we must now attend.
+581.18	How shall I best organize society
+584.02	when the need for human labor diminishes?
+586.38	How can I bring understanding
+586.38	and education throughout the globe
+590.22	and still respect our differences?
+592.02	How might I extend and enhance human life
+592.02	through cognitive healthcare?
+596.3	How might I use computing
+599.18	to help take us to the stars?
+601.58	And that's the exciting thing.
+604.22	The opportunities to use computing
+606.58	to advance the human experience
+608.14	are within our reach,
+609.58	here and now,
+611.46	and we are just beginning.
+614.1	Thank you very much.
+615.34	(Applause)

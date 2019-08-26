@@ -1,0 +1,159 @@
+startsecond	text
+12.613	So why do we learn mathematics?
+15.652	Essentially, for three reasons:
+18.2	calculation,
+19.828	application,
+21.728	and last, and unfortunately least
+24.415	in terms of the time we give it,
+26.52	inspiration.
+28.442	Mathematics is the science of patterns,
+30.714	and we study it to learn how to think logically,
+34.072	critically and creatively,
+36.599	but too much of the mathematics
+36.599	that we learn in school
+39.525	is not effectively motivated,
+41.844	and when our students ask,
+43.269	"""Why are we learning this?"""
+44.944	then they often hear that they'll need it
+46.905	in an upcoming math class or on a future test.
+50.17	But wouldn't it be great
+51.972	if every once in a while we did mathematics
+54.49	simply because it was fun or beautiful
+57.439	or because it excited the mind?
+59.529	Now, I know many people have not
+61.251	had the opportunity to see how this can happen,
+63.57	so let me give you a quick example
+65.399	with my favorite collection of numbers,
+67.74	the Fibonacci numbers. (Applause)
+70.468	Yeah! I already have Fibonacci fans here.
+72.52	That's great.
+73.836	Now these numbers can be appreciated
+75.952	in many different ways.
+77.83	From the standpoint of calculation,
+80.539	they're as easy to understand
+82.216	as one plus one, which is two.
+84.77	Then one plus two is three,
+86.773	two plus three is five, three plus five is eight,
+89.787	and so on.
+91.312	Indeed, the person we call Fibonacci
+93.489	was actually named Leonardo of Pisa,
+96.669	"and these numbers appear in his book ""Liber Abaci,"""
+99.722	which taught the Western world
+101.372	the methods of arithmetic that we use today.
+104.199	In terms of applications,
+105.92	Fibonacci numbers appear in nature
+108.103	surprisingly often.
+109.96	The number of petals on a flower
+111.7	is typically a Fibonacci number,
+113.562	or the number of spirals on a sunflower
+116.332	or a pineapple
+117.743	tends to be a Fibonacci number as well.
+120.137	In fact, there are many more
+120.137	applications of Fibonacci numbers,
+123.64	but what I find most inspirational about them
+126.2	are the beautiful number patterns they display.
+128.934	Let me show you one of my favorites.
+131.128	Suppose you like to square numbers,
+133.349	and frankly, who doesn't? (Laughter)
+136.04	Let's look at the squares
+138.28	of the first few Fibonacci numbers.
+140.131	So one squared is one,
+142.161	two squared is four, three squared is nine,
+144.478	five squared is 25, and so on.
+147.651	Now, it's no surprise
+149.552	that when you add consecutive Fibonacci numbers,
+152.38	you get the next Fibonacci number. Right?
+154.412	That's how they're created.
+155.807	But you wouldn't expect anything special
+157.58	to happen when you add the squares together.
+160.656	But check this out.
+162.002	One plus one gives us two,
+164.003	and one plus four gives us five.
+166.765	And four plus nine is 13,
+168.96	nine plus 25 is 34,
+172.173	and yes, the pattern continues.
+174.832	In fact, here's another one.
+176.453	Suppose you wanted to look at
+178.297	adding the squares of
+178.297	the first few Fibonacci numbers.
+180.795	Let's see what we get there.
+182.403	So one plus one plus four is six.
+184.542	Add nine to that, we get 15.
+187.547	Add 25, we get 40.
+189.76	Add 64, we get 104.
+192.551	Now look at those numbers.
+194.203	Those are not Fibonacci numbers,
+196.587	but if you look at them closely,
+198.466	you'll see the Fibonacci numbers
+200.349	buried inside of them.
+202.527	Do you see it? I'll show it to you.
+204.597	Six is two times three, 15 is three times five,
+210.389	two, three, five, eight, who do we appreciate?
+213.317	(Laughter)
+214.504	Fibonacci! Of course.
+216.659	Now, as much fun as it is to discover these patterns,
+220.442	it's even more satisfying to understand
+222.924	why they are true.
+224.882	Let's look at that last equation.
+226.771	Why should the squares of one, one,
+226.771	two, three, five and eight
+230.639	add up to eight times 13?
+233.184	I'll show you by drawing a simple picture.
+236.145	We'll start with a one-by-one square
+238.832	and next to that put another one-by-one square.
+242.997	Together, they form a one-by-two rectangle.
+246.405	Beneath that, I'll put a two-by-two square,
+248.954	and next to that, a three-by-three square,
+251.749	beneath that, a five-by-five square,
+253.75	and then an eight-by-eight square,
+255.662	creating one giant rectangle, right?
+258.234	Now let me ask you a simple question:
+260.15	what is the area of the rectangle?
+263.806	Well, on the one hand,
+265.777	it's the sum of the areas
+268.307	of the squares inside it, right?
+270.173	Just as we created it.
+271.532	It's one squared plus one squared
+273.704	plus two squared plus three squared
+275.937	plus five squared plus eight squared. Right?
+278.536	That's the area.
+280.393	On the other hand, because it's a rectangle,
+282.719	the area is equal to its height times its base,
+286.367	and the height is clearly eight,
+288.414	and the base is five plus eight,
+291.317	which is the next Fibonacci number, 13. Right?
+295.255	So the area is also eight times 13.
+298.618	Since we've correctly calculated the area
+300.88	two different ways,
+302.567	they have to be the same number,
+304.739	and that's why the squares of one,
+304.739	one, two, three, five and eight
+308.13	add up to eight times 13.
+310.421	Now, if we continue this process,
+312.795	we'll generate rectangles of the form 13 by 21,
+319.167	Now check this out.
+320.576	If you divide 13 by eight,
+322.769	you get 1.625.
+324.812	And if you divide the larger number
+324.812	by the smaller number,
+328.239	then these ratios get closer and closer
+331.112	to about 1.618,
+333.765	known to many people as the Golden Ratio,
+337.066	a number which has fascinated mathematicians,
+339.662	scientists and artists for centuries.
+342.908	Now, I show all this to you because,
+345.139	like so much of mathematics,
+347.164	there's a beautiful side to it
+349.131	that I fear does not get enough attention
+351.146	in our schools.
+352.713	We spend lots of time learning about calculation,
+355.546	but let's not forget about application,
+358.302	including, perhaps, the most
+358.302	important application of all,
+361.756	learning how to think.
+363.832	If I could summarize this in one sentence,
+365.789	it would be this:
+367.25	Mathematics is not just solving for x,
+370.61	it's also figuring out why.
+373.535	Thank you very much.
+375.35	(Applause)

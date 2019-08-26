@@ -1,0 +1,615 @@
+startsecond	text
+13.381	Charlie Rose: So Larry sent me an email
+17.007	and he basically said,
+18.994	we've got to make sure that 
+18.994	we don't seem like we're
+22.723	a couple of middle-aged boring men.
+27.214	I said, I'm flattered by that --
+30.256	(Laughter) —
+32.628	because I'm a bit older,
+36.143	and he has a bit more net worth than I do.
+40.294	Larry Page: Well, thank you.
+42.893	CR: So we'll have a conversation about
+45.873	the Internet, and we'll have a conversation Google,
+48.571	and we'll have a conversation about search
+50.005	and privacy,
+51.372	and also about your philosophy
+52.927	and a sense of how you've connected the dots
+55.383	and how this journey that began
+57.474	some time ago
+58.758	has such interesting prospects.
+60.653	Mainly we want to talk about the future.
+63.249	So my first question: Where is Google
+64.838	and where is it going?
+66.884	LP: Well, this is something we think about a lot,
+68.343	and our mission we defined a long time ago
+71.918	is to organize the world's information
+74.181	and make it universally accessible and useful.
+77.619	And people always say,
+79.661	is that really what you guys are still doing?
+81.876	And I always kind of think about that myself,
+83.994	and I'm not quite sure.
+86.19	But actually, when I think about search,
+90.197	it's such a deep thing for all of us,
+92.813	to really understand what you want,
+95.056	to understand the world's information,
+97.424	and we're still very much in the early stages of that,
+100.956	which is totally crazy.
+102.769	We've been at it for 15 years already,
+105.287	but it's not at all done.
+108.862	CR: When it's done, how will it be?
+111.538	LP: Well, I guess,
+114.255	in thinking about where we're going --
+116.655	you know, why is it not done? --
+118.942	a lot of it is just computing's kind of a mess.
+121.378	You know, your computer
+121.378	doesn't know where you are,
+123.181	it doesn't know what you're doing,
+125.216	it doesn't know what you know,
+126.898	and a lot we've been trying to do recently
+129.474	is just make your devices work,
+132.769	make them understand your context.
+135.11	Google Now, you know, knows where you are,
+137.113	knows what you may need.
+139.295	So really having computing 
+139.295	work and understand you
+143.403	and understand that information,
+145.459	we really haven't done that yet.
+147.769	It's still very, very clunky.
+149.318	CR: Tell me, when you look at what Google is doing,
+151.684	where does Deep Mind fit?
+154.653	LP: Yeah, so Deep Mind is a company
+156.237	we just acquired recently.
+158.768	It's in the U.K.
+161.85	First, let me tell you the way we got there,
+164.504	which was looking at search
+166.732	and really understanding,
+168.355	trying to understand everything,
+170.588	and also make the computers not clunky
+172.193	and really understand you --
+174.394	like, voice was really important.
+176.506	So what's the state of the art 
+176.506	on speech recognition?
+179.367	It's not very good.
+181.027	It doesn't really understand you.
+183.093	So we started doing machine learning research
+185.096	to improve that.
+186.633	That helped a lot.
+188.336	And we started just looking at things like YouTube.
+190.703	Can we understand YouTube?
+192.671	But we actually ran machine learning on YouTube
+195.357	and it discovered cats, just by itself.
+199.442	Now, that's an important concept.
+201.533	And we realized there's really something here.
+204.524	If we can learn what cats are,
+206.641	that must be really important.
+208.716	So I think Deep Mind,
+211.345	what's really amazing about Deep Mind
+213.709	is that it can actually --
+215.713	they're learning things in this unsupervised way.
+219.27	They started with video games,
+221.837	and really just, maybe I can show the video,
+224.33	just playing video games,
+226.534	and learning how to do that automatically.
+228.549	CR: Take a look at the video games
+230.401	and how machines are coming to be able
+232.811	to do some remarkable things.
+235.267	LP: The amazing thing about this
+236.596	is this is, I mean, obviously,
+238.276	these are old games,
+239.75	but the system just sees what you see, the pixels,
+244.548	and it has the controls and it has the score,
+246.979	and it's learned to play all of these games,
+249.19	same program.
+250.769	It's learned to play all of these games
+252.806	with superhuman performance.
+254.592	We've not been able to do things like this
+256.447	with computers before.
+257.965	And maybe I'll just narrate this one quickly.
+260.26	This is boxing, and it figures out it can
+263.065	sort of pin the opponent down.
+265.699	The computer's on the left,
+267.438	and it's just racking up points.
+270.523	So imagine if this kind
+272.609	of intelligence were thrown at your schedule,
+274.736	or your information needs, or things like that.
+279.373	We're really just at the beginning of that,
+281.991	and that's what I'm really excited about.
+284.356	CR: When you look at all that's taken place
+286.826	with Deep Mind and the boxing,
+289.41	also a part of where we're going
+291.75	is artificial intelligence.
+294.639	Where are we, when you look at that?
+297.438	LP: Well, I think for me,
+299.223	this is kind of one of the most exciting things
+300.726	I've seen in a long time.
+302.638	The guy who started this company, Demis,
+305.051	has a neuroscience and a
+305.051	computer science background.
+307.829	He went back to school
+309.459	to get his Ph.D. to study the brain.
+312.585	And so I think we're seeing a lot of exciting work
+315.205	going on that sort of crosses computer science
+318.286	and neuroscience
+320.036	in terms of really understanding
+322.361	what it takes to make something smart
+324.815	and do really interesting things.
+326.53	CR: But where's the level of it now?
+328.668	And how fast do you think we are moving?
+331.374	LP: Well, this is the state of the art right now,
+334.643	understanding cats on YouTube
+336.774	and things like that,
+338.057	improving voice recognition.
+340.204	We used a lot of machine learning
+342.622	to improve things incrementally,
+345.101	but I think for me, this example's really exciting,
+348.495	because it's one program
+350.738	that can do a lot of different things.
+352.782	CR: I don't know if we can do this,
+353.92	but we've got the image of the cat.
+355.105	It would be wonderful to see this.
+356.859	This is how machines looked at cats
+359.368	and what they came up with.
+360.483	Can we see that image?
+361.538	LP: Yeah.
+361.538	CR: There it is. Can you see the cat?
+363.94	Designed by machines, seen by machines.
+365.967	LP: That's right.
+367.077	So this is learned from just watching YouTube.
+369.684	And there's no training,
+371.551	no notion of a cat,
+372.935	but this concept of a cat
+375.496	is something important that you would understand,
+378.304	and now that the machines can kind of understand.
+380.827	Maybe just finishing
+381.999	also on the search part,
+384.221	it started with search, really understanding
+387.007	people's context and their information.
+389.571	I did have a video
+391.431	I wanted to show quickly on that
+393.441	that we actually found.
+395.088	"(Video) [""Soy, Kenya""]"
+400.58	Zack Matere: Not long ago,
+402.452	I planted a crop of potatoes.
+405.038	Then suddenly they started
+405.038	dying one after the other.
+408.438	I checked out the books and 
+408.438	they didn't tell me much.
+411.188	So, I went and I did a search.
+413.134	"[""Zack Matere, Farmer""]"
+417.609	Potato diseases.
+420.756	One of the websites told me
+422.484	that ants could be the problem.
+424.386	It said, sprinkle wood ash over the plants.
+426.657	Then after a few days the ants disappeared.
+428.941	I got excited about the Internet.
+431.535	I have this friend
+433.2	who really would like to expand his business.
+436.818	So I went with him to the cyber cafe
+440.013	and we checked out several sites.
+442.554	When I met him next, he was going to put a windmill
+445.095	at the local school.
+447.789	I felt proud because
+449.393	something that wasn't there before
+451.421	was suddenly there.
+453.308	I realized that not everybody
+455.998	can be able to access
+457.532	what I was able to access.
+459.018	I thought that I need to have an Internet
+460.856	that my grandmother can use.
+462.657	So I thought about a notice board.
+465.114	A simple wooden notice board.
+467.03	When I get information on my phone,
+469.345	I'm able to post the information
+471.582	on the notice board.
+473.304	So it's basically like a computer.
+476.162	I use the Internet to help people.
+480.051	I think I am searching for
+483.461	a better life
+485.002	for me and my neighbors.
+489.116	So many people have access to information,
+493.1	but there's no follow-up to that.
+495.681	I think the follow-up to that is our knowledge.
+498.189	When people have the knowledge,
+499.795	they can find solutions
+501.425	without having to helped out.
+503.44	Information is powerful,
+505.561	but it is how we use it that will define us.
+510.163	(Applause)
+514.544	LP: Now, the amazing thing about that video,
+517.09	actually, was we just read about it in the news,
+518.556	and we found this gentlemen,
+521.061	and made that little clip.
+523.376	CR: When I talk to people about you,
+524.767	they say to me, people who know you well, say,
+527.372	Larry wants to change the world,
+529.263	and he believes technology can show the way.
+533.375	And that means access to the Internet.
+535.233	It has to do with languages.
+536.964	It also means how people can get access
+539.793	and do things that will affect their community,
+542.499	and this is an example.
+544.992	LP: Yeah, that's right, and I think for me,
+548.568	I have been focusing on access more,
+550.95	if we're talking about the future.
+553.148	We recently released this Loon Project
+555.822	which is using balloons to do it.
+558.122	It sounds totally crazy.
+559.782	We can show the video here.
+562.321	Actually, two out of three people in the world
+563.801	don't have good Internet access now.
+566.187	We actually think this can really help people
+569.093	sort of cost-efficiently.
+571.15	CR: It's a balloon.
+571.15	LP: Yeah, get access to the Internet.
+574.521	CR: And why does this balloon give you access
+576.664	to the Internet?
+577.877	Because there was some interesting things
+579.092	you had to do to figure out how
+580.926	to make balloons possible,
+583.057	they didn't have to be tethered.
+584.806	LP: Yeah, and this is a good example of innovation.
+586.887	Like, we've been thinking about this idea
+589.431	for five years or more
+591.203	before we started working on it,
+592.804	but it was just really,
+594.123	how do we get access points up high, cheaply?
+597.643	You normally have to use satellites
+599.435	and it takes a long time to launch them.
+602.374	But you saw there how easy it is to launch a balloon
+604.868	and get it up,
+606.387	and actually again, it's the power of the Internet,
+608.388	I did a search on it,
+610.168	and I found, 30, 40 years ago,
+612.472	someone had put up a balloon
+614.361	and it had gone around the Earth multiple times.
+617.166	And I thought, why can't we do that today?
+620.001	And that's how this project got going.
+622.368	CR: But are you at the mercy of the wind?
+624.698	LP: Yeah, but it turns out,
+626.82	we did some weather simulations
+628.313	which probably hadn't really been done before,
+630.86	and if you control the altitude of the balloons,
+632.97	which you can do by pumping air into them
+635.251	and other ways,
+637.073	you can actually control roughly where they go,
+640.002	and so I think we can build a worldwide mesh
+642.207	of these balloons that can cover the whole planet.
+645.546	CR: Before I talk about the future and transportation,
+647.788	where you've been a nerd for a while,
+649.683	and this fascination you have with transportation
+652.107	and automated cars and bicycles,
+654.17	let me talk a bit about what's been the subject here
+655.907	earlier with Edward Snowden.
+658.35	It is security and privacy.
+661.456	You have to have been thinking about that.
+663.796	LP: Yeah, absolutely.
+665.15	I saw the picture of Sergey with
+665.15	Edward Snowden yesterday.
+667.993	Some of you may have seen it.
+670.863	But I think, for me, I guess,
+674.034	privacy and security are a really important thing.
+677.696	We think about it in terms of both things,
+679.941	and I think you can't have privacy without security,
+682.844	so let me just talk about security first,
+685.215	because you asked about Snowden and all of that,
+687.811	and then I'll say a little bit about privacy.
+690.252	I think for me, it's tremendously disappointing
+694.052	that the government
+695.491	secretly did all this stuff and didn't tell us.
+697.821	I don't think we can have a democracy
+701.124	if we're having to protect you and our users
+704.554	from the government
+706.25	for stuff that we've never had a conversation about.
+709.053	And I don't mean we have to know
+710.949	what the particular terrorist attack is they're worried
+712.644	about protecting us from,
+714.406	but we do need to know
+716.204	what the parameters of it is,
+718.614	what kind of surveillance the government's
+720.658	going to do and how and why,
+722.826	and I think we haven't had that conversation.
+725.103	So I think the government's actually done
+727.67	itself a tremendous disservice
+729.838	by doing all that in secret.
+731.999	CR: Never coming to Google
+733.614	to ask for anything.
+735.139	LP: Not Google, but the public.
+737.169	I think we need to 
+737.169	have a debate about that,
+740.942	or we can't have a functioning democracy.
+743.441	It's just not possible.
+744.847	So I'm sad that Google's
+747.091	in the position of protecting you and our users
+749.707	from the government
+751.241	doing secret thing that nobody knows about.
+753.485	It doesn't make any sense.
+755.232	CR: Yeah. And then there's a privacy side of it.
+758.222	LP: Yes. The privacy side,
+760.649	I think it's -- the world is changing.
+762.618	You carry a phone. It knows where you are.
+766.523	There's so much more information about you,
+769.608	and that's an important thing,
+772.454	and it makes sense why people are asking
+774.726	difficult questions.
+776.762	We spend a lot of time thinking about this
+780.129	and what the issues are.
+782.84	I'm a little bit --
+784.569	I think the main thing that we need to do
+785.829	is just provide people choice,
+788.191	show them what data's being collected --
+790.703	search history, location data.
+795.454	We're excited about incognito mode in Chrome,
+798.226	and doing that in more ways,
+800.475	just giving people more choice
+801.871	and more awareness of what's going on.
+805.164	I also think it's very easy.
+807.557	What I'm worried is that we throw out
+808.834	the baby with the bathwater.
+810.924	And I look at, on your show, actually,
+813.838	I kind of lost my voice,
+815.557	and I haven't gotten it back.
+816.888	I'm hoping that by talking to you
+818.532	I'm going to get it back.
+820.185	CR: If I could do anything, I would do that.
+821.917	LP: All right. So get out your voodoo doll
+824.097	and whatever you need to do.
+826.516	But I think, you know what, I look at that,
+828.844	I made that public,
+830.674	and I got all this information.
+831.891	We got a survey done on medical conditions
+834.62	with people who have similar issues,
+837.991	and I look at medical records, and I say,
+842.732	wouldn't it be amazing
+844.137	if everyone's medical records were available
+846.187	anonymously
+847.87	to research doctors?
+850.506	And when someone accesses your medical record,
+853.547	a research doctor,
+855.156	they could see, you could see which doctor
+857.79	accessed it and why,
+859.65	and you could maybe learn about
+861.23	what conditions you have.
+862.86	I think if we just did that,
+864.362	we'd save 100,000 lives this year.
+866.527	CR: Absolutely. Let me go — (Applause)
+869.475	LP: So I guess I'm just very worried that
+872.237	with Internet privacy,
+874.043	we're doing the same thing we're 
+874.043	doing with medical records,
+876.347	is we're throwing out the baby with the bathwater,
+878.876	and we're not really thinking
+880.704	about the tremendous good that can come
+882.914	from people sharing information
+885.105	with the right people in the right ways.
+887.682	CR: And the necessary condition
+889.919	that people have to have confidence
+891.621	that their information will not be abused.
+894.076	LP: Yeah, and I had this problem with my voice stuff.
+895.853	I was scared to share it.
+897.361	Sergey encouraged me to do that,
+899.251	and it was a great thing to do.
+901.078	CR: And the response has been overwhelming.
+902.812	LP: Yeah, and people are super positive.
+904.472	We got thousands and thousands of people
+907.305	with similar conditions,
+908.593	which there's no data on today.
+911.621	So it was a really good thing.
+912.977	CR: So talking about the future, what is it about you
+915.996	and transportation systems?
+919.754	LP: Yeah. I guess I was just frustrated
+921.931	with this when I was at college in Michigan.
+924.47	I had to get on the bus and take it
+925.92	and wait for it.
+927.562	And it was cold and snowing.
+929.741	I did some research on how much it cost,
+932.396	and I just became a bit obsessed
+932.396	with transportation systems.
+938.821	CR: And that began the idea of an automated car.
+941.191	LP: Yeah, about 18 years ago I learned about
+942.885	people working on automated cars,
+946.067	and I became fascinated by that,
+947.69	and it takes a while to 
+947.69	get these projects going,
+950.467	but I'm super excited about the possibilities of that
+955.564	improving the world.
+957.232	There's 20 million people or more injured per year.
+961.758	It's the leading cause of death
+963.744	for people under 34 in the U.S.
+965.874	CR: So you're talking about saving lives.
+967.425	LP: Yeah, and also saving space
+969.78	and making life better.
+973.695	Los Angeles is half parking lots and roads,
+977.94	half of the area,
+979.673	and most cities are not far behind, actually.
+982.5	It's just crazy
+984.064	that that's what we use our space for.
+985.657	CR: And how soon will we be there?
+988	LP: I think we can be there very, very soon.
+989.926	We've driven well over 100,000 miles
+993.427	now totally automated.
+997.52	I'm super excited about getting that out quickly.
+1001.172	CR: But it's not only you're
+1001.172	talking about automated cars.
+1003.577	You also have this idea for bicycles.
+1005.963	LP: Well at Google, we got this idea
+1008.209	that we should just provide free bikes to everyone,
+1011.66	and that's been amazing, most of the trips.
+1014.428	You see bikes going everywhere,
+1016.014	and the bikes wear out.
+1017.58	They're getting used 24 hours a day.
+1019.034	CR: But you want to put them above the street, too.
+1021.194	LP: Well I said, how do we get people
+1022.769	using bikes more?
+1024.296	CR: We may have a video here.
+1025.921	LP: Yeah, let's show the video.
+1027.199	I just got excited about this.
+1030.291	(Music)
+1036.213	So this is actually how you might separate
+1038.638	bikes from cars with minimal cost.
+1046.711	Anyway, it looks totally crazy,
+1048.466	but I was actually thinking about our campus,
+1050.793	working with the Zippies and stuff,
+1052.853	and just trying to get a lot more bike usage,
+1055.151	and I was thinking about,
+1056.699	how do you cost-effectively separate
+1059.53	the bikes from traffic?
+1060.944	And I went and searched,
+1062.094	and this is what I found.
+1063.465	And we're not actually working on this,
+1065.31	that particular thing,
+1066.602	but it gets your imagination going.
+1068.656	CR: Let me close with this.
+1070.42	Give me a sense of the philosophy 
+1070.42	of your own mind.
+1072.765	You have this idea of [Google X].
+1075.253	You don't simply want
+1078.249	to go in some small, measurable arena of progress.
+1083.845	LP: Yeah, I think
+1085.558	many of the things we just 
+1085.558	talked about are like that,
+1087.689	where they're really --
+1090.641	I almost use the economic concept of additionality,
+1094.271	which means that you're doing something
+1096.461	that wouldn't happen unless 
+1096.461	you were actually doing it.
+1099.409	And I think the more you can do things like that,
+1102.549	the bigger impact you have,
+1104.62	and that's about doing things
+1107.61	that people might not think are possible.
+1111.217	And I've been amazed,
+1113.046	the more I learn about technology,
+1115.275	the more I realize I don't know,
+1117.471	and that's because this technological horizon,
+1120.808	the thing that you can see to do next,
+1123.705	the more you learn about technology,
+1125.545	the more you learn what's possible.
+1128.147	You learn that the balloons are possible
+1130.393	because there's some material
+1130.393	that will work for them.
+1132.73	CR: What's interesting about 
+1132.73	you too, though, for me,
+1135.109	is that, we have lots of people
+1136.82	who are thinking about the future,
+1138.962	and they are going and looking
+1138.962	and they're coming back,
+1142.23	but we never see the implementation.
+1144.357	I think of somebody you knew
+1145.962	and read about, Tesla.
+1148.869	The principle of that for you is what?
+1152.673	LP: Well, I think invention is not enough.
+1154.458	If you invent something,
+1155.679	Tesla invented electric power that we use,
+1158.874	but he struggled to get it out to people.
+1161.535	That had to be done by other people.
+1163.219	It took a long time.
+1164.845	And I think if we can actually combine both things,
+1168.712	where we have an innovation and invention focus,
+1172.243	plus the ability to really -- a company
+1175.215	that can really commercialize things
+1177.213	and get them to people
+1178.843	in a way that's positive for the world
+1180.918	and to give people hope.
+1182.974	You know, I'm amazed with the Loon Project
+1185.748	just how excited people were about that,
+1188.534	because it gave them hope
+1190.348	for the two thirds of the world
+1191.969	that doesn't have Internet right now that's any good.
+1194.695	CR: Which is a second thing about corporations.
+1196.817	You are one of those people who believe
+1199.293	that corporations are an agent of change
+1201.61	if they are run well.
+1203.081	LP: Yeah. I'm really dismayed
+1204.902	most people think companies are basically evil.
+1208.196	They get a bad rap.
+1209.962	And I think that's somewhat correct.
+1212.203	Companies are doing the same incremental thing
+1215.073	that they did 50 years ago
+1216.836	or 20 years ago.
+1218.467	That's not really what we need.
+1219.837	We need, especially in technology,
+1222.055	we need revolutionary change,
+1224.172	not incremental change.
+1225.585	CR: You once said, actually,
+1226.754	as I think I've got this about right,
+1228.572	that you might consider,
+1230.217	rather than giving your money,
+1231.97	if you were leaving it to some cause,
+1235.29	just simply giving it to Elon Musk,
+1237.296	because you had confidence
+1238.459	that he would change the future,
+1240.301	and that you would therefore —
+1242.078	LP: Yeah, if you want to go Mars,
+1243.662	he wants to go to Mars,
+1245.383	to back up humanity,
+1247.354	that's a worthy goal, but it's a company,
+1249.026	and it's philanthropical.
+1251.581	So I think we aim to do kind of similar things.
+1254.533	And I think, you ask, we have a lot of employees
+1257.52	at Google who have become pretty wealthy.
+1260.835	People make a lot of money in technology.
+1263.355	A lot of people in the room are pretty wealthy.
+1265.511	You're working because you
+1265.511	want to change the world.
+1267.825	You want to make it better.
+1269.587	Why isn't the company that you work for
+1273.032	worthy not just of your time
+1274.975	but your money as well?
+1277.126	I mean, but we don't have a concept of that.
+1278.848	That's not how we think about companies,
+1281.152	and I think it's sad,
+1282.619	because companies are most of our effort.
+1286.386	They're where most of people's time is,
+1288.901	where a lot of the money is,
+1290.755	and so I think I'd like for us to help out
+1293.107	more than we are.
+1294.233	CR: When I close conversations with lots of people,
+1295.954	I always ask this question:
+1297.733	What state of mind,
+1299.248	what quality of mind is it
+1301.057	that has served you best?
+1302.824	People like Rupert Murdoch have said curiosity,
+1305.345	and other people in the media have said that.
+1307.973	Bill Gates and Warren Buffett have said focus.
+1310.997	What quality of mind,
+1312.424	as I leave this audience,
+1313.798	has enabled you to think about the future
+1317.328	and at the same time
+1318.975	change the present?
+1321.18	LP: You know, I think the most important thing --
+1322.85	I looked at lots of companies
+1324.462	and why I thought they don't succeed over time.
+1327.765	We've had a more rapid turnover of companies.
+1330.598	And I said, what did they fundamentally do wrong?
+1333.367	What did those companies all do wrong?
+1335.534	And usually it's just that they missed the future.
+1338.806	And so I think, for me,
+1341.25	I just try to focus on that and say,
+1343.674	what is that future really going to be
+1345.858	and how do we create it,
+1347.645	and how do we cause our organization,
+1352.312	to really focus on that
+1354.752	and drive that at a really high rate?
+1358.077	And so that's been curiosity,
+1359.437	it's been looking at things
+1361.17	people might not think about,
+1362.888	working on things that no one else is working on,
+1365.993	because that's where the additionality really is,
+1369.299	and be willing to do that,
+1370.85	to take that risk.
+1372.232	Look at Android.
+1373.297	I felt guilty about working on Android
+1376.082	when it was starting.
+1377.398	It was a little startup we bought.
+1379.356	It wasn't really what we were really working on.
+1382.026	And I felt guilty about spending time on that.
+1384.521	That was stupid.
+1385.975	That was the future, right?
+1387.026	That was a good thing to be working on.
+1389.311	CR: It is great to see you here.
+1390.728	It's great to hear from you,
+1392.188	and a pleasure to sit at this table with you.
+1394.485	Thanks, Larry.
+1395.413	LP: Thank you.
+1397.516	(Applause)
+1401.448	CR: Larry Page.

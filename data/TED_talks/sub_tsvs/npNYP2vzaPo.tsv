@@ -1,0 +1,462 @@
+startsecond	text
+13.373	Most of us think of motion
+13.373	as a very visual thing.
+17.889	If I walk across this stage
+17.889	or gesture with my hands while I speak,
+22.977	that motion is something that you can see.
+26.255	But there's a world of important motion
+26.255	that's too subtle for the human eye,
+31.737	and over the past few years,
+33.778	we've started to find that cameras
+35.775	can often see this motion
+35.775	even when humans can't.
+40.305	So let me show you what I mean.
+42.717	On the left here, you see video
+42.717	of a person's wrist,
+46.339	and on the right, you see video
+46.339	of a sleeping infant,
+49.486	but if I didn't tell you
+49.486	that these were videos,
+52.632	you might assume that you were looking
+52.632	at two regular images,
+56.393	because in both cases,
+58.065	these videos appear to be
+58.065	almost completely still.
+62.175	But there's actually a lot
+62.175	of subtle motion going on here,
+66.06	and if you were to touch
+66.06	the wrist on the left,
+68.452	you would feel a pulse,
+70.448	and if you were to hold
+70.448	the infant on the right,
+72.933	you would feel the rise
+72.933	and fall of her chest
+75.324	as she took each breath.
+77.762	And these motions carry
+77.762	a lot of significance,
+81.338	but they're usually
+81.338	too subtle for us to see,
+84.681	so instead, we have to observe them
+86.957	through direct contact, through touch.
+90.997	But a few years ago,
+92.262	my colleagues at MIT developed
+92.262	what they call a motion microscope,
+96.667	which is software that finds
+96.667	these subtle motions in video
+101.051	and amplifies them so that they
+101.051	become large enough for us to see.
+105.416	And so, if we use their software
+105.416	on the left video,
+108.899	it lets us see the pulse in this wrist,
+112.149	and if we were to count that pulse,
+113.844	we could even figure out
+113.844	this person's heart rate.
+117.095	And if we used the same software
+117.095	on the right video,
+120.16	it lets us see each breath
+120.16	that this infant takes,
+123.387	and we can use this as a contact-free way
+123.387	to monitor her breathing.
+128.884	And so this technology is really powerful
+128.884	because it takes these phenomena
+134.232	that we normally have
+134.232	to experience through touch
+136.599	and it lets us capture them visually
+136.599	and non-invasively.
+141.104	So a couple years ago, I started working
+141.104	with the folks that created that software,
+145.515	and we decided to pursue a crazy idea.
+148.882	We thought, it's cool
+148.882	that we can use software
+151.575	to visualize tiny motions like this,
+154.71	and you can almost think of it
+154.71	as a way to extend our sense of touch.
+159.168	But what if we could do the same thing
+159.168	with our ability to hear?
+164.508	What if we could use video
+164.508	to capture the vibrations of sound,
+169.173	which are just another kind of motion,
+172	and turn everything that we see
+172	into a microphone?
+176.236	Now, this is a bit of a strange idea,
+178.207	so let me try to put it
+178.207	in perspective for you.
+181.523	Traditional microphones
+181.523	work by converting the motion
+185.011	of an internal diaphragm
+185.011	into an electrical signal,
+188.61	and that diaphragm is designed
+188.61	to move readily with sound
+192.928	so that its motion can be recorded
+192.928	and interpreted as audio.
+197.735	But sound causes all objects to vibrate.
+201.403	Those vibrations are just usually
+201.403	too subtle and too fast for us to see.
+206.883	So what if we record them
+206.883	with a high-speed camera
+210.621	and then use software
+210.621	to extract tiny motions
+214.197	from our high-speed video,
+216.287	and analyze those motions to figure out
+216.287	what sounds created them?
+221.859	This would let us turn visible objects
+221.859	into visual microphones from a distance.
+229.08	And so we tried this out,
+231.263	and here's one of our experiments,
+233.19	where we took this potted plant
+233.19	that you see on the right
+236.139	and we filmed it with a high-speed camera
+238.577	while a nearby loudspeaker
+238.577	played this sound.
+242.275	"(Music: ""Mary Had a Little Lamb"")"
+251.82	And so here's the video that we recorded,
+254.644	and we recorded it at thousands
+254.644	of frames per second,
+258.568	but even if you look very closely,
+260.89	all you'll see are some leaves
+262.841	that are pretty much
+262.841	just sitting there doing nothing,
+265.906	because our sound only moved those leaves
+265.906	by about a micrometer.
+271.103	That's one ten-thousandth of a centimeter,
+275.379	which spans somewhere between
+275.379	a hundredth and a thousandth
+279.535	of a pixel in this image.
+281.881	So you can squint all you want,
+284.768	but motion that small is pretty much
+284.768	perceptually invisible.
+289.667	But it turns out that something
+289.667	can be perceptually invisible
+293.824	and still be numerically significant,
+296.633	because with the right algorithms,
+298.635	we can take this silent,
+298.635	seemingly still video
+302.322	and we can recover this sound.
+304.69	"(Music: ""Mary Had a Little Lamb"")"
+312.074	(Applause)
+322.058	So how is this possible?
+323.997	How can we get so much information
+323.997	out of so little motion?
+328.341	Well, let's say that those leaves
+328.341	move by just a single micrometer,
+333.702	and let's say that that shifts our image
+333.702	by just a thousandth of a pixel.
+339.269	That may not seem like much,
+341.841	but a single frame of video
+343.837	may have hundreds of thousands
+343.837	of pixels in it,
+347.094	and so if we combine all
+347.094	of the tiny motions that we see
+350.548	from across that entire image,
+352.846	then suddenly a thousandth of a pixel
+355.469	can start to add up
+355.469	to something pretty significant.
+358.87	On a personal note, we were pretty psyched
+358.87	when we figured this out.
+362.505	(Laughter)
+364.825	But even with the right algorithm,
+368.078	we were still missing
+368.078	a pretty important piece of the puzzle.
+371.695	You see, there are a lot of factors
+371.695	that affect when and how well
+375.299	this technique will work.
+377.296	There's the object and how far away it is;
+380.5	there's the camera
+380.5	and the lens that you use;
+382.894	how much light is shining on the object
+382.894	and how loud your sound is.
+387.945	And even with the right algorithm,
+391.32	we had to be very careful
+391.32	with our early experiments,
+394.71	because if we got
+394.71	any of these factors wrong,
+397.102	there was no way to tell
+397.102	what the problem was.
+399.47	We would just get noise back.
+402.117	And so a lot of our early
+402.117	experiments looked like this.
+405.437	And so here I am,
+407.643	and on the bottom left, you can kind of
+407.643	see our high-speed camera,
+411.683	which is pointed at a bag of chips,
+413.866	and the whole thing is lit
+413.866	by these bright lamps.
+416.815	And like I said, we had to be
+416.815	very careful in these early experiments,
+421.18	so this is how it went down.
+423.688	(Video) Abe Davis: Three, two, one, go.
+427.449	Mary had a little lamb!
+427.449	Little lamb! Little lamb!
+432.836	(Laughter)
+437.336	AD: So this experiment
+437.336	looks completely ridiculous.
+440.15	(Laughter)
+441.938	I mean, I'm screaming at a bag of chips --
+444.283	(Laughter) --
+445.834	and we're blasting it with so much light,
+447.951	we literally melted the first bag
+447.951	we tried this on. (Laughter)
+452.525	But ridiculous as this experiment looks,
+455.799	it was actually really important,
+457.587	because we were able
+457.587	to recover this sound.
+460.513	(Audio) Mary had a little lamb!
+460.513	Little lamb! Little lamb!
+465.225	(Applause)
+469.313	AD: And this was really significant,
+471.194	because it was the first time
+471.194	we recovered intelligible human speech
+475.424	from silent video of an object.
+477.765	And so it gave us this point of reference,
+480.156	and gradually we could start
+480.156	to modify the experiment,
+484.106	using different objects
+484.106	or moving the object further away,
+487.911	using less light or quieter sounds.
+491.887	And we analyzed all of these experiments
+494.761	until we really understood
+494.761	the limits of our technique,
+498.383	because once we understood those limits,
+500.333	we could figure out how to push them.
+502.679	And that led to experiments like this one,
+505.86	where again, I'm going to speak
+505.86	to a bag of chips,
+508.599	but this time we've moved our camera
+508.599	about 15 feet away,
+513.429	outside, behind a soundproof window,
+516.262	and the whole thing is lit
+516.262	by only natural sunlight.
+520.529	And so here's the video that we captured.
+524.45	And this is what things sounded like
+524.45	from inside, next to the bag of chips.
+529.009	(Audio) Mary had a little lamb
+529.009	whose fleece was white as snow,
+534.047	and everywhere that Mary went,
+534.047	that lamb was sure to go.
+539.666	AD: And here's what we were able
+539.666	to recover from our silent video
+543.683	captured outside behind that window.
+546.028	(Audio) Mary had a little lamb
+546.028	whose fleece was white as snow,
+550.463	and everywhere that Mary went,
+550.463	that lamb was sure to go.
+555.92	(Applause)
+562.421	AD: And there are other ways
+562.421	that we can push these limits as well.
+565.963	So here's a quieter experiment
+567.761	where we filmed some earphones
+567.761	plugged into a laptop computer,
+571.871	and in this case, our goal was to recover
+571.871	the music that was playing on that laptop
+575.981	from just silent video
+578.28	of these two little plastic earphones,
+580.787	and we were able to do this so well
+582.97	that I could even Shazam our results.
+585.431	(Laughter)
+589.191	"(Music: ""Under Pressure"" by Queen)"
+601.615	(Applause)
+606.584	And we can also push things
+606.584	by changing the hardware that we use.
+611.135	Because the experiments
+611.135	I've shown you so far
+613.596	were done with a camera,
+613.596	a high-speed camera,
+615.918	that can record video
+615.918	about a 100 times faster
+618.797	than most cell phones,
+620.724	but we've also found a way
+620.724	to use this technique
+623.533	with more regular cameras,
+625.763	and we do that by taking advantage
+625.763	of what's called a rolling shutter.
+629.832	You see, most cameras
+629.832	record images one row at a time,
+634.63	and so if an object moves
+634.63	during the recording of a single image,
+640.344	there's a slight time delay
+640.344	between each row,
+643.061	and this causes slight artifacts
+646.218	that get coded into each frame of a video.
+649.701	And so what we found
+649.701	is that by analyzing these artifacts,
+653.507	we can actually recover sound
+653.507	using a modified version of our algorithm.
+658.122	So here's an experiment we did
+660.034	where we filmed a bag of candy
+661.729	while a nearby loudspeaker played
+663.47	"the same ""Mary Had a Little Lamb"""
+663.47	music from before,
+666.442	but this time, we used just a regular
+666.442	store-bought camera,
+670.645	and so in a second, I'll play for you
+670.645	the sound that we recovered,
+673.819	and it's going to sound
+673.819	distorted this time,
+675.869	but listen and see if you can still
+675.869	recognize the music.
+679.723	"(Audio: ""Mary Had a Little Lamb"")"
+697.527	And so, again, that sounds distorted,
+700.992	but what's really amazing here
+700.992	is that we were able to do this
+705.378	with something
+705.378	that you could literally run out
+708.004	and pick up at a Best Buy.
+711.122	So at this point,
+712.485	a lot of people see this work,
+714.459	and they immediately think
+714.459	about surveillance.
+717.872	And to be fair,
+720.287	it's not hard to imagine how you might use
+720.287	this technology to spy on someone.
+724.42	But keep in mind that there's already
+724.42	a lot of very mature technology
+728.367	out there for surveillance.
+729.946	In fact, people have been using lasers
+732.036	to eavesdrop on objects
+732.036	from a distance for decades.
+735.978	But what's really new here,
+738.003	what's really different,
+739.443	is that now we have a way
+739.443	to picture the vibrations of an object,
+743.738	which gives us a new lens
+743.738	through which to look at the world,
+747.151	and we can use that lens
+748.661	to learn not just about forces like sound
+748.661	that cause an object to vibrate,
+753.56	but also about the object itself.
+756.975	And so I want to take a step back
+758.668	and think about how that might change
+758.668	the ways that we use video,
+762.917	because we usually use video
+762.917	to look at things,
+766.47	and I've just shown you how we can use it
+768.792	to listen to things.
+770.649	But there's another important way
+770.649	that we learn about the world:
+774.62	that's by interacting with it.
+776.895	We push and pull and poke and prod things.
+780.006	We shake things and see what happens.
+783.187	And that's something that video
+783.187	still won't let us do,
+787.46	at least not traditionally.
+789.596	So I want to show you some new work,
+791.546	and this is based on an idea I had
+791.546	just a few months ago,
+794.213	so this is actually the first time
+794.213	I've shown it to a public audience.
+797.514	And the basic idea is that we're going
+797.514	to use the vibrations in a video
+802.877	to capture objects in a way
+802.877	that will let us interact with them
+807.358	and see how they react to us.
+811.12	So here's an object,
+812.884	and in this case, it's a wire figure
+812.884	in the shape of a human,
+816.716	and we're going to film that object
+816.716	with just a regular camera.
+819.804	So there's nothing special
+819.804	about this camera.
+821.928	In fact, I've actually done this
+821.928	with my cell phone before.
+824.889	But we do want to see the object vibrate,
+827.141	so to make that happen,
+828.274	we're just going to bang a little bit
+828.274	on the surface where it's resting
+831.62	while we record this video.
+839.398	So that's it: just five seconds
+839.398	of regular video,
+843.069	while we bang on this surface,
+845.205	and we're going to use
+845.205	the vibrations in that video
+848.718	to learn about the structural
+848.718	and material properties of our object,
+853.262	and we're going to use that information
+853.262	to create something new and interactive.
+864.866	And so here's what we've created.
+867.519	And it looks like a regular image,
+869.748	but this isn't an image,
+869.748	and it's not a video,
+872.859	because now I can take my mouse
+875.227	and I can start interacting
+875.227	with the object.
+884.936	And so what you see here
+887.389	is a simulation of how this object
+889.615	would respond to new forces
+889.615	that we've never seen before,
+894.073	and we created it from just
+894.073	five seconds of regular video.
+899.249	(Applause)
+909.421	And so this is a really powerful
+909.421	way to look at the world,
+912.648	because it lets us predict
+912.648	how objects will respond
+915.62	to new situations,
+917.443	and you could imagine, for instance,
+917.443	looking at an old bridge
+920.916	and wondering what would happen,
+920.916	how would that bridge hold up
+924.443	if I were to drive my car across it.
+927.276	And that's a question
+927.276	that you probably want to answer
+930.05	before you start driving
+930.05	across that bridge.
+933.988	And of course, there are going to be
+933.988	limitations to this technique,
+937.26	just like there were
+937.26	with the visual microphone,
+939.722	but we found that it works
+939.722	in a lot of situations
+942.903	that you might not expect,
+944.778	especially if you give it longer videos.
+947.546	So for example,
+947.546	here's a video that I captured
+950.054	of a bush outside of my apartment,
+952.353	and I didn't do anything to this bush,
+955.441	but by capturing a minute-long video,
+958.146	a gentle breeze caused enough vibrations
+961.524	that we could learn enough about this bush
+961.524	to create this simulation.
+967.27	(Applause)
+973.412	And so you could imagine giving this
+973.412	to a film director,
+976.384	and letting him control, say,
+978.103	the strength and direction of wind
+978.103	in a shot after it's been recorded.
+984.81	Or, in this case, we pointed our camera
+984.81	at a hanging curtain,
+989.345	and you can't even see
+989.345	any motion in this video,
+993.474	but by recording a two-minute-long video,
+996.399	natural air currents in this room
+998.837	created enough subtle,
+998.837	imperceptible motions and vibrations
+1003.249	that we could learn enough
+1003.249	to create this simulation.
+1008.243	And ironically,
+1010.609	we're kind of used to having
+1010.609	this kind of interactivity
+1013.697	when it comes to virtual objects,
+1016.344	when it comes to video games
+1016.344	and 3D models,
+1019.641	but to be able to capture this information
+1019.641	from real objects in the real world
+1024.045	using just simple, regular video,
+1026.862	is something new that has
+1026.862	a lot of potential.
+1030.41	So here are the amazing people
+1030.41	who worked with me on these projects.
+1036.057	(Applause)
+1044.819	And what I've shown you today
+1044.819	is only the beginning.
+1047.876	We've just started to scratch the surface
+1049.989	of what you can do
+1049.989	with this kind of imaging,
+1052.961	because it gives us a new way
+1055.342	to capture our surroundings
+1055.342	with common, accessible technology.
+1060.066	And so looking to the future,
+1061.995	it's going to be
+1061.995	really exciting to explore
+1064.032	what this can tell us about the world.
+1066.381	Thank you.
+1067.61	(Applause)

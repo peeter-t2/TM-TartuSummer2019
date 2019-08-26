@@ -1,0 +1,275 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+12.106	So the machine I'm going to talk you about
+13.53	is what I call the greatest machine that never was.
+15.204	It was a machine that was never built,
+17.203	and yet, it will be built.
+19.583	It was a machine that was designed
+21.575	long before anyone thought about computers.
+23.926	If you know anything about the history of computers,
+26.075	you will know that in the '30s and the '40s,
+28.595	simple computers were created
+31.15	that started the computer revolution we have today,
+33.943	and you would be correct,
+35.229	except for you'd have the wrong century.
+37.711	The first computer was really designed
+39.351	in the 1830s and 1840s, not the 1930s and 1940s.
+43.023	It was designed, and parts of it were prototyped,
+45.351	and the bits of it that were built are here
+47.487	in South Kensington.
+49.48	That machine was built by this guy, Charles Babbage.
+52.799	Now, I have a great affinity for Charles Babbage
+54.555	because his hair is always completely unkempt like this
+57.164	in every single picture. (Laughter)
+59.505	He was a very wealthy man, and a sort of,
+61.352	part of the aristocracy of Britain,
+63.365	and on a Saturday night in Marylebone,
+65.704	were you part of the intelligentsia of that period,
+68.135	you would have been invited round to his house
+69.631	for a soiree — and he invited everybody:
+72.59	kings, the Duke of Wellington, many, many famous people —
+76.022	and he would have shown you one of his mechanical machines.
+78.543	I really miss that era, you know, where you could
+81.583	go around for a soiree and see a mechanical computer
+83.931	get demonstrated to you. (Laughter)
+85.044	But Babbage, Babbage himself was born
+88.31	at the end of the 18th century,
+90.044	and was a fairly famous mathematician.
+92.088	He held the post that Newton held at Cambridge,
+95.231	and that was recently held by Stephen Hawking.
+97.743	He's less well known than either of them because
+100.598	he got this idea to make mechanical computing devices
+103.748	and never made any of them.
+106.033	The reason he never made any of them, he's a classic nerd.
+109.318	Every time he had a good idea, he'd think,
+111.329	"""That's brilliant, I'm going to start building that one."
+112.777	I'll spend a fortune on it. I've got a better idea.
+115.372	"I'm going to work on this one. (Laughter) And I'm going to do this one."""
+117.732	He did this until Sir Robert Peel, then Prime Minister,
+120.612	basically kicked him out of Number 10 Downing Street,
+123.076	and kicking him out, in those days, that meant saying,
+125.517	"""I bid you good day, sir."" (Laughter)"
+128.669	The thing he designed was this monstrosity here,
+130.649	the analytical engine. Now, just to give you an idea of this,
+134.088	this is a view from above.
+135.96	Every one of these circles is a cog, a stack of cogs,
+139.073	and this thing is as big as a steam locomotive.
+142.309	So as I go through this talk, I want you to imagine
+144.3	this gigantic machine. We heard those wonderful sounds
+146.944	of what this thing would have sounded like.
+148.704	And I'm going to take you through the architecture of the machine
+150.481	— that's why it's computer architecture —
+151.96	and tell you about this machine, which is a computer.
+155.287	So let's talk about the memory. The memory
+158.69	is very like the memory of a computer today,
+160.937	except it was all made out of metal,
+163.639	stacks and stacks of cogs, 30 cogs high.
+167.183	Imagine a thing this high of cogs,
+169.253	hundreds and hundreds of them,
+171.008	and they've got numbers on them.
+172.898	It's a decimal machine. Everything's done in decimal.
+175.317	And he thought about using binary. The problem
+176.902	with using binary is that the machine would have been so
+178.62	tall, it would have been ridiculous. As it is, it's enormous.
+181.937	So he's got memory.
+183.996	The memory is this bit over here.
+186.403	You see it all like this.
+188.733	This monstrosity over here is the CPU, the chip, if you like.
+193.268	Of course, it's this big.
+195.518	Completely mechanical. This whole machine is mechanical.
+198.431	This is a picture of a prototype for part of the CPU
+202.572	which is in the Science Museum.
+204.711	The CPU could do the four fundamental functions of arithmetic --
+208.343	so addition, multiplication, subtraction, division --
+210.796	which already is a bit of a feat in metal,
+213.804	but it could also do something that a computer does
+216.433	and a calculator doesn't:
+218.132	this machine could look at its own internal memory and make a decision.
+222.07	"It could do the ""if then"" for basic programmers,"
+224.936	and that fundamentally made it into a computer.
+227.076	It could compute. It couldn't just calculate. It could do more.
+231.674	Now, if we look at this, and we stop for a minute,
+234.355	and we think about chips today, we can't
+236.226	look inside a silicon chip. It's just so tiny.
+240.041	Yet if you did, you would see something
+241.842	very, very similar to this.
+243.664	There's this incredible complexity in the CPU,
+246.611	and this incredible regularity in the memory.
+249.303	If you've ever seen an electron microscope picture,
+250.965	you'll see this. This all looks the same,
+252.934	then there's this bit over here which is incredibly complicated.
+255.5	All this cog wheel mechanism here is doing is what a computer does,
+259.483	but of course you need to program this thing, and of course,
+261.576	Babbage used the technology of the day
+264.601	and the technology that would reappear in the '50s, '60s and '70s,
+268.247	which is punch cards. This thing over here
+271.116	is one of three punch card readers in here,
+273.94	and this is a program in the Science Museum, just
+277.62	not far from here, created by Charles Babbage,
+282.013	that is sitting there — you can go see it —
+283.881	waiting for the machine to be built.
+286.322	And there's not just one of these, there's many of them.
+289.742	He prepared programs anticipating this would happen.
+292.832	Now, the reason they used punch cards was that Jacquard,
+294.805	in France, had created the Jacquard loom,
+296.977	which was weaving these incredible patterns controlled by punch cards,
+299.655	so he was just repurposing the technology of the day,
+302.287	and like everything else he did, he's using the technology
+304.392	of his era, so 1830s, 1840s, 1850s, cogs, steam,
+309.139	mechanical devices. Ironically, born the same year
+313.077	as Charles Babbage was Michael Faraday,
+315.249	who would completely revolutionize everything
+317.926	with the dynamo, transformers, all these sorts of things.
+320.439	Babbage, of course, wanted to use proven technology,
+323.597	so steam and things.
+325.15	Now, he needed accessories.
+326.823	Obviously, you've got a computer now.
+328.495	You've got punch cards, a CPU and memory.
+330.884	You need accessories you're going to come with.
+332.819	You're not just going to have that,
+334.447	So, first of all, you had sound. You had a bell,
+337.275	so if anything went wrong — (Laughter) —
+339.429	or the machine needed the attendant to come to it,
+341.774	there was a bell it could ring. (Laughter)
+343.744	And there's actually an instruction on the punch card
+345.28	"which says ""Ring the bell."" So you can imagine this ""Ting!"""
+348.182	You know, just stop for a moment, imagine all those noises,
+350.382	"this thing, ""Click, clack click click click,"""
+351.463	"steam engine, ""Ding,"" right? (Laughter)"
+354.4	You also need a printer, obviously, and everyone needs a printer.
+356.835	This is actually a picture of the printing mechanism for
+359.843	another machine of his, called the Difference Engine No. 2,
+362.326	which he never built, but which the Science Museum
+364.261	did build in the '80s and '90s.
+366.432	It's completely mechanical, again, a printer.
+368.707	It prints just numbers, because he was obsessed with numbers,
+371.405	but it does print onto paper, and it even does word wrapping,
+374.922	so if you get to the end of the line, it goes around like that.
+377.694	You also need graphics, right?
+379.344	I mean, if you're going to do anything with graphics,
+380.9	"so he said, ""Well, I need a plotter. I've got a big piece of paper"
+383.496	"and an ink pen and I'll make it plot."""
+385.604	So he designed a plotter as well,
+387.434	and, you know, at that point, I think he got pretty much
+391.359	a pretty good machine.
+392.89	Along comes this woman, Ada Lovelace.
+395.58	Now, imagine these soirees, all these great and good comes along.
+398.301	This lady is the daughter of the mad, bad
+401.393	and dangerous-to-know Lord Byron,
+403.815	and her mother, being a bit worried that she might have
+406.335	inherited some of Lord Byron's madness and badness,
+409.192	"thought, ""I know the solution: Mathematics is the solution."
+412.43	"We'll teach her mathematics. That'll calm her down."""
+415.379	(Laughter) Because of course,
+419.135	there's never been a mathematician that's gone crazy,
+423.05	so, you know, that'll be fine. (Laughter)
+425.451	Everything'll be fine. So she's got this mathematical training,
+428.789	and she goes to one of these soirees with her mother,
+431.527	and Charles Babbage, you know, gets out his machine.
+434.317	The Duke of Wellington is there, you know,
+436.151	get out the machine, obviously demonstrates it,
+437.723	and she gets it. She's the only person in his lifetime, really,
+441.474	"who said, ""I understand what this does,"
+442.766	"and I understand the future of this machine."""
+444.973	And we owe to her an enormous amount because we know
+448.06	a lot about the machine that Babbage was intending to build
+451.037	because of her.
+452.64	Now, some people call her the first programmer.
+455.397	This is actually from one of -- the paper that she translated.
+458.783	This is a program written in a particular style.
+461.694	It's not, historically, totally accurate that she's the first programmer,
+465.263	and actually, she did something more amazing.
+467.316	Rather than just being a programmer,
+468.886	she saw something that Babbage didn't.
+471.058	Babbage was totally obsessed with mathematics.
+474.242	He was building a machine to do mathematics,
+478.191	"and Lovelace said, ""You could do more than mathematics"
+481.45	"on this machine."" And just as you do,"
+484.285	everyone in this room already's got a computer on them
+485.91	right now, because they've got a phone.
+487.964	If you go into that phone, every single thing in that phone
+490.192	or computer or any other computing device
+492.207	is mathematics. It's all numbers at the bottom.
+494.288	Whether it's video or text or music or voice, it's all numbers,
+498.981	it's all, underlying it, mathematical functions happening,
+502.961	"and Lovelace said, ""Just because you're doing"
+505.066	mathematical functions and symbols
+508.388	doesn't mean these things can't represent
+510.635	"other things in the real world, such as music."""
+513.988	This was a huge leap, because Babbage is there saying,
+516.722	"""We could compute these amazing functions and print out"
+518.944	"tables of numbers and draw graphs,"" — (Laughter) —"
+522.612	"and Lovelace is there and she says, ""Look,"
+524.508	this thing could even compose music if you
+526.984	"told it a representation of music numerically."""
+530.532	So this is what I call Lovelace's Leap.
+532.101	When you say she's a programmer, she did do some,
+535.838	but the real thing is to have said the future is going to be
+538.975	much, much more than this.
+541.171	Now, a hundred years later, this guy comes along,
+543.35	Alan Turing, and in 1936, and invents the computer all over again.
+548.803	Now, of course, Babbage's machine was entirely mechanical.
+551.38	Turing's machine was entirely theoretical.
+553.911	Both of these guys were coming from a mathematical perspective,
+556.702	but Turing told us something very important.
+559.255	He laid down the mathematical foundations
+562.19	for computer science, and said,
+564.303	"""It doesn't matter how you make a computer."""
+567.49	It doesn't matter if your computer's mechanical,
+569.368	like Babbage's was, or electronic, like computers are today,
+573.778	or perhaps in the future, cells, or, again,
+576.582	mechanical again, once we get into nanotechnology.
+579.728	We could go back to Babbage's machine
+581.765	and just make it tiny. All those things are computers.
+584.341	There is in a sense a computing essence.
+585.973	This is called the Church–Turing thesis.
+587.978	And so suddenly, you get this link where you say
+590.645	this thing Babbage had built really was a computer.
+592.868	In fact, it was capable of doing everything we do today
+595.693	with computers, only really slowly. (Laughter)
+600.525	To give you an idea of how slowly,
+602.631	it had about 1k of memory.
+606.47	It used punch cards, which were being fed in,
+609.388	and it ran about 10,000 times slower the first ZX81.
+615.148	It did have a RAM pack.
+616.751	You could add on a lot of extra memory if you wanted to.
+619.93	(Laughter) So, where does that bring us today?
+622.256	So there are plans.
+623.864	Over in Swindon, the Science Museum archives,
+626.797	there are hundreds of plans and thousands of pages
+628.491	of notes written by Charles Babbage about this analytical engine.
+631.96	One of those is a set of plans that we call Plan 28,
+635.921	and that is also the name of a charity that I started
+638.075	with Doron Swade, who was the curator of computing
+640.809	at the Science Museum, and also the person who drove
+643.048	the project to build a difference engine,
+644.478	and our plan is to build it.
+647.036	Here in South Kensington, we will build the analytical engine.
+650.902	The project has a number of parts to it.
+652.904	One was the scanning of Babbage's archive.
+655.424	That's been done. The second is now the study
+657.346	of all of those plans to determine what to build.
+660.456	The third part is a computer simulation of that machine,
+664.9	and the last part is to physically build it at the Science Museum.
+667.823	When it's built, you'll finally be able to understand how a computer works,
+670.399	because rather than having a tiny chip in front of you,
+672.233	"you've got to look at this humongous thing and say, ""Ah,"
+674.843	I see the memory operating, I see the CPU operating,
+678.178	"I hear it operating. I probably smell it operating."" (Laughter)"
+682.045	But in between that we're going to do a simulation.
+684.644	Babbage himself wrote, he said,
+686.401	as soon as the analytical engine exists,
+688.019	it will surely guide the future course of science.
+691.723	Of course, he never built it, because he was always fiddling
+693.568	with new plans, but when it did get built, of course,
+695.65	in the 1940s, everything changed.
+699.16	Now, I'll just give you a little taste of what it looks like
+700.983	in motion with a video which shows
+703.616	just one part of the CPU mechanism working.
+711.21	So this is just three sets of cogs,
+714.209	and it's going to add. This is the adding mechanism
+717.031	in action, so you imagine this gigantic machine.
+719.688	So, give me five years.
+720.847	Before the 2030s happen, we'll have it.
+723.191	Thank you very much. (Applause)

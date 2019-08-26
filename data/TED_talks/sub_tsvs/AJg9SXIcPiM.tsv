@@ -1,0 +1,176 @@
+startsecond	text
+13.025	I have a confession to make.
+17.433	As a scientist and engineer,
+17.433	I've focused on efficiency for many years.
+25.213	But efficiency can be a cult,
+29.03	and today I'd like to tell you
+29.03	about a journey
+32.23	that moved me out of the cult
+32.23	and back to a far richer reality.
+40.091	A few years ago, after finishing my Ph.D. 
+40.091	in London, I moved to Boston.
+45.739	I lived in Boston and worked in Cambridge.
+49.381	I bought a racing bicycle that summer,
+52.576	and I bicycled every day to work.
+55.306	To find my way, I used my phone.
+57.692	It sent me over Mass. Ave.,
+57.692	Massachusetts Avenue,
+61.593	the shortest route from
+61.593	Boston to Cambridge.
+65.842	But after a month
+67.909	that I was cycling every day
+67.909	on the car-packed Mass. Ave.,
+72.495	I took a different route one day.
+75.734	I'm not entirely sure why I took
+75.734	a different route that day, a detour.
+80.795	I just remember a feeling of surprise;
+85.184	surprise at finding a street with no cars,
+89.247	as opposed to the nearby
+89.247	Mass. Ave. full of cars;
+93.078	surprise at finding a street 
+93.078	draped by leaves and surrounded by trees.
+98.395	But after the feeling 
+98.395	of surprise, I felt shame.
+103.695	How could I have been so blind?
+106.822	For an entire month,
+108.728	I was so trapped in my mobile app
+111.816	that a journey to work
+111.816	became one thing only:
+115.322	the shortest path.
+117.783	In this single journey,
+117.783	there was no thought
+120.876	of enjoying the road,
+123.507	no pleasure in connecting with nature,
+125.459	no possibility of looking
+125.459	people in the eyes.
+129.166	And why?
+130.951	Because I was saving a minute
+130.951	out of my commute.
+136.33	Now let me ask you: Am I alone here?
+140.399	How many of you have never used
+140.399	a mapping app for finding directions?
+146.227	Most of you, if not all, have.
+148.146	And don't get me wrong -- mapping apps
+148.146	are the greatest game-changer
+153.239	for encouraging people
+153.239	to explore the city.
+155.816	You take your phone out
+155.816	and you know immediately where to go.
+159.993	However, the app also assumes
+162.904	there are only a handful
+162.904	of directions to the destination.
+168.308	It has the power to make
+168.308	those handful of directions
+172.116	the definitive direction
+172.116	to that destination.
+177.015	After that experience, I changed.
+179.685	I changed my research
+179.685	from traditional data-mining
+183.052	to understanding how people
+183.052	experience the city.
+187.324	I used computer science tools
+189.553	to replicate social science
+189.553	experiments at scale, at web scale.
+194.996	I became captivated
+194.996	by the beauty and genius
+200.118	of traditional social science experiments
+203.02	done by Jane Jacobs,
+203.02	Stanley Milgram, Kevin Lynch.
+207.525	The result of that research
+207.525	has been the creation of new maps,
+212.192	maps where you don't only find
+212.192	the shortest path, the blue one,
+217.021	but also the most enjoyable path,
+220.342	the red one.
+222.06	How was that possible?
+225.662	Einstein once said,
+227.513	"""Logic will get you from A to B."
+230.999	"Imagination will take you everywhere."""
+233.771	So with a bit of imagination,
+235.689	we needed to understand
+237.57	which parts of the city
+237.57	people find beautiful.
+241.935	At the University of Cambridge,
+241.935	with colleagues,
+244.582	we thought about this simple experiment.
+247.74	If I were to show you
+247.74	these two urban scenes,
+250.898	and I were to ask you
+250.898	which one is more beautiful,
+253.684	which one would you say?
+258.096	Don't be shy.
+261.161	Who says A? Who says B?
+264.411	Brilliant.
+266.013	Based on that idea,
+267.987	we built a crowdsourcing platform,
+269.799	a web game.
+270.913	Players are shown pairs of urban scenes,
+273.792	and they're asked to choose which one 
+273.792	is more beautiful, quiet and happy.
+280.154	Based on thousands of user votes,
+282.104	then we are able to see
+282.104	where consensus emerges.
+285.308	We are able to see which
+285.308	are the urban scenes
+288.513	that make people happy.
+291.276	After that work, I joined Yahoo Labs,
+294.225	and I teamed up with Luca and Rossano,
+297.104	and together, we aggregated
+297.104	those winning locations in London
+300.38	to build a new map of the city,
+303.726	a cartography weighted for human emotions.
+307.993	On this cartography, you're not only
+307.993	able to see and connect
+311.825	from point A to point B 
+311.825	the shortest segments,
+316.677	but you're also able
+316.677	to see the happy segment,
+319.812	the beautiful path, the quiet path.
+323.504	In tests, participants found the happy,
+323.504	the beautiful, the quiet path
+328.148	far more enjoyable than the shortest one,
+331.723	and that just by adding
+331.723	a few minutes to travel time.
+337.528	Participants also love to attach
+337.528	memories to places.
+341.777	Shared memories --
+341.777	that's where the old BBC building was;
+346.676	and personal memories --
+346.676	that's where I gave my first kiss.
+351.601	They also recalled how some paths
+351.601	smelled and sounded.
+356.034	So what if we had a mapping tool
+359.261	that would return
+359.261	the most enjoyable routes
+361.792	based not only on aesthetics
+364.412	but also based on smell, sound, 
+364.412	and memories?
+367.721	That's where our research
+367.721	is going right now.
+371.826	More generally, my research,
+374.028	what it tries to do is avoid
+374.028	the danger of the single path,
+378.626	to avoid robbing people of fully
+378.626	experiencing the city in which they live.
+383.827	Walk the path through the park,
+383.827	not through the car park,
+387.565	and you have an entirely different path.
+389.957	Walk the path full of people you love
+392.905	and not full of cars,
+394.221	and you have an entirely different path.
+395.939	It's that simple.
+399.012	I would like to end with this thought:
+401.822	"do you remember ""The Truman Show?"""
+403.842	It's a media satire in which a real person
+406.86	doesn't know he's living
+406.86	in a fabricated world.
+410.413	Perhaps we live in a world
+410.413	fabricated for efficiency.
+415.567	Look at some of your daily habits,
+419.073	and as Truman did in the movie,
+419.073	escape the fabricated world.
+425.226	Why?
+426.736	Well, if you think that adventure
+426.736	is dangerous, try routine. It's deadly.
+433.416	Thank you.
+435.327	(Applause)

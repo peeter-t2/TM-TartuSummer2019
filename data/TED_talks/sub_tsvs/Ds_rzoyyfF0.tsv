@@ -1,0 +1,336 @@
+startsecond	text
+0	Translator: Leslie Gauthier
+0	Reviewer: Joanna Pietrulewicz
+12.76	Let's imagine a sculptor
+12.76	building a statue,
+15.76	just chipping away with his chisel.
+18.16	Michelangelo had this elegant way
+18.16	of describing it when he said,
+21.24	"""Every block of stone"
+21.24	has a statue inside of it,
+24.16	and it's the task
+24.16	"of the sculptor to discover it."""
+27.28	But what if he worked
+27.28	in the opposite direction?
+29.72	Not from a solid block of stone,
+31.6	but from a pile of dust,
+33.32	somehow gluing millions of these particles
+33.32	together to form a statue.
+37.72	I know that's an absurd notion.
+39.24	It's probably impossible.
+41	The only way you get
+41	a statue from a pile of dust
+43.96	is if the statue built itself --
+46.32	if somehow we could compel millions
+46.32	of these particles to come together
+50.48	to form the statue.
+52.32	Now, as odd as that sounds,
+53.88	that is almost exactly the problem
+53.88	I work on in my lab.
+58.04	I don't build with stone,
+59.48	I build with nanomaterials.
+60.88	They're these just impossibly small,
+60.88	fascinating little objects.
+65.28	They're so small that if this controller
+65.28	was a nanoparticle,
+68.6	a human hair would be the size
+68.6	of this entire room.
+71.56	And they're at the heart of a field
+71.56	we call nanotechnology,
+74.4	which I'm sure we've all heard about,
+76.239	and we've all heard
+76.239	how it is going to change everything.
+79.72	When I was a graduate student,
+81.24	it was one of the most exciting times
+81.24	to be working in nanotechnology.
+84.6	There were scientific breakthroughs
+84.6	happening all the time.
+87.84	The conferences were buzzing,
+89.28	there was tons of money
+89.28	pouring in from funding agencies.
+92.76	And the reason is
+94.04	when objects get really small,
+95.88	they're governed by a different set
+95.88	of physics that govern ordinary objects,
+99.52	like the ones we interact with.
+101.04	We call this physics quantum mechanics.
+103	And what it tells you is
+103	that you can precisely tune their behavior
+106.2	just by making seemingly
+106.2	small changes to them,
+108.52	like adding or removing
+108.52	a handful of atoms,
+111.16	or twisting the material.
+112.88	It's like this ultimate toolkit.
+114.68	You really felt empowered;
+114.68	you felt like you could make anything.
+117.8	And we were doing it --
+119.08	and by we I mean my whole
+119.08	generation of graduate students.
+122.2	We were trying to make blazing fast
+122.2	computers using nanomaterials.
+125.72	We were constructing quantum dots
+127.36	that could one day go in your body
+127.36	and find and fight disease.
+130.76	There were even groups
+130.76	trying to make an elevator to space
+133.8	using carbon nanotubes.
+135.6	You can look that up, that's true.
+138.776	Anyways, we thought it was going to affect
+140.8	all parts of science and technology,
+140.8	from computing to medicine.
+143.92	And I have to admit,
+145.2	I drank all of the Kool-Aid.
+147.2	I mean, every last drop.
+150.52	But that was 15 years ago,
+153.16	and --
+154.4	fantastic science was done,
+154.4	really important work.
+156.8	We've learned a lot.
+158.08	We were never able to translate
+158.08	that science into new technologies --
+162.48	into technologies
+162.48	that could actually impact people.
+165.28	And the reason is, these nanomaterials --
+167.52	they're like a double-edged sword.
+169.2	The same thing that makes
+169.2	them so interesting --
+171.48	their small size --
+172.8	also makes them impossible to work with.
+175.12	It's literally like trying to build
+175.12	a statue out of a pile of dust.
+178.88	And we just don't have the tools
+178.88	that are small enough to work with them.
+182.6	But even if we did,
+182.6	it wouldn't really matter,
+184.92	because we couldn't one by one
+184.92	place millions of particles together
+188.84	to build a technology.
+190.76	So because of that,
+192	all of the promise
+192	and all of the excitement
+194.12	has remained just that:
+194.12	promise and excitement.
+196.92	We don't have any
+196.92	disease-fighting nanobots,
+199.32	there's no elevators to space,
+201.4	and the thing that I'm most interested in,
+201.4	no new types of computing.
+205.12	Now that last one,
+205.12	that's a really important one.
+207.68	We just have come to expect
+209.04	the pace of computing advancements
+209.04	to go on indefinitely.
+212.84	We've built entire economies on this idea.
+215.44	And this pace exists
+217.2	because of our ability
+217.2	to pack more and more devices
+219.68	onto a computer chip.
+221.4	And as those devices get smaller,
+223.24	they get faster, they consume less power
+225.52	and they get cheaper.
+226.96	And it's this convergence
+226.96	that gives us this incredible pace.
+231.56	As an example:
+232.8	if I took the room-sized computer
+232.8	that sent three men to the moon and back
+238.24	and somehow compressed it --
+240.4	compressed the world's
+240.4	greatest computer of its day,
+243.68	so it was the same size
+243.68	as your smartphone --
+246.28	your actual smartphone,
+247.56	that thing you spent 300 bucks on
+247.56	and just toss out every two years,
+250.96	would blow this thing away.
+253.44	You would not be impressed.
+254.8	It couldn't do anything
+254.8	that your smartphone does.
+257.32	It would be slow,
+258.84	you couldn't put any of your stuff on it,
+261.04	you could possibly
+261.04	get through the first two minutes
+263.52	"of a ""Walking Dead"" episode"
+263.52	if you're lucky --
+265.72	(Laughter)
+266.76	The point is the progress --
+266.76	it's not gradual.
+268.959	The progress is relentless.
+270.68	It's exponential.
+271.959	It compounds on itself year after year,
+274.32	to the point where
+274.32	if you compare a technology
+276.52	from one generation to the next,
+278.24	they're almost unrecognizable.
+280.24	And we owe it to ourselves
+280.24	to keep this progress going.
+282.88	We want to say the same thing
+286.52	look what we've done
+286.52	over the last 30 years.
+289.2	Yet we know this progress
+289.2	may not last forever.
+291.96	In fact, the party's kind of winding down.
+294.04	"It's like ""last call for alcohol,"" right?"
+296.4	If you look under the covers,
+298.08	by many metrics
+298.08	like speed and performance,
+300.68	the progress has already slowed to a halt.
+303.76	So if we want to keep this party going,
+305.92	we have to do what we've
+305.92	always been able to do,
+308.2	and that is to innovate.
+309.68	So our group's role
+309.68	and our group's mission
+312.28	is to innovate
+312.28	by employing carbon nanotubes,
+314.72	because we think that they can
+314.72	provide a path to continue this pace.
+318.8	They are just like they sound.
+320.28	They're tiny, hollow tubes
+320.28	of carbon atoms,
+322.76	and their nanoscale size,
+322.76	that small size,
+325.72	gives rise to these
+325.72	just outstanding electronic properties.
+329.4	And the science tells us
+329.4	if we could employ them in computing,
+333.08	we could see up to a ten times
+333.08	improvement in performance.
+335.84	It's like skipping through several
+335.84	technology generations in just one step.
+340.84	So there we have it.
+342.12	We have this really important problem
+344.16	and we have what is basically
+344.16	the ideal solution.
+346.56	The science is screaming at us,
+348.24	"""This is what you should be doing"
+348.24	"to solve your problem."""
+353.48	So, all right, let's get started,
+355.12	let's do this.
+356.4	But you just run right back
+356.4	into that double-edged sword.
+359.12	"This ""ideal solution"" contains a material"
+359.12	that's impossible to work with.
+362.72	I'd have to arrange billions of them
+362.72	just to make one single computer chip.
+367.04	It's that same conundrum,
+367.04	it's like this undying problem.
+371.36	"At this point, we said, ""Let's just stop."
+373.36	Let's not go down that same road.
+375.32	Let's just figure out what's missing.
+377.88	What are we not dealing with?
+379.32	What are we not doing
+379.32	"that needs to be done?"""
+381.48	"It's like in ""The Godfather,"" right?"
+383.28	When Fredo betrays his brother Michael,
+385.6	we all know what needs to be done.
+387.28	Fredo's got to go.
+388.64	(Laughter)
+389.68	But Michael -- he puts it off.
+391.64	Fine, I get it.
+392.88	Their mother's still alive,
+392.88	it would make her upset.
+395.36	We just said,
+396.8	"""What's the Fredo in our problem?"""
+399.12	What are we not dealing with?
+400.56	What are we not doing,
+402.12	but needs to be done
+402.12	"to make this a success?"""
+405.2	And the answer is
+405.2	that the statue has to build itself.
+409.28	We have to find a way, somehow,
+411.24	to compel, to convince
+411.24	billions of these particles
+415.36	to assemble themselves
+415.36	into the technology.
+418.36	We can't do it for them.
+418.36	They have to do it for themselves.
+421.56	And it's the hard way,
+421.56	and this is not trivial,
+424.72	but in this case, it's the only way.
+427.6	Now, as it turns out,
+427.6	this is not that alien of a problem.
+431.52	We just don't build anything this way.
+433.4	People don't build anything this way.
+435.44	But if you look around --
+435.44	and there's examples everywhere --
+438.64	Mother Nature builds everything this way.
+441.56	Everything is built from the bottom up.
+444.24	You can go to the beach,
+445.52	you'll find these simple organisms
+445.52	that use proteins --
+448.72	basically molecules --
+450	to template what is essentially sand,
+452.08	just plucking it from the sea
+453.52	and building these extraordinary
+453.52	architectures with extreme diversity.
+456.92	And nature's not crude like us,
+456.92	just hacking away.
+459.56	She's elegant and smart,
+461.28	building with what's available,
+461.28	molecule by molecule,
+464.04	making structures with a complexity
+466.2	and a diversity
+466.2	that we can't even approach.
+469.32	And she's already at the nano.
+471.04	She's been there
+471.04	for hundreds of millions of years.
+473.56	We're the ones that are late to the party.
+476.12	So we decided that we're going
+476.12	to use the same tool that nature uses,
+480.32	and that's chemistry.
+482	Chemistry is the missing tool.
+483.48	And chemistry works in this case
+485.56	because these nanoscale objects
+485.56	are about the same size as molecules,
+489.4	so we can use them
+489.4	to steer these objects around,
+492.04	much like a tool.
+493.76	That's exactly what we've done in our lab.
+495.84	We've developed chemistry
+495.84	that goes into the pile of dust,
+499.04	into the pile of nanoparticles,
+500.56	and pulls out exactly the ones we need.
+502.96	Then we can use chemistry to arrange
+502.96	literally billions of these particles
+506.6	into the pattern
+506.6	we need to build circuits.
+509.48	And because we can do that,
+510.84	we can build circuits
+510.84	that are many times faster
+513.24	than what anyone's been able
+513.24	to make using nanomaterials before.
+516.48	Chemistry's the missing tool,
+517.92	and every day our tool gets sharper
+517.92	and gets more precise.
+521.56	And eventually --
+522.8	and we hope this is
+522.8	within a handful of years --
+525.44	we can deliver on one
+525.44	of those original promises.
+528.84	Now, computing is just one example.
+530.919	It's the one that I'm interested in,
+530.919	that my group is really invested in,
+534.48	but there are others
+534.48	in renewable energy, in medicine,
+538.32	in structural materials,
+540.08	where the science is going to tell you
+540.08	to move towards the nano.
+543.16	That's where the biggest benefit is.
+545.92	But if we're going to do that,
+547.4	the scientists of today and tomorrow
+547.4	are going to need new tools --
+550.6	tools just like the ones I described.
+552.76	And they will need chemistry.
+552.76	That's the point.
+556.64	The beauty of science is that
+556.64	once you develop these new tools,
+560.32	they're out there.
+561.6	They're out there forever,
+562.88	and anyone anywhere
+562.88	can pick them up and use them,
+565.76	and help to deliver
+565.76	on the promise of nanotechnology.
+569.32	Thank you so much for your time.
+569.32	I appreciate it.
+572.04	(Applause)

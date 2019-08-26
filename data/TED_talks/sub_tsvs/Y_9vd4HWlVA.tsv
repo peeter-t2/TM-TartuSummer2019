@@ -1,0 +1,284 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Thu-Huong Ha
+16.162	Doc Edgerton inspired us
+16.162	with awe and curiosity
+22.14	with this photo of a bullet
+22.14	piercing through an apple,
+27.402	and exposure just a millionth of a second.
+32.921	But now, 50 years later,
+32.921	we can go a million times faster
+39.834	and see the world
+39.834	not at a million or a billion,
+44.62	but one trillion frames per second.
+49.125	I present to you
+49.125	a new type of photography,
+52.813	femto-photography,
+54.872	a new imaging technique so fast
+59.472	that it can create slow motion
+59.472	videos of light in motion.
+64.673	And with that, we can create cameras
+64.673	that can look around corners,
+69.556	beyond line of sight,
+71.553	or see inside our body without an x-ray,
+76.433	and really challenge
+76.433	what we mean by a camera.
+81.7	Now if I take a laser pointer
+81.7	and turn it on and off
+84.858	in one trillionth of a second --
+87.685	which is several femtoseconds --
+90.496	I'll create a packet of photons
+90.496	barely a millimeter wide.
+95.62	And that packet of photons, that bullet,
+98.053	will travel at the speed of light,
+100.003	and again, a million times faster
+100.003	than an ordinary bullet.
+104.882	Now, if you take that bullet
+104.882	and take this packet of photons
+109.417	and fire into this bottle,
+112.773	how will those photons
+112.773	shatter into this bottle?
+117.124	How does light look in slow motion?
+119.812	[Light in Slow Motion ...
+141.301	Now, the whole event --
+142.872	(Applause)
+149.883	Now remember, the whole event
+149.883	is effectively taking place
+153.408	in less than a nanosecond --
+155.095	that's how much time
+155.095	it takes for light to travel.
+157.52	But I'm slowing down in this video
+157.52	by a factor of 10 billion,
+162.191	so you can see the light in motion.
+164.763	(Laughter)
+165.857	But Coca-Cola did not
+165.857	sponsor this research.
+168.168	(Laughter)
+170.294	Now, there's a lot going on in this movie,
+172.341	so let me break this down
+172.341	and show you what's going on.
+174.985	So the pulse enters
+174.985	the bottle, our bullet,
+177.943	with a packet of photons
+177.943	that start traveling through
+180.505	and that start scattering inside.
+182.342	Some of the light leaks,
+182.342	goes on the table,
+184.573	and you start seeing
+184.573	these ripples of waves.
+187.209	Many of the photons
+187.209	eventually reach the cap
+190.241	and then they explode
+190.241	in various directions.
+193.155	As you can see, there's a bubble of air
+195.067	and it's bouncing around inside.
+196.733	Meanwhile, the ripples
+196.733	are traveling on the table,
+199.207	and because of the reflections at the top,
+201.231	you see at the back of the bottle,
+201.231	after several frames,
+205.002	the reflections are focused.
+208.47	Now, if you take an ordinary bullet
+213.883	and let it go the same distance
+213.883	and slow down the video --
+216.907	again, by a factor of 10 billion --
+219.152	do you know how long you'll have to sit
+219.152	here to watch that movie?
+223.569	(Laughter)
+225.181	A day, a week? Actually, a whole year.
+229.569	It'll be a very boring movie --
+231.85	(Laughter)
+233.265	of a slow, ordinary bullet in motion.
+237.96	And what about some
+237.96	still-life photography?
+248.372	You can watch the ripples,
+248.372	again, washing over the table,
+253.382	the tomato and the wall in the back.
+256.064	It's like throwing a stone
+256.064	in a pond of water.
+262.663	I thought: this is how
+262.663	nature paints a photo,
+266.347	one femto frame at a time,
+268.934	but of course our eye sees
+268.934	an integral composite.
+275.183	But if you look at this tomato
+275.183	one more time,
+277.341	you will notice, as the light
+277.341	washes over the tomato,
+280.11	it continues to glow.
+281.798	It doesn't become dark. Why is that?
+283.849	Because the tomato is actually ripe,
+286.171	and the light is bouncing
+286.171	around inside the tomato,
+288.584	and it comes out after several
+288.584	trillionths of a second.
+292.974	So in the future, when this femto-camera
+292.974	is in your camera phone,
+297.337	you might be able to go to a supermarket
+299.315	and check if the fruit is ripe
+299.315	without actually touching it.
+302.394	(Laughter)
+304.104	So how did my team at MIT
+304.104	create this camera?
+309.166	Now, as photographers, you know,
+311.134	if you take a short exposure photo,
+311.134	you get very little light.
+315.119	But we're going to go a billion times
+315.119	faster than your shortest exposure,
+318.651	so you're going to get hardly any light.
+320.604	So what we do is we send that bullet --
+322.541	that packet of photons --
+322.541	millions of times,
+325.061	and record again and again
+325.061	with very clever synchronization,
+328.168	and from the gigabytes of data,
+330.131	we computationally weave together
+332.375	to create those femto-videos I showed you.
+336.456	And we can take all that raw data
+336.456	and treat it in very interesting ways.
+341.275	So, Superman can fly.
+343.116	Some other heroes can become invisible.
+345.87	But what about a new power
+345.87	for a future superhero:
+350.676	To see around corners.
+353.354	The idea is that we could
+353.354	shine some light on the door,
+357.847	it's going to bounce, go inside the room,
+360.522	some of that is going to reflect
+360.522	back on the door,
+362.952	and then back to the camera.
+364.459	And we could exploit
+364.459	these multiple bounces of light.
+367.947	And it's not science fiction.
+367.947	We have actually built it.
+370.638	On the left, you see our femto-camera.
+372.728	There's a mannequin hidden behind a wall,
+375.107	and we're going to bounce
+375.107	light off the door.
+378.009	So after our paper was published
+378.009	in Nature Communications,
+381.526	it was highlighted by Nature.com,
+383.692	and they created this animation.
+386.192	(Music)
+387.5	[A laser pulse is fired]
+390.388	(Music)
+393.284	Ramesh Raskar: We're going to fire
+393.284	those bullets of light,
+396.175	and they're going to hit this wall,
+399.575	and because of the packet of the photons,
+402.23	they will scatter in all the directions,
+404.364	and some of them will reach
+404.364	our hidden mannequin,
+406.729	which in turn will again
+406.729	scatter that light,
+410.135	and again in turn, the door will reflect
+410.135	some of that scattered light.
+415.943	And a tiny fraction of the photons
+415.943	will actually come back to the camera,
+419.463	but most interestingly,
+420.638	they will all arrive
+420.638	at a slightly different time slot.
+424.186	(Music)
+429.043	And because we have a camera
+429.043	that can run so fast --
+431.58	our femto-camera --
+431.58	it has some unique abilities.
+434.686	It has very good time resolution,
+437.528	and it can look at the world
+437.528	at the speed of light.
+441.374	And this way, we know the distances,
+441.374	of course to the door,
+444.655	but also to the hidden objects,
+446.456	but we don't know which point
+446.456	corresponds to which distance.
+449.637	(Music)
+453.706	By shining one laser,
+453.706	we can record one raw photo,
+457.16	which, if you look on the screen,
+457.16	doesn't really make any sense.
+460.208	But then we will take
+460.208	a lot of such pictures,
+462.352	dozens of such pictures,
+462.352	put them together,
+464.536	and try to analyze
+464.536	the multiple bounces of light,
+467.018	and from that, can we see
+467.018	the hidden object?
+470.493	Can we see it in full 3D?
+473.373	So this is our reconstruction.
+475.326	(Music)
+480.48	(Applause)
+488.051	Now, we have some ways to go
+489.544	before we take this
+489.544	outside the lab on the road,
+492.703	but in the future, we could create
+492.703	cars that avoid collisions
+496.456	with what's around the bend.
+498.841	Or we can look for survivors
+498.841	in hazardous conditions
+502.952	by looking at light reflected
+502.952	through open windows.
+506.864	Or we can build endoscopes that can see
+506.864	deep inside the body around occluders,
+512.759	and also for cardioscopes.
+514.483	But of course,
+514.483	because of tissue and blood,
+516.873	this is quite challenging,
+518.152	so this is really a call for scientists
+520.111	to start thinking about femto-photography
+522.442	as really a new imaging modality
+524.347	to solve the next generation
+524.347	of health-imaging problems.
+528.342	Now, like Doc Edgerton,
+528.342	a scientist himself,
+532.223	science became art --
+534.55	an art of ultra-fast photography.
+538.14	And I realized
+539.315	that all the gigabytes of data
+539.315	that we're collecting every time,
+542.78	are not just for scientific imaging.
+545.225	But we can also do a new form
+545.225	of computational photography,
+550.788	with time-lapse and color coding.
+554.407	And we look at those ripples.
+555.9	Remember:
+557.082	The time between each of those ripples
+557.082	is only a few trillionths of a second.
+563.862	But there's also something
+563.862	funny going on here.
+566.093	When you look at the ripples
+566.093	under the cap,
+568.913	the ripples are moving away from us.
+572.111	The ripples should be moving towards us.
+574.049	What's going on here?
+575.445	It turns out, because we're recording
+575.445	nearly at the speed of light,
+582.259	we have strange effects,
+584.172	and Einstein would have loved
+584.172	to see this picture.
+587.457	(Laughter)
+588.52	The order at which events
+588.52	take place in the world
+591.591	appears in the camera
+591.591	sometimes in reversed order.
+596.306	So by applying the corresponding
+596.306	space and time warp,
+599.525	we can correct for this distortion.
+603.866	So whether it's for photography
+603.866	around corners,
+608.239	or creating the next generation
+608.239	of health imaging,
+612.259	or creating new visualizations,
+615.175	since our invention,
+616.823	we have open-sourced all the data
+616.823	and details on our website,
+621.972	and our hope is that the DIY,
+621.972	the creative and the research communities
+628.949	will show us that we should stop obsessing
+628.949	about the megapixels in cameras --
+634.478	(Laughter)
+635.781	and start focusing
+635.781	on the next dimension in imaging.
+640.867	It's about time.
+642.597	Thank you.
+643.773	(Applause)

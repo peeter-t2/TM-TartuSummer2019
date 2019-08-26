@@ -1,0 +1,411 @@
+startsecond	text
+13.341	Someday, we may have robots
+13.341	as smart as people,
+17.809	artificial intelligence, AI.
+20.307	How could that happen?
+22.632	One route is that we'll just keep
+22.632	accumulating better software,
+25.84	like we've been doing for 70 years.
+28.363	At past rates of progress,
+28.363	that may take centuries.
+31.958	Some say it'll happen a lot faster
+34.332	as we discover grand new
+34.332	powerful theories of intelligence.
+38.227	I'm skeptical.
+40.428	But a third scenario
+43.513	is what I'm going to talk about today.
+45.364	The idea is to port the software
+45.364	from the human brain.
+48.792	To do this, we're going to need
+48.792	three technologies to be good enough,
+52.117	and none of them are there yet.
+54.237	First, we're going to need
+54.237	lots of cheap, fast, parallel computers.
+60.675	Second, we're going to need
+60.675	to scan individual human brains
+64.906	in fine spatial and chemical detail,
+67.168	to see exactly what cells are where,
+67.168	connected to what, of what type.
+71.22	And third, we're going to need
+71.22	computer models
+75.6	of how each kind of brain cell works --
+78.822	taking input signals,
+78.822	changing interval state
+81.426	and sending output signals.
+82.744	If we have good enough models
+82.744	of all the kinds of brain cells
+86.586	and a good enough model of the brain,
+88.373	we can put it together to make
+88.373	a good enough model of an entire brain,
+91.831	and that model would have the same
+91.831	input-output behavior as the original.
+95.858	So if you talk to it, it might talk back.
+98.367	If you ask it to do things,
+98.367	it might do them.
+100.488	And if we could do that,
+100.488	everything would change.
+103.334	People have been talking
+103.334	about this idea for decades,
+105.926	"under the name of ""uploads."""
+107.739	"I'm going to call them ""ems."""
+110.175	When they talk about it, they say,
+112.803	"""Is this even possible?"
+114.658	If you made one, would it be conscious?
+114.658	Or is it just an empty machine?
+118.033	If you made one of me,
+118.033	"is that me or someone else?"""
+120.856	These are all fascinating questions
+120.856	that I'm going to ignore ...
+123.982	(Laughter)
+126.861	because I see a neglected question:
+128.974	What would actually happen?
+132.26	I became obsessed with this question.
+135.813	I spent four years trying to analyze it,
+138.79	using standard academic tools,
+138.79	to guess what would happen,
+142.361	and I'm here to tell you what I found.
+144.748	But be warned --
+146.542	I'm not offering inspiration,
+146.542	I'm offering analysis.
+149.973	I see my job as telling you
+149.973	what's most likely to happen
+152.791	if we did the least to avoid it.
+155.952	If you aren't at least a bit disturbed
+155.952	by something I tell you here,
+159.278	you're just not paying attention.
+160.896	(Laughter)
+162.271	OK, the first thing I can tell you
+164.891	is that ems spend most
+164.891	of their life in virtual reality.
+168.639	This is what you might look like
+168.639	if you were using virtual reality.
+173.894	And this is what you might see:
+177.064	sunlight glinting off of water,
+177.064	you might hear gulls flying above,
+180.684	you might even feel the wind
+180.684	on your cheeks or smell seawater,
+183.739	with advanced hardware.
+185.902	Now, if you were to spend
+185.902	a lot of time here,
+188.023	you might want a dashboard
+189.313	where you could do things like
+189.313	make a phone call,
+191.831	move to a new virtual world,
+193.405	check your bank account.
+195.78	Now, while this is what
+195.78	you would look like in virtual reality,
+199.461	this is what an em
+199.461	would look like in virtual reality.
+202.613	It's computer hardware
+202.613	sitting in a server rack somewhere.
+205.393	But still, it could see
+205.393	and experience the same thing.
+209.102	But some things are different for ems.
+211.51	First, while you'll probably always notice
+211.51	that virtual reality isn't entirely real,
+216.32	to an em, it can feel as real to them
+216.32	as this room feels to you now
+219.598	or as anything ever feels.
+221.26	And ems also have
+221.26	some more action possibilities.
+224.209	For example, your mind just always
+224.209	runs at the same speed,
+226.949	but an em can add more or less
+226.949	computer hardware to run faster or slower,
+230.814	and therefore, if the world around them
+230.814	seems to be going too fast,
+234.526	they can just speed up their mind,
+236.169	and the world around them
+236.169	would seem to slow down.
+238.543	In addition, an em can make
+238.543	a copy of itself at that moment.
+243.94	This copy would remember
+243.94	everything the same,
+246.061	and if it starts out with the same speed,
+246.061	looking at the same speed,
+249.401	it might even need to be told,
+249.401	"""You are the copy."""
+252.599	And em could make archive copies,
+254.196	and with enough archives,
+256.044	an em can be immortal --
+258.14	in principle, though not
+258.14	usually in practice.
+261.231	And an em can move its brain,
+261.231	the computer that represents its brain,
+264.787	from one physical location to another.
+267.857	Ems can actually move around the world
+267.857	at the speed of light,
+271.199	and by moving to a new location,
+272.755	they can interact more quickly
+272.755	with ems near that new location.
+276.043	So far, I've been talking about
+276.043	what ems can do.
+281.047	What do ems choose to do?
+284.225	To understand that, we'll need
+284.225	to understand three key facts.
+287.916	First, ems by definition do what
+287.916	the human they emulate would do
+294.091	in the same situation.
+296.125	So their lives and behavior
+296.125	are very human.
+298.792	They're mainly different because
+298.792	they're living in a different world.
+302.113	Second, ems need
+302.113	real resources to survive.
+305.435	You need food and shelter or you'll die.
+309.122	Also, ems need computer hardware,
+309.122	energy, cooling, or they can't exist.
+313.456	For every subjective minute
+313.456	that an em experiences,
+316.055	someone, usually that em,
+316.055	had to work to pay for it.
+319.956	Third, ems are poor.
+321.67	(Laughter)
+323.535	The em population can grow
+323.535	quicker than the em economy,
+326.194	so that means wages fall down
+326.194	to em subsistence levels.
+329.553	That means ems have to be working
+329.553	most of the time.
+332.181	So that means
+332.181	this is what ems usually see:
+335.504	beautiful and luxurious, but desks --
+338.076	they're working most of the time.
+340.103	Now, a subsistence wage scenario,
+340.103	you might think, is exotic and strange,
+344.096	but it's actually the usual case
+344.096	in human history,
+346.461	and it's how pretty much
+346.461	all wild animals have ever lived,
+349.199	so we know what humans do
+349.199	in this situation.
+351.499	Humans basically do
+351.499	what it takes to survive,
+354.453	and this is what lets me say
+354.453	so much about the em world.
+358.572	When creatures are rich, like you,
+360.985	you have to know a lot
+360.985	about what they want
+363.032	to figure out what they do.
+364.397	When creatures are poor,
+365.591	you know that they mostly do
+365.591	what it takes to survive.
+368.596	So we've been talking about the em world
+368.596	from the point of view of the ems --
+372.244	now, let's step back
+372.244	and look at their whole world.
+374.783	First, the em world grows
+374.783	much faster than ours,
+377.887	roughly a hundred times faster.
+380.375	So the amount of change
+380.375	we would experience in a century or two,
+383.562	they would experience in a year or two.
+385.444	And I'm not really willing to project
+385.444	this age much beyond that,
+388.506	because plausibly by then something else
+388.506	will happen, I don't know what.
+391.967	Second, the typical emulation
+391.967	runs even faster,
+394.349	roughly a thousand times human speed.
+397.136	So for them, they experience
+397.136	thousands of years in this year or two,
+402.5	and for them, the world around them
+402.5	is actually changing more slowly
+405.716	than your world seems to change for you.
+408.097	Third, ems are crammed together
+408.097	in a small number of very dense cities.
+412.605	This is not only how they see
+412.605	themselves in virtual reality,
+416.095	it's also how they actually are
+416.095	physically crammed together.
+419.294	So at em speeds, physical travel
+419.294	feels really painfully slow,
+423.204	so most em cities are self-sufficient,
+425.55	most war is cyber war,
+427.324	and most of the rest of the earth
+427.324	away from the em cities
+430.039	is left to the humans, because the ems
+430.039	really aren't that interested in it.
+434.072	Speaking of humans,
+435.604	you were wanting to hear about that.
+437.412	Humans must retire, at once, for good.
+442.707	They just can't compete.
+444.738	Now, humans start out owning
+444.738	all of the capital in this world.
+447.834	The economy grows very fast,
+447.834	their wealth grows very fast.
+450.727	Humans get rich, collectively.
+454.048	As you may know, most humans today
+454.048	don't actually own that much
+457.311	besides their ability to work,
+459.176	so between now and then,
+459.176	they need to acquire sufficient assets,
+462.748	insurance or sharing arrangements,
+464.605	or they may starve.
+466.09	I highly recommend avoiding this outcome.
+468.129	(Laughter)
+470.285	Now, you might wonder,
+471.532	why would ems let humans exist?
+473.034	Why not kill them, take their stuff?
+475.521	But notice we have many
+475.521	unproductive retirees around us today,
+478.622	and we don't kill them
+478.622	and take their stuff.
+480.751	(Laughter)
+482.409	In part, that's because it would disrupt
+482.409	the institutions we share with them.
+487.344	Other groups would wonder who's next,
+489.484	so plausibly, ems may well let humans
+489.484	retire in peace during the age of em.
+494.234	You should worry more that
+494.234	the age of em only lasts a year or two
+497.307	and you don't know what happens next.
+501.027	Ems are very much like humans,
+503.417	but they are not like the typical human.
+506.258	The typical em is a copy
+506.258	of the few hundred most productive humans.
+513.149	So in fact, they are as elite,
+513.149	compared to the typical human,
+516.753	as the typical billionaire,
+516.753	Nobel Prize winner,
+519.039	Olympic gold medalist, head of state.
+522.347	Ems look on humans
+522.347	perhaps with nostalgia and gratitude,
+526.673	but not so much respect,
+528.205	which is, if you think about it,
+528.205	how you think about your ancestors.
+531.424	We know many things about how humans
+531.424	differ in terms of productivity.
+534.715	We can just use those
+534.715	to predict features of ems --
+537.158	for example, they tend to be smart,
+537.158	conscientious, hard-working,
+540.278	married, religious, middle-aged.
+542.281	These are features of ems.
+543.917	Em world also contains enormous variety.
+546.53	Not only does it continue on with most
+546.53	of the kinds of variety that humans do,
+550.222	including variety of industry
+550.222	and profession,
+552.641	they also have many new kinds of variety,
+554.827	and one of the most important
+554.827	is mind speed.
+557.532	Ems can plausibly go from human speed
+561.39	up to a million times
+561.39	faster than human speed,
+564.294	and down to a billion times
+564.294	slower than human speed.
+568.046	Faster ems tend to have
+568.046	markers of high status.
+570.836	They embody more wealth.
+570.836	They win arguments.
+573.02	They sit at premium locations.
+574.707	Slower ems are mostly retirees,
+576.551	and they are like the ghosts
+576.551	of our literature.
+578.825	If you recall, ghosts are all around us --
+580.89	you can interact with them
+580.89	if you pay the price.
+583.184	But they don't know much,
+583.184	they can't influence much,
+585.637	and they're obsessed with the past,
+585.637	so what's the point?
+588.359	(Laughter)
+589.534	Ems also have more variety
+589.534	in the structure of their lives.
+592.515	This is your life: you start
+592.515	and you end, really simple.
+595.221	This is the life of an em,
+596.858	who every day splits off
+596.858	some short-term copies
+599.175	to do short-term tasks and then end.
+601.157	We'll talk more about
+601.157	those short term versions in a moment,
+605.308	but they are much more efficient
+606.942	because they don't have to rest
+606.942	for the next day.
+609.331	This em is more opportunistic.
+610.863	They make more copies of themselves
+610.863	when there's more demand for that.
+614.174	They don't know which way
+614.174	the future's going.
+616.295	This is an em designer,
+617.618	who conceives of a large system
+619.244	and then breaks recursively into copies
+619.244	who elaborate that,
+622.753	so ems can implement
+622.753	larger, more coherent designs.
+626.189	This an emulation plumber
+627.571	who remembers that every day,
+627.571	for the last 20 years,
+630.04	they only ever worked
+630.04	two hours a day, a life of leisure.
+632.845	But what really happened is,
+632.845	every day they had a thousand copies,
+635.966	each of whom did a two-hour plumbing job,
+637.943	and only one of them
+637.943	went on to the next day.
+640.132	Objectively, they're working
+640.132	well over 99 percent of the time.
+643.155	Subjectively, they remember
+643.155	a life of leisure.
+645.369	(Laughter)
+646.401	This, again, is you.
+646.401	You start and you end.
+648.513	This could be you
+648.513	if at the start of party,
+650.649	you took a drug that meant
+650.649	you would not remember that party
+653.484	ever after that day.
+655.126	Some people do this, I'm told.
+657.49	Toward the end of the party,
+659.149	will you say to yourself,
+659.149	"""I'm about to die, this is terrible."
+662.099	That person tomorrow isn't me,
+662.099	"because they won't remember what I do."""
+665.426	"Or you could say, ""I will go on tomorrow."
+665.426	"I just won't remember what I did."""
+669.411	This is an em who splits off
+669.411	a short-term copy
+671.864	to do a short-term task and then end.
+673.752	They have the same two
+673.752	attitude possibilities.
+675.982	"They can say, ""I'm a new short-term"
+675.982	"creature with a short life. I hate this."""
+679.685	"Or ""I'm a part of a larger creature"
+679.685	"who won't remember this part."""
+682.843	I predict they'll have
+682.843	that second attitude,
+684.985	not because it's philosophically correct,
+684.985	but because it helps them get along.
+688.685	Today, if the president says
+688.685	we must invade Iraq,
+691.037	"and you say, ""Why?"""
+692.212	"and they say, ""State secret,"""
+693.618	you're not sure if you can trust them,
+695.492	but for ems, a copy of the president
+695.492	and a copy of you can go inside a safe,
+699.132	explain all their secret reasons,
+700.81	and then one bit comes out
+700.81	from your copy to yourself,
+703.365	telling you if you were convinced.
+705.245	So now you can know
+705.245	there is a good reason.
+707.796	I know you guys are all eager
+707.796	to evaluate this world.
+710.365	You're eager to decide
+710.365	if you love it or hate it.
+712.723	But think: your ancestors
+712.723	from thousands of years ago
+715.29	would have loved or hated your world
+717.067	based on the first few things
+717.067	they heard about it,
+719.512	because your world
+719.512	is really just weird.
+721.399	So before judging a strange future world,
+721.399	you should really learn a lot about it,
+725.237	maybe read a whole book about it,
+726.851	and then, if you don't like it,
+726.851	work to change it.
+729.229	Thank you.
+730.272	(Applause)

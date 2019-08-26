@@ -1,0 +1,83 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.804	To understand the world that live in, we tell stories.
+20.773	And while remixing and sharing have come to define
+24.243	the web as we know it,
+25.824	all of us can now be part of that story through simple tools
+29.659	that allow us to make things online.
+32.124	But video has been left out. It arrived on the web
+36.206	in a small box, and there it has remained,
+38.952	completely disconnected from the data and the content
+42.041	all around it.
+43.913	In fact, in over a decade on the web, the only thing
+45.825	that has changed about video is the size of the box
+49.421	and the quality of the picture.
+52.298	Popcorn changes all of that.
+55.466	It's an online tool that allows anyone to combine video
+58.579	with content pulled live directly from the web.
+61.964	Videos created with Popcorn behave like the web itself:
+65.499	dynamic, full of links, and completely remixable,
+69.546	and finally allowed to break free from the frame.
+73.845	I want to give you a demo of a prototype
+76.249	that we're working on that we'll launch later this fall.
+78.289	It will be completely free, and it will work in any browser.
+83.235	So, every Popcorn production begins with the video,
+86.301	and so I've made a short, 20-second clip
+88.687	using a newscaster template that we use in workshops.
+92.438	So let's watch it. We'll go back, and I'll show you how we made it.
+96.122	Hi, and welcome to my newscast.
+98.874	I've added my location with a Google Map,
+101.315	and it's live, so try moving it around.
+104.683	You can add pop-ups with live links and custom icons,
+108.075	or pull in content from any web service, like Flickr,
+111.539	or add articles and blog posts with links out to the full content.
+116.369	So let's go back, and I'll show you what you saw. There was a lot there.
+120.008	So this is the timeline, and if you've ever edited video,
+123.434	you're familiar with this, but instead of clips in the timeline,
+126.353	what you're looking at is web events pulled into the video.
+129.939	Now in this Popcorn production we've got
+132.33	the title card, we've got a Google Map that shows up
+136.083	picture-in-picture, then Popcorn lets it push
+138.57	outside the frame and take over the whole screen.
+141.93	There are two pop-ups bringing you some other information,
+144.599	and a final article with a link out to the original article.
+148.977	Let's go to this Google Map, and I'll show you how you can edit it.
+152.511	All you do, go into the timeline, double-click the item,
+155.76	and I've set it to Toronto, because that's where I'm from.
+158.019	Let's set it to something else.
+161.541	Popcorn immediately goes out onto the web,
+164.672	talks to Google, grabs the map, and puts it in the display.
+167.729	And it's exactly the same
+169.335	for the people who watch your production.
+171.071	And it's live. It's not an image. So you click on it,
+173.582	you zoom in, right down to street view if you want to.
+177.812	Now in the video, I mentioned adding a live feed,
+180.819	which we can do right now, so let's add a live feed
+184	from Flickr. Go over to the right-hand side,
+186.884	grab Flickr from the list of options,
+189.273	drag it into the timeline,
+191.52	and put it where you'd like it to go,
+193.994	and it immediately goes out to Flickr and starts pulling in
+196.457	images based on the tags. Now, my developers
+199.469	really like ponies, and so they've set that as the default tag.
+203.329	Let's try something else,
+206.445	maybe something a bit more relevant to today.
+210.013	Now here are live images being pulled straight from the feed.
+212.743	If you come and watch this a week from now,
+214.331	this will be completely different,
+215.875	dynamic, just like the web, and just like the web,
+218.384	everything is sourced, so click your link,
+220.436	and you go straight to Flickr and see the source image.
+224.229	Everything you've seen today is built with the basic
+226.475	building blocks of the web: HTML, CSS and JavaScript.
+230.035	That means it's completely remixable. It also means
+231.954	there's no proprietary software. All you need
+234.518	is a web browser.
+237.477	So imagine if every video that we watched on the web
+240.847	worked like the web, completely remixable,
+243.893	linked to its source content, and interactive
+246.64	for everyone who views it.
+249.021	I think Popcorn could change the way that we tell stories on
+252.017	the web, and the way we understand the world we live in.
+254.395	Thank you. (Applause)

@@ -1,0 +1,237 @@
+startsecond	text
+16.26	Up until now, our communication with machines
+18.26	has always been limited
+20.26	to conscious and direct forms.
+22.26	Whether it's something simple
+24.26	like turning on the lights with a switch,
+26.26	or even as complex as programming robotics,
+29.26	we have always had to give a command to a machine,
+32.26	or even a series of commands,
+34.26	in order for it to do something for us.
+37.26	Communication between people, on the other hand,
+39.26	is far more complex and a lot more interesting
+42.26	because we take into account
+44.26	so much more than what is explicitly expressed.
+47.26	We observe facial expressions, body language,
+50.26	and we can intuit feelings and emotions
+52.26	from our dialogue with one another.
+55.26	This actually forms a large part
+57.26	of our decision-making process.
+59.26	Our vision is to introduce
+61.26	this whole new realm of human interaction
+64.26	into human-computer interaction
+66.26	so that computers can understand
+68.26	not only what you direct it to do,
+70.26	but it can also respond
+72.26	to your facial expressions
+74.26	and emotional experiences.
+76.26	And what better way to do this
+78.26	than by interpreting the signals
+80.26	naturally produced by our brain,
+82.26	our center for control and experience.
+85.26	Well, it sounds like a pretty good idea,
+87.26	but this task, as Bruno mentioned,
+89.26	isn't an easy one for two main reasons:
+92.26	First, the detection algorithms.
+95.26	Our brain is made up of
+97.26	billions of active neurons,
+99.26	around 170,000 km
+102.26	of combined axon length.
+104.26	When these neurons interact,
+106.26	the chemical reaction emits an electrical impulse,
+108.26	which can be measured.
+110.26	The majority of our functional brain
+113.26	is distributed over
+115.26	the outer surface layer of the brain,
+117.26	and to increase the area that's available for mental capacity,
+120.26	the brain surface is highly folded.
+123.26	Now this cortical folding
+125.26	presents a significant challenge
+127.26	for interpreting surface electrical impulses.
+130.26	Each individual's cortex
+132.26	is folded differently,
+134.26	very much like a fingerprint.
+136.26	So even though a signal
+138.26	may come from the same functional part of the brain,
+141.26	by the time the structure has been folded,
+143.26	its physical location
+145.26	is very different between individuals,
+147.26	even identical twins.
+150.26	There is no longer any consistency
+152.26	in the surface signals.
+154.26	Our breakthrough was to create an algorithm
+156.26	that unfolds the cortex,
+158.26	so that we can map the signals
+160.26	closer to its source,
+162.26	and therefore making it capable of working across a mass population.
+166.26	The second challenge
+168.26	is the actual device for observing brainwaves.
+171.26	EEG measurements typically involve
+173.26	a hairnet with an array of sensors,
+176.26	like the one that you can see here in the photo.
+179.26	A technician will put the electrodes
+181.26	onto the scalp
+183.26	using a conductive gel or paste
+185.26	and usually after a procedure of preparing the scalp
+188.26	by light abrasion.
+190.26	Now this is quite time consuming
+192.26	and isn't the most comfortable process.
+194.26	And on top of that, these systems
+196.26	actually cost in the tens of thousands of dollars.
+200.26	So with that, I'd like to invite onstage
+203.26	Evan Grant, who is one of last year's speakers,
+205.26	who's kindly agreed
+207.26	to help me to demonstrate
+209.26	what we've been able to develop.
+211.26	(Applause)
+217.26	So the device that you see
+219.26	is a 14-channel, high-fidelity
+221.26	EEG acquisition system.
+223.26	It doesn't require any scalp preparation,
+226.26	no conductive gel or paste.
+228.26	It only takes a few minutes to put on
+231.26	and for the signals to settle.
+233.26	It's also wireless,
+235.26	so it gives you the freedom to move around.
+238.26	And compared to the tens of thousands of dollars
+241.26	for a traditional EEG system,
+244.26	this headset only costs
+246.26	a few hundred dollars.
+248.26	Now on to the detection algorithms.
+251.26	So facial expressions --
+253.26	as I mentioned before in emotional experiences --
+255.26	are actually designed to work out of the box
+257.26	with some sensitivity adjustments
+259.26	available for personalization.
+262.26	But with the limited time we have available,
+264.26	I'd like to show you the cognitive suite,
+266.26	which is the ability for you
+268.26	to basically move virtual objects with your mind.
+272.26	Now, Evan is new to this system,
+274.26	so what we have to do first
+276.26	is create a new profile for him.
+278.26	"He's obviously not Joanne -- so we'll ""add user."""
+281.26	Evan. Okay.
+283.26	So the first thing we need to do with the cognitive suite
+286.26	is to start with training
+288.26	a neutral signal.
+290.26	With neutral, there's nothing in particular
+292.26	that Evan needs to do.
+294.26	He just hangs out. He's relaxed.
+296.26	And the idea is to establish a baseline
+298.26	or normal state for his brain,
+300.26	because every brain is different.
+302.26	It takes eight seconds to do this,
+304.26	and now that that's done,
+306.26	we can choose a movement-based action.
+308.26	So Evan, choose something
+310.26	that you can visualize clearly in your mind.
+312.26	"Evan Grant: Let's do ""pull."""
+314.26	"Tan Le: Okay, so let's choose ""pull."""
+316.26	So the idea here now
+318.26	is that Evan needs to
+320.26	imagine the object coming forward
+322.26	into the screen,
+324.26	and there's a progress bar that will scroll across the screen
+327.26	while he's doing that.
+329.26	The first time, nothing will happen,
+331.26	"because the system has no idea how he thinks about ""pull."""
+334.26	But maintain that thought
+336.26	for the entire duration of the eight seconds.
+338.26	So: one, two, three, go.
+349.26	Okay.
+351.26	So once we accept this,
+353.26	the cube is live.
+355.26	So let's see if Evan
+357.26	can actually try and imagine pulling.
+360.26	Ah, good job!
+362.26	(Applause)
+365.26	That's really amazing.
+367.26	(Applause)
+371.26	So we have a little bit of time available,
+373.26	so I'm going to ask Evan
+375.26	to do a really difficult task.
+377.26	And this one is difficult
+379.26	because it's all about being able to visualize something
+382.26	that doesn't exist in our physical world.
+384.26	"This is ""disappear."""
+386.26	So what you want to do -- at least with movement-based actions,
+388.26	we do that all the time, so you can visualize it.
+391.26	"But with ""disappear,"" there's really no analogies --"
+393.26	so Evan, what you want to do here
+395.26	is to imagine the cube slowly fading out, okay.
+398.26	Same sort of drill. So: one, two, three, go.
+410.26	Okay. Let's try that.
+413.26	Oh, my goodness. He's just too good.
+417.26	Let's try that again.
+424.26	EG: Losing concentration.
+426.26	(Laughter)
+428.26	TL: But we can see that it actually works,
+430.26	even though you can only hold it
+432.26	for a little bit of time.
+434.26	As I said, it's a very difficult process
+437.26	to imagine this.
+439.26	And the great thing about it is that
+441.26	we've only given the software one instance
+443.26	"of how he thinks about ""disappear."""
+446.26	As there is a machine learning algorithm in this --
+449.26	(Applause)
+453.26	Thank you.
+455.26	Good job. Good job.
+458.26	(Applause)
+460.26	Thank you, Evan, you're a wonderful, wonderful
+463.26	example of the technology.
+466.26	So, as you can see, before,
+468.26	there is a leveling system built into this software
+471.26	so that as Evan, or any user,
+473.26	becomes more familiar with the system,
+475.26	they can continue to add more and more detections,
+478.26	so that the system begins to differentiate
+480.26	between different distinct thoughts.
+484.26	And once you've trained up the detections,
+486.26	these thoughts can be assigned or mapped
+488.26	to any computing platform,
+490.26	application or device.
+492.26	So I'd like to show you a few examples,
+494.26	because there are many possible applications
+496.26	for this new interface.
+499.26	In games and virtual worlds, for example,
+501.26	your facial expressions
+503.26	can naturally and intuitively be used
+505.26	to control an avatar or virtual character.
+509.26	Obviously, you can experience the fantasy of magic
+511.26	and control the world with your mind.
+516.26	And also, colors, lighting,
+519.26	sound and effects
+521.26	can dynamically respond to your emotional state
+523.26	to heighten the experience that you're having, in real time.
+527.26	And moving on to some applications
+529.26	developed by developers and researchers around the world,
+532.26	with robots and simple machines, for example --
+535.26	in this case, flying a toy helicopter
+537.26	"simply by thinking ""lift"" with your mind."
+540.26	The technology can also be applied
+542.26	to real world applications --
+544.26	in this example, a smart home.
+546.26	You know, from the user interface of the control system
+549.26	to opening curtains
+551.26	or closing curtains.
+562.26	And of course, also to the lighting --
+565.26	turning them on
+568.26	or off.
+570.26	And finally,
+572.26	to real life-changing applications,
+574.26	such as being able to control an electric wheelchair.
+577.26	In this example,
+579.26	facial expressions are mapped to the movement commands.
+582.26	Man: Now blink right to go right.
+590.26	Now blink left to turn back left.
+602.26	Now smile to go straight.
+608.26	TL: We really -- Thank you.
+610.26	(Applause)
+615.26	We are really only scratching the surface of what is possible today,
+618.26	and with the community's input,
+620.26	and also with the involvement of developers
+622.26	and researchers from around the world,
+625.26	we hope that you can help us to shape
+627.26	where the technology goes from here. Thank you so much.

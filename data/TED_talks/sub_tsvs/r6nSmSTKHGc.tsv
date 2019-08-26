@@ -1,0 +1,127 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.103	I'd like to show you a video of some of the models
+18.148	I work with.
+19.737	They're all the perfect size, and they don't have an ounce of fat.
+23.275	Did I mention they're gorgeous?
+25.813	And they're scientific models? (Laughs)
+28.943	As you might have guessed, I'm a tissue engineer,
+31.286	and this is a video of some of the beating heart
+33.735	that I've engineered in the lab.
+35.951	And one day we hope that these tissues
+37.833	can serve as replacement parts for the human body.
+40.777	But what I'm going to tell you about today
+43.057	is how these tissues make awesome models.
+47.504	Well, let's think about the drug screening process for a moment.
+50.231	You go from drug formulation, lab testing, animal testing,
+53.209	and then clinical trials, which you might call human testing,
+55.712	before the drugs get to market.
+57.977	It costs a lot of money, a lot of time,
+61.12	and sometimes, even when a drug hits the market,
+63.93	it acts in an unpredictable way and actually hurts people.
+67.865	And the later it fails, the worse the consequences.
+71.952	It all boils down to two issues. One, humans are not rats,
+76.136	and two, despite our incredible similarities to one another,
+80.224	actually those tiny differences between you and I
+82.665	have huge impacts with how we metabolize drugs
+85.174	and how those drugs affect us.
+87.043	So what if we had better models in the lab
+89.875	that could not only mimic us better than rats
+93.145	but also reflect our diversity?
+97.065	Let's see how we can do it with tissue engineering.
+100.992	One of the key technologies that's really important
+103.521	is what's called induced pluripotent stem cells.
+106.713	They were developed in Japan pretty recently.
+109.231	Okay, induced pluripotent stem cells.
+111.678	They're a lot like embryonic stem cells
+113.791	except without the controversy.
+116.008	We induce cells, okay, say, skin cells,
+118.907	by adding a few genes to them, culturing them,
+121.414	and then harvesting them.
+123.035	So they're skin cells that can be tricked,
+125.742	kind of like cellular amnesia, into an embryonic state.
+128.526	So without the controversy, that's cool thing number one.
+131.238	Cool thing number two, you can grow any type of tissue
+133.787	out of them: brain, heart, liver, you get the picture,
+136.342	but out of your cells.
+138.865	So we can make a model of your heart, your brain
+142.43	on a chip.
+145.062	Generating tissues of predictable density and behavior
+147.918	is the second piece, and will be really key towards
+150.75	getting these models to be adopted for drug discovery.
+153.422	And this is a schematic of a bioreactor we're developing in our lab
+156.534	to help engineer tissues in a more modular, scalable way.
+159.982	Going forward, imagine a massively parallel version of this
+163.381	with thousands of pieces of human tissue.
+165.718	It would be like having a clinical trial on a chip.
+169.766	But another thing about these induced pluripotent stem cells
+173.561	is that if we take some skin cells, let's say,
+176.11	from people with a genetic disease
+178.286	and we engineer tissues out of them,
+180.542	we can actually use tissue-engineering techniques
+182.51	to generate models of those diseases in the lab.
+185.911	Here's an example from Kevin Eggan's lab at Harvard.
+189.495	He generated neurons
+191.785	from these induced pluripotent stem cells
+194.5	from patients who have Lou Gehrig's Disease,
+197.129	and he differentiated them into neurons, and what's amazing
+199.572	is that these neurons also show symptoms of the disease.
+202.724	So with disease models like these, we can fight back
+204.823	faster than ever before and understand the disease better
+207.405	than ever before, and maybe discover drugs even faster.
+211.368	This is another example of patient-specific stem cells
+214.748	that were engineered from someone with retinitis pigmentosa.
+218.757	This is a degeneration of the retina.
+220.511	It's a disease that runs in my family, and we really hope
+223.268	that cells like these will help us find a cure.
+225.492	So some people think that these models sound well and good,
+228.3	"but ask, ""Well, are these really as good as the rat?"""
+231.741	The rat is an entire organism, after all,
+234.729	with interacting networks of organs.
+236.435	A drug for the heart can get metabolized in the liver,
+240.356	and some of the byproducts may be stored in the fat.
+243.196	Don't you miss all that with these tissue-engineered models?
+247.723	Well, this is another trend in the field.
+249.837	By combining tissue engineering techniques with microfluidics,
+252.704	the field is actually evolving towards just that,
+254.868	a model of the entire ecosystem of the body,
+257.374	complete with multiple organ systems to be able to test
+259.774	how a drug you might take for your blood pressure
+261.377	might affect your liver or an antidepressant might affect your heart.
+264.644	These systems are really hard to build, but we're just starting to be able to get there,
+268.716	and so, watch out.
+272.02	But that's not even all of it, because once a drug is approved,
+274.652	tissue engineering techniques can actually help us develop more personalized treatments.
+278.334	This is an example that you might care about someday,
+282.076	and I hope you never do,
+284.196	because imagine if you ever get that call
+286.716	that gives you that bad news that you might have cancer.
+289.924	Wouldn't you rather test to see if those cancer drugs
+292.46	you're going to take are going to work on your cancer?
+295.22	This is an example from Karen Burg's lab, where they're
+297.642	using inkjet technologies to print breast cancer cells
+300.548	and study its progressions and treatments.
+303.019	And some of our colleagues at Tufts are mixing models
+305.572	like these with tissue-engineered bone to see how cancer
+308.66	might spread from one part of the body to the next,
+311.38	and you can imagine those kinds of multi-tissue chips
+313.764	to be the next generation of these kinds of studies.
+316.749	And so thinking about the models that we've just discussed,
+319.171	you can see, going forward, that tissue engineering
+321.084	is actually poised to help revolutionize drug screening
+323.54	at every single step of the path:
+326.318	disease models making for better drug formulations,
+328.892	massively parallel human tissue models helping to revolutionize lab testing,
+332.763	reduce animal testing and human testing in clinical trials,
+336.988	and individualized therapies that disrupt
+338.68	what we even consider to be a market at all.
+342.268	Essentially, we're dramatically speeding up that feedback
+344.812	between developing a molecule and learning about
+347.135	how it acts in the human body.
+349.484	Our process for doing this is essentially transforming
+351.812	biotechnology and pharmacology into an information technology,
+356.673	helping us discover and evaluate drugs faster,
+359.652	more cheaply and more effectively.
+362.868	It gives new meaning to models against animal testing, doesn't it?
+366.948	Thank you. (Applause)

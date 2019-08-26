@@ -1,0 +1,364 @@
+startsecond	text
+13.006	We have historical records that allow us
+13.006	to know how the ancient Greeks dressed,
+18.18	how they lived,
+19.458	how they fought ...
+21.004	but how did they think?
+23.432	One natural idea is that the deepest
+23.432	aspects of human thought --
+27.896	our ability to imagine,
+29.792	to be conscious,
+31.213	to dream --
+32.468	have always been the same.
+34.872	Another possibility
+36.395	is that the social transformations
+36.395	that have shaped our culture
+40.142	may have also changed
+40.142	the structural columns of human thought.
+44.911	We may all have different
+44.911	opinions about this.
+47.459	Actually, it's a long-standing
+47.459	philosophical debate.
+50.644	But is this question
+50.644	even amenable to science?
+54.834	Here I'd like to propose
+57.364	that in the same way we can reconstruct
+57.364	how the ancient Greek cities looked
+62.16	just based on a few bricks,
+64.572	that the writings of a culture
+64.572	are the archaeological records,
+68.722	the fossils, of human thought.
+71.905	And in fact,
+73.103	doing some form of psychological analysis
+75.333	of some of the most ancient
+75.333	books of human culture,
+78.901	Julian Jaynes came up in the '70s
+78.901	with a very wild and radical hypothesis:
+84.88	that only 3,000 years ago,
+87.317	humans were what today
+87.317	we would call schizophrenics.
+93.753	And he made this claim
+95.285	based on the fact that the first
+95.285	humans described in these books
+98.61	behaved consistently,
+100.538	in different traditions
+100.538	and in different places of the world,
+103.578	as if they were hearing and obeying voices
+107.134	that they perceived
+107.134	as coming from the Gods,
+110.198	or from the muses ...
+112.063	what today we would call hallucinations.
+115.888	And only then, as time went on,
+118.538	they began to recognize
+118.538	that they were the creators,
+122.213	the owners of these inner voices.
+125.316	And with this, they gained introspection:
+128.055	the ability to think
+128.055	about their own thoughts.
+131.785	So Jaynes's theory is that consciousness,
+135.206	at least in the way we perceive it today,
+138.396	where we feel that we are the pilots
+138.396	of our own existence --
+141.96	is a quite recent cultural development.
+145.456	And this theory is quite spectacular,
+147.266	but it has an obvious problem
+148.723	which is that it's built on just a few
+148.723	and very specific examples.
+153.085	So the question is whether the theory
+154.872	that introspection built up in human
+154.872	history only about 3,000 years ago
+159.647	can be examined in a quantitative
+159.647	and objective manner.
+163.543	And the problem of how
+163.543	to go about this is quite obvious.
+167.13	It's not like Plato woke up one day
+167.13	and then he wrote,
+170.614	"""Hello, I'm Plato,"
+172.297	and as of today, I have
+172.297	"a fully introspective consciousness."""
+175.21	(Laughter)
+177.527	And this tells us actually
+177.527	what is the essence of the problem.
+181.467	We need to find the emergence
+181.467	of a concept that's never said.
+186.434	The word introspection
+186.434	does not appear a single time
+190.768	in the books we want to analyze.
+193.728	So our way to solve this
+193.728	is to build the space of words.
+198.571	This is a huge space
+198.571	that contains all words
+201.882	in such a way that the distance
+201.882	between any two of them
+204.708	is indicative of how
+204.708	closely related they are.
+208.46	So for instance,
+209.635	"you want the words ""dog"" and ""cat"""
+209.635	to be very close together,
+212.556	"but the words ""grapefruit"" and ""logarithm"""
+212.556	to be very far away.
+216.809	And this has to be true
+216.809	for any two words within the space.
+221.626	And there are different ways
+221.626	that we can construct the space of words.
+224.991	One is just asking the experts,
+226.658	a bit like we do with dictionaries.
+228.896	Another possibility
+230.348	is following the simple assumption
+230.348	that when two words are related,
+234.087	they tend to appear in the same sentences,
+236.46	in the same paragraphs,
+237.937	in the same documents,
+239.731	more often than would be expected
+239.731	just by pure chance.
+244.231	And this simple hypothesis,
+246.305	this simple method,
+247.635	with some computational tricks
+249.266	that have to do with the fact
+250.679	that this is a very complex
+250.679	and high-dimensional space,
+253.767	turns out to be quite effective.
+256.155	And just to give you a flavor
+256.155	of how well this works,
+258.981	this is the result we get when
+258.981	we analyze this for some familiar words.
+263.607	And you can see first
+264.816	that words automatically organize
+264.816	into semantic neighborhoods.
+268.118	So you get the fruits, the body parts,
+270.359	the computer parts,
+270.359	the scientific terms and so on.
+273.119	The algorithm also identifies
+273.119	that we organize concepts in a hierarchy.
+277.852	So for instance,
+279.027	you can see that the scientific terms
+279.027	break down into two subcategories
+282.648	of the astronomic and the physics terms.
+285.338	And then there are very fine things.
+287.608	For instance, the word astronomy,
+289.537	which seems a bit bizarre where it is,
+291.376	is actually exactly where it should be,
+293.448	between what it is,
+295.067	an actual science,
+296.361	and between what it describes,
+297.921	the astronomical terms.
+300.182	And we could go on and on with this.
+302.097	Actually, if you stare
+302.097	at this for a while,
+304.181	and you just build random trajectories,
+306.063	you will see that it actually feels
+306.063	a bit like doing poetry.
+310.018	And this is because, in a way,
+311.924	walking in this space
+311.924	is like walking in the mind.
+316.027	And the last thing
+317.668	is that this algorithm also identifies
+317.668	what are our intuitions,
+321.732	of which words should lead
+321.732	in the neighborhood of introspection.
+325.652	So for instance,
+326.899	"words such as ""self,"" ""guilt,"""
+326.899	"""reason,"" ""emotion,"""
+330.902	"are very close to ""introspection,"""
+332.815	but other words,
+333.99	"such as ""red,"" ""football,"""
+333.99	"""candle,"" ""banana,"""
+336.181	are just very far away.
+338.054	And so once we've built the space,
+340.84	the question of the history
+340.84	of introspection,
+343.69	or of the history of any concept
+346.047	which before could seem abstract
+346.047	and somehow vague,
+350.85	becomes concrete --
+352.478	becomes amenable to quantitative science.
+356.216	All that we have to do is take the books,
+359.002	we digitize them,
+360.407	and we take this stream
+360.407	of words as a trajectory
+363.24	and project them into the space,
+365.233	and then we ask whether this trajectory
+365.233	spends significant time
+369.011	circling closely to the concept
+369.011	of introspection.
+372.76	And with this,
+373.98	we could analyze
+373.98	the history of introspection
+376.116	in the ancient Greek tradition,
+378.061	for which we have the best
+378.061	available written record.
+381.631	So what we did is we took all the books --
+383.91	we just ordered them by time --
+386.218	for each book we take the words
+387.994	and we project them to the space,
+389.979	and then we ask for each word
+389.979	how close it is to introspection,
+393.035	and we just average that.
+394.59	And then we ask whether,
+394.59	as time goes on and on,
+397.812	these books get closer,
+397.812	and closer and closer
+401.088	to the concept of introspection.
+402.866	And this is exactly what happens
+402.866	in the ancient Greek tradition.
+407.698	So you can see that for the oldest books
+407.698	in the Homeric tradition,
+410.849	there is a small increase with books
+410.849	getting closer to introspection.
+414.285	But about four centuries before Christ,
+416.515	this starts ramping up very rapidly
+416.515	to an almost five-fold increase
+421.247	of books getting closer,
+421.247	and closer and closer
+423.771	to the concept of introspection.
+426.159	And one of the nice things about this
+428.607	is that now we can ask
+429.829	whether this is also true
+429.829	in a different, independent tradition.
+434.962	So we just ran this same analysis
+434.962	on the Judeo-Christian tradition,
+438.162	and we got virtually the same pattern.
+441.548	Again, you see a small increase
+441.548	for the oldest books in the Old Testament,
+446.207	and then it increases much more rapidly
+448.145	in the new books of the New Testament.
+450.008	And then we get the peak of introspection
+452.064	"in ""The Confessions of Saint Augustine,"""
+454.215	about four centuries after Christ.
+456.897	And this was very important,
+458.865	because Saint Augustine
+458.865	had been recognized by scholars,
+462.262	philologists, historians,
+464.458	as one of the founders of introspection.
+467.06	Actually, some believe him to be
+467.06	the father of modern psychology.
+471.012	So our algorithm,
+472.875	which has the virtue
+472.875	of being quantitative,
+475.741	of being objective,
+477.028	and of course of being extremely fast --
+479.068	it just runs in a fraction of a second --
+481.489	can capture some of the most
+481.489	important conclusions
+485.016	of this long tradition of investigation.
+488.317	And this is in a way
+488.317	one of the beauties of science,
+491.992	which is that now this idea
+491.992	can be translated
+495.492	and generalized to a whole lot
+495.492	of different domains.
+498.769	So in the same way that we asked
+498.769	about the past of human consciousness,
+503.56	maybe the most challenging question
+503.56	we can pose to ourselves
+506.99	is whether this can tell us something
+506.99	about the future of our own consciousness.
+511.55	To put it more precisely,
+513.044	whether the words we say today
+515.484	can tell us something
+515.484	of where our minds will be in a few days,
+520.705	in a few months
+521.88	or a few years from now.
+523.597	And in the same way many of us
+523.597	are now wearing sensors
+526.641	that detect our heart rate,
+528.451	our respiration,
+529.744	our genes,
+531.435	on the hopes that this may
+531.435	help us prevent diseases,
+535.11	we can ask whether monitoring
+535.11	and analyzing the words we speak,
+538.655	we tweet, we email, we write,
+541.362	can tell us ahead of time whether
+541.362	something may go wrong with our minds.
+547.087	And with Guillermo Cecchi,
+548.645	who has been my brother in this adventure,
+551.67	we took on this task.
+554.228	And we did so by analyzing
+554.228	the recorded speech of 34 young people
+559.784	who were at a high risk
+559.784	of developing schizophrenia.
+563.434	And so what we did is,
+563.434	we measured speech at day one,
+566.339	and then we asked whether the properties
+566.339	of the speech could predict,
+569.605	within a window of almost three years,
+572.125	the future development of psychosis.
+575.427	But despite our hopes,
+577.817	we got failure after failure.
+581.793	There was just not enough
+581.793	information in semantics
+585.699	to predict the future
+585.699	organization of the mind.
+588.516	It was good enough
+590.349	to distinguish between a group
+590.349	of schizophrenics and a control group,
+594.548	a bit like we had done
+594.548	for the ancient texts,
+597.284	but not to predict the future
+597.284	onset of psychosis.
+601.164	But then we realized
+602.894	that maybe the most important thing
+602.894	was not so much what they were saying,
+607.006	but how they were saying it.
+609.679	More specifically,
+610.923	it was not in which semantic
+610.923	neighborhoods the words were,
+613.774	but how far and fast they jumped
+616.398	from one semantic neighborhood
+616.398	to the other one.
+619.247	And so we came up with this measure,
+621.002	which we termed semantic coherence,
+623.415	which essentially measures the persistence
+623.415	of speech within one semantic topic,
+628.243	within one semantic category.
+631.294	And it turned out to be
+631.294	that for this group of 34 people,
+635.365	the algorithm based on semantic
+635.365	coherence could predict,
+639.048	with 100 percent accuracy,
+641.572	who developed psychosis and who will not.
+644.976	And this was something
+644.976	that could not be achieved --
+647.937	not even close --
+649.469	with all the other
+649.469	existing clinical measures.
+654.525	And I remember vividly,
+654.525	while I was working on this,
+658.128	I was sitting at my computer
+660.469	and I saw a bunch of tweets by Polo --
+663.128	Polo had been my first student
+663.128	back in Buenos Aires,
+666.319	and at the time
+666.319	he was living in New York.
+668.413	And there was something in this tweets --
+670.525	I could not tell exactly what
+670.525	because nothing was said explicitly --
+674.05	but I got this strong hunch,
+676.095	this strong intuition,
+676.095	that something was going wrong.
+680.347	So I picked up the phone,
+680.347	and I called Polo,
+683.094	and in fact he was not feeling well.
+685.362	And this simple fact,
+687.323	that reading in between the lines,
+689.838	I could sense,
+689.838	through words, his feelings,
+694.124	was a simple, but very
+694.124	effective way to help.
+697.987	What I tell you today
+699.649	is that we're getting
+699.649	close to understanding
+702.181	how we can convert this intuition
+702.181	that we all have,
+706.491	that we all share,
+707.88	into an algorithm.
+710.102	And in doing so,
+711.587	we may be seeing in the future
+711.587	a very different form of mental health,
+716.261	based on objective, quantitative
+716.261	and automated analysis
+721.906	of the words we write,
+723.639	of the words we say.
+725.2	Gracias.
+726.375	(Applause)

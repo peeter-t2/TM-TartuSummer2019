@@ -1,0 +1,412 @@
+startsecond	text
+13.114	So over the past few centuries,
+13.114	microscopes have revolutionized our world.
+21.036	They revealed to us a tiny world
+21.036	of objects, life and structures
+26.252	that are too small for us
+26.252	to see with our naked eyes.
+29.158	They are a tremendous contribution
+29.158	to science and technology.
+32.177	Today I'd like to introduce you
+32.177	to a new type of microscope,
+35.404	a microscope for changes.
+37.982	It doesn't use optics
+37.982	like a regular microscope
+40.884	to make small objects bigger,
+42.881	but instead it uses a video camera
+42.881	and image processing
+47.257	to reveal to us the tiniest motions
+47.257	and color changes in objects and people,
+52.513	changes that are impossible
+52.513	for us to see with our naked eyes.
+56.355	And it lets us look at our world
+56.355	in a completely new way.
+60.475	So what do I mean by color changes?
+62.385	Our skin, for example,
+62.385	changes its color very slightly
+65.217	when the blood flows under it.
+67.214	That change is incredibly subtle,
+69.611	which is why, when you
+69.611	look at other people,
+71.674	when you look at the person
+71.674	sitting next to you,
+73.925	you don't see their skin
+73.925	or their face changing color.
+77.5	When we look at this video of Steve here,
+77.5	it appears to us like a static picture,
+81.86	but once we look at this video
+81.86	through our new, special microscope,
+85.72	suddenly we see
+85.72	a completely different image.
+88.32	What you see here are small changes
+88.32	in the color of Steve's skin,
+92.25	magnified 100 times
+92.25	so that they become visible.
+96.686	We can actually see a human pulse.
+99.953	We can see how fast
+99.953	Steve's heart is beating,
+103.18	but we can also see the actual way
+103.18	that the blood flows in his face.
+108.544	And we can do that not just
+108.544	to visualize the pulse,
+111.175	but also to actually 
+111.175	recover our heart rates,
+114.646	and measure our heart rates.
+116.439	And we can do it with regular cameras
+116.439	and without touching the patients.
+120.892	So here you see the pulse and heart rate
+120.892	we extracted from a neonatal baby
+126.509	from a video we took
+126.509	with a regular DSLR camera,
+129.39	and the heart rate measurement we get
+131.206	is as accurate as the one you'd get
+131.206	with a standard monitor in a hospital.
+136.017	And it doesn't even have to be
+136.017	a video we recorded.
+138.659	We can do it essentially
+138.659	with other videos as well.
+141.654	So I just took a short clip
+141.654	"from ""Batman Begins"" here"
+145.555	just to show Christian Bale's pulse.
+147.459	(Laughter)
+149.281	And you know, presumably
+149.281	he's wearing makeup,
+151.404	the lighting here is kind of challenging,
+153.357	but still, just from the video,
+153.357	we're able to extract his pulse
+156.308	and show it quite well.
+158.326	So how do we do all that?
+160.246	We basically analyze the changes
+160.246	in the light that are recorded
+164.844	at every pixel in the video over time,
+167.115	and then we crank up those changes.
+168.913	We make them bigger
+168.913	so that we can see them.
+171.075	The tricky part is that those signals,
+172.977	those changes that we're after,
+172.977	are extremely subtle,
+175.91	so we have to be very careful
+175.91	when you try to separate them
+178.689	from noise that always exists in videos.
+182.52	So we use some clever
+182.52	image processing techniques
+185.515	to get a very accurate measurement
+185.515	of the color at each pixel in the video,
+189.509	and then the way the color
+189.509	changes over time,
+192.179	and then we amplify those changes.
+194.872	We make them bigger to create those types
+194.872	of enhanced videos, or magnified videos,
+198.852	that actually show us those changes.
+201.024	But it turns out we can do that
+201.024	not just to show tiny changes in color,
+205.262	but also tiny motions,
+207.503	and that's because the light
+207.503	that gets recorded in our cameras
+211.079	will change not only if the color
+211.079	of the object changes,
+213.889	but also if the object moves.
+216.257	So this is my daughter
+216.257	when she was about two months old.
+219.893	It's a video I recorded
+219.893	about three years ago.
+222.892	And as new parents, we all want
+222.892	to make sure our babies are healthy,
+226.1	that they're breathing,
+226.1	that they're alive, of course.
+228.642	So I too got one of those baby monitors
+230.784	so that I could see my daughter
+230.784	when she was asleep.
+233.253	And this is pretty much what you'll see
+233.253	with a standard baby monitor.
+236.78	You can see the baby's sleeping, but 
+236.78	there's not too much information there.
+240.474	There's not too much we can see.
+242.078	Wouldn't it be better,
+242.078	or more informative, or more useful,
+244.902	if instead we could look
+244.902	at the view like this.
+247.892	So here I took the motions
+247.892	and I magnified them 30 times,
+254.248	and then I could clearly see that my
+254.248	daughter was indeed alive and breathing.
+258.074	(Laughter)
+260.327	Here is a side-by-side comparison.
+262.249	So again, in the source video,
+262.249	in the original video,
+264.732	there's not too much we can see,
+266.368	but once we magnify the motions,
+266.368	the breathing becomes much more visible.
+270.075	And it turns out, there's
+270.075	a lot of phenomena
+272.145	we can reveal and magnify
+272.145	with our new motion microscope.
+275.768	We can see how our veins and arteries
+275.768	are pulsing in our bodies.
+280.332	We can see that our eyes
+280.332	are constantly moving
+282.96	in this wobbly motion.
+284.847	And that's actually my eye,
+286.356	and again this video was taken
+286.356	right after my daughter was born,
+289.421	so you can see I wasn't getting
+289.421	too much sleep. (Laughter)
+293.623	Even when a person is sitting still,
+296.339	there's a lot of information
+296.339	we can extract
+298.383	about their breathing patterns,
+298.383	small facial expressions.
+301.912	Maybe we could use those motions
+303.537	to tell us something about
+303.537	our thoughts or our emotions.
+306.691	We can also magnify small
+306.691	mechanical movements,
+309.946	like vibrations in engines,
+311.501	that can help engineers detect
+311.501	and diagnose machinery problems,
+315.193	or see how our buildings and structures
+315.193	sway in the wind and react to forces.
+319.931	Those are all things that our society
+319.931	knows how to measure in various ways,
+324.512	but measuring those motions is one thing,
+326.965	and actually seeing those
+326.965	motions as they happen
+329.241	is a whole different thing.
+331.795	And ever since we discovered
+331.795	this new technology,
+334.836	we made our code available online so that 
+334.836	others could use and experiment with it.
+338.789	It's very simple to use.
+340.664	It can work on your own videos.
+342.708	Our collaborators at Quanta Research
+342.708	even created this nice website
+345.901	where you can upload your videos
+345.901	and process them online,
+348.579	so even if you don't have any experience
+348.579	in computer science or programming,
+352.395	you can still very easily experiment
+352.395	with this new microscope.
+355.331	And I'd like to show you
+355.331	just a couple of examples
+357.735	of what others have done with it.
+360.47	So this video was made by
+360.47	a YouTube user called Tamez85.
+365.787	I don't know who that user is,
+367.25	but he, or she, used our code
+369.595	to magnify small belly
+369.595	movements during pregnancy.
+373.31	It's kind of creepy.
+374.912	(Laughter)
+376.525	People have used it to magnify
+376.525	pulsing veins in their hands.
+381.486	And you know it's not real science
+381.486	unless you use guinea pigs,
+385.268	and apparently this guinea pig
+385.268	is called Tiffany,
+388.658	and this YouTube user claims
+388.658	it is the first rodent on Earth
+391.607	that was motion-magnified.
+394.295	You can also do some art with it.
+396.483	So this video was sent to me
+396.483	by a design student at Yale.
+399.501	She wanted to see
+399.501	if there's any difference
+401.638	in the way her classmates move.
+403.16	She made them all stand still,
+403.16	and then magnified their motions.
+407.369	It's like seeing 
+407.369	still pictures come to life.
+410.747	And the nice thing with 
+410.747	all those examples
+413.18	is that we had nothing to do with them.
+415.476	We just provided this new tool,
+415.476	a new way to look at the world,
+419.33	and then people find other interesting,
+419.33	new and creative ways of using it.
+424.462	But we didn't stop there.
+426.226	This tool not only allows us
+426.226	to look at the world in a new way,
+429.477	it also redefines what we can do
+431.845	and pushes the limits of what
+431.845	we can do with our cameras.
+435.026	So as scientists, we started wondering,
+437.255	what other types of physical phenomena
+437.255	produce tiny motions
+441.04	that we could now use
+441.04	our cameras to measure?
+443.943	And one such phenomenon
+443.943	that we focused on recently is sound.
+447.944	Sound, as we all know,
+447.944	is basically changes
+450.049	in air pressure that
+450.049	travel through the air.
+452.232	Those pressure waves hit objects
+452.232	and they create small vibrations in them,
+455.853	which is how we hear
+455.853	and how we record sound.
+458.385	But it turns out that sound
+458.385	also produces visual motions.
+462.053	Those are motions
+462.053	that are not visible to us
+464.886	but are visible to a camera
+464.886	with the right processing.
+467.887	So here are two examples.
+469.46	This is me demonstrating
+469.46	my great singing skills.
+473.064	(Singing)
+474.698	(Laughter)
+476.134	And I took a high-speed video
+476.134	of my throat while I was humming.
+479.12	Again, if you stare at that video,
+480.884	there's not too much
+480.884	you'll be able to see,
+482.96	but once we magnify the motions 100 times,
+482.96	we can see all the motions and ripples
+487.292	in the neck that are involved
+487.292	in producing the sound.
+490.566	That signal is there in that video.
+493.306	We also know that singers
+493.306	can break a wine glass
+495.976	if they hit the correct note.
+497.439	So here, we're going to play a note
+499.204	that's in the resonance
+499.204	frequency of that glass
+501.73	through a loudspeaker that's next to it.
+503.778	Once we play that note
+503.778	and magnify the motions 250 times,
+508.197	we can very clearly see 
+508.197	how the glass vibrates
+510.535	and resonates in response to the sound.
+514.105	It's not something you're used
+514.105	to seeing every day.
+516.525	But this made us think.
+516.525	It gave us this crazy idea.
+520.054	Can we actually invert this process
+520.054	and recover sound from video
+525.662	by analyzing the tiny vibrations
+525.662	that sound waves create in objects,
+529.697	and essentially convert those
+529.697	back into the sounds that produced them.
+534.474	In this way, we can turn
+534.474	everyday objects into microphones.
+538.931	So that's exactly what we did.
+541.163	So here's an empty bag of chips
+541.163	that was lying on a table,
+543.979	and we're going to turn that 
+543.979	bag of chips into a microphone
+546.804	by filming it with a video camera
+548.395	and analyzing the tiny motions
+548.395	that sound waves create in it.
+551.623	So here's the sound
+551.623	that we played in the room.
+554.419	"(Music: ""Mary Had a Little Lamb"")"
+562.007	And this is a high-speed video
+562.007	we recorded of that bag of chips.
+565.032	Again it's playing.
+566.306	There's no chance you'll be able
+566.306	to see anything going on in that video
+569.648	just by looking at it,
+570.706	but here's the sound we were able
+570.706	to recover just by analyzing
+573.69	the tiny motions in that video.
+575.873	"(Music: ""Mary Had a Little Lamb"")"
+592.985	I call it -- Thank you.
+594.471	(Applause)
+601.878	I call it the visual microphone.
+604.223	We actually extract audio signals
+604.223	from video signals.
+607.613	And just to give you a sense
+607.613	of the scale of the motions here,
+610.799	a pretty loud sound will cause that bag
+610.799	of chips to move less than a micrometer.
+616.135	That's one thousandth of a millimeter.
+618.874	That's how tiny the motions are
+618.874	that we are now able to pull out
+622.435	just by observing how light
+622.435	bounces off objects
+625.678	and gets recorded by our cameras.
+627.814	We can recover sounds
+627.814	from other objects, like plants.
+631.064	"(Music: ""Mary Had a Little Lamb"")"
+639.214	And we can recover speech as well.
+641.211	So here's a person speaking in a room.
+643.788	Voice: Mary had a little lamb
+643.788	whose fleece was white as snow,
+647.991	and everywhere that Mary went,
+647.991	that lamb was sure to go.
+652.221	Michael Rubinstein: And here's
+652.221	that speech again recovered
+654.98	just from this video
+654.98	of that same bag of chips.
+658.254	Voice: Mary had a little lamb
+658.254	whose fleece was white as snow,
+663.085	and everywhere that Mary went,
+663.085	that lamb was sure to go.
+667.944	"MR: We used ""Mary Had a Little Lamb"""
+670.29	because those are said to be
+670.29	the first words
+672.413	that Thomas Edison spoke 
+672.413	into his phonograph in 1877.
+676.574	It was one of the first sound
+676.574	recording devices in history.
+679.802	It basically directed the sounds
+679.802	onto a diaphragm
+683.129	that vibrated a needle that essentially
+683.129	engraved the sound on tinfoil
+687.208	that was wrapped around the cylinder.
+689.483	Here's a demonstration of recording and 
+689.483	replaying sound with Edison's phonograph.
+695.426	(Video) Voice: Testing,
+695.426	testing, one two three.
+698.446	Mary had a little lamb
+698.446	whose fleece was white as snow,
+701.859	and everywhere that Mary went,
+701.859	the lamb was sure to go.
+705.528	Testing, testing, one two three.
+708.268	Mary had a little lamb
+708.268	whose fleece was white as snow,
+712.424	and everywhere that Mary went,
+712.424	the lamb was sure to go.
+717.648	MR: And now, 137 years later,
+721.665	we're able to get sound
+721.665	in pretty much similar quality
+725.752	but by just watching objects
+725.752	vibrate to sound with cameras,
+729.831	and we can even do that when the camera
+731.765	is 15 feet away from the object,
+731.765	behind soundproof glass.
+735.999	So this is the sound that we were 
+735.999	able to recover in that case.
+739.219	Voice: Mary had a little lamb
+739.219	whose fleece was white as snow,
+744.513	and everywhere that Mary went,
+744.513	the lamb was sure to go.
+749.404	MR: And of course, surveillance is
+749.404	the first application that comes to mind.
+753.034	(Laughter)
+756.029	But it might actually be useful
+756.029	for other things as well.
+760.085	Maybe in the future, we'll be able
+760.085	to use it, for example,
+762.925	to recover sound across space,
+765.177	because sound can't travel
+765.177	in space, but light can.
+768.753	We've only just begun exploring
+771.157	other possible uses
+771.157	for this new technology.
+774.176	It lets us see physical processes
+774.176	that we know are there
+777.008	but that we've never been able
+777.008	to see with our own eyes until now.
+780.564	This is our team.
+781.768	Everything I showed you today
+781.768	is a result of a collaboration
+784.647	with this great group
+784.647	of people you see here,
+786.838	and I encourage you and welcome you
+786.838	to check out our website,
+790.005	try it out yourself,
+791.451	and join us in exploring
+791.451	this world of tiny motions.
+794.423	Thank you.
+796.048	(Applause)

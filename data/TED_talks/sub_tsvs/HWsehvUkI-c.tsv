@@ -1,0 +1,138 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.927	So, well, I do applied math,
+18.03	and this is a peculiar problem
+19.554	for anyone who does applied math, is that
+21.727	we are like management consultants.
+23.66	No one knows what the hell we do.
+25.606	So I am going to give you some -- attempt today
+27.88	to try and explain to you what I do.
+30.173	So, dancing is one of the most human of activities.
+33.494	We delight at ballet virtuosos and tap dancers
+37.176	you will see later on.
+38.324	Now, ballet requires an extraordinary level of expertise
+41.014	and a high level of skill,
+43.928	and probably a level of initial suitability
+46.459	that may well have a genetic component to it.
+48.306	Now, sadly, neurological disorders such as Parkinson's disease
+51.699	gradually destroy this extraordinary ability,
+53.786	as it is doing to my friend Jan Stripling, who was
+56.109	a virtuoso ballet dancer in his time.
+59.076	So great progress and treatment has been made over the years.
+62.13	However, there are 6.3 million people worldwide
+65.074	who have the disease, and they have to live with
+68.522	incurable weakness, tremor, rigidity
+71.09	and the other symptoms that go along with the disease,
+72.947	so what we need are objective tools
+75.33	to detect the disease before it's too late.
+78.387	We need to be able to measure progression objectively,
+80.941	and ultimately, the only way we're going to know
+84.114	when we actually have a cure is when we have
+86.306	an objective measure that can answer that for sure.
+89.704	But frustratingly, with Parkinson's disease
+92.554	and other movement disorders, there are no biomarkers,
+94.907	so there's no simple blood test that you can do,
+97.136	and the best that we have is like
+98.938	this 20-minute neurologist test.
+101.179	You have to go to the clinic to do it. It's very, very costly,
+103.637	and that means that, outside the clinical trials,
+106.394	it's just never done. It's never done.
+109.122	But what if patients could do this test at home?
+112.199	Now, that would actually save on a difficult trip to the clinic,
+114.297	and what if patients could do that test themselves, right?
+118.551	No expensive staff time required.
+120.471	Takes about $300, by the way,
+121.889	in the neurologist's clinic to do it.
+123.882	So what I want to propose to you as an unconventional way
+126.563	in which we can try to achieve this,
+128.077	because, you see, in one sense, at least,
+129.885	we are all virtuosos like my friend Jan Stripling.
+133.141	So here we have a video of the vibrating vocal folds.
+136.896	Now, this is healthy and this is somebody making speech sounds,
+140.125	and we can think of ourselves as vocal ballet dancers,
+143.589	because we have to coordinate all of these vocal organs
+145.803	when we make sounds, and we all actually
+148.098	have the genes for it. FoxP2, for example.
+150.394	And like ballet, it takes an extraordinary level of training.
+153.107	I mean, just think how long it takes a child to learn to speak.
+155.692	From the sound, we can actually track
+158.074	the vocal fold position as it vibrates,
+160.355	and just as the limbs are affected in Parkinson's,
+162.898	so too are the vocal organs.
+165.679	So on the bottom trace, you can see an example of
+167.559	irregular vocal fold tremor.
+169.257	We see all the same symptoms.
+170.425	We see vocal tremor, weakness and rigidity.
+173.355	The speech actually becomes quieter and more breathy
+175.459	after a while, and that's one of the example symptoms of it.
+177.692	So these vocal effects can actually be quite subtle,
+180.539	in some cases, but with any digital microphone,
+183.755	and using precision voice analysis software
+186.3	in combination with the latest in machine learning,
+188.709	which is very advanced by now,
+190.287	we can now quantify exactly where somebody lies
+193.173	on a continuum between health and disease
+196.054	using voice signals alone.
+198.65	So these voice-based tests, how do they stack up against
+200.964	expert clinical tests? We'll, they're both non-invasive.
+203.114	The neurologist's test is non-invasive. They both use existing infrastructure.
+207.096	You don't have to design a whole new set of hospitals to do it.
+210.1	And they're both accurate. Okay, but in addition,
+212.402	voice-based tests are non-expert.
+215.729	That means they can be self-administered.
+217.721	They're high-speed, take about 30 seconds at most.
+220.301	They're ultra-low cost, and we all know what happens.
+222.595	When something becomes ultra-low cost,
+225.035	it becomes massively scalable.
+227.331	So here are some amazing goals that I think we can deal with now.
+231.006	We can reduce logistical difficulties with patients.
+233.432	No need to go to the clinic for a routine checkup.
+235.744	We can do high-frequency monitoring to get objective data.
+238.064	We can perform low-cost mass recruitment for clinical trials,
+242.169	and we can make population-scale screening
+244.284	feasible for the first time.
+245.88	We have the opportunity to start to search
+248.082	for the early biomarkers of the disease before it's too late.
+251.623	So, taking the first steps towards this today,
+254.381	we're launching the Parkinson's Voice Initiative.
+256.507	With Aculab and PatientsLikeMe, we're aiming
+258.739	to record a very large number of voices worldwide
+260.667	to collect enough data to start to tackle these four goals.
+263.807	We have local numbers accessible to three quarters
+265.507	of a billion people on the planet.
+267.117	Anyone healthy or with Parkinson's can call in, cheaply,
+270.194	and leave recordings, a few cents each,
+272.333	and I'm really happy to announce that we've already hit
+274.523	six percent of our target just in eight hours.
+278.066	Thank you. (Applause)
+281.817	(Applause)
+288.137	Tom Rielly: So Max, by taking all these samples of,
+291.712	let's say, 10,000 people,
+294.488	you'll be able to tell who's healthy and who's not?
+297.342	What are you going to get out of those samples?
+299.027	Max Little: Yeah. Yeah. So what will happen is that,
+300.857	during the call you have to indicate whether or not
+302.514	you have the disease or not, you see. TR: Right.
+303.781	ML: You see, some people may not do it. They may not get through it.
+306.288	But we'll get a very large sample of data that is collected
+309.005	from all different circumstances, and it's getting it
+312.413	in different circumstances that matter because then
+314.318	we are looking at ironing out the confounding factors,
+317.702	and looking for the actual markers of the disease.
+319.863	TR: So you're 86 percent accurate right now?
+322.36	ML: It's much better than that.
+323.554	Actually, my student Thanasis, I have to plug him,
+325.274	because he's done some fantastic work,
+327.144	and now he has proved that it works over the mobile telephone network as well,
+330.914	which enables this project, and we're getting 99 percent accuracy.
+334.304	TR: Ninety-nine. Well, that's an improvement.
+335.88	So what that means is that people will be able to —
+338.081	ML: (Laughs)
+339.933	TR: People will be able to call in from their mobile phones
+341.839	and do this test, and people with Parkinson's could call in,
+344.911	record their voice, and then their doctor can check up
+347.781	on their progress, see where they're doing in this course of the disease.
+350.462	ML: Absolutely.
+351.432	TR: Thanks so much. Max Little, everybody.
+353.175	ML: Thanks, Tom. (Applause)

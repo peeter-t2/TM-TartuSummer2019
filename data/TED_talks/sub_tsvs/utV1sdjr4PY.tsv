@@ -1,0 +1,554 @@
+startsecond	text
+12.564	My job is to design, build and study
+12.564	robots that communicate with people.
+17.231	But this story doesn't start with robotics
+17.231	at all, it starts with animation.
+20.874	"When I first saw Pixar's ""Luxo Jr.,"""
+23.267	I was amazed by how much
+23.267	emotion they could put
+25.997	into something as trivial as a desk lamp.
+29.477	I mean, look at them --
+29.477	at the end of this movie,
+31.846	you actually feel something
+31.846	for two pieces of furniture.
+34.649	(Laughter)
+35.954	And I said, I have
+35.954	to learn how to do this.
+38.006	So I made a really bad career decision.
+40.257	(Laughter)
+41.475	And that's what my mom
+41.475	was like when I did it.
+43.692	(Laughter)
+45.857	I left a very cozy tech job in Israel
+45.857	at a nice software company
+49.302	and I moved to New York
+49.302	to study animation.
+51.618	And there I lived
+52.793	in a collapsing apartment building
+52.793	in Harlem with roommates.
+55.635	I'm not using this phrase
+55.635	metaphorically --
+57.683	the ceiling actually collapsed
+57.683	one day in our living room.
+60.436	Whenever they did news stories
+60.436	about building violations in New York,
+63.702	they would put the report
+63.702	in front of our building,
+66.142	as kind of, like, a backdrop
+66.142	to show how bad things are.
+68.903	Anyway, during the day, I went to school
+70.864	and at night I would sit and draw
+70.864	frame by frame of pencil animation.
+74.315	And I learned two surprising lessons.
+76.524	One of them was that
+76.524	when you want to arouse emotions,
+81.038	it doesn't matter so much
+81.038	how something looks;
+83.237	it's all in the motion, in the timing
+83.237	of how the thing moves.
+86.816	And the second was something
+86.816	one of our teachers told us.
+90.03	"He actually did the weasel in ""Ice Age."""
+92.662	"And he said, ""As an animator,"
+92.662	"you're not a director -- you're an actor."""
+96.895	So, if you want to find
+96.895	the right motion for a character,
+99.942	don't think about it --
+99.942	go use your body to find it.
+102.411	Stand in front of a mirror,
+102.411	act it out in front of a camera --
+105.368	whatever you need -- and then
+105.368	put it back in your character.
+108.696	A year later I found myself at MIT
+108.696	in the Robotic Life Group.
+111.932	It was one of the first groups
+111.932	researching the relationships
+114.814	between humans and robots.
+116.152	And I still had this dream
+116.152	to make an actual, physical Luxo Jr. lamp.
+120.132	But I found that robots didn't move
+120.132	at all in this engaging way
+123.148	that I was used to
+123.148	from my animation studies.
+125.347	Instead, they were all --
+125.347	how should I put it --
+127.835	they were all kind of robotic.
+129.313	(Laughter)
+131.211	And I thought, what if I took
+131.211	whatever I learned in animation school,
+134.971	and used that to design
+134.971	my robotic desk lamp.
+137.598	So I went and designed frame by frame
+139.667	to try to make this robot as graceful
+139.667	and engaging as possible.
+144.199	And here when you see the robot
+144.199	interacting with me on a desktop --
+147.932	and I'm actually redesigning the robot,
+149.992	so, unbeknownst to itself,
+151.82	it's kind of digging its own
+151.82	grave by helping me.
+154.419	(Laughter)
+156.449	I wanted it to be less of a mechanical
+156.449	structure giving me light,
+159.712	and more of a helpful,
+159.712	kind of quiet apprentice
+162.754	that's always there when you need it
+162.754	and doesn't really interfere.
+165.947	And when, for example, I'm looking
+165.947	for a battery that I can't find,
+169.306	in a subtle way, it'll show me
+169.306	where the battery is.
+173.872	So you can see my confusion here.
+176.442	I'm not an actor.
+180.585	And I want you to notice
+180.585	how the same mechanical structure
+183.642	can, at one point,
+183.642	just by the way it moves,
+185.753	seem gentle and caring
+185.753	and in the other case,
+187.921	seem violent and confrontational.
+190.316	And it's the same structure,
+190.316	just the motion is different.
+199.419	"Actor: ""You want to know something?"
+199.419	Well, you want to know something?
+204.015	He was already dead!
+205.928	"Just laying there, eyes glazed over!"""
+209.854	(Laughter)
+210.899	But, moving in a graceful way
+210.899	is just one building block
+213.979	of this whole structure
+213.979	called human-robot interaction.
+216.598	I was, at the time, doing my PhD,
+216.598	I was working on human-robot teamwork,
+220.075	teams of humans and robots
+220.075	working together.
+222.161	I was studying the engineering,
+223.82	the psychology,
+223.82	the philosophy of teamwork,
+226.376	and at the same time,
+227.551	I found myself in my own kind
+227.551	of teamwork situation,
+230.069	with a good friend of mine,
+230.069	who's actually here.
+232.345	And in that situation,
+232.345	we can easily imagine robots
+234.773	in the near future being there with us.
+236.697	It was after a Passover Seder.
+238.411	We were folding up
+238.411	a lot of folding chairs,
+240.49	and I was amazed at how quickly
+240.49	we found our own rhythm.
+243.172	Everybody did their own part,
+243.172	we didn't have to divide our tasks.
+246.306	We didn't have to communicate
+246.306	verbally about this --
+248.776	it all just happened.
+249.989	And I thought, humans and robots
+249.989	don't look at all like this.
+252.893	When humans and robots interact,
+252.893	it's much more like a chess game:
+256.048	the human does a thing, the robot
+256.048	analyzes whatever the human did,
+259.193	the robot decides what to do next,
+259.193	plans it and does it.
+261.86	Then the human waits,
+261.86	until it's their turn again.
+264.239	So it's much more like a chess game,
+264.239	and that makes sense,
+266.994	because chess is great for mathematicians
+266.994	and computer scientists.
+270.129	It's all about information, analysis,
+270.129	decision-making and planning.
+273.581	But I wanted my robot
+273.581	to be less of a chess player,
+277.335	and more like a doer
+279.152	that just clicks and works together.
+281.177	So I made my second
+281.177	horrible career choice:
+284.57	I decided to study acting for a semester.
+287.147	I took off from the PhD,
+287.147	I went to acting classes.
+290.09	I actually participated in a play --
+292.152	I hope there’s no video
+292.152	of that around still.
+294.478	(Laughter)
+295.54	And I got every book
+295.54	I could find about acting,
+297.858	including one from the 19th century
+297.858	that I got from the library.
+301.011	And I was really amazed, because my name
+301.011	was the second name on the list --
+304.648	the previous name was in 1889.
+306.672	(Laughter)
+307.711	And this book was
+307.711	kind of waiting for 100 years
+309.984	to be rediscovered for robotics.
+312.34	And this book shows actors
+313.94	how to move every muscle in the body
+316.202	to match every kind of emotion
+316.202	that they want to express.
+318.942	But the real revelation was
+318.942	when I learned about method acting.
+321.992	It became very popular
+321.992	in the 20th century.
+324.269	And method acting said
+325.444	you don't have to plan
+325.444	every muscle in your body;
+327.768	instead, you have to use your body
+327.768	to find the right movement.
+330.737	You have to use your sense memory
+330.737	to reconstruct the emotions
+333.641	and kind of think with your body
+333.641	to find the right expression --
+336.703	improvise, play off your scene partner.
+338.602	And this came at the same time
+340.071	as I was reading about this trend
+340.071	in cognitive psychology,
+343.201	called embodied cognition,
+343.201	which also talks about the same ideas.
+346.477	We use our bodies to think;
+348.016	we don't just think with our brains
+348.016	and use our bodies to move,
+350.997	but our bodies feed back into our brain
+352.939	to generate the way that we behave.
+355.128	And it was like a lightning bolt.
+356.748	I went back to my office,
+357.986	I wrote this paper,
+357.986	which I never really published,
+360.415	"called ""Acting Lessons"
+360.415	"for Artificial Intelligence."""
+362.971	And I even took another month
+364.376	to do what was then the first theater play
+366.844	with a human and a robot acting together.
+368.821	That's what you saw
+368.821	before with the actors.
+372.564	And I thought:
+373.739	How can we make an artificial
+373.739	intelligence model --
+376.7	a computer, computational model --
+378.707	that will model some of these
+378.707	ideas of improvisation,
+381.238	of taking risks, of taking chances,
+383.092	even of making mistakes?
+384.643	Maybe it can make for better
+384.643	robotic teammates.
+387.28	So I worked for quite
+387.28	a long time on these models
+389.908	and I implemented them
+389.908	on a number of robots.
+392.327	Here you can see a very early example
+394.652	with the robots trying to use
+394.652	this embodied artificial intelligence
+398.255	to try to match my movements
+398.255	as closely as possible.
+400.742	It's sort of like a game.
+402.53	Let's look at it.
+407.652	You can see when I psych
+407.652	it out, it gets fooled.
+411.698	And it's a little bit
+411.698	like what you might see actors do
+414.317	when they try to mirror each other
+415.975	to find the right synchrony between them.
+418.364	And then, I did another experiment,
+420.22	and I got people off the street
+420.22	to use the robotic desk lamp,
+424.303	and try out this idea
+424.303	of embodied artificial intelligence.
+427.921	So, I actually used two kinds
+427.921	of brains for the same robot.
+432.543	The robot is the same lamp that you saw,
+434.519	and I put two brains in it.
+435.882	For one half of the people,
+437.633	I put in a brain
+437.633	that's kind of the traditional,
+440.593	calculated robotic brain.
+441.846	It waits for its turn,
+441.846	it analyzes everything, it plans.
+444.51	Let's call it the calculated brain.
+446.216	The other got more the stage
+446.216	actor, risk-taker brain.
+449.487	Let's call it the adventurous brain.
+451.633	It sometimes acts without knowing
+451.633	everything it has to know.
+454.594	It sometimes makes mistakes
+454.594	and corrects them.
+456.91	And I had them do this very tedious task
+456.91	that took almost 20 minutes,
+460.852	and they had to work together,
+462.352	somehow simulating, like, a factory job
+464.929	of repetitively doing the same thing.
+467.445	What I found is that people
+467.445	actually loved the adventurous robot.
+470.8	They thought it was more intelligent,
+472.601	more committed,
+472.601	a better member of the team,
+474.731	contributed to the success
+474.731	of the team more.
+476.82	"They even called it ""he"" and ""she,"""
+478.552	whereas people with the calculated brain
+480.697	"called it ""it,"" and nobody"
+480.697	"ever called it ""he"" or ""she."""
+483.876	When they talked about it after the task,
+483.876	with the adventurous brain,
+487.193	"they said, ""By the end, we were good"
+487.193	"friends and high-fived mentally."""
+491.397	Whatever that means.
+492.714	(Laughter)
+494.644	Sounds painful.
+496.021	Whereas the people
+496.021	with the calculated brain
+498.783	said it was just like a lazy apprentice.
+501.165	It only did what it was supposed
+501.165	to do and nothing more,
+503.934	which is almost what people
+503.934	expect robots to do,
+506.307	so I was surprised that people
+506.307	had higher expectations of robots
+509.886	than what anybody in robotics
+509.886	thought robots should be doing.
+514.027	And in a way, I thought,
+514.027	maybe it's time --
+516.066	just like method acting
+516.066	changed the way people thought
+519.052	about acting in the 19th century,
+520.672	from going from the very calculated,
+520.672	planned way of behaving,
+523.773	to a more intuitive, risk-taking,
+523.773	embodied way of behaving --
+527.295	maybe it's time for robots
+527.295	to have the same kind of revolution.
+531.994	A few years later, I was at my next
+531.994	research job at Georgia Tech in Atlanta,
+535.617	and I was working in a group
+535.617	dealing with robotic musicians.
+538.465	And I thought, music:
+538.465	that's the perfect place
+540.849	to look at teamwork, coordination,
+540.849	timing, improvisation --
+545.016	and we just got this robot
+545.016	playing marimba.
+547.483	And the marimba, for everybody like me,
+549.763	it was this huge, wooden xylophone.
+552.526	And when I was looking at this,
+554.613	I looked at other works
+554.613	in human-robot improvisation --
+557.635	yes, there are other works
+557.635	in human-robot improvisation --
+560.406	and they were also a little bit
+560.406	like a chess game.
+562.779	The human would play,
+563.954	the robot analyzed what was played,
+566.151	and would improvise their own part.
+568.254	So, this is what musicians called
+568.254	a call-and-response interaction,
+571.416	and it also fits very well
+571.416	robots and artificial intelligence.
+575.187	But I thought, if I use the same ideas
+575.187	I used in the theater play
+578.464	and in the teamwork studies,
+580.232	maybe I can make the robots
+580.232	jam together like a band.
+583.906	Everybody's riffing off each other,
+583.906	nobody is stopping for a moment.
+588.198	And so I tried to do the same
+588.198	things, this time with music,
+591.096	where the robot doesn't really know
+591.096	what it's about to play,
+593.954	it just sort of moves its body
+593.954	and uses opportunities to play,
+596.995	and does what my jazz teacher
+596.995	when I was 17 taught me.
+599.558	She said, when you improvise,
+600.979	sometimes you don't know
+600.979	what you're doing, and you still do it.
+604.019	So I tried to make a robot that doesn't
+604.019	actually know what it's doing,
+607.369	but is still doing it.
+608.614	So let's look at a few seconds
+608.614	from this performance,
+611.149	where the robot listens
+611.149	to the human musician
+613.3	and improvises.
+614.489	And then, look how the human
+614.489	musician also responds
+617.488	to what the robot is doing
+618.785	and picking up from its behavior,
+621.453	and at some point can even be surprised
+621.453	by what the robot came up with.
+625.433	(Music)
+667.618	(Music ends)
+671.134	(Applause)
+676.892	Being a musician
+676.892	is not just about making notes,
+679.166	otherwise nobody
+679.166	would ever go see a live show.
+681.538	Musicians also communicate
+681.538	with their bodies,
+683.684	with other band members,
+683.684	with the audience,
+685.725	they use their bodies
+685.725	to express the music.
+687.763	And I thought, we already have
+687.763	a robot musician on stage,
+690.484	why not make it be
+690.484	a full-fledged musician?
+692.82	And I started designing
+692.82	a socially expressive head
+695.518	for the robot.
+696.885	The head doesn’t actually
+696.885	touch the marimba,
+698.979	it just expresses what the music is like.
+700.962	These are some napkin sketches
+700.962	from a bar in Atlanta
+703.482	that was dangerously
+703.482	located exactly halfway
+706.049	between my lab and my home.
+707.884	So I spent, I would say, on average,
+707.884	three to four hours a day there.
+711.846	I think.
+713.057	(Laughter)
+714.917	And I went back to my animation
+714.917	tools and tried to figure out
+717.823	not just what a robotic
+717.823	musician would look like,
+720.217	but especially what a robotic
+720.217	musician would move like,
+722.866	to sort of show that it doesn't like
+722.866	what the other person is playing --
+726.292	and maybe show whatever beat
+726.292	it's feeling at the moment.
+730.141	So we ended up actually getting the money
+730.141	to build this robot, which was nice.
+734.668	I'm going to show you now
+734.668	the same kind of performance,
+737.296	this time with a socially expressive head.
+739.36	And notice one thing --
+741.184	how the robot is really showing us
+742.879	the beat it's picking up from the human,
+744.809	while also giving the human a sense
+744.809	that the robot knows what it's doing.
+748.76	And also how it changes the way it moves
+750.704	as soon as it starts its own solo.
+752.68	(Music)
+756.6	Now it's looking at me,
+756.6	showing that it's listening.
+759.644	(Music)
+781.181	Now look at the final chord
+781.181	of the piece again.
+784.126	And this time the robot
+784.126	communicates with its body
+787.067	when it's busy doing its own thing,
+789.204	and when it's ready to coordinate
+789.204	the final chord with me.
+794.079	(Music)
+801.783	(Music ending)
+806.103	(Final chord)
+807.128	(Applause)
+812.906	Thanks.
+814.085	I hope you see
+815.69	how much this part of the body
+815.69	that doesn't touch the instrument
+820.11	actually helps
+820.11	with the musical performance.
+823.16	And at some point -- we are in Atlanta,
+825.193	so obviously some rapper
+825.193	will come into our lab at some point --
+828.467	and we had this rapper come in and do
+828.467	a little jam with the robot.
+833.284	Here you can see the robot
+833.284	basically responding to the beat.
+837.356	Notice two things:
+838.531	one, how irresistible it is to join
+838.531	the robot while it's moving its head.
+842.164	You kind of want to move
+842.164	your own head when it does it.
+844.791	And second, even though the rapper
+844.791	is really focused on his iPhone,
+848.401	as soon as the robot turns
+848.401	to him, he turns back.
+851.535	So even though it's just
+851.535	in the periphery of his vision,
+854.195	in the corner of his eye,
+854.195	it's very powerful.
+856.339	And the reason is that we can't ignore
+858.197	physical things moving in our environment.
+860.245	We are wired for that.
+861.439	So if you have a problem --
+863.107	maybe your partner is looking
+863.107	at their iPhone or smartphone too much --
+867.806	you might want to have a robot
+867.806	there to get their attention.
+870.664	(Laughter)
+871.689	(Music)
+886.113	(Music ends)
+890.138	(Applause)
+897.633	Just to introduce the last robot
+897.633	that we've worked on,
+901.491	it came out of something
+901.491	surprising that we found:
+903.865	Some point people didn't care
+903.865	about the robot being intelligent,
+907.047	able to improvise and listen,
+908.473	and do all these embodied intelligence
+908.473	things that I spent years developing.
+912.903	They really liked that the robot
+912.903	was enjoying the music.
+915.608	(Laughter)
+916.633	And they didn't say the robot
+916.633	was moving to the music,
+919.202	"they said ""enjoying"" the music."
+920.714	And we thought,
+920.714	why don't we take this idea,
+922.864	and I designed a new piece of furniture.
+925.629	This time it wasn't a desk lamp,
+925.629	it was a speaker dock,
+928.225	one of those things
+928.225	you plug your smartphone in.
+930.889	And I thought,
+932.063	what would happen if your speaker dock
+932.063	didn't just play the music for you,
+935.587	but would actually enjoy it, too?
+937.657	And so again, here are some
+937.657	animation tests from an early stage.
+941.842	(Laughter)
+943.835	And this is what the final
+943.835	product looked like.
+958.247	(Music)
+978.848	(Music ends)
+981.461	So, a lot of bobbing heads.
+984.105	(Applause)
+987.74	A lot of bobbing heads in the audience,
+989.654	so we can still see
+989.654	robots influence people.
+992.386	And it's not just fun and games.
+995.195	I think one of the reasons I care so much
+997.42	about robots that use
+997.42	their body to communicate
+999.677	and use their body to move is --
+1001.407	I'm going to let you in on a little
+1001.407	secret we roboticists are hiding --
+1004.821	is that every one of you
+1004.821	is going to be living with a robot
+1007.638	at some point in your life.
+1009.254	Somewhere in your future,
+1009.254	there will be a robot in your life.
+1012.211	If not in yours, your children's lives.
+1014.103	And I want these robots to be more fluent,
+1014.103	more engaging, more graceful
+1019.117	than currently they seem to be.
+1020.87	And for that I think maybe robots
+1020.87	need to be less like chess players
+1024.181	and more like stage actors
+1024.181	and more like musicians.
+1026.846	Maybe they should be able
+1026.846	to take chances and improvise.
+1029.683	Maybe they should be able
+1029.683	to anticipate what you're about to do.
+1032.731	Maybe they even need to be able
+1032.731	to make mistakes and correct them,
+1036.103	because in the end, we are human.
+1038.015	And maybe as humans,
+1038.015	robots that are a little less than perfect
+1041.593	are just perfect for us.
+1043.348	Thank you.
+1044.531	(Applause)

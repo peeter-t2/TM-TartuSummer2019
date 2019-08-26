@@ -1,0 +1,92 @@
+startsecond	text
+0	Translator: Timothy Covell
+0	Reviewer: Morton Bast
+15.26	So it turns out that mathematics is a very powerful language.
+18.931	It has generated considerable insight in physics,
+21.243	in biology and economics,
+23.343	but not that much in the humanities and in history.
+26.16	I think there's a belief that it's just impossible,
+28.443	that you cannot quantify the doings of mankind,
+31.089	that you cannot measure history.
+33.608	But I don't think that's right.
+35.135	I want to show you a couple of examples why.
+37.177	So my collaborator Erez and I were considering the following fact:
+40.135	that two kings separated by centuries
+42.864	will speak a very different language.
+44.631	That's a powerful historical force.
+46.935	So the king of England, Alfred the Great,
+48.708	will use a vocabulary and grammar
+50.348	that is quite different from the king of hip hop, Jay-Z.
+54.048	(Laughter)
+55.714	Now it's just the way it is.
+57.885	Language changes over time, and it's a powerful force.
+60.177	So Erez and I wanted to know more about that.
+62.464	So we paid attention to a particular grammatical rule, past-tense conjugation.
+66.121	"So you just add ""ed"" to a verb at the end to signify the past."
+69.385	"""Today I walk. Yesterday I walked."""
+71.312	But some verbs are irregular.
+72.656	"""Yesterday I thought."""
+74.052	Now what's interesting about that
+75.718	is irregular verbs between Alfred and Jay-Z have become more regular.
+79.548	"Like the verb ""to wed"" that you see here has become regular."
+82.283	So Erez and I followed the fate of over 100 irregular verbs
+86.305	through 12 centuries of English language,
+88.224	and we saw that there's actually a very simple mathematical pattern
+91.135	that captures this complex historical change,
+93.677	namely, if a verb is 100 times more frequent than another,
+97.337	it regularizes 10 times slower.
+100.002	That's a piece of history, but it comes in a mathematical wrapping.
+103.937	Now in some cases math can even help explain,
+107.591	or propose explanations for, historical forces.
+110.47	So here Steve Pinker and I
+112.302	were considering the magnitude of wars during the last two centuries.
+116.154	There's actually a well-known regularity to them
+118.649	where the number of wars that are 100 times deadlier
+122.071	is 10 times smaller.
+124.023	So there are 30 wars that are about as deadly as the Six Days War,
+127.367	but there's only four wars that are 100 times deadlier --
+130.187	like World War I.
+132.164	So what kind of historical mechanism can produce that?
+135.087	What's the origin of this?
+137.087	So Steve and I, through mathematical analysis,
+139.352	propose that there's actually a very simple phenomenon at the root of this,
+143.593	which lies in our brains.
+145.283	This is a very well-known feature
+147.302	in which we perceive quantities in relative ways --
+150.277	quantities like the intensity of light or the loudness of a sound.
+153.993	For instance, committing 10,000 soldiers to the next battle sounds like a lot.
+159.302	It's relatively enormous if you've already committed 1,000 soldiers previously.
+162.746	But it doesn't sound so much,
+164.573	it's not relatively enough, it won't make a difference
+167.593	if you've already committed 100,000 soldiers previously.
+170.545	So you see that because of the way we perceive quantities,
+174.158	as the war drags on,
+175.925	the number of soldiers committed to it and the casualties
+179.01	will increase not linearly --
+180.693	like 10,000, 11,000, 12,000 --
+182.581	but exponentially -- 10,000, later 20,000, later 40,000.
+186.856	And so that explains this pattern that we've seen before.
+189.941	So here mathematics is able to link a well-known feature of the individual mind
+195.439	with a long-term historical pattern
+198.428	that unfolds over centuries and across continents.
+201.285	So these types of examples, today there are just a few of them,
+205.302	but I think in the next decade they will become commonplace.
+207.991	The reason for that is that the historical record
+210.383	is becoming digitized at a very fast pace.
+212.843	So there's about 130 million books
+215.453	that have been written since the dawn of time.
+217.764	Companies like Google have digitized many of them --
+220.218	above 20 million actually.
+221.802	And when the stuff of history is available in digital form,
+225.38	it makes it possible for a mathematical analysis
+227.76	to very quickly and very conveniently
+230.135	review trends in our history and our culture.
+232.86	So I think in the next decade,
+235.581	the sciences and the humanities will come closer together
+238.331	to be able to answer deep questions about mankind.
+241.66	And I think that mathematics will be a very powerful language to do that.
+245.781	It will be able to reveal new trends in our history,
+248.927	sometimes to explain them,
+250.677	and maybe even in the future to predict what's going to happen.
+253.983	Thank you very much.
+255.474	(Applause)

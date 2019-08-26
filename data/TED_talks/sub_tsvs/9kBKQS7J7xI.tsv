@@ -1,0 +1,427 @@
+startsecond	text
+12.884	So I'm an artist,
+14.656	but a little bit of a peculiar one.
+16.386	I don't paint.
+18.434	I can't draw.
+20.153	My shop teacher in high school
+20.153	wrote that I was a menace
+24.122	on my report card.
+25.953	You probably don't really
+25.953	want to see my photographs.
+29.991	But there is one thing I know how to do:
+31.98	I know how to program a computer.
+33.663	I can code.
+34.899	And people will tell me
+34.899	that 100 years ago,
+38.196	folks like me didn't exist,
+39.57	that it was impossible,
+41.684	that art made with data is a new thing,
+44.658	it's a product of our age,
+46.824	it's something that's really important
+48.735	to think of as something
+48.735	"that's very ""now."""
+50.837	And that's true.
+52.029	But there is an art form
+52.029	that's been around for a very long time
+56.163	that's really about using information,
+58.058	abstract information,
+60.168	to make emotionally resonant pieces.
+63.08	And it's called music.
+65.632	We've been making music
+65.632	for tens of thousands of years, right?
+69.528	And if you think about what music is --
+71.512	notes and chords and keys
+71.512	and harmonies and melodies --
+74.36	these things are algorithms.
+75.79	These things are systems
+77.641	that are designed to unfold over time,
+80.049	to make us feel.
+82.195	I came to the arts through music.
+83.831	I was trained as a composer,
+85.243	and about 15 years ago,
+85.243	I started making pieces
+88.549	that were designed to look
+88.549	at the intersection
+91.108	between sound and image,
+93.036	to use an image to unveil
+93.036	a musical structure
+95.892	or to use a sound to show you
+95.892	something interesting
+98.78	about something that's usually pictorial.
+100.804	So what you're seeing on the screen
+100.804	is literally being drawn
+104.295	by the musical structure
+104.295	of the musicians onstage,
+107.261	and there's no accident
+107.261	that it looks like a plant,
+109.817	because the underlying
+109.817	algorithmic biology of the plant
+113.18	is what informed the musical structure
+113.18	in the first place.
+116.515	So once you know how to do this,
+116.515	once you know how to code with media,
+119.943	you can do some pretty cool stuff.
+122.055	This is a project I did
+122.055	for the Sundance Film Festival.
+125.905	Really simple idea: you take
+125.905	every Academy Award Best Picture,
+131.178	you speed it up to one minute each
+133.563	and string them all together.
+135.168	And so in 75 minutes, I can show you
+135.168	the history of Hollywood cinema.
+139.592	And what it really shows you
+139.592	is the history of editing
+142.595	in Hollywood cinema.
+143.8	So on the left, we've got Casablanca;
+143.8	on the right, we've got Chicago.
+147.972	And you can see that Casablanca
+147.972	is a little easier to read.
+150.92	That's because the average length
+150.92	of a cinematic shot in the 1940s
+154.276	was 26 seconds,
+155.939	and now it's around six seconds.
+158.999	This is a project that was inspired
+160.767	by some work that was funded
+160.767	by the US Federal Government
+163.735	in the early 2000s,
+164.928	to look at video footage and find
+164.928	a specific actor in any video.
+171.605	And so I repurposed this code
+171.605	to train a system on one person
+176.305	in our culture who would never need
+176.305	to be surveilled in that manner,
+180.176	which is Britney Spears.
+181.727	I downloaded 2,000 paparazzi
+181.727	photos of Britney Spears
+185.243	and trained my computer to find her face
+187.743	and her face alone.
+189.148	I can run any footage of her through it
+189.148	and will center her eyes in the frame,
+193.448	and this sort of is a little
+193.448	double commentary
+195.648	about surveillance in our society.
+197.696	We are very fraught with anxiety
+197.696	about being watched,
+200.712	but then we obsess over celebrity.
+204.219	What you're seeing on the screen here
+204.219	is a collaboration I did
+207.973	with an artist named Lián Amaris.
+210.553	What she did is very simple
+210.553	to explain and describe,
+214.451	but very hard to do.
+215.707	She took 72 minutes of activity,
+219.208	getting ready for a night out on the town,
+221.805	and stretched it over three days
+223.918	and performed it on a traffic island
+223.918	in slow motion in New York City.
+227.949	I was there, too, with a film crew.
+230.192	We filmed the whole thing,
+231.468	and then we reversed the process,
+231.468	speeding it up to 72 minutes again,
+234.893	so it looks like she's moving normally
+236.811	and the whole world is flying by.
+239.091	At a certain point, I figured out
+241.691	that what I was doing
+241.691	was making portraits.
+245.5	When you think about portraiture,
+245.5	you tend to think about stuff like this.
+249.086	The guy on the left
+249.086	is named Gilbert Stuart.
+251.173	He's sort of the first real portraitist
+251.173	of the United States.
+254.261	And on the right is his portrait
+254.261	of George Washington from 1796.
+257.51	This is the so-called Lansdowne portrait.
+259.732	And if you look at this painting,
+259.732	there's a lot of symbolism, right?
+262.996	We've got a rainbow out the window.
+262.996	We've got a sword.
+265.68	We've got a quill on the desk.
+267.159	All of these things are meant to evoke
+269.032	George Washington
+269.032	as the father of the nation.
+271.832	This is my portrait of George Washington.
+275.776	And this is an eye chart,
+278.809	only instead of letters, they're words.
+281.713	And what the words are is the 66 words
+284.439	in George Washington's
+284.439	State of the Union addresses
+286.923	that he uses more
+286.923	than any other president.
+290.02	"So ""gentlemen"" has its own symbolism"
+290.02	and its own rhetoric.
+294.246	And it's really kind of significant
+294.246	that that's the word he used the most.
+298.862	This is the eye chart for George W. Bush,
+301.005	who was president when I made this piece.
+304.009	And how you get there,
+305.201	"from ""gentlemen"" to ""terror"""
+305.201	in 43 easy steps,
+308.677	tells us a lot about American history,
+310.761	and gives you a different insight
+312.372	than you would have
+312.372	looking at a series of paintings.
+315.333	These pieces provide a history lesson
+315.333	of the United States
+319.291	through the political
+319.291	rhetoric of its leaders.
+321.571	Ronald Reagan spent a lot of time
+321.571	talking about deficits.
+325.135	Bill Clinton spent a lot of time
+326.724	talking about the century in which
+326.724	he would no longer be president,
+330.032	but maybe his wife would be.
+333.148	Lyndon Johnson was the first President
+335.808	to give his State of the Union addresses
+335.808	on prime-time television;
+339.014	he began every paragraph
+339.014	"with the word ""tonight."""
+341.378	And Richard Nixon,
+341.378	or more accurately, his speechwriter,
+344.068	a guy named William Safire,
+345.42	spent a lot of time
+345.42	thinking about language
+347.492	and making sure that his boss
+347.492	portrayed a rhetoric of honesty.
+351.449	This project is shown
+351.449	as a series of monolithic sculptures.
+354.375	It's an outdoor series of light boxes.
+356.847	And it's important to note
+356.847	that they're to scale,
+359.301	so if you stand 20 feet back and you can
+359.301	read between those two black lines,
+362.939	you have 20/20 vision.
+364.114	(Laughter)
+365.176	This is a portrait.
+365.176	And there's a lot of these.
+367.505	There's a lot of ways
+367.505	to do this with data.
+370.791	I started looking for a way
+372.435	to think about how I can do
+372.435	a more democratic form of portraiture,
+377.164	something that's more about
+377.164	my country and how it works.
+381.419	Every 10 years, we make a census
+381.419	in the United States.
+385.244	We literally count people,
+387.306	find out who lives where,
+387.306	what kind of jobs we've got,
+390.474	the language we speak at home.
+391.975	And this is important stuff --
+391.975	really important stuff.
+394.57	But it doesn't really tell us who we are.
+396.827	It doesn't tell us about our dreams
+396.827	and our aspirations.
+399.522	And so in 2010, I decided
+399.522	to make my own census.
+402.936	And I started looking for a corpus of data
+406.28	that had a lot of descriptions
+406.28	written by ordinary Americans.
+409.416	And it turns out
+410.591	that there is such a corpus of data
+412.357	that's just sitting there for the taking.
+414.365	It's called online dating.
+416.574	So in 2010, I joined 21 different
+416.574	online dating services,
+421.544	as a gay man, a straight man,
+421.544	a gay woman and a straight woman,
+424.668	in every zip code in America
+426.309	and downloaded about
+429.518	about 20 percent of the adult population
+429.518	of the United States.
+433.241	I have obsessive-compulsive disorder.
+435.084	This is going to become
+435.084	really freaking obvious. Just go with me.
+438.209	(Laughter)
+439.375	So what I did was I sorted
+439.375	all this stuff by zip code.
+443.922	And I looked at word analysis.
+445.437	These are some dating profiles from 2010
+448.134	"with the word ""lonely"" highlighted."
+450.253	If you look at these things
+450.253	topographically,
+453.258	if you imagine dark colors to light colors
+453.258	are more use of the word,
+456.782	you can see that Appalachia
+456.782	is a pretty lonely place.
+461.979	You can also see
+461.979	that Nebraska ain't that funny.
+468.385	This is the kinky map,
+468.385	so what this is showing you
+474.033	is that the women in Alaska
+474.033	need to get together
+477.16	with the men in southern New Mexico,
+478.959	and have a good time.
+480.323	And I have this
+480.323	at a pretty granular level,
+483.213	so I can tell you that the men
+483.213	in the eastern half of Long Island
+486.344	are way more interested in being spanked
+488.294	than men in the western half
+488.294	of Long Island.
+491.851	This will be your one takeaway
+491.851	from this whole conference.
+494.725	You're going to remember
+494.725	that fact for, like, 30 years.
+497.489	(Laughter)
+500.655	When you bring this down
+500.655	to a cartographic level,
+503.102	you can make maps and do the same trick
+503.102	I was doing with the eye charts.
+506.58	You can replace the name
+506.58	of every city in the United States
+509.421	with the word people use more
+509.421	in that city than anywhere else.
+512.437	If you've ever dated anyone
+512.437	from Seattle, this makes perfect sense.
+515.69	"You've got ""pretty."""
+515.69	"You've got ""heartbreak."""
+518.416	"You've got ""gig."" You've got ""cigarette."""
+520.855	They play in a band and they smoke.
+523.604	"And right above that you can see ""email."""
+525.612	That's Redmond, Washington,
+526.942	which is the headquarters
+526.942	of the Microsoft Corporation.
+529.561	Some of these you can guess --
+529.561	"so, Los Angeles is ""acting"""
+532.409	"and San Francisco is ""gay."""
+534.051	Some are a little bit more heartbreaking.
+536.067	In Baton Rouge, they talk
+536.067	about being curvy;
+538.172	downstream in New Orleans,
+538.172	they still talk about the flood.
+541.083	Folks in the American capital
+541.083	will say they're interesting.
+543.912	People in Baltimore, Maryland,
+543.912	will say they're afraid.
+546.713	This is New Jersey.
+548.274	I grew up somewhere
+548.274	"between ""annoying"" and ""cynical."""
+550.987	(Laughter) (Applause)
+555.25	And New York City's
+555.25	"number one word is ""now,"""
+557.931	"as in, ""Now I'm working as a waiter,"
+557.931	"but actually I'm an actor."""
+561.201	(Laughter)
+562.323	"Or, ""Now I'm a professor of engineering"
+562.323	"at NYU, but actually I'm an artist."""
+566.642	"If you go upstate, you see ""dinosaur."""
+568.591	That's Syracuse.
+569.766	The best place to eat
+569.766	in Syracuse, New York,
+571.863	is a Hell's Angels barbecue joint
+571.863	called Dinosaur Barbecue.
+574.681	That's where you would
+574.681	take somebody on a date.
+576.927	"I live somewhere between ""unconditional"""
+576.927	"and ""midsummer,"" in Midtown Manhattan."
+580.757	And this is gentrified North Brooklyn,
+582.828	"so you've got ""DJ"" and ""glamorous"""
+582.828	"and ""hipsters"" and ""urbane."""
+586.048	So that's maybe
+586.048	a more democratic portrait.
+588.494	And the idea was, what if we made
+588.494	red-state and blue-state maps
+591.587	based on what we want to do
+591.587	on a Friday night?
+593.78	This is a self-portrait.
+595.77	This is based on my email,
+597.051	about 500,000 emails sent over 20 years.
+600.044	You can think of this
+600.044	as a quantified selfie.
+603.021	So what I'm doing is running
+603.021	a physics equation
+606.139	based on my personal data.
+607.561	You have to imagine everybody
+607.561	I've ever corresponded with.
+610.328	It started out in the middle
+610.328	and it exploded with a big bang.
+613.751	And everybody has gravity to one another,
+615.953	gravity based on how much
+615.953	they've been emailing,
+618.238	who they've been emailing with.
+619.77	And it also does sentimental analysis,
+621.626	"so if I say ""I love you,"""
+621.626	you're heavier to me.
+623.939	And you attract to my email
+623.939	addresses in the middle,
+626.459	which act like mainline stars.
+628.578	And all the names are handwritten.
+630.917	Sometimes you do this data
+630.917	and this work with real-time data
+634.649	to illuminate a specific problem
+634.649	in a specific city.
+638.071	This is a Walther PPK 9mm
+638.071	semiautomatic handgun
+640.771	that was used in a shooting
+640.771	in the French Quarter of New Orleans
+643.826	about two years ago on Valentine's Day
+643.826	in an argument over parking.
+647.159	Those are my cigarettes.
+648.398	This is the house
+648.398	where the shooting took place.
+650.697	This project involved
+650.697	a little bit of engineering.
+653.095	I've got a bike chain
+653.095	rigged up as a cam shaft,
+655.334	with a computer driving it.
+656.674	That computer and the mechanism
+656.674	are buried in a box.
+659.464	The gun's on top welded to a steel plate.
+661.702	There's a wire going
+661.702	through to the trigger,
+664.071	and the computer in the box is online.
+666.286	It's listening to the 911 feed
+666.286	of the New Orleans Police Department,
+669.543	so that anytime there's a shooting
+669.543	reported in New Orleans,
+672.444	(Gunshot sound)
+673.469	the gun fires.
+675.3	Now, there's a blank,
+675.3	so there's no bullet.
+678.008	There's big light, big noise
+680.106	and most importantly, there's a casing.
+682.452	There's about five shootings
+682.452	a day in New Orleans,
+684.872	so over the four months
+684.872	this piece was installed,
+687.237	the case filled up with bullets.
+689.642	You guys know what this is --
+689.642	"you call this ""data visualization."""
+694.559	When you do it right, it's illuminating.
+696.591	When you do it wrong, it's anesthetizing.
+699.656	It reduces people to numbers.
+701.335	So watch out.
+704.654	One last piece for you.
+706.466	I spent the last summer
+706.466	as the artist in residence
+709.272	for Times Square.
+710.932	And Times Square in New York
+710.932	is literally the crossroads of the world.
+714.599	One of the things
+714.599	people don't notice about it
+716.8	is it's the most Instagrammed
+716.8	place on Earth.
+719.903	About every five seconds,
+719.903	someone commits a selfie
+722.809	in Times Square.
+724.424	That's 17,000 a day, and I have them all.
+727.697	(Laughter)
+728.806	These are some of them
+728.806	with their eyes centered.
+731.122	Every civilization,
+732.183	will use the maximum level
+732.183	of technology available to make art.
+735.132	And it's the responsibility
+735.132	of the artist to ask questions
+737.964	about what that technology means
+739.619	and how it reflects our culture.
+741.662	So I leave you with this:
+741.662	we're more than numbers.
+744.172	We're people, and we have
+744.172	dreams and ideas.
+746.197	And reducing us to statistics
+746.197	is something that's done
+749.02	at our peril.
+750.295	Thank you very much.
+751.497	(Applause)

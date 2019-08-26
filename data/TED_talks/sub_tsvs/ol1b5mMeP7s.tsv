@@ -1,0 +1,377 @@
+startsecond	text
+12.927	I want to talk to you about one thing
+15.108	and just one thing only,
+16.864	and this has to do with when people ask me,
+20.62	what do you do?
+23.867	To which I usually respond,
+25.767	I do computer music.
+28.907	Now, a number of people
+30.852	just stop talking to me right then and there,
+33.089	and the rest who are left usually have
+35.502	this blank look in their eye,
+37.75	as if to say, what does that mean?
+39.919	And I feel like I'm actually depriving them
+42.137	of information by telling them this,
+45.342	at which point I usually panic
+47.07	and spit out the first thing that comes to my mind,
+48.66	which is, I have no idea what I'm doing.
+52.442	Which is true.
+54.054	That's usually followed by a second thought,
+56.91	which is, whatever it is that I'm doing,
+60.21	I love it.
+61.902	And today, I want to, well,
+65.699	share with you something I love,
+67.87	and also why.
+69.354	And I think we'll begin with just this question:
+73.283	What is computer music?
+74.62	And I'm going to try to do my
+74.62	best to provide a definition,
+78.4	maybe by telling you a story
+80.131	that goes through some of the stuff
+81.778	I've been working on.
+83.704	And the first thing, I think, in our story
+85.516	is going to be something called ChucK.
+88.064	Now, ChucK is a programming language for music,
+93.437	and it's open-source, it's freely available,
+96.146	and I like to think that it crashes equally well
+98.066	on all modern operating systems.
+100.41	And instead of telling you more about it,
+103.37	I'm just going to give you a demo.
+105.196	By the way, I'm just going to nerd out
+106.352	for just a few minutes here,
+107.981	so I would say, don't freak out.
+110.779	In fact, I would invite all of you to join me
+112.85	in just geeking out.
+114.034	If you've never written a line
+114.034	of code before in your life,
+117.096	do not worry.
+118.282	I'll bet you'll be able to come along on this.
+121.799	First thing I'm going to do is to make
+123.218	a sine wave oscillator,
+125.051	and we're going to called the sine wave generator
+128.085	"""Ge."""
+130.847	"And then we're going to connect ""Ge"" to the DAC."
+132.937	Now this is kind of the abstraction
+134.091	for the sound output on my computer. Okay?
+136.699	So I've connected myself into the speaker.
+139.899	Next, I'm going to say my frequency
+141.491	is 440 hertz,
+143.459	and I'm going to let time advance
+147.278	by two seconds through this operation.
+150	All right, so if I were to play this --
+154.068	(Tone) —
+156.74	you would hear a sine wave
+156.74	at 440 hertz for two seconds.
+159.161	Okay, great. Now I'm going to copy and paste this,
+162.187	and then just change some of these numbers,
+167.891	and .5 and 880.
+170.331	By doubling the frequency,
+171.693	we're actually going up in successive octaves,
+174.21	and then we have this sequence --
+175.547	(Tones) — of tones.
+177.674	Okay, great, now I can imagine creating
+179.58	all kinds of really horrible
+181.022	single sine wave pieces of music with this,
+183.42	but I'm going to do something
+183.42	that computers are really good at,
+186.332	which is repetition.
+188.156	I'm going to put this all in a while loop,
+189.86	and you actually don't need to indent,
+191.156	but this is purely for aesthetic reasons.
+193.28	It's good practice.
+194.884	And when we do this —
+196.464	(Tones) —
+200.961	that's going to go on for a while.
+202.134	In fact, it's probably not going to stop
+203.628	until this computer disintegrates.
+205.411	And I can't really empirically prove that to you,
+208.11	but I hope you'll believe me when I say that.
+211.779	Next, I'm going to replace this 220
+213.655	by math.random2f.
+216.461	I'm going to generate a random number
+217.739	between 30 and 1,000 and send that
+220.879	to the frequency of me.
+222.965	And I'm going to do this every half a second.
+225.065	(Tones)
+228.007	Let's do this every 200 milliseconds.
+230.668	(Tones)
+235.29	One hundred.
+236.745	(Tones)
+238.357	All right.
+239.591	At this point, we've reached something
+241.535	that I would like to think of as
+242.605	the canonical computer music.
+246.626	This is, to me, the sound that mainframes
+250.443	are supposed to be making
+251.565	when they're thinking really hard.
+254.807	It's this sound, it's like,
+256.9	the square root of five million.
+262.427	So is this computer music?
+266.211	Yeah, I guess by definition,
+268.19	it's kind of computer music.
+269.395	It's probably not the kind of music you would listen to
+272.403	cruising down the highway,
+273.891	but it's a foundation of computer-generated music,
+278.907	and using ChucK,
+281.11	we've actually been building instruments
+282.803	in the Stanford Laptop Orchestra,
+284.699	based right here at Stanford Center for
+284.699	Computer Research in Music and Acoustics.
+288.9	Now the Laptop Orchestra is an ensemble of laptops,
+291.683	humans and special hemispherical speaker arrays.
+294.312	Now the reason we have these
+295.909	is so that for the instruments that we create
+298.379	out of the laptop, we want the sound to come
+300.603	out of somewhere near the instrument
+303.123	and the performer,
+304.491	kind of much like a traditional, acoustic instrument.
+307.193	Like, if I were to play a violin here,
+309.079	the sound would naturally not come out of
+311.19	the P.A. system, but from the artifact itself.
+313.964	So these speakers are meant to emulate that.
+317.171	In fact, I'm going to show you
+318.5	how we actually built them.
+321.243	The first step is to go to IKEA
+323.307	and buy a salad bowl.
+324.687	This is an 11-inch Blanda Matt.
+327.917	That's the actual name,
+329.415	and I actually use one of these
+330.837	to make salad at home as well, I kid you not.
+333.065	And the first step is you turn it upside down,
+336.236	and then you drill holes in them,
+338.711	six holes per hemi,
+341.22	and then make a base plate,
+342.934	put car speaker drivers in them
+345.614	along with amplifiers in the enclosure,
+348.205	and you put that all together and you have
+349.559	these hemispherical speaker arrays.
+351.333	Add people, add laptops,
+352.896	you have a laptop orchestra.
+355.584	And what might a laptop orchestra sound like?
+359.114	Well, let me give you a demonstration
+361.033	of about 200 instruments we've created so far
+364.268	for the Laptop Orchestra.
+367.511	And what I'm going to do is
+367.511	actually come over to this thing.
+369.938	This thing I have in front of me
+372.143	actually used to be a commodity gaming controller
+375.355	called a Gametrak.
+377.145	This thing actually has a glove
+377.145	you can put on your hands.
+379.021	It's tethered to the base,
+380.581	and this will track the position of your hands
+383.11	in real time.
+384.163	It was originally designed as a golfing controller
+387.537	to detect the motion of your swing.
+389.453	That turned out to be a rather large
+391.984	commercial non-success,
+393.688	at which point they slashed prices to 10 dollars,
+397.442	at which point computer music researchers
+399.45	"said, ""This is awesome!"
+401.508	"We can prototype instruments out of this."""
+404.257	So let me show you one instrument we've created,
+407.201	one of many, and this instrument
+409.113	"is called ""Twilight,"""
+410.682	and it's meant to go with this metaphor
+413.368	of pulling a sound out of the ground.
+416.401	So let me see if this will work.
+419.752	(Music)
+428.968	And put it back.
+430.791	And then if you go to the left,
+434.886	right,
+441.427	it sounds like an elephant in pain.
+445.231	This is a slightly metallic sound.
+448.259	Turn it just a bit.
+451.613	(Music)
+457.211	It's like a hovering car.
+464.406	Okay.
+465.799	This third one is a ratchet-like interaction, so
+471.36	let me turn it up.
+476.915	(Music)
+482.068	So it's a slightly different interaction.
+483.948	The fourth one is a drone.
+487.583	(Music)
+500.613	And finally, let's see,
+503.319	this is a totally different interaction,
+505.13	and I think you have to imagine that there's
+506.94	this giant invisible drum sitting right here on stage,
+509.872	and I'm going to bang it.
+514.255	(Drum)
+516.902	(Laughter)
+520.241	So there we go, so that's one of many instruments
+522.685	in the Laptop Orchestra.
+524.455	(Applause)
+528.009	Thank you.
+530.29	And when you put that together,
+532.396	you get something that sounds like this.
+536.464	(Music)
+585.47	Okay, and so, I think from the experience
+587.82	of building a lot of instruments
+587.82	for the Laptop Orchestra,
+590.343	and I think from the curiosity of wondering,
+592.847	what if we took these
+594.35	hopefully expressive instruments
+595.942	and we brought it to a lot of people,
+598.575	plus then a healthy bout of insanity —
+600.982	put those three things together —
+602.471	led to me actually co-founding a startup company
+605.987	in 2008 called Smule.
+608.446	Now Smule's mission is to create
+610.366	expressive, mobile music things,
+614.223	and one of the first musical instruments
+618.985	we created is called Ocarina.
+620.845	And I'm going to just demo this for you real quick.
+627.234	So Ocarina —
+629.65	(Music) —
+633.248	is based on this ancient flute-like instrument
+636.371	called the ocarina,
+637.78	and this one is the four-hole
+637.78	English pendant configuration,
+641.163	and you're literally blowing into the microphone
+644.566	to make the sound.
+647.492	And there's actually a little ChucK script
+649.125	running in here that's detecting
+650.293	the strength of your blowing
+651.775	and also synthesizing the sound.
+653.893	(Music)
+657.478	And vibrato is mapped to the accelerometer,
+660.808	so you can get —
+662.461	(Music)
+665.79	All right. So let me play a little ditty for you,
+671.533	a little Bach.
+673.349	And here, you'll hear a little
+673.349	accompaniment with the melody.
+675.941	The accompaniment actually follows the melody,
+678.509	not the other way around.
+682.29	(Music)
+695.132	And this was designed
+696.789	to let you take your time
+698.065	and figure out where your expressive space is,
+701.27	and you can just hang out here
+703.077	for a while, for a really
+703.077	dramatic effect, if you want,
+706.139	and whenever you're ready —
+709.205	(Music)
+724.981	And on these longer notes,
+726.089	I'm going to use more vibrato
+728.19	towards the end of the notes
+729.082	to give it a little bit more of an expressive quality.
+732.134	(Music)
+739.473	Huh, that's a nice chord to end this excerpt on.
+743.16	(Applause)
+746.581	Thank you.
+751.75	So I think a good question to ask about Ocarina is,
+755.746	is this a toy or it an instrument? Maybe it's both,
+760.493	but for me, I think the more important question is,
+762.502	is it expressive?
+764.043	And at the same time, I think
+766.117	creating these types of instruments
+767.421	asks a question about the role of technology,
+770.783	and its place for how we make music.
+772.477	Apparently, for example,
+774.214	not that long ago, like only a hundred years ago —
+776.12	that's not that long in the course of human history —
+777.64	families back then
+779.621	used to make music together
+781.509	as a common form of entertainment.
+784.557	I don't think that's really happening
+785.802	that much anymore.
+787.337	You know, this is before radio, before recording.
+789.007	In the last hundred years, with all this technology,
+791.214	we now have more access to music
+793.388	as listeners and consumers,
+795.021	but somehow, I think we're making less music
+798.084	than ever before.
+799.77	I'm not sure why that would be.
+801.401	Maybe it's because it's too easy just to hit play.
+804.05	And while listening to music is wonderful,
+806.509	there's a special joy to making music
+809.918	that's all its own.
+811.573	And I think that's one part
+812.836	of the goal of why I do what I do
+814.926	is kind of to take us back to the past a little bit. Right?
+819.682	Now, if that's one goal, the other goal
+821.462	is to look to the future and think about
+822.892	what kind of new musical things can we make
+825.229	that we don't perhaps yet have names for
+827.822	that's enabled by technology, but ultimately
+830.685	might change the way that humans make music.
+833.126	And I'll just give you one example here,
+835.498	and this is Ocarina's other feature.
+841.723	This is a globe,
+843.91	and here you're actually listening
+846.683	to other users of Ocarina
+848.735	blow into their iPhones to play something.
+852.715	"This is ""G.I.R."" from Texas,"
+857.568	"""R.I.K."" I don't know why it's these"
+857.568	three-letter names today, Los Angeles.
+863.501	They're all playing pretty,
+868.519	somewhat minimal music here.
+871.879	(Music)
+877.327	And the idea with this is that, well,
+879.933	technology should not be foregrounded here,
+883.85	and — (Laughter) —
+885.933	we've actually opened this up.
+888.646	The first thought is that, hey, you know
+890.153	there's somebody somewhere out there
+893.343	playing some music,
+894.613	and this is a small but I think important
+896.393	human connection to make
+897.613	that perhaps the technology affords.
+900.611	As a final example,
+903.435	and perhaps my favorite example,
+904.79	is that in the wake of the 2011 earthquake
+907.941	and tsunami disaster in Japan,
+910.427	a woman reached out in one of our singing apps
+913.27	to try to get people to join in to sing with her
+916.157	"on a version of ""Lean on Me."""
+917.762	Now, in these apps, there's this thing that allows
+920.81	any user to add their voice
+922.511	to an existing performance by any other user
+925.309	or group of users,
+926.363	so in some sense, she's created this kind of
+928.388	global ad hoc corral of strangers,
+931.772	and within weeks, thousands of people
+933.98	joined in on this,
+935.612	and you can kind of see people
+935.612	coming from all around the world
+937.991	and all these lines converging on the origin
+940.272	where the first rendition of the song was sung,
+942.62	and that's in Tokyo.
+944.254	And this is what it sounds like 
+944.254	when there's 1,000 people.
+947.686	This is 1,000 voices.
+949.663	(Recording) ♪ Sometimes in our lives ♪
+953.94	♪ We all have pain, we all have sorrow ♪
+961.26	♪ But if we are wise ♪
+965.1	♪ We know that there's always tomorrow ♪
+970.99	♪ Lean on me ♪
+973.497	♪ When you're not strong ♪
+976.31	♪ And I'll be your friend ♪
+978.95	♪ I'll help you carry on ♪
+983.235	♪ For it won't be long ♪
+987.248	♪ Till I'm gonna need ♪
+989.976	♪ Somebody to lean on ♪
+993.372	♪ Just lean on — ♪
+995.726	Is this computer music?
+997.296	(Applause)
+1002.728	Was that computer music?
+1004.696	Yeah, I guess so; it's something that you really
+1006.743	couldn't have done without computers.
+1009.028	But at the same time, it's also just human,
+1013.264	and I think what I've essentially answered so far
+1016.353	is maybe why I do the stuff that I do,
+1019.744	and let's just finally return to the first question:
+1022.136	What is computer music?
+1024.248	And I think that the catch here is that,
+1026.552	at least to me, computer music
+1027.808	isn't really about computers.
+1029.656	It is about people.
+1031.182	It's about how we can use technology
+1032.816	to change the way we think
+1034.862	and do and make music,
+1036.306	and maybe even add to how we can
+1039.992	connect with each other through music.
+1042.502	And with that, I want to say,
+1044.655	this is computer music, and thank you for listening.
+1047.752	(Applause)

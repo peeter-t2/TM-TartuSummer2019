@@ -1,0 +1,285 @@
+startsecond	text
+12.811	We've evolved with tools,
+12.811	and tools have evolved with us.
+16.388	Our ancestors created these
+16.388	hand axes 1.5 million years ago,
+21.431	shaping them to not only
+21.431	fit the task at hand
+24.477	but also their hand.
+26.747	However, over the years,
+28.351	tools have become
+28.351	more and more specialized.
+31.293	These sculpting tools
+31.293	have evolved through their use,
+35.154	and each one has a different form
+35.154	which matches its function.
+38.74	And they leverage
+38.74	the dexterity of our hands
+41.432	in order to manipulate things
+41.432	with much more precision.
+45.338	But as tools have become
+45.338	more and more complex,
+48.428	we need more complex controls
+48.428	to control them.
+52.714	And so designers have become
+52.714	very adept at creating interfaces
+57.182	that allow you to manipulate parameters
+57.182	while you're attending to other things,
+60.944	such as taking a photograph
+60.944	and changing the focus
+63.847	or the aperture.
+65.918	But the computer has fundamentally
+65.918	changed the way we think about tools
+70.161	because computation is dynamic.
+72.564	So it can do a million different things
+74.739	and run a million different applications.
+77.112	However, computers have
+77.112	the same static physical form
+80.881	for all of these different applications
+82.841	and the same static
+82.841	interface elements as well.
+85.976	And I believe that this
+85.976	is fundamentally a problem,
+88.42	because it doesn't really allow us
+88.42	to interact with our hands
+91.44	and capture the rich dexterity
+91.44	that we have in our bodies.
+96.026	And my belief is that, then,
+96.026	we must need new types of interfaces
+100.586	that can capture these
+100.586	rich abilities that we have
+104.369	and that can physically adapt to us
+106.763	and allow us to interact in new ways.
+109.037	And so that's what I've been doing
+109.037	at the MIT Media Lab
+111.648	and now at Stanford.
+113.901	So with my colleagues,
+113.901	Daniel Leithinger and Hiroshi Ishii,
+117.536	we created inFORM,
+118.949	where the interface can actually
+118.949	come off the screen
+121.471	and you can physically manipulate it.
+123.771	Or you can visualize
+123.771	3D information physically
+126.538	and touch it and feel it
+126.538	to understand it in new ways.
+135.889	Or you can interact through gestures
+135.889	and direct deformations
+139.989	to sculpt digital clay.
+146.474	Or interface elements can arise
+146.474	out of the surface
+149.579	and change on demand.
+150.975	And the idea is that for each
+150.975	individual application,
+153.507	the physical form can be matched
+153.507	to the application.
+157.196	And I believe this represents a new way
+159.325	that we can interact with information,
+161.299	by making it physical.
+163.142	So the question is, how can we use this?
+165.81	Traditionally, urban planners
+165.81	and architects build physical models
+169.524	of cities and buildings
+169.524	to better understand them.
+172.358	So with Tony Tang at the Media Lab,
+172.358	we created an interface built on inFORM
+176.597	to allow urban planners
+176.597	to design and view entire cities.
+181.604	And now you can walk around it,
+181.604	but it's dynamic, it's physical,
+185.885	and you can also interact directly.
+187.609	Or you can look at different views,
+189.371	such as population or traffic information,
+192.212	but it's made physical.
+194.996	We also believe that these dynamic
+194.996	shape displays can really change
+198.83	the ways that we remotely
+198.83	collaborate with people.
+201.814	So when we're working together in person,
+204.141	I'm not only looking at your face
+205.823	but I'm also gesturing
+205.823	and manipulating objects,
+208.885	and that's really hard to do
+208.885	when you're using tools like Skype.
+213.905	And so using inFORM,
+213.905	you can reach out from the screen
+216.915	and manipulate things at a distance.
+219.051	So we used the pins of the display
+219.051	to represent people's hands,
+222.25	allowing them to actually touch
+222.25	and manipulate objects at a distance.
+230.519	And you can also manipulate
+230.519	and collaborate on 3D data sets as well,
+234.817	so you can gesture around them
+234.817	as well as manipulate them.
+238.51	And that allows people to collaborate
+238.51	on these new types of 3D information
+242.924	in a richer way than might
+242.924	be possible with traditional tools.
+247.87	And so you can also
+247.87	bring in existing objects,
+250.647	and those will be captured on one side
+250.647	and transmitted to the other.
+253.885	Or you can have an object that's linked
+253.885	between two places,
+256.695	so as I move a ball on one side,
+258.803	the ball moves on the other as well.
+262.278	And so we do this by capturing
+262.278	the remote user
+265.405	using a depth-sensing camera
+265.405	like a Microsoft Kinect.
+268.758	Now, you might be wondering
+268.758	how does this all work,
+271.799	and essentially, what it is,
+271.799	is 900 linear actuators
+275.474	that are connected to these
+275.474	mechanical linkages
+277.784	that allow motion down here
+277.784	to be propagated in these pins above.
+281.554	So it's not that complex
+281.554	compared to what's going on at CERN,
+285.145	but it did take a long time
+285.145	for us to build it.
+287.495	And so we started with a single motor,
+289.774	a single linear actuator,
+291.816	and then we had to design
+291.816	a custom circuit board to control them.
+295.003	And then we had to make a lot of them.
+297.079	And so the problem with having
+300.717	is that you have to do
+300.717	every step 900 times.
+303.861	And so that meant that we had
+303.861	a lot of work to do.
+306.242	So we sort of set up
+306.242	a mini-sweatshop in the Media Lab
+309.998	and brought undergrads in and convinced
+309.998	"them to do ""research"" --"
+313.734	(Laughter)
+314.772	and had late nights
+314.772	watching movies, eating pizza
+317.814	and screwing in thousands of screws.
+319.666	You know -- research.
+320.888	(Laughter)
+322.459	But anyway, I think that we were
+322.459	really excited by the things
+325.801	that inFORM allowed us to do.
+327.521	Increasingly, we're using mobile devices,
+327.521	and we interact on the go.
+331.745	But mobile devices, just like computers,
+334.448	are used for so many
+334.448	different applications.
+336.783	So you use them to talk on the phone,
+338.8	to surf the web, to play games,
+338.8	to take pictures
+341.98	or even a million different things.
+343.713	But again, they have the same
+343.713	static physical form
+346.721	for each of these applications.
+348.863	And so we wanted to know how can we take
+348.863	some of the same interactions
+352.25	that we developed for inFORM
+353.957	and bring them to mobile devices.
+356.427	So at Stanford, we created
+356.427	this haptic edge display,
+360.098	which is a mobile device
+360.098	with an array of linear actuators
+363.299	that can change shape,
+364.67	so you can feel in your hand
+364.67	where you are as you're reading a book.
+369.058	Or you can feel in your pocket
+369.058	new types of tactile sensations
+372.819	that are richer than the vibration.
+374.645	Or buttons can emerge from the side
+374.645	that allow you to interact
+377.904	where you want them to be.
+381.334	Or you can play games
+381.334	and have actual buttons.
+385.786	And so we were able to do this
+387.326	by embedding 40 small, tiny
+387.326	linear actuators inside the device,
+392.104	and that allow you not only to touch them
+394.183	but also back-drive them as well.
+396.911	But we've also looked at other ways
+396.911	to create more complex shape change.
+401.113	So we've used pneumatic actuation
+401.113	to create a morphing device
+404.529	where you can go from something
+404.529	that looks a lot like a phone ...
+408.418	to a wristband on the go.
+411.72	And so together with Ken Nakagaki
+411.72	at the Media Lab,
+414.583	we created this new
+414.583	high-resolution version
+417.161	that uses an array of servomotors
+417.161	to change from interactive wristband
+423.135	to a touch-input device
+426.287	to a phone.
+427.556	(Laughter)
+430.104	And we're also interested
+430.104	in looking at ways
+432.3	that users can actually
+432.3	deform the interfaces
+434.951	to shape them into the devices
+434.951	that they want to use.
+437.863	So you can make something
+437.863	like a game controller,
+440.295	and then the system will understand
+440.295	what shape it's in
+442.949	and change to that mode.
+446.052	So, where does this point?
+447.648	How do we move forward from here?
+449.6	I think, really, where we are today
+452.219	is in this new age
+452.219	of the Internet of Things,
+454.997	where we have computers everywhere --
+456.812	they're in our pockets,
+456.812	they're in our walls,
+458.954	they're in almost every device
+458.954	that you'll buy in the next five years.
+462.544	But what if we stopped
+462.544	thinking about devices
+465.449	and think instead about environments?
+467.867	And so how can we have smart furniture
+470.403	or smart rooms or smart environments
+473.743	or cities that can adapt to us physically,
+476.859	and allow us to do new ways
+476.859	of collaborating with people
+481.114	and doing new types of tasks?
+483.376	So for the Milan Design Week,
+483.376	we created TRANSFORM,
+486.784	which is an interactive table-scale
+486.784	version of these shape displays,
+490.632	which can move physical objects
+490.632	on the surface; for example,
+493.839	reminding you to take your keys.
+496.12	But it can also transform
+496.12	to fit different ways of interacting.
+500.626	So if you want to work,
+501.967	then it can change to sort of
+501.967	set up your work system.
+504.983	And so as you bring a device over,
+506.958	it creates all the affordances you need
+509.72	and brings other objects
+509.72	to help you accomplish those goals.
+517.139	So, in conclusion,
+518.724	I really think that we need to think
+518.724	about a new, fundamentally different way
+522.747	of interacting with computers.
+525.551	We need computers
+525.551	that can physically adapt to us
+528.529	and adapt to the ways
+528.529	that we want to use them
+531.154	and really harness the rich dexterity
+531.154	that we have of our hands,
+535.725	and our ability to think spatially
+535.725	about information by making it physical.
+540.663	But looking forward, I think we need
+540.663	to go beyond this, beyond devices,
+544.683	to really think about new ways
+544.683	that we can bring people together,
+548.1	and bring our information into the world,
+551.142	and think about smart environments
+551.142	that can adapt to us physically.
+555.119	So with that, I will leave you.
+556.707	Thank you very much.
+557.882	(Applause)

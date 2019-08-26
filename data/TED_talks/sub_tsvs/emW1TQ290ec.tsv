@@ -1,0 +1,146 @@
+startsecond	text
+15.26	Today I'd like to show you
+17.26	the future of the way we make things.
+19.26	I believe that soon our buildings and machines
+21.26	will be self-assembling,
+23.26	replicating and repairing themselves.
+25.26	So I'm going to show you
+27.26	what I believe is the current state of manufacturing,
+29.26	and then compare that to some natural systems.
+32.26	So in the current state of manufacturing, we have skyscrapers --
+35.26	two and a half years [of assembly time],
+39.26	fairly complex,
+41.26	new, exciting technologies in steel, concrete, glass.
+44.26	We have exciting machines
+46.26	that can take us into space --
+48.26	five years [of assembly time], 2.5 million parts.
+51.26	But on the other side, if you look at the natural systems,
+54.26	we have proteins
+56.26	that have two million types,
+58.26	can fold in 10,000 nanoseconds,
+60.26	or DNA with three billion base pairs
+62.26	we can replicate in roughly an hour.
+65.26	So there's all of this complexity
+67.26	in our natural systems,
+69.26	but they're extremely efficient,
+71.26	far more efficient than anything we can build,
+73.26	far more complex than anything we can build.
+75.26	They're far more efficient in terms of energy.
+77.26	They hardly ever make mistakes.
+80.26	And they can repair themselves for longevity.
+82.26	So there's something super interesting about natural systems.
+85.26	And if we can translate that
+87.26	into our built environment,
+89.26	then there's some exciting potential for the way that we build things.
+91.26	And I think the key to that is self-assembly.
+94.26	So if we want to utilize self-assembly in our physical environment,
+97.26	I think there's four key factors.
+99.26	The first is that we need to decode
+101.26	all of the complexity of what we want to build --
+103.26	so our buildings and machines.
+105.26	And we need to decode that into simple sequences --
+107.26	basically the DNA of how our buildings work.
+109.26	Then we need programmable parts
+111.26	that can take that sequence
+113.26	and use that to fold up, or reconfigure.
+116.26	We need some energy that's going to allow that to activate,
+119.26	allow our parts to be able to fold up from the program.
+122.26	And we need some type of error correction redundancy
+124.26	to guarantee that we have successfully built what we want.
+127.26	So I'm going to show you a number of projects
+129.26	that my colleagues and I at MIT are working on
+131.26	to achieve this self-assembling future.
+133.26	The first two are the MacroBot and DeciBot.
+136.26	So these projects are large-scale reconfigurable robots --
+140.26	8 ft., 12 ft. long proteins.
+143.26	They're embedded with mechanical electrical devices, sensors.
+146.26	You decode what you want to fold up into,
+148.26	into a sequence of angles --
+150.26	so negative 120, negative 120, 0, 0,
+155.26	so a sequence of angles, or turns,
+157.26	and you send that sequence through the string.
+160.26	Each unit takes its message -- so negative 120 --
+163.26	it rotates to that, checks if it got there
+165.26	and then passes it to its neighbor.
+168.26	So these are the brilliant scientists,
+170.26	engineers, designers that worked on this project.
+172.26	And I think it really brings to light:
+174.26	Is this really scalable?
+176.26	I mean, thousands of dollars, lots of man hours
+178.26	made to make this eight-foot robot.
+181.26	Can we really scale this up? Can we really embed robotics into every part?
+184.26	The next one questions that
+186.26	and looks at passive nature,
+188.26	or passively trying to have reconfiguration programmability.
+191.26	But it goes a step further,
+193.26	and it tries to have actual computation.
+195.26	It basically embeds the most fundamental building block of computing,
+197.26	the digital logic gate,
+199.26	directly into your parts.
+201.26	So this is a NAND gate.
+203.26	You have one tetrahedron which is the gate
+205.26	that's going to do your computing,
+207.26	and you have two input tetrahedrons.
+209.26	One of them is the input from the user, as you're building your bricks.
+212.26	The other one is from the previous brick that was placed.
+215.26	And then it gives you an output in 3D space.
+218.26	So what this means
+220.26	is that the user can start plugging in what they want the bricks to do.
+223.26	It computes on what it was doing before
+225.26	and what you said you wanted it to do.
+227.26	And now it starts moving in three-dimensional space --
+229.26	so up or down.
+231.26	So on the left-hand side, [1,1] input equals 0 output, which goes down.
+234.26	On the right-hand side,
+236.26	[0,0] input is a 1 output, which goes up.
+239.26	And so what that really means
+241.26	is that our structures now contain the blueprints
+243.26	of what we want to build.
+245.26	So they have all of the information embedded in them of what was constructed.
+248.26	So that means that we can have some form of self-replication.
+251.26	In this case I call it self-guided replication,
+254.26	because your structure contains the exact blueprints.
+256.26	If you have errors, you can replace a part.
+258.26	All the local information is embedded to tell you how to fix it.
+261.26	So you could have something that climbs along and reads it
+263.26	and can output at one to one.
+265.26	It's directly embedded; there's no external instructions.
+267.26	So the last project I'll show is called Biased Chains,
+270.26	and it's probably the most exciting example that we have right now
+273.26	of passive self-assembly systems.
+275.26	So it takes the reconfigurability
+277.26	and programmability
+279.26	and makes it a completely passive system.
+283.26	So basically you have a chain of elements.
+285.26	Each element is completely identical,
+287.26	and they're biased.
+289.26	So each chain, or each element, wants to turn right or left.
+292.26	So as you assemble the chain, you're basically programming it.
+295.26	You're telling each unit if it should turn right or left.
+298.26	So when you shake the chain,
+301.26	it then folds up
+303.26	into any configuration that you've programmed in --
+306.26	so in this case, a spiral,
+308.26	or in this case,
+311.26	two cubes next to each other.
+314.26	So you can basically program
+316.26	any three-dimensional shape --
+318.26	or one-dimensional, two-dimensional -- up into this chain completely passively.
+321.26	So what does this tell us about the future?
+323.26	I think that it's telling us
+325.26	that there's new possibilities for self-assembly, replication, repair
+328.26	in our physical structures, our buildings, machines.
+331.26	There's new programmability in these parts.
+333.26	And from that you have new possibilities for computing.
+335.26	We'll have spatial computing.
+337.26	Imagine if our buildings, our bridges, machines,
+339.26	all of our bricks could actually compute.
+341.26	That's amazing parallel and distributed computing power,
+343.26	new design possibilities.
+345.26	So it's exciting potential for this.
+347.26	So I think these projects I've showed here
+349.26	are just a tiny step towards this future,
+351.26	if we implement these new technologies
+353.26	for a new self-assembling world.
+355.26	Thank you.
+357.26	(Applause)

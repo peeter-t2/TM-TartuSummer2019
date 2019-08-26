@@ -1,0 +1,593 @@
+startsecond	text
+15.6	So, I have a strange career.
+17.665	I know it because people come up to me,
+17.665	like colleagues, and say,
+20.805	"""Chris, you have a strange career."""
+22.695	(Laughter)
+24.362	And I can see their point,
+25.705	because I started my career
+25.705	as a theoretical nuclear physicist.
+30.26	And I was thinking about quarks
+30.26	and gluons and heavy ion collisions,
+34.448	and I was only 14 years old --
+36.853	No, no, I wasn't 14 years old.
+40.497	But after that,
+43.056	I actually had my own lab
+45.021	in the Computational
+45.021	Neuroscience department,
+47.16	and I wasn't doing any neuroscience.
+48.912	Later, I would work
+48.912	on evolutionary genetics,
+51.868	and I would work on systems biology.
+53.842	But I'm going to tell you
+53.842	about something else today.
+56.531	I'm going to tell you
+56.531	about how I learned something about life.
+60.817	And I was actually a rocket scientist.
+64.322	I wasn't really a rocket scientist,
+66.649	but I was working
+66.649	at the Jet Propulsion Laboratory
+71.029	in sunny California, where it's warm;
+73.688	whereas now I am
+73.688	in the mid-West, and it's cold.
+77.56	But it was an exciting experience.
+80.26	One day, a NASA manager
+80.26	comes into my office,
+83.727	sits down and says,
+86.862	"""Can you please tell us,"
+86.862	"how do we look for life outside Earth?"""
+91.621	And that came as a surprise to me,
+93.323	because I was actually hired
+93.323	to work on quantum computation.
+97.473	Yet, I had a very good answer.
+98.998	"I said, ""I have no idea."""
+100.799	(Laughter)
+101.973	"And he told me, ""Biosignatures,"
+101.973	"we need to look for a biosignature."""
+107.339	"And I said, ""What is that?"""
+108.727	"And he said, ""It's any"
+108.727	measurable phenomenon
+111.348	that allows us to indicate
+111.348	"the presence of life."""
+114.788	"And I said, ""Really?"
+116.433	Because isn't that easy?
+118.404	I mean, we have life.
+120.259	Can't you apply a definition,
+122.255	for example, a Supreme Court-like
+122.255	"definition of life?"""
+127.191	And then I thought about it
+127.191	a little bit, and I said,
+129.757	"""Well, is it really that easy?"
+131.256	Because, yes, if you see
+131.256	something like this,
+133.473	then all right, fine,
+133.473	I'm going to call it life --
+135.841	no doubt about it.
+137.517	"But here's something."""
+139.181	"And he goes, ""Right,"
+139.181	"that's life too. I know that."""
+142.26	Except, if you think that life
+142.26	is also defined by things that die,
+146.876	you're not in luck with this thing,
+148.653	because that's actually
+148.653	a very strange organism.
+150.939	It grows up into the adult stage like that
+153.01	and then goes through
+153.01	a Benjamin Button phase,
+155.26	and actually goes backwards and backwards
+155.26	until it's like a little embryo again,
+160.219	and then actually grows back up,
+160.219	and back down and back up --
+163.157	sort of yo-yo -- and it never dies.
+164.96	So it's actually life,
+167.21	but it's actually not
+167.21	as we thought life would be.
+171.751	And then you see something like that.
+173.686	"And he was like, ""My God,"
+173.686	"what kind of a life form is that?"""
+176.583	Anyone know?
+178.026	It's actually not life, it's a crystal.
+181.542	So once you start looking and looking
+181.542	at smaller and smaller things --
+184.867	so this particular person wrote
+184.867	a whole article and said,
+188.053	"""Hey, these are bacteria."""
+189.558	Except, if you look a little bit closer,
+191.553	you see, in fact, that this thing
+191.553	is way too small to be anything like that.
+195.213	So he was convinced,
+195.213	but, in fact, most people aren't.
+199.052	And then, of course,
+199.052	NASA also had a big announcement,
+202.26	and President Clinton
+202.26	gave a press conference,
+205.149	about this amazing discovery
+205.149	of life in a Martian meteorite.
+210.66	Except that nowadays,
+210.66	it's heavily disputed.
+214.066	If you take the lesson
+214.066	of all these pictures,
+216.525	then you realize, well, actually,
+216.525	maybe it's not that easy.
+219.443	Maybe I do need a definition of life
+222.866	in order to make that kind of distinction.
+225.168	So can life be defined?
+227.723	Well how would you go about it?
+229.254	Well of course, you'd go
+229.254	to Encyclopedia Britannica and open at L.
+233.285	No, of course you don't do that;
+233.285	you put it somewhere in Google.
+236.321	And then you might get something.
+237.936	(Laughter)
+238.984	And what you might get --
+240.226	and anything that actually refers
+240.226	to things that we are used to,
+244.029	you throw away.
+245.275	And then you might come up
+245.275	with something like this.
+247.797	And it says something complicated
+247.797	with lots and lots of concepts.
+251.078	Who on Earth would write something
+251.078	as convoluted and complex and inane?
+258.212	Oh, it's actually a really, really,
+258.212	important set of concepts.
+262.137	So I'm highlighting just a few words
+264.26	and saying definitions
+264.26	like that rely on things
+268.208	that are not based on amino acids
+268.208	or leaves or anything that we are used to,
+274.381	but in fact on processes only.
+276.156	And if you take a look at that,
+278.051	this was actually in a book that I wrote
+278.051	that deals with artificial life.
+281.532	And that explains why that NASA manager
+281.532	was actually in my office to begin with.
+285.783	Because the idea was that,
+285.783	with concepts like that,
+288.894	maybe we can actually
+288.894	manufacture a form of life.
+292.938	And so if you go and ask yourself,
+292.938	"""What on Earth is artificial life?"","
+297.759	let me give you a whirlwind tour
+297.759	of how all this stuff came about.
+301.452	And it started out quite a while ago,
+304.611	when someone wrote one of the first
+304.611	successful computer viruses.
+309.245	And for those of you
+309.245	who aren't old enough,
+311.442	you have no idea
+311.442	how this infection was working --
+314.049	namely, through these floppy disks.
+316.333	But the interesting thing
+316.333	about these computer virus infections
+320.244	was that, if you look at the rate
+320.244	at which the infection worked,
+323.72	they show this spiky behavior
+323.72	that you're used to from a flu virus.
+327.894	And it is in fact due to this arms race
+330.26	between hackers
+330.26	and operating system designers
+333.74	that things go back and forth.
+335.364	And the result is kind of
+335.364	a tree of life of these viruses,
+339.899	a phylogeny that looks very much
+339.899	like the type of life
+343.528	that we're used to,
+343.528	at least on the viral level.
+345.981	So is that life?
+347.526	Not as far as I'm concerned.
+349.166	Why? Because these things
+349.166	don't evolve by themselves.
+352.032	In fact, they have hackers writing them.
+354.009	But the idea was taken
+354.009	very quickly a little bit further,
+357.363	when a scientist working
+357.363	at the Santa Fe Institute decided,
+360.698	"""Why don't we try to package"
+360.698	these little viruses
+363.855	in artificial worlds
+363.855	inside of the computer
+366.094	"and let them evolve?"""
+367.389	And this was Steen Rasmussen.
+369.007	And he designed this system,
+369.007	but it really didn't work,
+371.723	because his viruses
+371.723	were constantly destroying each other.
+374.631	But there was another scientist
+374.631	who had been watching this, an ecologist.
+378.172	And he went home and says,
+378.172	"""I know how to fix this."""
+380.688	And he wrote the Tierra system,
+382.356	and, in my book,
+383.585	is in fact one of the first
+383.585	truly artificial living systems --
+387.433	except for the fact that these programs
+387.433	didn't really grow in complexity.
+390.919	So having seen this work,
+390.919	worked a little bit on this,
+393.807	this is where I came in.
+395.489	And I decided to create a system
+395.489	that has all the properties
+399.156	that are necessary to see, in fact,
+399.156	the evolution of complexity,
+403.026	more and more complex
+403.026	problems constantly evolving.
+406.352	And of course, since I really don't know
+406.352	how to write code, I had help in this.
+410.16	I had two undergraduate students
+411.732	at California Institute of Technology
+411.732	that worked with me.
+414.485	That's Charles Ofria on the left,
+414.485	Titus Brown on the right.
+417.361	They are now, actually,
+417.361	respectable professors
+419.72	at Michigan State University,
+421.486	but I can assure you, back in the day,
+421.486	we were not a respectable team.
+426.011	And I'm really happy
+426.011	that no photo survives
+428.084	of the three of us
+428.084	anywhere close together.
+431.352	But what is this system like?
+433.251	Well I can't really go into the details,
+435.464	but what you see here
+435.464	is some of the entrails.
+438.141	But what I wanted to focus on
+438.141	is this type of population structure.
+442.25	There's about 10,000
+442.25	programs sitting here.
+444.746	And all different strains
+444.746	are colored in different colors.
+447.689	And as you see here, there are groups
+447.689	that are growing on top of each other,
+451.317	because they are spreading.
+452.682	Any time there is a program
+452.682	that's better at surviving in this world,
+456.81	due to whatever mutation it has acquired,
+458.802	it is going to spread over the others
+458.802	and drive the others to extinction.
+462.296	So I'm going to show you a movie
+463.875	where you're going to see
+463.875	that kind of dynamic.
+466.126	And these kinds of experiments are started
+466.126	with programs that we wrote ourselves.
+470.426	We write our own stuff, replicate it,
+470.426	and are very proud of ourselves.
+473.787	And we put them in,
+473.787	and what you see immediately
+476.587	is that there are waves
+476.587	and waves of innovation.
+479.677	By the way, this is highly accelerated,
+481.595	so it's like a 1000 generations a second.
+483.816	But immediately, the system goes like,
+483.816	"""What kind of dumb piece of code was this?"
+487.807	This can be improved upon
+487.807	"in so many ways, so quickly."""
+491.552	So you see waves of new types
+491.552	taking over the other types.
+495.324	And this type of activity
+495.324	goes on for quite a while,
+497.91	until the main easy things
+497.91	have been acquired by these programs.
+502.755	And then, you see
+502.755	sort of like a stasis coming on
+506.26	where the system essentially waits
+508.26	for a new type of innovation,
+508.26	like this one,
+511.467	which is going to spread over
+511.467	all the other innovations that were before
+515.773	and is erasing the genes
+515.773	that it had before,
+518.26	until a new type of higher level
+518.26	of complexity has been achieved.
+522.26	And this process goes on and on and on.
+525.727	So what we see here
+527.066	is a system that lives in very much
+527.066	the way we're used to how life goes.
+531.948	But what the NASA people
+531.948	had asked me really was,
+536.473	"""Do these guys have a biosignature?"
+539.84	Can we measure this type of life?
+541.677	Because if we can,
+542.893	maybe we have a chance of actually
+542.893	discovering life somewhere else
+546.766	without being biased
+546.766	"by things like amino acids."""
+550.481	"So I said, ""Well, perhaps"
+550.481	we should construct a biosignature
+555.038	based on life as a universal process.
+558.26	In fact, it should perhaps make use
+558.26	of the concepts that I developed
+563.148	just in order to sort of capture
+563.148	"what a simple living system might be."""
+567.259	And the thing I came up with --
+568.802	I have to first give you
+568.802	an introduction about the idea,
+572.808	and maybe that would be
+572.808	a meaning detector,
+576.371	rather than a life detector.
+578.486	And the way we would do that --
+580.26	I would like to find out
+580.26	how I can distinguish text
+582.92	that was written by a million monkeys,
+582.92	as opposed to text that is in our books.
+587.905	And I would like to do it in such a way
+589.806	that I don't actually have to be able
+589.806	to read the language,
+592.708	because I'm sure I won't be able to.
+594.502	As long as I know
+594.502	that there's some sort of alphabet.
+597.026	So here would be a frequency plot
+599.38	of how often you find
+599.38	each of the 26 letters of the alphabet
+602.786	in a text written by random monkeys.
+605.455	And obviously, each of these letters
+605.455	comes off about roughly equally frequent.
+610.033	But if you now look at the same
+610.033	distribution in English texts,
+613.649	it looks like that.
+615.462	And I'm telling you,
+615.462	this is very robust across English texts.
+619.034	And if I look at French texts,
+619.034	it looks a little bit different,
+622.042	or Italian or German.
+623.244	They all have their own type
+623.244	of frequency distribution,
+626.684	but it's robust.
+628.141	It doesn't matter whether it writes
+628.141	about politics or about science.
+631.372	It doesn't matter whether it's a poem
+631.372	or whether it's a mathematical text.
+637.176	It's a robust signature,
+639.037	and it's very stable.
+640.881	As long as our books
+640.881	are written in English --
+643.062	because people are rewriting them
+643.062	and recopying them --
+645.877	it's going to be there.
+647.26	So that inspired me to think about,
+647.26	well, what if I try to use this idea
+653.045	in order, not to detect random texts
+653.045	from texts with meaning,
+656.824	but rather detect the fact
+656.824	that there is meaning
+660.577	in the biomolecules that make up life.
+663.128	But first I have to ask:
+664.32	what are these building blocks,
+665.832	like the alphabet, elements
+665.832	that I showed you?
+668.152	Well it turns out, we have
+668.152	many different alternatives
+671.049	for such a set of building blocks.
+673.387	We could use amino acids,
+674.659	we could use nucleic acids,
+674.659	carboxylic acids, fatty acids.
+677.885	In fact, chemistry's extremely rich,
+677.885	and our body uses a lot of them.
+681.347	So that we actually, to test this idea,
+683.677	first took a look at amino acids
+683.677	and some other carboxylic acids.
+687.248	And here's the result.
+688.743	Here is, in fact, what you get
+691.933	if you, for example, look
+691.933	at the distribution of amino acids
+694.98	on a comet or in interstellar space
+694.98	or, in fact, in a laboratory,
+699.739	where you made very sure
+699.739	that in your primordial soup,
+702.422	there is no living stuff in there.
+704.364	What you find is mostly
+704.364	glycine and then alanine
+707.267	and there's some trace elements
+707.267	of the other ones.
+709.65	That is also very robust --
+712.103	what you find in systems like Earth
+715.959	where there are amino acids,
+715.959	but there is no life.
+719.128	But suppose you take some dirt
+719.128	and dig through it
+723.782	and then put it into these spectrometers,
+726.766	because there's bacteria
+726.766	all over the place;
+728.888	or you take water anywhere on Earth,
+731.143	because it's teaming with life,
+732.684	and you make the same analysis;
+734.458	the spectrum looks completely different.
+737.059	Of course, there is still
+737.059	glycine and alanine,
+740.458	but in fact, there are these heavy
+740.458	elements, these heavy amino acids,
+743.802	that are being produced
+743.802	because they are valuable to the organism.
+748.327	And some other ones
+748.327	that are not used in the set of 20,
+752.289	they will not appear at all
+752.289	in any type of concentration.
+755.211	So this also turns out
+755.211	to be extremely robust.
+757.94	It doesn't matter what kind of sediment
+757.94	you're using to grind up,
+761.082	whether it's bacteria
+761.082	or any other plants or animals.
+764.385	Anywhere there's life,
+765.833	you're going to have this distribution,
+767.808	as opposed to that distribution.
+769.649	And it is detectable
+769.649	not just in amino acids.
+772.91	Now you could ask:
+774.151	Well, what about these Avidians?
+777.334	The Avidians being the denizens
+777.334	of this computer world
+780.409	where they are perfectly happy
+780.409	replicating and growing in complexity.
+783.878	So this is the distribution that you get
+783.878	if, in fact, there is no life.
+788.919	They have about 28 of these instructions.
+791.661	And if you have a system where
+791.661	they're being replaced one by the other,
+795.037	it's like the monkeys
+795.037	writing on a typewriter.
+797.246	Each of these instructions
+797.246	appears with roughly the equal frequency.
+802.375	But if you now take
+802.375	a set of replicating guys
+807.179	like in the video that you saw,
+809.153	it looks like this.
+811.459	So there are some instructions
+812.956	that are extremely valuable
+812.956	to these organisms,
+815.413	and their frequency is going to be high.
+817.407	And there's actually some instructions
+817.407	that you only use once, if ever.
+821.472	So they are either poisonous
+823.019	or really should be used
+823.019	at less of a level than random.
+827.548	In this case, the frequency is lower.
+831.192	And so now we can see,
+831.192	is that really a robust signature?
+833.887	I can tell you indeed it is,
+835.268	because this type of spectrum,
+835.268	just like what you've seen in books,
+838.54	and just like what you've seen
+838.54	in amino acids,
+840.717	it doesn't really matter
+840.717	how you change the environment,
+843.383	it's very robust, it's going
+843.383	to reflect the environment.
+846.031	So I'm going to show you now
+846.031	a little experiment that we did.
+849.004	And I have to explain to you,
+850.412	the top of this graph
+851.618	shows you that frequency
+851.618	distribution that I talked about.
+854.386	Here, that's the lifeless environment
+858.217	where each instruction occurs
+858.217	at an equal frequency.
+862.564	And below there, I show, in fact,
+862.564	the mutation rate in the environment.
+867.581	And I'm starting this
+867.581	at a mutation rate that is so high
+870.908	that even if you would drop
+870.908	a replicating program
+874.898	that would otherwise happily grow up
+874.898	to fill the entire world,
+879.047	if you drop it in, it gets mutated
+879.047	to death immediately.
+882.081	So there is no life possible
+882.081	at that type of mutation rate.
+887.451	But then I'm going to slowly
+887.451	turn down the heat, so to speak,
+891.511	and then there's this viability threshold
+893.72	where now it would be possible
+893.72	for a replicator to actually live.
+897.636	And indeed, we're going to be dropping
+897.636	these guys into that soup all the time.
+903.419	So let's see what that looks like.
+905.079	So first, nothing, nothing, nothing.
+908.101	Too hot, too hot.
+909.94	Now the viability threshold is reached,
+912.26	and the frequency distribution
+912.26	has dramatically changed
+916.776	and, in fact, stabilizes.
+918.276	And now what I did there
+919.81	is, I was being nasty,
+919.81	I just turned up the heat again and again.
+923.432	And of course, it reaches
+923.432	the viability threshold.
+925.802	And I'm just showing this to you
+925.802	again because it's so nice.
+928.694	You hit the viability threshold.
+930.26	"The distribution changes to ""alive!"""
+932.691	And then, once you hit the threshold
+935.932	where the mutation rate is so high
+935.932	that you cannot self-reproduce,
+940.005	you cannot copy the information
+940.005	forward to your offspring
+944.95	without making so many mistakes
+944.95	that your ability to replicate vanishes.
+949.704	And then, that signature is lost.
+953.216	What do we learn from that?
+954.946	Well, I think we learn
+954.946	a number of things from that.
+958.766	One of them is,
+960.26	if we are able to think about life
+960.26	in abstract terms --
+965.508	and we're not talking
+965.508	about things like plants,
+968.163	and we're not talking about amino acids,
+970.112	and we're not talking about bacteria,
+971.9	but we think in terms of processes --
+974.034	then we could start to think about life
+976.26	not as something
+976.26	that is so special to Earth,
+978.903	but that, in fact, could exist anywhere.
+981.437	Because it really only has to do
+981.437	with these concepts of information,
+985.774	of storing information
+985.774	within physical substrates --
+989.856	anything: bits, nucleic acids,
+989.856	anything that's an alphabet --
+993.896	and make sure that there's some process
+995.799	so that this information can be stored
+995.799	for much longer than you would expect --
+1000.076	the time scales for
+1000.076	the deterioration of information.
+1004.436	And if you can do that,
+1004.436	then you have life.
+1007.628	So the first thing that we learn
+1009.906	is that it is possible to define life
+1009.906	in terms of processes alone,
+1015.142	without referring at all
+1015.142	to the type of things that we hold dear,
+1020.143	as far as the type of life on Earth is.
+1022.838	And that, in a sense, removes us again,
+1025.503	like all of our scientific discoveries,
+1025.503	or many of them --
+1028.358	it's this continuous dethroning of man --
+1031.153	of how we think we're special
+1031.153	because we're alive.
+1033.904	Well, we can make life;
+1033.904	we can make life in the computer.
+1036.984	Granted, it's limited,
+1038.825	but we have learned what it takes
+1038.825	in order to actually construct it.
+1043.966	And once we have that,
+1046.778	then it is not such
+1046.778	a difficult task anymore
+1049.449	to say, if we understand
+1049.449	the fundamental processes
+1053.625	that do not refer
+1053.625	to any particular substrate,
+1056.991	then we can go out and try other worlds,
+1060.783	figure out what kind of chemical
+1060.783	alphabets might there be,
+1065.293	figure enough about the normal chemistry,
+1065.293	the geochemistry of the planet,
+1070.042	so that we know what this distribution
+1070.042	would look like in the absence of life,
+1073.84	and then look for large
+1073.84	deviations from this --
+1076.835	this thing sticking out, which says,
+1076.835	"""This chemical really shouldn't be there."""
+1081.971	Now we don't know that there's life then,
+1083.95	but we could say,
+1085.181	"""Well at least I'm going to have to take"
+1085.181	a look very precisely at this chemical
+1088.974	"and see where it comes from."""
+1091.043	And that might be our chance
+1091.043	of actually discovering life
+1094.778	when we cannot visibly see it.
+1096.921	And so that's really the only
+1096.921	take-home message that I have for you.
+1101.509	Life can be less mysterious
+1101.509	than we make it out to be
+1105.764	when we try to think
+1105.764	about how it would be on other planets.
+1109.54	And if we remove the mystery of life,
+1112.951	then I think it is a little bit easier
+1112.951	for us to think about how we live,
+1117.66	and how perhaps we're not as special
+1117.66	as we always think we are.
+1120.742	And I'm going to leave you with that.
+1123.012	And thank you very much.
+1124.26	(Applause)

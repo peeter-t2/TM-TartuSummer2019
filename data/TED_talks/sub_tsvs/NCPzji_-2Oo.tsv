@@ -1,0 +1,164 @@
+startsecond	text
+15.26	About a year and a half ago,
+17.26	Stephen Lawler, who also gave a talk
+20.26	here at TED in 2007 on Virtual Earth,
+22.26	brought me over to become the architect of Bing Maps,
+26.26	which is Microsoft's online-mapping effort.
+29.26	In the past two and a half, we've been very hard at work
+31.26	on redefining the way maps work online.
+35.26	And we really are seeing this in very different terms
+37.26	from the kind of mapping and direction site
+39.26	that one is used to.
+41.26	So, the first thing that you might notice about the mapping site
+43.26	is just the fluidity of the zooming and the panning,
+45.26	which, if you're familiar at all with Seadragon,
+47.26	that's where it comes from.
+49.26	Mapping is, of course,
+51.26	not just about cartography,
+53.26	it's also about imagery.
+55.26	So, as we zoom-in beyond a certain level
+58.26	this resolves into a kind of Sim City-like
+61.26	virtual view at 45 degrees.
+63.26	This can be viewed from any of the cardinal directions
+65.26	to show you the 3D structure of the city, all the facades.
+68.26	Now, we see this space, this three-dimensional environment,
+74.26	as being a canvas on which
+77.26	all sorts of applications can play out,
+83.26	and map's directions are really just one of them.
+86.26	If you click on this, you'll see
+89.26	some of the ones that we've put out, just in the past couple of months
+92.26	since we've launched.
+94.26	So, for example, a couple of days after the disaster in Haiti,
+96.26	we had an earthquake map that showed
+98.26	before and after pictures from the sky.
+100.26	This wonderful one which I don't have time to show you
+102.26	is taking hyper-local blogs in real time
+105.26	and mapping those stories, those entries
+107.26	to the places that are referred to on the blogs.
+109.26	It's wonderful.
+112.26	But I'm going to show you some more candy sort of stuff.
+115.26	So, we see the imagery, of course,
+119.26	not stopping at the sky.
+122.26	These little green bubbles represent
+125.26	photosynths that users have made.
+127.26	I'm not going to dive into them either, but photosynths are integrated into the map.
+130.26	Everything that's cased in blue
+132.26	is an area where we've taken imagery on the ground as well.
+137.26	And so, when you fly down --
+139.26	(Applause)
+141.26	Thank you. When you fly down to the ground,
+143.26	and you see this kind of panoramic imagery,
+146.26	the first thing that you might notice is that it's not just a picture,
+150.26	there's just as much three-dimensional understanding of this environment
+153.26	as there is of the three-dimensional city from above,
+156.26	so if I click on something to get a closer view of it,
+160.26	then, the fact that that transition looks as it does,
+163.26	is a function of all of that geometry,
+165.26	all of that 3D understanding behind this model.
+169.26	Now, I'll show you a fun app
+172.26	that -- we've been working on a collaboration with our friends at Flickr.
+179.26	This takes Flickr, georegistered imagery
+182.26	and uses photosynth-like processes
+185.26	to connect that imagery to our imagery, so --
+189.26	I'm not sure if that's the one I actually meant to pull up, but --
+192.26	(Laughter)
+195.26	But notice -- this is, of course, a popular tourist site,
+199.26	and there are lots of photos around here,
+201.26	and these photos are all taken at different times.
+204.26	So this one was taken around five.
+206.26	So that's the Flickr photo,
+208.26	that's our imagery.
+210.26	So you really see how this kind of crowd-sourced imagery
+213.26	is integrating, in a very deep way, into the map itself.
+216.26	(Applause)
+218.26	Thank you.
+220.26	(Applause)
+222.26	There are several reasons why this is interesting
+224.26	and one of them, of course, is time travel.
+226.26	And I'm not going to show you some of the wonderful historic imagery in here,
+228.26	but there are some with horses and carriages and so on as well.
+231.26	But what's cool about this is that, not only is it augmenting
+234.26	this visual representation of the world
+236.26	with things that are coming in from users,
+239.26	but it also is the foundation for augmented reality,
+243.26	and that's something that I'll be showing you more of in just a moment.
+246.26	Now I just made a transition indoors. That's also interesting.
+250.26	OK, notice there's now a roof above us.
+252.26	We're inside the Pike Place Market.
+255.26	And this is something that we're able to do with a backpack camera,
+257.26	so, we're now not only imaging in the street
+261.26	with this camera on tops of cars,
+263.26	but we're also imaging inside.
+267.26	And from here, we're able to do the same sorts of registration,
+272.26	not only of still images, but also of video.
+276.26	So this is something that we're now going to try
+278.26	for the first time, live,
+280.26	and this is really, truly, very frightening.
+283.26	(Laughter)
+286.26	OK.
+288.26	(Ringing)
+290.26	All right, guys, are you there?
+292.26	(Noise)
+294.26	All right. I'm hitting it. I'm punching play.
+296.26	I'm live. All right. There we go.
+298.26	So, these are our friends in Pike Place Market, the lab.
+303.26	(Applause)
+312.26	So they're broadcasting this live.
+314.26	OK, George, can you pan back over to the corner market?
+318.26	Because I want to show points of interest.
+322.26	No, no. The other way.
+325.26	Yeah, yeah, back to the corner, back to the corner.
+327.26	I don't want to see you guys yet.
+331.26	OK, OK, back to the corner, back to the corner, back to the corner.
+337.26	OK, never mind.
+340.26	What I wanted to show you was these points of interest
+342.26	over here on top of the image
+344.26	because what that gives you a sense of is the way,
+346.26	if you're actually on the spot,
+348.26	you can think about this --
+350.26	this is taking a step in addition to augmented reality.
+353.26	What the hell are you guys -- oh, sorry.
+355.26	(Laughter)
+358.26	We're doing two different --
+361.26	OK, I'm hanging up now.
+364.26	We're doing two different things here.
+366.26	One of them is to take that real ...
+368.26	(Laughter)
+375.26	All right, let me just take a moment and thank the team.
+378.26	They've done a fantastic job of pulling this together.
+380.26	(Applause)
+382.26	I'm going to abandon them now and walk back outside.
+385.26	And while I walk outside, I'll just mention that
+388.26	here we're using this for telepresence,
+390.26	but you can equally well use this
+392.26	on the spot, for augmented reality.
+394.26	When you use it on the spot, it means that
+396.26	you're able to bring all of that metadata
+398.26	and information about the world to you.
+400.26	So here, we're taking the extra step of also broadcasting it.
+402.26	That was being broadcast, by the way, on a 4G network
+405.26	from the market.
+408.26	All right, and now there's one last TED talk
+411.26	that Microsoft has given in the past several years.
+413.26	And that's Curtis Wong, WorldWide Telescope.
+416.26	So, we're going to head over to the dumpsters,
+418.26	where it's traditional, after a long day at the market,
+421.26	to go out for a break, but also stare up at the sky.
+425.26	This is the integration
+427.26	of WorldWide Telescope into our maps.
+430.26	(Applause)
+432.26	This is the current -- thank you --
+435.26	this is the current time. If we scrub the time,
+437.26	then we can see how the sky will look at different times,
+440.26	and we can get all of this very detailed
+442.26	information about different times, different dates:
+447.26	Let's move the moon a little higher in the sky,
+449.26	maybe change the date.
+453.26	I would like to kind of zoom in on the moon.
+459.26	So, this is an astronomically complete
+461.26	representation of the sky
+464.26	integrated right into the Earth.
+466.26	All right now, I've overrun my time,
+468.26	so I've got to stop.
+470.26	Thank you all very much.
+472.26	(Applause)

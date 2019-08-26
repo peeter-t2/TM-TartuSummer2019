@@ -1,0 +1,247 @@
+startsecond	text
+12.285	I'm going to talk about hackers.
+14.359	And the image that comes to your mind
+16.279	when I say that word is probably not
+18.738	of Benjamin Franklin,
+20.255	but I'm going to explain to you why it should be.
+23.443	The image that comes to your mind
+24.92	is probably more likely of a pasty kid
+27.606	sitting in a basement doing something mischievous,
+30.122	or of a shady criminal who is
+30.122	trying to steal your identity,
+34.257	or of an international rogue
+37.28	with a political agenda.
+39.991	And mainstream culture has kind of fed this idea
+44.524	that hackers are people that we should be afraid of.
+49.033	But like most things in technology
+50.665	and the technology world,
+52.114	hacking has equal power for good as it has for evil.
+55.289	For every hacker that's trying to steal your identity
+57.723	there's one that's building a tool
+59.961	that will help you find your
+59.961	loved ones after a disaster
+63.092	or to monitor environmental quality
+66.571	after an oil spill.
+69.308	Hacking is really just any amateur innovation
+73.18	on an existing system,
+74.576	and it is a deeply democratic activity.
+77.406	It's about critical thinking.
+78.805	It's about questioning existing ways of doing things.
+81.839	It's the idea that if you see a 
+81.839	problem, you work to fix it,
+85.227	and not just complain about it.
+87.258	And in many ways, hacking is what built America.
+91.168	Betsy Ross was a hacker.
+93.313	The Underground Railroad was a brilliant hack.
+96.508	And from the Wright brothers to Steve Jobs,
+99.384	hacking has always been at the foundation
+101.923	of American democracy.
+104.975	So if there's one thing I want
+104.975	to leave you here with today,
+109.276	it's that the next time you
+109.276	think about who a hacker is,
+111.847	you think not of this guy
+115.869	but of this guy, Benjamin Franklin,
+118.449	who was one of the greatest hackers of all time.
+121.407	He was one of America's most prolific inventors,
+123.548	though he famously never filed a patent,
+125.73	because he thought that all human knowledge
+127.324	should be freely available.
+129.952	He brought us bifocals and the lightning rod,
+132.984	and of course there was his collaboration
+135.181	on the invention of American democracy.
+138.146	And in Code For America, we really try to embody
+140.469	the spirit of Ben Franklin.
+142.487	He was a tinkerer and a statesman
+145.929	whose conception of citizenship
+147.789	was always predicated on action.
+149.876	He believed that government could be built
+152.661	by the people,
+154.301	and we call those people civic hackers.
+158.85	So it's no wonder that the values
+161.305	that underly a healthy democracy,
+163.973	like collaboration and empowerment
+166.966	and participation and enterprise,
+169.029	are the same values that underly the Internet.
+172.515	And so it's no surprise that many hackers
+174.611	are turning their attention to
+174.611	the problem of government.
+177.968	But before I give you a few examples
+180.021	of what civic hacking looks like,
+181.843	I want to make clear that you don't have
+183.359	to be a programmer to be a civic hacker.
+185.453	You just have to believe that you can bring
+187.208	a 21st-century tool set to bear
+189.475	on the problems that government faces.
+191.914	And we hear all the time from our community
+193.959	of civic hackers at Code for America
+196.247	that they didn't understand
+196.247	how much nontechnical work
+198.855	actually went into civic hacking projects.
+200.881	So keep that in mind.
+202.372	All of you are potential civic hackers.
+206.462	So what does civic hacking look like?
+208.482	Our team last year in Honolulu,
+210.746	which in this case was three full-time fellows
+213.361	who were doing a year of public service,
+215.513	were asked by the city to rebuild the website.
+219.478	And it's a massive thing of
+219.478	tens of thousands of pages
+222.557	which just wasn't going to be possible
+224.673	in the few months that they had.
+226.426	So instead, they decided to build a parallel site
+228.883	that better conformed to how citizens actually
+231.345	want to interact with information on a city website.
+234.684	They're looking for answers to questions,
+236.621	and they want to take action when they're done,
+239.247	which is really hard to do from a site
+241.533	that looks like this.
+243.182	So our team built Honolulu Answers,
+245.427	which is a super-simple search interface
+247.793	where you enter a search term or a question
+250.246	and get back plain language answers
+252.944	that drive a user towards action.
+255.384	Now the site itself was easy enough to build,
+258.241	but the team was faced with the challenge
+260.144	of how they populate all of the content.
+262.854	It would have taken the three of them
+264.53	a very long time,
+265.907	especially given that none of 
+265.907	them are actually from Honolulu.
+268.906	And so they did something that's really radical,
+270.981	when you think about how government
+272.654	is used to working.
+274.695	They asked citizens to write the content.
+277.707	So you've heard of a hack-a-thon.
+279.201	They held a write-a-thon,
+280.865	where on one Saturday afternoon --
+283.502	"(""What do I do about wild pigs "
+283.502	"being a nuisance?"") (Laughter) —"
+285.543	Wild pigs are a huge problem 
+285.543	in Honolulu, apparently.
+289.589	In one Saturday afternoon,
+291.632	they were able to populate most of the content
+293.966	for most of the frequently asked questions,
+295.627	but more importantly than that,
+297.86	they created a new way for citizens 
+297.86	to participate in their government.
+301.975	Now, I think this is a really cool story in and of itself,
+305.02	but it gets more awesome.
+307.357	On the National Day of Civic Hacking
+309.963	this past June in Oakland, where I live,
+312.374	the Code For America team in Oakland
+314.403	took the open source code base of Honolulu Answers
+316.603	and turned it into Oakland Answers,
+318.614	and again we held a write-a-thon
+320.693	where we took the most frequently asked questions
+324.041	and had citizens write the answers to them,
+325.703	and I got into the act.
+327.172	I authored this answer, and a few others.
+330.773	And I'm trying to this day to articulate
+333.885	the sense of empowerment and responsibility
+336.931	that I feel for the place that I live
+340.511	based simply on this small act of participation.
+344.553	And by stitching together my small act
+348.278	with the thousands of other
+348.278	small acts of participation
+351.084	that we're enabling through civic hacking,
+353.665	we think we can reenergize citizenship
+356.449	and restore trust in government.
+359.499	At this point, you may be wondering
+360.836	what city officials think of all this.
+362.562	They actually love it.
+364.115	As most of you guys know, cities are being asked
+366.309	every day to do more with less,
+369.03	and they're always looking for innovative solutions
+371.228	to entrenched problems.
+372.962	So when you give citizens a way to participate
+376.496	beyond attending a town hall meeting,
+378.334	cities can actually capture
+380.286	the capacity in their communities
+383.04	to do the business of government.
+386.075	Now I don't want to leave the impression
+388.068	that civic hacking is just an American phenomenon.
+390.18	It's happening across the globe,
+391.883	and one of my favorite examples
+393.536	is from Mexico City, where earlier this year,
+395.967	the Mexico House of Representatives
+398.077	entered into a contract with
+398.077	a software development firm
+402.389	to build an app that legislators would use
+405.569	to track bills.
+406.82	So this was just for the handful of legislators
+409.496	in the House.
+412.07	And the contract was a two-year contract
+414.739	for 9.3 million dollars.
+418.665	Now a lot of people were really angry about this,
+421.017	especially geeks who knew that 9.3 million dollars
+423.964	was an absolutely outrageous amount of money
+426.268	for what was a very simple app.
+428.239	But instead of taking to the streets,
+430.668	they issued a challenge.
+432.876	They asked programmers in Mexico
+435.707	to build something better and cheaper,
+438.91	and they offered a prize of 9,300 dollars --
+445.262	than the government contract,
+446.91	and they gave the entrants 10 days.
+450.013	And in those 10 days,
+451.825	they submitted 173 apps,
+455.886	five of which were presented to Congress
+458.52	and are still in the app store today.
+460.621	And because of this action,
+462.442	that contract was vacated,
+464.57	and now this has sparked a movement in Mexico City
+466.702	which is home to one of our partners,
+468.459	Code for Mexico City.
+470.917	And so what you see in all three of these places,
+473.668	in Honolulu and in Oakland and in Mexico City,
+476.485	are the elements that are
+476.485	at the core of civic hacking.
+479.676	It's citizens who saw things
+479.676	that could be working better
+482.699	and they decided to fix them,
+484.63	and through that work, they're creating
+486.289	a 21st-century ecosystem of participation.
+489.48	They're creating a whole new set of ways
+491.51	for citizens to be involved,
+493.516	besides voting or signing a petition or protesting.
+497.461	They can actually build government.
+501.438	So back to our friend Ben Franklin,
+504.574	who, one of his lesser-known accomplishments
+507.32	was that in 1736 he founded
+511.195	the first volunteer firefighting
+511.195	company in Philadelphia,
+514.753	called a brigade.
+516.452	And it's because he and his friends noticed
+518.678	that the city was having trouble keeping up
+520.377	with all the fires that were happening in the city,
+522.447	so in true civic hacker fashion,
+525.236	they built a solution.
+527.886	And we have our own brigades at Code for America
+530.396	working on the projects that I've just described,
+533.542	and we want to ask you
+535.28	to follow in Ben Franklin's footsteps
+537.742	and come join us.
+539.209	We have 31 brigades in the U.S.
+541.499	We are pleased to announce today
+542.767	that we're opening up the 
+542.767	brigade to international cities
+545.043	for the first time,
+546.635	starting with cities in Poland and Japan and Ireland.
+550.616	You can find out if there's a brigade where you live
+552.715	at brigade.codeforamerica.org,
+555.209	and if there's not a brigade
+555.209	where you live, we will help you.
+557.648	We've created a tool kit which also lives
+559.504	at brigade.codeforamerica.org,
+561.068	and we will support you along the way.
+563.608	Our goal is to create a global
+563.608	network of civic hackers
+567.523	who are innovating on the existing system
+570.276	in order to build tools that will solve
+573.236	entrenched problems,
+575.102	that will support local government,
+577.129	and that will empower citizens.
+578.688	So please come hack with us.
+581.063	Thank you.
+582.611	(Applause)

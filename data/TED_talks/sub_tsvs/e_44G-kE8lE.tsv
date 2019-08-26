@@ -1,0 +1,328 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.805	I grew up watching Star Trek. I love Star Trek.
+19.337	Star Trek made me want to see alien creatures,
+23.799	creatures from a far-distant world.
+26.102	But basically, I figured out that I could find
+28.889	those alien creatures right on Earth.
+31.866	And what I do is I study insects.
+34.519	I'm obsessed with insects, particularly insect flight.
+37.775	I think the evolution of insect flight is perhaps
+40.916	one of the most important events in the history of life.
+43.658	Without insects, there'd be no flowering plants.
+45.895	Without flowering plants, there would be no
+47.811	clever, fruit-eating primates giving TED Talks.
+50.948	(Laughter)
+53.248	Now,
+55.235	David and Hidehiko and Ketaki
+58.274	gave a very compelling story about
+61.719	the similarities between fruit flies and humans,
+64.524	and there are many similarities,
+66.013	and so you might think that if humans are similar to fruit flies,
+69.015	the favorite behavior of a fruit fly might be this, for example --
+72.812	(Laughter)
+75.094	but in my talk, I don't want to emphasize on the similarities
+78.285	between humans and fruit flies, but rather the differences,
+81.352	and focus on the behaviors that I think fruit flies excel at doing.
+86.639	And so I want to show you a high-speed video sequence
+89.495	of a fly shot at 7,000 frames per second in infrared lighting,
+93.43	and to the right, off-screen, is an electronic looming predator
+97.64	that is going to go at the fly.
+99.075	The fly is going to sense this predator.
+100.913	It is going to extend its legs out.
+103.368	It's going to sashay away
+104.981	to live to fly another day.
+107.546	Now I have carefully cropped this sequence
+109.908	to be exactly the duration of a human eye blink,
+113.068	so in the time that it would take you to blink your eye,
+115.902	the fly has seen this looming predator,
+119.167	estimated its position, initiated a motor pattern to fly it away,
+125.335	beating its wings at 220 times a second as it does so.
+129.799	I think this is a fascinating behavior
+131.772	that shows how fast the fly's brain can process information.
+135.693	Now, flight -- what does it take to fly?
+138.535	Well, in order to fly, just as in a human aircraft,
+141.399	you need wings that can generate sufficient aerodynamic forces,
+144.134	you need an engine sufficient to generate the power required for flight,
+147.68	and you need a controller,
+149.389	and in the first human aircraft, the controller was basically
+152.015	the brain of Orville and Wilbur sitting in the cockpit.
+156.327	Now, how does this compare to a fly?
+159.08	Well, I spent a lot of my early career trying to figure out
+162.331	how insect wings generate enough force to keep the flies in the air.
+166.667	And you might have heard how engineers proved
+168.277	that bumblebees couldn't fly.
+170.911	Well, the problem was in thinking that the insect wings
+173.531	function in the way that aircraft wings work. But they don't.
+176.65	And we tackle this problem by building giant,
+179.504	dynamically scaled model robot insects
+182.936	that would flap in giant pools of mineral oil
+186.272	where we could study the aerodynamic forces.
+188.546	And it turns out that the insects flap their wings
+190.704	in a very clever way, at a very high angle of attack
+193.296	that creates a structure at the leading edge of the wing,
+196.417	a little tornado-like structure called a leading edge vortex,
+199.616	and it's that vortex that actually enables the wings
+202.57	to make enough force for the animal to stay in the air.
+205.929	But the thing that's actually most -- so, what's fascinating
+208.357	is not so much that the wing has some interesting morphology.
+211.332	What's clever is the way the fly flaps it,
+214.977	which of course ultimately is controlled by the nervous system,
+218.113	and this is what enables flies to perform
+220.76	these remarkable aerial maneuvers.
+223.567	Now, what about the engine?
+225.664	The engine of the fly is absolutely fascinating.
+228.156	They have two types of flight muscle:
+230.054	so-called power muscle, which is stretch-activated,
+233.039	which means that it activates itself and does not need to be controlled
+236.765	on a contraction-by-contraction basis by the nervous system.
+240.104	It's specialized to generate the enormous power required for flight,
+244.713	and it fills the middle portion of the fly,
+246.792	so when a fly hits your windshield,
+248.339	it's basically the power muscle that you're looking at.
+250.745	But attached to the base of the wing
+252.891	is a set of little, tiny control muscles
+255.529	that are not very powerful at all, but they're very fast,
+258.83	and they're able to reconfigure the hinge of the wing
+262.036	on a stroke-by-stroke basis,
+263.798	and this is what enables the fly to change its wing
+266.94	and generate the changes in aerodynamic forces
+269.911	which change its flight trajectory.
+272.484	And of course, the role of the nervous system is to control all this.
+276.047	So let's look at the controller.
+277.559	Now flies excel in the sorts of sensors
+280.206	that they carry to this problem.
+282.49	They have antennae that sense odors and detect wind detection.
+286.617	They have a sophisticated eye which is
+288.292	the fastest visual system on the planet.
+290.748	They have another set of eyes on the top of their head.
+292.784	We have no idea what they do.
+294.836	They have sensors on their wing.
+297.79	Their wing is covered with sensors, including sensors
+301.55	that sense deformation of the wing.
+303.596	They can even taste with their wings.
+305.705	One of the most sophisticated sensors a fly has
+308.26	is a structure called the halteres.
+310.067	The halteres are actually gyroscopes.
+311.946	These devices beat back and forth about 200 hertz during flight,
+316.395	and the animal can use them to sense its body rotation
+319.068	and initiate very, very fast corrective maneuvers.
+323.036	But all of this sensory information has to be processed
+325.365	by a brain, and yes, indeed, flies have a brain,
+329.085	a brain of about 100,000 neurons.
+332.244	Now several people at this conference
+334.437	have already suggested that fruit flies could serve neuroscience
+339.245	because they're a simple model of brain function.
+342.492	And the basic punchline of my talk is,
+344.569	I'd like to turn that over on its head.
+347.227	I don't think they're a simple model of anything.
+349.855	And I think that flies are a great model.
+352.332	They're a great model for flies.
+354.848	(Laughter)
+357.329	And let's explore this notion of simplicity.
+360.332	So I think, unfortunately, a lot of neuroscientists,
+362.763	we're all somewhat narcissistic.
+364.595	When we think of brain, we of course imagine our own brain.
+368.028	But remember that this kind of brain,
+369.988	which is much, much smaller
+371.756	— instead of 100 billion neurons, it has 100,000 neurons —
+374.434	but this is the most common form of brain on the planet
+377.316	and has been for 400 million years.
+380.22	And is it fair to say that it's simple?
+382.508	Well, it's simple in the sense that it has fewer neurons,
+384.603	but is that a fair metric?
+386.357	And I would propose it's not a fair metric.
+388.633	So let's sort of think about this. I think we have to compare --
+391.733	(Laughter) —
+393.292	we have to compare the size of the brain
+398.413	with what the brain can do.
+400.443	So I propose we have a Trump number,
+403.324	and the Trump number is the ratio of this man's
+406.189	behavioral repertoire to the number of neurons in his brain.
+409.868	We'll calculate the Trump number for the fruit fly.
+412.536	Now, how many people here think the Trump number
+415.22	is higher for the fruit fly?
+417.709	(Applause)
+420.14	It's a very smart, smart audience.
+423.568	Yes, the inequality goes in this direction, or I would posit it.
+426.895	Now I realize that it is a little bit absurd
+429.277	to compare the behavioral repertoire of a human to a fly.
+432.835	But let's take another animal just as an example. Here's a mouse.
+436.978	A mouse has about 1,000 times as many neurons as a fly.
+441.283	I used to study mice. When I studied mice,
+443.31	I used to talk really slowly.
+446.147	And then something happened when I started to work on flies.
+448.723	(Laughter)
+451.135	And I think if you compare the natural history of flies and mice,
+454.595	it's really comparable. They have to forage for food.
+457.908	They have to engage in courtship.
+460.355	They have sex. They hide from predators.
+463.826	They do a lot of the similar things.
+465.806	But I would argue that flies do more.
+467.524	So for example, I'm going to show you a sequence,
+470.902	and I have to say, some of my funding comes from the military,
+475.107	so I'm showing this classified sequence
+477.179	and you cannot discuss it outside of this room. Okay?
+481.272	So I want you to look at the payload
+483.18	at the tail of the fruit fly.
+486.206	Watch it very closely,
+488.307	and you'll see why my six-year-old son
+492.604	now wants to be a neuroscientist.
+497.333	Wait for it.
+498.512	Pshhew.
+500.081	So at least you'll admit that if fruit flies are not as clever as mice,
+503.165	they're at least as clever as pigeons. (Laughter)
+508.081	Now, I want to get across that it's not just a matter of numbers
+512.048	but also the challenge for a fly to compute
+514.646	everything its brain has to compute with such tiny neurons.
+517.495	So this is a beautiful image of a visual interneuron from a mouse
+520.483	that came from Jeff Lichtman's lab,
+523.251	and you can see the wonderful images of brains
+526.498	that he showed in his talk.
+529.691	But up in the corner, in the right corner, you'll see,
+532.059	at the same scale, a visual interneuron from a fly.
+536.171	And I'll expand this up.
+538.012	And it's a beautifully complex neuron.
+540.182	It's just very, very tiny, and there's lots of biophysical challenges
+543.667	with trying to compute information with tiny, tiny neurons.
+547.29	How small can neurons get? Well, look at this interesting insect.
+550.827	It looks sort of like a fly. It has wings, it has eyes,
+553.039	it has antennae, its legs, complicated life history,
+555.838	it's a parasite, it has to fly around and find caterpillars
+558.934	to parasatize,
+560.316	but not only is its brain the size of a salt grain,
+564.431	which is comparable for a fruit fly,
+566.4	it is the size of a salt grain.
+569.326	So here's some other organisms at the similar scale.
+572.961	This animal is the size of a paramecium and an amoeba,
+577.091	and it has a brain of 7,000 neurons that's so small --
+580.971	you know these things called cell bodies you've been hearing about,
+583.427	where the nucleus of the neuron is?
+585.078	This animal gets rid of them because they take up too much space.
+588.538	So this is a session on frontiers in neuroscience.
+591.011	I would posit that one frontier in neuroscience is to figure out how the brain of that thing works.
+596.371	But let's think about this. How can you make a small number of neurons do a lot?
+602.004	And I think, from an engineering perspective,
+604.526	you think of multiplexing.
+606.255	You can take a hardware and have that hardware
+608.958	do different things at different times,
+610.571	or have different parts of the hardware doing different things.
+613.566	And these are the two concepts I'd like to explore.
+616.837	And they're not concepts that I've come up with,
+618.495	but concepts that have been proposed by others in the past.
+623.04	And one idea comes from lessons from chewing crabs.
+626.115	And I don't mean chewing the crabs.
+627.982	I grew up in Baltimore, and I chew crabs very, very well.
+631.581	But I'm talking about the crabs actually doing the chewing.
+634.438	Crab chewing is actually really fascinating.
+636.468	Crabs have this complicated structure under their carapace
+639.727	called the gastric mill
+641.037	that grinds their food in a variety of different ways.
+643.467	And here's an endoscopic movie of this structure.
+648.726	The amazing thing about this is that it's controlled
+651.286	by a really tiny set of neurons, about two dozen neurons
+654.718	that can produce a vast variety of different motor patterns,
+659.681	and the reason it can do this is that this little tiny ganglion
+664.028	in the crab is actually inundated by many, many neuromodulators.
+668.212	You heard about neuromodulators earlier.
+670.353	There are more neuromodulators
+672.578	that alter, that innervate this structure than actually neurons in the structure,
+678.063	and they're able to generate a complicated set of patterns.
+682.305	And this is the work by Eve Marder and her many colleagues
+685.746	who've been studying this fascinating system
+688.041	that show how a smaller cluster of neurons
+690.193	can do many, many, many things
+692.018	because of neuromodulation that can take place on a moment-by-moment basis.
+696.874	So this is basically multiplexing in time.
+699.313	Imagine a network of neurons with one neuromodulator.
+702.098	You select one set of cells to perform one sort of behavior,
+705.576	another neuromodulator, another set of cells,
+708.194	a different pattern, and you can imagine
+709.907	you could extrapolate to a very, very complicated system.
+713.785	Is there any evidence that flies do this?
+715.879	Well, for many years in my laboratory and other laboratories around the world,
+719.254	we've been studying fly behaviors in little flight simulators.
+721.902	You can tether a fly to a little stick.
+723.608	You can measure the aerodynamic forces it's creating.
+726.109	You can let the fly play a little video game
+728.655	by letting it fly around in a visual display.
+732.533	So let me show you a little tiny sequence of this.
+734.87	Here's a fly
+736.097	and a large infrared view of the fly in the flight simulator,
+739.534	and this is a game the flies love to play.
+741.489	You allow them to steer towards the little stripe,
+743.926	and they'll just steer towards that stripe forever.
+746.751	It's part of their visual guidance system.
+750.309	But very, very recently, it's been possible
+752.654	to modify these sorts of behavioral arenas for physiologies.
+757.594	So this is the preparation that one of my former post-docs,
+760.082	Gaby Maimon, who's now at Rockefeller, developed,
+762.525	and it's basically a flight simulator
+764.211	but under conditions where you actually can stick an electrode
+767.286	in the brain of the fly and record
+769.55	from a genetically identified neuron in the fly's brain.
+773.206	And this is what one of these experiments looks like.
+775.504	It was a sequence taken from another post-doc in the lab,
+778.475	Bettina Schnell.
+779.674	The green trace at the bottom is the membrane potential
+783.066	of a neuron in the fly's brain,
+785.096	and you'll see the fly start to fly, and the fly is actually
+788.038	controlling the rotation of that visual pattern itself
+791.317	by its own wing motion,
+792.796	and you can see this visual interneuron
+794.906	respond to the pattern of wing motion as the fly flies.
+798.814	So for the first time we've actually been able to record
+801.19	from neurons in the fly's brain while the fly
+804.098	is performing sophisticated behaviors such as flight.
+808.566	And one of the lessons we've been learning
+810.421	is that the physiology of cells that we've been studying
+812.841	for many years in quiescent flies
+815.262	is not the same as the physiology of those cells
+817.91	when the flies actually engage in active behaviors
+820.646	like flying and walking and so forth.
+823.185	And why is the physiology different?
+826.11	Well it turns out it's these neuromodulators,
+828.167	just like the neuromodulators in that little tiny ganglion in the crabs.
+832.118	So here's a picture of the octopamine system.
+834.668	Octopamine is a neuromodulator
+836.422	that seems to play an important role in flight and other behaviors.
+840.758	But this is just one of many neuromodulators
+843.23	that's in the fly's brain.
+844.301	So I really think that, as we learn more,
+846.967	it's going to turn out that the whole fly brain
+849.494	is just like a large version of this stomatogastric ganglion,
+852.583	and that's one of the reasons why it can do so much with so few neurons.
+856.943	Now, another idea, another way of multiplexing
+859.73	is multiplexing in space,
+861.386	having different parts of a neuron
+863.08	do different things at the same time.
+865.202	So here's two sort of canonical neurons
+867.035	from a vertebrate and an invertebrate,
+869.32	a human pyramidal neuron from Ramon y Cajal,
+872.57	and another cell to the right, a non-spiking interneuron,
+876.573	and this is the work of Alan Watson and Malcolm Burrows many years ago,
+880.72	and Malcolm Burrows came up with a pretty interesting idea
+883.795	based on the fact that this neuron from a locust
+886.677	does not fire action potentials.
+888.636	It's a non-spiking cell.
+890.384	So a typical cell, like the neurons in our brain,
+893.164	has a region called the dendrites that receives input,
+895.916	and that input sums together
+898.505	and will produce action potentials
+900.801	that run down the axon and then activate
+903.132	all the output regions of the neuron.
+905.428	But non-spiking neurons are actually quite complicated
+908.304	because they can have input synapses and output synapses
+911.416	all interdigitated, and there's no single action potential
+915.079	that drives all the outputs at the same time.
+918.205	So there's a possibility that you have computational compartments
+922.112	that allow the different parts of the neuron
+926.09	to do different things at the same time.
+928.65	So these basic concepts of multitasking in time
+933.321	and multitasking in space,
+935.682	I think these are things that are true in our brains as well,
+938.514	but I think the insects are the true masters of this.
+941.091	So I hope you think of insects a little bit differently next time,
+944.207	and as I say up here, please think before you swat.
+947.142	(Applause)

@@ -1,0 +1,397 @@
+startsecond	text
+18.33	What I'd like to do is just drag us all down into the gutter,
+21.33	and actually all the way down into the sewer
+23.33	because I want to talk about diarrhea.
+25.33	And in particular, I want to talk about
+29.33	the design of diarrhea.
+31.33	And when evolutionary biologists talk about design,
+33.33	they really mean design by natural selection.
+37.33	And that brings me to the title of the talk,
+39.33	"""Using Evolution to Design Disease Organisms Intelligently."""
+43.33	And I also have a little bit of a sort of smartass subtitle to this.
+47.33	But I'm not just doing this to be cute.
+49.33	I really think that this subtitle explains
+52.33	what somebody like me, who's sort of a Darwin wannabe,
+55.33	how they actually look at one's role in
+58.33	sort of coming into this field of health sciences and medicine.
+62.33	It's really not a very friendly field for evolutionary biologists.
+65.33	You actually see a great potential,
+67.33	but you see a lot of people who are sort of defending their turf,
+70.33	and may actually be very resistant, when one tries
+74.33	to introduce ideas.
+76.33	So, all of the talk today is going to deal with two general questions.
+81.33	One is that, why are some disease organisms more harmful?
+84.33	And a very closely related question, which is,
+86.33	how can we take control of this situation once we understand
+90.33	the answer to the first question?
+91.33	How can we make the harmful organisms more mild?
+94.33	And I'm going to be talking, to begin with, as I said,
+96.33	about diarrheal disease organisms.
+98.33	And the focus when I'm talking about the diarrheal organisms,
+101.33	as well as the focus when I'm talking about any organisms
+104.33	that cause acute infectious disease,
+106.33	is to think about the problem from a germ's point of view,
+109.33	germ's-eye view.
+111.33	And in particular, to think about a fundamental idea
+115.33	which I think makes sense out of a tremendous amount of variation
+118.33	in the harmfulness of disease organisms.
+121.33	And that idea is that from the germ's-eye point of view,
+125.33	disease organisms have to get from one host to another,
+128.33	and often they have to rely on the well-being of the host
+132.33	to move them to another host.
+134.33	But not always.
+136.33	Sometimes, you get disease organisms
+138.33	that don't rely on host mobility at all for transmission.
+140.33	And when you have that, then evolutionary theory tells us
+143.33	that natural selection will favor the more exploitative,
+147.33	more predator-like organisms.
+149.33	So, natural selection will favor organisms
+151.33	that are more likely to cause damage.
+153.33	If instead transmission to another host requires host mobility,
+157.33	then we expect that the winners of the competition
+160.33	will be the milder organisms.
+162.33	So, if the pathogen doesn't need the host to be healthy and active,
+165.33	and actual selection favors pathogens
+168.33	that take advantage of those hosts,
+170.33	the winners in the competition are those that exploit the hosts
+172.33	for their own reproductive success.
+174.33	But if the host needs to be mobile in order to transmit the pathogen,
+179.33	then it's the benign ones that tend to be the winners.
+181.33	So, I'm going to begin by applying this idea to diarrheal diseases.
+185.33	Diarrheal disease organisms get transmitted in basically three ways.
+188.33	They can be transmitted from person-to-person contact,
+191.33	person-to-food-then-to-person contact,
+193.33	when somebody eats contaminated food,
+195.33	or they can be transmitted through the water.
+197.33	And when they're transmitted through the water,
+199.33	unlike the first two modes of transmission,
+201.33	these pathogens don't rely on a healthy host for transmission.
+205.33	A person can be sick in bed and still infect tens, even hundreds
+207.33	of other individuals.
+209.33	To sort of illustrate that, this diagram emphasizes that
+212.33	if you've got a sick person in bed,
+214.33	somebody's going to be taking out the contaminated materials.
+217.33	They're going to wash those contaminated materials,
+218.33	and then the water may move into sources of drinking water.
+222.33	People will come in to those places where you've got
+225.33	contaminated drinking water,
+226.33	bring things back to the family,
+227.33	may drink right at that point.
+228.33	The whole point is that a person who can't move
+231.33	can still infect many other individuals.
+233.33	And so, the theory tells us that
+236.33	when diarrheal disease organisms are transported by water,
+241.33	we expect them to be more predator-like, more harmful.
+243.33	And you can test these ideas.
+245.33	So, one way you can test is just look at all diarrheal bacteria,
+247.33	and see whether or not the ones that tend to be
+249.33	more transmitted by water, tend to be more harmful.
+251.33	And the answer is -- yep, they are.
+253.33	Now I put those names in there just for the bacteria buffs,
+256.33	but the main point here is that --
+259.33	(Laughter)
+260.33	there's a lot of them here, I can tell --
+261.33	the main point here is that those data points
+265.33	all show a very strong, positive association between
+267.33	the degree to which a disease organism is transmitted by water,
+271.33	and how harmful they are,
+272.33	how much death they cause per untreated infection.
+275.33	So this suggests we're on the right track.
+277.33	But this, to me, suggests that we really need
+282.33	to ask some additional questions.
+283.33	Remember the second question that I raised at the outset was,
+286.33	how can we use this knowledge
+288.33	to make disease organisms evolve to be mild?
+291.33	Now, this suggests that if you could just block waterborne transmission,
+293.33	you could cause disease organisms to shift from
+296.33	the right-hand side of that graph to the left-hand side of the graph.
+299.33	But it doesn't tell you how long.
+301.33	I mean, if this would require thousands of years,
+303.33	then it's worthless in terms of controlling of these pathogens.
+305.33	But if it could occur in just a few years,
+307.33	then it might be a very important way to control
+311.33	some of the nasty problems that we haven't been able to control.
+314.33	In other words, this suggests that we could
+316.33	domesticate these organisms.
+318.33	We could make them evolve to be not so harmful to us.
+321.33	And so, as I was thinking about this, I focused on this organism,
+324.33	which is the El Tor biotype of the organism called Vibrio cholerae.
+328.33	And that is the species of organism that is responsible
+332.33	for causing cholera.
+334.33	And the reason I thought this is a really great organism to look at
+336.33	is that we understand why it's so harmful.
+339.33	It's harmful because it produces a toxin,
+342.33	and that toxin is released when the organism
+344.33	gets into our intestinal tract.
+345.33	It causes fluid to flow from the cells that line our intestine
+349.33	into the lumen, the internal chamber of our intestine,
+352.33	and then that fluid goes the only way it can, which is out the other end.
+355.33	And it flushes out thousands of different other competitors
+358.33	that would otherwise make life difficult for the Vibrios.
+361.33	So what happens, if you've got an organism,
+363.33	it produces a lot of toxin.
+364.33	After a few days of infection you end up having --
+367.33	the fecal material really isn't so disgusting as we might imagine.
+369.33	It's sort of cloudy water.
+371.33	And if you took a drop of that water,
+373.33	you might find a million diarrheal organisms.
+376.33	If the organism produced a lot of toxin,
+378.33	you might find 10 million, or 100 million.
+380.33	If it didn't produce a lot of this toxin,
+382.33	then you might find a smaller number.
+384.33	So the task is to try to figure out
+388.33	how to determine whether or not you could get an organism like this
+392.33	to evolve towards mildness by blocking waterborne transmission,
+395.33	thereby allowing the organism only to be transmitted
+397.33	by person-to-person contact,
+400.33	or person-food-person contact --
+401.33	both of which would really require that people be
+403.33	mobile and fairly healthy for transmission.
+405.33	Now, I can think of some possible experiments.
+408.33	One would be to take a lot of different strains of this organism --
+411.33	some that produce a lot of toxins, some that produce a little --
+413.33	and take those strains and spew them out in different countries.
+418.33	Some countries that might have clean water supplies,
+421.33	so that you can't get waterborne transmission:
+422.33	you expect the organism to evolve to mildness there.
+425.33	Other countries, in which you've got a lot of waterborne transmission,
+428.33	there you expect these organisms to evolve
+430.33	towards a high level of harmfulness, right?
+434.33	There's a little ethical problem in this experiment.
+436.33	I was hoping to hear a few gasps at least.
+439.33	That makes me worry a little bit.
+441.33	(Laughter)
+442.33	But anyhow, the laughter makes me feel a little bit better.
+445.33	And this ethical problem's a big problem.
+448.33	Just to emphasize this, this is what we're really talking about.
+451.33	Here's a girl who's almost dead.
+453.33	She got rehydration therapy, she perked up,
+455.33	within a few days she was looking like a completely different person.
+458.33	So, we don't want to run an experiment like that.
+460.33	But interestingly, just that thing happened in 1991.
+464.33	In 1991, this cholera organism got into Lima, Peru,
+468.33	and within two months it had spread to the neighboring areas.
+471.33	Now, I don't know how that happened,
+474.33	and I didn't have anything to do with it, I promise you.
+478.33	I don't think anybody knows,
+480.33	but I'm not averse to, once that's happened,
+483.33	to see whether or not the prediction that we would make,
+485.33	that I did make before, actually holds up.
+488.33	Did the organism evolve to mildness in a place like Chile,
+491.33	which has some of the most well protected water supplies
+494.33	in Latin America?
+495.33	And did it evolve to be more harmful in a place like Ecuador,
+499.33	which has some of the least well protected?
+501.33	And Peru's got something sort of in between.
+503.33	And so, with funding from the Bosack-Kruger Foundation,
+507.33	I got a lot of strains from these different countries
+510.33	and we measured their toxin production in the lab.
+513.33	And we found that in Chile -- within two months of the invasion of Peru
+517.33	you had strains entering Chile --
+519.33	and when you look at those strains,
+521.33	in the very far left-hand side of this graph,
+523.33	you see a lot of variation in the toxin production.
+526.33	Each dot corresponds to an islet from a different person --
+529.33	a lot of variation on which natural selection can act.
+531.33	But the interesting point is, if you look over the 1990s,
+534.33	within a few years the organisms evolved to be more mild.
+538.33	They evolved to produce less toxin.
+540.33	And to just give you a sense of how important this might be,
+542.33	if we look in 1995, we find that there's only one case of cholera,
+547.33	on average, reported from Chile every two years.
+549.33	So, it's controlled.
+551.33	That's how much we have in America,
+553.33	cholera that's acquired endemically,
+555.33	and we don't think we've got a problem here.
+557.33	They didn't -- they solved the problem in Chile.
+559.33	But, before we get too confident, we'd better look at some of those other countries,
+562.33	and make sure that this organism doesn't just always evolve toward mildness.
+565.33	Well, in Peru it didn't.
+567.33	And in Ecuador -- remember, this is the place where it has
+570.33	the highest potential waterborne transmission --
+572.33	it looked like it got more harmful.
+573.33	In every case there's a lot of variation,
+575.33	but something about the environment the people are living in,
+578.33	and I think the only realistic explanation is that it's
+581.33	the degree of waterborne transmission,
+583.33	favored the harmful strains in one place, and mild strains in another.
+587.33	So, this is very encouraging,
+589.33	it suggests that something that we might want to do anyhow,
+591.33	if we had enough money, could actually give us a much bigger bang for the buck.
+594.33	It would make these organisms evolve to mildness,
+596.33	so that even though people might be getting infected,
+598.33	they'd be infected with mild strains.
+600.33	It wouldn't be causing severe disease.
+602.33	But there's another really interesting aspect of this,
+604.33	and this is that if you could control the evolution of virulence,
+607.33	evolution of harmfulness,
+609.33	then you should be able to control antibiotic resistance.
+611.33	And the idea is very simple.
+612.33	If you've got a harmful organism,
+614.33	a high proportion of the people are going to be symptomatic,
+616.33	a high proportion of the people are going to be going to get antibiotics.
+618.33	You've got a lot of pressure favoring antibiotic resistance,
+621.33	so you get increased virulence leading to
+623.33	the evolution of increased antibiotic resistance.
+625.33	And once you get increased antibiotic resistance,
+628.33	the antibiotics aren't knocking out the harmful strains anymore.
+630.33	So, you've got a higher level of virulence.
+632.33	So, you get this vicious cycle.
+634.33	The goal is to turn this around.
+636.33	If you could cause an evolutionary decrease in virulence
+638.33	by cleaning up the water supply,
+640.33	you should be able to get an evolutionary decrease
+642.33	in antibiotic resistance.
+644.33	So, we can go to the same countries and look and see.
+646.33	Did Chile avoid the problem of antibiotic resistance,
+649.33	whereas did Ecuador actually have the beginnings of the problem?
+652.33	If we look in the beginning of the 1990s,
+654.33	we see, again, a lot of variation.
+656.33	In this case, on the Y-axis, we've just got a measure of antibiotic sensitivity --
+660.33	and I won't go into that.
+662.33	But we've got a lot of variation in antibiotic sensitivity in Chile,
+665.33	Peru and Ecuador, and no trend across the years.
+667.33	But if we look at the end of the 1990s, just half a decade later,
+671.33	we see that in Ecuador they started having a resistance problem.
+674.33	Antibiotic sensitivity was going down.
+676.33	And in Chile, you still had antibiotic sensitivity.
+679.33	So, it looks like Chile dodged two bullets.
+681.33	They got the organism to evolve to mildness,
+683.33	and they got no development of antibiotic resistance.
+686.33	Now, these ideas should apply across the board,
+689.33	as long as you can figure out why some organisms evolved to virulence.
+692.33	And I want to give you just one more example,
+694.33	because we've talked a little bit about malaria.
+696.33	And the example I want to deal with is,
+698.33	or the idea I want to deal with, the question is,
+702.33	what can we do to try to get the malarial organism to evolve to mildness?
+705.33	Now, malaria's transmitted by a mosquito,
+707.33	and normally if you're infected with malaria, and you're feeling sick,
+711.33	it makes it even easier for the mosquito to bite you.
+713.33	And you can show, just by looking at data from literature,
+716.33	that vector-borne diseases are more harmful
+718.33	than non-vector-borne diseases.
+721.33	But I think there's a really fascinating example
+724.33	of what one can do experimentally to try to actually demonstrate this.
+728.33	In the case of waterborne transmission,
+730.33	we'd like to clean up the water supplies,
+732.33	see whether or not we can get those organisms to evolve towards mildness.
+735.33	In the case of malaria, what we'd like to do is mosquito-proof houses.
+740.33	And the logic's a little more subtle here.
+742.33	If you mosquito-proof houses,
+744.33	when people get sick, they're sitting in bed --
+746.33	or in mosquito-proof hospitals, they're sitting in a hospital bed --
+748.33	and the mosquitoes can't get to them.
+750.33	So, if you're a harmful variant
+752.33	in a place where you've got mosquito-proof housing, then you're a loser.
+756.33	The only pathogens that get transmitted
+759.33	are the ones that are infecting people that feel healthy enough
+761.33	to walk outside and get mosquito bites.
+764.33	So, if you were to mosquito proof houses,
+766.33	you should be able to get these organisms to evolve to mildness.
+768.33	And there's a really wonderful experiment that was done
+771.33	that suggests that we really should go ahead and do this.
+774.33	And that experiment was done in Northern Alabama.
+777.33	Just to give you a little perspective on this,
+779.33	I've given you a star at the intellectual center of the United States,
+783.33	which is right there in Louisville, Kentucky.
+787.33	And this really cool experiment was done
+789.33	about 200 miles south of there, in Northern Alabama,
+792.33	by the Tennessee Valley Authority.
+793.33	They had dammed up the Tennessee River.
+796.33	They'd caused the water to back up,
+798.33	they needed electric, hydroelectric power.
+801.33	And when you get stagnant water, you get mosquitoes.
+803.33	They found in the late '30s -- 10 years after they'd made these dams --
+807.33	that the people in Northern Alabama were infected with malaria,
+813.33	about a third to half of them were infected with malaria.
+816.33	This shows you the positions of some of these dams.
+819.33	OK, so the Tennessee Valley Authority was in a little bit of a bind.
+823.33	There wasn't DDT, there wasn't chloroquines: what do they do?
+827.33	Well, they decided to mosquito proof every house in Northern Alabama.
+830.33	So they did. They divided Northern Alabama into 11 zones,
+833.33	and within three years, about 100 dollars per house,
+835.33	they mosquito proofed every house.
+837.33	And these are the data.
+839.33	Every row across here represents one of those 11 zones.
+843.33	And the asterisks represent the time at which
+845.33	the mosquito proofing was complete.
+847.33	And so what you can see is that
+849.33	just the mosquito-proofed housing, and nothing else,
+852.33	caused the eradication of malaria.
+854.33	And this was, incidentally, published in 1949,
+856.33	"in the leading textbook of malaria, called ""Boyd's Malariology."""
+859.33	But almost no malaria experts even know it exists.
+862.33	This is important,
+864.33	because it tells us that if you have moderate biting densities,
+866.33	you can eradicate malaria by mosquito proofing houses.
+868.33	Now, I would suggest that you could do this in a lot of places.
+871.33	Like, you know, just as you get into the malaria zone,
+875.33	sub-Saharan Africa.
+877.33	But as you move to really intense biting rate areas, like Nigeria,
+880.33	you're certainly not going to eradicate.
+882.33	But that's when you should be favoring evolution towards mildness.
+886.33	So to me, it's an experiment that's waiting to happen,
+889.33	and if it confirms the prediction, then
+891.33	we should have a very powerful tool.
+893.33	In a way, much more powerful than the kind of tools we're looking at,
+896.33	because most of what's being done today is
+898.33	to rely on things like anti-malarial drugs.
+900.33	And we know that, although it's great to make those
+903.33	anti-malarial drugs available at really low cost and high frequency,
+908.33	we know that when you make them highly available
+911.33	you're going to get resistance to those drugs.
+913.33	And so it's a short-term solution.
+915.33	This is a long-term solution.
+917.33	What I'm suggesting here is that we could get evolution
+919.33	working in the direction we want it to go,
+921.33	rather than always having to battle evolution as a problem
+924.33	that stymies our efforts to control the pathogen,
+927.33	for example with anti-malarial drugs.
+929.33	So, this table I've given just to emphasize
+932.33	that I've only talked about two examples.
+935.33	But as I said earlier, this kind of logic applies across the board
+938.33	for infectious diseases, and it ought to.
+940.33	Because when we're dealing with infectious diseases, we're dealing with living systems.
+944.33	We're dealing with living systems;
+946.33	we're dealing with systems that evolve.
+948.33	And so if you do something with those systems,
+950.33	they're going to evolve one way or another.
+952.33	And all I'm saying is that we need to figure out how they'll evolve,
+955.33	so that -- we need to adjust our interventions
+957.33	to get the most bang for the intervention buck,
+960.33	so that we can get these organisms to evolve in the direction we want them to go.
+963.33	So, I don't really have time to talk about those things,
+965.33	but I did want to put them up there,
+967.33	just to give you a sense that there really are solutions
+970.33	to controlling the evolution of harmfulness
+973.33	of some of the nasty pathogens that we're confronted with.
+979.33	And this links up with a lot of the other ideas that have been talked about.
+983.33	So, for example, earlier today there was discussion of,
+988.33	how do you really lower sexual transmission of HIV?
+994.33	What this emphasizes is that we need to figure out how it will work.
+997.33	Will it maybe get lowered if we alter the economy of the area?
+1000.33	It may get lowered if we intervene in ways that
+1002.33	encourage people to stay more faithful to partners, and so on.
+1006.33	But the key thing is to figure out how to lower it,
+1008.33	because if we lower it, we'll get an evolutionary change in the virus.
+1011.33	And the data really do support this:
+1013.33	that you actually do get the virus evolving towards mildness.
+1016.33	And that will just add to the effectiveness of our control efforts.
+1021.33	So the other thing I really like about this,
+1023.33	besides the fact that it brings a whole new dimension
+1025.33	into the study of control of disease,
+1029.33	is that often the kinds of interventions that you want,
+1032.33	that it indicates should be done,
+1034.33	are the kinds of interventions that people want anyhow.
+1036.33	But people just haven't been able to justify the cost.
+1039.33	So, this is the kind of thing I'm talking about.
+1042.33	If we know that we're going to get extra bang for the buck from providing clean water,
+1045.33	then I think that we can say,
+1047.33	let's push the effort into that aspect of the control,
+1051.33	so that we can actually solve the problem,
+1054.33	even though, if you just look at the frequency of infection,
+1057.33	you would suggest that you can't solve the problem well enough
+1061.33	just by cleaning up water supply.
+1063.33	Anyhow, I'll end that there, and thank you very much.
+1065.33	(Applause)

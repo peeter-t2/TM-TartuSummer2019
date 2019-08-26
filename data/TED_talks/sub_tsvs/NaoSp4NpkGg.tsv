@@ -1,0 +1,292 @@
+startsecond	text
+15.26	Do you know
+17.26	that we have 1.4 million cellular radio masts
+20.26	deployed worldwide?
+22.26	And these are base stations.
+24.26	And we also have
+26.26	more than five billion
+28.26	of these devices here.
+30.26	These are cellular mobile phones.
+33.26	And with these mobile phones,
+35.26	we transmit more than 600 terabytes of data
+37.26	every month.
+39.26	This is a 6 with 14 zeroes --
+41.26	a very large number.
+43.26	And wireless communications
+46.26	has become a utility
+49.26	like electricity and water.
+51.26	We use it everyday. We use it in our everyday lives now --
+54.26	in our private lives, in our business lives.
+56.26	And we even have to be asked sometimes, very kindly,
+60.26	to switch off the mobile phone at events like this
+62.26	for good reasons.
+65.26	And it's this importance
+67.26	why I decided to look into the issues
+69.26	that this technology has,
+71.26	because it's so fundamental to our lives.
+74.26	And one of the issues is capacity.
+76.26	The way we transmit wireless data is by using electromagnetic waves --
+79.26	in particular, radio waves.
+82.26	And radio waves are limited.
+84.26	They are scarce; they are expensive;
+86.26	and we only have a certain range of it.
+90.26	And it's this limitation
+92.26	that doesn't cope
+94.26	with the demand of wireless data transmissions
+96.26	and the number of bytes and data which are transmitted every month.
+99.26	And we are simply running out of spectrum.
+101.26	There's another problem.
+103.26	That is efficiency.
+105.26	These 1.4 million cellular radio masts, or base stations,
+108.26	consume a lot of energy.
+110.26	And mind you, most of the energy
+112.26	is not used to transmit the radio waves,
+114.26	it is used to cool the base stations.
+117.26	Then the efficiency of such a base station
+119.26	is only at about five percent.
+122.26	And that creates a big problem.
+125.26	Then there's another issue that you're all aware of.
+128.26	You have to switch off your mobile phone
+130.26	during flights.
+132.26	In hospitals, they are security issues.
+135.26	And security is another issue.
+138.26	These radio waves penetrate through walls.
+140.26	They can be intercepted,
+142.26	and somebody can make use of your network
+145.26	if he has bad intentions.
+147.26	So these are the main four issues.
+149.26	But on the other hand,
+151.26	we have 14 billion of these:
+153.26	light bulbs, light.
+156.26	And light is part of the electromagnetic spectrum.
+159.26	So let's look at this in the context
+161.26	of the entire electromagnetic spectrum, where we have gamma rays.
+164.26	You don't want to get close to gamma rays, it could be dangerous.
+166.26	X-rays, useful when you go to hospitals.
+169.26	Then there's ultraviolet light.
+171.26	it's good for a nice suntan,
+173.26	but otherwise dangerous for the human body.
+175.26	Infrared --
+177.26	due to eye safety regulations,
+179.26	can be only used with low power.
+181.26	And then we have the radio waves, they have the issues I've just mentioned.
+184.26	And in the middle there, we have this visible light spectrum.
+187.26	It's light,
+189.26	and light has been around for many millions of years.
+191.26	And in fact, it has created us,
+194.26	has created life,
+196.26	has created all the stuff of life.
+198.26	So it's inherently safe to use.
+201.26	And wouldn't it be great to use that for wireless communications?
+205.26	Not only that, I compared [it to] the entire spectrum.
+208.26	I compared the radio waves spectrum --
+210.26	the size of it --
+212.26	with the size of the visible light spectrum.
+214.26	And guess what?
+216.26	We have 10,000 times more of that spectrum,
+219.26	which is there for us to use.
+222.26	So not only do we have this huge amount of spectrum,
+225.26	let's compare that with a number I've just mentioned.
+227.26	We have 1.4 million
+229.26	expensively deployed,
+231.26	inefficient radio cellular base stations.
+234.26	And multiply that by 10,000,
+236.26	then you end up at 14 billion.
+241.26	So we have the infrastructure there.
+243.26	Look at the ceiling, you see all these light bulbs.
+246.26	Go to the main floor, you see these light bulbs.
+248.26	Can we use them for communications?
+250.26	Yes.
+252.26	What do we need to do?
+254.26	The one thing we need to do
+256.26	is we have to replace these inefficient incandescent light bulbs,
+259.26	florescent lights,
+262.26	with this new technology of LED,
+264.26	LED light bulbs.
+266.26	An LED is a semiconductor. It's an electronic device.
+268.26	And it has a very nice acute property.
+272.26	Its intensity can be modulated
+275.26	at very high speeds,
+277.26	and it can be switched off at very high speeds.
+280.26	And this is a fundamental basic property
+282.26	that we exploit
+284.26	with our technology.
+287.26	So let's show how we do that.
+289.26	Let's go to the closest neighbor to the visible light spectrum --
+291.26	go to remote controls.
+293.26	You all know remote controls have an infrared LED --
+295.26	basically you switch on the LED, and if it's off, you switch it off.
+298.26	And it creates a simple, low-speed data stream
+301.26	in 10,000 bits per second,
+305.26	Not usable for a YouTube video.
+307.26	What we have done
+309.26	is we have developed a technology
+312.26	with which we can furthermore
+315.26	replace the remote control of our light bulb.
+317.26	We transmit with our technology,
+319.26	not only a single data stream,
+321.26	we transmit thousands of data streams
+323.26	in parallel,
+325.26	at even higher speeds.
+327.26	And the technology we have developed --
+329.26	it's called SIM OFDM.
+331.26	And it's spacial modulation --
+333.26	these are the only technical terms, I'm not going into details --
+336.26	but this is how we enabled
+338.26	that light source
+340.26	to transmit data.
+343.26	"You will say, ""Okay, this is nice --"
+346.26	"a slide created in 10 minutes."""
+348.26	But not only that.
+350.26	What we've done
+352.26	is we have also developed a demonstrator.
+355.26	And I'm showing for the first time in public
+357.26	this visible light demonstrator.
+359.26	And what we have here
+361.26	is no ordinary desk lamp.
+364.26	We fit in an LED light bulb,
+366.26	worth three U.S. dollars,
+369.26	put in our signal processing technology.
+371.26	And then what we have here is a little hole.
+374.26	And the light goes through that hole.
+376.26	There's a receiver.
+378.26	The receiver will convert these little, subtle changes in the amplitude
+381.26	that we create there
+383.26	into an electrical signal.
+385.26	And that signal is then converted back
+387.26	to a high-speed data stream.
+389.26	In the future we hope
+391.26	that we can integrate this little hole
+393.26	into these smart phones.
+396.26	And not only integrate a photo detector here,
+399.26	but maybe use the camera inside.
+403.26	So what happens
+405.26	when I switch on that light?
+410.26	As you would expect,
+412.26	it's a light, a desk lamp.
+414.26	Put your book beneath it and you can read.
+417.26	It's illuminating the space.
+419.26	But at the same time, you see this video coming up here.
+423.26	And that's a video, a high-definition video
+426.26	that is transmitted through that light beam.
+428.26	You're critical.
+430.26	"You think, ""Ha, ha, ha."
+432.26	"This is a smart academic doing a little bit of tricks here."""
+435.26	But let me do this.
+439.26	(Applause)
+444.26	Once again.
+447.26	Still don't believe?
+450.26	It is this light
+452.26	that transmits this high-definition video in a split stream.
+456.26	And if you look at the light,
+459.26	it is illuminating as you would expect.
+461.26	You don't notice with your human eye.
+463.26	You don't notice the subtle changes in the amplitude
+466.26	that we impress onto this light bulb.
+469.26	It's serving the purpose of illumination,
+471.26	but at the same time, we are able to transmit this data.
+474.26	And you see,
+476.26	even light from the ceiling comes down here to the receiver.
+479.26	It can ignore that constant light,
+482.26	because all the receiver's interested in
+484.26	are subtle changes.
+489.26	You also have a critical question now, and
+491.26	"you say, ""Okay,"
+493.26	do I have to have the light on all the time
+495.26	"to have this working?"""
+497.26	And the answer is yes.
+499.26	But, you can dim down the light
+503.26	to a level that it appears to be off.
+505.26	And you are still able to transmit data -- that's possible.
+508.26	So I've mentioned to you the four challenges.
+511.26	Capacity:
+513.26	We have 10,000 times more spectrum,
+517.26	installed already in the infrastructure there.
+519.26	You would agree with me, hopefully,
+521.26	there's no issue of capacity anymore.
+523.26	Efficiency:
+525.26	This is data through illumination --
+527.26	it's first of all an illumination device.
+529.26	And if you do the energy budget,
+532.26	the data transmission comes for free --
+534.26	highly energy efficient.
+536.26	I don't mention the high energy efficiency
+538.26	of these LED light bulbs.
+540.26	If the whole world would deploy them,
+542.26	you would save hundreds of power plants.
+545.26	That's aside.
+547.26	And then I've mentioned the availability.
+549.26	You will agree with me that we have lights in the hospital.
+552.26	You need to see what to do.
+554.26	You have lights in an aircraft.
+556.26	So it's everywhere in a day there is light.
+558.26	Look around. Everywhere. Look at your smart phone.
+561.26	It has a flashlight, an LED flashlight.
+563.26	These are potential sources for high-speed data transmission.
+567.26	And then there's security.
+570.26	You would agree with me
+572.26	that light doesn't penetrate through walls.
+575.26	So no one, if I have a light here,
+577.26	if I have secure data,
+579.26	no one on the other side of this room through that wall
+581.26	would be able to read that data.
+583.26	And there's only data where there is light.
+586.26	So if I don't want that receiver to receive the data,
+590.26	then what I could do,
+594.26	turn it away.
+597.26	So the data goes in that direction, not there anymore.
+599.26	Now we can in fact see where the data is going to.
+605.26	So for me,
+608.26	the applications of it,
+611.26	to me, are beyond imagination at the moment.
+615.26	We have had a century of very nice, smart application developers.
+619.26	And you only have to notice, where we have light,
+622.26	there is a potential way to transmit data.
+625.26	But I can give you a few examples.
+628.26	Well you may see the impact already now.
+632.26	This is a remote operated vehicle
+634.26	beneath the ocean.
+636.26	And they use light to illuminate space down there.
+639.26	And this light can be used to transmit wireless data
+641.26	that these things [use] to communicate with each other.
+644.26	Intrinsically safe environments
+646.26	like this petrochemical plant --
+648.26	you can't use RF, it may generate antenna sparks,
+651.26	but you can use light -- you see plenty of light there.
+654.26	In hospitals,
+656.26	for new medical instruments;
+659.26	in streets for traffic control.
+662.26	Cars have LED-based headlights, LED-based back lights,
+665.26	and cars can communicate with each other
+667.26	and prevent accidents
+670.26	in the way that they exchange information.
+673.26	Traffic lights can communicate to the car and so on.
+676.26	And then you have these millions of street lamps
+679.26	deployed around the world.
+682.26	And every street lamp could be a free access point.
+684.26	We call it, in fact, a Li-Fi,
+686.26	light-fidelity.
+688.26	And then we have these aircraft cabins.
+692.26	There are hundreds of lights in an aircraft cabin,
+696.26	and each of these lights
+698.26	could be a potential transmitter of wireless data.
+701.26	So you could enjoy your most favorite TED video
+704.26	on your long flight back home.
+706.26	Online life. So that is a vision, I think, that is possible.
+715.26	So, all we would need to do
+717.26	is to fit a small microchip
+719.26	to every potential illumination device.
+722.26	And this would then combine
+725.26	two basic functionalities:
+727.26	illumination and wireless data transmission.
+729.26	And it's this symbiosis that I personally believe
+732.26	could solve the four essential problems
+734.26	that face us in wireless communication these days.
+737.26	And in the future,
+739.26	you would not only have 14 billion light bulbs,
+742.26	you may have 14 billion Li-Fis
+745.26	deployed worldwide --
+747.26	for a cleaner, a greener,
+749.26	and even a brighter future.
+751.26	Thank you.
+753.26	(Applause)

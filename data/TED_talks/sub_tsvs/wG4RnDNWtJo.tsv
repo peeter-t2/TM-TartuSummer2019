@@ -1,0 +1,259 @@
+startsecond	text
+12.999	Over a million people are killed
+12.999	each year in disasters.
+17.999	Two and a half million people
+17.999	will be permanently disabled or displaced,
+23.257	and the communities will take
+27.205	and billions of economic losses.
+31.054	If you can reduce
+31.054	the initial response by one day,
+35.449	you can reduce the overall recovery
+39	by a thousand days, or three years.
+41.832	See how that works?
+43.609	If the initial responders
+43.609	can get in, save lives,
+46.483	mitigate whatever flooding
+46.483	danger there is,
+49.023	that means the other groups can get in
+51.331	to restore the water,
+51.331	the roads, the electricity,
+54.34	which means then the construction people,
+54.34	the insurance agents,
+57.48	all of them can get in
+57.48	to rebuild the houses,
+60.118	which then means
+60.118	you can restore the economy,
+63.13	and maybe even make it better
+63.13	and more resilient to the next disaster.
+69.899	A major insurance company told me
+71.719	that if they can get a homeowner's claim
+71.719	processed one day earlier,
+76.855	it'll make a difference of six months
+78.999	in that person getting
+78.999	their home repaired.
+82.118	And that's why I do disaster robotics --
+84.471	because robots can
+84.471	make a disaster go away faster.
+90.305	Now, you've already seen
+90.305	a couple of these.
+92.346	These are the UAVs.
+94.09	These are two types of UAVs:
+95.975	a rotorcraft, or hummingbird;
+97.864	a fixed-wing, a hawk.
+99.958	And they're used extensively since 2005 --
+103.372	Hurricane Katrina.
+104.571	Let me show you how this hummingbird,
+104.571	this rotorcraft, works.
+107.919	Fantastic for structural engineers.
+110.999	Being able to see damage from angles you
+110.999	can't get from binoculars on the ground
+115.443	or from a satellite image,
+116.777	or anything flying at a higher angle.
+120.53	But it's not just structural engineers
+120.53	and insurance people who need this.
+124.926	You've got things
+124.926	like this fixed-wing, this hawk.
+127.417	Now, this hawk can be used
+127.417	for geospatial surveys.
+130.712	That's where you're
+130.712	pulling imagery together
+133.585	and getting 3D reconstruction.
+135.434	We used both of these at the Oso mudslides
+135.434	up in Washington State,
+139.532	because the big problem
+141.755	was geospatial and hydrological
+141.755	understanding of the disaster --
+144.937	not the search and rescue.
+146.207	The search and rescue teams
+146.207	had it under control
+148.55	and knew what they were doing.
+150.052	The bigger problem was that river
+150.052	and mudslide might wipe them out
+153.946	and flood the responders.
+155.464	And not only was it challenging
+155.464	to the responders and property damage,
+159.23	it's also putting at risk
+159.23	the future of salmon fishing
+162.533	along that part of Washington State.
+164.273	So they needed to understand
+164.273	what was going on.
+166.773	In seven hours, going from Arlington,
+169.406	driving from the Incident Command Post
+169.406	to the site, flying the UAVs,
+174.244	processing the data, driving back
+174.244	to Arlington command post --
+177.999	seven hours.
+179.429	We gave them in seven hours
+179.429	data that they could take
+182.987	only two to three days
+182.987	to get any other way --
+186.761	and at higher resolution.
+189.064	It's a game changer.
+191.773	And don't just think about the UAVs.
+193.866	I mean, they are sexy -- but remember,
+	population lives by water,
+199.878	and that means our critical
+199.878	infrastructure is underwater --
+202.766	the parts that we can't get to,
+202.766	like the bridges and things like that.
+206.076	And that's why we have
+206.076	unmanned marine vehicles,
+208.692	one type of which you've already met,
+208.692	which is SARbot, a square dolphin.
+213.168	It goes underwater and uses sonar.
+215.888	Well, why are marine vehicles so important
+218.245	and why are they very, very important?
+221.393	They get overlooked.
+222.933	Think about the Japanese tsunami --
+229.349	twice the amount of coastland devastated
+229.349	by Hurricane Katrina in the United States.
+234.069	You're talking about your bridges,
+234.069	your pipelines, your ports -- wiped out.
+237.949	And if you don't have a port,
+239.585	you don't have a way
+239.585	to get in enough relief supplies
+242.855	to support a population.
+244.1	That was a huge problem
+244.1	at the Haiti earthquake.
+247.565	So we need marine vehicles.
+249.711	Now, let's look at a viewpoint
+249.711	from the SARbot
+252.166	of what they were seeing.
+253.661	We were working on a fishing port.
+255.931	We were able to reopen that fishing port,
+255.931	using her sonar, in four hours.
+261.671	That fishing port was told
+261.671	it was going to be six months
+264.348	before they could get
+264.348	a manual team of divers in,
+267.078	and it was going to take
+267.078	the divers two weeks.
+269.789	They were going to miss
+269.789	the fall fishing season,
+272.107	which was the major economy for that part,
+272.107	which is kind of like their Cape Cod.
+276.357	UMVs, very important.
+278.649	But you know, all the robots
+278.649	I've shown you have been small,
+281.921	and that's because robots
+281.921	don't do things that people do.
+285.722	They go places people can't go.
+287.999	And a great example of that is Bujold.
+290.999	Unmanned ground vehicles
+290.999	are particularly small,
+293.999	so Bujold --
+295.341	(Laughter)
+296.873	Say hello to Bujold.
+298.08	(Laughter)
+301.606	Bujold was used extensively
+301.606	at the World Trade Center
+304.999	to go through Towers 1, 2 and 4.
+307.403	You're climbing into the rubble,
+307.403	rappelling down, going deep in spaces.
+312.072	And just to see the World Trade Center
+312.072	from Bujold's viewpoint, look at this.
+316.655	You're talking about a disaster
+316.655	where you can't fit a person or a dog --
+321.748	and it's on fire.
+323.914	The only hope of getting
+323.914	to a survivor way in the basement,
+327.672	you have to go through things
+327.672	that are on fire.
+329.891	It was so hot, on one of the robots,
+329.891	the tracks began to melt and come off.
+335.161	Robots don't replace people or dogs,
+337.973	or hummingbirds or hawks or dolphins.
+340.518	They do things new.
+342.578	They assist the responders,
+342.578	the experts, in new and innovative ways.
+348.291	The biggest problem is not
+348.291	making the robots smaller, though.
+352.744	It's not making them more heat-resistant.
+354.999	It's not making more sensors.
+356.78	The biggest problem is the data,
+356.78	the informatics,
+360.414	because these people need to get
+360.414	the right data at the right time.
+364.474	So wouldn't it be great if we could have
+364.474	experts immediately access the robots
+369.999	without having to waste any time
+369.999	of driving to the site,
+372.999	so whoever's there,
+372.999	use their robots over the Internet.
+375.956	Well, let's think about that.
+377.362	Let's think about a chemical
+377.362	train derailment in a rural county.
+380.758	What are the odds that the experts,
+380.758	your chemical engineer,
+384.624	your railroad transportation engineers,
+386.51	have been trained on whatever UAV
+386.51	that particular county happens to have?
+391.395	Probably, like, none.
+392.952	So we're using these kinds of interfaces
+395.366	to allow people to use the robots
+395.366	without knowing what robot they're using,
+399.73	or even if they're using a robot or not.
+404.252	What the robots give you,
+404.252	what they give the experts, is data.
+410.31	The problem becomes:
+410.31	who gets what data when?
+413.914	One thing to do is to ship
+413.914	all the information to everybody
+417.831	and let them sort it out.
+419.367	Well, the problem with that
+419.367	is it overwhelms the networks,
+423.247	and worse yet, it overwhelms
+423.247	the cognitive abilities
+426.957	of each of the people trying to get
+426.957	that one nugget of information
+431.49	they need to make the decision
+431.49	that's going to make the difference.
+435.999	So we need to think
+435.999	about those kinds of challenges.
+439.117	So it's the data.
+440.406	Going back to the World Trade Center,
+442.666	we tried to solve that problem
+442.666	by just recording the data from Bujold
+446.999	only when she was deep in the rubble,
+448.999	because that's what the USAR team
+448.999	said they wanted.
+452.523	What we didn't know at the time
+455.135	was that the civil engineers
+455.135	would have loved,
+457.757	needed the data as we recorded
+457.757	the box beams, the serial numbers,
+461.999	the locations, as we went into the rubble.
+465.343	We lost valuable data.
+466.834	So the challenge is getting all the data
+469.237	and getting it to the right people.
+471.441	Now, here's another reason.
+473.542	We've learned that some buildings --
+475.877	things like schools,
+475.877	hospitals, city halls --
+479.173	get inspected four times
+479.173	by different agencies
+483.216	throughout the response phases.
+486.156	Now, we're looking, if we can get
+486.156	the data from the robots to share,
+489.449	not only can we do things like
+489.449	compress that sequence of phases
+494.323	to shorten the response time,
+496	but now we can begin
+496	to do the response in parallel.
+500.382	Everybody can see the data.
+501.785	We can shorten it that way.
+503.999	"So really, ""disaster robotics"""
+503.999	is a misnomer.
+508.227	It's not about the robots.
+510.146	It's about the data.
+512.433	(Applause)
+515.787	So my challenge to you:
+517.768	the next time you hear about a disaster,
+520.092	look for the robots.
+521.441	They may be underground,
+521.441	they may be underwater,
+524.59	they may be in the sky,
+526.308	but they should be there.
+528.297	Look for the robots,
+529.488	because robots are coming to the rescue.
+532.259	(Applause)

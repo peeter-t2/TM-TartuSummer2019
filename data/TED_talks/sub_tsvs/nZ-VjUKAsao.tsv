@@ -1,0 +1,221 @@
+startsecond	text
+12.906	I've been intrigued by this question
+15.091	of whether we could evolve
+15.091	or develop a sixth sense --
+19.542	a sense that would give us seamless access
+23.16	and easy access to meta-information
+23.16	or information that may exist somewhere
+29.16	that may be relevant to help us
+29.16	make the right decision
+32.16	about whatever it is
+32.16	that we're coming across.
+36.024	And some of you may argue,
+38.16	"""Well, don't today's cell phones"
+38.16	"do that already?"""
+41.446	But I would say no.
+43.16	When you meet someone here at TED --
+45.16	and this is the top networking place,
+45.16	of course, of the year --
+49.223	you don't shake somebody's hand
+51.105	and then say,
+51.105	"""Can you hold on for a moment"
+53.16	"while I take out my phone and Google you?"""
+56.27	Or when you go to the supermarket
+59.16	and you're standing there
+59.16	in that huge aisle
+61.993	of different types of toilet papers,
+64.533	you don't take out your cell phone,
+64.533	and open a browser,
+68.16	and go to a website to try to decide
+68.16	which of these different toilet papers
+73.16	is the most ecologically
+73.16	responsible purchase to make.
+77.244	So we don't really have easy access
+77.244	to all this relevant information
+81.16	that can just help us
+81.16	make optimal decisions
+85.154	about what to do next
+85.154	and what actions to take.
+88.331	And so my research group at the Media Lab
+91.16	has been developing a series of inventions
+96.044	to give us access to this information
+96.044	in a sort of easy way,
+100.645	without requiring that the user
+100.645	changes any of their behavior.
+105.641	And I'm here to unveil our latest effort,
+110.16	and most successful effort so far,
+112.16	which is still very much
+112.16	a work in process.
+114.994	I'm actually wearing the device right now
+114.994	and we've sort of cobbled it together
+120.16	with components that are off the shelf --
+123.842	and that, by the way, only cost
+128.762	I'm wearing a camera,
+128.762	just a simple web cam,
+132.742	a portable, battery-powered
+132.742	projection system with a little mirror.
+138.514	These components communicate
+138.514	to my cell phone in my pocket
+142.609	which acts as the communication
+142.609	and computation device.
+146.914	And in the video here we see
+146.914	my student Pranav Mistry,
+150.858	who's really the genius
+150.858	who's been implementing
+153.16	and designing this whole system.
+155.551	And we see how this system
+155.551	lets him walk up to any surface
+161.16	and start using his hands
+161.16	to interact with the information
+165.16	that is projected in front of him.
+167.876	The system tracks
+167.876	the four significant fingers.
+171.998	In this case, he's wearing
+171.998	simple marker caps
+175.688	that you may recognize.
+177.16	But if you want a more stylish version,
+179.874	you could also paint your nails
+179.874	in different colors.
+183.575	And the camera basically
+183.575	tracks these four fingers
+187.16	and recognizes any gestures
+187.16	that he's making
+191.023	so he can just go to,
+191.023	for example, a map of Long Beach,
+195.549	zoom in and out, etc.
+197.811	The system also recognizes iconic gestures
+197.811	"such as the ""take a picture"" gesture,"
+203.929	and then takes a picture
+203.929	of whatever is in front of you.
+207.371	And when he then walks
+207.371	back to the Media Lab,
+210.16	he can just go up to any wall
+212.629	and project all the pictures
+212.629	that he's taken,
+215.565	sort through them and organize them,
+215.565	and re-size them, etc.,
+219.16	again using all natural gestures.
+223.008	So, some of you most likely
+223.008	were here two years ago
+227.091	and saw the demo by Jeff Han,
+227.091	or some of you may think,
+231.369	"""Well, doesn't this look like"
+231.369	"the Microsoft Surface Table?"""
+234.764	And yes, you also interact
+234.764	using natural gestures,
+239.16	both hands, etc.
+241.16	But the difference here
+241.16	is that you can use any surface,
+244.16	you can walk up to any surface,
+247.16	including your hand,
+247.16	if nothing else is available,
+250.16	and interact with this projected data.
+253.681	The device is completely
+253.681	portable, and can be --
+258.16	(Applause)
+263.728	(Applause ends)
+265.565	So, one important difference
+265.565	is that it's totally mobile.
+269.16	Another even more important
+269.16	difference is that in mass production,
+273.918	this would not cost more tomorrow
+273.918	than today's cell phones
+277.607	and would actually not
+277.607	sort of be a bigger packaging --
+281.609	could look a lot more stylish
+283.655	than this version
+283.655	that I'm wearing around my neck.
+288.293	But other than letting some of you
+288.293	live out your fantasy
+293.063	of looking as cool as Tom Cruise
+293.063	"in ""Minority Report,"""
+297.018	the reason why we're really
+297.018	excited about this device
+301.06	is that it really can act
+301.06	as one of these sixth-sense devices
+306.916	that gives you relevant information
+306.916	about whatever is in front of you.
+312.192	So we see Pranav here
+312.192	going into the supermarket
+316.16	and he's shopping for some paper towels.
+319.524	And, as he picks up a product,
+321.452	the system can recognize
+321.452	the product that he's picking up,
+324.53	using either image recognition
+324.53	or marker technology,
+328.79	and give him the green light
+328.79	or an orange light.
+331.788	He can ask for additional information.
+334.722	So this particular choice here
+338.507	is a particularly good choice,
+338.507	given his personal criteria.
+342.16	Some of you may want the toilet paper
+342.16	with the most bleach in it
+346.16	rather than the most ecologically
+346.16	responsible choice.
+349.755	(Laughter)
+352.932	If he picks up a book in the bookstore,
+352.932	he can get an Amazon rating --
+357.664	it gets projected
+357.664	right on the cover of the book.
+360.3	This is Juan's book, our previous speaker,
+364.16	which gets a great rating,
+364.16	by the way, at Amazon.
+366.892	And so, Pranav turns the page of the book
+369.16	and can then see additional
+369.16	information about the book --
+372.916	reader comments, maybe sort of information
+372.916	by his favorite critic, etc.
+379.16	If he turns to a particular page,
+381.16	he finds an annotation by maybe
+381.16	an expert or a friend of ours
+385.477	that gives him a little bit
+385.477	of additional information
+388.323	about whatever is on that particular page.
+391.372	Reading the newspaper --
+391.372	it never has to be outdated.
+395.773	(Laughter)
+397.16	You can get video annotations
+397.16	of the events that you're reading about.
+401.973	You can get the latest sports scores, etc.
+406.044	This is a more controversial one.
+408.16	(Laughter)
+409.835	As you interact with someone at TED,
+412.16	maybe you can see
+412.16	a word cloud of the tags,
+416.16	the words that are associated
+416.16	with that person
+418.912	in their blog and personal web pages.
+421.684	In this case, the student
+421.684	is interested in cameras, etc.
+426.861	On your way to the airport,
+428.841	if you pick up your boarding pass, it can
+428.841	tell you that your flight is delayed,
+432.934	that the gate has changed, etc.
+435.594	And, if you need to know
+435.594	what the current time is,
+438.738	it's as simple as drawing a watch --
+442.16	(Laughter)
+443.389	(Applause)
+444.548	on your arm.
+447.774	So that's where we're at so far
+447.774	in developing this sixth sense
+454.16	that would give us seamless access
+454.16	to all this relevant information
+458.91	about the things that we may come across.
+461.752	My student Pranav, who's really,
+461.752	like I said, the genius behind this.
+466.17	(Applause and cheering)
+487.005	(Applause ends)
+488.16	He does deserve a lot of applause,
+491.16	because I don't think he's slept much
+491.16	in the last three months, actually.
+495.532	And his girlfriend is probably
+495.532	not very happy about him either.
+498.958	But it's not perfect yet,
+498.958	it's very much a work in progress.
+503.837	And who knows, maybe in another 10 years
+506.794	we'll be here with the ultimate
+506.794	sixth sense brain implant.
+511.16	Thank you.
+512.231	(Applause)

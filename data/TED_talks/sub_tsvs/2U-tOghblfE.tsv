@@ -1,0 +1,447 @@
+startsecond	text
+16.26	For me, this story begins about 15 years ago,
+19.26	when I was a hospice doctor at the University of Chicago.
+22.26	And I was taking care of people who were dying and their families
+25.26	in the South Side of Chicago.
+27.26	And I was observing what happened to people and their families
+30.26	over the course of their terminal illness.
+33.26	And in my lab, I was studying the widower effect,
+35.26	which is a very old idea in the social sciences,
+37.26	going back 150 years,
+39.26	"known as ""dying of a broken heart."""
+41.26	So, when I die, my wife's risk of death can double,
+44.26	for instance, in the first year.
+46.26	And I had gone to take care of one particular patient,
+49.26	a woman who was dying of dementia.
+51.26	And in this case, unlike this couple,
+53.26	she was being cared for
+55.26	by her daughter.
+57.26	And the daughter was exhausted from caring for her mother.
+60.26	And the daughter's husband,
+62.26	he also was sick
+65.26	from his wife's exhaustion.
+67.26	And I was driving home one day,
+69.26	and I get a phone call from the husband's friend,
+72.26	calling me because he was depressed
+74.26	about what was happening to his friend.
+76.26	So here I get this call from this random guy
+78.26	that's having an experience
+80.26	that's being influenced by people
+82.26	at some social distance.
+84.26	And so I suddenly realized two very simple things:
+87.26	First, the widowhood effect
+89.26	was not restricted to husbands and wives.
+92.26	And second, it was not restricted to pairs of people.
+95.26	And I started to see the world
+97.26	in a whole new way,
+99.26	like pairs of people connected to each other.
+102.26	And then I realized that these individuals
+104.26	would be connected into foursomes with other pairs of people nearby.
+107.26	And then, in fact, these people
+109.26	were embedded in other sorts of relationships:
+111.26	marriage and spousal
+113.26	and friendship and other sorts of ties.
+115.26	And that, in fact, these connections were vast
+118.26	and that we were all embedded in this
+120.26	broad set of connections with each other.
+123.26	So I started to see the world in a completely new way
+126.26	and I became obsessed with this.
+128.26	I became obsessed with how it might be
+130.26	that we're embedded in these social networks,
+132.26	and how they affect our lives.
+134.26	So, social networks are these intricate things of beauty,
+137.26	and they're so elaborate and so complex
+139.26	and so ubiquitous, in fact,
+141.26	that one has to ask what purpose they serve.
+144.26	Why are we embedded in social networks?
+146.26	I mean, how do they form? How do they operate?
+148.26	And how do they effect us?
+150.26	So my first topic with respect to this,
+153.26	was not death, but obesity.
+156.26	It had become trendy
+158.26	"to speak about the ""obesity epidemic."""
+160.26	And, along with my collaborator, James Fowler,
+163.26	we began to wonder whether obesity really was epidemic
+166.26	and could it spread from person to person
+168.26	like the four people I discussed earlier.
+171.26	So this is a slide of some of our initial results.
+174.26	It's 2,200 people in the year 2000.
+177.26	Every dot is a person. We make the dot size
+179.26	proportional to people's body size;
+181.26	so bigger dots are bigger people.
+184.26	In addition, if your body size,
+186.26	if your BMI, your body mass index, is above 30 --
+188.26	if you're clinically obese --
+190.26	we also colored the dots yellow.
+192.26	So, if you look at this image, right away you might be able to see
+194.26	that there are clusters of obese and
+196.26	non-obese people in the image.
+198.26	But the visual complexity is still very high.
+201.26	It's not obvious exactly what's going on.
+204.26	In addition, some questions are immediately raised:
+206.26	How much clustering is there?
+208.26	Is there more clustering than would be due to chance alone?
+211.26	How big are the clusters? How far do they reach?
+213.26	And, most importantly,
+215.26	what causes the clusters?
+217.26	So we did some mathematics to study the size of these clusters.
+220.26	This here shows, on the Y-axis,
+222.26	the increase in the probability that a person is obese
+225.26	given that a social contact of theirs is obese
+227.26	and, on the X-axis, the degrees of separation between the two people.
+230.26	On the far left, you see the purple line.
+232.26	It says that, if your friends are obese,
+234.26	your risk of obesity is 45 percent higher.
+237.26	And the next bar over, the [red] line,
+239.26	says if your friend's friends are obese,
+241.26	your risk of obesity is 25 percent higher.
+243.26	And then the next line over says
+245.26	if your friend's friend's friend, someone you probably don't even know, is obese,
+248.26	your risk of obesity is 10 percent higher.
+251.26	And it's only when you get to your friend's friend's friend's friends
+254.26	that there's no longer a relationship
+256.26	between that person's body size and your own body size.
+260.26	Well, what might be causing this clustering?
+263.26	There are at least three possibilities:
+265.26	One possibility is that, as I gain weight,
+267.26	it causes you to gain weight.
+269.26	A kind of induction, a kind of spread from person to person.
+272.26	Another possibility, very obvious, is homophily,
+274.26	or, birds of a feather flock together;
+276.26	here, I form my tie to you
+278.26	because you and I share a similar body size.
+281.26	And the last possibility is what is known as confounding,
+283.26	because it confounds our ability to figure out what's going on.
+286.26	And here, the idea is not that my weight gain
+288.26	is causing your weight gain,
+290.26	nor that I preferentially form a tie with you
+292.26	because you and I share the same body size,
+294.26	but rather that we share a common exposure
+296.26	to something, like a health club
+299.26	that makes us both lose weight at the same time.
+302.26	When we studied these data, we found evidence for all of these things,
+305.26	including for induction.
+307.26	And we found that if your friend becomes obese,
+309.26	it increases your risk of obesity by about 57 percent
+312.26	in the same given time period.
+314.26	There can be many mechanisms for this effect:
+317.26	One possibility is that your friends say to you something like --
+319.26	you know, they adopt a behavior that spreads to you --
+322.26	"like, they say, ""Let's go have muffins and beer,"""
+325.26	which is a terrible combination. (Laughter)
+328.26	But you adopt that combination,
+330.26	and then you start gaining weight like them.
+333.26	Another more subtle possibility
+335.26	is that they start gaining weight, and it changes your ideas
+338.26	of what an acceptable body size is.
+340.26	Here, what's spreading from person to person
+342.26	is not a behavior, but rather a norm:
+344.26	An idea is spreading.
+346.26	Now, headline writers
+348.26	had a field day with our studies.
+350.26	I think the headline in The New York Times was,
+352.26	"""Are you packing it on?"
+354.26	"Blame your fat friends."" (Laughter)"
+357.26	What was interesting to us is that the European headline writers
+359.26	had a different take: They said,
+361.26	"""Are your friends gaining weight? Perhaps you are to blame."""
+364.26	(Laughter)
+369.26	And we thought this was a very interesting comment on America,
+372.26	and a kind of self-serving,
+374.26	"""not my responsibility"" kind of phenomenon."
+376.26	Now, I want to be very clear: We do not think our work
+378.26	should or could justify prejudice
+380.26	against people of one or another body size at all.
+384.26	Our next questions was:
+386.26	Could we actually visualize this spread?
+389.26	Was weight gain in one person actually spreading
+391.26	to weight gain in another person?
+393.26	And this was complicated because
+395.26	we needed to take into account the fact that the network structure,
+398.26	the architecture of the ties, was changing across time.
+401.26	In addition, because obesity is not a unicentric epidemic,
+404.26	there's not a Patient Zero of the obesity epidemic --
+407.26	if we find that guy, there was a spread of obesity out from him --
+410.26	it's a multicentric epidemic.
+412.26	Lots of people are doing things at the same time.
+414.26	And I'm about to show you a 30 second video animation
+417.26	that took me and James five years of our lives to do.
+420.26	So, again, every dot is a person.
+422.26	Every tie between them is a relationship.
+424.26	We're going to put this into motion now,
+426.26	taking daily cuts through the network for about 30 years.
+429.26	The dot sizes are going to grow,
+431.26	you're going to see a sea of yellow take over.
+434.26	You're going to see people be born and die --
+436.26	dots will appear and disappear --
+438.26	ties will form and break, marriages and divorces,
+441.26	friendings and defriendings.
+443.26	A lot of complexity, a lot is happening
+445.26	just in this 30-year period
+447.26	that includes the obesity epidemic.
+449.26	And, by the end, you're going to see clusters
+451.26	of obese and non-obese individuals
+453.26	within the network.
+455.26	Now, when looked at this,
+458.26	it changed the way I see things,
+461.26	because this thing, this network
+463.26	that's changing across time,
+465.26	it has a memory, it moves,
+468.26	things flow within it,
+470.26	it has a kind of consistency --
+472.26	people can die, but it doesn't die;
+474.26	it still persists --
+476.26	and it has a kind of resilience
+478.26	that allows it to persist across time.
+480.26	And so, I came to see these kinds of social networks
+483.26	as living things,
+485.26	as living things that we could put under a kind of microscope
+488.26	to study and analyze and understand.
+491.26	And we used a variety of techniques to do this.
+493.26	And we started exploring all kinds of other phenomena.
+496.26	We looked at smoking and drinking behavior,
+498.26	and voting behavior,
+500.26	and divorce -- which can spread --
+502.26	and altruism.
+504.26	And, eventually, we became interested in emotions.
+508.26	Now, when we have emotions,
+510.26	we show them.
+512.26	Why do we show our emotions?
+514.26	I mean, there would be an advantage to experiencing
+516.26	our emotions inside, you know, anger or happiness.
+519.26	But we don't just experience them, we show them.
+521.26	And not only do we show them, but others can read them.
+524.26	And, not only can they read them, but they copy them.
+526.26	There's emotional contagion
+528.26	that takes place in human populations.
+531.26	And so this function of emotions
+533.26	suggests that, in addition to any other purpose they serve,
+535.26	they're a kind of primitive form of communication.
+538.26	And that, in fact, if we really want to understand human emotions,
+541.26	we need to think about them in this way.
+543.26	Now, we're accustomed to thinking about emotions in this way,
+546.26	in simple, sort of, brief periods of time.
+549.26	So, for example,
+551.26	I was giving this talk recently in New York City,
+553.26	"and I said, ""You know when you're on the subway"
+555.26	and the other person across the subway car
+557.26	smiles at you,
+559.26	"and you just instinctively smile back?"""
+561.26	"And they looked at me and said, ""We don't do that in New York City."" (Laughter)"
+564.26	"And I said, ""Everywhere else in the world,"
+566.26	"that's normal human behavior."""
+568.26	And so there's a very instinctive way
+570.26	in which we briefly transmit emotions to each other.
+573.26	And, in fact, emotional contagion can be broader still.
+576.26	Like we could have punctuated expressions of anger,
+579.26	as in riots.
+581.26	The question that we wanted to ask was:
+583.26	Could emotion spread,
+585.26	in a more sustained way than riots, across time
+588.26	and involve large numbers of people,
+590.26	not just this pair of individuals smiling at each other in the subway car?
+593.26	Maybe there's a kind of below the surface, quiet riot
+596.26	that animates us all the time.
+598.26	Maybe there are emotional stampedes
+600.26	that ripple through social networks.
+602.26	Maybe, in fact, emotions have a collective existence,
+605.26	not just an individual existence.
+607.26	And this is one of the first images we made to study this phenomenon.
+610.26	Again, a social network,
+612.26	but now we color the people yellow if they're happy
+615.26	and blue if they're sad and green in between.
+618.26	And if you look at this image, you can right away see
+620.26	clusters of happy and unhappy people,
+622.26	again, spreading to three degrees of separation.
+624.26	And you might form the intuition
+626.26	that the unhappy people
+628.26	occupy a different structural location within the network.
+631.26	There's a middle and an edge to this network,
+633.26	and the unhappy people seem to be
+635.26	located at the edges.
+637.26	So to invoke another metaphor,
+639.26	if you imagine social networks as a kind of
+641.26	vast fabric of humanity --
+643.26	I'm connected to you and you to her, on out endlessly into the distance --
+646.26	this fabric is actually like
+648.26	an old-fashioned American quilt,
+650.26	and it has patches on it: happy and unhappy patches.
+653.26	And whether you become happy or not
+655.26	depends in part on whether you occupy a happy patch.
+658.26	(Laughter)
+660.26	So, this work with emotions,
+663.26	which are so fundamental,
+665.26	then got us to thinking about: Maybe
+667.26	the fundamental causes of human social networks
+669.26	are somehow encoded in our genes.
+671.26	Because human social networks, whenever they are mapped,
+674.26	always kind of look like this:
+676.26	the picture of the network.
+678.26	But they never look like this.
+680.26	Why do they not look like this?
+682.26	Why don't we form human social networks
+684.26	that look like a regular lattice?
+686.26	Well, the striking patterns of human social networks,
+689.26	their ubiquity and their apparent purpose
+692.26	beg questions about whether we evolved to have
+694.26	human social networks in the first place,
+696.26	and whether we evolved to form networks
+698.26	with a particular structure.
+700.26	And notice first of all -- so, to understand this, though,
+702.26	we need to dissect network structure a little bit first --
+705.26	and notice that every person in this network
+707.26	has exactly the same structural location as every other person.
+710.26	But that's not the case with real networks.
+713.26	So, for example, here is a real network of college students
+715.26	at an elite northeastern university.
+718.26	And now I'm highlighting a few dots.
+720.26	If you look here at the dots,
+722.26	compare node B in the upper left
+724.26	to node D in the far right;
+726.26	B has four friends coming out from him
+728.26	and D has six friends coming out from him.
+731.26	And so, those two individuals have different numbers of friends.
+734.26	That's very obvious, we all know that.
+736.26	But certain other aspects
+738.26	of social network structure are not so obvious.
+740.26	Compare node B in the upper left to node A in the lower left.
+743.26	Now, those people both have four friends,
+746.26	but A's friends all know each other,
+748.26	and B's friends do not.
+750.26	So the friend of a friend of A's
+752.26	is, back again, a friend of A's,
+754.26	whereas the friend of a friend of B's is not a friend of B's,
+756.26	but is farther away in the network.
+758.26	This is known as transitivity in networks.
+761.26	And, finally, compare nodes C and D:
+763.26	C and D both have six friends.
+766.26	"If you talk to them, and you said, ""What is your social life like?"""
+769.26	"they would say, ""I've got six friends."
+771.26	"That's my social experience."""
+773.26	But now we, with a bird's eye view looking at this network,
+776.26	can see that they occupy very different social worlds.
+779.26	And I can cultivate that intuition in you by just asking you:
+781.26	Who would you rather be
+783.26	if a deadly germ was spreading through the network?
+785.26	Would you rather be C or D?
+788.26	You'd rather be D, on the edge of the network.
+790.26	And now who would you rather be
+792.26	if a juicy piece of gossip -- not about you --
+795.26	was spreading through the network? (Laughter)
+797.26	Now, you would rather be C.
+799.26	So different structural locations
+801.26	have different implications for your life.
+803.26	And, in fact, when we did some experiments looking at this,
+806.26	what we found is that 46 percent of the variation
+809.26	in how many friends you have
+811.26	is explained by your genes.
+813.26	And this is not surprising. We know that some people are born shy
+816.26	and some are born gregarious. That's obvious.
+819.26	But we also found some non-obvious things.
+821.26	For instance, 47 percent in the variation
+824.26	in whether your friends know each other
+826.26	is attributable to your genes.
+828.26	Whether your friends know each other
+830.26	has not just to do with their genes, but with yours.
+833.26	And we think the reason for this is that some people
+835.26	like to introduce their friends to each other -- you know who you are --
+838.26	and others of you keep them apart and don't introduce your friends to each other.
+841.26	And so some people knit together the networks around them,
+844.26	creating a kind of dense web of ties
+846.26	in which they're comfortably embedded.
+848.26	And finally, we even found that
+852.26	in whether or not people are in the middle or on the edge of the network
+855.26	can also be attributed to their genes.
+857.26	So whether you find yourself in the middle or on the edge
+859.26	is also partially heritable.
+862.26	Now, what is the point of this?
+865.26	How does this help us understand?
+867.26	How does this help us
+869.26	figure out some of the problems that are affecting us these days?
+873.26	Well, the argument I'd like to make is that networks have value.
+876.26	They are a kind of social capital.
+879.26	New properties emerge
+881.26	because of our embeddedness in social networks,
+883.26	and these properties inhere
+886.26	in the structure of the networks,
+888.26	not just in the individuals within them.
+890.26	So think about these two common objects.
+892.26	They're both made of carbon,
+894.26	and yet one of them has carbon atoms in it
+897.26	that are arranged in one particular way -- on the left --
+900.26	and you get graphite, which is soft and dark.
+903.26	But if you take the same carbon atoms
+905.26	and interconnect them a different way,
+907.26	you get diamond, which is clear and hard.
+910.26	And those properties of softness and hardness and darkness and clearness
+913.26	do not reside in the carbon atoms;
+915.26	they reside in the interconnections between the carbon atoms,
+918.26	or at least arise because of the
+920.26	interconnections between the carbon atoms.
+922.26	So, similarly, the pattern of connections among people
+925.26	confers upon the groups of people
+928.26	different properties.
+930.26	It is the ties between people
+932.26	that makes the whole greater than the sum of its parts.
+935.26	And so it is not just what's happening to these people --
+938.26	whether they're losing weight or gaining weight, or becoming rich or becoming poor,
+941.26	or becoming happy or not becoming happy -- that affects us;
+944.26	it's also the actual architecture
+946.26	of the ties around us.
+948.26	Our experience of the world
+950.26	depends on the actual structure
+952.26	of the networks in which we're residing
+954.26	and on all the kinds of things that ripple and flow
+957.26	through the network.
+960.26	Now, the reason, I think, that this is the case
+963.26	is that human beings assemble themselves
+965.26	and form a kind of superorganism.
+969.26	Now, a superorganism is a collection of individuals
+972.26	which show or evince behaviors or phenomena
+975.26	that are not reducible to the study of individuals
+978.26	and that must be understood by reference to,
+980.26	and by studying, the collective.
+982.26	Like, for example, a hive of bees
+985.26	that's finding a new nesting site,
+988.26	or a flock of birds that's evading a predator,
+990.26	or a flock of birds that's able to pool its wisdom
+993.26	and navigate and find a tiny speck
+995.26	of an island in the middle of the Pacific,
+997.26	or a pack of wolves that's able
+999.26	to bring down larger prey.
+1002.26	Superorganisms have properties
+1004.26	that cannot be understood just by studying the individuals.
+1007.26	I think understanding social networks
+1009.26	and how they form and operate
+1011.26	can help us understand not just health and emotions
+1014.26	but all kinds of other phenomena --
+1016.26	like crime, and warfare,
+1018.26	and economic phenomena like bank runs
+1020.26	and market crashes
+1022.26	and the adoption of innovation
+1024.26	and the spread of product adoption.
+1026.26	Now, look at this.
+1029.26	I think we form social networks
+1031.26	because the benefits of a connected life
+1033.26	outweigh the costs.
+1036.26	If I was always violent towards you
+1038.26	or gave you misinformation
+1040.26	or made you sad or infected you with deadly germs,
+1043.26	you would cut the ties to me,
+1045.26	and the network would disintegrate.
+1047.26	So the spread of good and valuable things
+1050.26	is required to sustain and nourish social networks.
+1054.26	Similarly, social networks are required
+1056.26	for the spread of good and valuable things,
+1059.26	like love and kindness
+1061.26	and happiness and altruism
+1063.26	and ideas.
+1065.26	I think, in fact, that if we realized
+1067.26	how valuable social networks are,
+1069.26	we'd spend a lot more time nourishing them and sustaining them,
+1072.26	because I think social networks
+1074.26	are fundamentally related to goodness.
+1077.26	And what I think the world needs now
+1079.26	is more connections.
+1081.26	Thank you.
+1083.26	(Applause)

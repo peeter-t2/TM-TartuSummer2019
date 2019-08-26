@@ -1,0 +1,430 @@
+startsecond	text
+12.16	My name is Jonathan Zittrain,
+14.16	and in my recent work I've been a bit of a pessimist.
+17.16	So I thought this morning I would try to be the optimist,
+21.16	and give reason to hope
+23.16	for the future of the Internet
+25.16	by drawing upon its present.
+28.16	Now, it may seem like there is less hope today than there was before.
+32.16	People are less kind. There is less trust around.
+34.16	I don't know. As a simple example,
+38.16	we could run a test here.
+40.16	How many people have ever hitchhiked?
+47.16	I know. How many people have hitchhiked
+50.16	within the past 10 years?
+55.16	Right. So what has changed?
+58.16	It's not better public transportation.
+61.16	So that's one reason to think that we might be
+64.16	declensionists, going in the wrong direction.
+67.16	But I want to give you three examples
+70.16	to try to say that the trend line
+73.16	is in fact in the other direction,
+75.16	and it's the Internet helping it along.
+78.16	So example number one: the Internet itself.
+81.16	These are three of the founders of the Internet.
+85.16	They were actually high school classmates together
+87.16	at the same high school in suburban Los Angles in the 1960s.
+91.16	You might have had a French club or a Debate club.
+94.16	"They had a ""Let's build a global network"" club,"
+96.16	and it worked out very well.
+99.16	They are pictured here for their 25th anniversary
+102.16	Newsweek retrospective on the Internet.
+105.16	And as you can tell,
+107.16	they are basically goof balls.
+110.16	They had one great limitation
+113.16	and one great freedom
+115.16	as they tried to conceive of a global network.
+118.16	The limitation was that they didn't have any money.
+122.16	No particular amount of capital to invest,
+125.16	of the sort that for a physical network
+127.16	you might need for trucks and people
+129.16	and a hub to move packages around overnight.
+132.16	They had none of that.
+134.16	But they had an amazing freedom,
+136.16	which was they didn't have to make any money from it.
+140.16	The Internet has no business plan, never did.
+144.16	No CEO,
+146.16	no firm responsible, singly, for building it.
+150.16	Instead, it's folks getting together
+152.16	to do something for fun,
+155.16	rather than because they were told to,
+157.16	or because they were expecting to make a mint off of it.
+161.16	That ethos led to a network architecture,
+164.16	a structure that was unlike
+166.16	other digital networks then or since.
+170.16	So unusual, in fact,
+172.16	that it was said that it's not clear the Internet could work.
+176.16	As late as 1992, IBM was known to say
+179.16	you couldn't possibly build a corporate network
+182.16	using Internet Protocol.
+185.16	And even some Internet engineers today say
+187.16	the whole thing is a pilot project and the jury is still out.
+191.16	(Laughter)
+192.16	That's why the mascot of Internet engineering,
+196.16	if it had one, is said to be the bumblebee.
+199.16	Because the fur-to-wingspan ratio of the bumblebee
+202.16	is far too large for it to be able to fly.
+204.16	And yet, mysteriously, somehow the bee flies.
+209.16	I'm pleased to say that, thanks to massive government funding,
+212.16	about three years ago we finally figured out
+215.16	how bees fly.
+217.16	(Laughter)
+219.16	It's very complicated, but it turns out they
+221.16	flap their wings very quickly.
+224.16	(Laughter)
+227.16	So what is this bizarre architecture configuration
+231.16	that makes the network sing and be so unusual?
+234.16	Well, to move data around
+236.16	from one place to another -- again, it's not like a package courier.
+239.16	It's more like a mosh pit.
+242.16	(Laughter)
+243.16	Imagine, you being part of a network
+245.16	where, you're maybe at a sporting event,
+248.16	and you're sitting in rows like this,
+250.16	and somebody asks for a beer,
+252.16	and it gets handed at the aisle.
+255.16	And your neighborly duty
+257.16	is to pass the beer along,
+259.16	at risk to your own trousers,
+262.16	to get it to the destination.
+264.16	No one pays you to do this.
+266.16	It's just part of your neighborly duty.
+269.16	And, in a way, that's exactly how packets move around the Internet,
+273.16	sometimes in as many as 25 or 30 hops,
+275.16	with the intervening entities
+277.16	that are passing the data around
+279.16	having no particular contractual or legal obligation
+283.16	to the original sender
+285.16	or to the receiver.
+288.16	Now, of course, in a mosh pit it's hard to specify a destination.
+292.16	You need a lot of trust,
+294.16	"but it's not like, ""I'm trying to get to Pensacola, please."""
+297.16	So the Internet needs addressing and directions.
+301.16	It turns out there is no one overall map of the Internet.
+305.16	Instead, again, it is as if we are all sitting together in a theater,
+308.16	but we can only see amidst the fog
+311.16	the people immediately around us.
+313.16	So what do we do to figure out who is where?
+316.16	We turn to the person on the right,
+318.16	and we tell that person what we see on our left,
+321.16	and vice versa.
+323.16	And they can lather, rinse, repeat. And before you know it,
+325.16	you have a general sense of where everything is.
+328.16	This is how Internet addressing and routing actually work.
+333.16	This is a system that relies on kindness and trust,
+337.16	which also makes it very delicate and vulnerable.
+340.16	In rare but striking instances,
+342.16	a single lie told by just one entity
+345.16	in this honeycomb
+347.16	can lead to real trouble.
+349.16	So, for example, last year,
+352.16	the government of Pakistan
+354.16	asked its Internet service providers there
+357.16	to prevent citizens of Pakistan from seeing YouTube.
+361.16	There was a video there that the government did not like
+363.16	and they wanted to make sure it was blocked.
+365.16	This is a common occurrence. Governments everywhere
+367.16	are often trying to block
+369.16	and filter and censor content on the Internet.
+372.16	Well this one ISP in Pakistan
+374.16	chose to effectuate the block for its subscribers
+377.16	in a rather unusual way.
+380.16	It advertised --
+382.16	the way that you might be asked, if you were part of the Internet,
+385.16	to declare what you see near you -- it advertised
+387.16	that near it, in fact, it had suddenly awakened to find
+392.16	that it was YouTube.
+394.16	"""That's right,"" it said, ""I am YouTube."""
+397.16	Which meant that packets of data
+399.16	from subscribers going to YouTube
+401.16	stopped at the ISP, since they thought they were already there,
+404.16	and the ISP threw them away unopened
+406.16	because the point was to block it.
+408.16	But it didn't stop there.
+410.16	You see, that announcement
+412.16	went one click out,
+414.16	which got reverberated, one click out.
+417.16	And it turns out that as you look
+419.16	at the postmortem of this event,
+421.16	you have at one moment
+423.16	perfectly working YouTube.
+425.16	Then, at moment number two,
+427.16	you have the fake announcement go out.
+430.16	And within two minutes,
+432.16	it reverberates around
+434.16	and YouTube is blocked everywhere in the world.
+437.16	If you were sitting in Oxford, England, trying to get to YouTube,
+440.16	your packets were going to Pakistan
+442.16	and they weren't coming back.
+445.16	Now just think about that.
+447.16	One of the most popular websites in the world,
+449.16	run by the most powerful company in the world,
+451.16	and there was nothing that YouTube or Google
+455.16	were particularly privileged to do about it.
+458.16	And yet, somehow, within about two hours,
+462.16	the problem was fixed.
+464.16	How did this happen?
+466.16	Well, for a big clue, we turn to NANOG.
+469.16	The North American Network Operators Group,
+472.16	a group of people who,
+474.16	on a beautiful day outside,
+476.16	enter into a windowless room,
+478.16	at their terminals
+480.16	reading email and messages
+483.16	in fixed proportion font, like this,
+487.16	and they talk about networks.
+489.16	And some of them are mid-level employees at Internet service providers
+491.16	around the world.
+493.16	And here is the message where one of them says,
+495.16	"""Looks like we've got a live one. We have a hijacking of YouTube!"
+498.16	This is not a drill. It's not just the cluelessness
+501.16	of YouTube engineers. I promise.
+503.16	"Something is up in Pakistan."""
+505.16	And they came together to help find the problem and fix it.
+509.16	So it's kind of like if your house catches on fire.
+512.16	The bad news is there is no fire brigade.
+516.16	The good news is random people apparate from nowhere,
+519.16	put out the fire and leave without expecting payment or praise.
+523.16	(Applause)
+528.16	I was trying to think of the right model to describe
+530.16	this form of random acts of kindness
+532.16	by geeky strangers.
+534.16	(Laughter)
+539.16	You know, it's just like the hail goes out
+542.16	and people are ready to help.
+544.16	And it turns out this model is everywhere, once you start looking for it.
+548.16	Example number two: Wikipedia.
+551.16	If a man named Jimbo came up to you in 2001
+554.16	"and said, ""I've got a great idea! We start with seven articles"
+557.16	that anybody can edit anything, at any time,
+559.16	"and we'll get a great encyclopedia! Eh?"""
+562.16	Right. Dumbest idea ever.
+566.16	(Laughter)
+567.16	In fact, Wikipedia is an idea so profoundly stupid
+572.16	that even Jimbo never had it.
+575.16	Jimbo's idea was for Nupedia.
+577.16	It was going to be totally traditional. He would pay people money
+579.16	because he was feeling like a good guy,
+581.16	and the money would go to the people
+583.16	and they would write the articles.
+585.16	The wiki was introduced
+587.16	so others could make suggestions on edits --
+589.16	as almost an afterthought, a back room.
+591.16	And then it turns out the back room grew
+594.16	to encompass the entire project.
+596.16	And today, Wikipedia is so ubiquitous
+599.16	that you can now find it on Chinese restaurant menus.
+603.16	(Laughter)
+609.16	I am not making this up.
+611.16	(Laughter)
+613.16	I have a theory I can explain later.
+616.16	Suffice it to say for now that I prefer my Wikipedia
+618.16	stir-fried with pimentos.
+620.16	(Laughter)
+622.16	But now, Wikipedia doesn't just spontaneously work.
+625.16	How does it really work? It turns out
+627.16	there is a back room that is kind of windowless,
+629.16	metaphorically speaking.
+631.16	And there are a bunch of people who, on a sunny day,
+633.16	would rather be inside
+636.16	and monitoring this, the administrator's notice board,
+638.16	itself a wiki page that anyone can edit.
+641.16	And you just bring your problems to the page.
+644.16	It's reminiscent of the description of history
+647.16	"as ""one damn thing after another,"" right?"
+650.16	"Number one: ""Tendentious editing by user Andyvphil."""
+654.16	Apologies, Andyvphil, if you're here today.
+657.16	I'm not taking sides.
+659.16	"""Anon attacking me for reverting."""
+662.16	"Here is my favorite: ""A long story."""
+664.16	(Laughter)
+665.16	It turns out there are more people checking this page for problems
+669.16	and wanting to solve them
+671.16	than there are problems arising on the page.
+674.16	And that's what keeps Wikipedia afloat.
+677.16	At all times, Wikipedia is approximately
+685.16	There are spambots crawling it, trying to turn every article
+687.16	into an ad for a Rolex watch.
+689.16	(Laughter)
+690.16	It's this thin geeky line
+693.16	that keeps it going.
+695.16	Not because it's a job,
+697.16	not because it's a career,
+699.16	but because it's a calling.
+701.16	It's something they feel impelled to do
+704.16	because they care about it.
+706.16	They even gather together in such groups
+708.16	as the Counter-Vandalism Unit --
+710.16	"""Civility, Maturity, Responsibility"" --"
+713.16	to just clean up the pages.
+715.16	It does make you wonder if there were, for instance,
+718.16	a massive, extremely popular Star Trek convention one weekend,
+722.16	who would be minding the store?
+724.16	(Laughter)
+729.16	So what we see --
+731.16	(Laughter)
+734.16	what we see in this phenomenon
+738.16	is something that the crazed, late traffic engineer
+742.16	Hans Monderman discovered in the Netherlands,
+744.16	and here in South Kensington, that sometimes
+746.16	if you remove some of the external rules and signs and everything else,
+751.16	you can actually end up
+753.16	with a safer environment in which people can function,
+756.16	and one in which they are more human with each other.
+759.16	They're realizing that they
+761.16	have to take responsibility for what they do.
+763.16	And Wikipedia has embraced this.
+766.16	Some of you may remember Star Wars Kid,
+769.16	the poor teenager who filmed himself with a golf ball retriever,
+773.16	acting as if it were a light saber.
+775.16	The film, without his permission or even knowledge at first,
+778.16	found its way onto the Internet.
+780.16	Hugely viral video. Extremely popular.
+783.16	Totally mortifying to him.
+786.16	Now, it being encyclopedic and all,
+788.16	Wikipedia had to do an article about Star Wars Kid.
+791.16	Every article on Wikipedia has a corresponding discussion page,
+793.16	and on the discussion page
+795.16	they had extensive argument among the Wikipedians
+798.16	as to whether to have his real name
+802.16	featured in the article.
+804.16	You could see arguments on both sides.
+806.16	Here is just a snapshot of some of them.
+808.16	They eventually decided --
+810.16	not unanimously by any means --
+812.16	not to include his real name,
+814.16	despite the fact that nearly all media reports did.
+817.16	They just didn't think it was the right thing to do.
+820.16	It was an act of kindness.
+822.16	And to this day, the page for Star Wars Kid
+824.16	has a warning right at the top
+826.16	that says you are not to put his real name on the page.
+829.16	If you do, it will be removed immediately,
+831.16	removed by people who may have disagreed with the original decision,
+835.16	but respect the outcome
+838.16	and work to make it stay
+840.16	because they believe in something bigger than their own opinion.
+844.16	As a lawyer, I've got to say these guys are inventing the law
+847.16	and stare decisis and stuff like that as they go along.
+851.16	Now, this isn't just limited to Wikipedia.
+854.16	We see it on blogs all over the place.
+856.16	I mean, this is a 2005 Business Week cover.
+859.16	Wow. Blogs are going to change your business.
+861.16	I know they look silly. And sure they look silly.
+864.16	They start off on all sorts of goofy projects.
+866.16	This is my favorite goofy blog:
+868.16	Catsthatlooklikehitler.com.
+871.16	(Laughter)
+872.16	You send in a picture of your cat
+875.16	if it looks like Hitler.
+877.16	(Laughter)
+884.16	Yeah, I know. Number four, it's like, can you imagine
+886.16	coming home to that cat everyday?
+888.16	(Laughter)
+889.16	But then, you can see the same kind of whimsy
+893.16	applied to people.
+895.16	So this is a blog devoted to unfortunate portraiture.
+899.16	"This one says, ""Bucolic meadow with split-rail fence."
+902.16	"Is that an animal carcass behind her?"""
+904.16	(Laughter)
+905.16	"You're like, ""You know? I think that's an animal carcass"
+907.16	"behind her."""
+909.16	And it's one after the other.
+911.16	But then you hit this one. Image removed at request of owner.
+915.16	That's it. Image removed at request of owner.
+917.16	It turns out that somebody lampooned here
+919.16	wrote to the snarky guy that does the site,
+922.16	not with a legal threat, not with an offer of payment,
+925.16	"but just said, ""Hey, would you mind?"""
+927.16	"The person said, ""No, that's fine."""
+929.16	I believe we can build architectures online
+933.16	to make such human requests
+936.16	that much easier to do,
+938.16	to make it possible for all of us to see
+940.16	that the data we encounter online
+942.16	is just stuff on which to click and paste and copy and forward
+946.16	that actually represents human emotion
+949.16	and endeavor and impact,
+951.16	and to be able to have an ethical moment
+953.16	where we decide how we want to treat it.
+956.16	I even think it can go into the real world.
+959.16	We can end up, as we get in a world with more censors --
+962.16	everywhere there is something filming you, maybe putting it online --
+965.16	to be able to have a little clip you could wear
+967.16	"that says, ""You know, I'd rather not."""
+969.16	And then have technology
+972.16	that the person taking the photo will know later,
+974.16	this person requested to be contacted
+976.16	before this goes anywhere big,
+978.16	if you don't mind.
+980.16	And that person taking the photo can make a decision
+982.16	about how and whether to respect it.
+986.16	In the real world, we see filtering of this sort
+988.16	taking place in Pakistan.
+990.16	And we now have means that we can build, like this system,
+994.16	so that people can report the filtering as they encounter it.
+997.16	"And it's no longer just a ""I don't know. I couldn't get there. I guess I'll move on,"""
+1001.16	but suddenly a collective consciousness
+1003.16	about what is blocked and censored
+1006.16	where online.
+1008.16	In fact, talk about technology imitating life
+1012.16	imitating tech, or maybe it's the other way around.
+1015.16	An NYU researcher here took little cardboard robots
+1018.16	with smiley faces on them,
+1020.16	and a motor that just drove them forward
+1023.16	and a flag sticking out the back
+1025.16	with a desired destination.
+1027.16	"It said, ""Can you help me get there?"""
+1029.16	Released it on the streets of Manhattan.
+1033.16	(Laughter)
+1035.16	They'll fund anything these days.
+1038.16	Here is the chart of over 43 people
+1040.16	helping to steer the robot that could not steer
+1043.16	and get it on its way, from one corner
+1045.16	from one corner of Washington Square Park
+1047.16	to another.
+1049.16	That leads to example number three: hitchhiking.
+1053.16	I'm not so sure hitchhiking is dead.
+1056.16	Why? There is the Craigslist rideshare board.
+1060.16	If it were called the Craigslist hitchhiking board,
+1063.16	tumbleweeds would be blowing through it.
+1065.16	But it's the rideshare board, and it's basically the same thing.
+1068.16	Now why are people using it?
+1070.16	I don't know. Maybe they think that, uh, killers don't plan ahead?
+1073.16	(Laughter)
+1079.16	No. I think the actual answer is
+1081.16	that once you reframe it,
+1083.16	once you get out of one set of stale expectations
+1086.16	from a failed project that had its day,
+1089.16	but now, for whatever reason, is tarnished,
+1091.16	you can actually rekindle the kind of human kindness and sharing
+1095.16	that something like this on Craigslist represents.
+1098.16	And then you can highlight it
+1100.16	into something like,
+1102.16	yes, CouchSurfing.org.
+1105.16	CouchSurfing: one guy's idea
+1108.16	to, at last, put together people who are going somewhere far away
+1111.16	and would like to sleep on a stranger's couch for free,
+1116.16	with people who live far away,
+1118.16	and would like someone they don't know to sleep on their couch for free.
+1122.16	It's a brilliant idea.
+1126.16	It's a bee that, yes, flies.
+1128.16	Amazing how many successful couch surfings there have been.
+1131.16	And if you're wondering, no, there have been no known fatalities
+1135.16	associated with CouchSurfing.
+1137.16	Although, to be sure, the reputation system, at the moment,
+1140.16	works that you leave your report after the couch surfing experience,
+1143.16	so there may be some selection bias there.
+1146.16	(Laughter)
+1150.16	So, my urging, my thought,
+1154.16	is that the Internet isn't just a pile of information.
+1157.16	It's not a noun. It's a verb.
+1160.16	And when you go on it,
+1162.16	if you listen and see carefully and closely enough,
+1166.16	what you will discover
+1168.16	is that that information
+1170.16	is saying something to you.
+1172.16	What it's saying to you is what we heard yesterday,
+1174.16	Demosthenes was saying to us.
+1177.16	"It's saying, ""Let's march."" Thank you very much."
+1181.16	(Applause)

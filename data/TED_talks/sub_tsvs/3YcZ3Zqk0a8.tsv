@@ -1,0 +1,133 @@
+startsecond	text
+15.26	Last year here at TED
+17.26	I asked you to give me your data,
+19.26	to put your data on the web, on the basis
+21.26	that if people put data onto the web --
+24.26	government data, scientific data, community data,
+27.26	whatever it is -- it will be used by other people
+29.26	to do wonderful things, in ways
+31.26	that they never could have imagined.
+33.26	So, today I'm back just to show you a few things,
+36.26	to show you, in fact, there is
+38.26	an open data movement afoot,
+43.26	now, around the world.
+45.26	"The cry of ""Raw data now!"""
+47.26	which I made people make in the auditorium,
+49.26	was heard around the world.
+51.26	So, let's roll the video.
+54.26	A classic story, the first one which lots of people picked up,
+57.26	was when in March -- on March 10th in fact, soon after TED --
+60.26	Paul Clarke, in the U.K. government,
+63.26	"blogged, ""Oh, I've just got some raw data. Here it is,"
+65.26	"it's about bicycle accidents."""
+68.26	Two days it took the Times Online
+71.26	to make a map, a mashable map --
+73.26	we call these things mash-ups --
+75.26	a mashed-up user interface that allows you to go in there
+77.26	and have a look and find out whether your bicycle
+79.26	route to work was affected.
+81.26	Here's more data, traffic survey data,
+83.26	again, put out by the U.K. government,
+85.26	and because they put it up using the Linked Data standards,
+88.26	then a user could just make a map,
+90.26	just by clicking.
+92.26	Does this data affect things? Well, let's get back to 2008.
+94.26	Look at Zanesville, Ohio.
+97.26	Here's a map a lawyer made. He put on it the water plant,
+100.26	and which houses are there,
+102.26	which houses have been connected to the water.
+104.26	And he got, from other data sources,
+106.26	information to show
+109.26	which houses are occupied by white people.
+111.26	Well, there was too much of a correlation, he felt,
+114.26	between which houses were occupied by white people
+117.26	and which houses had water, and the judge was not impressed either.
+120.26	The judge was not impressed to the tune of 10.9 million dollars.
+123.26	That's the power of taking one piece of data,
+125.26	another piece of data, putting it together,
+128.26	and showing the result.
+130.26	Let's look at some data from the U.K. now.
+132.26	This is U.K. government data, a completely independent site,
+134.26	Where Does My Money Go.
+136.26	It allows anybody to go there and burrow down.
+138.26	You can burrow down by a particular type of spending,
+140.26	or you can go through all the different regions and compare them.
+144.26	So, that's happening in the U.K. with U.K. government data.
+147.26	Yes, certainly you can do it over here.
+149.26	Here's a site which allows you to look at recovery spending
+152.26	in California.
+154.26	Take an arbitrary example, Long Beach, California,
+156.26	you can go and have a look at what recovery money they've been spending
+159.26	on different things such as energy.
+162.26	In fact, this is the graph of the number of data sets
+165.26	in the repositories of data.gov,
+167.26	and data.gov.uk.
+169.26	And I'm delighted to see a great competition
+171.26	between the U.K. in blue, and the U.S. in red.
+173.26	How can you use this stuff?
+175.26	Well, for example, if you have lots of data about places
+178.26	you can take, from a postcode --
+180.26	which is like a zip plus four --
+182.26	for a specific group of houses, you can make paper,
+185.26	print off a paper which has got very, very
+187.26	specific things about the bus stops,
+189.26	the things specifically near you.
+191.26	On a larger scale, this is a mash-up
+194.26	of the data which was released about the Afghan elections.
+197.26	It allows you to set your own criteria
+199.26	for what sort of things you want to look at.
+201.26	The red circles are polling stations,
+203.26	selected by your criteria.
+205.26	And then you can select also other things on the map
+207.26	to see what other factors, like the threat level.
+209.26	So, that was government data.
+212.26	I also talked about community-generated data -- in fact I edited some.
+214.26	This is the wiki map, this is the Open Street Map.
+216.26	"""Terrace Theater"" I actually put"
+218.26	on the map because it wasn't on the map before TED last year.
+221.26	I was not the only person editing the open street map.
+224.26	Each flash on this visualization --
+226.26	put together by ITO World --
+228.26	shows an edit in 2009
+230.26	made to the Open Street Map.
+232.26	Let's now spin the world during the same year.
+235.26	Every flash is an edit. Somebody somewhere
+237.26	looking at the Open Street Map, and realizing it could be better.
+240.26	You can see Europe is ablaze with updates.
+243.26	Some places, perhaps not as much as they should be.
+246.26	Here focusing in on Haiti.
+248.26	The map of Port au-Prince at the end
+250.26	of 2009 was not all it could be,
+252.26	not as good as the map of California.
+254.26	Fortunately, just after the earthquake,
+257.26	GeoEye, a commercial company,
+259.26	released satellite imagery
+261.26	with a license, which allowed
+263.26	the open-source community to use it.
+265.26	This is January, in time lapse,
+267.26	of people editing ... that's the earthquake.
+269.26	After the earthquake, immediately,
+271.26	people all over the world, mappers
+273.26	who wanted to help, and could,
+275.26	looked at that imagery, built the map, quickly building it up.
+278.26	We're focusing now on Port-au-Prince.
+279.26	The light blue is refugee camps these volunteers had spotted from the [satellite images].
+283.26	So, now we have, immediately, a real-time map
+285.26	showing where there are refugee camps --
+287.26	rapidly became the best map
+289.26	to use if you're doing relief work in Port-au-Prince.
+292.26	Witness the fact that it's here on this Garmin device
+294.26	being used by rescue team in Haiti.
+296.26	There's the map showing,
+299.26	on the left-hand side,
+301.26	that hospital -- actually that's a hospital ship.
+303.26	This is a real-time map that shows blocked roads,
+306.26	damaged buildings, refugee camps --
+308.26	it shows things that are needed [for rescue and relief work].
+310.26	So, if you've been involved in that at all,
+312.26	I just wanted to say: Whatever you've been doing,
+314.26	"whether you've just been chanting, ""Raw data now!"""
+316.26	or you've been putting government or scientific data online,
+319.26	I just wanted to take this opportunity to say: Thank you very much,
+321.26	and we have only just started!
+324.26	(Applause)

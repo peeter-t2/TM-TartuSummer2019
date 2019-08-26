@@ -1,0 +1,341 @@
+startsecond	text
+15.26	Ever since I was a little girl
+18.26	"seeing ""Star Wars"" for the first time,"
+20.26	I've been fascinated by this idea
+22.26	of personal robots.
+24.26	And as a little girl,
+26.26	I loved the idea of a robot that interacted with us
+28.26	much more like a helpful, trusted sidekick --
+31.26	something that would delight us, enrich our lives
+33.26	and help us save a galaxy or two.
+37.26	I knew robots like that didn't really exist,
+40.26	but I knew I wanted to build them.
+42.26	So 20 years pass --
+44.26	I am now a graduate student at MIT
+46.26	studying artificial intelligence,
+48.26	the year is 1997,
+50.26	and NASA has just landed the first robot on Mars.
+53.26	But robots are still not in our home, ironically.
+56.26	And I remember thinking about
+58.26	all the reasons why that was the case.
+60.26	But one really struck me.
+62.26	Robotics had really been about interacting with things,
+65.26	not with people --
+67.26	certainly not in a social way that would be natural for us
+69.26	and would really help people accept robots
+71.26	into our daily lives.
+73.26	For me, that was the white space; that's what robots could not do yet.
+76.26	And so that year, I started to build this robot, Kismet,
+79.26	the world's first social robot.
+82.26	Three years later --
+84.26	a lot of programming,
+86.26	working with other graduate students in the lab --
+88.26	Kismet was ready to start interacting with people.
+90.26	(Video) Scientist: I want to show you something.
+92.26	Kismet: (Nonsense)
+94.26	Scientist: This is a watch that my girlfriend gave me.
+97.26	Kismet: (Nonsense)
+99.26	Scientist: Yeah, look, it's got a little blue light in it too.
+101.26	I almost lost it this week.
+104.26	Cynthia Breazeal: So Kismet interacted with people
+107.26	like kind of a non-verbal child or pre-verbal child,
+110.26	which I assume was fitting because it was really the first of its kind.
+113.26	It didn't speak language, but it didn't matter.
+115.26	This little robot was somehow able
+117.26	to tap into something deeply social within us --
+120.26	and with that, the promise of an entirely new way
+122.26	we could interact with robots.
+124.26	So over the past several years
+126.26	I've been continuing to explore this interpersonal dimension of robots,
+128.26	now at the media lab
+130.26	with my own team of incredibly talented students.
+132.26	And one of my favorite robots is Leonardo.
+135.26	We developed Leonardo in collaboration with Stan Winston Studio.
+138.26	And so I want to show you a special moment for me of Leo.
+141.26	This is Matt Berlin interacting with Leo,
+143.26	introducing Leo to a new object.
+145.26	And because it's new, Leo doesn't really know what to make of it.
+148.26	But sort of like us, he can actually learn about it
+150.26	from watching Matt's reaction.
+153.26	(Video) Matt Berlin: Hello, Leo.
+158.26	Leo, this is Cookie Monster.
+164.26	Can you find Cookie Monster?
+172.26	Leo, Cookie Monster is very bad.
+176.26	He's very bad, Leo.
+180.26	Cookie Monster is very, very bad.
+187.26	He's a scary monster.
+189.26	He wants to get your cookies.
+192.26	(Laughter)
+194.26	CB: All right, so Leo and Cookie
+197.26	might have gotten off to a little bit of a rough start,
+199.26	but they get along great now.
+202.26	So what I've learned
+204.26	through building these systems
+206.26	is that robots are actually
+208.26	a really intriguing social technology,
+210.26	where it's actually their ability
+212.26	to push our social buttons
+214.26	and to interact with us like a partner
+216.26	that is a core part of their functionality.
+219.26	And with that shift in thinking, we can now start to imagine
+221.26	new questions, new possibilities for robots
+224.26	that we might not have thought about otherwise.
+227.26	"But what do I mean when I say ""push our social buttons?"""
+229.26	Well, one of the things that we've learned
+231.26	is that, if we design these robots to communicate with us
+233.26	using the same body language,
+235.26	the same sort of non-verbal cues that people use --
+237.26	like Nexi, our humanoid robot, is doing here --
+240.26	what we find is that people respond to robots
+242.26	a lot like they respond to people.
+244.26	People use these cues to determine things like how persuasive someone is,
+247.26	how likable, how engaging,
+249.26	how trustworthy.
+251.26	It turns out it's the same for robots.
+253.26	It's turning out now
+255.26	that robots are actually becoming a really interesting new scientific tool
+258.26	to understand human behavior.
+260.26	To answer questions like, how is it that, from a brief encounter,
+263.26	we're able to make an estimate of how trustworthy another person is?
+266.26	Mimicry's believed to play a role, but how?
+269.26	Is it the mimicking of particular gestures that matters?
+272.26	It turns out it's really hard
+274.26	to learn this or understand this from watching people
+276.26	because when we interact we do all of these cues automatically.
+279.26	We can't carefully control them because they're subconscious for us.
+281.26	But with the robot, you can.
+283.26	And so in this video here --
+285.26	this is a video taken from David DeSteno's lab at Northeastern University.
+288.26	He's a psychologist we've been collaborating with.
+290.26	There's actually a scientist carefully controlling Nexi's cues
+293.26	to be able to study this question.
+296.26	And the bottom line is -- the reason why this works is
+298.26	because it turns out people just behave like people
+300.26	even when interacting with a robot.
+303.26	So given that key insight,
+305.26	we can now start to imagine
+307.26	new kinds of applications for robots.
+310.26	For instance, if robots do respond to our non-verbal cues,
+313.26	maybe they would be a cool, new communication technology.
+317.26	So imagine this:
+319.26	What about a robot accessory for your cellphone?
+321.26	You call your friend, she puts her handset in a robot,
+323.26	and, bam! You're a MeBot --
+325.26	you can make eye contact, you can talk with your friends,
+328.26	you can move around, you can gesture --
+330.26	maybe the next best thing to really being there, or is it?
+333.26	To explore this question,
+335.26	my student, Siggy Adalgeirsson, did a study
+338.26	where we brought human participants, people, into our lab
+341.26	to do a collaborative task
+343.26	with a remote collaborator.
+345.26	The task involved things
+347.26	like looking at a set of objects on the table,
+349.26	discussing them in terms of their importance and relevance to performing a certain task --
+352.26	this ended up being a survival task --
+354.26	and then rating them in terms
+356.26	of how valuable and important they thought they were.
+358.26	The remote collaborator was an experimenter from our group
+361.26	who used one of three different technologies
+363.26	to interact with the participants.
+365.26	The first was just the screen.
+367.26	This is just like video conferencing today.
+370.26	The next was to add mobility -- so, have the screen on a mobile base.
+373.26	This is like, if you're familiar with any of the telepresence robots today --
+376.26	this is mirroring that situation.
+379.26	And then the fully expressive MeBot.
+381.26	So after the interaction,
+383.26	we asked people to rate their quality of interaction
+386.26	with the technology, with a remote collaborator
+388.26	through this technology, in a number of different ways.
+391.26	We looked at psychological involvement --
+393.26	how much empathy did you feel for the other person?
+395.26	We looked at overall engagement.
+397.26	We looked at their desire to cooperate.
+399.26	And this is what we see when they use just the screen.
+402.26	It turns out, when you add mobility -- the ability to roll around the table --
+405.26	you get a little more of a boost.
+407.26	And you get even more of a boost when you add the full expression.
+410.26	So it seems like this physical, social embodiment
+412.26	actually really makes a difference.
+414.26	Now let's try to put this into a little bit of context.
+417.26	Today we know that families are living further and further apart,
+420.26	and that definitely takes a toll on family relationships
+422.26	and family bonds over distance.
+424.26	For me, I have three young boys,
+426.26	and I want them to have a really good relationship
+428.26	with their grandparents.
+430.26	But my parents live thousands of miles away,
+432.26	so they just don't get to see each other that often.
+434.26	We try Skype, we try phone calls,
+436.26	but my boys are little -- they don't really want to talk;
+438.26	they want to play.
+440.26	So I love the idea of thinking about robots
+442.26	as a new kind of distance-play technology.
+445.26	I imagine a time not too far from now --
+448.26	my mom can go to her computer,
+450.26	open up a browser and jack into a little robot.
+452.26	And as grandma-bot,
+455.26	she can now play, really play,
+457.26	with my sons, with her grandsons,
+459.26	in the real world with his real toys.
+462.26	I could imagine grandmothers being able to do social-plays
+464.26	with their granddaughters, with their friends,
+466.26	and to be able to share all kinds of other activities around the house,
+468.26	like sharing a bedtime story.
+470.26	And through this technology,
+472.26	being able to be an active participant
+474.26	in their grandchildren's lives
+476.26	in a way that's not possible today.
+478.26	Let's think about some other domains,
+480.26	like maybe health.
+482.26	So in the United States today,
+484.26	over 65 percent of people are either overweight or obese,
+487.26	and now it's a big problem with our children as well.
+489.26	And we know that as you get older in life,
+491.26	if you're obese when you're younger, that can lead to chronic diseases
+494.26	that not only reduce your quality of life,
+496.26	but are a tremendous economic burden on our health care system.
+499.26	But if robots can be engaging,
+501.26	if we like to cooperate with robots,
+503.26	if robots are persuasive,
+505.26	maybe a robot can help you
+507.26	maintain a diet and exercise program,
+509.26	maybe they can help you manage your weight.
+512.26	Sort of like a digital Jiminy --
+514.26	as in the well-known fairy tale --
+516.26	a kind of friendly, supportive presence that's always there
+518.26	to be able to help you make the right decision
+520.26	in the right way at the right time
+522.26	to help you form healthy habits.
+524.26	So we actually explored this idea in our lab.
+526.26	This is a robot, Autom.
+528.26	Cory Kidd developed this robot for his doctoral work.
+531.26	And it was designed to be a robot diet-and-exercise coach.
+534.26	It had a couple of simple non-verbal skills it could do.
+536.26	It could make eye contact with you.
+538.26	It could share information looking down at a screen.
+540.26	You'd use a screen interface to enter information,
+542.26	like how many calories you ate that day,
+544.26	how much exercise you got.
+546.26	And then it could help track that for you.
+548.26	And the robot spoke with a synthetic voice
+550.26	to engage you in a coaching dialogue
+552.26	modeled after trainers
+554.26	and patients and so forth.
+556.26	And it would build a working alliance with you
+558.26	through that dialogue.
+560.26	It could help you set goals and track your progress,
+562.26	and it would help motivate you.
+564.26	So an interesting question is,
+566.26	does the social embodiment really matter? Does it matter that it's a robot?
+569.26	Is it really just the quality of advice and information that matters?
+572.26	To explore that question,
+574.26	we did a study in the Boston area
+576.26	where we put one of three interventions in people's homes
+579.26	for a period of several weeks.
+581.26	One case was the robot you saw there, Autom.
+584.26	Another was a computer that ran the same touch-screen interface,
+587.26	ran exactly the same dialogues.
+589.26	The quality of advice was identical.
+591.26	And the third was just a pen and paper log,
+593.26	because that's the standard intervention you typically get
+595.26	when you start a diet-and-exercise program.
+598.26	So one of the things we really wanted to look at
+601.26	was not how much weight people lost,
+604.26	but really how long they interacted with the robot.
+607.26	Because the challenge is not losing weight, it's actually keeping it off.
+610.26	And the longer you could interact with one of these interventions,
+613.26	well that's indicative, potentially, of longer-term success.
+616.26	So the first thing I want to look at is how long,
+618.26	how long did people interact with these systems.
+620.26	It turns out that people interacted with the robot
+622.26	significantly more,
+624.26	even though the quality of the advice was identical to the computer.
+628.26	When it asked people to rate it on terms of the quality of the working alliance,
+631.26	people rated the robot higher
+633.26	and they trusted the robot more.
+635.26	(Laughter)
+637.26	And when you look at emotional engagement,
+639.26	it was completely different.
+641.26	People would name the robots.
+643.26	They would dress the robots.
+645.26	(Laughter)
+647.26	And even when we would come up to pick up the robots at the end of the study,
+650.26	they would come out to the car and say good-bye to the robots.
+652.26	They didn't do this with a computer.
+654.26	The last thing I want to talk about today
+656.26	is the future of children's media.
+658.26	We know that kids spend a lot of time behind screens today,
+661.26	whether it's television or computer games or whatnot.
+664.26	My sons, they love the screen. They love the screen.
+667.26	But I want them to play; as a mom, I want them to play,
+670.26	like, real-world play.
+672.26	And so I have a new project in my group I wanted to present to you today
+675.26	called Playtime Computing
+677.26	that's really trying to think about how we can take
+679.26	what's so engaging about digital media
+681.26	and literally bring it off the screen
+683.26	into the real world of the child,
+685.26	where it can take on many of the properties of real-world play.
+689.26	So here's the first exploration of this idea,
+693.26	where characters can be physical or virtual,
+696.26	and where the digital content
+698.26	can literally come off the screen
+700.26	into the world and back.
+702.26	I like to think of this
+704.26	as the Atari Pong
+706.26	of this blended-reality play.
+708.26	But we can push this idea further.
+710.26	What if --
+712.26	(Game) Nathan: Here it comes. Yay!
+715.26	CB: -- the character itself could come into your world?
+718.26	It turns out that kids love it
+720.26	when the character becomes real and enters into their world.
+723.26	And when it's in their world,
+725.26	they can relate to it and play with it in a way
+727.26	that's fundamentally different from how they play with it on the screen.
+729.26	Another important idea is this notion
+731.26	of persistence of character across realities.
+734.26	So changes that children make in the real world
+736.26	need to translate to the virtual world.
+738.26	So here, Nathan has changed the letter A to the number 2.
+741.26	You can imagine maybe these symbols
+743.26	give the characters special powers when it goes into the virtual world.
+746.26	So they are now sending the character back into that world.
+749.26	And now it's got number power.
+752.26	And then finally, what I've been trying to do here
+754.26	is create a really immersive experience for kids,
+757.26	where they really feel like they are part of that story,
+760.26	a part of that experience.
+762.26	And I really want to spark their imaginations
+764.26	"the way mine was sparked as a little girl watching ""Star Wars."""
+767.26	But I want to do more than that.
+769.26	I actually want them to create those experiences.
+772.26	I want them to be able to literally build their imagination
+774.26	into these experiences and make them their own.
+776.26	So we've been exploring a lot of ideas
+778.26	in telepresence and mixed reality
+780.26	to literally allow kids to project their ideas into this space
+783.26	where other kids can interact with them
+785.26	and build upon them.
+787.26	I really want to come up with new ways of children's media
+790.26	that foster creativity and learning and innovation.
+793.26	I think that's very, very important.
+796.26	So this is a new project.
+798.26	We've invited a lot of kids into this space,
+800.26	and they think it's pretty cool.
+803.26	But I can tell you, the thing that they love the most
+805.26	is the robot.
+807.26	What they care about is the robot.
+810.26	Robots touch something deeply human within us.
+813.26	And so whether they're helping us
+815.26	to become creative and innovative,
+817.26	or whether they're helping us
+819.26	to feel more deeply connected despite distance,
+821.26	or whether they are our trusted sidekick
+823.26	who's helping us attain our personal goals
+825.26	in becoming our highest and best selves,
+827.26	for me, robots are all about people.
+830.26	Thank you.
+832.26	(Applause)

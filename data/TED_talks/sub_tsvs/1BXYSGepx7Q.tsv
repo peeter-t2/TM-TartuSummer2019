@@ -1,0 +1,302 @@
+startsecond	text
+12.85	So, has everybody heard of CRISPR?
+15.883	I would be shocked if you hadn't.
+18.509	This is a technology --
+18.509	it's for genome editing --
+21.735	and it's so versatile and so controversial
+24.593	that it's sparking all sorts
+24.593	of really interesting conversations.
+28.631	Should we bring back the woolly mammoth?
+31.281	Should we edit a human embryo?
+34.041	And my personal favorite:
+36.997	How can we justify
+36.997	wiping out an entire species
+40.672	that we consider harmful to humans
+43.14	off the face of the Earth,
+44.466	using this technology?
+47.165	This type of science
+47.165	is moving much faster
+50.472	than the regulatory mechanisms
+50.472	that govern it.
+53.34	And so, for the past six years,
+55.431	I've made it my personal mission
+57.863	to make sure that as many people
+57.863	as possible understand
+60.897	these types of technologies
+60.897	and their implications.
+64.021	Now, CRISPR has been the subject
+64.021	of a huge media hype,
+69.089	and the words that are used most often
+69.089	"are ""easy"" and ""cheap."""
+74.337	So what I want to do is drill down
+74.337	a little bit deeper
+77.5	and look into some of the myths
+77.5	and the realities around CRISPR.
+82.954	If you're trying to CRISPR a genome,
+85.594	the first thing that you have to do
+85.594	is damage the DNA.
+89.098	The damage comes in the form
+89.098	of a double-strand break
+92.164	through the double helix.
+93.752	And then the cellular repair
+93.752	processes kick in,
+97.088	and then we convince
+97.088	those repair processes
+99.751	to make the edit that we want,
+102.054	and not a natural edit.
+103.62	That's how it works.
+105.929	It's a two-part system.
+107.676	You've got a Cas9 protein
+107.676	and something called a guide RNA.
+111.071	I like to think of it as a guided missile.
+113.557	So the Cas9 --
+113.557	I love to anthropomorphize --
+116.227	so the Cas9 is kind of this Pac-Man thing
+119.481	that wants to chew DNA,
+121.05	and the guide RNA is the leash
+121.05	that's keeping it out of the genome
+125.23	until it finds the exact spot
+125.23	where it matches.
+128.912	And the combination of those two
+128.912	is called CRISPR.
+131.83	It's a system that we stole
+133.422	from an ancient, ancient
+133.422	bacterial immune system.
+137.469	The part that's amazing about it
+137.469	is that the guide RNA,
+142.041	only 20 letters of it,
+143.956	are what target the system.
+146.57	This is really easy to design,
+148.737	and it's really cheap to buy.
+150.985	So that's the part
+150.985	that is modular in the system;
+155.014	everything else stays the same.
+157.481	This makes it a remarkably easy
+157.481	and powerful system to use.
+162.047	The guide RNA and the Cas9
+162.047	protein complex together
+166.311	go bouncing along the genome,
+168.267	and when they find a spot
+168.267	where the guide RNA matches,
+171.784	then it inserts between the two strands
+171.784	of the double helix,
+174.663	it rips them apart,
+176.692	that triggers the Cas9 protein to cut,
+179.962	and all of a sudden,
+181.816	you've got a cell that's in total panic
+183.74	because now it's got a piece
+183.74	of DNA that's broken.
+187	What does it do?
+188.32	It calls its first responders.
+190.959	There are two major repair pathways.
+193.605	The first just takes the DNA
+193.605	and shoves the two pieces back together.
+198.698	This isn't a very efficient system,
+200.82	because what happens is
+200.82	sometimes a base drops out
+203.573	or a base is added.
+205.024	It's an OK way to maybe, like,
+205.024	knock out a gene,
+208.841	but it's not the way that we really want
+208.841	to do genome editing.
+212.098	The second repair pathway
+212.098	is a lot more interesting.
+215.017	In this repair pathway,
+216.677	it takes a homologous piece of DNA.
+219.382	And now mind you, in a diploid
+219.382	organism like people,
+222.046	we've got one copy of our genome
+222.046	from our mom and one from our dad,
+226.318	so if one gets damaged,
+227.617	it can use the other
+227.617	chromosome to repair it.
+230.036	So that's where this comes from.
+232.518	The repair is made,
+234.006	and now the genome is safe again.
+236.616	The way that we can hijack this
+238.497	is we can feed it a false piece of DNA,
+242.229	a piece that has homology on both ends
+244.397	but is different in the middle.
+246.12	So now, you can put
+246.12	whatever you want in the center
+248.611	and the cell gets fooled.
+250.15	So you can change a letter,
+252.293	you can take letters out,
+253.582	but most importantly,
+253.582	you can stuff new DNA in,
+256.53	kind of like a Trojan horse.
+259.089	CRISPR is going to be amazing,
+261.298	in terms of the number of different
+261.298	scientific advances
+264.94	that it's going to catalyze.
+266.621	The thing that's special about it
+266.621	is this modular targeting system.
+269.866	I mean, we've been shoving DNA
+269.866	into organisms for years, right?
+273.657	But because of the modular
+273.657	targeting system,
+275.808	we can actually put it
+275.808	exactly where we want it.
+279.423	The thing is that there's
+279.423	a lot of talk about it being cheap
+285.116	and it being easy.
+286.882	And I run a community lab.
+290.242	I'm starting to get emails from people
+290.242	that say stuff like,
+293.822	"""Hey, can I come to your open night"
+296.243	and, like, maybe use CRISPR
+296.243	"and engineer my genome?"""
+299.884	(Laugher)
+301.018	Like, seriously.
+303.376	"I'm, ""No, you can't."""
+305.203	(Laughter)
+306.237	"""But I've heard it's cheap."
+306.237	"I've heard it's easy."""
+308.616	We're going to explore that a little bit.
+310.823	So, how cheap is it?
+312.796	Yeah, it is cheap in comparison.
+315.665	It's going to take the cost of the average
+315.665	materials for an experiment
+319.308	from thousands of dollars
+319.308	to hundreds of dollars,
+321.864	and it cuts the time a lot, too.
+323.824	It can cut it from weeks to days.
+326.246	That's great.
+327.762	You still need a professional lab
+327.762	to do the work in;
+330.476	you're not going to do anything meaningful
+330.476	outside of a professional lab.
+334.012	I mean, don't listen to anyone who says
+336.04	you can do this sort of stuff
+336.04	on your kitchen table.
+339.421	It's really not easy
+339.421	to do this kind of work.
+343.953	Not to mention,
+343.953	there's a patent battle going on,
+346.285	so even if you do invent something,
+348.135	the Broad Institute and UC Berkeley
+348.135	are in this incredible patent battle.
+354.795	It's really fascinating
+354.795	to watch it happen,
+357.207	because they're accusing each other
+357.207	of fraudulent claims
+360.479	and then they've got people saying,
+362.234	"""Oh, well, I signed"
+362.234	"my notebook here or there."""
+365.042	This isn't going to be settled for years.
+367.167	And when it is,
+368.351	you can bet you're going to pay someone
+368.351	a really hefty licensing fee
+371.66	in order to use this stuff.
+373.343	So, is it really cheap?
+375.148	Well, it's cheap if you're doing
+375.148	basic research and you've got a lab.
+381.22	How about easy?
+381.22	Let's look at that claim.
+384.417	The devil is always in the details.
+387.881	We don't really know
+387.881	that much about cells.
+391.036	They're still kind of black boxes.
+392.73	For example, we don't know
+392.73	why some guide RNAs work really well
+397.614	and some guide RNAs don't.
+399.701	We don't know why some cells
+399.701	want to do one repair pathway
+403.193	and some cells would rather do the other.
+406.27	And besides that,
+407.578	there's the whole problem
+407.578	of getting the system into the cell
+410.471	in the first place.
+411.759	In a petri dish, that's not that hard,
+413.785	but if you're trying to do it
+413.785	on a whole organism,
+416.254	it gets really tricky.
+418.224	It's OK if you use something
+418.224	like blood or bone marrow --
+421.434	those are the targets
+421.434	of a lot of research now.
+423.685	There was a great story
+423.685	of some little girl
+425.96	who they saved from leukemia
+427.636	by taking the blood out, editing it,
+427.636	and putting it back
+430.334	with a precursor of CRISPR.
+432.869	And this is a line of research
+432.869	that people are going to do.
+435.689	But right now, if you want to get
+435.689	into the whole body,
+438.266	you're probably going
+438.266	to have to use a virus.
+440.434	So you take the virus,
+440.434	you put the CRISPR into it,
+442.831	you let the virus infect the cell.
+444.561	But now you've got this virus in there,
+446.728	and we don't know what the long-term
+446.728	effects of that are.
+449.44	Plus, CRISPR has some off-target effects,
+451.732	a very small percentage,
+451.732	but they're still there.
+454.717	What's going to happen
+454.717	over time with that?
+458.039	These are not trivial questions,
+460.275	and there are scientists
+460.275	that are trying to solve them,
+462.939	and they will eventually,
+462.939	hopefully, be solved.
+465.249	But it ain't plug-and-play,
+465.249	not by a long shot.
+468.907	So: Is it really easy?
+471.032	Well, if you spend a few years
+471.032	working it out in your particular system,
+475.389	yes, it is.
+477.426	Now the other thing is,
+479.534	we don't really know that much about how
+479.534	to make a particular thing happen
+485.917	by changing particular spots
+485.917	in the genome.
+489.306	We're a long way away from figuring out
+491.497	how to give a pig wings, for example.
+494.364	Or even an extra leg -- I'd settle
+494.364	for an extra leg.
+497.252	That would be kind of cool, right?
+498.922	But what is happening
+500.482	is that CRISPR is being used
+500.482	by thousands and thousands of scientists
+504.856	to do really, really important work,
+507.252	like making better models
+507.252	of diseases in animals, for example,
+512.72	or for taking pathways
+512.72	that produce valuable chemicals
+517.726	and getting them into industrial
+517.726	production in fermentation vats,
+522.021	or even doing really basic research
+522.021	on what genes do.
+526.022	This is the story of CRISPR
+526.022	we should be telling,
+528.975	and I don't like it
+528.975	that the flashier aspects of it
+532.463	are drowning all of this out.
+534.243	Lots of scientists did a lot of work
+534.243	to make CRISPR happen,
+538.841	and what's interesting to me
+540.484	is that these scientists
+540.484	are being supported by our society.
+545.423	Think about it.
+546.606	We've got an infrastructure that allows
+546.606	a certain percentage of people
+550.983	to spend all their time doing research.
+554.984	That makes us all the inventors of CRISPR,
+558.998	and I would say that makes us all
+558.998	the shepherds of CRISPR.
+563.49	We all have a responsibility.
+565.749	So I would urge you to really learn
+565.749	about these types of technologies,
+570.01	because, really, only in that way
+572.415	are we going to be able to guide
+572.415	the development of these technologies,
+576.791	the use of these technologies
+578.747	and make sure that, in the end,
+578.747	it's a positive outcome --
+583.034	for both the planet and for us.
+586.698	Thanks.
+587.914	(Applause)

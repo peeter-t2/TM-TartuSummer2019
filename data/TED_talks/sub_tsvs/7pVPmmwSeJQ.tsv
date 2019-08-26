@@ -1,0 +1,245 @@
+startsecond	text
+12.498	Five years ago, I was a Ph.D. student
+15.097	living two lives.
+16.741	In one, I used NASA supercomputers
+19.057	to design next-generation spacecraft,
+21.785	and in the other I was a data scientist
+24.364	looking for potential smugglers
+26.783	of sensitive nuclear technologies.
+30.022	As a data scientist, I did a lot of analyses,
+32.881	mostly of facilities,
+34.348	industrial facilities around the world.
+36.619	And I was always looking for a better canvas
+39.307	to tie these all together.
+41.373	And one day, I was thinking about how
+43.239	all data has a location,
+45.363	and I realized that the answer
+47.096	had been staring me in the face.
+48.984	Although I was a satellite engineer,
+51.622	I hadn't thought about using satellite imagery
+54.793	in my work.
+56.359	Now, like most of us, I'd been online,
+58.306	I'd see my house, so I thought,
+60.088	I'll hop in there and I'll start looking up
+62.386	some of these facilities.
+63.803	And what I found really surprised me.
+65.772	The pictures that I was finding
+67.446	were years out of date,
+69.347	and because of that,
+70.415	it had relatively little relevance
+72.086	to the work that I was doing today.
+74.546	But I was intrigued.
+76.007	I mean, satellite imagery is pretty amazing stuff.
+79.243	There are millions and millions of sensors
+81.546	surrounding us today,
+82.99	but there's still so much we
+82.99	don't know on a daily basis.
+85.95	How much oil is stored in all of China?
+89.703	How much corn is being produced?
+92.636	How many ships are in all of our world's ports?
+96.707	Now, in theory, all of these questions
+99.266	could be answered by imagery,
+101.51	but not if it's old.
+103.237	And if this data was so valuable,
+105.695	then how come I couldn't get my hands
+107.627	on more recent pictures?
+110.177	So the story begins over 50 years ago
+113.312	with the launch of the first generation
+115.183	of U.S. government photo reconnaissance satellites.
+118.783	And today, there's a handful
+120.479	of the great, great grandchildren
+122.674	of these early Cold War machines
+124.339	which are now operated by private companies
+126.348	and from which the vast majority of satellite imagery
+129.057	that you and I see on a daily basis comes.
+131.882	During this period, launching things into space,
+134.796	just the rocket to get the satellite up there,
+137.473	has cost hundreds of millions of dollars each,
+142.074	and that's created tremendous pressure
+143.826	to launch things infrequently
+146.115	and to make sure that when you do,
+147.459	you cram as much functionality in there as possible.
+151.098	All of this has only made satellites
+152.709	bigger and bigger and bigger
+155.126	and more expensive,
+156.724	now nearly a billion, with a b, dollars per copy.
+161.761	Because they are so expensive,
+163.46	there aren't very many of them.
+164.927	Because there aren't very many of them,
+166.272	the pictures that we see on a daily basis
+168.728	tend to be old.
+170.232	I think a lot of people actually
+170.232	understand this anecdotally,
+173.514	but in order to visualize just how sparsely
+176.053	our planet is collected,
+177.937	some friends and I put together a dataset
+180.003	of the 30 million pictures that have been gathered
+182.59	by these satellites between 2000 and 2010.
+186.074	As you can see in blue, huge areas of our world
+188.829	are barely seen, less than once a year,
+191.619	and even the areas that are seen most frequently,
+193.891	those in red, are seen at best once a quarter.
+197.639	Now as aerospace engineering grad students,
+200.555	this chart cried out to us as a challenge.
+203.983	Why do these things have to be so expensive?
+207.438	Does a single satellite really have to cost
+210.173	the equivalent of three 747 jumbo jets?
+214.936	Wasn't there a way to build a smaller,
+217.099	simpler, new satellite design that could enable
+220.271	more timely imaging?
+222.289	I realize that it does sound a little bit crazy
+225.74	that we were going to go out and just
+227.251	begin designing satellites,
+229.098	but fortunately we had help.
+231.061	In the late 1990s, a couple of professors
+233.996	proposed a concept for radically reducing the price
+237.477	of putting things in space.
+239.249	This was hitchhiking small satellites
+241.36	alongside much larger satellites.
+244.376	This dropped the cost of putting objects up there
+247.285	by over a factor of 100,
+249.283	and suddenly we could afford to experiment,
+252.369	to take a little bit of risk,
+253.837	and to realize a lot of innovation.
+256.103	And a new generation of engineers and scientists,
+259.192	mostly out of universities,
+260.791	began launching these very small,
+263.134	breadbox-sized satellites called CubeSats.
+265.725	And these were built with electronics obtained
+268.128	from RadioShack instead of Lockheed Martin.
+272.026	Now it was using the lessons
+272.026	learned from these early missions
+274.866	that my friends and I began a series of sketches
+277.561	of our own satellite design.
+279.25	And I can't remember a specific day
+282.034	where we made a conscious decision
+283.894	that we were actually going to
+283.894	go out and build these things,
+286.529	but once we got that idea in our minds
+288.959	of the world as a dataset,
+291.12	of being able to capture millions of data points
+293.61	on a daily basis describing the global economy,
+296.663	of being able to unearth billions of connections
+299.183	between them that had never before been found,
+302.348	it just seemed boring
+303.996	to go work on anything else.
+306.903	And so we moved into a cramped,
+309.876	windowless office in Palo Alto,
+312.855	and began working to take our design
+314.822	from the drawing board into the lab.
+317.76	The first major question we had to tackle
+320.418	was just how big to build this thing.
+322.752	In space, size drives cost,
+325.935	and we had worked with these very small,
+327.948	breadbox-sized satellites in school,
+330.042	but as we began to better
+330.042	understand the laws of physics,
+332.593	we found that the quality of pictures
+334.715	those satellites could take was very limited,
+337.799	because the laws of physics dictate
+339.503	that the best picture you
+339.503	can take through a telescope
+342.609	is a function of the diameter of that telescope,
+344.848	and these satellites had a very small,
+346.51	very constrained volume.
+348.216	And we found that the best picture we would
+350.011	have been able to get looked something like this.
+352.496	Although this was the low-cost option,
+354.741	quite frankly it was just too blurry
+356.414	to see the things that make
+356.414	satellite imagery valuable.
+359.983	So about three or four weeks later,
+362.129	we met a group of engineers randomly
+364.946	who had worked on the first
+366.587	private imaging satellite ever developed,
+369.028	and they told us that back in the 1970s,
+371.146	the U.S. government had found a powerful
+373.328	optimal tradeoff --
+374.971	that in taking pictures at right
+374.971	about one meter resolution,
+378.059	being able to see objects one meter in size,
+380.943	they had found that they could not
+380.943	just get very high-quality images,
+383.634	but get a lot of them at an affordable price.
+386.527	From our own computer simulations,
+388.503	we quickly found that one meter really was
+390.508	the minimum viable product
+392.272	to be able to see the drivers of our global economy,
+395.351	for the first time, being able to count
+396.912	the ships and cars and shipping
+396.912	containers and trucks
+399.633	that move around our world on a daily basis,
+402.457	while conveniently still not
+402.457	being able to see individuals.
+406.261	We had found our compromise.
+407.882	We would have to build something larger
+409.486	than the original breadbox,
+411.049	now more like a mini-fridge,
+412.7	but we still wouldn't have to build a pickup truck.
+415.461	So now we had our constraint.
+418.085	The laws of physics dictated
+419.842	the absolute minimum-sized
+419.842	telescope that we could build.
+423.166	What came next was making the rest of the satellite
+426.22	as small and as simple as possible,
+427.961	basically a flying telescope with four walls
+430.613	and a set of electronics smaller than a phone book
+433.554	that used less power than a 100 watt lightbulb.
+436.992	The big challenge became actually taking
+438.892	the pictures through that telescope.
+441.09	Traditional imaging satellites use a line scanner,
+444.134	similar to a Xerox machine,
+445.895	and as they traverse the Earth, they take pictures,
+448.295	scanning row by row by row
+450.491	to build the complete image.
+452.166	Now people use these because they get a lot of light,
+455.17	which means less of the noise you see
+457.016	in a low-cost cell phone image.
+459.752	The problem with them is they require
+462.113	very sophisticated pointing.
+464.353	You have to stay focused on a 50-centimeter target
+466.899	from over 600 miles away
+468.651	while moving at more than
+468.651	seven kilometers a second,
+470.883	which requires an awesome degree of complexity.
+473.632	So instead, we turned to a new
+473.632	generation of video sensors,
+477.069	originally created for use in night vision goggles.
+480.16	Instead of taking a single, high quality image,
+483.059	we could take a videostream
+484.446	of individually noisier frames,
+487.369	but then we could recombine
+489.113	all of those frames together
+490.579	into very high-quality images
+492.575	using sophisticated pixel processing techniques
+495.168	here on the ground,
+496.689	at a cost of one one hundredth a traditional system.
+499.826	And we applied this technique
+500.979	to many of the other systems on the satellite as well,
+503.953	and day by day, our design evolved
+506.793	from CAD to prototypes
+510.282	to production units.
+513.17	A few short weeks ago,
+514.827	we packed up SkySat 1,
+516.678	put our signatures on it,
+518.451	and waved goodbye for the last time on Earth.
+520.674	Today, it's sitting in its final launch configuration
+524.155	ready to blast off in a few short weeks.
+527.216	And soon, we'll turn our attention to launching
+529.558	a constellation of 24 or more of these satellites
+532.589	and beginning to build the scalable analytics
+535.139	that will allow us to unearth the insights
+537.478	in the petabytes of data we will collect.
+540.667	So why do all of this? Why build these satellites?
+544.64	Well, it turns out imaging satellites
+547.251	have a unique ability to provide global transparency,
+550.961	and providing that transparency on a timely basis
+553.587	is simply an idea whose time has come.
+556.998	We see ourselves as pioneers of a new frontier,
+560.521	and beyond economic data,
+562.285	unlocking the human story, moment by moment.
+565.886	For a data scientist
+567.449	that just happened to go to space camp as a kid,
+570.199	it just doesn't get much better than that.
+572.914	Thank you.
+575.129	(Applause)

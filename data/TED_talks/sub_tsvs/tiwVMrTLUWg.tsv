@@ -1,0 +1,545 @@
+startsecond	text
+12.528	So in 1885, Karl Benz
+12.528	invented the automobile.
+16.707	Later that year, he took it out
+16.707	for the first public test drive,
+20.469	and -- true story --
+20.469	crashed into a wall.
+24.184	For the last 130 years,
+26.227	we've been working around that least
+26.227	reliable part of the car, the driver.
+30.546	We've made the car stronger.
+32.2	We've added seat belts,
+32.2	we've added air bags,
+34.748	and in the last decade, we've actually
+34.748	started trying to make the car smarter
+38.719	to fix that bug, the driver.
+41.657	Now, today I'm going to talk to you
+41.657	a little bit about the difference
+44.918	between patching around the problem
+44.918	with driver assistance systems
+48.726	and actually having fully
+48.726	self-driving cars
+51.29	and what they can do for the world.
+53.17	I'm also going to talk to you
+53.17	a little bit about our car
+56.165	and allow you to see how it sees the world
+56.165	and how it reacts and what it does,
+60.164	but first I'm going to talk
+60.164	a little bit about the problem.
+63.651	And it's a big problem:
+65.299	1.2 million people are killed
+65.299	on the world's roads every year.
+68.388	In America alone, 33,000 people
+68.388	are killed each year.
+72.172	To put that in perspective,
+74.2	that's the same as a 737
+74.2	falling out of the sky every working day.
+79.342	It's kind of unbelievable.
+81.548	Cars are sold to us like this,
+83.846	but really, this is what driving's like.
+86.563	Right? It's not sunny, it's rainy,
+88.722	and you want to do anything
+88.722	other than drive.
+91.21	And the reason why is this:
+92.832	Traffic is getting worse.
+94.69	In America, between 1990 and 2010,
+98.196	the vehicle miles traveled
+98.196	increased by 38 percent.
+102.213	We grew by six percent of roads,
+104.962	so it's not in your brains.
+106.564	Traffic really is substantially worse
+106.564	than it was not very long ago.
+110.84	And all of this has a very human cost.
+113.529	So if you take the average commute time
+113.529	in America, which is about 50 minutes,
+117.477	you multiply that by the 120 million
+117.477	workers we have,
+121.126	that turns out to be
+121.126	about six billion minutes
+123.351	wasted in commuting every day.
+125.377	Now, that's a big number,
+125.377	so let's put it in perspective.
+128.204	You take that six billion minutes
+129.978	and you divide it by the average
+129.978	life expectancy of a person,
+133.762	that turns out to be 162 lifetimes
+136.897	spent every day, wasted,
+139.822	just getting from A to B.
+141.866	It's unbelievable.
+143.596	And then, there are those of us
+143.596	who don't have the privilege
+146.44	of sitting in traffic.
+148.112	So this is Steve.
+149.69	He's an incredibly capable guy,
+151.455	but he just happens to be blind,
+153.971	and that means instead of a 30-minute
+153.971	drive to work in the morning,
+157.188	it's a two-hour ordeal
+157.188	of piecing together bits of public transit
+161.167	or asking friends and family for a ride.
+163.552	He doesn't have that same freedom
+163.552	that you and I have to get around.
+167.221	We should do something about that.
+169.891	Now, conventional wisdom would say
+171.648	that we'll just take
+171.648	these driver assistance systems
+174.14	and we'll kind of push them
+174.14	and incrementally improve them,
+177.89	and over time, they'll turn
+177.89	into self-driving cars.
+180.432	Well, I'm here to tell you
+180.432	that's like me saying
+182.841	that if I work really hard at jumping,
+182.841	one day I'll be able to fly.
+186.898	We actually need to do
+186.898	something a little different.
+189.626	And so I'm going to talk to you
+189.626	about three different ways
+192.337	that self-driving systems are different
+192.337	than driver assistance systems.
+195.683	And I'm going to start
+195.683	with some of our own experience.
+198.334	So back in 2013,
+200.587	we had the first test
+200.587	of a self-driving car
+203.25	where we let regular people use it.
+205.277	Well, almost regular --
+205.277	they were 100 Googlers,
+207.479	but they weren't working on the project.
+209.482	And we gave them the car and we allowed
+209.482	them to use it in their daily lives.
+213.103	But unlike a real self-driving car,
+213.103	this one had a big asterisk with it:
+216.822	They had to pay attention,
+218.326	because this was an experimental vehicle.
+220.959	We tested it a lot,
+220.959	but it could still fail.
+224.484	And so we gave them two hours of training,
+226.543	we put them in the car,
+226.543	we let them use it,
+228.635	and what we heard back
+228.635	was something awesome,
+230.762	as someone trying
+230.762	to bring a product into the world.
+233.286	Every one of them told us they loved it.
+235.211	In fact, we had a Porsche driver
+235.211	who came in and told us on the first day,
+238.777	"""This is completely stupid."
+238.777	"What are we thinking?"""
+241.85	But at the end of it, he said,
+241.85	"""Not only should I have it,"
+244.69	everyone else should have it,
+244.69	"because people are terrible drivers."""
+249.135	So this was music to our ears,
+250.87	but then we started to look at what
+250.87	the people inside the car were doing,
+254.673	and this was eye-opening.
+256.252	Now, my favorite story is this gentleman
+258.69	who looks down at his phone
+258.69	and realizes the battery is low,
+262.519	so he turns around like this in the car
+262.519	and digs around in his backpack,
+267.067	pulls out his laptop,
+269.22	puts it on the seat,
+270.787	goes in the back again,
+272.551	digs around, pulls out
+272.551	the charging cable for his phone,
+275.918	futzes around, puts it into the laptop,
+275.918	puts it on the phone.
+279.285	Sure enough, the phone is charging.
+281.328	All the time he's been doing
+285.322	Right? Unbelievable.
+287.806	So we thought about this and we said,
+287.806	it's kind of obvious, right?
+290.927	The better the technology gets,
+293.19	the less reliable
+293.19	the driver is going to get.
+295.311	So by just making the cars
+295.311	incrementally smarter,
+297.707	we're probably not going to see
+297.707	the wins we really need.
+300.609	Let me talk about something
+300.609	a little technical for a moment here.
+304.51	So we're looking at this graph,
+304.51	and along the bottom
+306.948	is how often does the car
+306.948	apply the brakes when it shouldn't.
+309.999	You can ignore most of that axis,
+311.62	because if you're driving around town,
+311.62	and the car starts stopping randomly,
+315.339	you're never going to buy that car.
+317.04	And the vertical axis is how often
+317.04	the car is going to apply the brakes
+320.415	when it's supposed to
+320.415	to help you avoid an accident.
+323.464	Now, if we look at
+323.464	the bottom left corner here,
+325.685	this is your classic car.
+327.53	It doesn't apply the brakes for you,
+327.53	it doesn't do anything goofy,
+330.663	but it also doesn't get you
+330.663	out of an accident.
+333.442	Now, if we want to bring
+333.442	a driver assistance system into a car,
+336.46	say with collision mitigation braking,
+338.288	we're going to put some package
+338.288	of technology on there,
+340.9	and that's this curve, and it's going
+340.9	to have some operating properties,
+344.318	but it's never going to avoid
+344.318	all of the accidents,
+346.808	because it doesn't have that capability.
+348.867	But we'll pick some place
+348.867	along the curve here,
+351.116	and maybe it avoids half of accidents
+351.116	that the human driver misses,
+354.37	and that's amazing, right?
+355.667	We just reduced accidents on our roads
+355.667	by a factor of two.
+358.394	There are now 17,000 less people
+358.394	dying every year in America.
+362.381	But if we want a self-driving car,
+364.401	we need a technology curve
+364.401	that looks like this.
+366.708	We're going to have to put
+366.708	more sensors in the vehicle,
+369.307	and we'll pick some
+369.307	operating point up here
+371.328	where it basically never
+371.328	gets into a crash.
+373.347	They'll happen, but very low frequency.
+375.79	Now you and I could look at this
+375.79	and we could argue
+378.251	about whether it's incremental, and
+378.251	"I could say something like ""80-20 rule,"""
+381.856	and it's really hard to move up
+381.856	to that new curve.
+384.424	But let's look at it
+384.424	from a different direction for a moment.
+387.358	So let's look at how often
+387.358	the technology has to do the right thing.
+390.87	And so this green dot up here
+390.87	is a driver assistance system.
+394.376	It turns out that human drivers
+396.861	make mistakes that lead
+396.861	to traffic accidents
+399.508	about once every 100,000 miles in America.
+402.68	In contrast, a self-driving system
+402.68	is probably making decisions
+405.847	about 10 times per second,
+409.51	so order of magnitude,
+410.932	that's about 1,000 times per mile.
+413.764	So if you compare the distance
+413.764	between these two,
+416.249	it's about 10 to the eighth, right?
+418.849	Eight orders of magnitude.
+420.614	That's like comparing how fast I run
+423.423	to the speed of light.
+425.629	It doesn't matter how hard I train,
+425.629	I'm never actually going to get there.
+429.414	So there's a pretty big gap there.
+431.852	And then finally, there's how
+431.852	the system can handle uncertainty.
+435.581	So this pedestrian here might be
+435.581	stepping into the road, might not be.
+438.904	I can't tell,
+438.904	nor can any of our algorithms,
+442.31	but in the case of
+442.31	a driver assistance system,
+444.594	that means it can't take action,
+444.594	because again,
+447.4	if it presses the brakes unexpectedly,
+447.4	that's completely unacceptable.
+450.739	Whereas a self-driving system
+450.739	can look at that pedestrian and say,
+453.872	I don't know what they're about to do,
+455.762	slow down, take a better look,
+455.762	and then react appropriately after that.
+459.524	So it can be much safer than
+459.524	a driver assistance system can ever be.
+463.226	So that's enough about
+463.226	the differences between the two.
+465.956	Let's spend some time talking about
+465.956	how the car sees the world.
+469.44	So this is our vehicle.
+470.692	It starts by understanding
+470.692	where it is in the world,
+473.13	by taking a map and its sensor data
+473.13	and aligning the two,
+475.917	and then we layer on top of that
+475.917	what it sees in the moment.
+478.865	So here, all the purple boxes you can see
+478.865	are other vehicles on the road,
+482.52	and the red thing on the side
+482.52	over there is a cyclist,
+485.048	and up in the distance,
+485.048	if you look really closely,
+487.45	you can see some cones.
+489.244	Then we know where the car
+489.244	is in the moment,
+492.017	but we have to do better than that:
+492.017	we have to predict what's going to happen.
+495.85	So here the pickup truck in top right
+495.85	is about to make a left lane change
+499.338	because the road in front of it is closed,
+501.561	so it needs to get out of the way.
+503.292	Knowing that one pickup truck is great,
+505.155	but we really need to know
+505.155	what everybody's thinking,
+507.634	so it becomes quite a complicated problem.
+510.141	And then given that, we can figure out
+510.141	how the car should respond in the moment,
+514.89	so what trajectory it should follow, how
+514.89	quickly it should slow down or speed up.
+518.756	And then that all turns into
+518.756	just following a path:
+521.821	turning the steering wheel left or right,
+521.821	pressing the brake or gas.
+525.018	It's really just two numbers
+525.018	at the end of the day.
+527.482	So how hard can it really be?
+530.433	Back when we started in 2009,
+532.385	this is what our system looked like.
+534.183	So you can see our car in the middle
+534.183	and the other boxes on the road,
+537.574	driving down the highway.
+538.845	The car needs to understand where it is
+538.845	and roughly where the other vehicles are.
+542.663	It's really a geometric
+542.663	understanding of the world.
+545.092	Once we started driving
+545.092	on neighborhood and city streets,
+548.04	the problem becomes a whole
+548.04	new level of difficulty.
+550.485	You see pedestrians crossing in front
+550.485	of us, cars crossing in front of us,
+553.979	going every which way,
+555.79	the traffic lights, crosswalks.
+557.317	It's an incredibly complicated
+557.317	problem by comparison.
+560.114	And then once you have
+560.114	that problem solved,
+562.217	the vehicle has to be able
+562.217	to deal with construction.
+564.729	So here are the cones on the left
+564.729	forcing it to drive to the right,
+567.88	but not just construction
+567.88	in isolation, of course.
+570.282	It has to deal with other people moving
+570.282	through that construction zone as well.
+574.005	And of course, if anyone's
+574.005	breaking the rules, the police are there
+577.268	and the car has to understand that
+577.268	that flashing light on the top of the car
+580.89	means that it's not just a car,
+580.89	it's actually a police officer.
+583.995	Similarly, the orange box
+583.995	on the side here,
+586.027	it's a school bus,
+587.136	and we have to treat that
+587.136	differently as well.
+590.576	When we're out on the road,
+590.576	other people have expectations:
+593.369	So, when a cyclist puts up their arm,
+595.149	it means they're expecting the car
+595.149	to yield to them and make room for them
+598.667	to make a lane change.
+601.03	And when a police officer
+601.03	stood in the road,
+603.203	our vehicle should understand
+603.203	that this means stop,
+605.943	and when they signal to go,
+605.943	we should continue.
+609.449	Now, the way we accomplish this
+609.449	is by sharing data between the vehicles.
+613.21	The first, most crude model of this
+614.906	is when one vehicle
+614.906	sees a construction zone,
+617.019	having another know about it
+617.019	so it can be in the correct lane
+620.081	to avoid some of the difficulty.
+621.651	But we actually have a much
+621.651	deeper understanding of this.
+624.315	We could take all of the data
+624.315	that the cars have seen over time,
+627.324	the hundreds of thousands
+627.324	of pedestrians, cyclists,
+629.7	and vehicles that have been out there
+631.487	and understand what they look like
+633.182	and use that to infer
+633.182	what other vehicles should look like
+636.013	and other pedestrians should look like.
+637.939	And then, even more importantly,
+637.939	we could take from that a model
+640.96	of how we expect them
+640.96	to move through the world.
+643.29	So here the yellow box is a pedestrian
+643.29	crossing in front of us.
+646.253	Here the blue box is a cyclist
+646.253	and we anticipate
+648.503	that they're going to nudge out
+648.503	and around the car to the right.
+652.115	Here there's a cyclist
+652.115	coming down the road
+654.207	and we know they're going to continue
+654.207	to drive down the shape of the road.
+657.693	Here somebody makes a right turn,
+659.56	and in a moment here, somebody's
+659.56	going to make a U-turn in front of us,
+662.92	and we can anticipate that behavior
+662.92	and respond safely.
+665.534	Now, that's all well and good
+665.534	for things that we've seen,
+668.262	but of course, you encounter
+668.262	lots of things that you haven't
+671.127	seen in the world before.
+672.358	And so just a couple of months ago,
+674.099	our vehicles were driving
+674.099	through Mountain View,
+676.334	and this is what we encountered.
+677.978	This is a woman in an electric wheelchair
+680.06	chasing a duck in circles on the road.
+680.06	(Laughter)
+682.677	Now it turns out, there is nowhere
+682.677	in the DMV handbook
+685.788	that tells you how to deal with that,
+688.033	but our vehicles were able
+688.033	to encounter that,
+690.176	slow down, and drive safely.
+692.431	Now, we don't have to deal
+692.431	with just ducks.
+694.472	Watch this bird fly across in front of us.
+694.472	The car reacts to that.
+698.18	Here we're dealing with a cyclist
+699.795	that you would never expect to see
+699.795	anywhere other than Mountain View.
+703.085	And of course, we have
+703.085	to deal with drivers,
+705.153	even the very small ones.
+708.868	Watch to the right as someone
+708.868	jumps out of this truck at us.
+714.46	And now, watch the left as the car
+714.46	with the green box decides
+717.389	he needs to make a right turn
+717.389	at the last possible moment.
+720.714	Here, as we make a lane change,
+720.714	the car to our left decides
+723.565	it wants to as well.
+727.118	And here, we watch a car
+727.118	blow through a red light
+729.811	and yield to it.
+731.901	And similarly, here, a cyclist
+731.901	blowing through that light as well.
+735.755	And of course,
+735.755	the vehicle responds safely.
+738.501	And of course, we have people
+738.501	who do I don't know what
+741.102	sometimes on the road, like this guy
+741.102	pulling out between two self-driving cars.
+744.925	"You have to ask, ""What are you thinking?"""
+746.97	(Laughter)
+748.182	Now, I just fire-hosed you
+748.182	with a lot of stuff there,
+750.703	so I'm going to break one of these
+750.703	down pretty quickly.
+753.353	So what we're looking at is the scene
+753.353	with the cyclist again,
+756.293	and you might notice in the bottom,
+756.293	we can't actually see the cyclist yet,
+759.784	but the car can: it's that little
+759.784	blue box up there,
+762.288	and that comes from the laser data.
+764.369	And that's not actually
+764.369	really easy to understand,
+766.787	so what I'm going to do is I'm going
+766.787	to turn that laser data and look at it,
+770.371	and if you're really good at looking
+770.371	at laser data, you can see
+773.4	a few dots on the curve there,
+774.887	right there, and that blue box
+774.887	is that cyclist.
+777.259	Now as our light is red,
+778.408	the cyclist's light
+778.408	has turned yellow already,
+780.6	and if you squint, you can see that
+780.6	in the imagery.
+783.038	But the cyclist, we see, is going
+783.038	to proceed through the intersection.
+786.324	Our light has now turned green,
+786.324	his is solidly red,
+788.718	and we now anticipate that this bike
+788.718	is going to come all the way across.
+793.01	Unfortunately the other drivers next to us
+793.01	were not paying as much attention.
+796.752	They started to pull forward,
+796.752	and fortunately for everyone,
+799.909	this cyclists reacts, avoids,
+802.92	and makes it through the intersection.
+805.111	And off we go.
+806.679	Now, as you can see, we've made
+806.679	some pretty exciting progress,
+809.627	and at this point we're pretty convinced
+811.529	this technology is going
+811.529	to come to market.
+813.539	We do three million miles of testing
+813.539	in our simulators every single day,
+818.322	so you can imagine the experience
+818.322	that our vehicles have.
+821.011	We are looking forward to having
+821.011	this technology on the road,
+823.875	and we think the right path
+823.875	is to go through the self-driving
+826.765	rather than driver assistance approach
+828.609	because the urgency is so large.
+831.23	In the time I have given this talk today,
+836.758	How soon can we bring it out?
+839.126	Well, it's hard to say because
+839.126	it's a really complicated problem,
+842.958	but these are my two boys.
+845.172	My oldest son is 11, and that means
+845.172	in four and a half years,
+848.795	he's going to be able
+848.795	to get his driver's license.
+851.372	My team and I are committed
+851.372	to making sure that doesn't happen.
+854.576	Thank you.
+856.48	(Laughter) (Applause)
+861.11	Chris Anderson: Chris,
+861.11	I've got a question for you.
+863.678	Chris Urmson: Sure.
+866.487	CA: So certainly, the mind of your cars
+866.487	is pretty mind-boggling.
+870.411	On this debate between
+870.411	driver-assisted and fully driverless --
+874.87	I mean, there's a real debate
+874.87	going on out there right now.
+877.911	So some of the companies,
+877.911	for example, Tesla,
+880.744	are going the driver-assisted route.
+882.903	What you're saying is that
+882.903	that's kind of going to be a dead end
+888.151	because you can't just keep improving
+888.151	that route and get to fully driverless
+893.607	at some point, and then a driver
+893.607	"is going to say, ""This feels safe,"""
+897.137	and climb into the back,
+897.137	and something ugly will happen.
+899.784	CU: Right. No, that's exactly right,
+899.784	and it's not to say
+902.46	that the driver assistance systems
+902.46	aren't going to be incredibly valuable.
+905.997	They can save a lot of lives
+905.997	in the interim,
+908.055	but to see the transformative opportunity
+908.055	to help someone like Steve get around,
+911.888	to really get to the end case in safety,
+913.857	to have the opportunity
+913.857	to change our cities
+916.336	and move parking out and get rid of
+916.336	these urban craters we call parking lots,
+920.54	it's the only way to go.
+921.78	CA: We will be tracking your progress
+921.78	with huge interest.
+924.498	Thanks so much, Chris.
+924.498	CU: Thank you. (Applause)

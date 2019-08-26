@@ -1,0 +1,417 @@
+startsecond	text
+17.26	We live in in a remarkable time,
+20.26	the age of genomics.
+23.26	Your genome is the entire sequence of your DNA.
+26.26	Your sequence and mine are slightly different.
+29.26	That's why we look different.
+31.26	I've got brown eyes;
+33.26	you might have blue or gray.
+36.26	But it's not just skin-deep.
+38.26	The headlines tell us
+40.26	that genes can give us scary diseases,
+43.26	maybe even shape our personality,
+46.26	or give us mental disorders.
+49.26	Our genes seem to have
+52.26	awesome power over our destinies.
+56.26	And yet, I would like to think
+59.26	that I am more than my genes.
+64.26	What do you guys think?
+66.26	Are you more than your genes?
+69.26	(Audience: Yes.) Yes?
+73.26	I think some people agree with me.
+75.26	I think we should make a statement.
+77.26	I think we should say it all together.
+80.26	"All right: ""I'm more than my genes"" -- all together."
+83.26	Everybody: I am more than my genes.
+87.26	(Cheering)
+90.26	Sebastian Seung: What am I?
+92.26	(Laughter)
+95.26	I am my connectome.
+100.26	Now, since you guys are really great,
+102.26	maybe you can humor me and say this all together too.
+104.26	(Laughter)
+106.26	Right. All together now.
+108.26	Everybody: I am my connectome.
+113.26	SS: That sounded great.
+115.26	You know, you guys are so great, you don't even know what a connectome is,
+117.26	and you're willing to play along with me.
+119.26	I could just go home now.
+122.26	Well, so far only one connectome is known,
+125.26	that of this tiny worm.
+128.26	Its modest nervous system
+130.26	consists of just 300 neurons.
+132.26	And in the 1970s and '80s,
+134.26	a team of scientists
+136.26	mapped all 7,000 connections
+138.26	between the neurons.
+141.26	In this diagram, every node is a neuron,
+143.26	and every line is a connection.
+145.26	This is the connectome
+147.26	of the worm C. elegans.
+151.26	Your connectome is far more complex than this
+154.26	because your brain
+156.26	contains 100 billion neurons
+158.26	and 10,000 times as many connections.
+161.26	There's a diagram like this for your brain,
+163.26	but there's no way it would fit on this slide.
+167.26	Your connectome contains one million times more connections
+170.26	than your genome has letters.
+173.26	That's a lot of information.
+175.26	What's in that information?
+179.26	We don't know for sure, but there are theories.
+182.26	Since the 19th century, neuroscientists have speculated
+185.26	that maybe your memories --
+187.26	the information that makes you, you --
+189.26	maybe your memories are stored
+191.26	in the connections between your brain's neurons.
+195.26	And perhaps other aspects of your personal identity --
+197.26	maybe your personality and your intellect --
+200.26	maybe they're also encoded
+202.26	in the connections between your neurons.
+206.26	And so now you can see why I proposed this hypothesis:
+209.26	I am my connectome.
+212.26	I didn't ask you to chant it because it's true;
+215.26	I just want you to remember it.
+217.26	And in fact, we don't know if this hypothesis is correct,
+219.26	because we have never had technologies
+221.26	powerful enough to test it.
+224.26	Finding that worm connectome
+227.26	took over a dozen years of tedious labor.
+230.26	And to find the connectomes of brains more like our own,
+233.26	we need more sophisticated technologies, that are automated,
+236.26	that will speed up the process of finding connectomes.
+239.26	And in the next few minutes, I'll tell you about some of these technologies,
+242.26	which are currently under development
+244.26	in my lab and the labs of my collaborators.
+248.26	Now you've probably seen pictures of neurons before.
+251.26	You can recognize them instantly
+253.26	by their fantastic shapes.
+256.26	They extend long and delicate branches,
+259.26	and in short, they look like trees.
+262.26	But this is just a single neuron.
+265.26	In order to find connectomes,
+267.26	we have to see all the neurons at the same time.
+270.26	So let's meet Bobby Kasthuri,
+272.26	who works in the laboratory of Jeff Lichtman
+274.26	at Harvard University.
+276.26	Bobby is holding fantastically thin slices
+278.26	of a mouse brain.
+280.26	And we're zooming in by a factor of 100,000 times
+284.26	to obtain the resolution,
+286.26	so that we can see the branches of neurons all at the same time.
+290.26	Except, you still may not really recognize them,
+293.26	and that's because we have to work in three dimensions.
+296.26	If we take many images of many slices of the brain
+298.26	and stack them up,
+300.26	we get a three-dimensional image.
+302.26	And still, you may not see the branches.
+304.26	So we start at the top,
+306.26	and we color in the cross-section of one branch in red,
+309.26	and we do that for the next slice
+311.26	and for the next slice.
+313.26	And we keep on doing that,
+315.26	slice after slice.
+318.26	If we continue through the entire stack,
+320.26	we can reconstruct the three-dimensional shape
+323.26	of a small fragment of a branch of a neuron.
+326.26	And we can do that for another neuron in green.
+328.26	And you can see that the green neuron touches the red neuron
+330.26	at two locations,
+332.26	and these are what are called synapses.
+334.26	Let's zoom in on one synapse,
+336.26	and keep your eyes on the interior of the green neuron.
+339.26	You should see small circles --
+341.26	these are called vesicles.
+344.26	They contain a molecule know as a neurotransmitter.
+347.26	And so when the green neuron wants to communicate,
+349.26	it wants to send a message to the red neuron,
+351.26	it spits out neurotransmitter.
+354.26	At the synapse, the two neurons
+356.26	are said to be connected
+358.26	like two friends talking on the telephone.
+362.26	So you see how to find a synapse.
+364.26	How can we find an entire connectome?
+367.26	Well, we take this three-dimensional stack of images
+370.26	and treat it as a gigantic three-dimensional coloring book.
+373.26	We color every neuron in, in a different color,
+376.26	and then we look through all of the images,
+378.26	find the synapses
+380.26	and note the colors of the two neurons involved in each synapse.
+383.26	If we can do that throughout all the images,
+386.26	we could find a connectome.
+389.26	Now, at this point,
+391.26	you've learned the basics of neurons and synapses.
+393.26	And so I think we're ready to tackle
+395.26	one of the most important questions in neuroscience:
+399.26	how are the brains of men and women different?
+402.26	(Laughter)
+404.26	According to this self-help book,
+406.26	guys brains are like waffles;
+408.26	they keep their lives compartmentalized in boxes.
+411.26	Girls' brains are like spaghetti;
+414.26	everything in their life is connected to everything else.
+417.26	(Laughter)
+419.26	You guys are laughing,
+421.26	but you know, this book changed my life.
+423.26	(Laughter)
+427.26	But seriously, what's wrong with this?
+430.26	You already know enough to tell me -- what's wrong with this statement?
+440.26	It doesn't matter whether you're a guy or girl,
+443.26	everyone's brains are like spaghetti.
+446.26	Or maybe really, really fine capellini with branches.
+450.26	Just as one strand of spaghetti
+452.26	contacts many other strands on your plate,
+455.26	one neuron touches many other neurons
+457.26	through their entangled branches.
+459.26	One neuron can be connected to so many other neurons,
+462.26	because there can be synapses
+464.26	at these points of contact.
+469.26	By now, you might have sort of lost perspective
+472.26	on how large this cube of brain tissue actually is.
+475.26	And so let's do a series of comparisons to show you.
+478.26	I assure you, this is very tiny. It's just six microns on a side.
+483.26	So, here's how it stacks up against an entire neuron.
+486.26	And you can tell that, really, only the smallest fragments of branches
+489.26	are contained inside this cube.
+492.26	And a neuron, well, that's smaller than brain.
+497.26	And that's just a mouse brain --
+501.26	it's a lot smaller than a human brain.
+505.26	So when show my friends this,
+507.26	sometimes they've told me,
+509.26	"""You know, Sebastian, you should just give up."
+512.26	"Neuroscience is hopeless."""
+514.26	Because if you look at a brain with your naked eye,
+516.26	you don't really see how complex it is,
+518.26	but when you use a microscope,
+520.26	finally the hidden complexity is revealed.
+525.26	In the 17th century,
+527.26	the mathematician and philosopher, Blaise Pascal,
+529.26	wrote of his dread of the infinite,
+532.26	his feeling of insignificance
+534.26	at contemplating the vast reaches of outer space.
+539.26	And, as a scientist,
+541.26	I'm not supposed to talk about my feelings --
+544.26	too much information, professor.
+546.26	(Laughter)
+548.26	But may I?
+550.26	(Laughter)
+552.26	(Applause)
+554.26	I feel curiosity,
+556.26	and I feel wonder,
+558.26	but at times I have also felt despair.
+562.26	Why did I choose to study
+564.26	this organ that is so awesome in its complexity
+567.26	that it might well be infinite?
+569.26	It's absurd.
+571.26	How could we even dare to think
+573.26	that we might ever understand this?
+578.26	And yet, I persist in this quixotic endeavor.
+581.26	And indeed, these days I harbor new hopes.
+585.26	Someday,
+587.26	a fleet of microscopes will capture
+589.26	every neuron and every synapse
+591.26	in a vast database of images.
+594.26	And some day, artificially intelligent supercomputers
+597.26	will analyze the images without human assistance
+600.26	to summarize them in a connectome.
+604.26	I do not know, but I hope that I will live to see that day,
+608.26	because finding an entire human connectome
+610.26	is one of the greatest technological challenges of all time.
+613.26	It will take the work of generations to succeed.
+617.26	At the present time, my collaborators and I,
+620.26	what we're aiming for is much more modest --
+622.26	just to find partial connectomes
+624.26	of tiny chunks of mouse and human brain.
+627.26	But even that will be enough for the first tests of this hypothesis
+630.26	that I am my connectome.
+635.26	For now, let me try to convince you of the plausibility of this hypothesis,
+638.26	that it's actually worth taking seriously.
+642.26	As you grow during childhood
+644.26	and age during adulthood,
+647.26	your personal identity changes slowly.
+650.26	Likewise, every connectome
+652.26	changes over time.
+655.26	What kinds of changes happen?
+657.26	Well, neurons, like trees,
+659.26	can grow new branches,
+661.26	and they can lose old ones.
+664.26	Synapses can be created,
+667.26	and they can be eliminated.
+670.26	And synapses can grow larger,
+672.26	and they can grow smaller.
+675.26	Second question:
+677.26	what causes these changes?
+680.26	Well, it's true.
+682.26	To some extent, they are programmed by your genes.
+685.26	But that's not the whole story,
+687.26	because there are signals, electrical signals,
+689.26	that travel along the branches of neurons
+691.26	and chemical signals
+693.26	that jump across from branch to branch.
+695.26	These signals are called neural activity.
+698.26	And there's a lot of evidence
+700.26	that neural activity
+703.26	is encoding our thoughts, feelings and perceptions,
+706.26	our mental experiences.
+708.26	And there's a lot of evidence that neural activity
+711.26	can cause your connections to change.
+714.26	And if you put those two facts together,
+717.26	it means that your experiences
+719.26	can change your connectome.
+722.26	And that's why every connectome is unique,
+724.26	even those of genetically identical twins.
+728.26	The connectome is where nature meets nurture.
+732.26	And it might true
+734.26	that just the mere act of thinking
+736.26	can change your connectome --
+738.26	an idea that you may find empowering.
+744.26	What's in this picture?
+748.26	A cool and refreshing stream of water, you say.
+752.26	What else is in this picture?
+757.26	Do not forget that groove in the Earth
+759.26	called the stream bed.
+762.26	Without it, the water would not know in which direction to flow.
+765.26	And with the stream,
+767.26	I would like to propose a metaphor
+769.26	for the relationship between neural activity
+771.26	and connectivity.
+774.26	Neural activity is constantly changing.
+777.26	It's like the water of the stream; it never sits still.
+780.26	The connections
+782.26	of the brain's neural network
+784.26	determines the pathways
+786.26	along which neural activity flows.
+788.26	And so the connectome is like bed of the stream;
+793.26	but the metaphor is richer than that,
+796.26	because it's true that the stream bed
+799.26	guides the flow of the water,
+801.26	but over long timescales,
+803.26	the water also reshapes the bed of the stream.
+806.26	And as I told you just now,
+808.26	neural activity can change the connectome.
+813.26	And if you'll allow me to ascend
+815.26	to metaphorical heights,
+818.26	I will remind you that neural activity
+821.26	is the physical basis -- or so neuroscientists think --
+823.26	of thoughts, feelings and perceptions.
+826.26	And so we might even speak of
+828.26	the stream of consciousness.
+830.26	Neural activity is its water,
+833.26	and the connectome is its bed.
+837.26	So let's return from the heights of metaphor
+839.26	and return to science.
+841.26	Suppose our technologies for finding connectomes
+843.26	actually work.
+845.26	How will we go about testing the hypothesis
+847.26	"""I am my connectome?"""
+850.26	Well, I propose a direct test.
+853.26	Let us attempt
+855.26	to read out memories from connectomes.
+858.26	Consider the memory
+860.26	of long temporal sequences of movements,
+863.26	like a pianist playing a Beethoven sonata.
+866.26	According to a theory that dates back to the 19th century,
+869.26	such memories are stored
+871.26	as chains of synaptic connections inside your brain.
+875.26	Because, if the first neurons in the chain are activated,
+878.26	through their synapses they send messages to the second neurons, which are activated,
+881.26	and so on down the line,
+883.26	like a chain of falling dominoes.
+885.26	And this sequence of neural activation
+887.26	is hypothesized to be the neural basis
+890.26	of those sequence of movements.
+892.26	So one way of trying to test the theory
+894.26	is to look for such chains
+896.26	inside connectomes.
+898.26	But it won't be easy, because they're not going to look like this.
+901.26	They're going to be scrambled up.
+903.26	So we'll have to use our computers
+905.26	to try to unscramble the chain.
+908.26	And if we can do that,
+910.26	the sequence of the neurons we recover from that unscrambling
+913.26	will be a prediction of the pattern of neural activity
+916.26	that is replayed in the brain during memory recall.
+919.26	And if that were successful,
+921.26	that would be the first example of reading a memory from a connectome.
+928.26	(Laughter)
+930.26	What a mess --
+933.26	have you ever tried to wire up a system
+935.26	as complex as this?
+937.26	I hope not.
+939.26	But if you have, you know it's very easy to make a mistake.
+945.26	The branches of neurons are like the wires of the brain.
+947.26	Can anyone guess: what's the total length of wires in your brain?
+954.26	I'll give you a hint. It's a big number.
+956.26	(Laughter)
+959.26	I estimate, millions of miles,
+962.26	all packed in your skull.
+965.26	And if you appreciate that number,
+967.26	you can easily see
+969.26	there is huge potential for mis-wiring of the brain.
+971.26	And indeed, the popular press loves headlines like,
+974.26	"""Anorexic brains are wired differently,"""
+976.26	"or ""Autistic brains are wired differently."""
+978.26	These are plausible claims,
+980.26	but in truth,
+982.26	we can't see the brain's wiring clearly enough
+984.26	to tell if these are really true.
+986.26	And so the technologies for seeing connectomes
+989.26	will allow us to finally
+991.26	read mis-wiring of the brain,
+993.26	to see mental disorders in connectomes.
+1000.26	Sometimes the best way to test a hypothesis
+1003.26	is to consider its most extreme implication.
+1006.26	Philosophers know this game very well.
+1010.26	If you believe that I am my connectome,
+1013.26	I think you must also accept the idea
+1016.26	that death is the destruction
+1018.26	of your connectome.
+1022.26	I mention this because there are prophets today
+1025.26	who claim that technology
+1028.26	will fundamentally alter the human condition
+1031.26	and perhaps even transform the human species.
+1034.26	One of their most cherished dreams
+1037.26	is to cheat death
+1039.26	by that practice known as cryonics.
+1041.26	If you pay 100,000 dollars,
+1043.26	you can arrange to have your body frozen after death
+1046.26	and stored in liquid nitrogen
+1048.26	in one of these tanks in an Arizona warehouse,
+1050.26	awaiting a future civilization
+1052.26	that is advanced to resurrect you.
+1056.26	Should we ridicule the modern seekers of immortality,
+1058.26	calling them fools?
+1060.26	Or will they someday chuckle
+1062.26	over our graves?
+1065.26	I don't know --
+1067.26	I prefer to test their beliefs, scientifically.
+1070.26	I propose that we attempt to find a connectome
+1072.26	of a frozen brain.
+1074.26	We know that damage to the brain
+1076.26	occurs after death and during freezing.
+1078.26	The question is: has that damage erased the connectome?
+1081.26	If it has, there is no way that any future civilization
+1084.26	will be able to recover the memories of these frozen brains.
+1087.26	Resurrection might succeed for the body,
+1089.26	but not for the mind.
+1091.26	On the other hand, if the connectome is still intact,
+1094.26	we cannot ridicule the claims of cryonics so easily.
+1100.26	I've described a quest
+1102.26	that begins in the world of the very small,
+1105.26	and propels us to the world of the far future.
+1108.26	Connectomes will mark a turning point in human history.
+1112.26	As we evolved from our ape-like ancestors
+1114.26	on the African savanna,
+1116.26	what distinguished us was our larger brains.
+1120.26	We have used our brains to fashion
+1122.26	ever more amazing technologies.
+1125.26	Eventually, these technologies will become so powerful
+1128.26	that we will use them to know ourselves
+1131.26	by deconstructing and reconstructing
+1134.26	our own brains.
+1137.26	I believe that this voyage of self-discovery
+1140.26	is not just for scientists,
+1143.26	but for all of us.
+1145.26	And I'm grateful for the opportunity to share this voyage with you today.
+1148.26	Thank you.
+1150.26	(Applause)

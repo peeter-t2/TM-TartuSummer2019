@@ -1,0 +1,184 @@
+startsecond	text
+12.699	Joseph Keller used to jog
+12.699	around the Stanford campus,
+16.795	and he was struck by all the women
+16.795	jogging there as well.
+21.536	Why did their ponytails swing
+21.536	from side to side like that?
+25.687	Being a mathematician,
+25.687	he set out to understand why.
+28.849	(Laughter)
+30.024	Professor Keller was curious
+30.024	about many things:
+32.354	why teapots dribble
+34.345	or how earthworms wriggle.
+36.667	Until a few months ago,
+36.667	I hadn't heard of Joseph Keller.
+40.401	I read about him in the New York Times,
+43.277	in the obituaries.
+44.733	The Times had half a page
+44.733	of editorial dedicated to him,
+48.529	which you can imagine is premium space
+48.529	for a newspaper of their stature.
+53.188	I read the obituaries almost every day.
+56.51	My wife understandably thinks
+56.51	I'm rather morbid
+59.556	to begin my day with scrambled eggs
+59.556	"and a ""Let's see who died today."""
+63.98	(Laughter)
+65.845	But if you think about it,
+67.161	the front page of the newspaper
+67.161	is usually bad news,
+70.598	and cues man's failures.
+72.597	An instance where bad news
+72.597	cues accomplishment
+75.287	is at the end of the paper,
+75.287	in the obituaries.
+79.225	In my day job,
+80.613	I run a company that focuses
+80.613	on future insights
+83.113	that marketers can derive
+83.113	from past data --
+85.557	a kind of rearview-mirror analysis.
+88.912	And we began to think:
+90.091	What if we held a rearview mirror
+90.091	to obituaries from the New York Times?
+96.334	Were there lessons on how you could get
+96.334	your obituary featured --
+99.826	even if you aren't around to enjoy it?
+101.827	(Laughter)
+103.335	Would this go better with scrambled eggs?
+105.987	(Laughter)
+107.983	And so, we looked at the data.
+111.689	2,000 editorial, non-paid obituaries
+116.207	over a 20-month period
+116.207	between 2015 and 2016.
+119.873	What did these 2,000 deaths --
+119.873	rather, lives -- teach us?
+124.721	Well, first we looked at words.
+126.778	This here is an obituary headline.
+128.563	This one is of the amazing Lee Kuan Yew.
+130.883	If you remove the beginning and the end,
+133.429	you're left with a beautifully
+133.429	worded descriptor
+136.787	that tries to, in just a few words,
+136.787	capture an achievement or a lifetime.
+141.486	Just looking at these is fascinating.
+144.121	Here are a few famous ones,
+144.121	people who died in the last two years.
+147.44	Try and guess who they are.
+148.783	[An Artist who Defied Genre]
+150.247	That's Prince.
+152.317	[Titan of Boxing and the 20th Century]
+154.178	Oh, yes.
+155.362	[Muhammad Ali]
+156.61	[Groundbreaking Architect]
+158.18	Zaha Hadid.
+160.663	So we took these descriptors
+162.435	and did what's called
+162.435	natural language processing,
+164.983	where you feed these into a program,
+166.778	it throws out the superfluous words --
+168.667	"""the,"" ""and,"" -- the kind of words"
+168.667	"you can mime easily in ""Charades,"" --"
+172.914	and leaves you with the most
+172.914	significant words.
+175.131	And we did it not just for these four,
+176.976	but for all 2,000 descriptors.
+179.519	And this is what it looks like.
+182.824	Film, theatre, music, dance
+182.824	and of course, art, are huge.
+188.305	Over 40 percent.
+190.275	You have to wonder
+190.275	why in so many societies
+192.827	we insist that our kids pursue
+192.827	engineering or medicine or business or law
+197.286	to be construed as successful.
+199.691	And while we're talking profession,
+201.408	let's look at age --
+202.583	the average age at which
+202.583	they achieved things.
+205.117	That number is 37.
+208.094	What that means is,
+208.094	you've got to wait 37 years ...
+211.774	before your first significant achievement
+211.774	that you're remembered for --
+215.193	on average --
+	die at the age of 81 --
+218.87	on average.
+220.062	(Laughter)
+221.087	Talk about having to be patient.
+222.795	(Laughter)
+223.876	Of course, it varies by profession.
+226.386	If you're a sports star,
+227.603	you'll probably hit
+227.603	your stride in your 20s.
+229.754	And if you're in your 40s like me,
+232.423	you can join the fun world of politics.
+234.438	(Laughter)
+235.518	Politicians do their first and sometimes
+235.518	only commendable act in their mid-40s.
+239.457	(Laughter)
+240.738	"If you're wondering what ""others"" are,"
+242.699	here are some examples.
+244.641	Isn't it fascinating, the things people do
+246.781	and the things they're remembered for?
+248.687	(Laughter)
+251.956	Our curiosity was in overdrive,
+253.824	and we desired to analyze
+253.824	more than just a descriptor.
+258.818	So, we ingested the entire
+258.818	first paragraph of all 2,000 obituaries,
+263.788	but we did this separately
+263.788	for two groups of people:
+266.586	people that are famous
+266.586	and people that are not famous.
+269.387	Famous people -- Prince,
+269.387	Ali, Zaha Hadid --
+272.1	people who are not famous
+272.1	are people like Jocelyn Cooper,
+276.359	Reverend Curry
+277.537	or Lorna Kelly.
+278.73	I'm willing to bet you haven't heard
+278.73	of most of their names.
+281.942	Amazing people, fantastic achievements,
+281.942	but they're not famous.
+286.54	So what if we analyze
+286.54	these two groups separately --
+289.352	the famous and the non-famous?
+290.901	What might that tell us?
+292.344	Take a look.
+296.376	Two things leap out at me.
+298.389	First:
+299.926	"""John."""
+301.148	(Laughter)
+303.734	Anyone here named John
+303.734	should thank your parents --
+307.146	(Laughter)
+308.499	and remind your kids to cut out
+308.499	your obituary when you're gone.
+312.881	And second:
+315.669	"""help."""
+318.344	We uncovered, many lessons
+318.344	from lives well-led,
+321.833	and what those people immortalized
+321.833	in print could teach us.
+324.693	The exercise was a fascinating testament
+324.693	to the kaleidoscope that is life,
+329.455	and even more fascinating
+332.194	was the fact that the overwhelming
+332.194	majority of obituaries
+335.286	featured people famous and non-famous,
+338.308	who did seemingly extraordinary things.
+341.394	They made a positive dent
+341.394	in the fabric of life.
+344.528	They helped.
+346.592	So ask yourselves as you go
+346.592	back to your daily lives:
+349.207	How am I using my talents to help society?
+352.151	Because the most powerful lesson here is,
+355.148	if more people lived their lives
+355.148	trying to be famous in death,
+359.508	the world would be a much better place.
+362.882	Thank you.
+364.075	(Applause)

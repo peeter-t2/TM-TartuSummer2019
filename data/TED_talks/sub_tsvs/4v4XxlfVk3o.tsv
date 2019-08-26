@@ -1,0 +1,418 @@
+startsecond	text
+15.26	So I think data can actually make us more human.
+19.26	We're collecting and creating all kinds of data about how we're living our lives,
+22.26	and it's enabling us to tell some amazing stories.
+24.26	Recently, a wise media theorist Tweeted,
+27.26	"""The 19th century culture was defined by the novel,"
+29.26	the 20th century culture was defined by the cinema,
+31.26	and the culture of the 21st century
+33.26	"will be defined by the interface."""
+35.26	And I believe this is going to prove true.
+37.26	Our lives are being driven by data,
+39.26	and the presentation of that data is an opportunity
+41.26	for us to make some amazing interfaces that tell great stories.
+43.26	So I'm going to show you a few of the projects
+45.26	that I've been working on over the last couple years
+47.26	that reflect on our lives and our systems.
+49.26	This is a project called Flight Patterns.
+51.26	What you're looking at is airplane traffic
+53.26	over North America for a 24-hour period.
+56.26	As you see, everything starts to fade to black,
+58.26	and you see people going to sleep.
+60.26	Followed by that, you see on the West coast
+62.26	planes moving across, the red-eye flights to the East coast.
+65.26	And you'll see everybody waking up on the East coast,
+68.26	followed by European flights coming in the upper right-hand corner.
+71.26	Everybody's moving from the East coast to the West coast.
+74.26	You see San Francisco and Los Angeles
+76.26	start to make their journeys down to Hawaii in the lower left-hand corner.
+79.26	I think it's one thing to say there's 140,000 planes
+81.26	being monitored by the federal government at any one time,
+84.26	and it's another thing to see that system as it ebbs and flows.
+89.26	This is a time-lapse image of that exact same data,
+91.26	but I've color-coded it by type,
+93.26	so you can see the diversity of aircraft that are in the skies above us.
+96.26	And I started making these, and I put them into Google Maps
+99.26	and allow you to zoom in and see individual airports
+101.26	and the patterns that are occurring there.
+103.26	So here we can see the white represents low altitudes,
+106.26	and the blue are higher altitudes.
+108.26	And you can zoom in. This is taking a look at Atlanta.
+110.26	You can see this is a major shipping airport,
+112.26	and there's all kinds of activity there.
+114.26	You can also toggle between altitude
+117.26	for model and manufacturer.
+119.26	See again, the diversity.
+121.26	And you can scroll around and see
+123.26	some of the different airports and the different patterns that they have.
+126.26	This is scrolling up the East coast.
+128.26	You can see some of the chaos that's happening in New York
+130.26	with the air traffic controllers
+132.26	having to deal with all those major airports next to each other.
+137.26	So zooming back out real quick,
+139.26	we see, again, the U.S. -- you get Florida down in the right-hand corner.
+142.26	Moving across to the West coast,
+144.26	you see San Francisco and Los Angeles --
+146.26	big low-traffic zones
+148.26	across Nevada and Arizona.
+150.26	And that's us down there in L.A. and Long Beach on the bottom.
+156.26	I started taking a look as well at different perimeters,
+158.26	because you can choose what you want to pull out from the data.
+160.26	This is looking at ascending versus descending flights.
+163.26	And you can see, over time, the ways the airports change.
+165.26	You see the holding patterns that start to develop
+167.26	in the bottom of the screen.
+169.26	And you can see, eventually the airport actually flips directions.
+173.26	So this is another project that I worked on with the Sensible Cities Lab at MIT.
+176.26	This is visualizing international communications.
+178.26	So it's how New York communicates
+180.26	with other international cities.
+182.26	And we set this up as a live globe in the Museum of Modern Art in New York
+185.26	for the Design the Elastic Mind exhibition.
+187.26	And it had a live feed with a 24-hour offset,
+189.26	so you could see the changing relationship
+191.26	and some demographic info
+193.26	coming through AT&amp;T's data and revealing itself.
+196.26	This is another project I worked on with Sensible Cities Lab
+198.26	and CurrentCity.org.
+200.26	And it's visualizing SMS messages being sent in the city of Amsterdam.
+203.26	So you're seeing the daily ebb and flow
+205.26	of people sending SMS messages from different parts of the city,
+207.26	"until we approach New Year's Eve, where everybody says, ""Happy New Year!"""
+210.26	(Laughter)
+212.26	So this is an interactive tool
+214.26	that you can move around and see different parts of the city.
+217.26	This is looking at another event. This is called Queen's Day.
+220.26	So again, you get this daily ebb and flow
+222.26	of people sending SMS messages from different parts of the city.
+225.26	And then you're going to see people start to gather in the center of the city
+227.26	to celebrate the night before,
+229.26	which happens right here.
+231.26	And then you can see people celebrating the next day.
+233.26	And you can pause it and step back and forth and see different phases.
+236.26	So now on to something completely different.
+238.26	Some of you may recognize this.
+240.26	This is Baron Wolfgang von Kempelen's mechanical chess playing machine.
+243.26	And it's this amazing robot that plays chess extremely well,
+245.26	except for one thing: it's not a robot at all.
+248.26	There's actually a legless man that sits in that box
+250.26	and controls this chess player.
+252.26	This was the inspiration for a web service by Amazon
+254.26	called the Mechanical Turk -- named after this guy.
+257.26	And it's based on the premise that there are certain things
+259.26	that are easy for people, but really difficult for computers.
+261.26	So they made this web service and said,
+263.26	"""Any programmer can write a piece of software"
+265.26	"and tap into the minds of thousands of people."""
+267.26	"The nerdy side of me thought, ""Wow, this is amazing."
+269.26	"I can tap into thousands of people's minds."""
+271.26	And the other nerdy side of me thought,
+273.26	"""This is horrible. This is completely bizarre."
+276.26	What does this mean for the future of mankind,
+278.26	"where we're all plugged into this borg?"""
+280.26	I was probably being a little extreme.
+282.26	But what does this mean when we have no context for what it is that we're working on,
+284.26	and we're just doing these little labors?
+286.26	So I created this drawing tool.
+288.26	I asked people to draw a sheep facing to the left.
+290.26	"And I said, ""I'll pay you two cents for your contribution."""
+292.26	And I started collecting sheep.
+295.26	And I collected a lot, a lot of different sheep.
+299.26	Lots of sheep.
+301.26	I took the first 10,000 sheep that I collected,
+303.26	and I put them on a website called TheSheepMarket.com
+306.26	where you can actually buy collections of 20 sheep.
+309.26	You can't pick individual sheep,
+311.26	but you can buy a single plate block of stamps as a commodity.
+315.26	And juxtaposed against this grid,
+317.26	you see actually, by rolling over each individual one,
+319.26	the humanity behind this hugely mechanical process.
+322.26	I think there's something really interesting
+324.26	to watching people as they go through this creative toil --
+327.26	something we can all relate to,
+329.26	this creative process of trying to come up with something from nothing.
+332.26	I think it was really interesting to juxtapose this humanity
+334.26	versus this massive distributed grid.
+336.26	Kind of amazing what some people did.
+339.26	So here's a few statistics from the project.
+341.26	Approximate collection rate of 11 sheep per hour,
+343.26	which would make a working wage of 69 cents per hour.
+346.26	There were 662 rejected sheep
+348.26	"that didn't meet ""sheep-like"" criteria and were thrown out of the flock."
+351.26	(Laughter)
+353.26	The amount of time spent drawing ranged from four seconds to 46 minutes.
+356.26	That gives you an idea of the different types of motivations and dedication.
+359.26	And there were 7,599 people that contributed to the project,
+362.26	or were unique IP addresses --
+364.26	so about how many people contributed.
+366.26	But only one of them out of the 7,599 said this.
+370.26	(Laughter)
+374.26	Which I was pretty surprised by.
+376.26	"I expected people to be wondering, ""Why did I draw a sheep?"""
+379.26	And I think it's a pretty valid question.
+381.26	And there's a lot of reasons why I chose sheep.
+383.26	Sheep were the first animal
+385.26	to be raised from mechanically processed byproducts,
+387.26	the first to be selectively bred for production traits,
+389.26	the first animal to be cloned.
+391.26	Obviously, we think of sheep as followers.
+393.26	"And there's this reference to ""Le Petit Prince"""
+395.26	where the narrator asks the prince to draw a sheep.
+397.26	He draws sheep after sheep.
+399.26	The narrator's only appeased when he draws a box.
+401.26	"And he says, ""It's not about a scientific rendering of a sheep."
+403.26	"It's about your own interpretation and doing something different."""
+406.26	And I like that.
+408.26	"So this is a clip from Charlie Chaplin's ""Modern Times."""
+410.26	It's showing Charlie Chaplin dealing with some of the major changes
+413.26	during the Industrial Revolution.
+415.26	So there were no longer shoe makers,
+417.26	but now there are people slapping soles on people's shoes.
+419.26	And the whole idea of one's relationship to their work changed a lot.
+422.26	So I thought this was an interesting clip
+424.26	to divide into 16 pieces
+426.26	and feed into the Mechanical Turk with a drawing tool.
+429.26	This basically allowed -- what you see on the left side is the original frame,
+432.26	and on the right side you see that frame
+434.26	as interpreted by 16 people
+436.26	who have no idea what it is they're doing.
+438.26	And this was the inspiration for a project
+440.26	that I worked on with my friend Takashi Kawashima.
+442.26	We decided to use the Mechanical Turk for exactly what it was meant for,
+444.26	which is making money.
+446.26	So we took a hundred dollar bill and divided it into 10,000 teeny pieces,
+449.26	and we fed those into the Mechanical Turk.
+451.26	We asked people to draw what it was that they saw.
+453.26	But here there was no sheep-like criteria.
+455.26	People, if they drew a stick figure or a smiley face,
+458.26	it actually made it into the bill.
+460.26	So what you see is actually a representation of how well people did
+462.26	what it was they were asked to do.
+464.26	So we took these hundred dollar bills,
+466.26	and we put them on a website called TenThousandsCents.com,
+468.26	where you can browse through and see all the individual contributions.
+471.26	And you can also trade real hundred-dollar bills for fake hundred-dollar bills
+474.26	and make a donation to the Hundred Dollar Laptop Project,
+477.26	which is now known as One Laptop Per Child.
+480.26	This is again showing all the different contributions.
+482.26	You see some people did beautiful stipple renderings,
+484.26	like this one on top --
+486.26	spent a long time making realistic versions.
+489.26	And other people would draw stick figures or smiley faces.
+492.26	Here on the right-hand side in the middle
+494.26	"you see this one guy writing, ""$0.01!!! Really?"""
+497.26	That's all I'm getting paid for this?
+501.26	(Laughter)
+503.26	So the last Mechanical Turk project I'm going to talk to you about
+505.26	is called Bicycle Built for 2000.
+507.26	This is a collaboration with my friend Daniel Massey.
+509.26	You may recognize these two guys.
+511.26	This is Max Mathews and John Kelly from Bell Labs in the '60s,
+514.26	"where they created the song ""Daisy Bell,"""
+516.26	which was the world's first singing computer.
+518.26	"You may recognize it from ""2001: A Space Odyssey."""
+520.26	When HAL's dying at the end of the film he starts singing this song,
+523.26	as a reference to when computers became human.
+526.26	So we resynthesized this song.
+528.26	This is what that sounded like.
+530.26	We broke down all the individual notes
+532.26	in the singing as well as the phonemes in the singing.
+535.26	Daisy Bell: ♫ Daisy, Daisy ... ♫
+539.26	Aaron Koblin: And we took all of those individual pieces,
+541.26	and we fed them into another Turk request.
+543.26	This is what it would look like if you went to the site.
+545.26	You type in your code,
+547.26	but you first test your mic.
+549.26	You'd be fed a simple audio clip.
+551.26	(Honk)
+553.26	And then you'd do your best to recreate that with your own voice.
+562.26	After previewing it and confirming it's what you submitted,
+565.26	you could submit it into the Mechanical Turk with no other context.
+568.26	And this is what we first got back from the very first set of submissions.
+571.26	Recording: ♫ Daisy, Daisy ♫
+576.26	♫ give me your answer do ♫
+581.26	♫ I'm half crazy ♫
+585.26	♫ all for the love of you ♫
+590.26	♫ It can't be a stylish marriage ♫
+595.26	♫ I can't afford a carriage ♫
+599.26	♫ But you'll look sweet upon the seat ♫
+604.26	♫ of a bicycle built for two ♫
+609.26	AK: So James Surowieki has this idea of the wisdom of crowds,
+612.26	that says that a whole bunch of people are smarter than any individual.
+615.26	We wanted to see how this applies to collaborative, distributed music making,
+618.26	where nobody has any idea what it is they're working on.
+621.26	So if you go to the BicycleBuiltforTwoThousand.com
+623.26	you can actually hear what all this sounds like together.
+625.26	I'm sorry for this.
+627.26	(Noise)
+632.26	Chorus: ♫ Daisy, Daisy ♫
+636.26	♫ Give me your answer do ♫
+641.26	♫ I'm half crazy ♫
+646.26	♫ all for the love of you ♫
+650.26	♫ It can't be a stylish marriage ♫
+655.26	♫ I can't afford a carriage ♫
+659.26	♫ But you'd look sweet upon the seat ♫
+664.26	♫ of a bicycle built for two ♫
+670.26	AK: So stepping back for a quick second,
+673.26	when I was at UCLA going to grad school,
+675.26	I was also working at a place called the Center for Embedded Network Sensing.
+678.26	And I was writing software to visualize laser scanners.
+681.26	So basically motion through 3D space.
+683.26	And this was seen by a director in L.A. named James Frost
+685.26	"who said, ""Wait a minute."
+687.26	"You mean we can shoot a music video without actually using any video?"""
+689.26	So we did exactly that.
+691.26	We made a music video for one of my favorite bands, Radiohead.
+693.26	And I think one of my favorite parts of this project
+695.26	was not just shooting a video with lasers,
+697.26	but we also open sourced it,
+699.26	and we made it released as a Google Code project,
+701.26	where people could download a bunch of the data and some source code
+703.26	to build their own versions of it.
+705.26	And people were making some amazing things.
+707.26	This is actually two of my favorites:
+709.26	the pin-board Thom Yorke and a LEGO Thom Yorke.
+711.26	A whole YouTube channel of people submitting really interesting content.
+714.26	More recently, somebody even 3D-printed Thom Yorke's head,
+717.26	which is a little creepy, but pretty cool.
+720.26	So with everybody making so much amazing stuff
+722.26	and actually understanding what it was they were working on,
+725.26	I was really interested in trying to make a collaborative project
+727.26	where people were working together to build something.
+729.26	And I met a music video director named Chris Milk.
+731.26	And we started bouncing around ideas
+733.26	to make a collaborative music video project.
+735.26	But we knew we really needed the right person
+737.26	to kind of rally behind and build something for.
+740.26	So we put the idea on the back burner for a few months.
+742.26	And he ended up talking to Rick Rubin,
+744.26	who was finishing up Johnny Cash's final album
+746.26	"called ""Ain't No Grave."""
+748.26	"The lyrics to the leading track are ""Ain't no grave can hold my body down."""
+751.26	So we thought this was the perfect
+753.26	project to build a collaborative memorial
+755.26	and a virtual resurrection for Johnny Cash.
+757.26	So I teamed up with my good friend Ricardo Cabello, also known as Mr. doob,
+760.26	who's a much better programmer than I am,
+762.26	and he made this amazing Flash drawing tool.
+764.26	As you know,
+766.26	an animation is a series of images.
+768.26	So what we did was cross-cut a bunch of archival footage of Johnny Cash,
+771.26	and at eight frames a second,
+773.26	we allowed individuals to draw a single frame
+775.26	that would get woven into
+777.26	this dynamically changing music video.
+779.26	So I don't have time to play the entire thing for you,
+781.26	but I want to show you two short clips.
+783.26	One is the beginning of the music video.
+785.26	And that's going to be followed by a short clip
+787.26	of people who have already contributed to the project
+789.26	talking about it briefly.
+792.26	(Music)
+798.26	(Video) Johnny Cash: ♫ There ain't no grave ♫
+800.26	♫ can hold my body down ♫
+804.26	♫ There ain't no grave ♫
+806.26	♫ can hold body down ♫
+810.26	♫ When I hear the trumpet sound ♫
+814.26	♫ I'm going to ride right out of the ground ♫
+816.26	♫ Ain't no grave ♫
+819.26	♫ can hold my body ... ♫
+822.26	(Applause)
+824.26	AK: What better way to pay tribute to the man
+827.26	than to make something for one of his songs.
+830.26	Collaborator: I felt really sad when he died.
+832.26	And I just thought it'd be wonderful,
+834.26	it'd be really nice to contribute something to his memory.
+837.26	Collaborator Two: It really allows
+839.26	this last recording of his
+842.26	to be a living, breathing memorial.
+847.26	Collaborator Three: For all of the frames to be drawn by fans,
+850.26	each individual frame,
+852.26	it's got a very powerful feeling to it.
+854.26	Collaborator Four: I've seen everybody
+856.26	from Japan, Venezuela, to the States,
+858.26	to Knoxville, Tennessee.
+860.26	Collaborator Five: As much as is different from frame to frame,
+863.26	it really is personal.
+865.26	Collaborator Six: Watching the video in my room,
+867.26	I could see me not understanding at the beginning of it.
+870.26	And I just worked and worked through problems,
+873.26	until my little wee battles that I was fighting within the picture
+877.26	all began to resolve themselves.
+880.26	You can actually see the point when I know what I'm doing,
+882.26	and a lot of light and dark comes into it.
+885.26	And in a weird way,
+887.26	that's what I actually like about Johnny Cash's music as well.
+889.26	It's the sum total of his life,
+891.26	all the things that had happened --
+893.26	the bad things, the good things.
+895.26	You're hearing a person's life.
+901.26	AK: So if you go to the website JohnnyCashProject.com,
+903.26	what you'll see is the video playing above.
+905.26	And below it are all the individual frames
+907.26	that people have been submitting to the project.
+909.26	So this isn't finished at all,
+911.26	but it's an ongoing project where people can continue to collaborate.
+913.26	If you roll over any one of those individual thumbnails,
+915.26	you can see the person who drew that individual thumbnail
+917.26	and where they were located.
+919.26	And if you find one that you're interested in,
+921.26	you can actually click on it and open up an information panel
+923.26	where you're able to rate that frame,
+925.26	which helps it bubble up to the top.
+927.26	And you can also see the way that it was drawn.
+929.26	Again, you can get the playback and personal contribution.
+931.26	In addition to that, it's listed, the artist's name, the location,
+934.26	how long they spent drawing it.
+936.26	"And you can pick a style. So this one was tagged ""Abstract."""
+939.26	But there's a bunch of different styles.
+941.26	And you can sort the video a number of different ways.
+943.26	"You can say, ""I want to see the pointillist version"
+945.26	or the sketchy version or the realistic version.
+947.26	And then this is, again, the abstract version,
+949.26	which ends up getting a little bit crazy.
+954.26	So the last project I want to talk to you about is another collaboration with Chris Milk.
+957.26	"And this is called ""The Wilderness Downtown."""
+959.26	It's an online music video for the Arcade Fire.
+962.26	Chris and I were really amazed
+964.26	by the potential now with modern web browsers,
+966.26	where you have HTML5 audio and video
+968.26	and the power of JavaScript to render amazingly fast.
+971.26	And we wanted to push the idea of the music video that was meant for the Web
+974.26	beyond the four-by-three or sixteen-by-nine window
+977.26	and try to make it play out and choreograph throughout the screen.
+980.26	But most importantly, I think,
+982.26	we really wanted to make an experience that was unlike the Johnny Cash Project,
+985.26	where you had a small group of people spending a lot of time
+988.26	to contribute something for everyone.
+990.26	What if we had a very low commitment,
+993.26	but delivered something individually unique to each person who contributed?
+996.26	So the project starts off by asking you to enter the address
+998.26	of the home where you grew up.
+1000.26	And you type in the address --
+1002.26	it actually creates a music video specifically for you,
+1004.26	pulling in Google maps and Streetview images
+1006.26	into the experience itself.
+1008.26	So this should really be seen at home with you typing in your own address,
+1011.26	but I'm going to give you a little preview of what you can expect.
+1014.26	(Video) Win Butler: ♫ Now our lives are changing fast ♫
+1018.26	♫ Now our lives are changing fast ♫
+1022.26	♫ Hope that something pure can last ♫
+1026.26	♫ Hope that something pure can last ♫
+1033.26	♫ Ooh we used to wait ♫
+1037.26	♫ Ooh we used to wait ♫
+1041.26	♫ Ooh we used to wait ♫
+1044.26	♫ Sometimes it never came ♫
+1047.26	♫ Sometimes it never came ♫
+1051.26	♫ Still moving through the pain ♫
+1054.26	♫ We used to wait for it ♫
+1058.26	♫ We used to wait for it ♫
+1062.26	♫ We used to wait for it ♫
+1070.26	AK: So I think, if there's one thing to take away from my talk today,
+1073.26	it's that an interface can be a powerful narrative device.
+1075.26	And as we collect more and more personally and socially relevant data,
+1079.26	we have an opportunity, and maybe even an obligation,
+1081.26	to maintain the humanity and tell some amazing stories
+1083.26	as we explore and collaborate together.
+1085.26	Thanks a lot.
+1087.26	(Applause)

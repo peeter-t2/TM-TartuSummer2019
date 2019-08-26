@@ -1,0 +1,328 @@
+startsecond	text
+15.393	Science,
+16.621	science has allowed us to know so much
+19.958	about the far reaches of the universe,
+22.984	which is at the same time tremendously important
+26.179	and extremely remote,
+28.245	and yet much, much closer,
+30.704	much more directly related to us,
+32.795	there are many things we don't really understand.
+35.263	And one of them is the extraordinary
+37.392	social complexity of the animals around us,
+40.718	and today I want to tell you a few stories
+42.734	of animal complexity.
+44.742	But first, what do we call complexity?
+48.092	What is complex?
+49.579	Well, complex is not complicated.
+53.006	Something complicated comprises many small parts,
+56.454	all different, and each of them
+58.899	has its own precise role in the machinery.
+62.003	On the opposite, a complex system
+64.814	is made of many, many similar parts,
+67.455	and it is their interaction
+69.463	that produces a globally coherent behavior.
+72.783	Complex systems have many interacting parts
+76.619	which behave according to simple, individual rules,
+80.045	and this results in emergent properties.
+83.394	The behavior of the system as a whole
+85.282	cannot be predicted
+86.95	from the individual rules only.
+89.102	As Aristotle wrote,
+90.912	the whole is greater than the sum of its parts.
+93.972	But from Aristotle, let's move onto
+96.434	a more concrete example of complex systems.
+100.124	These are Scottish terriers.
+102.08	In the beginning, the system is disorganized.
+105.831	Then comes a perturbation: milk.
+109.632	Every individual starts pushing in one direction
+113.482	and this is what happens.
+116.791	The pinwheel is an emergent property
+119.617	of the interactions between puppies
+121.52	whose only rule is to try to keep access to the milk
+125.43	and therefore to push in a random direction.
+129.037	So it's all about finding the simple rules
+133.012	from which complexity emerges.
+135.77	I call this simplifying complexity,
+138.71	and it's what we do at the chair of systems design
+140.845	at ETH Zurich.
+142.822	We collect data on animal populations,
+146.527	analyze complex patterns, try to explain them.
+150.338	It requires physicists who work with biologists,
+152.957	with mathematicians and computer scientists,
+155.68	and it is their interaction that produces
+158.5	cross-boundary competence
+160.214	to solve these problems.
+161.792	So again, the whole is greater
+164.064	than the sum of the parts.
+165.464	In a way, collaboration
+167.614	is another example of a complex system.
+171.105	And you may be asking yourself
+172.981	which side I'm on, biology or physics?
+175.798	In fact, it's a little different,
+177.909	and to explain, I need to tell you
+179.498	a short story about myself.
+181.84	When I was a child,
+183.567	I loved to build stuff, to
+183.567	create complicated machines.
+187.676	So I set out to study electrical engineering
+190.413	and robotics,
+191.965	and my end-of-studies project
+194.058	was about building a robot called ER-1 --
+196.984	it looked like this—
+198.914	that would collect information from its environment
+201.285	and proceed to follow a white line on the ground.
+204.783	It was very, very complicated,
+207.162	but it worked beautifully in our test room,
+210.146	and on demo day, professors had 
+210.146	assembled to grade the project.
+213.607	So we took ER-1 to the evaluation room.
+216.509	It turned out, the light in that room
+218.819	was slightly different.
+220.638	The robot's vision system got confused.
+222.969	At the first bend in the line,
+224.73	it left its course, and crashed into a wall.
+228.469	We had spent weeks building it,
+230.556	and all it took to destroy it
+232.229	was a subtle change in the color of the light
+234.885	in the room.
+236.481	That's when I realized that
+237.996	the more complicated you make a machine,
+240.323	the more likely that it will fail
+242.362	due to something absolutely unexpected.
+244.925	And I decided that, in fact,
+246.755	I didn't really want to create complicated stuff.
+249.768	I wanted to understand complexity,
+252.71	the complexity of the world around us
+254.698	and especially in the animal kingdom.
+257.103	Which brings us to bats.
+260.423	Bechstein's bats are a common
+260.423	species of European bats.
+263.474	They are very social animals.
+264.887	Mostly they roost, or sleep, together.
+268.178	And they live in maternity colonies,
+269.857	which means that every spring,
+271.397	the females meet after the winter hibernation,
+274.655	and they stay together for about six months
+276.744	to rear their young,
+279.23	and they all carry a very small chip,
+282.035	which means that every time one of them
+283.906	enters one of these specially equipped bat boxes,
+286.963	we know where she is,
+288.606	and more importantly,
+289.775	we know with whom she is.
+292.338	So I study roosting associations in bats,
+296.032	and this is what it looks like.
+298.477	During the day, the bats roost
+300.919	in a number of sub-groups in different boxes.
+303.223	It could be that on one day,
+305.152	the colony is split between two boxes,
+307.372	but on another day,
+308.672	it could be together in a single box,
+310.913	or split between three or more boxes,
+313.229	and that all seems rather erratic, really.
+316.156	It's called fission-fusion dynamics,
+319.359	the property for an animal group
+321.072	of regularly splitting and merging
+323.25	into different subgroups.
+324.911	So what we do is take all these data
+327.473	from all these different days
+329.135	and pool them together
+330.639	to extract a long-term association pattern
+333.256	by applying techniques with network analysis
+335.761	to get a complete picture
+337.382	of the social structure of the colony.
+339.919	Okay? So that's what this picture looks like.
+344.184	In this network, all the circles
+346.578	are nodes, individual bats,
+349.355	and the lines between them
+350.938	are social bonds, associations between individuals.
+354.602	It turns out this is a very interesting picture.
+357.28	This bat colony is organized
+359.262	in two different communities
+361.13	which cannot be predicted
+362.969	from the daily fission-fusion dynamics.
+365.218	We call them cryptic social units.
+368.768	Even more interesting, in fact:
+370.384	Every year, around October,
+372.748	the colony splits up,
+374.309	and all bats hibernate separately,
+377.007	but year after year,
+378.468	when the bats come together again in the spring,
+381.541	the communities stay the same.
+384.131	So these bats remember their friends
+386.851	for a really long time.
+388.681	With a brain the size of a peanut,
+391.155	they maintain individualized,
+393.28	long-term social bonds,
+395.422	We didn't know that was possible.
+397.146	We knew that primates
+398.905	and elephants and dolphins could do that,
+401.473	but compared to bats, they have huge brains.
+404.101	So how could it be
+406.5	that the bats maintain this complex,
+408.451	stable social structure
+410.139	with such limited cognitive abilities?
+413.671	And this is where complexity brings an answer.
+416.56	To understand this system,
+418.701	we built a computer model of roosting,
+421.498	based on simple, individual rules,
+423.516	and simulated thousands and thousands of days
+425.951	in the virtual bat colony.
+427.97	It's a mathematical model,
+430.094	but it's not complicated.
+432.048	What the model told us is that, in a nutshell,
+435.146	each bat knows a few other colony members
+438.332	as her friends, and is just slightly more likely
+440.82	to roost in a box with them.
+443.33	Simple, individual rules.
+445.774	This is all it takes to explain
+447.486	the social complexity of these bats.
+449.875	But it gets better.
+451.593	Between 2010 and 2011,
+454.441	the colony lost more than two thirds of its members,
+457.894	probably due to the very cold winter.
+460.88	The next spring, it didn't form two communities
+464.024	like every year,
+465.295	which may have led the whole colony to die
+467.498	because it had become too small.
+469.593	Instead, it formed a single, cohesive social unit,
+474.966	which allowed the colony to survive that season
+477.698	and thrive again in the next two years.
+480.802	What we know is that the bats
+482.58	are not aware that their colony is doing this.
+485.487	All they do is follow simple association rules,
+489.033	and from this simplicity
+490.382	emerges social complexity
+492.823	which allows the colony to be resilient
+495.663	against dramatic changes
+495.663	in the population structure.
+498.644	And I find this incredible.
+501.338	Now I want to tell you another story,
+503.422	but for this we have to travel from Europe
+504.977	to the Kalahari Desert in South Africa.
+508.025	This is where meerkats live.
+510.052	I'm sure you know meerkats.
+511.552	They're fascinating creatures.
+513.658	They live in groups with a
+513.658	very strict social hierarchy.
+516.647	There is one dominant pair,
+518.106	and many subordinates,
+519.488	some acting as sentinels,
+521.202	some acting as babysitters,
+522.539	some teaching pups, and so on.
+524.436	What we do is put very small GPS collars
+527.757	on these animals
+529.282	to study how they move together,
+531.157	and what this has to do with their social structure.
+534.874	And there's a very interesting example
+536.364	of collective movement in meerkats.
+539.08	In the middle of the reserve which they live in
+541.447	lies a road.
+542.656	On this road there are cars, so it's dangerous.
+545.889	But the meerkats have to cross it
+548.173	to get from one feeding place to another.
+550.747	So we asked, how exactly do they do this?
+555.498	We found that the dominant female
+557.334	is mostly the one who leads the group to the road,
+559.955	but when it comes to crossing it, crossing the road,
+563.227	she gives way to the subordinates,
+565.578	a manner of saying,
+567.355	"""Go ahead, tell me if it's safe."""
+570.037	What I didn't know, in fact,
+571.701	was what rules in their behavior the meerkats follow
+574.843	for this change at the edge of the group to happen
+577.768	and if simple rules were sufficient to explain it.
+581.618	So I built a model, a model of simulated meerkats
+585.609	crossing a simulated road.
+587.522	It's a simplistic model.
+589.394	Moving meerkats are like random particles
+592.234	whose unique rule is one of alignment.
+594.456	They simply move together.
+596.862	When these particles get to the road,
+600.046	they sense some kind of obstacle,
+601.988	and they bounce against it.
+604.072	The only difference
+605.228	between the dominant female, here in red,
+607.27	and the other individuals,
+608.755	is that for her, the height of the obstacle,
+611.309	which is in fact the risk perceived from the road,
+613.814	is just slightly higher,
+615.763	and this tiny difference
+617.424	in the individual's rule of movement
+619.262	is sufficient to explain what we observe,
+621.708	that the dominant female
+624.268	leads her group to the road
+625.702	and then gives way to the others
+627.372	for them to cross first.
+630.235	George Box, who was an English statistician,
+633.886	"once wrote, ""All models are false,"
+636.848	"but some models are useful."""
+638.907	And in fact, this model is obviously false,
+642.104	because in reality, meerkats are
+642.104	anything but random particles.
+646.072	But it's also useful,
+647.709	because it tells us that extreme simplicity
+650.458	in movement rules at the individual level
+653.816	can result in a great deal of complexity
+656.167	at the level of the group.
+658.105	So again, that's simplifying complexity.
+662.161	I would like to conclude
+663.609	on what this means for the whole species.
+666.426	When the dominant female
+668.09	gives way to a subordinate,
+669.656	it's not out of courtesy.
+671.773	In fact, the dominant female
+673.28	is extremely important for the cohesion of the group.
+675.799	If she dies on the road, the whole group is at risk.
+679.311	So this behavior of risk avoidance
+681.547	is a very old evolutionary response.
+684.348	These meerkats are replicating an evolved tactic
+688.217	that is thousands of generations old,
+690.45	and they're adapting it to a modern risk,
+692.864	in this case a road built by humans.
+696.189	They adapt very simple rules,
+698.584	and the resulting complex behavior
+700.873	allows them to resist human encroachment
+703.829	into their natural habitat.
+706.277	In the end,
+708.079	it may be bats which change their social structure
+710.779	in response to a population crash,
+713.163	or it may be meerkats
+714.562	who show a novel adaptation to a human road,
+717.764	or it may be another species.
+720.449	My message here -- and it's not a complicated one,
+723.242	but a simple one of wonder and hope --
+726.006	my message here is that animals
+729.099	show extraordinary social complexity,
+731.523	and this allows them to adapt
+733.964	and respond to changes in their environment.
+737.445	In three words, in the animal kingdom,
+740.213	simplicity leads to complexity
+742.987	which leads to resilience.
+744.47	Thank you.
+746.754	(Applause)
+762.694	Dania Gerhardt: Thank you very much, Nicolas,
+764.647	for this great start. Little bit nervous?
+767.926	Nicolas Perony: I'm okay, thanks.
+769.57	DG: Okay, great. I'm sure a 
+769.57	lot of people in the audience
+772.03	somehow tried to make associations
+773.894	between the animals you were talking about --
+775.718	the bats, meerkats -- and humans.
+777.774	You brought some examples:
+778.982	The females are the social ones,
+780.717	the females are the dominant ones,
+782.43	I'm not sure who thinks how.
+784.103	But is it okay to do these associations?
+786.998	Are there stereotypes you can confirm in this regard
+789.798	that can be valid across all species?
+793.071	NP: Well, I would say there are also
+794.674	counter-examples to these stereotypes.
+796.626	For examples, in sea horses or in koalas, in fact,
+799.766	it is the males who take care of the young always.
+803.464	And the lesson is that it's often difficult,
+808.505	and sometimes even a bit dangerous,
+810.257	to draw parallels between humans and animals.
+812.929	So that's it.
+815.035	DG: Okay. Thank you very much for this great start.
+817.881	Thank you, Nicolas Perony.

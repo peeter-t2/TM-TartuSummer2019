@@ -1,0 +1,429 @@
+startsecond	text
+19.085	(Laughter)
+24.323	(Laughter)
+36.71	That's SpotMini.
+37.884	He'll be back in a little while.
+39.526	I --
+40.714	(Applause)
+45.472	I love building robots.
+48.419	And my long-term goal is to build robots
+50.895	that can do what people and animals do.
+53.964	And there's three things in particular
+57.541	that we're interested in.
+60.008	One is balance and dynamic mobility,
+63.334	the second one is mobile manipulation,
+65.988	and the third one is mobile perception.
+68.944	So, dynamic mobility and balance --
+71.879	I'm going to do a demo for you.
+75.099	I'm standing here, balancing.
+78.121	I can see you're not very impressed.
+78.121	OK, how about now?
+80.859	(Laughter)
+82.043	How about now?
+83.26	(Applause)
+86.049	Those simple capabilities mean that people
+86.049	can go almost anywhere on earth,
+90.446	on any kind of terrain.
+92.122	We want to capture that for robots.
+95.772	What about manipulation?
+97.614	I'm holding this clicker in my hand;
+99.354	I'm not even looking at it,
+100.67	and I can manipulate it
+100.67	without any problem.
+103.424	But even more important,
+106.088	I can move my body while I hold
+106.088	the manipulator, the clicker,
+112.115	and stabilize and coordinate my body,
+114.313	and I can even walk around.
+116.367	And that means
+116.367	I can move around in the world
+119.289	and expand the range
+119.289	of my arms and my hands
+122.615	and really be able to handle
+122.615	almost anything.
+124.808	So that's mobile manipulation.
+127.454	And all of you can do this.
+129.253	Third is perception.
+131.194	I'm looking at a room
+131.194	with over 1,000 people in it,
+134.483	and my amazing visual system
+134.483	can see every one of you --
+139.282	you're all stable in space,
+141.267	even when I move my head,
+142.61	even when I move around.
+144.18	That kind of mobile perception
+144.18	is really important for robots
+147.983	that are going to move and act
+149.651	out in the world.
+151.865	I'm going to give you
+151.865	a little status report
+154.167	on where we are in developing robots
+154.167	toward these ends.
+160.338	The first three robots are all
+160.338	dynamically stabilized robots.
+164.902	This one goes back
+164.902	a little over 10 years ago --
+167.574	"""BigDog."""
+168.766	It's got a gyroscope
+168.766	that helps stabilize it.
+172.1	It's got sensors and a control computer.
+175.46	Here's a Cheetah robot
+175.46	that's running with a galloping gait,
+178.651	where it recycles its energy,
+180.371	it bounces on the ground,
+181.962	and it's computing all the time
+183.54	in order to keep itself
+183.54	stabilized and propelled.
+187.934	And here's a bigger robot
+189.786	that's got such good
+189.786	locomotion using its legs,
+192.515	that it can go in deep snow.
+193.943	This is about 10 inches deep,
+196.378	and it doesn't really have any trouble.
+200.166	This is Spot, a new generation of robot --
+202.819	just slightly older than the one
+202.819	that came out onstage.
+206.258	And we've been asking the question --
+208.114	you've all heard about drone delivery:
+210.112	Can we deliver packages
+210.112	to your houses with drones?
+212.759	Well, what about plain old
+212.759	legged-robot delivery?
+215.57	(Laughter)
+216.726	So we've been taking our robot
+216.726	to our employees' homes
+220.147	to see whether we could get in --
+221.754	(Laughter)
+222.802	the various access ways.
+224.054	And believe me, in the Boston area,
+225.962	there's every manner
+225.962	of stairway twists and turns.
+229.16	So it's a real challenge.
+230.421	But we're doing very well,
+230.421	about 70 percent of the way.
+234.479	And here's mobile manipulation,
+236.068	where we've put an arm on the robot,
+238.683	and it's finding its way through the door.
+241.742	Now, one of the important things
+241.742	about making autonomous robots
+244.925	is to make them not do
+244.925	just exactly what you say,
+248.169	but make them deal with the uncertainty
+248.169	of what happens in the real world.
+254.054	So we have Steve there,
+254.054	one of the engineers,
+257.089	giving the robot a hard time.
+258.721	(Laughter)
+259.777	And the fact that the programming
+259.777	still tolerates all that disturbance --
+263.991	it does what it's supposed to.
+265.512	Here's another example,
+265.512	where Eric is tugging on the robot
+268.327	as it goes up the stairs.
+269.649	And believe me,
+270.825	getting it to do what it's supposed to do
+270.825	in those circumstances
+274.121	is a real challenge,
+275.486	but the result is something
+275.486	that's going to generalize
+278.25	and make robots much more autonomous
+278.25	than they would be otherwise.
+283.317	This is Atlas, a humanoid robot.
+286.427	It's a third-generation humanoid
+286.427	that we've been building.
+290.671	I'll tell you a little bit
+290.671	about the hardware design later.
+293.513	And we've been saying:
+294.713	How close to human levels
+294.713	of performance and speed could we get
+299.16	in an ordinary task,
+300.759	like moving boxes around on a conveyor?
+303.931	We're getting up to about two-thirds
+303.931	of the speed that a human operates
+309.261	on average.
+310.758	And this robot is using both hands,
+310.758	it's using its body,
+313.711	it's stepping,
+314.904	so it's really an example
+314.904	of dynamic stability,
+317.655	mobile manipulation
+319.058	and mobile perception.
+322.192	Here --
+323.905	(Laughter)
+326.389	We actually have two Atlases.
+328.483	(Laughter)
+330.198	Now, everything doesn't go exactly
+330.198	the way it's supposed to.
+333.618	(Laughter)
+338.318	(Laughter)
+340.536	(Laughter)
+345.292	And here's our latest robot,
+345.292	"called ""Handle."""
+348.457	Handle is interesting,
+348.457	because it's sort of half like an animal,
+352.599	and it's half something else
+354.937	with these leg-like things and wheels.
+358.141	It's got its arms on
+358.141	in kind of a funny way,
+361.191	but it really does some remarkable things.
+363.311	It can carry 100 pounds.
+366.666	It's probably going to lift
+366.666	more than that,
+368.749	but so far we've done 100.
+370.551	It's got some pretty good
+370.551	rough-terrain capability,
+373.011	even though it has wheels.
+377.881	And Handle loves to put on a show.
+380.686	(Laughter)
+384.644	(Applause)
+390.74	I'm going to give you
+390.74	a little bit of robot religion.
+394.356	A lot of people think that a robot
+394.356	is a machine where there's a computer
+398.709	that's telling it what to do,
+400.9	and the computer is listening
+400.9	through its sensors.
+404.349	But that's really only half of the story.
+406.777	The real story is
+406.777	that the computer is on one side,
+409.91	making suggestions to the robot,
+411.878	and on the other side
+411.878	are the physics of the world.
+414.778	And that physics involves gravity,
+414.778	friction, bouncing into things.
+420.238	In order to have a successful robot,
+422.097	my religion is that you have to do
+422.097	a holistic design,
+426.712	where you're designing the software,
+426.712	the hardware and the behavior
+430.289	all at one time,
+431.549	and all these parts really intermesh
+431.549	and cooperate with each other.
+435.275	And when you get the perfect design,
+435.275	you get a real harmony
+438.406	between all those parts
+438.406	interacting with each other.
+442.269	So it's half software and half hardware,
+444.553	plus the behavior.
+446.698	We've done some work lately
+446.698	on the hardware, where we tried to go --
+450.264	the picture on the left
+450.264	is a conventional design,
+452.765	where you have parts
+452.765	that are all bolted together,
+455.689	conductors, tubes, connectors.
+458.453	And on the right
+458.453	is a more integrated thing;
+460.526	it's supposed to look like
+460.526	an anatomy drawing.
+463.33	Using the miracle of 3-D printing,
+465.864	we're starting to build parts of robots
+468.525	that look a lot more
+468.525	like the anatomy of an animal.
+471.446	So that's an upper-leg part
+471.446	that has hydraulic pathways --
+474.814	actuators, filters --
+476.768	all embedded, all printed as one piece,
+479.172	and the whole structure is developed
+482.398	with a knowledge of what the loads
+482.398	and behavior are going to be,
+485.458	which is available from data
+485.458	recorded from robots
+488.385	and simulations and things like that.
+490.218	So it's a data-driven hardware design.
+493.547	And using processes like that,
+495.297	not only the upper leg
+495.297	but some other things,
+497.565	we've gotten our robots to go from big,
+497.565	behemoth, bulky, slow, bad robots --
+502.729	that one on the right,
+502.729	weighing almost 400 pounds --
+506.372	down to the one in the middle
+506.372	which was just in the video,
+509.505	weighs about 190 pounds,
+511.092	just a little bit more than me,
+512.813	and we have a new one,
+514.323	which is working but I'm not
+514.323	going to show it to you yet,
+517.089	on the left,
+518.275	which weighs just 165 pounds,
+519.943	with all the same
+519.943	strength and capabilities.
+522.233	So these things are really getting
+522.233	better very quickly.
+526.28	So it's time for Spot to come back out,
+529.566	and we're going to demonstrate
+529.566	a little bit of mobility,
+533.338	dexterity and perception.
+535.681	This is Seth Davis,
+535.681	who's my robot wrangler today,
+539.469	and he's giving Spot
+539.469	some general direction
+542.533	by steering it around,
+544.383	but all the coordination
+544.383	of the legs and the sensors
+547.478	is done by the robot's computers on board.
+550.543	The robot can walk
+550.543	with a number of different gaits;
+554.013	it's got a gyro,
+556.196	or a solid-state gyro,
+557.557	an IMU on board.
+559.442	Obviously, it's got a battery,
+559.442	and things like that.
+563.352	One of the cool things
+563.352	about a legged robot is,
+565.882	it's omnidirectional.
+567.355	In addition to going forward,
+567.355	it can go sideways,
+571.413	it can turn in place.
+576.482	And this robot
+576.482	is a little bit of a show-off.
+579.675	It loves to use its dynamic gaits,
+581.659	like running --
+582.841	(Laughter)
+583.909	And it's got one more.
+587.104	(Laughter)
+589.858	Now if it were really a show-off,
+589.858	it would be hopping on one foot,
+593.118	but, you know.
+594.31	Now, Spot has a set of cameras
+594.31	here, stereo cameras,
+598.377	and we have a feed up in the center.
+600.591	It's kind of dark out in the audience,
+602.439	but it's going to use those cameras
+602.439	in order to look at the terrain
+605.683	right in front of it,
+606.88	while it goes over
+606.88	these obstacles back here.
+609.665	For this demo, Seth is steering,
+613.002	but the robot's doing
+613.002	all its own terrain planning.
+615.531	This is a terrain map,
+617.057	where the data from the cameras
+617.057	is being developed in real time,
+622.251	showing the red spots,
+622.251	which are where it doesn't want to step,
+625.512	and the green spots are the good places.
+627.527	And here it's treating
+627.527	them like stepping-stones.
+630	So it's trying to stay up on the blocks,
+632.779	and it adjusts its stride,
+634.076	and there's a ton of planning
+635.561	that has to go into
+635.561	an operation like that,
+637.826	and it does all
+637.826	that planning in real time,
+640.112	where it adjusts the steps
+640.112	a little bit longer
+642.566	or a little bit shorter.
+645.216	Now we're going to change it
+645.216	into a different mode,
+647.67	where it's just going to treat
+647.67	the blocks like terrain
+651.117	and decide whether to step up or down
+654.86	as it goes.
+657.085	So this is using dynamic balance
+660.078	and mobile perception,
+661.96	because it has to coordinate what it sees
+661.96	along with how it's moving.
+668.988	The other thing Spot has is a robot arm.
+674.337	Some of you may see that
+674.337	as a head and a neck,
+676.851	but believe me, it's an arm.
+678.46	Seth is driving it around.
+680.249	He's actually driving the hand
+680.249	and the body is following.
+684.041	So the two are coordinated
+684.041	in the way I was talking about before --
+688.198	in the way people can do that.
+690.086	In fact, one of the cool things
+690.086	"Spot can do we call, ""chicken-head mode,"""
+694.753	and it keeps its head
+694.753	in one place in space,
+697.961	and it moves its body all around.
+700.553	There's a variation of this
+700.553	"that's called ""twerking"" --"
+703.179	(Laughter)
+704.219	but we're not going to use that today.
+706.066	(Laughter)
+707.161	So, Spot: I'm feeling a little thirsty.
+707.161	Could you get me a soda?
+711.293	For this demo,
+711.293	Seth is not doing any driving.
+715.09	We have a LIDAR on the back of the robot,
+717.227	and it's using these props
+717.227	we've put on the stage
+719.788	to localize itself.
+721.205	It's gone over to that location.
+723.51	Now it's using a camera that's in its hand
+726.416	to find the cup,
+728.853	picks it up --
+730.132	and again, Seth's not driving.
+733.372	We've planned out a path for it to go --
+736.637	it looked like it was
+736.637	going off the path --
+738.768	and now Seth's going
+738.768	to take over control again,
+741.15	because I'm a little bit chicken
+741.15	about having it do this by itself.
+744.623	Thank you, Spot.
+748.231	(Applause)
+754.889	So, Spot:
+756.503	How do you feel about having just finished
+756.503	your TED performance?
+761.014	(Laughter)
+764.068	Me, too!
+765.244	(Laughter)
+766.3	Thank you all,
+768.14	and thanks to the team at Boston Dynamics,
+770.559	who did all the hard work behind this.
+772.697	(Applause)
+783.059	Helen Walters: Marc,
+783.059	come back in the middle.
+785.246	Thank you so much.
+786.424	Come over here, I have questions.
+788.543	So, you mentioned the UPS
+788.543	and the package delivery.
+791.982	What are the other applications
+791.982	that you see for your robots?
+795.943	Marc Raibert: You know,
+795.943	I think that robots
+797.994	that have the capabilities
+797.994	I've been talking about
+800.424	are going to be incredibly useful.
+802.108	About a year ago, I went to Fukushima
+804.629	to see what the situation was there,
+806.684	and there's just a huge need
+808.585	for machines that can go
+808.585	into some of the dirty places
+811.947	and help remediate that.
+814.528	I think it won't be too long until
+814.528	we have robots like this in our homes,
+819.151	and one of the big needs
+819.151	is to take care of the aging
+824.496	and invalids.
+825.886	I think that it won't be too long
+825.886	till we're using robots
+829.899	to help take care of our parents,
+832.385	or probably more likely,
+832.385	have our children help take care of us.
+837.721	And there's a bunch of other things.
+839.495	I think the sky's the limit.
+840.885	Many of the ideas
+840.885	we haven't thought of yet,
+843.167	and people like you will help us
+843.167	think of new applications.
+846.786	HW: So what about the dark side?
+848.397	What about the military?
+850.254	Are they interested?
+852.441	MR: Sure, the military has been
+852.441	a big funder of robotics.
+856.099	I don't think the military
+856.099	is the dark side myself,
+860.325	but I think, as with all
+860.325	advanced technology,
+864.22	it can be used for all kinds of things.
+866.291	HW: Awesome. Thank you so much.
+867.956	MR: OK, you're welcome.
+869.385	Thank you.
+870.561	(Applause)

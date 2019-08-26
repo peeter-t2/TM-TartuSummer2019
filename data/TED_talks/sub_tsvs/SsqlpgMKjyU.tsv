@@ -1,0 +1,226 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.917	Twelve years ago, I founded Zipcar.
+20.679	Zipcar buys cars and parks them
+23.525	throughout dense metropolitan areas
+26.101	for people to use, by the hour and by the day,
+29.229	instead of owning their own cars.
+31.518	Each Zipcar replaces 15 personal cars,
+35.402	and each driver drives about 80 percent less
+38.506	because they're now paying the full cost,
+40.866	all at once, in real time.
+43.442	But what Zipcar really did was make sharing the norm.
+47.687	Now, a decade later, it's really time to push the envelope a little bit,
+51.938	and so a couple years ago I moved to Paris
+53.923	with my husband and youngest child,
+56.602	and we launched Buzzcar a year ago.
+59.822	Buzzcar lets people rent out their own cars
+63.079	to their friends and neighbors.
+64.746	Instead of investing in a car, we invest in a community.
+70.002	We bring the power of a corporation
+72.329	to individuals who add their cars to the network.
+75.442	Some people call this peer-to-peer.
+79.13	This does express the humanity of what's going on,
+82.418	and the personal relationships,
+84.855	but that is also like saying that it's the same thing
+87.551	as a yard sale or a bake sale or babysitting.
+90.404	That's peer-to-peer.
+91.629	It's like saying yard sales are the same thing as eBay,
+96.516	or craft fairs are the same thing as Etsy.
+104.088	But what's really happening is that we've got the power
+106.45	of a free and open Internet,
+108.655	and on top of that we're putting a platform for participation,
+111.86	and the peers are now in partnership with the company,
+115.547	creating shared value on shared values,
+118.764	and each strengthening the other, and doing what the other can't do.
+123.733	I call this Peers, Inc.
+126.775	The incorporated side, the company,
+129.336	is doing things that it does really well.
+132.153	What does it do really well? It creates economies of scale,
+135.922	significant and long-term resource investment,
+139.665	the expertise of many different kinds of people
+142.47	and different kinds of minds, and for individuals,
+145.458	consumers, it's bringing the standards, rules and recourse
+148.722	that we really want as consumers,
+151.042	and this is kind of bound up in a brand promise,
+153.985	and the companies are providing this on a platform for participation.
+159.025	Peers are giving and doing things
+161.362	that are incredibly expensive for companies to do.
+164.369	What do they bring? They bring this fabulous diversity,
+168.193	expensive for companies. And what does that deliver?
+170.85	It delivers localization and customization,
+173.611	specialization, and all of this aspect about social networks
+177.018	and how companies are yearning and eager to get inside there?
+179.866	It's natural for me. Me and my friends, I can connect to them easily.
+183.962	And it also delivers really fabulous innovation,
+187.525	and I'll talk about that later.
+188.941	So we have the peers that are providing the services and the product,
+192.357	and the company that's doing the stuff that companies do.
+196.937	The two of these are delivering the best of both worlds.
+201.301	Some of my favorite examples:
+203.289	in transportation, Carpooling.com. Ten years old,
+207.242	three and a half million people have joined up,
+208.645	and a million rides are shared every day.
+211.203	It's a phenomenal thing. It's the equivalent
+214.435	of 2,500 TGV trains,
+217.522	and just think, they didn't have to lay a track or buy a car.
+221.498	This is all happening with excess capacity.
+224.242	And it's not just with transportation, my love,
+227.729	but of course in other realms. Here's Fiverr.com.
+230.882	I met these founders just weeks after they had launched,
+233.693	and now, in two years, what would you do for five dollars?
+238.149	Seven hundred and fifty thousand gigs are now posted after two years,
+242.417	what people would do for five dollars.
+245.242	And not just easy things that anyone can do.
+248.928	This Peers, Inc. concept is in a very difficult and complex realm.
+253.704	TopCoder has 400,000 engineers who are delivering
+257.9	complex design and engineering services.
+261.7	When I talked to their CEO, he had this great line.
+264.253	"He said, ""We have a community that owns its own company."""
+269.043	And then my all-time favorite, Etsy.
+271.315	Etsy is providing goods that people make themselves
+274.586	and they're selling it in a marketplace.
+276.252	It just celebrated its seventh anniversary,
+279.667	and after seven years, last year it delivered
+287.727	who have been making those objects.
+290.883	I know you guys out there who are businesspeople,
+293.642	"are thinking, ""Oh my God, I want to build one of those."
+296.058	I see this incredible speed and scale.
+297.735	You mean all I have to do is build a platform and all these people are going
+300.244	"to put their stuff on top and I sit back and roll it in?"""
+303.012	Building these platforms for participation are so nontrivial to do.
+308.063	I think of the difference of Google Video versus YouTube.
+312.076	Who would have thought that two young guys and a start-up
+315.265	would beat out Google Video? Why?
+317.448	I actually have no idea why. I didn't talk to them.
+319.54	But I'm thinking, you know, they probably had
+322.172	"the ""share"" button a little bit brighter and to the right,"
+324.151	and so it was easier and more convenient for the two sides
+327.145	that are always participating on these networks.
+330.225	So I actually know a lot about building a peer platform now,
+334.424	and a Peers, Inc. company, because I've spent
+336.285	the last two years doing that in Paris.
+339.684	So let me take you back how it's so incredibly different
+343.105	building Buzzcar than it was building Zipcar,
+345.98	because now every single thing we do has these two
+348.26	different bodies that I have to be thinking about:
+350.687	the owners who are going to provide the cars
+353.551	and the drivers who are going to rent them.
+355.998	Every single decision, I have to think about what is right for both sides.
+359.47	There are many, many examples and I'll give you one
+361.934	that is not my favorite example: insurance.
+365.256	It took me a year and a half to get the insurance just right.
+369.785	Hours and hours of sitting with insurers and many companies
+372.774	and their thoughts about risk and how this is totally innovative,
+376.52	they'd never thought of it before.
+378.351	Way too much money, I just can't even go there, with lawyers,
+381.718	trying to figure out how this is different, who's responsible to whom,
+384.502	and the result was that we were able to provide owners
+388.09	protection for their own driving records and their own history.
+392.382	The cars are completely insured during the rental,
+394.198	and it gives drivers what they need, and what do they need?
+397.862	They need a low deductible,
+400.367	and 24-hour roadside assistance.
+402.615	So this was a trick to get these two sides.
+405.499	So now I want to take you to the moment of --
+409.747	When you're an entrepreneur, and you've started a new company,
+413.715	there's the, here's all the stuff we do beforehand,
+416.109	and then the service launches. What happens?
+420.035	So all those months of work, they come into play.
+424.435	Last June 1, we launched. It was an exciting moment.
+428.633	And all the owners are adding their cars. It's really exciting.
+432.243	All the drivers are becoming members. It's excellent.
+434.669	The reservations start coming in, and here,
+439.115	owners who were getting text messages and emails
+442.182	"that said, ""Hey, Joe wants to rent your car for the weekend."
+445.275	"You can earn 60 euros. Isn't that great? Yes or no?"""
+449.679	No reply. Like, a huge proportion of them
+453.176	couldn't be bothered after they had just started, they just signed up, to reply.
+457.186	"So I thought, ""Duh, Robin, this is the difference between"
+460.814	"industrial production and peer production."""
+463.957	Industrial production, the whole point of industrial production
+467.069	is to provide a standardized, exact service model
+470.543	that is consistent every single time,
+472.755	and I'm really thankful that my smartphone is made
+475.756	using industrial production.
+477.129	And Zipcar provides a very nice, consistent service
+479.867	that works fabulously.
+481.451	But what does peer production do? Peer production
+484.593	is this completely different way of doing things,
+487.886	and you have a big quality range, and so eBay, cleverly,
+492.958	the first peer production, Peer, Inc. company, I'd say,
+496.279	they figured out early on, we need to have ratings
+500.877	and commentaries and all that yucky side stuff.
+504.261	We can flag that and we can put it to the side, and people
+507.509	who are buyers and consumers don't have to deal with it.
+511.824	So going back, this is my look of excitement and joy,
+516.882	because all this stuff that I'd also been hoping for
+519.316	actually really did happen, and what's that?
+521.343	That is the diversity of what's going on.
+524.156	You have these different fabulous owners
+526.788	and their different cars, different prices,
+530.218	different locations. (Laughter)
+532.356	They dress differently, and they look different,
+537.503	and, really, I love these photos every time I look at them.
+543.223	Cool guys, excited guys,
+546.333	and here is Selma, who -- I love this driver.
+551.112	And after a year, we have 1,000 cars
+553.732	that are parked across France and 6,000 people
+557.132	who are members and eager to drive them.
+559.5	This would not be possible to do that in economic fashion
+563.669	for a traditional company.
+566.03	Back to this spectrum.
+568.172	So what's happening is, we had the yuck side,
+570.888	but we actually had this real wow side.
+573.112	And I can tell you two great stories.
+575.852	A driver was telling me that they went to rent a car
+578.819	to go up the coast of France and the owner gave it to them,
+582.554	"and said, ""You know what, here's where the cliffs are,"
+584.546	and here's all the beaches, and this is my best beach,
+587.066	"and this is where the best fish restaurant is."""
+589.866	And the peers also become,
+592.702	peers and owners create relationships,
+594.963	and so at the last minute people can --
+597.234	"a driver can say, ""Hey, you know what, I really need the car,"
+599.891	"is it available?"" And that person will say,"
+601.381	"""Sure, my wife's at home. Go pick up the keys. Go do it."""
+604.492	So you can have these really nice things that can't happen,
+607.891	"and it's a kind of ""Wow!"" and I want to say ""Wow!"""
+611.723	type of thing that's happening here, because individuals,
+614.203	if you're a company, what happens is you might have
+618.824	or 100 people who are in charge of innovation.
+620.782	What happens in Peer, Inc. companies is that you have
+624.286	tens and hundreds and thousands and even millions
+627.358	of people who are creating experiments on this model,
+630.461	and so out of all that influence and that effort,
+633.046	you are having this exceptional amount of innovation
+637.437	that is coming out.
+639.856	So one of the reasons, if we come back to why did I
+643.224	call it Buzzcar? I wanted to remind all of us
+646.065	about the power of the hive,
+648.941	and its incredible facility to create this platform
+651.877	that individuals want to participate and innovate on.
+655.898	And for me, when I think about our future,
+659.318	and all of those problems that seem incredibly large,
+662.646	the scale is impossible, the urgency is there,
+665.732	Peers, Inc. provides the speed and scale
+668.766	and the innovation and the creativity that is going to answer these problems.
+673.352	All we have to do is create a fabulous platform for participation -- nontrivial.
+678.669	So I continue to think that
+681.446	transportation is the center of the hard universe.
+684.701	All problems come back to transportation for me.
+687.025	But there are all these other areas that are these profound,
+690.872	big problems that I know that we can work on,
+694.237	and people are working on them in many different sectors,
+697.013	but there's this really fabulous group of things
+699.558	with the power of this Peers, Inc. model.
+704.044	So over the last decade, we've been reveling in
+710.529	the power of the Internet and how it's empowered individuals,
+714.032	and for me, what Peers, Inc. does
+716.628	is it takes it up a notch. We're now bringing the power
+720.464	of the company and the corporation
+723.46	and supercharging individuals.
+726.325	So for me, it's a collaboration.
+729.87	Together, we can. (Applause)
+734.155	Thank you. (Applause)

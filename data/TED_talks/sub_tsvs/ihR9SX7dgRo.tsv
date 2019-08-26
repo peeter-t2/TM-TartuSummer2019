@@ -1,0 +1,303 @@
+startsecond	text
+12.949	I'm thrilled to be here tonight
+14.773	to share with you something
+14.773	we've been working on
+17.152	for over two years,
+19.242	and it's in the area
+19.242	of additive manufacturing,
+21.796	also known as 3D printing.
+24.513	You see this object here.
+26.231	It looks fairly simple,
+26.231	but it's quite complex at the same time.
+30.549	It's a set of concentric
+30.549	geodesic structures
+33.8	with linkages between each one.
+36.795	In its context, it is not manufacturable
+36.795	by traditional manufacturing techniques.
+43.343	It has a symmetry such
+43.343	that you can't injection mold it.
+47.29	You can't even manufacture it
+47.29	through milling.
+51.47	This is a job for a 3D printer,
+54.117	but most 3D printers would take between
+54.117	three and 10 hours to fabricate it,
+58.598	and we're going to take the risk tonight
+58.598	to try to fabricate it onstage
+62.824	during this 10-minute talk.
+65.401	Wish us luck.
+68.35	Now, 3D printing is actually a misnomer.
+71.624	It's actually 2D printing
+71.624	over and over again,
+75.919	and it in fact uses the technologies
+75.919	associated with 2D printing.
+80.401	Think about inkjet printing where you
+80.401	lay down ink on a page to make letters,
+85.36	and then do that over and over again
+85.36	to build up a three-dimensional object.
+90.346	In microelectronics, they use something
+92.417	called lithography to do
+92.417	the same sort of thing,
+94.737	to make the transistors
+94.737	and integrated circuits
+96.945	and build up a structure several times.
+98.997	These are all 2D printing technologies.
+102.099	Now, I'm a chemist,
+102.099	a material scientist too,
+105.987	and my co-inventors
+105.987	are also material scientists,
+108.711	one a chemist, one a physicist,
+111.01	and we began to be
+111.01	interested in 3D printing.
+113.936	And very often, as you know,
+113.936	new ideas are often simple connections
+119.531	between people with different experiences
+119.531	in different communities,
+123.274	and that's our story.
+125.591	Now, we were inspired
+128.122	"by the ""Terminator 2"" scene for T-1000,"
+132.893	and we thought, why couldn't a 3D printer
+132.893	operate in this fashion,
+138.426	where you have an object
+138.426	arise out of a puddle
+143.052	in essentially real time
+145.52	with essentially no waste
+147.749	to make a great object?
+150.071	Okay, just like the movies.
+151.488	And could we be inspired by Hollywood
+154.877	and come up with ways
+154.877	to actually try to get this to work?
+158.384	And that was our challenge.
+160.45	And our approach would be,
+160.45	if we could do this,
+163.817	then we could fundamentally address
+163.817	the three issues holding back 3D printing
+167.671	from being a manufacturing process.
+170.086	One, 3D printing takes forever.
+172.617	There are mushrooms that grow faster
+172.617	than 3D printed parts. (Laughter)
+179.281	The layer by layer process
+181.417	leads to defects
+181.417	in mechanical properties,
+184.319	and if we could grow continuously,
+184.319	we could eliminate those defects.
+188.266	And in fact, if we could grow really fast,
+188.266	we could also start using materials
+193.398	that are self-curing,
+193.398	and we could have amazing properties.
+198.042	So if we could pull this off,
+198.042	imitate Hollywood,
+202.151	we could in fact address 3D manufacturing.
+206.702	Our approach is to use
+206.702	some standard knowledge
+209.953	in polymer chemistry
+212.553	to harness light and oxygen
+212.553	to grow parts continuously.
+219.152	Light and oxygen work in different ways.
+222.099	Light can take a resin
+222.099	and convert it to a solid,
+225.141	can convert a liquid to a solid.
+227.295	Oxygen inhibits that process.
+230.829	So light and oxygen
+230.829	are polar opposites from one another
+234.08	from a chemical point of view,
+236.588	and if we can control spatially
+236.588	the light and oxygen,
+240.001	we could control this process.
+242.288	And we refer to this as CLIP.
+242.288	[Continuous Liquid Interface Production.]
+245.739	It has three functional components.
+248.465	One, it has a reservoir
+248.465	that holds the puddle,
+252.326	just like the T-1000.
+254.205	At the bottom of the reservoir
+254.205	is a special window.
+256.621	I'll come back to that.
+258.112	In addition, it has a stage
+258.112	that will lower into the puddle
+261.892	and pull the object out of the liquid.
+264.481	The third component
+264.481	is a digital light projection system
+268.285	underneath the reservoir,
+270.305	illuminating with light
+270.305	in the ultraviolet region.
+274.048	Now, the key is that this window
+274.048	in the bottom of this reservoir,
+277.271	it's a composite,
+277.271	it's a very special window.
+280.15	It's not only transparent to light
+280.15	but it's permeable to oxygen.
+283.796	It's got characteristics
+283.796	like a contact lens.
+287.435	So we can see how the process works.
+289.716	You can start to see that
+289.716	as you lower a stage in there,
+293.13	in a traditional process,
+293.13	with an oxygen-impermeable window,
+297.309	you make a two-dimensional pattern
+300.008	and you end up gluing that onto the window
+300.008	with a traditional window,
+303.37	and so in order to introduce
+303.37	the next layer, you have to separate it,
+306.922	introduce new resin, reposition it,
+310.451	and do this process over and over again.
+313.4	But with our very special window,
+315.234	what we're able to do is,
+315.234	with oxygen coming through the bottom
+318.563	as light hits it,
+321.256	that oxygen inhibits the reaction,
+323.926	and we form a dead zone.
+326.55	This dead zone is on the order
+326.55	of tens of microns thick,
+330.869	so that's two or three diameters
+330.869	of a red blood cell,
+334.096	right at the window interface
+334.096	that remains a liquid,
+336.627	and we pull this object up,
+338.577	and as we talked about in a Science paper,
+340.969	as we change the oxygen content,
+340.969	we can change the dead zone thickness.
+345.682	And so we have a number of key variables
+345.682	that we control: oxygen content,
+349.374	the light, the light intensity,
+349.374	the dose to cure,
+352.439	the viscosity, the geometry,
+354.401	and we use very sophisticated software
+354.401	to control this process.
+358.697	The result is pretty staggering.
+361.46	It's 25 to 100 times faster
+361.46	than traditional 3D printers,
+366.336	which is game-changing.
+368.17	In addition, as our ability
+368.17	to deliver liquid to that interface,
+372.506	we can go 1,000 times faster I believe,
+376.246	and that in fact opens up the opportunity
+376.246	for generating a lot of heat,
+379.803	and as a chemical engineer,
+379.803	I get very excited at heat transfer
+383.866	and the idea that we might one day
+383.866	have water-cooled 3D printers,
+388.045	because they're going so fast.
+390.437	In addition, because we're growing things,
+390.437	we eliminate the layers,
+394.5	and the parts are monolithic.
+396.474	You don't see the surface structure.
+398.564	You have molecularly smooth surfaces.
+401.057	And the mechanical properties
+401.057	of most parts made in a 3D printer
+405.297	are notorious for having properties
+405.297	that depend on the orientation
+409.593	with which how you printed it,
+409.593	because of the layer-like structure.
+413.354	But when you grow objects like this,
+415.699	the properties are invariant
+415.699	with the print direction.
+419.368	These look like injection-molded parts,
+422.317	which is very different
+422.317	than traditional 3D manufacturing.
+425.729	In addition, we're able to throw
+429.259	the entire polymer
+429.259	chemistry textbook at this,
+432.835	and we're able to design chemistries
+432.835	that can give rise to the properties
+436.826	you really want in a 3D-printed object.
+439.868	(Applause)
+441.205	There it is. That's great.
+446.049	You always take the risk that something
+446.049	like this won't work onstage, right?
+450.177	But we can have materials
+450.177	with great mechanical properties.
+453.056	For the first time, we can have elastomers
+455.494	that are high elasticity
+455.494	or high dampening.
+457.955	Think about vibration control
+457.955	or great sneakers, for example.
+461.368	We can make materials
+461.368	that have incredible strength,
+464.828	high strength-to-weight ratio,
+464.828	really strong materials,
+468.404	really great elastomers,
+470.517	so throw that in the audience there.
+473.242	So great material properties.
+475.878	And so the opportunity now,
+475.878	if you actually make a part
+479.293	that has the properties
+479.293	to be a final part,
+482.973	and you do it in game-changing speeds,
+486.073	you can actually transform manufacturing.
+488.86	Right now, in manufacturing,
+488.86	what happens is,
+491.716	the so-called digital thread
+491.716	in digital manufacturing.
+494.678	We go from a CAD drawing, a design,
+494.678	to a prototype to manufacturing.
+499.717	Often, the digital thread is broken
+499.717	right at prototype,
+502.44	because you can't go
+502.44	all the way to manufacturing
+504.872	because most parts don't have
+504.872	the properties to be a final part.
+508.587	We now can connect the digital thread
+510.978	all the way from design
+510.978	to prototyping to manufacturing,
+515.227	and that opportunity
+515.227	really opens up all sorts of things,
+518.176	from better fuel-efficient cars
+518.176	dealing with great lattice properties
+523.129	with high strength-to-weight ratio,
+525.08	new turbine blades,
+525.08	all sorts of wonderful things.
+529.468	Think about if you need a stent
+529.468	in an emergency situation,
+534.623	instead of the doctor pulling off
+534.623	a stent out of the shelf
+538.593	that was just standard sizes,
+540.822	having a stent that's designed
+540.822	for you, for your own anatomy
+544.978	with your own tributaries,
+546.789	printed in an emergency situation
+546.789	in real time out of the properties
+550.038	such that the stent could go away
+550.038	after 18 months: really-game changing.
+553.477	Or digital dentistry, and making
+553.477	these kinds of structures
+557.633	even while you're in the dentist chair.
+560.814	And look at the structures
+560.814	that my students are making
+563.53	at the University of North Carolina.
+565.504	These are amazing microscale structures.
+568.313	You know, the world is really good
+568.313	at nano-fabrication.
+571.309	Moore's Law has driven things
+571.309	from 10 microns and below.
+575.599	We're really good at that,
+577.201	but it's actually very hard to make things
+577.201	from 10 microns to 1,000 microns,
+581.241	the mesoscale.
+583.261	And subtractive techniques
+583.261	from the silicon industry
+586.094	can't do that very well.
+587.51	They can't etch wafers that well.
+589.159	But this process is so gentle,
+591.109	we can grow these objects
+591.109	up from the bottom
+593.594	using additive manufacturing
+595.59	and make amazing things
+595.59	in tens of seconds,
+597.843	opening up new sensor technologies,
+599.932	new drug delivery techniques,
+602.417	new lab-on-a-chip applications,
+602.417	really game-changing stuff.
+607.149	So the opportunity of making
+607.149	a part in real time
+611.983	that has the properties to be a final part
+614.816	really opens up 3D manufacturing,
+617.792	and for us, this is very exciting,
+617.792	because this really is owning
+620.992	the intersection between hardware,
+620.992	software and molecular science,
+627.589	and I can't wait to see what designers
+627.589	and engineers around the world
+631.755	are going to be able to do
+631.755	with this great tool.
+634.499	Thanks for listening.
+636.618	(Applause)

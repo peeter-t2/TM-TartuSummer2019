@@ -1,0 +1,178 @@
+startsecond	text
+19.608	So, as researchers, something
+19.608	that we often do is use immense resources
+23.853	to achieve certain capabilities,
+23.853	or achieve certain goals.
+27.156	And this is essential
+27.156	to the progress of science,
+29.715	or exploration of what is possible.
+32.064	But it creates this unfortunate situation
+34.096	where a tiny, tiny fraction of the world
+36.136	can actually participate
+36.136	in this exploration
+38.256	or can benefit from that technology.
+40.101	Something that motivates me,
+41.53	and gets me really excited
+41.53	about my research,
+43.767	is when I see simple opportunities
+45.497	to drastically change that distribution
+45.497	and make the technology accessible
+49.321	to a much wider percentage
+49.321	of the population.
+51.454	I'm going to show you two videos
+51.454	that have gotten a lot of attention
+55.01	that I think embody this philosophy.
+56.804	And they actually use
+56.804	the Nintendo Wii Remote.
+59.261	For those of you who aren't
+59.261	familiar with this device,
+61.826	it's a $40 video game controller.
+64.547	And it's mostly advertised
+64.547	for its motion-sensing capabilities:
+67.716	so you can swing a tennis racket,
+67.716	or hit a baseball bat.
+70.382	But what actually interests me a lot more
+72.764	is the fact that in the tip
+72.764	of each controller
+74.946	is a relatively high-performing
+74.946	infrared camera.
+77.76	And I'm going to show you
+77.76	two demos of why this is useful.
+82.243	So here, I have my computer
+82.243	set up with the projector,
+85.171	and I have a Wii Remote
+85.171	sitting on top of it.
+87.552	And, for example, if you're in a school
+87.552	that doesn't have a lot money,
+91.434	probably a lot of schools,
+92.885	or if you're in an office environment,
+92.885	and you want an interactive whiteboard,
+96.591	normally these cost
+96.591	about two to three thousand dollars.
+99.265	So I'm going to show you
+99.265	how to create one with a Wii Remote.
+103.397	Now, this requires
+103.397	another piece of hardware,
+107.005	which is this infrared pen.
+108.597	You can probably make
+108.597	this yourself for about five dollars
+111.431	with a quick trip to the Radio Shack.
+113.287	It's got a battery,
+113.287	a button and an infrared LED --
+115.869	you guys can't see it --
+117.051	but it turns on
+117.051	whenever I push the button.
+119.306	Now, what this means is
+119.306	that if I run this piece of software,
+123.868	the camera sees the infrared dot,
+128.305	and I can register the location
+128.305	of the camera pixels
+132.514	to the projector pixels.
+133.681	And now this is like
+133.681	an interactive whiteboard surface.
+136.387	(Applause)
+138.133	So for about $50 of hardware,
+138.133	you can have your own whiteboard.
+142.046	This is Adobe Photoshop.
+144.253	(Applause)
+149.942	Thank you.
+151.022	(Laughter)
+152.679	The software for this
+152.679	I've actually put on my website
+155.314	and have let people download it for free.
+157.345	In the three months
+157.345	this project has been public,
+159.74	it's been downloaded
+159.74	over half a million times.
+162.032	So teachers and students
+162.032	all around the world
+164.297	are already using this.
+165.667	(Applause)
+171.09	Although it does do it for 50 dollars,
+173.407	there are some limitations
+173.407	of this approach.
+175.488	You get about 80 percent of the way there,
+175.488	for one percent of the cost.
+178.914	Another nice thing is that a camera
+178.914	can see multiple dots,
+181.716	so this is actually a multi-touch,
+181.716	interactive whiteboard system as well.
+185.203	(Applause)
+187.425	For the second demo,
+188.577	I have this Wii Remote
+188.577	that's actually next to the TV.
+191.225	So it's pointing away from the display,
+191.225	rather than pointing at the display.
+195.449	And why this is interesting
+197.736	is that if you put on, say,
+197.736	a pair of safety glasses,
+201.474	that have two infrared dots in them,
+203.312	they are going to give the computer
+203.312	an approximation of your head location.
+208.589	And why this is interesting
+209.915	is I have this sort of application
+209.915	running on the computer monitor,
+213.082	which has a 3D room,
+213.082	with some targets floating in it.
+215.638	And you can see that it
+215.638	looks like a 3D room.
+217.901	kind of like a video game,
+217.901	it sort of looks 3D,
+221.272	but for the most part,
+221.272	the image looks pretty flat,
+223.763	and bound to the surface of the screen.
+225.645	But if we turn on head tracking --
+231.05	the computer can change
+231.05	the image that's on the screen
+233.859	and make it respond to the head movements.
+235.899	So let's switch back to that.
+237.304	(Laughter)
+240.33	(Applause)
+250.975	So this has actually
+250.975	been a little bit startling
+254.218	to the game-development community.
+255.876	(Laughter)
+257.722	Because this is about 10 dollars
+257.722	of additional hardware
+260.602	if you already have a Nintendo Wii.
+262.485	So I'm looking forward
+262.485	to seeing some games,
+264.794	and actually Louis Castle,
+264.794	that's him down there,
+267.313	last week announced that Electronic Arts,
+267.313	one of the largest game publishers,
+270.976	is releasing a game in May
+270.976	that has a little Easter egg feature
+274.001	for supporting this type of head tracking.
+276.318	And that's from less than five months
+278.268	from a prototype in my lab
+278.268	to a major commercial product.
+281.418	(Applause)
+286.935	Thank you.
+288.188	(Applause)
+290.451	But actually, to me,
+290.451	what's almost more interesting
+292.874	than either of these two projects
+294.47	is how people actually
+294.47	found out about them.
+296.789	YouTube has really changed the way,
+296.789	or changed the speed,
+300.353	in which a single individual
+301.711	can actually spread
+301.711	an idea around the world.
+303.962	I'm doing some research
+303.962	in my lab with a video camera,
+306.986	and within the first week,
+306.986	a million people had seen this work,
+309.963	and literally within days,
+309.963	engineers, teachers and students
+313.578	from around the world were already
+313.578	posting their own YouTube videos
+316.793	of them using my system
+316.793	or derivatives of this work.
+320.177	So I hope to see more
+320.177	of that in the future,
+322.741	and hope online video distribution
+322.741	to be embraced by the research community.
+326.337	So thank you very much.
+327.614	(Applause)

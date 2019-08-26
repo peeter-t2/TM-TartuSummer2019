@@ -1,0 +1,388 @@
+startsecond	text
+15.26	When my brother called me in December of 1998,
+18.26	"he said, ""The news does not look good."""
+20.26	This is him on the screen.
+22.26	He'd just been diagnosed with ALS,
+24.26	which is a disease that the average lifespan is three years.
+28.26	It paralyzes you. It starts by killing
+30.26	the motor neurons in your spinal cord.
+33.26	And you go from being a healthy,
+35.26	robust 29-year-old male
+38.26	to someone that cannot breathe,
+40.26	cannot move, cannot speak.
+46.26	This has actually been, to me, a gift,
+50.26	because we began a journey
+53.26	to learn a new way of thinking about life.
+56.26	And even though Steven passed away three years ago
+60.26	we had an amazing journey as a family.
+62.26	We did not even --
+65.26	I think adversity is not even the right word.
+67.26	"We looked at this and we said, ""We're going to do something with this"
+70.26	"in an incredibly positive way."""
+72.26	And I want to talk today
+74.26	about one of the things that we decided to do,
+77.26	which was to think about a new way of approaching healthcare.
+81.26	Because, as we all know here today,
+83.26	it doesn't work very well.
+85.26	I want to talk about it in the context of a story.
+88.26	This is the story of my brother.
+90.26	But it's just a story. And I want to go beyond the story,
+93.26	and go to something more.
+95.26	"""Given my status, what is the best outcome"
+98.26	"I can hope to achieve, and how do I get there?"""
+101.26	is what we are here to do in medicine, is what everyone should do.
+104.26	And those questions all have variables to them.
+106.26	All of our statuses are different.
+108.26	All of our hopes and dreams, what we want to accomplish,
+110.26	is different, and our paths will be different,
+112.26	they are all stories.
+114.26	But it's a story until we convert it to data
+116.26	and so what we do, this concept we had,
+118.26	"was to take Steven's status, ""What is my status?"""
+121.26	and go from this concept of walking, breathing,
+126.26	and then his hands, speak,
+129.26	and ultimately happiness and function.
+133.26	So, the first set of pathologies, they end up in the stick man
+135.26	on his icon,
+137.26	but the rest of them are really what's important here.
+140.26	Because Steven, despite the fact that he was paralyzed,
+143.26	as he was in that pool, he could not walk,
+146.26	he could not use his arms -- that's why he had the little floaty things on them,
+148.26	did you see those? --
+150.26	he was happy. We were at the beach,
+152.26	he was raising his son, and he was productive.
+154.26	And we took this, and we converted it into data.
+159.26	But it's not a data point at that one moment in time.
+161.26	It is a data point of Steven in a context.
+163.26	Here he is in the pool. But here he is healthy,
+165.26	as a builder: taller, stronger,
+168.26	got all the women, amazing guy.
+170.26	Here he is walking down the aisle,
+172.26	but he can barely walk now, so it's impaired.
+175.26	And he could still hold his wife's hand, but he couldn't do buttons on his clothes,
+177.26	can't feed himself.
+179.26	And here he is, paralyzed completely,
+181.26	unable to breathe and move, over this time journey.
+183.26	These stories of his life, converted to data.
+186.26	He renovated my carriage house
+188.26	when he was completely paralyzed, and unable to speak,
+190.26	and unable to breathe, and he won an award for a historic restoration.
+196.26	So, here's Steven alone, sharing this story in the world.
+198.26	And this is the insight, the thing that we are
+201.26	excited about,
+203.26	because we have gone away from the community that we are,
+206.26	the fact that we really do love each other and want to care for each other.
+209.26	We need to give to others to be successful.
+211.26	So, Steven is sharing this story,
+214.26	but he is not alone.
+216.26	There are so many other people sharing their stories.
+218.26	Not stories in words, but stories in data and words.
+221.26	And we convert that information into this structure,
+224.26	this understanding, this ability to convert
+227.26	those stories into something that is computable,
+229.26	to which we can begin to change the way
+231.26	medicine is done and delivered.
+233.26	We did this for ALS. We can do this for depression,
+235.26	Parkinson's disease, HIV.
+237.26	These are not simple, they are not internet scalable;
+239.26	they require thought and processes
+241.26	to find the meaningful information about the disease.
+244.26	So, this is what it looks like when you go to the website.
+247.26	And I'm going to show you what Patients Like Me,
+250.26	the company that myself, my youngest brother
+252.26	and a good friend from MIT started.
+254.26	Here are the actual patients, there are 45,000 of them now,
+257.26	sharing their stories as data.
+259.26	Here is an M.S. patient.
+261.26	His name is Mike, and he is uniformly impaired
+263.26	on cognition, vision, walking, sensation.
+266.26	Those are things that are different for each M.S. patient.
+268.26	Each of them can have a different characteristic.
+270.26	You can see fibromyalgia, HIV, ALS, depression.
+275.26	Look at this HIV patient down here, Zinny.
+278.26	It's two years of this disease. All of the symptoms are not there.
+281.26	But he is working to keep his CD4 count high
+283.26	and his viral level low so he can make his life better.
+286.26	But you can aggregate this and you can discover things about treatments.
+290.26	Look at this, 2,000 people almost, on Copaxone.
+292.26	These are patients currently on drugs,
+294.26	sharing data.
+296.26	I love some of these, physical exercise, prayer.
+299.26	Anyone want to run a comparative effectiveness study
+301.26	on prayer against something? Let's look at prayer.
+303.26	What I love about this, just sort of interesting design problems.
+307.26	These are why people pray.
+309.26	Here is the schedule of how frequently they -- it's a dose.
+311.26	So, anyone want to see the 32 patients that pray for 60 minutes a day,
+314.26	and see if they're doing better, they probably are.
+316.26	Here they are. It's an open network,
+319.26	everybody is sharing. We can see it all.
+322.26	Or, I want to look at anxiety, because people are praying for anxiety.
+325.26	And here is data on 15,000 people's current anxiety, right now.
+330.26	How they treat it,
+333.26	the drugs, the components of it,
+336.26	their side effects, all of it in a rich environment,
+339.26	and you can drill down and see the individuals.
+341.26	This amazing data allows us to drill down and see
+344.26	what this drug is for --
+347.26	1,500 people on this drug, I think. Yes.
+349.26	I want to talk to the 58 patients down here
+351.26	who are taking four milligrams a day.
+353.26	And I want to talk to the ones of those that have been doing
+355.26	it for more than two years.
+361.26	So, you can see the duration.
+363.26	All open, all available.
+367.26	I'm going to log in.
+371.26	And this is my brother's profile.
+373.26	And this is a new version of our platform we're launching right now.
+377.26	This is the second generation. It's going to be in Flash.
+379.26	And you can see here, as this animates over,
+382.26	Steven's actual data against the background of all other patients,
+385.26	against this information.
+388.26	The blue band is the 50th percentile. Steven is the 75th percentile,
+390.26	that he has non-genetic ALS.
+393.26	You scroll down in this profile and you can see
+395.26	all of his prescription drugs,
+397.26	but more than that, in the new version, I can look at this interactively.
+400.26	Wait, poor spinal capacity.
+402.26	Doesn't this remind you of a great stock program?
+404.26	Wouldn't it be great if the technology we used to take care of ourselves
+406.26	was as good as the technology we use to make money?
+409.26	Detrol. In the side effects for his drug,
+411.26	integrated into that, the stem cell transplant that he had,
+413.26	the first in the world, shared openly for anyone who wants to see it.
+419.26	I love here -- the cyberkinetics implant,
+421.26	which was, again, the only patient's data that was online and available.
+425.26	You can adjust the time scale. You can adjust the symptoms.
+427.26	You can look at the interaction between how I treat my ALS.
+431.26	So, you click down on the ALS tab there.
+433.26	I'm taking three drugs to manage it. Some of them are experimental.
+436.26	I can look at my constipation, how to manage it.
+438.26	I can see magnesium citrate, and the side effects
+440.26	from that drug all integrated in the time
+442.26	in which they're meaningful.
+445.26	But I want more.
+447.26	I don't want to just look at this cool device, I want to take this
+449.26	data and make something even better.
+451.26	I want my brother's center of the universe and his symptoms
+454.26	and his drugs,
+457.26	and all of the things that interact among those,
+459.26	the side effects, to be in this beautiful data galaxy
+462.26	that we can look at in any way we want to understand it,
+465.26	so that we can take this information
+468.26	and go beyond just this simple model
+472.26	of what a record is.
+475.26	I don't even know what a medical record is.
+477.26	I want to solve a problem. I want an application.
+479.26	So, can I take this data -- rearrange yourself,
+482.26	put the symptoms in the left, the drugs across the top,
+484.26	tell me everything we know about Steven and everyone else,
+486.26	and what interacts.
+489.26	Years after he's had these drugs,
+491.26	I learned that everything he did to manage his excess saliva,
+494.26	including some positive side effects that came from other drugs,
+497.26	were making his constipation worse.
+499.26	And if anyone's ever had severe constipation,
+501.26	and you don't understand how much of an impact that has on your life --
+503.26	yes, that was a pun.
+506.26	You're trying to manage these,
+508.26	and this grid is available here,
+510.26	and we want to understand it.
+513.26	No one's ever had this kind of information.
+516.26	So, patients have this. We're for patients.
+518.26	This is all about patient health care, there was no doctors on our network.
+520.26	This is about the patients.
+522.26	So, how can we take this and bring them a tool
+525.26	that they can go back and they can engage the medical system?
+527.26	And we worked hard, and we thought about it and we said,
+530.26	"""What's something we can use all the time,"
+532.26	that we can use in the medical care system,
+534.26	"that everyone will understand?"""
+536.26	So, the patients print it out,
+538.26	because hospitals usually block us
+540.26	because they believe we are a social network.
+543.26	It's actually the most used feature on the website.
+545.26	Doctors actually love this sheet, and they're actually really engaged.
+548.26	So, we went from this story of Steven
+551.26	and his history to data, and then back to paper,
+554.26	where we went back and engaged the medical care system.
+555.26	And here's another paper.
+557.26	This is a journal, PNAS --
+559.26	I think it's the Proceedings of the National Academy of Science
+561.26	of the United States of America.
+563.26	You've seen multiple of these today, when everyone's bragging about
+565.26	the amazing things they've done.
+567.26	This is a report about a drug called lithium.
+569.26	Lithium, that is a drug used to treat bipolar disorder,
+573.26	that a group in Italy found
+575.26	slowed ALS down in 16 patients, and published it.
+578.26	Now, we'll skip the critiques of the paper.
+580.26	But the short story is: If you're a patient,
+582.26	you want to be on the blue line.
+584.26	You don't want to be on the red line, you want to be on the blue line.
+586.26	Because the blue line is a better line. The red line
+588.26	is way downhill, the blue line is a good line.
+590.26	So, you know we said -- we looked at this, and what I love also
+594.26	is that people always accuse these Internet sites
+596.26	of promoting bad medicine and having people do things irresponsibly.
+599.26	So, this is what happened when PNAS published this.
+602.26	Ten percent of the people in our system took lithium.
+605.26	Ten percent of the patients started taking lithium based on 16 patients of data
+608.26	in a bad publication.
+610.26	And they call the Internet irresponsible.
+612.26	Here's the implication of what happens.
+614.26	There's this one guy, named Humberto, from Brazil,
+617.26	who unfortunately passed away nine months ago,
+620.26	"who said, ""Hey, listen. Can you help us answer this question?"
+622.26	Because I don't want to wait for the next trial, it's going to be years.
+625.26	"I want to know now. Can you help us?"""
+627.26	So, we launched some tools, we let them track their blood levels.
+630.26	We let them share the data and exchange it.
+632.26	You know, a data network.
+635.26	"And they said, you know, ""Jamie, PLM,"
+637.26	"can you guys tell us whether this works or not?"""
+639.26	And we went around and we talked to people,
+641.26	"and they said, ""You can't run a clinical trial like this. You know?"
+643.26	You don't have the blinding, you don't have data,
+645.26	it doesn't follow the scientific method.
+647.26	"It's never going to work. You can't do it."""
+649.26	"So, I said, ""Okay well we can't do that. Then we can do something harder."""
+652.26	(Laughter)
+655.26	I can't say whether lithium works in all ALS patients,
+657.26	but I can say whether it works in Humberto.
+660.26	I bought a Mac about two years ago, I converted over,
+662.26	and I was so excited about this new feature of the time machine
+664.26	that came in Leopard. And we said -- because it's really cool,
+666.26	you can go back and you can look at the entire history of your computer,
+668.26	and find everything you've lost, and I loved it.
+670.26	"And I said, ""What if we built a time machine for patients,"
+674.26	except instead of going backwards, we go forwards.
+677.26	Can we find out what's going to happen to you,
+680.26	"so that you can maybe change it?"""
+683.26	So, we did. We took all the patients like Humberto,
+686.26	That's the Apple background, we stole that because we didn't have time
+688.26	to build our own. This is a real app by the way.
+690.26	This is not just graphics.
+692.26	And you take those data, and we find the patients like him, and we bring
+694.26	their data together. And we bring their histories into it.
+698.26	"And then we say, ""Well how do we line them all up?"""
+700.26	So, we line them all up so they go together
+702.26	around the meaningful points,
+704.26	integrated across everything we know about the patient.
+706.26	Full information, the entire course of their disease.
+710.26	And that's what is going to happen to Humberto,
+712.26	unless he does something.
+714.26	And he took lithium, and he went down the line.
+717.26	And it works almost every time.
+720.26	Now, the ones that it doesn't work are interesting.
+722.26	But almost all the time it works.
+725.26	It's actually scary. It's beautiful.
+727.26	So, we couldn't run a clinical trial, we couldn't figure it out.
+729.26	But we could see whether it was going to work for Humberto.
+732.26	And yeah, all the clinicians in the audience will talk about power
+734.26	and all the standard deviation. We'll do that later.
+736.26	But here is the answer
+740.26	of the mean of the patients that actually decided
+742.26	to take lithium.
+744.26	These are all the patients that started lithium.
+746.26	It's the Intent to Treat Curve.
+748.26	You can see here, the blue dots on the top, the light ones,
+752.26	those are the people in the study in PNAS
+754.26	that you wanted to be on. And the red ones are the ones,
+756.26	the pink ones on the bottom are the ones you didn't want to be.
+758.26	And the ones in the middle are all of our patients
+761.26	from the start of lithium at time zero,
+763.26	going forward, and then going backward.
+767.26	So, you can see we matched them perfectly, perfectly.
+770.26	Terrifyingly accurate matching.
+772.26	And going forward, you actually don't want to be a lithium patient this time.
+776.26	You're actually doing slightly worse -- not significantly,
+778.26	but slightly worse. You don't want to be a lithium patient this time.
+781.26	But you know, a lot of people dropped out,
+784.26	the trial, there is too much drop out.
+786.26	Can we do the even harder thing? Can we go to the patients
+788.26	that actually decided to stay on lithium,
+792.26	because they were so convinced they were getting better?
+794.26	We asked our control algorithm,
+796.26	are those 69 patients -- by the way, you'll notice
+798.26	that's four times the number of patients in the clinical trial --
+801.26	can we look at those patients and say,
+804.26	"""Can we match them with our time machine"
+807.26	to the other patients that are just like them,
+809.26	"and what happens?"""
+811.26	Even the ones that believed they were getting better
+814.26	matched the controls exactly. Exactly.
+817.26	Those little lines? That's the power.
+819.26	So, we -- I can't tell you lithium doesn't work. I can't tell you
+821.26	that if you did it at a higher dose
+823.26	or if you run the study proper -- I can tell you
+825.26	that for those 69 people that took lithium,
+829.26	they didn't do any better than the people that were just like them,
+831.26	just like me,
+833.26	and that we had the power to detect that at about
+836.26	a quarter of the strengths reported in the initial study.
+839.26	We did that one year ahead of the time
+842.26	when the first clinical trial funded by the NIH
+844.26	for millions of dollars failed for futility last week,
+847.26	and announced it.
+850.26	So, remember I told you about my brother's stem cell transplant.
+853.26	I never really knew whether it worked.
+856.26	And I put 100 million cells in his cisterna magna,
+859.26	in his lumbar cord,
+861.26	and filled out the IRBs and did all this work,
+863.26	and I never really knew.
+866.26	How did I not know?
+868.26	I mean, I didn't know what was going to happen to him.
+870.26	I actually asked Tim, who is the quant in our group --
+873.26	we actually searched for about a year to find someone
+876.26	who could do the sort of math and statistics and modeling
+878.26	in healthcare, couldn't find anybody. So, we went to the finance industry.
+881.26	And there are these guys who used to model the future
+883.26	of interest rates, and all that kind of stuff.
+885.26	And some of them were available. So, we hired one.
+888.26	(Laughter)
+891.26	We hired them, set them up, assisting at lab.
+893.26	I I.M. him things. That's the way I communicate with him,
+895.26	is like a little guy in a box. I I.M.ed Tim. I said,
+897.26	"""Tim can you tell me whether my brother's stem cell transplant"
+899.26	"worked or not?"""
+902.26	And he sent me this two days ago.
+905.26	It was that little outliers there. You see that guy that lived a long time?
+908.26	We have to go talk to him. Because I'd like to know what happened.
+910.26	Because something went different.
+912.26	But my brother didn't. My brother went straight down the line.
+915.26	It only works about 12 months.
+917.26	It's the first version of the time machine.
+919.26	First time we ever tried it. We'll try to get it better later
+921.26	but 12 months so far.
+924.26	And, you know, I look at this,
+928.26	and I get really emotional.
+930.26	You look at the patients, you can drill in all the controls,
+932.26	you can look at them, you can ask them.
+934.26	And I found a woman that had --
+937.26	we found her, she was odd because she had data
+939.26	after she died.
+941.26	And her husband had come in and entered her last functional scores,
+944.26	because he knew how much she cared.
+947.26	And I am thankful.
+950.26	I can't believe that these people,
+952.26	years after my brother had died,
+954.26	helped me answer the question about whether
+956.26	an operation I did, and spent millions of dollars on
+959.26	years ago, worked or not.
+961.26	I wished it had been there
+963.26	when I'd done it the first time,
+965.26	and I'm really excited that it's here now,
+967.26	because the lab that I founded
+972.26	has some data on a drug that might work,
+974.26	and I'd like to show it.
+978.26	I'd like to show it in real time, now,
+980.26	and I want to do that for all of the diseases that we can do that for.
+985.26	I've got to thank the 45,000 people
+988.26	that are doing this social experiment with us.
+991.26	There is an amazing journey we are going on
+994.26	to become human again,
+996.26	to be part of community again,
+999.26	to share of ourselves, to be vulnerable,
+1001.26	and it's very exciting. So, thank you.
+1004.26	(Applause)

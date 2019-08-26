@@ -1,0 +1,357 @@
+startsecond	text
+12.88	June 2010.
+15.76	I landed for the first time
+15.76	in Rome, Italy.
+19.8	I wasn't there to sightsee.
+21.72	I was there to solve world hunger.
+25.16	(Laughter)
+27.28	That's right.
+28.52	I was a 25-year-old PhD student
+30.64	armed with a prototype tool
+30.64	developed back at my university,
+33.76	and I was going to help
+33.76	the World Food Programme fix hunger.
+37.84	So I strode into the headquarters building
+40.6	and my eyes scanned the row of UN flags,
+43.44	and I smiled as I thought to myself,
+46.84	"""The engineer is here."""
+48.48	(Laughter)
+50.72	Give me your data.
+52.52	I'm going to optimize everything.
+54.72	(Laughter)
+56.48	Tell me the food that you've purchased,
+58.4	tell me where it's going
+58.4	and when it needs to be there,
+61.04	and I'm going to tell you
+61.04	the shortest, fastest, cheapest,
+63.8	best set of routes to take for the food.
+65.76	We're going to save money,
+67.28	we're going to avoid
+67.28	delays and disruptions,
+69.4	and bottom line,
+69.4	we're going to save lives.
+72.16	You're welcome.
+73.4	(Laughter)
+75.12	I thought it was going to take 12 months,
+77.12	OK, maybe even 13.
+79.8	This is not quite how it panned out.
+83.6	Just a couple of months into the project,
+83.6	my French boss, he told me,
+87.4	"""You know, Mallory,"
+89.24	it's a good idea,
+90.92	but the data you need
+90.92	for your algorithms is not there.
+94.28	It's the right idea but at the wrong time,
+96.84	and the right idea at the wrong time
+99.16	"is the wrong idea."""
+100.56	(Laughter)
+102.96	Project over.
+105.12	I was crushed.
+109	When I look back now
+110.48	on that first summer in Rome
+112.16	and I see how much has changed
+112.16	over the past six years,
+114.84	it is an absolute transformation.
+117.64	It's a coming of age for bringing data
+117.64	into the humanitarian world.
+122.16	It's exciting. It's inspiring.
+124.84	But we're not there yet.
+127.32	And brace yourself, executives,
+129.64	because I'm going to be putting companies
+131.64	on the hot seat to step up
+131.64	and play the role that I know they can.
+137.52	My experiences back in Rome prove
+140.36	using data you can save lives.
+143.44	OK, not that first attempt,
+145.92	but eventually we got there.
+148.52	Let me paint the picture for you.
+150.28	Imagine that you have to plan
+150.28	breakfast, lunch and dinner
+153.04	for 500,000 people,
+154.68	and you only have
+154.68	a certain budget to do it,
+156.84	say 6.5 million dollars per month.
+160.92	Well, what should you do?
+160.92	What's the best way to handle it?
+164.28	Should you buy rice, wheat, chickpea, oil?
+167.76	How much?
+169	It sounds simple. It's not.
+171.16	You have 30 possible foods,
+171.16	and you have to pick five of them.
+174.4	That's already over 140,000
+174.4	different combinations.
+177.84	Then for each food that you pick,
+179.56	you need to decide how much you'll buy,
+181.56	where you're going to get it from,
+183.28	where you're going to store it,
+185.76	how long it's going to take to get there.
+187.76	You need to look at all of the different
+187.76	transportation routes as well.
+191.12	And that's already
+191.12	over 900 million options.
+194.12	If you considered each option
+194.12	for a single second,
+196.52	that would take you
+196.52	over 28 years to get through.
+201.16	So we created a tool
+201.16	that allowed decisionmakers
+203.64	to weed through all 900 million options
+206.28	in just a matter of days.
+208.56	It turned out to be incredibly successful.
+211.4	In an operation in Iraq,
+212.68	we saved 17 percent of the costs,
+215.24	and this meant that you had the ability
+215.24	to feed an additional 80,000 people.
+219.4	It's all thanks to the use of data
+219.4	and modeling complex systems.
+224.8	But we didn't do it alone.
+226.84	The unit that I worked with in Rome,
+226.84	they were unique.
+229.6	They believed in collaboration.
+231.36	They brought in the academic world.
+233.08	They brought in companies.
+235.2	And if we really want to make big changes
+235.2	in big problems like world hunger,
+238.84	we need everybody to the table.
+242.04	We need the data people
+242.04	from humanitarian organizations
+245	leading the way,
+246.28	and orchestrating
+246.28	just the right types of engagements
+248.88	with academics, with governments.
+250.6	And there's one group that's not being
+250.6	leveraged in the way that it should be.
+254.32	Did you guess it? Companies.
+256.44	Companies have a major role to play
+256.44	in fixing the big problems in our world.
+260.88	I've been in the private sector
+260.88	for two years now.
+263.32	I've seen what companies can do,
+263.32	and I've seen what companies aren't doing,
+266.92	and I think there's three main ways
+266.92	that we can fill that gap:
+270.32	by donating data,
+270.32	by donating decision scientists
+273.44	and by donating technology
+273.44	to gather new sources of data.
+277.92	This is data philanthropy,
+279.52	and it's the future of corporate
+279.52	social responsibility.
+283.16	Bonus, it also makes good business sense.
+286.92	Companies today,
+286.92	they collect mountains of data,
+290.16	so the first thing they can do
+290.16	is start donating that data.
+292.946	Some companies are already doing it.
+295.16	Take, for example,
+295.16	a major telecom company.
+297.6	They opened up their data
+297.6	in Senegal and the Ivory Coast
+300.4	and researchers discovered
+302.4	that if you look at the patterns
+302.4	in the pings to the cell phone towers,
+305.758	you can see where people are traveling.
+307.72	And that can tell you things like
+309.92	where malaria might spread,
+309.92	and you can make predictions with it.
+313.04	Or take for example
+313.04	an innovative satellite company.
+315.96	They opened up their data and donated it,
+318	and with that data you could track
+319.68	how droughts are impacting
+319.68	food production.
+322.92	With that you can actually trigger
+322.92	aid funding before a crisis can happen.
+327.56	This is a great start.
+329.84	There's important insights
+329.84	just locked away in company data.
+334.48	And yes, you need to be very careful.
+336.32	You need to respect privacy concerns,
+336.32	for example by anonymizing the data.
+339.92	But even if the floodgates opened up,
+342.72	and even if all companies
+342.72	donated their data
+345.28	to academics, to NGOs,
+345.28	to humanitarian organizations,
+348.56	it wouldn't be enough
+348.56	to harness that full impact of data
+351.56	for humanitarian goals.
+354.32	Why?
+355.8	To unlock insights in data,
+355.8	you need decision scientists.
+359.76	Decision scientists are people like me.
+362.36	They take the data, they clean it up,
+364.2	transform it and put it
+364.2	into a useful algorithm
+366.48	that's the best choice
+366.48	to address the business need at hand.
+369.8	In the world of humanitarian aid,
+369.8	there are very few decision scientists.
+373.52	Most of them work for companies.
+376.48	So that's the second thing
+376.48	that companies need to do.
+379	In addition to donating their data,
+380.72	they need to donate
+380.72	their decision scientists.
+383.52	"Now, companies will say, ""Ah! Don't take"
+383.52	our decision scientists from us.
+389.28	"We need every spare second of their time."""
+392.36	But there's a way.
+395.2	If a company was going to donate
+395.2	a block of a decision scientist's time,
+398.64	it would actually make more sense
+398.64	to spread out that block of time
+401.8	over a long period,
+401.8	say for example five years.
+404.6	This might only amount
+404.6	to a couple of hours per month,
+407.68	which a company would hardly miss,
+409.76	but what it enables is really important:
+409.76	long-term partnerships.
+414.92	Long-term partnerships
+414.92	allow you to build relationships,
+417.76	to get to know the data,
+417.76	to really understand it
+420.44	and to start to understand
+420.44	the needs and challenges
+422.88	that the humanitarian
+422.88	organization is facing.
+426.345	In Rome, at the World Food Programme,
+426.345	this took us five years to do,
+429.56	five years.
+431.04	That first three years, OK,
+431.04	that was just what we couldn't solve for.
+434.4	Then there was two years after that
+434.4	of refining and implementing the tool,
+437.92	like in the operations in Iraq
+437.92	and other countries.
+441.52	I don't think that's
+441.52	an unrealistic timeline
+443.64	when it comes to using data
+443.64	to make operational changes.
+446.4	It's an investment. It requires patience.
+449.76	But the types of results
+449.76	that can be produced are undeniable.
+453.28	In our case, it was the ability
+453.28	to feed tens of thousands more people.
+459.44	So we have donating data,
+459.44	we have donating decision scientists,
+463.8	and there's actually a third way
+463.8	that companies can help:
+466.52	donating technology
+466.52	to capture new sources of data.
+469.52	You see, there's a lot of things
+469.52	we just don't have data on.
+472.96	Right now, Syrian refugees
+472.96	are flooding into Greece,
+477.12	and the UN refugee agency,
+477.12	they have their hands full.
+481	The current system for tracking people
+481	is paper and pencil,
+484.08	and what that means is
+485.36	that when a mother and her five children
+485.36	walk into the camp,
+488.24	headquarters is essentially
+488.24	blind to this moment.
+490.92	That's all going to change
+490.92	in the next few weeks,
+493.28	thanks to private sector collaboration.
+495.84	There's going to be a new system based
+495.84	on donated package tracking technology
+499.52	from the logistics company
+499.52	that I work for.
+502.12	With this new system,
+502.12	there will be a data trail,
+504.48	so you know exactly the moment
+505.96	when that mother and her children
+505.96	walk into the camp.
+508.48	And even more, you know
+508.48	if she's going to have supplies
+511.12	this month and the next.
+512.4	Information visibility drives efficiency.
+515.44	For companies, using technology
+515.44	to gather important data,
+518.72	it's like bread and butter.
+520.2	They've been doing it for years,
+521.8	and it's led to major
+521.8	operational efficiency improvements.
+525.08	Just try to imagine
+525.08	your favorite beverage company
+528.28	trying to plan their inventory
+529.88	and not knowing how many bottles
+529.88	were on the shelves.
+532.4	It's absurd.
+533.64	Data drives better decisions.
+537.8	Now, if you're representing a company,
+540.36	and you're pragmatic
+540.36	and not just idealistic,
+543.52	you might be saying to yourself,
+543.52	"""OK, this is all great, Mallory,"
+546.6	"but why should I want to be involved?"""
+549	Well for one thing, beyond the good PR,
+551.84	humanitarian aid
+551.84	is a 24-billion-dollar sector,
+554.64	and there's over five billion people,
+554.64	maybe your next customers,
+557.72	that live in the developing world.
+559.56	Further, companies that are engaging
+559.56	in data philanthropy,
+562.68	they're finding new insights
+562.68	locked away in their data.
+565.68	Take, for example, a credit card company
+567.96	that's opened up a center
+569.32	that functions as a hub for academics,
+569.32	for NGOs and governments,
+572.72	all working together.
+575.04	They're looking at information
+575.04	in credit card swipes
+577.8	and using that to find insights
+577.8	about how households in India
+580.8	live, work, earn and spend.
+583.68	For the humanitarian world,
+583.68	this provides information
+586.28	about how you might
+586.28	bring people out of poverty.
+588.96	But for companies, it's providing
+588.96	insights about your customers
+592	and potential customers in India.
+594.76	It's a win all around.
+597.96	Now, for me, what I find
+597.96	exciting about data philanthropy --
+601.76	donating data, donating decision
+601.76	scientists and donating technology --
+606.12	it's what it means
+606.12	for young professionals like me
+608.52	who are choosing to work at companies.
+610.8	Studies show that
+610.8	the next generation of the workforce
+613.48	care about having their work
+613.48	make a bigger impact.
+616.92	We want to make a difference,
+619.4	and so through data philanthropy,
+621.84	companies can actually help engage
+621.84	and retain their decision scientists.
+625.8	And that's a big deal for a profession
+625.8	that's in high demand.
+629.84	Data philanthropy
+629.84	makes good business sense,
+634.2	and it also can help
+634.2	revolutionize the humanitarian world.
+639.6	If we coordinated
+639.6	the planning and logistics
+641.72	across all of the major facets
+641.72	of a humanitarian operation,
+645.12	we could feed, clothe and shelter
+645.12	hundreds of thousands more people,
+649.44	and companies need to step up
+649.44	and play the role that I know they can
+653.72	in bringing about this revolution.
+656.72	You've probably heard of the saying
+656.72	"""food for thought."""
+659.68	Well, this is literally thought for food.
+663.56	It finally is the right idea
+663.56	at the right time.
+667.72	(Laughter)
+668.96	Très magnifique.
+670.56	Thank you.
+671.8	(Applause)

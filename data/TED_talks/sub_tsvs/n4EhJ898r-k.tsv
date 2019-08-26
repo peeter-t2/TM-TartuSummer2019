@@ -1,0 +1,289 @@
+startsecond	text
+15.26	So a couple of years ago I started a program
+18.26	to try to get the rockstar tech and design people
+22.26	to take a year off
+24.26	and work in the one environment
+26.26	that represents pretty much everything they're supposed to hate;
+29.26	we have them work in government.
+32.26	The program is called Code for America,
+34.26	and it's a little bit like a Peace Corps for geeks.
+37.26	We select a few fellows every year
+40.26	and we have them work with city governments.
+43.26	Instead of sending them off into the Third World,
+46.26	we send them into the wilds of City Hall.
+48.26	And there they make great apps, they work with city staffers.
+51.26	But really what they're doing is they're showing what's possible
+54.26	with technology today.
+56.26	So meet Al.
+58.26	Al is a fire hydrant in the city of Boston.
+60.26	Here it kind of looks like he's looking for a date,
+63.26	but what he's really looking for is for someone to shovel him out when he gets snowed in,
+66.26	because he knows he's not very good at fighting fires
+68.26	when he's covered in four feet of snow.
+71.26	Now how did he come to be looking for help
+73.26	in this very unique manner?
+75.26	We had a team of fellows in Boston last year
+77.26	through the Code for America program.
+79.26	They were there in February, and it snowed a lot in February last year.
+82.26	And they noticed that the city never gets
+84.26	to digging out these fire hydrants.
+86.26	But one fellow in particular,
+88.26	a guy named Erik Michaels-Ober,
+90.26	noticed something else,
+92.26	and that's that citizens are shoveling out sidewalks
+94.26	right in front of these things.
+96.26	So he did what any good developer would do,
+98.26	he wrote an app.
+100.26	It's a cute little app where you can adopt a fire hydrant.
+102.26	So you agree to dig it out when it snows.
+104.26	If you do, you get to name it,
+106.26	and he called the first one Al.
+108.26	And if you don't, someone can steal it from you.
+110.26	So it's got cute little game dynamics on it.
+113.26	This is a modest little app.
+115.26	It's probably the smallest
+117.26	of the 21 apps that the fellows wrote last year.
+119.26	But it's doing something
+121.26	that no other government technology does.
+123.26	It's spreading virally.
+126.26	There's a guy in the I.T. department of the City of Honolulu
+129.26	who saw this app and realized
+131.26	that he could use it, not for snow,
+133.26	but to get citizens to adopt tsunami sirens.
+137.26	It's very important that these tsunami sirens work,
+139.26	but people steal the batteries out of them.
+141.26	So he's getting citizens to check on them.
+143.26	And then Seattle decided to use it
+146.26	to get citizens to clear out clogged storm drains.
+149.26	And Chicago just rolled it out
+151.26	to get people to sign up to shovel sidewalks when it snows.
+154.26	So we now know of nine cities
+156.26	that are planning to use this.
+158.26	And this has spread just frictionlessly,
+160.26	organically, naturally.
+162.26	If you know anything about government technology,
+164.26	you know that this isn't how it normally goes.
+168.26	Procuring software usually takes a couple of years.
+171.26	We had a team that worked on a project in Boston last year
+174.26	that took three people about two and a half months.
+177.26	It was a way that parents could figure out
+179.26	which were the right public schools for their kids.
+181.26	We were told afterward that if that had gone through normal channels,
+184.26	it would have taken at least two years
+187.26	and it would have cost about two million dollars.
+190.26	And that's nothing.
+192.26	There is one project in the California court system right now
+194.26	that so far cost taxpayers
+196.26	two billion dollars,
+198.26	and it doesn't work.
+200.26	And there are projects like this
+202.26	at every level of government.
+204.26	So an app that takes a couple of days to write
+208.26	and then spreads virally,
+210.26	that's sort of a shot across the bow
+212.26	to the institution of government.
+214.26	It suggests how government could work better --
+216.26	not more like a private company,
+218.26	as many people think it should.
+220.26	And not even like a tech company,
+222.26	but more like the Internet itself.
+225.26	And that means permissionless,
+227.26	it means open, it means generative.
+231.26	And that's important.
+233.26	But what's more important about this app
+235.26	is that it represents how a new generation
+237.26	is tackling the problem of government --
+240.26	not as the problem of an ossified institution,
+243.26	but as a problem of collective action.
+245.26	And that's great news,
+247.26	because, it turns out, we're very good at collective action
+250.26	with digital technology.
+252.26	Now there's a very large community of people
+254.26	that are building the tools that we need
+256.26	to do things together effectively.
+258.26	It's not just Code for America fellows,
+260.26	there are hundreds of people all over the country
+262.26	that are standing and writing civic apps
+264.26	every day in their own communities.
+268.26	They haven't given up on government.
+270.26	They are frustrated as hell with it,
+272.26	but they're not complaining about it,
+274.26	they're fixing it.
+276.26	And these folks know something
+278.26	that we've lost sight of.
+280.26	And that's that when you strip away all your feelings
+282.26	about politics and the line at the DMV
+284.26	and all those other things
+286.26	that we're really mad about,
+288.26	government is, at its core,
+291.26	in the words of Tim O'Reilly,
+293.26	"""What we do together that we can't do alone."""
+298.26	Now a lot of people have given up on government.
+300.26	And if you're one of those people,
+302.26	I would ask that you reconsider,
+305.26	because things are changing.
+307.26	Politics is not changing;
+310.26	government is changing.
+312.26	And because government
+314.26	ultimately derives its power from us --
+316.26	"remember ""We the people?"" --"
+318.26	how we think about it
+320.26	is going to effect how that change happens.
+323.26	Now I didn't know very much about government when I started this program.
+326.26	And like a lot of people,
+328.26	I thought government was basically about getting people elected to office.
+331.26	Well after two years, I've come to the conclusion
+333.26	that, especially local government,
+335.26	is about opossums.
+338.26	This is the call center for the services and information line.
+341.26	It's generally where you will get
+343.26	if you call 311 in your city.
+345.26	If you should ever have the chance
+347.26	to staff your city's call center,
+349.26	as our fellow Scott Silverman did as part of the program --
+351.26	in fact, they all do that --
+353.26	you will find that people call government
+356.26	with a very wide range of issues,
+358.26	including having an opossum stuck in your house.
+361.26	So Scott gets this call.
+363.26	"He types ""Opossum"" into this official knowledge base."
+365.26	He doesn't really come up with anything. He starts with animal control.
+368.26	"And finally, he says, ""Look, can you just open all the doors to your house"
+371.26	and play music really loud
+373.26	"and see if the thing leaves?"""
+375.26	So that worked. So booya for Scott.
+378.26	But that wasn't the end of the opossums.
+380.26	Boston doesn't just have a call center.
+382.26	It has an app, a Web and mobile app,
+384.26	called Citizens Connect.
+386.26	Now we didn't write this app.
+388.26	This is the work of the very smart people
+390.26	at the Office of New Urban Mechanics in Boston.
+392.26	So one day -- this is an actual report -- this came in:
+395.26	"""Opossum in my trashcan. Can't tell if it's dead."
+398.26	"How do I get this removed?"""
+401.26	But what happens with Citizens Connect is different.
+403.26	So Scott was speaking person-to-person.
+406.26	But on Citizens Connect everything is public,
+408.26	so everybody can see this.
+410.26	And in this case, a neighbor saw it.
+412.26	And the next report we got said,
+414.26	"""I walked over to this location,"
+416.26	found the trashcan behind the house.
+418.26	Opossum? Check. Living? Yep.
+421.26	Turned trashcan on its side. Walked home.
+423.26	"Goodnight sweet opossum."""
+425.26	(Laughter)
+427.26	Pretty simple.
+429.26	So this is great. This is the digital meeting the physical.
+432.26	And it's also a great example
+434.26	of government getting in on the crowd-sourcing game.
+437.26	But it's also a great example of government as a platform.
+440.26	And I don't mean necessarily
+442.26	a technological definition of platform here.
+444.26	I'm just talking about a platform for people
+446.26	to help themselves and to help others.
+450.26	So one citizen helped another citizen,
+452.26	but government played a key role here.
+454.26	It connected those two people.
+457.26	And it could have connected them with government services if they'd been needed,
+460.26	but a neighbor is a far better and cheaper alternative
+463.26	to government services.
+465.26	When one neighbor helps another,
+467.26	we strengthen our communities.
+469.26	We call animal control, it just costs a lot of money.
+474.26	Now one of the important things we need to think about government
+476.26	is that it's not the same thing as politics.
+479.26	And most people get that,
+481.26	but they think that one is the input to the other.
+484.26	That our input to the system of government
+486.26	is voting.
+488.26	Now how many times have we elected a political leader --
+490.26	and sometimes we spend a lot of energy
+492.26	getting a new political leader elected --
+495.26	and then we sit back and we expect government
+497.26	to reflect our values and meet our needs,
+501.26	and then not that much changes?
+505.26	That's because government is like a vast ocean
+508.26	and politics is the six-inch layer on top.
+512.26	And what's under that
+514.26	is what we call bureaucracy.
+516.26	And we say that word with such contempt.
+519.26	But it's that contempt
+521.26	that keeps this thing that we own
+524.26	and we pay for
+526.26	as something that's working against us, this other thing,
+529.26	and then we're disempowering ourselves.
+532.26	People seem to think politics is sexy.
+535.26	If we want this institution to work for us,
+538.26	we're going to have to make bureaucracy sexy.
+541.26	Because that's where the real work of government happens.
+545.26	We have to engage with the machinery of government.
+548.26	So that's OccupytheSEC movement has done.
+550.26	Have you seen these guys?
+552.26	It's a group of concerned citizens
+554.26	that have written a very detailed
+558.26	that's a response to the SEC's request for comment
+560.26	on the Financial Reform Bill.
+562.26	That's not being politically active,
+564.26	that's being bureaucratically active.
+568.26	Now for those of us who've given up on government,
+571.26	it's time that we asked ourselves
+573.26	about the world that we want to leave for our children.
+576.26	You have to see the enormous challenges
+578.26	that they're going to face.
+581.26	Do we really think we're going to get where we need to go
+584.26	without fixing the one institution
+586.26	that can act on behalf of all of us?
+588.26	We can't do without government,
+590.26	but we do need it
+592.26	to be more effective.
+594.26	The good news is that technology is making it possible
+596.26	to fundamentally reframe
+598.26	the function of government
+600.26	in a way that can actually scale
+603.26	by strengthening civil society.
+605.26	And there's a generation out there that's grown up on the Internet,
+608.26	and they know that it's not that hard
+610.26	to do things together,
+612.26	you just have to architect the systems the right way.
+616.26	Now the average age of our fellows is 28,
+619.26	so I am, begrudgingly,
+621.26	almost a generation older than most of them.
+624.26	This is a generation
+626.26	that's grown up taking their voices pretty much for granted.
+629.26	They're not fighting that battle that we're all fighting
+631.26	about who gets to speak;
+633.26	they all get to speak.
+635.26	They can express their opinion
+637.26	on any channel at any time,
+639.26	and they do.
+641.26	So when they're faced with the problem of government,
+644.26	they don't care as much
+646.26	about using their voices.
+648.26	They're using their hands.
+650.26	They're using their hands
+652.26	to write applications that make government work better.
+655.26	And those applications let us use our hands
+658.26	to make our communities better.
+661.26	That could be shoveling out a hydrant, pulling a weed,
+664.26	turning over a garbage can with an opossum in it.
+668.26	And certainly, we could have been shoveling out those fire hydrants all along,
+671.26	and many people do.
+673.26	But these apps are like little digital reminders
+676.26	that we're not just consumers,
+678.26	and we're not just consumers of government,
+680.26	putting in our taxes and getting back services.
+683.26	We're more than that,
+685.26	we're citizens.
+687.26	And we're not going to fix government
+690.26	until we fix citizenship.
+693.26	So the question I have for all of you here:
+697.26	When it comes to the big, important things
+699.26	that we need to do together,
+701.26	all of us together,
+703.26	are we just going to be a crowd of voices,
+706.26	or are we also going to be
+708.26	a crowd of hands?
+710.26	Thank you.
+712.26	(Applause)

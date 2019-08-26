@@ -1,0 +1,170 @@
+startsecond	text
+13.081	According to the UN,
+15.111	billions of people still live
+15.111	without an address.
+19.154	The economist Hernando de Soto said,
+21.459	"""Without an address,"
+22.841	you live outside the law.
+24.767	"You might as well not exist."""
+27.679	I'm here to tell you how my team and I
+27.679	are trying to change that.
+31.986	If you go to an online map
+31.986	and look at a favela in Brazil
+35.226	or a township in South Africa,
+37.074	you'll see a few streets
+37.074	but a lot of empty space.
+40.678	But if you flip to satellite view,
+42.845	there are thousands of people,
+42.845	homes and businesses
+45.983	in this vast, unmapped
+45.983	and unaddressed spaces.
+49.551	In Ghana's capital, Accra,
+51.435	there are numbers and letters
+51.435	scrawled onto the sides of walls,
+55.548	where they piloted address systems
+55.548	but not finished them.
+60.163	But these places,
+60.163	these unaddressed places,
+63.323	hold huge economic potential.
+67.201	Here's why the issue
+67.201	of addressing stuck with me.
+70.453	I worked in the music
+70.453	business for 10 years,
+72.529	and what you may not know
+72.529	about the music world
+74.931	is that every day, people struggle
+74.931	with the problems of addressing.
+78.368	So from the musicians
+78.368	who have to find the gigs
+81.221	to the production companies
+81.221	who bring the equipment,
+83.674	everyone somehow always gets lost.
+85.76	We even had to add someone
+85.76	to our schedules
+87.925	who was the person you called
+87.925	when you thought you'd arrived
+90.768	but then realized you hadn't.
+92.176	And we had some pretty bad days,
+94.523	like in Italy, where a truck driver
+94.523	unloaded all the equipment
+97.732	an hour north of Rome,
+97.732	not an hour south of Rome,
+100.339	and a slightly worse day
+101.572	where a keyboard player
+101.572	called me and said,
+103.671	"""Chris, don't panic,"
+103.671	but we may have just sound-checked
+106.609	"at the wrong people's wedding."""
+108.196	(Laughter)
+109.795	So not long after the fated Rome event,
+112.457	I chatted this through
+112.457	with a friend of mine
+114.59	who is a mathematician,
+115.778	and we thought it was a problem
+115.778	we could do something about.
+118.612	We thought, well,
+118.612	we could make a new system,
+120.973	but it shouldn't look like the old system.
+123.628	We agreed that addresses were bad.
+126.474	We knew we wanted something very precise,
+128.524	but GPS coordinates,
+128.524	latitude and longitude,
+130.903	were just too complicated.
+133.256	So we divided the world
+133.256	into three-meter squares.
+136.583	The world divides into around 57 trillion
+136.583	three-meter squares,
+140.7	and we found that there are
+140.7	enough combinations
+142.915	of three dictionary words
+144.749	that we could name every three-meter
+144.749	square in the world uniquely
+148.365	with just three words.
+150.546	We used 40,000 words,
+152.141	so that's 40,000 cubed,
+157.015	which is more than enough for
+157.015	the 57-trillion-odd three-meter squares,
+160.927	with a few spare.
+163.044	So that's exactly what we did.
+165.017	We divided the world
+165.017	into three-meter squares,
+168.115	gave each one a unique,
+168.115	three-word identifier --
+170.98	what we call a three-word address.
+173.385	So for example, right here,
+176.481	I'm standing at mustards.coupons.pinup,
+178.858	(Laughter)
+180.032	but over here ...
+182.753	I'm standing at pinched.
+182.753	singularly.tutorial.
+189.133	But we haven't just done this in English.
+191.128	We thought it was essential that people
+191.128	should be able to use this system
+194.581	in their own language.
+195.867	So far, we've built it into 14 languages,
+198.124	including French, Swahili and Arabic,
+200.591	and we're working on more now,
+200.591	like Xhosa, Zulu and Hindi.
+205.157	But this idea can do a lot more
+207.028	than just get my musicians
+207.028	to their gigs on time.
+209.752	If the 75 percent of countries
+209.752	that struggle with reliable addressing
+213.953	started using three-word addresses,
+215.681	there's a stack of far more
+215.681	important applications.
+220.033	In Durban, South Africa,
+222.487	an NGO called Gateway Health
+224.168	have distributed 11,000
+224.168	three-word address signs
+227.142	to their community,
+228.555	so the pregnant mothers,
+228.555	when they go into labor,
+230.958	can call the emergency services
+232.79	and tell them exactly
+232.79	where to pick them up from,
+235.165	because otherwise, the ambulances
+235.165	have often taken hours to find them.
+238.964	In Mongolia, the National Post Service
+238.964	have adopted the system
+242.265	and are now doing deliveries
+242.265	to many people's houses
+244.727	for the first time.
+246.152	The UN are using it
+246.152	to geotag photos in disaster zones
+249.859	so they can deliver aid
+249.859	to exactly the right place.
+252.555	Even Domino's Pizza
+252.555	are using it in the Caribbean,
+255.249	because they haven't been able
+255.249	to find customers' homes,
+257.974	but they really want to get
+257.974	their pizza to them while its still hot.
+261.729	Shortly, you'll be able to get into a car,
+264.274	speak the three words,
+266.034	and the car will navigate you
+266.034	to that exact spot.
+269.888	In Africa, the continent
+269.888	has leapfrogged phone lines
+273.437	to go to mobile phones,
+274.854	bypassed traditional banks
+274.854	to go straight to mobile payments.
+279.298	We're really proud that the post services
+279.298	of three African countries --
+283.276	Nigeria, Djibouti and Côte d'Ivoire,
+285.896	have gone straight to adopting
+285.896	three-word addresses,
+288.572	which means that people in those countries
+290.669	have a really simple way
+290.669	to explain where they live, today.
+295.167	For me, poor addressing
+295.167	was an annoying frustration,
+298.87	but for billions of people,
+301.398	it's a huge business inefficiency,
+303.835	severely hampers
+303.835	their infrastructure growth,
+306.54	and can cost lives.
+308.837	We're on a mission to change that,
+310.489	three words at a time.
+311.726	Thank you.
+312.901	(Applause)

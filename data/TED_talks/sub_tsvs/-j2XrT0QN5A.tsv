@@ -1,0 +1,381 @@
+startsecond	text
+15.33	I want to talk to you
+17.33	about one of the biggest myths in medicine,
+19.33	and that is the idea
+21.33	that all we need are more medical breakthroughs
+24.33	and then all of our problems will be solved.
+27.33	Our society loves to romanticize
+30.33	the idea of the single, solo inventor
+32.33	who, working late in the lab one night,
+35.33	makes an earthshaking discovery,
+38.33	and voila, overnight everything's changed.
+42.33	That's a very appealing picture,
+44.33	however, it's just not true.
+47.33	In fact, medicine today is a team sport.
+50.33	And in many ways,
+52.33	it always has been.
+54.33	I'd like to share with you a story
+56.33	about how I've experienced this very dramatically
+59.33	in my own work.
+61.33	I'm a surgeon,
+63.33	and we surgeons have always had
+65.33	this special relationship with light.
+68.33	When I make an incision inside a patient's body, it's dark.
+72.33	We need to shine light to see what we're doing.
+75.33	And this is why, traditionally,
+78.33	surgeries have always started so early in the morning --
+80.33	to take advantage of daylight hours.
+82.33	And if you look at historical pictures
+84.33	of the early operating rooms,
+86.33	they have been on top of buildings.
+89.33	For example, this is the oldest operating room in the Western world,
+91.33	in London,
+93.33	where the operating room
+95.33	is actually on top of a church
+97.33	with a skylight coming in.
+99.33	And then this is a picture
+101.33	of one of the most famous hospitals in America.
+104.33	This is Mass General in Boston.
+106.33	And do you know where the operating room is?
+108.33	Here it is
+110.33	on the top of the building
+112.33	with plenty of windows to let light in.
+115.33	So nowadays in the operating room,
+117.33	we no longer need to use sunlight.
+120.33	And because we no longer need to use sunlight,
+123.33	we have very specialized lights
+125.33	that are made for the operating room.
+127.33	We have an opportunity
+129.33	to bring in other kinds of lights --
+131.33	lights that can allow us to see
+133.33	what we currently don't see.
+136.33	And this is what I think
+138.33	is the magic of fluorescence.
+140.33	So let me back up a little bit.
+142.33	When we are in medical school,
+145.33	we learn our anatomy from illustrations such as this
+148.33	where everything's color-coded.
+151.33	Nerves are yellow, arteries are red,
+153.33	veins are blue.
+155.33	That's so easy anybody could become a surgeon, right?
+159.33	However, when we have a real patient on the table,
+162.33	this is the same neck dissection --
+165.33	not so easy to tell the difference
+167.33	between different structures.
+169.33	We heard over the last couple days
+172.33	what an urgent problem
+174.33	cancer still is in our society,
+176.33	what a pressing need it is
+178.33	for us to not have
+180.33	one person die every minute.
+184.33	Well if cancer can be caught early,
+186.33	enough such that someone can have their cancer taken out,
+191.33	excised with surgery,
+193.33	I don't care if it has this gene or that gene,
+195.33	or if it has this protein or that protein,
+197.33	it's in the jar.
+199.33	It's done, it's out, you're cured of cancer.
+202.33	This is how we excise cancers.
+204.33	We do our best, based upon our training
+207.33	and the way the cancer looks and the way it feels
+210.33	and its relationship to other structures and all of our experience,
+213.33	we say, you know what, the cancer's gone.
+216.33	We've made a good job. We've taken it out.
+219.33	That's what the surgeon is saying in the operating room
+221.33	when the patient's on the table.
+223.33	But then we actually don't know that it's all out.
+226.33	We actually have to take samples from the surgical bed,
+229.33	what's left behind in the patient,
+231.33	and then send those bits to the pathology lab.
+235.33	In the meanwhile, the patient's on the operating room table.
+237.33	The nurses, anesthesiologist, the surgeon,
+239.33	all the assistants are waiting around.
+241.33	And we wait.
+243.33	The pathologist takes that sample,
+245.33	freezes it, cuts it, looks in the microscope one by one
+248.33	and then calls back into the room.
+250.33	And that may be 20 minutes later per piece.
+252.33	So if you've sent three specimens,
+254.33	it's an hour later.
+256.33	And very often they say,
+258.33	"""You know what, points A and B are okay,"
+261.33	but point C, you still have some residual cancer there.
+263.33	"Please go cut that piece out."""
+266.33	So we go back and we do that again, and again.
+269.33	And this whole process:
+271.33	"""Okay you're done."
+273.33	"We think the entire tumor is out."""
+275.33	But very often several days later,
+278.33	the patient's gone home,
+280.33	we get a phone call:
+282.33	"""I'm sorry,"
+284.33	once we looked at the final pathology,
+286.33	once we looked at the final specimen,
+288.33	we actually found that there's a couple other spots
+291.33	where the margins are positive.
+294.33	"There's still cancer in your patient."""
+297.33	So now you're faced with telling your patient, first of all,
+300.33	that they may need another surgery,
+302.33	or that they need additional therapy
+304.33	such as radiation or chemotherapy.
+308.33	So wouldn't it be better
+310.33	if we could really tell,
+312.33	if the surgeon could really tell,
+315.33	whether or not there's still cancer on the surgical field?
+318.33	I mean, in many ways, the way that we're doing it,
+321.33	we're still operating in the dark.
+325.33	So in 2004, during my surgical residency,
+328.33	I had the great fortune
+330.33	to meet Dr. Roger Tsien,
+333.33	who went on to win the Nobel Prize for chemistry
+336.33	in 2008.
+338.33	Roger and his team
+340.33	were working on a way to detect cancer,
+343.33	and they had a very clever molecule
+345.33	that they had come up with.
+347.33	The molecule they had developed
+349.33	had three parts.
+351.33	The main part of it is the blue part, polycation,
+354.33	and it's basically very sticky
+356.33	to every tissue in your body.
+358.33	So imagine that you make a solution
+360.33	full of this sticky material
+362.33	and inject it into the veins of someone who has cancer,
+364.33	everything's going to get lit up.
+366.33	Nothing will be specific.
+368.33	There's no specificity there.
+370.33	So they added two additional components.
+372.33	The first one is a polyanionic segment,
+375.33	which basically acts as a non-stick backing
+377.33	like the back of a sticker.
+379.33	So when those two are together, the molecule is neutral
+382.33	and nothing gets stuck down.
+384.33	And the two pieces are then linked
+387.33	by something that can only be cut
+390.33	if you have the right molecular scissors --
+392.33	for example, the kind of protease enzymes
+394.33	that tumors make.
+396.33	So here in this situation,
+398.33	if you make a solution full of this three-part molecule
+402.33	along with the dye, which is shown in green,
+404.33	and you inject it into the vein
+407.33	of someone who has cancer,
+409.33	normal tissue can't cut it.
+411.33	The molecule passes through and gets excreted.
+414.33	However, in the presence of the tumor,
+416.33	now there are molecular scissors
+418.33	that can break this molecule apart
+420.33	right there at the cleavable site.
+422.33	And now, boom,
+424.33	the tumor labels itself
+426.33	and it gets fluorescent.
+428.33	So here's an example of a nerve
+431.33	that has tumor surrounding it.
+433.33	Can you tell where the tumor is?
+435.33	I couldn't when I was working on this.
+438.33	But here it is. It's fluorescent.
+440.33	Now it's green.
+442.33	See, so every single one in the audience
+445.33	now can tell where the cancer is.
+448.33	We can tell in the operating room, in the field,
+451.33	at a molecular level,
+453.33	where is the cancer and what the surgeon needs to do
+455.33	and how much more work they need to do
+457.33	to cut that out.
+460.33	And the cool thing about fluorescence
+462.33	is that it's not only bright,
+465.33	it actually can shine through tissue.
+468.33	The light that the fluorescence emits
+471.33	can go through tissue.
+473.33	So even if the tumor is not right on the surface,
+476.33	you'll still be able to see it.
+479.33	In this movie, you can see
+481.33	that the tumor is green.
+484.33	There's actually normal muscle on top of it. See that?
+487.33	And I'm peeling that muscle away.
+489.33	But even before I peel that muscle away,
+491.33	you saw that there was a tumor underneath.
+494.33	So that's the beauty of having a tumor
+497.33	that's labeled with fluorescent molecules.
+500.33	That you can, not only see the margins
+502.33	right there on a molecular level,
+504.33	but you can see it even if it's not right on the top --
+507.33	even if it's beyond your field of view.
+510.33	And this works for metastatic lymph nodes also.
+513.33	Sentinel lymph node dissection
+515.33	has really changed the way that we manage breast cancer, melanoma.
+519.33	Women used to get
+521.33	really debilitating surgeries
+523.33	to excise all of the axillary lymph nodes.
+526.33	But when sentinel lymph node
+529.33	came into our treatment protocol,
+532.33	the surgeon basically looks for the single node
+535.33	that is the first draining lymph node of the cancer.
+538.33	And then if that node has cancer,
+541.33	the woman would go on to get
+543.33	the axillary lymph node dissection.
+545.33	So what that means
+547.33	is if the lymph node did not have cancer,
+550.33	the woman would be saved
+552.33	from having unnecessary surgery.
+554.33	But sentinel lymph node, the way that we do it today,
+557.33	is kind of like having a road map
+559.33	just to know where to go.
+561.33	So if you're driving on the freeway
+563.33	and you want to know where's the next gas station,
+565.33	you have a map to tell you that that gas station is down the road.
+568.33	It doesn't tell you whether or not
+570.33	the gas station has gas.
+572.33	You have to cut it out, bring it back home,
+575.33	cut it up, look inside
+577.33	"and say, ""Oh yes, it does have gas."""
+579.33	So that takes more time.
+581.33	Patients are still on the operating room table.
+583.33	Anesthesiologists, surgeons are waiting around.
+585.33	That takes time.
+587.33	So with our technology, we can tell right away.
+590.33	You see a lot of little, roundish bumps there.
+593.33	Some of these are swollen lymph nodes
+596.33	that look a little larger than others.
+598.33	Who amongst us hasn't had swollen lymph nodes with a cold?
+601.33	That doesn't mean that there's cancer inside.
+603.33	Well with our technology,
+605.33	the surgeon is able to tell immediately
+608.33	which nodes have cancer.
+610.33	I won't go into this very much,
+612.33	but our technology, besides being able
+614.33	to tag tumor and metastatic lymph nodes with fluorescence,
+618.33	we can also use the same smart three-part molecule
+622.33	to tag gadolinium onto the system
+625.33	so you can do this noninvasively.
+627.33	The patient has cancer,
+629.33	you want to know if the lymph nodes have cancer
+631.33	even before you go in.
+633.33	Well you can see this on an MRI.
+636.33	So in surgery,
+638.33	it's important to know what to cut out.
+641.33	But equally important
+643.33	is to preserve things
+646.33	that are important for function.
+649.33	So it's very important to avoid inadvertent injury.
+652.33	And what I'm talking about
+654.33	are nerves.
+656.33	Nerves, if they are injured,
+658.33	can cause paralysis,
+660.33	can cause pain.
+663.33	In the setting of prostate cancer,
+665.33	up to 60 percent of men
+667.33	after prostate cancer surgery
+669.33	may have urinary incontinence
+671.33	and erectile disfunction.
+673.33	That's a lot of people to have a lot of problems --
+676.33	and this is even in
+678.33	so-called nerve-sparing surgery,
+680.33	which means that the surgeon is aware of the problem,
+684.33	and they are trying to avoid the nerves.
+686.33	But you know what, these little nerves are so small,
+689.33	in the context of prostate cancer,
+692.33	that they are actually never seen.
+694.33	They are traced
+696.33	just by their known anatomical path
+698.33	along vasculature.
+700.33	And they're known because somebody has decided to study them,
+704.33	which means that we're still learning
+706.33	about where they are.
+708.33	Crazy to think that we're having surgery,
+711.33	we're trying to excise cancer, we don't know where the cancer is.
+714.33	We're trying to preserve nerves; we can't see where they are.
+717.33	So I said, wouldn't it be great
+719.33	if we could find a way
+721.33	to see nerves with fluorescence?
+724.33	And at first this didn't get a lot of support.
+728.33	"People said, ""We've been doing it this way for all these years."
+730.33	What's the problem?
+732.33	"We haven't had that many complications."""
+735.33	But I went ahead anyway.
+737.33	And Roger helped me.
+739.33	And he brought his whole team with him.
+742.33	So there's that teamwork thing again.
+746.33	And we eventually discovered molecules
+749.33	that were specifically labeling nerves.
+751.33	And when we made a solution of this,
+753.33	tagged with the fluorescence
+755.33	and injected in the body of a mouse,
+758.33	their nerves literally glowed.
+760.33	You can see where they are.
+762.33	Here you're looking at a sciatic nerve of a mouse,
+766.33	and you can see that that big, fat portion you can see very easily.
+769.33	But in fact, at the tip of that where I'm dissecting now,
+772.33	there's actually very fine arborizations
+775.33	that can't really be seen.
+777.33	You see what looks like little Medusa heads coming out.
+781.33	We have been able to see nerves
+783.33	for facial expression, for facial movement, for breathing --
+786.33	every single nerve --
+788.33	nerves for urinary function around the prostate.
+791.33	We've been able to see every single nerve.
+794.33	When we put these two probes together ...
+798.33	So here's a tumor.
+800.33	Do you guys know where the margins of this tumor is?
+803.33	Now you do.
+806.33	What about the nerve that's going into this tumor?
+809.33	That white portion there is easy to see.
+811.33	But what about the part that goes into the tumor?
+813.33	Do you know where it's going?
+815.33	Now you do.
+817.33	Basically, we've come up with a way
+819.33	to stain tissue
+821.33	and color-code the surgical field.
+823.33	This was a bit of a breakthrough.
+826.33	I think that it'll change the way that we do surgery.
+830.33	We published our results
+832.33	in the proceedings of the National Academy of Sciences
+834.33	and in Nature Biotechnology.
+836.33	We received commentary in Discover magazine,
+839.33	in The Economist.
+841.33	And we showed it to a lot of my surgical colleagues.
+844.33	"They said, ""Wow!"
+846.33	I have patients
+848.33	who would benefit from this.
+850.33	I think that this will result in my surgeries
+852.33	with a better outcome
+854.33	"and fewer complications."""
+857.33	What needs to happen now
+859.33	is further development of our technology
+862.33	along with development
+864.33	of the instrumentation
+866.33	that allows us to see
+868.33	this sort of fluorescence in the operating room.
+871.33	The eventual goal
+873.33	is that we'll get this into patients.
+876.33	However, we've discovered
+879.33	that there's actually no straightforward mechanism
+881.33	to develop a molecule
+883.33	for one-time use.
+885.33	Understandably, the majority of the medical industry
+888.33	is focused on multiple-use drugs,
+892.33	such as long-term daily medications.
+895.33	We are focused on making this technology better.
+898.33	We're focused on adding drugs,
+901.33	adding growth factors,
+903.33	killing nerves that are causing problems
+905.33	and not the surrounding tissue.
+908.33	We know that this can be done and we're committed to doing it.
+912.33	I'd like to leave you with this final thought.
+916.33	Successful innovation
+918.33	is not a single breakthrough.
+921.33	It is not a sprint.
+924.33	It is not an event for the solo runner.
+928.33	Successful innovation
+930.33	is a team sport, it's a relay race.
+933.33	It requires one team for the breakthrough
+937.33	and another team
+939.33	to get the breakthrough accepted and adopted.
+941.33	And this takes the long-term steady courage
+944.33	of the day-in day-out struggle
+946.33	to educate, to persuade
+949.33	and to win acceptance.
+952.33	And that is the light that I want to shine
+954.33	on health and medicine today.
+956.33	Thank you very much.
+958.33	(Applause)

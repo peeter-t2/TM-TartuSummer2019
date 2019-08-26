@@ -1,0 +1,506 @@
+startsecond	text
+15.26	I'm a neuroscientist.
+17.26	And in neuroscience,
+19.26	we have to deal with many difficult questions about the brain.
+22.26	But I want to start with the easiest question
+24.26	and the question you really should have all asked yourselves at some point in your life,
+27.26	because it's a fundamental question
+29.26	if we want to understand brain function.
+31.26	And that is, why do we and other animals
+33.26	have brains?
+35.26	Not all species on our planet have brains,
+38.26	so if we want to know what the brain is for,
+40.26	let's think about why we evolved one.
+42.26	Now you may reason that we have one
+44.26	to perceive the world or to think,
+46.26	and that's completely wrong.
+48.26	If you think about this question for any length of time,
+51.26	it's blindingly obvious why we have a brain.
+53.26	We have a brain for one reason and one reason only,
+56.26	and that's to produce adaptable and complex movements.
+59.26	There is no other reason to have a brain.
+61.26	Think about it.
+63.26	Movement is the only way you have
+65.26	of affecting the world around you.
+67.26	Now that's not quite true. There's one other way, and that's through sweating.
+70.26	But apart from that,
+72.26	everything else goes through contractions of muscles.
+74.26	So think about communication --
+76.26	speech, gestures, writing, sign language --
+79.26	they're all mediated through contractions of your muscles.
+82.26	So it's really important to remember
+84.26	that sensory, memory and cognitive processes are all important,
+88.26	but they're only important
+90.26	to either drive or suppress future movements.
+92.26	There can be no evolutionary advantage
+94.26	to laying down memories of childhood
+96.26	or perceiving the color of a rose
+98.26	if it doesn't affect the way you're going to move later in life.
+101.26	Now for those who don't believe this argument,
+103.26	we have trees and grass on our planet without the brain,
+105.26	but the clinching evidence is this animal here --
+107.26	the humble sea squirt.
+109.26	Rudimentary animal, has a nervous system,
+112.26	swims around in the ocean in its juvenile life.
+114.26	And at some point of its life,
+116.26	it implants on a rock.
+118.26	And the first thing it does in implanting on that rock, which it never leaves,
+121.26	is to digest its own brain and nervous system
+124.26	for food.
+126.26	So once you don't need to move,
+128.26	you don't need the luxury of that brain.
+131.26	And this animal is often taken
+133.26	as an analogy to what happens at universities
+135.26	when professors get tenure,
+137.26	but that's a different subject.
+139.26	(Applause)
+141.26	So I am a movement chauvinist.
+144.26	I believe movement is the most important function of the brain --
+146.26	don't let anyone tell you that it's not true.
+148.26	Now if movement is so important,
+150.26	how well are we doing
+152.26	understanding how the brain controls movement?
+154.26	And the answer is we're doing extremely poorly; it's a very hard problem.
+156.26	But we can look at how well we're doing
+158.26	by thinking about how well we're doing building machines
+160.26	which can do what humans can do.
+162.26	Think about the game of chess.
+164.26	How well are we doing determining what piece to move where?
+167.26	If you pit Garry Kasparov here, when he's not in jail,
+170.26	against IBM's Deep Blue,
+172.26	well the answer is IBM's Deep Blue will occasionally win.
+175.26	And I think if IBM's Deep Blue played anyone in this room, it would win every time.
+178.26	That problem is solved.
+180.26	What about the problem
+182.26	of picking up a chess piece,
+184.26	dexterously manipulating it and putting it back down on the board?
+187.26	If you put a five year-old child's dexterity against the best robots of today,
+190.26	the answer is simple:
+192.26	the child wins easily.
+194.26	There's no competition at all.
+196.26	Now why is that top problem so easy
+198.26	and the bottom problem so hard?
+200.26	One reason is a very smart five year-old
+202.26	could tell you the algorithm for that top problem --
+204.26	look at all possible moves to the end of the game
+206.26	and choose the one that makes you win.
+208.26	So it's a very simple algorithm.
+210.26	Now of course there are other moves,
+212.26	but with vast computers we approximate
+214.26	and come close to the optimal solution.
+216.26	When it comes to being dexterous,
+218.26	it's not even clear what the algorithm is you have to solve to be dexterous.
+220.26	And we'll see you have to both perceive and act on the world,
+222.26	which has a lot of problems.
+224.26	But let me show you cutting-edge robotics.
+226.26	Now a lot of robotics is very impressive,
+228.26	but manipulation robotics is really just in the dark ages.
+231.26	So this is the end of a Ph.D. project
+233.26	from one of the best robotics institutes.
+235.26	And the student has trained this robot
+237.26	to pour this water into a glass.
+239.26	It's a hard problem because the water sloshes about, but it can do it.
+242.26	But it doesn't do it with anything like the agility of a human.
+245.26	Now if you want this robot to do a different task,
+248.26	that's another three-year Ph.D. program.
+251.26	There is no generalization at all
+253.26	from one task to another in robotics.
+255.26	Now we can compare this
+257.26	to cutting-edge human performance.
+259.26	So what I'm going to show you is Emily Fox
+261.26	winning the world record for cup stacking.
+264.26	Now the Americans in the audience will know all about cup stacking.
+266.26	It's a high school sport
+268.26	where you have 12 cups you have to stack and unstack
+270.26	against the clock in a prescribed order.
+272.26	And this is her getting the world record in real time.
+279.26	(Laughter)
+287.26	(Applause)
+292.26	And she's pretty happy.
+294.26	We have no idea what is going on inside her brain when she does that,
+296.26	and that's what we'd like to know.
+298.26	So in my group, what we try to do
+300.26	is reverse engineer how humans control movement.
+303.26	And it sounds like an easy problem.
+305.26	You send a command down, it causes muscles to contract.
+307.26	Your arm or body moves,
+309.26	and you get sensory feedback from vision, from skin, from muscles and so on.
+312.26	The trouble is
+314.26	these signals are not the beautiful signals you want them to be.
+316.26	So one thing that makes controlling movement difficult
+318.26	is, for example, sensory feedback is extremely noisy.
+321.26	Now by noise, I do not mean sound.
+324.26	We use it in the engineering and neuroscience sense
+326.26	meaning a random noise corrupting a signal.
+328.26	So the old days before digital radio when you were tuning in your radio
+331.26	"and you heard ""crrcckkk"" on the station you wanted to hear,"
+333.26	that was the noise.
+335.26	But more generally, this noise is something that corrupts the signal.
+338.26	So for example, if you put your hand under a table
+340.26	and try to localize it with your other hand,
+342.26	you can be off by several centimeters
+344.26	due to the noise in sensory feedback.
+346.26	Similarly, when you put motor output on movement output,
+348.26	it's extremely noisy.
+350.26	Forget about trying to hit the bull's eye in darts,
+352.26	just aim for the same spot over and over again.
+354.26	You have a huge spread due to movement variability.
+357.26	And more than that, the outside world, or task,
+359.26	is both ambiguous and variable.
+361.26	The teapot could be full, it could be empty.
+363.26	It changes over time.
+365.26	So we work in a whole sensory movement task soup of noise.
+369.26	Now this noise is so great
+371.26	that society places a huge premium
+373.26	on those of us who can reduce the consequences of noise.
+376.26	So if you're lucky enough to be able to knock a small white ball
+379.26	into a hole several hundred yards away using a long metal stick,
+382.26	our society will be willing to reward you
+384.26	with hundreds of millions of dollars.
+387.26	Now what I want to convince you of
+389.26	is the brain also goes through a lot of effort
+391.26	to reduce the negative consequences
+393.26	of this sort of noise and variability.
+395.26	And to do that, I'm going to tell you about a framework
+397.26	which is very popular in statistics and machine learning of the last 50 years
+400.26	called Bayesian decision theory.
+402.26	And it's more recently a unifying way
+405.26	to think about how the brain deals with uncertainty.
+408.26	And the fundamental idea is you want to make inferences and then take actions.
+411.26	So let's think about the inference.
+413.26	You want to generate beliefs about the world.
+415.26	So what are beliefs?
+417.26	Beliefs could be: where are my arms in space?
+419.26	Am I looking at a cat or a fox?
+421.26	But we're going to represent beliefs with probabilities.
+424.26	So we're going to represent a belief
+426.26	with a number between zero and one --
+428.26	zero meaning I don't believe it at all, one means I'm absolutely certain.
+431.26	And numbers in between give you the gray levels of uncertainty.
+434.26	And the key idea to Bayesian inference
+436.26	is you have two sources of information
+438.26	from which to make your inference.
+440.26	You have data,
+442.26	and data in neuroscience is sensory input.
+444.26	So I have sensory input, which I can take in to make beliefs.
+447.26	But there's another source of information, and that's effectively prior knowledge.
+450.26	You accumulate knowledge throughout your life in memories.
+453.26	And the point about Bayesian decision theory
+455.26	is it gives you the mathematics
+457.26	of the optimal way to combine
+459.26	your prior knowledge with your sensory evidence
+461.26	to generate new beliefs.
+463.26	And I've put the formula up there.
+465.26	I'm not going to explain what that formula is, but it's very beautiful.
+467.26	And it has real beauty and real explanatory power.
+470.26	And what it really says, and what you want to estimate,
+472.26	is the probability of different beliefs
+474.26	given your sensory input.
+476.26	So let me give you an intuitive example.
+478.26	Imagine you're learning to play tennis
+481.26	and you want to decide where the ball is going to bounce
+483.26	as it comes over the net towards you.
+485.26	There are two sources of information
+487.26	Bayes' rule tells you.
+489.26	There's sensory evidence -- you can use visual information auditory information,
+492.26	and that might tell you it's going to land in that red spot.
+495.26	But you know that your senses are not perfect,
+498.26	and therefore there's some variability of where it's going to land
+500.26	shown by that cloud of red,
+502.26	representing numbers between 0.5 and maybe 0.1.
+506.26	That information is available in the current shot,
+508.26	but there's another source of information
+510.26	not available on the current shot,
+512.26	but only available by repeated experience in the game of tennis,
+515.26	and that's that the ball doesn't bounce
+517.26	with equal probability over the court during the match.
+519.26	If you're playing against a very good opponent,
+521.26	they may distribute it in that green area,
+523.26	which is the prior distribution,
+525.26	making it hard for you to return.
+527.26	Now both these sources of information carry important information.
+529.26	And what Bayes' rule says
+531.26	is that I should multiply the numbers on the red by the numbers on the green
+534.26	to get the numbers of the yellow, which have the ellipses,
+537.26	and that's my belief.
+539.26	So it's the optimal way of combining information.
+542.26	Now I wouldn't tell you all this if it wasn't that a few years ago,
+544.26	we showed this is exactly what people do
+546.26	when they learn new movement skills.
+548.26	And what it means
+550.26	is we really are Bayesian inference machines.
+552.26	As we go around, we learn about statistics of the world and lay that down,
+556.26	but we also learn
+558.26	about how noisy our own sensory apparatus is,
+560.26	and then combine those
+562.26	in a real Bayesian way.
+564.26	Now a key part to the Bayesian is this part of the formula.
+567.26	And what this part really says
+569.26	is I have to predict the probability
+571.26	of different sensory feedbacks
+573.26	given my beliefs.
+575.26	So that really means I have to make predictions of the future.
+578.26	And I want to convince you the brain does make predictions
+580.26	of the sensory feedback it's going to get.
+582.26	And moreover, it profoundly changes your perceptions
+584.26	by what you do.
+586.26	And to do that, I'll tell you
+588.26	about how the brain deals with sensory input.
+590.26	So you send a command out,
+593.26	you get sensory feedback back,
+595.26	and that transformation is governed
+597.26	by the physics of your body and your sensory apparatus.
+600.26	But you can imagine looking inside the brain.
+602.26	And here's inside the brain.
+604.26	You might have a little predictor, a neural simulator,
+606.26	of the physics of your body and your senses.
+608.26	So as you send a movement command down,
+610.26	you tap a copy of that off
+612.26	and run it into your neural simulator
+614.26	to anticipate the sensory consequences of your actions.
+618.26	So as I shake this ketchup bottle,
+620.26	I get some true sensory feedback as the function of time in the bottom row.
+623.26	And if I've got a good predictor, it predicts the same thing.
+626.26	Well why would I bother doing that?
+628.26	I'm going to get the same feedback anyway.
+630.26	Well there's good reasons.
+632.26	Imagine, as I shake the ketchup bottle,
+634.26	someone very kindly comes up to me and taps it on the back for me.
+637.26	Now I get an extra source of sensory information
+639.26	due to that external act.
+641.26	So I get two sources.
+643.26	I get you tapping on it, and I get me shaking it,
+646.26	but from my senses' point of view,
+648.26	that is combined together into one source of information.
+651.26	Now there's good reason to believe
+653.26	that you would want to be able to distinguish external events from internal events.
+656.26	Because external events are actually much more behaviorally relevant
+659.26	than feeling everything that's going on inside my body.
+662.26	So one way to reconstruct that
+664.26	is to compare the prediction --
+666.26	which is only based on your movement commands --
+668.26	with the reality.
+670.26	Any discrepancy should hopefully be external.
+673.26	So as I go around the world,
+675.26	I'm making predictions of what I should get, subtracting them off.
+678.26	Everything left over is external to me.
+680.26	What evidence is there for this?
+682.26	Well there's one very clear example
+684.26	where a sensation generated by myself feels very different
+686.26	then if generated by another person.
+688.26	And so we decided the most obvious place to start
+690.26	was with tickling.
+692.26	It's been known for a long time, you can't tickle yourself
+694.26	as well as other people can.
+696.26	But it hasn't really been shown, it's because you have a neural simulator,
+699.26	simulating your own body
+701.26	and subtracting off that sense.
+703.26	So we can bring the experiments of the 21st century
+706.26	by applying robotic technologies to this problem.
+709.26	And in effect, what we have is some sort of stick in one hand attached to a robot,
+712.26	and they're going to move that back and forward.
+714.26	And then we're going to track that with a computer
+716.26	and use it to control another robot,
+718.26	which is going to tickle their palm with another stick.
+720.26	And then we're going to ask them to rate a bunch of things
+722.26	including ticklishness.
+724.26	I'll show you just one part of our study.
+726.26	And here I've taken away the robots,
+728.26	but basically people move with their right arm sinusoidally back and forward.
+731.26	And we replay that to the other hand with a time delay.
+734.26	Either no time delay,
+736.26	in which case light would just tickle your palm,
+738.26	or with a time delay of two-tenths of three-tenths of a second.
+742.26	So the important point here
+744.26	is the right hand always does the same things -- sinusoidal movement.
+747.26	The left hand always is the same and puts sinusoidal tickle.
+750.26	All we're playing with is a tempo causality.
+752.26	And as we go from naught to 0.1 second,
+754.26	it becomes more ticklish.
+756.26	As you go from 0.1 to 0.2,
+758.26	it becomes more ticklish at the end.
+760.26	And by 0.2 of a second,
+762.26	it's equivalently ticklish
+764.26	to the robot that just tickled you without you doing anything.
+766.26	So whatever is responsible for this cancellation
+768.26	is extremely tightly coupled with tempo causality.
+771.26	And based on this illustration, we really convinced ourselves in the field
+774.26	that the brain's making precise predictions
+776.26	and subtracting them off from the sensations.
+779.26	Now I have to admit, these are the worst studies my lab has ever run.
+782.26	Because the tickle sensation on the palm comes and goes,
+784.26	you need large numbers of subjects
+786.26	with these stars making them significant.
+788.26	So we were looking for a much more objective way
+790.26	to assess this phenomena.
+792.26	And in the intervening years I had two daughters.
+794.26	And one thing you notice about children in backseats of cars on long journeys,
+797.26	they get into fights --
+799.26	which started with one of them doing something to the other, the other retaliating.
+802.26	It quickly escalates.
+804.26	And children tend to get into fights which escalate in terms of force.
+807.26	Now when I screamed at my children to stop,
+809.26	sometimes they would both say to me
+811.26	the other person hit them harder.
+814.26	Now I happen to know my children don't lie,
+816.26	so I thought, as a neuroscientist,
+818.26	it was important how I could explain
+820.26	how they were telling inconsistent truths.
+822.26	And we hypothesize based on the tickling study
+824.26	that when one child hits another,
+826.26	they generate the movement command.
+828.26	They predict the sensory consequences and subtract it off.
+831.26	So they actually think they've hit the person less hard than they have --
+833.26	rather like the tickling.
+835.26	Whereas the passive recipient
+837.26	doesn't make the prediction, feels the full blow.
+839.26	So if they retaliate with the same force,
+841.26	the first person will think it's been escalated.
+843.26	So we decided to test this in the lab.
+845.26	(Laughter)
+848.26	Now we don't work with children, we don't work with hitting,
+850.26	but the concept is identical.
+852.26	We bring in two adults. We tell them they're going to play a game.
+855.26	And so here's player one and player two sitting opposite to each other.
+857.26	And the game is very simple.
+859.26	We started with a motor
+861.26	with a little lever, a little force transfuser.
+863.26	And we use this motor to apply force down to player one's fingers
+865.26	for three seconds and then it stops.
+868.26	And that player's been told, remember the experience of that force
+871.26	and use your other finger
+873.26	to apply the same force
+875.26	down to the other subject's finger through a force transfuser -- and they do that.
+878.26	And player two's been told, remember the experience of that force.
+881.26	Use your other hand to apply the force back down.
+884.26	And so they take it in turns
+886.26	to apply the force they've just experienced back and forward.
+888.26	But critically,
+890.26	they're briefed about the rules of the game in separate rooms.
+893.26	So they don't know the rules the other person's playing by.
+895.26	And what we've measured
+897.26	is the force as a function of terms.
+899.26	And if we look at what we start with,
+901.26	a quarter of a Newton there, a number of turns,
+903.26	perfect would be that red line.
+905.26	And what we see in all pairs of subjects is this --
+908.26	a 70 percent escalation in force
+910.26	on each go.
+912.26	So it really suggests, when you're doing this --
+914.26	based on this study and others we've done --
+916.26	that the brain is canceling the sensory consequences
+918.26	and underestimating the force it's producing.
+920.26	So it re-shows the brain makes predictions
+922.26	and fundamentally changes the precepts.
+925.26	So we've made inferences, we've done predictions,
+928.26	now we have to generate actions.
+930.26	And what Bayes' rule says is, given my beliefs,
+932.26	the action should in some sense be optimal.
+934.26	But we've got a problem.
+936.26	Tasks are symbolic -- I want to drink, I want to dance --
+939.26	but the movement system has to contract 600 muscles
+941.26	in a particular sequence.
+943.26	And there's a big gap
+945.26	between the task and the movement system.
+947.26	So it could be bridged in infinitely many different ways.
+949.26	So think about just a point to point movement.
+951.26	I could choose these two paths
+953.26	out of an infinite number of paths.
+955.26	Having chosen a particular path,
+957.26	I can hold my hand on that path
+959.26	as infinitely many different joint configurations.
+961.26	And I can hold my arm in a particular joint configuration
+963.26	either very stiff or very relaxed.
+965.26	So I have a huge amount of choice to make.
+968.26	Now it turns out, we are extremely stereotypical.
+971.26	We all move the same way pretty much.
+974.26	And so it turns out we're so stereotypical,
+976.26	our brains have got dedicated neural circuitry
+978.26	to decode this stereotyping.
+980.26	So if I take some dots
+982.26	and set them in motion with biological motion,
+985.26	your brain's circuitry would understand instantly what's going on.
+988.26	Now this is a bunch of dots moving.
+990.26	You will know what this person is doing,
+993.26	whether happy, sad, old, young -- a huge amount of information.
+996.26	If these dots were cars going on a racing circuit,
+998.26	you would have absolutely no idea what's going on.
+1001.26	So why is it
+1003.26	that we move the particular ways we do?
+1005.26	Well let's think about what really happens.
+1007.26	Maybe we don't all quite move the same way.
+1010.26	Maybe there's variation in the population.
+1012.26	And maybe those who move better than others
+1014.26	have got more chance of getting their children into the next generation.
+1016.26	So in evolutionary scales, movements get better.
+1019.26	And perhaps in life, movements get better through learning.
+1022.26	So what is it about a movement which is good or bad?
+1024.26	Imagine I want to intercept this ball.
+1026.26	Here are two possible paths to that ball.
+1029.26	Well if I choose the left-hand path,
+1031.26	I can work out the forces required
+1033.26	in one of my muscles as a function of time.
+1035.26	But there's noise added to this.
+1037.26	So what I actually get, based on this lovely, smooth, desired force,
+1040.26	is a very noisy version.
+1042.26	So if I pick the same command through many times,
+1045.26	I will get a different noisy version each time, because noise changes each time.
+1048.26	So what I can show you here
+1050.26	is how the variability of the movement will evolve
+1052.26	if I choose that way.
+1054.26	If I choose a different way of moving -- on the right for example --
+1057.26	then I'll have a different command, different noise,
+1059.26	playing through a noisy system, very complicated.
+1062.26	All we can be sure of is the variability will be different.
+1065.26	If I move in this particular way,
+1067.26	I end up with a smaller variability across many movements.
+1070.26	So if I have to choose between those two,
+1072.26	I would choose the right one because it's less variable.
+1074.26	And the fundamental idea
+1076.26	is you want to plan your movements
+1078.26	so as to minimize the negative consequence of the noise.
+1081.26	And one intuition to get
+1083.26	is actually the amount of noise or variability I show here
+1085.26	gets bigger as the force gets bigger.
+1087.26	So you want to avoid big forces as one principle.
+1090.26	So we've shown that using this,
+1092.26	we can explain a huge amount of data --
+1094.26	that exactly people are going about their lives planning movements
+1097.26	so as to minimize negative consequences of noise.
+1100.26	So I hope I've convinced you the brain is there
+1102.26	and evolved to control movement.
+1104.26	And it's an intellectual challenge to understand how we do that.
+1107.26	But it's also relevant
+1109.26	for disease and rehabilitation.
+1111.26	There are many diseases which effect movement.
+1114.26	And hopefully if we understand how we control movement,
+1116.26	we can apply that to robotic technology.
+1118.26	And finally, I want to remind you,
+1120.26	when you see animals do what look like very simple tasks,
+1122.26	the actual complexity of what is going on inside their brain
+1124.26	is really quite dramatic.
+1126.26	Thank you very much.
+1128.26	(Applause)
+1136.26	Chris Anderson: Quick question for you, Dan.
+1138.26	So you're a movement -- (DW: Chauvinist.) -- chauvinist.
+1142.26	Does that mean that you think that the other things we think our brains are about --
+1145.26	the dreaming, the yearning, the falling in love and all these things --
+1148.26	are a kind of side show, an accident?
+1151.26	DW: No, no, actually I think they're all important
+1153.26	to drive the right movement behavior to get reproduction in the end.
+1156.26	So I think people who study sensation or memory
+1159.26	without realizing why you're laying down memories of childhood.
+1161.26	The fact that we forget most of our childhood, for example,
+1164.26	is probably fine, because it doesn't effect our movements later in life.
+1167.26	You only need to store things which are really going to effect movement.
+1170.26	CA: So you think that people thinking about the brain, and consciousness generally,
+1173.26	could get real insight
+1175.26	by saying, where does movement play in this game?
+1177.26	DW: So people have found out for example
+1179.26	that studying vision in the absence of realizing why you have vision
+1181.26	is a mistake.
+1183.26	You have to study vision with the realization
+1185.26	of how the movement system is going to use vision.
+1187.26	And it uses it very differently once you think about it that way.
+1189.26	CA: Well that was quite fascinating. Thank you very much indeed.
+1192.26	(Applause)

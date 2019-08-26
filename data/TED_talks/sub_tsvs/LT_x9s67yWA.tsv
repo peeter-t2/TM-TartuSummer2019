@@ -1,0 +1,143 @@
+startsecond	text
+16.26	If I can leave you with one big idea today,
+18.26	it's that the whole of the data
+20.26	in which we consume
+22.26	is greater that the sum of the parts,
+24.26	and instead of thinking about information overload,
+27.26	what I'd like you to think about is how
+29.26	we can use information so that patterns pop
+32.26	and we can see trends that would otherwise be invisible.
+35.26	So what we're looking at right here is a typical mortality chart
+38.26	organized by age.
+40.26	This tool that I'm using here is a little experiment.
+42.26	It's called Pivot, and with Pivot what I can do
+45.26	is I can choose to filter in one particular cause of deaths -- say, accidents.
+49.26	And, right away, I see there's a different pattern that emerges.
+52.26	This is because, in the mid-area here,
+54.26	people are at their most active,
+56.26	and over here they're at their most frail.
+58.26	We can step back out again
+60.26	and then reorganize the data by cause of death,
+62.26	seeing that circulatory diseases and cancer
+65.26	are the usual suspects, but not for everyone.
+68.26	If we go ahead and we filter by age --
+71.26	say 40 years or less --
+73.26	we see that accidents are actually
+75.26	the greatest cause that people have to be worried about.
+78.26	And if you drill into that, it's especially the case for men.
+81.26	So you get the idea
+83.26	that viewing information, viewing data in this way,
+86.26	is a lot like swimming
+88.26	in a living information info-graphic.
+91.26	And if we can do this for raw data,
+93.26	why not do it for content as well?
+96.26	So what we have right here
+98.26	is the cover of every single Sports Illustrated
+101.26	ever produced.
+103.26	It's all here; it's all on the web.
+105.26	You can go back to your rooms and try this after my talk.
+108.26	With Pivot, you can drill into a decade.
+111.26	You can drill into a particular year.
+113.26	You can jump right into a specific issue.
+116.26	So I'm looking at this; I see the athletes
+118.26	that have appeared in this issue, the sports.
+120.26	I'm a Lance Armstrong fan, so I'll go ahead and I'll click on that,
+123.26	which reveals, for me, all the issues
+125.26	in which Lance Armstrong's been a part of.
+127.26	(Applause)
+130.26	Now, if I want to just kind of take a peek at these,
+133.26	I might think,
+135.26	"""Well, what about taking a look at all of cycling?"""
+137.26	So I can step back, and expand on that.
+139.26	And I see Greg LeMond now.
+141.26	And so you get the idea that when you
+143.26	navigate over information this way --
+145.26	going narrower, broader,
+147.26	backing in, backing out --
+149.26	you're not searching, you're not browsing.
+151.26	You're doing something that's actually a little bit different.
+153.26	It's in between, and we think it changes
+156.26	the way information can be used.
+158.26	So I want to extrapolate on this idea a bit
+160.26	with something that's a little bit crazy.
+162.26	What we're done here is we've taken every single Wikipedia page
+165.26	and we reduced it down to a little summary.
+168.26	So the summary consists of just a little synopsis
+171.26	and an icon to indicate the topical area that it comes from.
+174.26	I'm only showing the top 500
+177.26	most popular Wikipedia pages right here.
+179.26	But even in this limited view,
+181.26	we can do a lot of things.
+183.26	Right away, we get a sense of what are the topical domains
+185.26	that are most popular on Wikipedia.
+187.26	I'm going to go ahead and select government.
+189.26	Now, having selected government,
+192.26	I can now see that the Wikipedia categories
+194.26	that most frequently correspond to that
+196.26	are Time magazine People of the Year.
+199.26	So this is really important because this is an insight
+202.26	that was not contained within any one Wikipedia page.
+205.26	It's only possible to see that insight
+207.26	when you step back and look at all of them.
+210.26	Looking at one of these particular summaries,
+212.26	I can then drill into the concept of
+215.26	Time magazine Person of the Year,
+217.26	bringing up all of them.
+219.26	So looking at these people,
+221.26	I can see that the majority come from government;
+225.26	some have come from natural sciences;
+229.26	some, fewer still, have come from business --
+233.26	there's my boss --
+235.26	and one has come from music.
+240.26	And interestingly enough,
+242.26	Bono is also a TED Prize winner.
+245.26	So we can go, jump, and take a look at all the TED Prize winners.
+248.26	So you see, we're navigating the web for the first time
+251.26	as if it's actually a web, not from page-to-page,
+254.26	but at a higher level of abstraction.
+256.26	And so I want to show you one other thing
+258.26	that may catch you a little bit by surprise.
+261.26	I'm just showing the New York Times website here.
+264.26	So Pivot, this application --
+266.26	I don't want to call it a browser; it's really not a browser,
+268.26	but you can view web pages with it --
+271.26	and we bring that zoomable technology
+273.26	to every single web page like this.
+276.26	So I can step back,
+279.26	pop right back into a specific section.
+281.26	Now the reason why this is important is because,
+283.26	by virtue of just viewing web pages in this way,
+286.26	I can look at my entire browsing history
+288.26	in the exact same way.
+290.26	So I can drill into what I've done
+292.26	over specific time frames.
+294.26	Here, in fact, is the state
+296.26	of all the demo that I just gave.
+298.26	And I can sort of replay some stuff that I was looking at earlier today.
+301.26	And, if I want to step back and look at everything,
+304.26	I can slice and dice my history,
+306.26	perhaps by my search history --
+308.26	here, I was doing some nepotistic searching,
+310.26	looking for Bing, over here for Live Labs Pivot.
+313.26	And from these, I can drill into the web page
+315.26	and just launch them again.
+317.26	It's one metaphor repurposed multiple times,
+320.26	and in each case it makes the whole greater
+322.26	than the sum of the parts with the data.
+324.26	So right now, in this world,
+327.26	we think about data as being this curse.
+330.26	We talk about the curse of information overload.
+333.26	We talk about drowning in data.
+336.26	What if we can actually turn that upside down
+338.26	and turn the web upside down,
+340.26	so that instead of navigating from one thing to the next,
+343.26	we get used to the habit of being able to go from many things to many things,
+346.26	and then being able to see the patterns
+348.26	that were otherwise hidden?
+350.26	If we can do that, then instead of being trapped in data,
+355.26	we might actually extract information.
+358.26	And, instead of dealing just with information,
+360.26	we can tease out knowledge.
+362.26	And if we get the knowledge, then maybe even there's wisdom to be found.
+365.26	So with that, I thank you.
+367.26	(Applause)

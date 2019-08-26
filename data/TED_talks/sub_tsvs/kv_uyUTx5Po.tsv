@@ -1,0 +1,205 @@
+startsecond	text
+12.562	Eric Berlow: I'm an ecologist, and Sean's a physicist,
+15.623	and we both study complex networks.
+17.731	And we met a couple years ago when we discovered
+19.566	that we had both given a short TED Talk
+21.566	about the ecology of war,
+23.869	and we realized that we were connected
+25.316	by the ideas we shared before we ever met.
+28.134	And then we thought, you know, there are thousands
+29.69	of other talks out there, especially TEDx Talks,
+31.804	that are popping up all over the world.
+34.015	How are they connected,
+34.938	and what does that global conversation look like?
+36.948	So Sean's going to tell you a little bit about how we did that.
+39.758	Sean Gourley: Exactly. So we took 24,000 TEDx Talks
+43.525	from around the world, 147 different countries,
+46.571	and we took these talks and we wanted to find
+48.694	the mathematical structures that underly
+50.734	the ideas behind them.
+52.456	And we wanted to do that so we could see how
+53.826	they connected with each other.
+55.879	And so, of course, if you're going to do this kind of stuff,
+57.555	you need a lot of data.
+58.511	So the data that you've got is a great thing called YouTube,
+62.197	and we can go down and basically pull
+63.965	all the open information from YouTube,
+66.232	all the comments, all the views, who's watching it,
+68.581	where are they watching it, what are they saying in the comments.
+71.36	But we can also pull up, using speech-to-text translation,
+74.652	we can pull the entire transcript,
+76.78	and that works even for people with kind of funny accents like myself.
+79.46	So we can take their transcript
+81.566	and actually do some pretty cool things.
+83.664	We can take natural language processing algorithms
+85.824	to kind of read through with a computer, line by line,
+88.453	extracting key concepts from this.
+90.812	And we take those key concepts and they sort of form
+93.337	this mathematical structure of an idea.
+96.902	And we call that the meme-ome.
+98.659	And the meme-ome, you know, quite simply,
+100.81	is the mathematics that underlies an idea,
+103.236	and we can do some pretty interesting analysis with it,
+105.168	which I want to share with you now.
+107.149	So each idea has its own meme-ome,
+109.339	and each idea is unique with that,
+111.29	but of course, ideas, they borrow from each other,
+113.778	they kind of steal sometimes,
+114.962	and they certainly build on each other,
+116.789	and we can go through mathematically
+118.405	and take the meme-ome from one talk
+120.245	and compare it to the meme-ome from every other talk,
+122.699	and if there's a similarity between the two of them,
+124.672	we can create a link and represent that as a graph,
+127.922	just like Eric and I are connected.
+130.316	So that's theory, that's great.
+131.71	Let's see how it works in actual practice.
+134.236	So what we've got here now is the global footprint
+137.024	of all the TEDx Talks over the last four years
+139.317	exploding out around the world
+140.867	from New York all the way down to little old New Zealand in the corner.
+144.196	And what we did on this is we analyzed the top 25 percent of these,
+148.031	and we started to see where the connections occurred,
+150.565	where they connected with each other.
+152.102	Cameron Russell talking about image and beauty
+153.976	connected over into Europe.
+155.551	We've got a bigger conversation about Israel and Palestine
+157.963	radiating outwards from the Middle East.
+160.218	And we've got something a little broader
+161.516	like big data with a truly global footprint
+163.672	reminiscent of a conversation
+165.851	that is happening everywhere.
+167.867	So from this, we kind of run up against the limits
+170.04	of what we can actually do with a geographic projection,
+172.57	but luckily, computer technology allows us to go out
+174.622	into multidimensional space.
+176.168	So we can take in our network projection
+178.043	and apply a physics engine to this,
+179.793	and the similar talks kind of smash together,
+181.678	and the different ones fly apart,
+183.682	and what we're left with is something quite beautiful.
+185.754	EB: So I want to just point out here that every node is a talk,
+188.711	they're linked if they share similar ideas,
+191.3	and that comes from a machine reading
+193.384	of entire talk transcripts,
+195.451	and then all these topics that pop out,
+197.682	they're not from tags and keywords.
+199.472	They come from the network structure
+201.197	of interconnected ideas. Keep going.
+203.365	SG: Absolutely. So I got a little quick on that,
+205.387	but he's going to slow me down.
+206.862	We've got education connected to storytelling
+208.896	triangulated next to social media.
+210.539	You've got, of course, the human brain right next to healthcare,
+213.014	which you might expect,
+214.4	but also you've got video games, which is sort of adjacent,
+216.795	as those two spaces interface with each other.
+219.535	But I want to take you into one cluster
+221.07	that's particularly important to me, and that's the environment.
+223.938	And I want to kind of zoom in on that
+225.431	and see if we can get a little more resolution.
+227.794	So as we go in here, what we start to see,
+230.141	apply the physics engine again,
+231.645	we see what's one conversation
+233.321	is actually composed of many smaller ones.
+235.881	The structure starts to emerge
+237.81	where we see a kind of fractal behavior
+239.88	of the words and the language that we use
+241.499	to describe the things that are important to us
+243.201	all around this world.
+244.634	So you've got food economy and local food at the top,
+246.966	you've got greenhouse gases, solar and nuclear waste.
+249.685	What you're getting is a range of smaller conversations,
+252.316	each connected to each other through the ideas
+254.617	and the language they share,
+255.918	creating a broader concept of the environment.
+258.368	And of course, from here, we can go
+259.9	and zoom in and see, well, what are young people looking at?
+263.434	And they're looking at energy technology and nuclear fusion.
+265.779	This is their kind of resonance
+267.453	for the conversation around the environment.
+269.859	If we split along gender lines,
+271.758	we can see females resonating heavily
+273.745	with food economy, but also out there in hope and optimism.
+277.39	And so there's a lot of exciting stuff we can do here,
+279.872	and I'll throw to Eric for the next part.
+281.634	EB: Yeah, I mean, just to point out here,
+283.236	you cannot get this kind of perspective
+284.774	from a simple tag search on YouTube.
+288.134	Let's now zoom back out to the entire global conversation
+292.322	out of environment, and look at all the talks together.
+294.856	Now often, when we're faced with this amount of content,
+297.783	we do a couple of things to simplify it.
+300.214	We might just say, well,
+301.528	what are the most popular talks out there?
+304.357	And a few rise to the surface.
+305.754	There's a talk about gratitude.
+307.582	There's another one about personal health and nutrition.
+310.926	And of course, there's got to be one about porn, right?
+313.855	And so then we might say, well, gratitude, that was last year.
+317.089	What's trending now? What's the popular talk now?
+319.611	And we can see that the new, emerging, top trending topic
+322.932	is about digital privacy.
+325.598	So this is great. It simplifies things.
+327.291	But there's so much creative content
+329.118	that's just buried at the bottom.
+331.039	And I hate that. How do we bubble stuff up to the surface
+334.357	that's maybe really creative and interesting?
+336.815	Well, we can go back to the network structure of ideas
+339.746	to do that.
+341.176	Remember, it's that network structure
+343.29	that is creating these emergent topics,
+345.558	and let's say we could take two of them,
+347.073	like cities and genetics, and say, well, are there any talks
+350.12	that creatively bridge these two really different disciplines.
+352.689	And that's -- Essentially, this kind of creative remix
+354.964	is one of the hallmarks of innovation.
+356.804	Well here's one by Jessica Green
+358.41	about the microbial ecology of buildings.
+360.789	It's literally defining a new field.
+362.799	And we could go back to those topics and say, well,
+364.902	what talks are central to those conversations?
+367.67	In the cities cluster, one of the most central
+369.36	was one by Mitch Joachim about ecological cities,
+373.312	and in the genetics cluster,
+375.032	we have a talk about synthetic biology by Craig Venter.
+378.225	These are talks that are linking many talks within their discipline.
+381.578	We could go the other direction and say, well,
+383.421	what are talks that are broadly synthesizing
+385.693	a lot of different kinds of fields.
+387.141	We used a measure of ecological diversity to get this.
+389.674	Like, a talk by Steven Pinker on the history of violence,
+392.41	very synthetic.
+393.59	And then, of course, there are talks that are so unique
+395.668	they're kind of out in the stratosphere, in their own special place,
+398.758	and we call that the Colleen Flanagan index.
+401.272	And if you don't know Colleen, she's an artist,
+404.306	"and I asked her, ""Well, what's it like out there"
+405.849	"in the stratosphere of our idea space?"""
+407.521	And apparently it smells like bacon.
+410.776	I wouldn't know.
+412.567	So we're using these network motifs
+414.815	to find talks that are unique,
+416.001	ones that are creatively synthesizing a lot of different fields,
+418.711	ones that are central to their topic,
+420.37	and ones that are really creatively bridging disparate fields.
+423.744	Okay? We never would have found those with our obsession
+425.846	with what's trending now.
+428.159	And all of this comes from the architecture of complexity,
+431.045	or the patterns of how things are connected.
+434.005	SG: So that's exactly right.
+435.63	We've got ourselves in a world
+438.109	that's massively complex,
+440.153	and we've been using algorithms to kind of filter it down
+443.02	so we can navigate through it.
+444.806	And those algorithms, whilst being kind of useful,
+447.144	are also very, very narrow, and we can do better than that,
+450.62	because we can realize that their complexity is not random.
+453.186	It has mathematical structure,
+455.14	and we can use that mathematical structure
+456.943	to go and explore things like the world of ideas
+459.157	to see what's being said, to see what's not being said,
+462.157	and to be a little bit more human
+463.564	and, hopefully, a little smarter.
+465.431	Thank you.
+466.397	(Applause)

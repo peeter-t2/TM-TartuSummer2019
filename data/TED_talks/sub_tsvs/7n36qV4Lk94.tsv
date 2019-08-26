@@ -1,0 +1,305 @@
+startsecond	text
+13.16	I want to start my story in Germany, in 1877,
+16.16	with a mathematician named Georg Cantor.
+18.16	And Cantor decided he was going to take a line and erase the middle third of the line,
+23.16	and then take those two resulting lines and bring them back into the same process, a recursive process.
+28.16	So he starts out with one line, and then two,
+30.16	and then four, and then 16, and so on.
+33.16	And if he does this an infinite number of times, which you can do in mathematics,
+36.16	he ends up with an infinite number of lines,
+38.16	each of which has an infinite number of points in it.
+41.16	So he realized he had a set whose number of elements was larger than infinity.
+45.16	And this blew his mind. Literally. He checked into a sanitarium. (Laughter)
+48.16	And when he came out of the sanitarium,
+50.16	he was convinced that he had been put on earth to found transfinite set theory
+56.16	because the largest set of infinity would be God Himself.
+59.16	He was a very religious man.
+60.16	He was a mathematician on a mission.
+62.16	And other mathematicians did the same sort of thing.
+64.16	A Swedish mathematician, von Koch,
+66.16	decided that instead of subtracting lines, he would add them.
+70.16	And so he came up with this beautiful curve.
+72.16	And there's no particular reason why we have to start with this seed shape;
+75.16	we can use any seed shape we like.
+79.16	And I'll rearrange this and I'll stick this somewhere -- down there, OK --
+83.16	and now upon iteration, that seed shape sort of unfolds into a very different looking structure.
+90.16	So these all have the property of self-similarity:
+92.16	the part looks like the whole.
+94.16	It's the same pattern at many different scales.
+97.16	Now, mathematicians thought this was very strange
+99.16	because as you shrink a ruler down, you measure a longer and longer length.
+104.16	And since they went through the iterations an infinite number of times,
+106.16	as the ruler shrinks down to infinity, the length goes to infinity.
+112.16	This made no sense at all,
+113.16	so they consigned these curves to the back of the math books.
+116.16	They said these are pathological curves, and we don't have to discuss them.
+120.16	(Laughter)
+121.16	And that worked for a hundred years.
+124.16	And then in 1977, Benoit Mandelbrot, a French mathematician,
+129.16	realized that if you do computer graphics and used these shapes he called fractals,
+134.16	you get the shapes of nature.
+136.16	You get the human lungs, you get acacia trees, you get ferns,
+140.16	you get these beautiful natural forms.
+142.16	If you take your thumb and your index finger and look right where they meet --
+146.16	go ahead and do that now --
+148.16	-- and relax your hand, you'll see a crinkle,
+151.16	and then a wrinkle within the crinkle, and a crinkle within the wrinkle. Right?
+154.16	Your body is covered with fractals.
+156.16	The mathematicians who were saying these were pathologically useless shapes?
+159.16	They were breathing those words with fractal lungs.
+161.16	It's very ironic. And I'll show you a little natural recursion here.
+165.16	Again, we just take these lines and recursively replace them with the whole shape.
+170.16	So here's the second iteration, and the third, fourth and so on.
+175.16	So nature has this self-similar structure.
+177.16	Nature uses self-organizing systems.
+179.16	Now in the 1980s, I happened to notice
+182.16	that if you look at an aerial photograph of an African village, you see fractals.
+186.16	"And I thought, ""This is fabulous! I wonder why?"""
+190.16	And of course I had to go to Africa and ask folks why.
+192.16	So I got a Fulbright scholarship to just travel around Africa for a year
+198.16	asking people why they were building fractals,
+200.16	which is a great job if you can get it.
+202.16	(Laughter)
+203.16	And so I finally got to this city, and I'd done a little fractal model for the city
+210.16	just to see how it would sort of unfold --
+213.16	but when I got there, I got to the palace of the chief,
+216.16	and my French is not very good; I said something like,
+219.16	"""I am a mathematician and I would like to stand on your roof."""
+222.16	But he was really cool about it, and he took me up there,
+225.16	and we talked about fractals.
+226.16	"And he said, ""Oh yeah, yeah! We knew about a rectangle within a rectangle,"
+229.16	"we know all about that."""
+231.16	And it turns out the royal insignia has a rectangle within a rectangle within a rectangle,
+235.16	and the path through that palace is actually this spiral here.
+239.16	And as you go through the path, you have to get more and more polite.
+243.16	So they're mapping the social scaling onto the geometric scaling;
+246.16	it's a conscious pattern. It is not unconscious like a termite mound fractal.
+251.16	This is a village in southern Zambia.
+253.16	The Ba-ila built this village about 400 meters in diameter.
+257.16	You have a huge ring.
+259.16	The rings that represent the family enclosures get larger and larger as you go towards the back,
+266.16	and then you have the chief's ring here towards the back
+270.16	and then the chief's immediate family in that ring.
+273.16	So here's a little fractal model for it.
+274.16	Here's one house with the sacred altar,
+277.16	here's the house of houses, the family enclosure,
+280.16	with the humans here where the sacred altar would be,
+283.16	and then here's the village as a whole --
+285.16	a ring of ring of rings with the chief's extended family here, the chief's immediate family here,
+290.16	and here there's a tiny village only this big.
+293.16	Now you might wonder, how can people fit in a tiny village only this big?
+297.16	That's because they're spirit people. It's the ancestors.
+300.16	And of course the spirit people have a little miniature village in their village, right?
+305.16	So it's just like Georg Cantor said, the recursion continues forever.
+308.16	This is in the Mandara mountains, near the Nigerian border in Cameroon, Mokoulek.
+312.16	I saw this diagram drawn by a French architect,
+315.16	"and I thought, ""Wow! What a beautiful fractal!"""
+317.16	So I tried to come up with a seed shape, which, upon iteration, would unfold into this thing.
+323.16	I came up with this structure here.
+325.16	Let's see, first iteration, second, third, fourth.
+329.16	Now, after I did the simulation,
+331.16	I realized the whole village kind of spirals around, just like this,
+334.16	and here's that replicating line -- a self-replicating line that unfolds into the fractal.
+340.16	Well, I noticed that line is about where the only square building in the village is at.
+345.16	So, when I got to the village,
+347.16	"I said, ""Can you take me to the square building?"
+349.16	"I think something's going on there."""
+351.16	"And they said, ""Well, we can take you there, but you can't go inside"
+354.16	because that's the sacred altar, where we do sacrifices every year
+357.16	"to keep up those annual cycles of fertility for the fields."""
+360.16	And I started to realize that the cycles of fertility
+362.16	were just like the recursive cycles in the geometric algorithm that builds this.
+366.16	And the recursion in some of these villages continues down into very tiny scales.
+370.16	So here's a Nankani village in Mali.
+372.16	And you can see, you go inside the family enclosure --
+375.16	you go inside and here's pots in the fireplace, stacked recursively.
+379.16	Here's calabashes that Issa was just showing us,
+383.16	and they're stacked recursively.
+385.16	Now, the tiniest calabash in here keeps the woman's soul.
+387.16	And when she dies, they have a ceremony
+389.16	where they break this stack called the zalanga and her soul goes off to eternity.
+394.16	Once again, infinity is important.
+398.16	Now, you might ask yourself three questions at this point.
+402.16	Aren't these scaling patterns just universal to all indigenous architecture?
+406.16	And that was actually my original hypothesis.
+408.16	When I first saw those African fractals,
+410.16	"I thought, ""Wow, so any indigenous group that doesn't have a state society,"
+414.16	"that sort of hierarchy, must have a kind of bottom-up architecture."""
+417.16	But that turns out not to be true.
+419.16	I started collecting aerial photographs of Native American and South Pacific architecture;
+423.16	only the African ones were fractal.
+425.16	And if you think about it, all these different societies have different geometric design themes that they use.
+431.16	So Native Americans use a combination of circular symmetry and fourfold symmetry.
+437.16	You can see on the pottery and the baskets.
+439.16	Here's an aerial photograph of one of the Anasazi ruins;
+442.16	you can see it's circular at the largest scale, but it's rectangular at the smaller scale, right?
+447.16	It is not the same pattern at two different scales.
+451.16	Second, you might ask,
+452.16	"""Well, Dr. Eglash, aren't you ignoring the diversity of African cultures?"""
+456.16	And three times, the answer is no.
+458.16	"First of all, I agree with Mudimbe's wonderful book, ""The Invention of Africa,"""
+462.16	that Africa is an artificial invention of first colonialism,
+465.16	and then oppositional movements.
+467.16	No, because a widely shared design practice doesn't necessarily give you a unity of culture --
+472.16	"and it definitely is not ""in the DNA."""
+475.16	And finally, the fractals have self-similarity --
+477.16	so they're similar to themselves, but they're not necessarily similar to each other --
+481.16	you see very different uses for fractals.
+483.16	It's a shared technology in Africa.
+486.16	And finally, well, isn't this just intuition?
+489.16	It's not really mathematical knowledge.
+491.16	Africans can't possibly really be using fractal geometry, right?
+494.16	It wasn't invented until the 1970s.
+497.16	Well, it's true that some African fractals are, as far as I'm concerned, just pure intuition.
+502.16	So some of these things, I'd wander around the streets of Dakar
+505.16	"asking people, ""What's the algorithm? What's the rule for making this?"""
+508.16	and they'd say,
+509.16	"""Well, we just make it that way because it looks pretty, stupid."" (Laughter)"
+512.16	But sometimes, that's not the case.
+515.16	In some cases, there would actually be algorithms, and very sophisticated algorithms.
+520.16	So in Manghetu sculpture, you'd see this recursive geometry.
+523.16	In Ethiopian crosses, you see this wonderful unfolding of the shape.
+528.16	In Angola, the Chokwe people draw lines in the sand,
+532.16	and it's what the German mathematician Euler called a graph;
+535.16	we now call it an Eulerian path --
+537.16	you can never lift your stylus from the surface
+539.16	and you can never go over the same line twice.
+542.16	But they do it recursively, and they do it with an age-grade system,
+545.16	so the little kids learn this one, and then the older kids learn this one,
+548.16	then the next age-grade initiation, you learn this one.
+551.16	And with each iteration of that algorithm,
+554.16	you learn the iterations of the myth.
+556.16	You learn the next level of knowledge.
+559.16	And finally, all over Africa, you see this board game.
+561.16	It's called Owari in Ghana, where I studied it;
+564.16	it's called Mancala here on the East Coast, Bao in Kenya, Sogo elsewhere.
+569.16	Well, you see self-organizing patterns that spontaneously occur in this board game.
+574.16	And the folks in Ghana knew about these self-organizing patterns
+577.16	and would use them strategically.
+579.16	So this is very conscious knowledge.
+581.16	Here's a wonderful fractal.
+583.16	Anywhere you go in the Sahel, you'll see this windscreen.
+587.16	And of course fences around the world are all Cartesian, all strictly linear.
+591.16	But here in Africa, you've got these nonlinear scaling fences.
+595.16	So I tracked down one of the folks who makes these things,
+597.16	this guy in Mali just outside of Bamako, and I asked him,
+601.16	"""How come you're making fractal fences? Because nobody else is."""
+603.16	And his answer was very interesting.
+605.16	"He said, ""Well, if I lived in the jungle, I would only use the long rows of straw"
+610.16	because they're very quick and they're very cheap.
+612.16	"It doesn't take much time, doesn't take much straw."""
+615.16	"He said, ""but wind and dust goes through pretty easily."
+617.16	Now, the tight rows up at the very top, they really hold out the wind and dust.
+621.16	"But it takes a lot of time, and it takes a lot of straw because they're really tight."""
+626.16	"""Now,"" he said, ""we know from experience"
+628.16	"that the farther up from the ground you go, the stronger the wind blows."""
+633.16	Right? It's just like a cost-benefit analysis.
+636.16	And I measured out the lengths of straw,
+638.16	put it on a log-log plot, got the scaling exponent,
+640.16	and it almost exactly matches the scaling exponent for the relationship between wind speed and height
+645.16	in the wind engineering handbook.
+646.16	So these guys are right on target for a practical use of scaling technology.
+651.16	The most complex example of an algorithmic approach to fractals that I found
+656.16	was actually not in geometry, it was in a symbolic code,
+658.16	and this was Bamana sand divination.
+661.16	And the same divination system is found all over Africa.
+664.16	You can find it on the East Coast as well as the West Coast,
+669.16	and often the symbols are very well preserved,
+671.16	so each of these symbols has four bits -- it's a four-bit binary word --
+677.16	you draw these lines in the sand randomly, and then you count off,
+682.16	and if it's an odd number, you put down one stroke,
+684.16	and if it's an even number, you put down two strokes.
+686.16	And they did this very rapidly,
+689.16	and I couldn't understand where they were getting --
+691.16	they only did the randomness four times --
+693.16	I couldn't understand where they were getting the other 12 symbols.
+695.16	And they wouldn't tell me.
+697.16	"They said, ""No, no, I can't tell you about this."""
+699.16	"And I said, ""Well look, I'll pay you, you can be my teacher,"
+701.16	"and I'll come each day and pay you."""
+703.16	"They said, ""It's not a matter of money. This is a religious matter."""
+706.16	And finally, out of desperation, I said,
+707.16	"""Well, let me explain Georg Cantor in 1877."""
+710.16	And I started explaining why I was there in Africa,
+714.16	and they got very excited when they saw the Cantor set.
+716.16	"And one of them said, ""Come here. I think I can help you out here."""
+720.16	And so he took me through the initiation ritual for a Bamana priest.
+725.16	And of course, I was only interested in the math,
+727.16	so the whole time, he kept shaking his head going,
+729.16	"""You know, I didn't learn it this way."""
+730.16	But I had to sleep with a kola nut next to my bed, buried in sand,
+734.16	and give seven coins to seven lepers and so on.
+737.16	And finally, he revealed the truth of the matter.
+742.16	And it turns out it's a pseudo-random number generator using deterministic chaos.
+746.16	When you have a four-bit symbol, you then put it together with another one sideways.
+752.16	So even plus odd gives you odd.
+754.16	Odd plus even gives you odd.
+756.16	Even plus even gives you even. Odd plus odd gives you even.
+759.16	It's addition modulo 2, just like in the parity bit check on your computer.
+763.16	And then you take this symbol, and you put it back in
+767.16	so it's a self-generating diversity of symbols.
+769.16	They're truly using a kind of deterministic chaos in doing this.
+773.16	Now, because it's a binary code,
+775.16	you can actually implement this in hardware --
+777.16	what a fantastic teaching tool that should be in African engineering schools.
+782.16	And the most interesting thing I found out about it was historical.
+785.16	In the 12th century, Hugo of Santalla brought it from Islamic mystics into Spain.
+791.16	And there it entered into the alchemy community as geomancy:
+797.16	divination through the earth.
+799.16	This is a geomantic chart drawn for King Richard II in 1390.
+804.16	Leibniz, the German mathematician,
+807.16	"talked about geomancy in his dissertation called ""De Combinatoria."""
+811.16	"And he said, ""Well, instead of using one stroke and two strokes,"
+815.16	"let's use a one and a zero, and we can count by powers of two."""
+819.16	Right? Ones and zeros, the binary code.
+821.16	George Boole took Leibniz's binary code and created Boolean algebra,
+824.16	and John von Neumann took Boolean algebra and created the digital computer.
+827.16	So all these little PDAs and laptops --
+830.16	every digital circuit in the world -- started in Africa.
+833.16	And I know Brian Eno says there's not enough Africa in computers,
+838.16	but you know, I don't think there's enough African history in Brian Eno.
+843.16	(Laughter) (Applause)
+846.16	So let me end with just a few words about applications that we've found for this.
+850.16	And you can go to our website,
+852.16	the applets are all free; they just run in the browser.
+854.16	Anybody in the world can use them.
+856.16	The National Science Foundation's Broadening Participation in Computing program
+861.16	recently awarded us a grant to make a programmable version of these design tools,
+868.16	so hopefully in three years, anybody'll be able to go on the Web
+870.16	and create their own simulations and their own artifacts.
+873.16	We've focused in the U.S. on African-American students as well as Native American and Latino.
+878.16	We've found statistically significant improvement with children using this software in a mathematics class
+884.16	in comparison with a control group that did not have the software.
+887.16	So it's really very successful teaching children that they have a heritage that's about mathematics,
+893.16	that it's not just about singing and dancing.
+897.16	We've started a pilot program in Ghana.
+900.16	We got a small seed grant, just to see if folks would be willing to work with us on this;
+905.16	we're very excited about the future possibilities for that.
+908.16	We've also been working in design.
+910.16	I didn't put his name up here -- my colleague, Kerry, in Kenya, has come up with this great idea
+915.16	for using fractal structure for postal address in villages that have fractal structure,
+920.16	because if you try to impose a grid structure postal system on a fractal village,
+924.16	it doesn't quite fit.
+926.16	Bernard Tschumi at Columbia University has finished using this in a design for a museum of African art.
+931.16	David Hughes at Ohio State University has written a primer on Afrocentric architecture
+939.16	in which he's used some of these fractal structures.
+941.16	And finally, I just wanted to point out that this idea of self-organization,
+946.16	as we heard earlier, it's in the brain.
+948.16	It's in the -- it's in Google's search engine.
+953.16	Actually, the reason that Google was such a success
+955.16	is because they were the first ones to take advantage of the self-organizing properties of the web.
+959.16	It's in ecological sustainability.
+961.16	It's in the developmental power of entrepreneurship,
+963.16	the ethical power of democracy.
+966.16	It's also in some bad things.
+968.16	Self-organization is why the AIDS virus is spreading so fast.
+971.16	And if you don't think that capitalism, which is self-organizing, can have destructive effects,
+975.16	you haven't opened your eyes enough.
+977.16	So we need to think about, as was spoken earlier,
+981.16	the traditional African methods for doing self-organization.
+983.16	These are robust algorithms.
+986.16	These are ways of doing self-organization -- of doing entrepreneurship --
+989.16	that are gentle, that are egalitarian.
+991.16	So if we want to find a better way of doing that kind of work,
+995.16	we need look only no farther than Africa to find these robust self-organizing algorithms.
+1000.16	Thank you.

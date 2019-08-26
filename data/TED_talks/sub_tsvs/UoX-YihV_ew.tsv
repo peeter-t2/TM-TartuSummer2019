@@ -1,0 +1,135 @@
+startsecond	text
+15.26	So, if you're in the audience today,
+17.26	or maybe you're watching this talk in some other time or place,
+20.26	you are a participant in the digital rights ecosystem.
+23.26	Whether you're an artist, a technologist,
+25.26	a lawyer or a fan,
+27.26	the handling of copyright directly impacts your life.
+30.26	Rights management is no longer
+32.26	simply a question of ownership,
+35.26	it's a complex web of relationships
+37.26	and a critical part of our cultural landscape.
+40.26	YouTube cares deeply about the rights of content owners,
+43.26	but in order to give them choices about what they can do
+45.26	with copies, mashups and more,
+48.26	we need to first identify
+50.26	when copyrighted material is uploaded to our site.
+53.26	Let's look at a specific video so you can see how it works.
+56.26	Two years ago, recording artist Chris Brown
+58.26	"released the official video of his single ""Forever."""
+61.26	A fan saw it on TV,
+63.26	recorded it with her camera phone,
+65.26	and uploaded it to YouTube.
+68.26	Because Sony Music had registered Chris Brown's video
+71.26	in our Content ID system,
+73.26	within seconds of attempting to upload the video,
+75.26	the copy was detected,
+77.26	giving Sony the choice of what to do next.
+80.26	But how do we know that the user's video was a copy?
+83.26	Well, it starts with content owners
+85.26	delivering assets into our database,
+87.26	along with a usage policy
+89.26	that tells us what to do when we find a match.
+93.26	We compare each upload
+95.26	against all of the reference files in our database.
+98.26	This heat map is going to show you
+100.26	how the brain of the system works.
+102.26	Here we can see the original reference file
+104.26	being compared to the user generated content.
+108.26	The system compares every moment
+110.26	of one to the other to see if there's a match.
+112.26	This means that we can identify a match
+114.26	even if the copy used is just a portion of the original file,
+117.26	plays it in slow motion
+119.26	and has degraded audio and video quality.
+122.26	And we do this every time
+124.26	that a video is uploaded to YouTube.
+126.26	And that's over 20 hours of video every minute.
+129.26	When we find a match,
+131.26	we apply the policy that the rights owner has set down.
+135.26	And the scale and the speed of this system
+138.26	is truly breathtaking.
+140.26	We're not just talking about a few videos,
+143.26	we're talking about over
+148.26	between new uploads and the legacy scans
+150.26	we regularly do across all of the content on the site.
+154.26	When we compare those hundred years of video,
+156.26	we're comparing it against millions
+158.26	of reference files in our database.
+160.26	It would be like 36,000 people
+162.26	staring at 36,000 monitors
+165.26	each and every day, without so much as a coffee break.
+168.26	Now, what do we do when we find a match?
+171.26	Well, most rights owners, instead of blocking,
+174.26	will allow the copy to be published.
+176.26	And then they benefit through the exposure,
+178.26	advertising and linked sales.
+181.26	"Remember Chris Brown's video ""Forever""?"
+183.26	Well, it had its day in the sun and then it dropped off the charts,
+185.26	and that looked like the end of the story,
+188.26	but sometime last year, a young couple got married.
+190.26	This is their wedding video.
+192.26	You may have seen it.
+194.26	(Music)
+196.26	What's amazing about this is,
+198.26	if the processional of the wedding was this much fun,
+200.26	can you imagine how much fun the reception must have been?
+202.26	I mean, who are these people?
+204.26	I totally want to go to that wedding.
+207.26	So their little wedding video went on
+209.26	to get over 40 million views.
+212.26	And instead of Sony blocking,
+214.26	they allowed the upload to occur.
+216.26	And they put advertising against it
+218.26	and linked from it to iTunes.
+220.26	And the song, 18 months old,
+223.26	went back to number four on the iTunes charts.
+226.26	So Sony is generating revenue from both of these.
+229.26	And Jill and Kevin, the happy couple,
+231.26	they came back from their honeymoon
+233.26	and found that their video had gone crazy viral.
+235.26	And they've ended up on a bunch of talk shows,
+238.26	and they've used it as an opportunity to make a difference.
+240.26	The video's inspired over 26,000 dollars in donations
+243.26	to end domestic violence.
+245.26	"The ""JK Wedding [Entrance] Dance"" became so popular"
+248.26	"that NBC parodied it on the season finale of ""The Office,"""
+251.26	which just goes to show,
+253.26	it's truly an ecosystem of culture.
+256.26	Because it's not just amateurs borrowing from big studios,
+259.26	but sometimes big studios borrowing back.
+262.26	By empowering choice, we can create a culture of opportunity.
+265.26	And all it took to change things around
+267.26	was to allow for choice through rights identification.
+270.26	So why has no one ever solved this problem before?
+273.26	It's because it's a big problem,
+275.26	and it's complicated and messy.
+277.26	It's not uncommon for a single video
+279.26	to have multiple rights owners.
+281.26	There's musical labels.
+283.26	There's multiple music publishers.
+285.26	And each of these can vary by country.
+287.26	There's lots of cases
+289.26	where we have more than one work mashed together.
+291.26	So we have to manage many claims
+293.26	to the same video.
+295.26	YouTube's Content ID system addresses all of these cases.
+298.26	But the system only works through
+300.26	the participation of rights owners.
+302.26	If you have content that others are uploading to YouTube,
+305.26	you should register in the Content ID system,
+307.26	and then you'll have the choice
+309.26	about how your content is used.
+311.26	And think carefully about the policies that you attach to that content.
+314.26	By simply blocking all reuse,
+316.26	you'll miss out on new art forms,
+318.26	new audiences,
+320.26	new distribution channels
+322.26	and new revenue streams.
+324.26	But it's not just about dollars and impressions.
+327.26	Just look at all the joy
+329.26	that was spread through progressive rights management
+331.26	and new technology.
+333.26	And I think we can all agree that joy is definitely an idea worth spreading.
+336.26	Thank you.
+338.26	(Applause)

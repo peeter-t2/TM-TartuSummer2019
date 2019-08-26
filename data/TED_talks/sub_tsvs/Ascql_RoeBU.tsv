@@ -1,0 +1,300 @@
+startsecond	text
+12.16	I want you to imagine that you're a student in my lab.
+17.16	What I want you to do is to create a biologically inspired design.
+21.16	And so here's the challenge:
+23.16	I want you to help me create a fully 3D, dynamic, parameterized contact model.
+29.16	The translation of that is, could you help me build a foot?
+33.16	And it is a true challenge, and I do want you to help me.
+35.16	Of course, in the challenge there is a prize.
+37.16	It's not quite the TED Prize, but it is an exclusive t-shirt from our lab.
+44.16	So please send me your ideas about how to design a foot.
+50.16	Now if we want to design a foot, what do we have to do?
+54.16	We have to first know what a foot is.
+57.16	"If we go to the dictionary, it says, ""It's the lower extremity of a leg"
+60.16	"that is in direct contact with the ground in standing or walking"""
+62.16	That's the traditional definition.
+63.16	But if you wanted to really do research, what do you have to do?
+66.16	You have to go to the literature and look up what's known about feet.
+69.16	So you go to the literature. (Laughter)
+72.16	Maybe you're familiar with this literature.
+74.16	The problem is, there are many, many feet.
+77.16	How do you do this?
+78.16	You need to survey all feet and extract the principles of how they work.
+83.16	And I want you to help me do that in this next clip.
+85.16	As you see this clip, look for principles,
+88.16	and also think about experiments that you might design
+91.16	in order to understand how a foot works.
+104.16	See any common themes? Principles?
+106.16	What would you do?
+119.16	What experiments would you run?
+211.16	Wow. (Applause)
+217.16	Our research on the biomechanics of animal locomotion
+220.16	has allowed us to make a blueprint for a foot.
+222.16	It's a design inspired by nature, but it's not a copy of any specific foot you just looked at,
+228.16	but it's a synthesis of the secrets of many, many feet.
+232.16	Now it turns out that animals can go anywhere.
+235.16	They can locomote on substrates that vary as you saw --
+237.16	in the probability of contact, the movement of that surface
+241.16	and the type of footholds that are present.
+244.16	If you want to study how a foot works,
+246.16	we're going to have to simulate those surfaces, or simulate that debris.
+250.16	When we did that, here's a new experiment that we did:
+255.16	we put an animal and had it run -- this grass spider --
+257.16	on a surface with 99 percent of the contact area removed.
+260.16	But it didn't even slow down the animal.
+262.16	It's still running at the human equivalent of 300 miles per hour.
+265.16	Now how could it do that? Well, look more carefully.
+268.16	When we slow it down 50 times we see how the leg is hitting that simulated debris.
+274.16	The leg is acting as a foot.
+276.16	And in fact, the animal contacts other parts of its leg
+279.16	more frequently than the traditionally defined foot.
+282.16	The foot is distributed along the whole leg.
+286.16	You can do another experiment where you can take a cockroach with a foot,
+290.16	and you can remove its foot.
+292.16	I'm passing some cockroaches around. Take a look at their feet.
+296.16	Without a foot, here's what it does. It doesn't even slow down.
+300.16	It can run the same speed without even that segment.
+303.16	No problem for the cockroach -- they can grow them back, if you care.
+306.16	How do they do it?
+308.16	Look carefully: this is slowed down 100 times,
+311.16	and watch what it's doing with the rest of its leg.
+314.16	It's acting, again, as a distributed foot --
+317.16	very effective.
+319.16	Now, the question we had is, how general is a distributed foot?
+324.16	And the next behavior I'll show you of this animal just stunned us the first time that we saw it.
+333.16	Journalists, this is off the record; it's embargoed.
+338.16	Take a look at what that is!
+340.16	That's a bipedal octopus that's disguised as a rolling coconut.
+347.16	It was discovered by Christina Huffard
+351.16	and filmed by Sea Studios, right here from Monterey.
+356.16	We've also described another species of bipedal octopus.
+361.16	This one disguises itself as floating algae.
+364.16	It walks on two legs and it holds the other arms up in the air so that it can't be seen.
+369.16	(Applause)
+370.16	And look what it does with its foot to get over challenging terrain.
+378.16	It uses that beautiful distributed foot to make it as if those obstacles are not even there --
+389.16	truly extraordinary.
+393.16	In 1951, Escher made this drawing. He thought he created an animal fantasy.
+398.16	But we know that art imitates life,
+400.16	and it turns out nature, three million years ago, evolved the next animal.
+403.16	It's a shrimp-like animal called the stomatopod,
+405.16	and here's how it moves on the beaches of Panama:
+409.16	it actually rolls, and it can even roll uphill.
+413.16	It's the ultimate distributed foot: its whole body in this case is acting like its foot.
+423.16	So, if we want to then, to our blueprint, add the first important feature,
+428.16	we want to add distributed foot contact.
+430.16	Not just with the traditional foot, but also the leg,
+433.16	and even of the body.
+434.16	Can this help us inspire the design of novel robots?
+438.16	We biologically inspired this robot, named RHex,
+441.16	built by these extraordinary engineers over the last few years.
+445.16	RHex's foot started off to be quite simple,
+448.16	then it got tuned over time, and ultimately resulted in this half circle.
+453.16	Why is that? The video will show you.
+455.16	Watch where the robot, now, contacts its leg in order to deal with this very difficult terrain.
+462.16	What you'll see, in fact, is that it's using that half circle leg as a distributed foot.
+468.16	Watch it go over this.
+470.16	You can see it here well on this debris.
+473.16	Extraordinary. No sensing, all the control is built right into the tuned legs.
+479.16	Really simple, but beautiful.
+481.16	Now, you might have noticed something else about the animals
+484.16	when they were running over the rough terrain.
+486.16	And my assistant's going to help me here.
+488.16	When you touched the cockroach leg -- can you get the microphone for him?
+492.16	When you touched the cockroach leg, what did it feel like?
+495.16	Did you notice something?
+497.16	Boy: Spiny.
+498.16	Robert Full: It's spiny, right? It's really spiny, isn't it? It sort of hurts.
+502.16	Maybe we could give it to our curator and see if he'd be brave enough to touch the cockroach.
+508.16	(Laughter)
+509.16	Chris Anderson: Did you touch it?
+510.16	RF: So if you look carefully at this, what you see is that they have spines
+513.16	and until a few weeks ago, no one knew what they did.
+516.16	They assumed that they were for protection and for sensory structures.
+519.16	We found that they're for something else -- here's a segment of that spine.
+523.16	They're tuned such that they easily collapse in one direction
+526.16	to pull the leg out from debris,
+528.16	but they're stiff in the other direction so they capture disparities in the surface.
+534.16	Now crabs don't miss footholds, because they normally move on sand --
+537.16	until they come to our lab.
+539.16	And where they have a problem with this kind of mesh,
+542.16	because they don't have spines.
+545.16	The crabs are missing spines, so they have a problem in this kind of rough terrain.
+548.16	But of course, we can deal with that
+551.16	because we can produce artificial spines.
+555.16	We can make spines that catch on simulated debris
+558.16	and collapse on removal to easily pull them out.
+561.16	We did that by putting these artificial spines on crabs,
+564.16	as you see here, and then we tested them.
+566.16	Do we really understand that principle of tuning? The answer is, yes!
+570.16	This is slowed down 20-fold, and the crab just zooms across that simulated debris.
+575.16	(Laughter) (Applause)
+577.16	A little better than nature.
+580.16	So to our blueprint, we need to add tuned spines.
+583.16	Now will this help us think about the design of more effective climbing robots?
+588.16	Well, here's RHex: RHex has trouble on rails -- on smooth rails, as you see here.
+593.16	So why not add a spine? My colleagues did this at U. Penn.
+597.16	Dan Koditschek put some steel nails -- very simple version -- on the robot,
+601.16	and here's RHex, now, going over those steel -- those rails. No problem!
+607.16	How does it do it?
+608.16	Let's slow it down and you can see the spines in action.
+610.16	Watch the leg come around, and you'll see it grab on right there.
+613.16	It couldn't do that before; it would just slip and get stuck and tip over.
+616.16	And watch again, right there -- successful.
+620.16	Now just because we have a distributed foot and spines
+623.16	doesn't mean you can climb vertical surfaces.
+626.16	This is really, really difficult.
+628.16	But look at this animal do it!
+630.16	One of the ones I'm passing around is climbing up this vertical surface that's a smooth metal plate.
+636.16	It's extraordinary how fast it can do it --
+638.16	but if you slow it down, you see something that's quite extraordinary.
+642.16	It's a secret. The animal effectively climbs by slipping and look --
+646.16	and doing, actually, terribly, with respect to grabbing on the surface.
+650.16	It looks, in fact, like it's swimming up the surface.
+653.16	We can actually model that behavior better as a fluid, if you look at it.
+657.16	The distributed foot, actually, is working more like a paddle.
+661.16	The same is true when we looked at this lizard running on fluidized sand.
+665.16	Watch its feet.
+667.16	It's actually functioning as a paddle
+669.16	even though it's interacting with a surface that we normally think of as a solid.
+675.16	This is not different from what my former undergraduate discovered
+680.16	when she figured out how lizards can run on water itself.
+685.16	Can you use this to make a better robot?
+690.16	Martin Buehler did -- who's now at Boston Dynamics --
+693.16	he took this idea and made RHex to be Aqua RHex.
+698.16	So here's RHex with paddles,
+700.16	now converted into an incredibly maneuverable swimming robot.
+706.16	For rough surfaces, though, animals add claws.
+709.16	And you probably feel them if you grabbed it.
+710.16	Did you touch it?
+711.16	CA: I did.
+712.16	RF: And they do really well at grabbing onto surfaces with these claws.
+714.16	Mark Cutkosky at Stanford University, one of my collaborators, is an extraordinary engineer
+720.16	who developed this technique called Shape Deposition Manufacturing,
+723.16	where he can imbed claws right into an artificial foot.
+726.16	And here's the simple version of a foot for a new robot that I'll show you in a bit.
+731.16	So to our blueprint, let's attach claws.
+734.16	Now if we look at animals, though, to be really maneuverable in all surfaces,
+737.16	the animals use hybrid mechanisms
+739.16	that include claws, and spines, and hairs, and pads, and glue, and capillary adhesion
+743.16	and a whole bunch of other things.
+744.16	These are all from different insects.
+746.16	There's an ant crawling up a vertical surface.
+748.16	Let's look at that ant.
+750.16	This is the foot of an ant. You see the hairs and the claws and this thing here.
+755.16	This is when its foot's in the air.
+757.16	Watch what happens when the foot goes onto your sandwich.
+761.16	You see what happens?
+763.16	That pad comes out. And that's where the glue is.
+768.16	Here from underneath is an ant foot,
+771.16	and when the claws don't dig in, that pad automatically comes out without the ant doing anything.
+777.16	It just extrudes.
+778.16	And this was a hard shot to get -- I think this is the shot of the ant foot on the superstrings.
+783.16	So it's pretty tough to do.
+784.16	This is what it looks like close up --
+787.16	here's the ant foot, and there's the glue.
+789.16	And we discovered this glue may be an interesting two-phase mixture.
+793.16	It certainly helps it to hold on.
+795.16	So to our blueprint, we stick on some sticky pads.
+799.16	Now you might think for smooth surfaces we get inspiration here.
+803.16	Now we have something better here.
+806.16	The gecko's a really great example of nanotechnology in nature.
+809.16	These are its feet.
+811.16	They're -- almost look alien. And the secret, which they stick on with,
+815.16	involves their hairy toes.
+817.16	They can run up a surface at a meter per second,
+821.16	take 30 steps in that one second -- you can hardly see them.
+824.16	If we slow it down, they attach their feet at eight milliseconds,
+827.16	and detach them in 16 milliseconds.
+830.16	And when you watch how they detach it, it is bizarre.
+837.16	They peel away from the surface like you'd peel away a piece of tape.
+842.16	Very strange. How do they stick?
+845.16	If you look at their feet, they have leaf-like structures called linalae
+848.16	with millions of hairs.
+849.16	And each hair has the worst case of split ends possible.
+852.16	It has a hundred to a thousand split ends,
+855.16	and that's the secret, because it allows intimate contact.
+858.16	The gecko has a billion of these 200-nanometer-sized split ends.
+862.16	And they don't stick by glue, or they don't work like Velcro, or they don't work with suction.
+867.16	We discovered they work by intermolecular forces alone.
+871.16	So to our blueprint, we split some hairs.
+875.16	This has inspired the design of the first self-cleaning dry adhesive --
+878.16	the patent issued, we're happy to say.
+880.16	And here's the simplest version in nature,
+883.16	and here's my collaborator Ron Fearing's attempt
+886.16	at an artificial version of this dry adhesive made from polyurethane.
+891.16	And here's the first attempt to have it work on some load.
+894.16	There's enormous interest in this in a variety of different fields.
+897.16	You could think of a thousand possible uses, I'm sure.
+900.16	Lots of people have, and we're excited about realizing this as a product.
+905.16	We have imagined products; for example, this one:
+908.16	we imagined a bio-inspired Band-Aid, where we took the glue off the Band-Aid.
+913.16	We took some hairs from a molting gecko;
+915.16	put three rolls of them on here, and then made this Band-Aid.
+919.16	This is an undergraduate volunteer --
+921.16	we have 30,000 undergraduates so we can choose among them --
+924.16	that's actually just a red pen mark.
+926.16	But it makes an incredible Band-Aid.
+928.16	It's aerated, it can be peeled off easily, it doesn't cause any irritation, it works underwater.
+936.16	I think this is an extraordinary example of how curiosity-based research --
+941.16	we just wondered how they climbed up something --
+943.16	can lead to things that you could never imagine.
+946.16	It's just an example of why we need to support curiosity-based research.
+950.16	Here you are, pulling off the Band-Aid.
+953.16	So we've redefined, now, what a foot is.
+957.16	The question is, can we use these secrets, then,
+959.16	to inspire the design of a better foot, better than one that we see in nature?
+962.16	Here's the new project:
+964.16	we're trying to create the first climbing search-and-rescue robot -- no suction or magnets --
+970.16	that can only move on limited kinds of surfaces.
+973.16	"I call the new robot RiSE, for ""Robot in Scansorial Environment"" -- that's a climbing environment --"
+978.16	and we have an extraordinary team of biologists and engineers creating this robot.
+982.16	And here is RiSE.
+986.16	It's six-legged and has a tail. Here it is on a fence and a tree.
+989.16	And here are RiSE's first steps on an incline.
+993.16	You have the audio? You can hear it go up.
+996.16	And here it is coming up at you, in its first steps up a wall.
+1002.16	Now it's only using its simplest feet here, so this is very new.
+1007.16	But we think we got the dynamics right of the robot.
+1011.16	Mark Cutkosky, though, is taking it a step further.
+1013.16	He's the one able to build this shape-deposition manufactured feet and toes.
+1018.16	The next step is to make compliant toes,
+1022.16	and try to add spines and claws and set it for dry adhesives.
+1024.16	So the idea is to first get the toes and a foot right,
+1027.16	attempt to make that climb, and ultimately put it on the robot.
+1030.16	And that's exactly what he's done.
+1032.16	He's built, in fact, a climbing foot-bot inspired by nature.
+1037.16	And here's Cutkosky's and his amazing students' design.
+1041.16	So these are tuned toes -- there are six of them,
+1047.16	and they use the principles that I just talked about collectively for the blueprint.
+1056.16	So this is not using any suction, any glue,
+1058.16	and it will ultimately, when it's attached to the robot --
+1061.16	it's as biologically inspired as the animal --
+1064.16	hopefully be able to climb any kind of a surface.
+1069.16	Here you see it, next, going up the side of a building at Stanford.
+1074.16	It's sped up -- again, it's a foot climbing.
+1077.16	It's not the whole robot yet, we're working on it --
+1079.16	now you can see how it's attaching.
+1080.16	These tuned structures allow the spines, friction pads and ultimately the adhesive hairs
+1086.16	to grab onto very challenging, difficult surfaces.
+1089.16	And so they were able to get this thing -- this is now sped up 20 times --
+1093.16	can you imagine it trying to go up and rescue somebody at that upper floor? OK?
+1097.16	You can visualize this now; it's not impossible.
+1099.16	It's a very challenging task. But more to come later.
+1103.16	To finish: we've gotten design secrets from nature by looking at how feet are built.
+1107.16	We've learned we should distribute control to smart parts.
+1110.16	Don't put it all in the brain,
+1111.16	but put some of the control in tuned feet, legs and even body.
+1115.16	That nature uses hybrid solutions, not a single solution, to these problems,
+1118.16	and they're integrated and beautifully robust.
+1121.16	And third, we believe strongly that we do not want to mimic nature but instead be inspired by biology,
+1129.16	and use these novel principles with the best engineering solutions that are out there
+1133.16	to make -- potentially -- something better than nature.
+1137.16	So there's a clear message:
+1139.16	whether you care about a fundamental, basic research
+1142.16	of really interesting, bizarre, wonderful animals,
+1145.16	or you want to build a search-and-rescue robot
+1146.16	that can help you in an earthquake, or to save someone in a fire,
+1149.16	or you care about medicine, we must preserve nature's designs.
+1154.16	Otherwise these secrets will be lost forever.
+1157.16	Thank you.

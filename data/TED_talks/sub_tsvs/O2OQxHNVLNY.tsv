@@ -1,0 +1,208 @@
+startsecond	text
+15.26	Many believe driving is an activity
+18.26	solely reserved for those who can see.
+20.26	A blind person driving a vehicle safely and independently
+23.26	was thought to be an impossible task, until now.
+26.26	Hello, my name is Dennis Hong,
+28.26	and we're bringing freedom and independence to the blind
+30.26	by building a vehicle for the visually impaired.
+33.26	So before I talk about this car for the blind,
+36.26	let me briefly tell you about another project that I worked on
+38.26	called the DARPA Urban Challenge.
+40.26	Now this was about building a robotic car
+42.26	that can drive itself.
+44.26	You press start, nobody touches anything,
+46.26	and it can reach its destination fully autonomously.
+49.26	So in 2007, our team won half a million dollars
+52.26	by placing third place in this competition.
+54.26	So about that time,
+56.26	the National Federation of the Blind, or NFB,
+58.26	challenged the research committee
+60.26	about who can develop a car
+62.26	that lets a blind person drive safely and independently.
+64.26	We decided to give it a try,
+66.26	"because we thought, ""Hey, how hard could it be?"""
+68.26	We have already an autonomous vehicle.
+70.26	We just put a blind person in it and we're done, right?
+72.26	(Laughter)
+74.26	We couldn't have been more wrong.
+76.26	What NFB wanted
+78.26	was not a vehicle that can drive a blind person around,
+81.26	but a vehicle where a blind person can make active decisions and drive.
+84.26	So we had to throw everything out the window
+86.26	and start from scratch.
+88.26	So to test this crazy idea,
+90.26	we developed a small dune buggy prototype vehicle
+92.26	to test the feasibility.
+94.26	And in the summer of 2009,
+96.26	we invited dozens of blind youth from all over the country
+99.26	and gave them a chance to take it for a spin.
+101.26	It was an absolutely amazing experience.
+103.26	But the problem with this car was
+105.26	it was designed to only be driven in a very controlled environment,
+108.26	in a flat, closed-off parking lot --
+110.26	even the lanes defined by red traffic cones.
+112.26	So with this success,
+114.26	we decided to take the next big step,
+116.26	to develop a real car that can be driven on real roads.
+119.26	So how does it work?
+121.26	Well, it's a rather complex system,
+123.26	but let me try to explain it, maybe simplify it.
+126.26	So we have three steps.
+128.26	We have perception, computation
+130.26	and non-visual interfaces.
+132.26	Now obviously the driver cannot see,
+134.26	so the system needs to perceive the environment
+136.26	and gather information for the driver.
+138.26	For that, we use an initial measurement unit.
+141.26	So it measures acceleration, angular acceleration --
+143.26	like a human ear, inner ear.
+145.26	We fuse that information with a GPS unit
+147.26	to get an estimate of the location of the car.
+150.26	We also use two cameras to detect the lanes of the road.
+153.26	And we also use three laser range finders.
+155.26	The lasers scan the environment to detect obstacles --
+158.26	a car approaching from the front, the back
+160.26	and also any obstacles that run into the roads,
+163.26	any obstacles around the vehicle.
+165.26	So all this vast amount of information is then fed into the computer,
+168.26	and the computer can do two things.
+170.26	One is, first of all, process this information
+173.26	to have an understanding of the environment --
+175.26	these are the lanes of the road, there's the obstacles --
+178.26	and convey this information to the driver.
+180.26	The system is also smart enough
+182.26	to figure out the safest way to operate the car.
+184.26	So we can also generate instructions
+186.26	on how to operate the controls of the vehicle.
+188.26	But the problem is this: How do we convey
+190.26	this information and instructions
+192.26	to a person who cannot see
+194.26	fast enough and accurate enough so he can drive?
+197.26	So for this, we developed many different types
+199.26	of non-visual user interface technology.
+202.26	So starting from a three-dimensional ping sound system,
+204.26	a vibrating vest,
+206.26	a click wheel with voice commands, a leg strip,
+209.26	even a shoe that applies pressure to the foot.
+211.26	But today we're going to talk about
+213.26	three of these non-visual user interfaces.
+215.26	Now the first interface is called a DriveGrip.
+218.26	So these are a pair of gloves,
+220.26	and it has vibrating elements on the knuckle part
+222.26	so you can convey instructions about how to steer --
+225.26	the direction and the intensity.
+227.26	Another device is called SpeedStrip.
+229.26	So this is a chair -- as a matter of fact, it's actually a massage chair.
+232.26	We gut it out, and we rearrange the vibrating elements in different patterns,
+236.26	and we actuate them to convey information about the speed,
+239.26	and also instructions how to use the gas and the brake pedal.
+242.26	So over here, you can see
+244.26	how the computer understands the environment,
+246.26	and because you cannot see the vibration,
+248.26	we actually put red LED's on the driver so that you can see what's happening.
+251.26	This is the sensory data,
+253.26	and that data is transferred to the devices through the computer.
+256.26	So these two devices, DriveGrip and SpeedStrip,
+258.26	are very effective.
+260.26	But the problem is
+262.26	these are instructional cue devices.
+264.26	So this is not really freedom, right?
+266.26	The computer tells you how to drive --
+268.26	turn left, turn right, speed up, stop.
+270.26	"We call this the ""backseat-driver problem."""
+272.26	So we're moving away from the instructional cue devices,
+275.26	and we're now focusing more
+277.26	on the informational devices.
+279.26	A good example for this informational non-visual user interface
+281.26	is called AirPix.
+283.26	So think of it as a monitor for the blind.
+285.26	So it's a small tablet, has many holes in it,
+287.26	and compressed air comes out,
+289.26	so it can actually draw images.
+291.26	So even though you are blind, you can put your hand over it,
+293.26	you can see the lanes of the road and obstacles.
+295.26	Actually, you can also change the frequency of the air coming out
+298.26	and possibly the temperature.
+300.26	So it's actually a multi-dimensional user interface.
+303.26	So here you can see the left camera, the right camera from the vehicle
+306.26	and how the computer interprets that and sends that information to the AirPix.
+309.26	For this, we're showing a simulator,
+311.26	a blind person driving using the AirPix.
+314.26	This simulator was also very useful for training the blind drivers
+317.26	and also quickly testing different types of ideas
+319.26	for different types of non-visual user interfaces.
+321.26	So basically that's how it works.
+323.26	So just a month ago,
+325.26	on January 29th,
+327.26	we unveiled this vehicle for the very first time to the public
+329.26	at the world-famous Daytona International Speedway
+332.26	during the Rolex 24 racing event.
+334.26	We also had some surprises. Let's take a look.
+337.26	(Music)
+347.26	(Video) Announcer: This is an historic day in January.
+351.26	He's coming up to the grandstand, fellow Federationists.
+355.26	(Cheering)
+361.26	(Honking)
+364.26	There's the grandstand now.
+366.26	And he's [unclear] following that van that's out in front of him.
+370.26	Well there comes the first box.
+372.26	Now let's see if Mark avoids it.
+375.26	He does. He passes it on the right.
+380.26	Third box is out. The fourth box is out.
+383.26	And he's perfectly making his way between the two.
+386.26	He's closing in on the van
+388.26	to make the moving pass.
+392.26	Well this is what it's all about,
+394.26	this kind of dynamic display of audacity and ingenuity.
+399.26	He's approaching the end of the run,
+402.26	makes his way between the barrels that are set up there.
+407.26	(Honking)
+410.26	(Applause)
+416.26	Dennis Hong: I'm so happy for you.
+418.26	Mark's going to give me a ride back to the hotel.
+420.26	Mark Riccobono: Yes.
+425.26	(Applause)
+434.26	DH: So since we started this project,
+436.26	we've been getting hundreds of letters, emails, phone calls
+439.26	from people from all around the world.
+441.26	Letters thanking us, but sometimes you also get funny letters like this one:
+444.26	"""Now I understand why there is Braille on a drive-up ATM machine."""
+448.26	(Laughter)
+450.26	But sometimes --
+452.26	(Laughter)
+454.26	But sometimes I also do get --
+456.26	I wouldn't call it hate mail --
+458.26	but letters of really strong concern:
+460.26	"""Dr. Hong, are you insane,"
+462.26	trying to put blind people on the road?
+464.26	"You must be out of your mind."""
+466.26	But this vehicle is a prototype vehicle,
+468.26	and it's not going to be on the road
+470.26	until it's proven as safe as, or safer than, today's vehicle.
+472.26	And I truly believe that this can happen.
+475.26	But still, will the society,
+477.26	would they accept such a radical idea?
+479.26	How are we going to handle insurance?
+481.26	How are we going to issue driver's licenses?
+483.26	There's many of these different kinds of hurdles besides technology challenges
+486.26	that we need to address before this becomes a reality.
+489.26	Of course, the main goal of this project
+491.26	is to develop a car for the blind.
+493.26	But potentially more important than this
+495.26	is the tremendous value of the spin-off technology
+498.26	that can come from this project.
+500.26	The sensors that are used can see through the dark,
+502.26	the fog and rain.
+504.26	And together with this new type of interfaces,
+506.26	we can use these technologies
+508.26	and apply them to safer cars for sighted people.
+510.26	Or for the blind, everyday home appliances --
+513.26	in the educational setting, in the office setting.
+515.26	Just imagine, in a classroom a teacher writes on the blackboard
+518.26	and a blind student can see what's written and read
+521.26	using these non-visual interfaces.
+523.26	This is priceless.
+526.26	So today, the things I've showed you today, is just the beginning.
+529.26	Thank you very much.
+531.26	(Applause)

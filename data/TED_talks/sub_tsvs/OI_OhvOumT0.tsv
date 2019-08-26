@@ -1,0 +1,400 @@
+startsecond	text
+12.844	So this is a talk about gene drives,
+15.33	but I'm going to start
+15.33	by telling you a brief story.
+	named Anthony James
+21.868	got obsessed with the idea
+21.868	of making mosquitos
+24.211	that didn't transmit malaria.
+27.683	It was a great idea,
+27.683	and pretty much a complete failure.
+32.596	For one thing, it turned out
+32.596	to be really hard
+35.28	to make a malaria-resistant mosquito.
+38.286	James managed it, finally,
+38.286	just a few years ago,
+41.937	by adding some genes
+41.937	that make it impossible
+44.032	for the malaria parasite
+44.032	to survive inside the mosquito.
+47.551	But that just created another problem.
+50.043	Now that you've got
+50.043	a malaria-resistant mosquito,
+52.909	how do you get it to replace
+52.909	all the malaria-carrying mosquitos?
+58.107	There are a couple options,
+59.604	but plan A was basically to breed up
+61.651	a bunch of the new
+61.651	genetically-engineered mosquitos
+64.762	release them into the wild
+66.112	and hope that they pass on their genes.
+68.673	The problem was that you'd have to release
+70.811	literally 10 times the number
+70.811	of native mosquitos to work.
+75.135	So in a village with 10,000 mosquitos,
+77.246	you release an extra 100,000.
+80.229	As you might guess,
+81.403	this was not a very popular strategy
+81.403	with the villagers.
+84.181	(Laughter)
+86.963	Then, last January,
+86.963	Anthony James got an email
+90.691	from a biologist named Ethan Bier.
+93.4	Bier said that he
+93.4	and his grad student Valentino Gantz
+96.283	had stumbled on a tool
+96.283	that could not only guarantee
+99.251	that a particular genetic trait
+99.251	would be inherited,
+101.949	but that it would spread
+101.949	incredibly quickly.
+104.734	If they were right,
+104.734	it would basically solve the problem
+107.424	that he and James had been
+107.424	working on for 20 years.
+110.45	As a test, they engineered two mosquitos
+110.45	to carry the anti-malaria gene
+115.132	and also this new tool, a gene drive,
+117.315	which I'll explain in a minute.
+119.506	Finally, they set it up
+119.506	so that any mosquitos
+121.863	that had inherited the anti-malaria gene
+123.825	wouldn't have the usual white eyes,
+123.825	but would instead have red eyes.
+128.682	That was pretty much just for convenience
+130.756	so they could tell just at a glance
+130.756	which was which.
+134.192	So they took their two
+134.192	anti-malarial, red-eyed mosquitos
+136.973	and put them in a box
+136.973	with 30 ordinary white-eyed ones,
+139.656	and let them breed.
+141.383	In two generations, those had produced
+141.383	3,800 grandchildren.
+146.217	That is not the surprising part.
+148.716	This is the surprising part:
+150.662	given that you started
+150.662	with just two red-eyed mosquitos
+153.593	and 30 white-eyed ones,
+154.951	you expect mostly white-eyed descendants.
+158.514	Instead, when James opened the box,
+161.562	all 3,800 mosquitos had red eyes.
+165.315	When I asked Ethan Bier about this moment,
+167.379	he became so excited that he was literally
+167.379	shouting into the phone.
+171.886	That's because getting
+171.886	only red-eyed mosquitos
+174.073	violates a rule that is the absolute
+174.073	cornerstone of biology,
+177.045	Mendelian genetics.
+178.912	I'll keep this quick,
+180.105	but Mendelian genetics
+180.105	says when a male and a female mate,
+182.893	their baby inherits half
+182.893	of its DNA from each parent.
+185.559	So if our original mosquito was aa
+185.559	and our new mosquito is aB,
+189.178	where B is the anti-malarial gene,
+191.004	the babies should come out
+191.004	in four permutations:
+193.415	aa, aB, aa, Ba.
+196.884	Instead, with the new gene drive,
+199.197	they all came out aB.
+201.9	Biologically, that shouldn't
+201.9	even be possible.
+204.476	So what happened?
+206.709	The first thing that happened
+208.177	was the arrival of a gene-editing tool
+208.177	known as CRISPR in 2012.
+212.701	Many of you have probably
+212.701	heard about CRISPR,
+214.835	so I'll just say briefly that CRISPR
+214.835	is a tool that allows researchers
+218.16	to edit genes very precisely,
+218.16	easily and quickly.
+221.533	It does this by harnessing a mechanism
+221.533	that already existed in bacteria.
+225.286	Basically, there's a protein
+225.286	that acts like a scissors
+227.936	and cuts the DNA,
+229.194	and there's an RNA molecule
+229.194	that directs the scissors
+231.701	to any point on the genome you want.
+233.443	The result is basically
+233.443	a word processor for genes.
+236.157	You can take an entire gene
+236.157	out, put one in,
+238.807	or even edit just a single
+238.807	letter within a gene.
+241.646	And you can do it in nearly any species.
+245.328	OK, remember how I said that gene drives
+245.328	originally had two problems?
+249.835	The first was that it was hard
+249.835	to engineer a mosquito
+252.979	to be malaria-resistant.
+254.39	That's basically gone now,
+254.39	thanks to CRISPR.
+257.117	But the other problem was logistical.
+259.307	How do you get your trait to spread?
+262.196	This is where it gets clever.
+264.943	A couple years ago, a biologist
+264.943	at Harvard named Kevin Esvelt
+268.569	wondered what would happen
+269.943	if you made it so that
+269.943	CRISPR inserted not only your new gene
+273.594	but also the machinery
+273.594	that does the cutting and pasting.
+277.233	In other words, what if CRISPR
+277.233	also copied and pasted itself.
+282.145	You'd end up with a perpetual
+282.145	motion machine for gene editing.
+286.458	And that's exactly what happened.
+289.037	This CRISPR gene drive that Esvelt created
+291.939	not only guarantees
+291.939	that a trait will get passed on,
+295.606	but if it's used in the germline cells,
+298.068	it will automatically copy and paste
+298.068	your new gene
+300.668	into both chromosomes
+300.668	of every single individual.
+303.743	It's like a global search and replace,
+306.164	or in science terms, it makes
+306.164	a heterozygous trait homozygous.
+311.045	So, what does this mean?
+313.68	For one thing, it means we have
+313.68	a very powerful,
+316.428	but also somewhat alarming new tool.
+320.576	Up until now, the fact that gene drives
+320.576	didn't work very well
+323.489	was actually kind of a relief.
+325.425	Normally when we mess around
+325.425	with an organism's genes,
+328.131	we make that thing
+328.131	less evolutionarily fit.
+330.504	So biologists can make
+330.504	all the mutant fruit flies they want
+333.361	without worrying about it.
+334.638	If some escape, natural selection
+334.638	just takes care of them.
+338.75	What's remarkable and powerful
+338.75	and frightening about gene drives
+341.997	is that that will no longer be true.
+345.092	Assuming that your trait does not have
+345.092	a big evolutionary handicap,
+348.68	like a mosquito that can't fly,
+350.783	the CRISPR-based gene drive
+350.783	will spread the change relentlessly
+354.26	until it is in every single individual
+354.26	in the population.
+359.101	Now, it isn't easy to make
+359.101	a gene drive that works that well,
+362.014	but James and Esvelt think that we can.
+365.339	The good news is that this opens
+365.339	the door to some remarkable things.
+369.187	If you put an anti-malarial gene drive
+371.115	in just 1 percent of Anopheles mosquitoes,
+373.339	the species that transmits malaria,
+375.488	researchers estimate that it would spread
+375.488	to the entire population in a year.
+380.178	So in a year, you could virtually
+380.178	eliminate malaria.
+383.455	In practice, we're still a few years out
+383.455	from being able to do that,
+387.351	but still, a 1,000 children
+387.351	a day die of malaria.
+390.093	In a year, that number
+390.093	could be almost zero.
+392.966	The same goes for dengue fever,
+392.966	chikungunya, yellow fever.
+397.211	And it gets better.
+399.215	Say you want to get rid
+399.215	of an invasive species,
+401.715	like get Asian carp
+401.715	out of the Great Lakes.
+404.434	All you have to do is release a gene drive
+406.482	that makes the fish produce
+406.482	only male offspring.
+409.386	In a few generations,
+409.386	there'll be no females left, no more carp.
+413.608	In theory, this means we could restore
+413.608	hundreds of native species
+416.711	that have been pushed to the brink.
+419.41	OK, that's the good news,
+422.721	this is the bad news.
+425.07	Gene drives are so effective
+427.122	that even an accidental release
+427.122	could change an entire species,
+430.971	and often very quickly.
+433.178	Anthony James took good precautions.
+435.328	He bred his mosquitos
+435.328	in a bio-containment lab
+437.518	and he also used a species
+437.518	that's not native to the US
+440.13	so that even if some did escape,
+441.709	they'd just die off, there'd be nothing
+441.709	for them to mate with.
+444.748	But it's also true that if a dozen
+444.748	Asian carp with the all-male gene drive
+448.795	accidentally got carried
+448.795	from the Great Lakes back to Asia,
+452.748	they could potentially wipe out
+452.748	the native Asian carp population.
+457.93	And that's not so unlikely,
+457.93	given how connected our world is.
+460.866	In fact, it's why we have
+460.866	an invasive species problem.
+463.912	And that's fish.
+465.428	Things like mosquitos and fruit flies,
+468.04	there's literally no way to contain them.
+470.024	They cross borders
+470.024	and oceans all the time.
+473.754	OK, the other piece of bad news
+475.96	is that a gene drive
+475.96	might not stay confined
+478.302	to what we call the target species.
+480.556	That's because of gene flow,
+482.079	which is a fancy way of saying
+482.079	that neighboring species
+484.7	sometimes interbreed.
+485.972	If that happens, it's possible
+485.972	a gene drive could cross over,
+489.147	like Asian carp could infect
+489.147	some other kind of carp.
+491.698	That's not so bad if your drive
+491.698	just promotes a trait, like eye color.
+495.437	In fact, there's a decent
+495.437	chance that we'll see
+497.708	a wave of very weird fruit flies
+497.708	in the near future.
+501.39	But it could be a disaster
+502.677	if your drive is deigned
+502.677	to eliminate the species entirely.
+506.351	The last worrisome thing
+506.351	is that the technology to do this,
+509.903	to genetically engineer an organism
+509.903	and include a gene drive,
+513.618	is something that basically any lab
+513.618	in the world can do.
+516.976	An undergraduate can do it.
+519.209	A talented high schooler
+519.209	with some equipment can do it.
+524.526	Now, I'm guessing
+524.526	that this sounds terrifying.
+527.351	(Laughter)
+529.581	Interestingly though,
+529.581	nearly every scientist I talk to
+532.495	seemed to think that gene drives were not
+532.495	actually that frightening or dangerous.
+536.4	Partly because they believe
+536.4	that scientists will be
+539.052	very cautious and responsible
+539.052	about using them.
+541.28	(Laughter)
+542.318	So far, that's been true.
+544.302	But gene drives also have
+544.302	some actual limitations.
+547.022	So for one thing, they work
+547.022	only in sexually reproducing species.
+550.704	So thank goodness, they can't be used
+550.704	to engineer viruses or bacteria.
+554.156	Also, the trait spreads
+554.156	only with each successive generation.
+557.37	So changing or eliminating a population
+559.387	is practical only if that species
+559.387	has a fast reproductive cycle,
+562.737	like insects or maybe
+562.737	small vertebrates like mice or fish.
+566.438	In elephants or people,
+566.438	it would take centuries
+568.723	for a trait to spread
+568.723	widely enough to matter.
+572.079	Also, even with CRISPR, it's not that easy
+572.079	to engineer a truly devastating trait.
+578.079	Say you wanted to make a fruit fly
+579.832	that feeds on ordinary fruit
+579.832	instead of rotting fruit,
+582.411	with the aim of sabotaging
+582.411	American agriculture.
+585.068	First, you'd have to figure out
+586.622	which genes control
+586.622	what the fly wants to eat,
+589.418	which is already a very long
+589.418	and complicated project.
+592.489	Then you'd have to alter those genes
+592.489	to change the fly's behavior
+595.817	to whatever you'd want it to be,
+597.379	which is an even longer
+597.379	and more complicated project.
+600.204	And it might not even work,
+601.546	because the genes
+601.546	that control behavior are complex.
+604.064	So if you're a terrorist
+604.064	and have to choose
+606.096	between starting a grueling
+606.096	basic research program
+608.478	that will require years of meticulous
+608.478	lab work and still might not pan out,
+612.029	or just blowing stuff up?
+613.4	You'll probably choose the later.
+615.498	This is especially true
+615.498	because at least in theory,
+617.942	it should be pretty easy
+617.942	to build what's called a reversal drive.
+621.1	That's one that basically overwrites
+621.1	the change made by the first gene drive.
+624.822	So if you don't like
+624.822	the effects of a change,
+627.14	you can just release a second drive
+627.14	that will cancel it out,
+629.997	at least in theory.
+633.374	OK, so where does this leave us?
+636.604	We now have the ability
+636.604	to change entire species at will.
+641.017	Should we?
+642.552	Are we gods now?
+645.972	I'm not sure I'd say that.
+648.094	But I would say this:
+650.329	first, some very smart people
+652.211	are even now debating
+652.211	how to regulate gene drives.
+655.598	At the same time,
+655.598	some other very smart people
+658.186	are working hard to create safeguards,
+660.321	like gene drives that self-regulate
+660.321	or peter out after a few generations.
+664.644	That's great.
+666.313	But this technology still requires
+666.313	a conversation.
+670.059	And given the nature of gene drives,
+671.813	that conversation has to be global.
+674.131	What if Kenya wants to use a drive
+674.131	but Tanzania doesn't?
+677.241	Who decides whether to release
+677.241	a gene drive that can fly?
+682.874	I don't have the answer to that question.
+685.618	All we can do going forward, I think,
+687.65	is talk honestly
+687.65	about the risks and benefits
+690.508	and take responsibility for our choices.
+693.817	By that I mean, not just the choice
+693.817	to use a gene drive,
+697.754	but also the choice not to use one.
+701.111	Humans have a tendency to assume
+701.111	that the safest option
+704.112	is to preserve the status quo.
+706.905	But that's not always the case.
+709.711	Gene drives have risks,
+709.711	and those need to be discussed,
+713.136	but malaria exists now
+713.136	and kills 1,000 people a day.
+716.977	To combat it, we spray pesticides
+716.977	that do grave damage to other species,
+720.565	including amphibians and birds.
+723.668	So when you hear about gene drives
+723.668	in the coming months,
+726.556	and trust me, you will
+726.556	be hearing about them,
+728.834	remember that.
+730.402	It can be frightening to act,
+732.446	but sometimes, not acting is worse.
+736.746	(Applause)

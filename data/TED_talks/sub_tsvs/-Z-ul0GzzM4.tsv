@@ -1,0 +1,413 @@
+startsecond	text
+12.721	I work with children with autism.
+15.391	Specifically, I make technologies
+17.305	to help them communicate.
+19.476	Now, many of the problems that children
+21.015	with autism face, they have a common source,
+24.778	and that source is that they find it difficult
+26.872	to understand abstraction, symbolism.
+32.132	And because of this, they have 
+32.132	a lot of difficulty with language.
+36.784	Let me tell you a little bit about why this is.
+39.799	You see that this is a picture of a bowl of soup.
+43.733	All of us can see it. All of us understand this.
+46.218	These are two other pictures of soup,
+48.53	but you can see that these are more abstract
+50.597	These are not quite as concrete.
+52.453	And when you get to language,
+54.627	you see that it becomes a word
+56.495	whose look, the way it looks and the way it sounds,
+59.756	has absolutely nothing to do 
+59.756	with what it started with,
+62.668	or what it represents, which is the bowl of soup.
+65.498	So it's essentially a completely abstract,
+68.398	a completely arbitrary representation of something
+70.974	which is in the real world,
+72.137	and this is something that children with autism
+73.928	have an incredible amount of difficulty with.
+77.092	Now that's why most of the people 
+77.092	that work with children with autism --
+79.843	speech therapists, educators --
+81.721	what they do is, they try to help children with autism
+84.354	communicate not with words, but with pictures.
+87.583	So if a child with autism wanted to say,
+89.513	"""I want soup,"" that child would pick"
+91.971	"three different pictures, ""I,"" ""want,"" and ""soup,"""
+94.231	and they would put these together,
+95.84	and then the therapist or the parent would
+97.707	understand that this is what the kid wants to say.
+99.594	And this has been incredibly effective;
+101.372	for the last 30, 40 years
+103.513	people have been doing this.
+105.126	In fact, a few years back,
+106.475	I developed an app for the iPad
+109.15	which does exactly this. It's called Avaz,
+111.405	and the way it works is that kids select
+113.684	different pictures.
+115.005	These pictures are sequenced
+115.005	together to form sentences,
+117.575	and these sentences are spoken out.
+119.294	So Avaz is essentially converting pictures,
+122.319	it's a translator, it converts pictures into speech.
+126.279	Now, this was very effective.
+127.997	There are thousands of children using this,
+129.381	you know, all over the world,
+130.811	and I started thinking about
+132.986	what it does and what it doesn't do.
+135.64	And I realized something interesting:
+137.324	Avaz helps children with autism learn words.
+141.527	What it doesn't help them do is to learn
+143.932	word patterns.
+146.68	Let me explain this in a little more detail.
+149.152	"Take this sentence: ""I want soup tonight."""
+152.209	Now it's not just the words
+152.209	here that convey the meaning.
+156.289	It's also the way in which these words are arranged,
+159.429	the way these words are modified and arranged.
+161.959	"And that's why a sentence like ""I want soup tonight"""
+164.265	is different from a sentence like
+166.249	"""Soup want I tonight,"" which "
+166.249	is completely meaningless.
+169.561	So there is another hidden abstraction here
+172.18	which children with autism find
+172.18	a lot of difficulty coping with,
+175.737	and that's the fact that you can modify words
+178.577	and you can arrange them to have
+180.678	different meanings, to convey different ideas.
+183.573	Now, this is what we call grammar.
+187.032	And grammar is incredibly powerful,
+189.068	because grammar is this one component of language
+192.225	which takes this finite vocabulary that all of us have
+195.714	and allows us to convey an
+195.714	infinite amount of information,
+200.245	an infinite amount of ideas.
+202.379	It's the way in which you can put things together
+204.381	in order to convey anything you want to.
+206.549	And so after I developed Avaz,
+208.676	I worried for a very long time
+210.244	about how I could give grammar 
+210.244	to children with autism.
+214.154	The solution came to me from
+214.154	a very interesting perspective.
+216.429	I happened to chance upon a child with autism
+219.878	conversing with her mom,
+221.987	and this is what happened.
+224.081	Completely out of the blue, very spontaneously,
+226.267	"the child got up and said, ""Eat."""
+228.73	Now what was interesting was
+230.5	the way in which the mom was trying to tease out
+234.744	the meaning of what the child wanted to say
+236.957	by talking to her in questions.
+239.217	"So she asked, ""Eat what? Do "
+239.217	you want to eat ice cream?
+241.81	You want to eat? Somebody else wants to eat?
+243.922	You want to eat cream now? You
+243.922	"want to eat ice cream in the evening?"""
+247.235	And then it struck me that
+248.749	what the mother had done was something incredible.
+250.777	She had been able to get that child to communicate
+252.771	an idea to her without grammar.
+256.909	And it struck me that maybe this is what
+259.605	I was looking for.
+260.99	Instead of arranging words in an order, in sequence,
+265.132	as a sentence, you arrange them
+267.304	in this map, where they're all linked together
+271.115	not by placing them one after the other
+273.258	but in questions, in question-answer pairs.
+276.542	And so if you do this, then what you're conveying
+278.9	is not a sentence in English,
+280.886	but what you're conveying is really a meaning,
+283.852	the meaning of a sentence in English.
+285.363	Now, meaning is really the underbelly,
+285.363	in some sense, of language.
+288.295	It's what comes after thought but before language.
+292.116	And the idea was that this particular representation
+294.619	might convey meaning in its raw form.
+297.88	So I was very excited by this, you know,
+299.651	hopping around all over the place,
+301.144	trying to figure out if I can convert
+302.915	all possible sentences that I hear into this.
+305.439	And I found that this is not enough.
+307.212	Why is this not enough?
+308.597	This is not enough because if you wanted to convey
+310.308	something like negation,
+312.558	"you want to say, ""I don't want soup,"""
+314.294	then you can't do that by asking a question.
+316.514	"You do that by changing the word ""want."""
+318.799	Again, if you wanted to say,
+320.436	"""I wanted soup yesterday,"""
+322.416	you do that by converting
+322.416	"the word ""want"" into ""wanted."""
+325.153	It's a past tense.
+326.819	So this is a flourish which I added
+328.922	to make the system complete.
+330.498	This is a map of words joined together
+332.475	as questions and answers,
+334.131	and with these filters applied on top of them
+336.395	in order to modify them to represent
+338.212	certain nuances.
+339.921	Let me show you this with a different example.
+341.872	Let's take this sentence:
+343.126	"""I told the carpenter I could not pay him."""
+345.106	It's a fairly complicated sentence.
+346.898	The way that this particular system works,
+348.791	you can start with any part of this sentence.
+351.369	"I'm going to start with the word ""tell."""
+353.067	"So this is the word ""tell."""
+354.529	Now this happened in the past,
+356.129	"so I'm going to make that ""told."""
+358.352	Now, what I'm going to do is,
+360.06	I'm going to ask questions.
+361.816	So, who told? I told.
+364.18	I told whom? I told the carpenter.
+366.107	Now we start with a different part of the sentence.
+367.858	"We start with the word ""pay,"""
+369.725	"and we add the ability filter to it to make it ""can pay."""
+374.302	"Then we make it ""can't pay,"""
+376.403	"and we can make it ""couldn't pay"""
+378.002	by making it the past tense.
+379.665	So who couldn't pay? I couldn't pay.
+381.588	Couldn't pay whom? I couldn't pay the carpenter.
+384.264	And then you join these two together
+385.995	by asking this question:
+387.345	What did I tell the carpenter?
+389.082	I told the carpenter I could not pay him.
+393.131	Now think about this. This is
+395.068	—(Applause)—
+398.61	this is a representation of this sentence
+402.282	without language.
+404.717	And there are two or three
+404.717	interesting things about this.
+406.909	First of all, I could have started anywhere.
+410.04	"I didn't have to start with the word ""tell."""
+412.283	I could have started anywhere in the sentence,
+413.699	and I could have made this entire thing.
+415.206	The second thing is, if I wasn't an English speaker,
+417.982	if I was speaking in some other language,
+420.157	this map would actually hold true in any language.
+423.313	So long as the questions are standardized,
+425.303	the map is actually independent of language.
+429.59	So I call this FreeSpeech,
+431.705	and I was playing with this for many, many months.
+434.64	I was trying out so many
+434.64	different combinations of this.
+437.366	And then I noticed something very
+437.366	interesting about FreeSpeech.
+439.655	I was trying to convert language,
+442.898	convert sentences in English
+442.898	into sentences in FreeSpeech,
+445.282	and vice versa, and back and forth.
+447.034	And I realized that this particular configuration,
+449.289	this particular way of representing language,
+451.315	it allowed me to actually create very concise rules
+455.71	that go between FreeSpeech on one side
+458.444	and English on the other.
+459.932	So I could actually write this set of rules
+462.112	that translates from this particular
+462.112	representation into English.
+465.507	And so I developed this thing.
+467.338	I developed this thing called 
+467.338	the FreeSpeech Engine
+469.57	which takes any FreeSpeech sentence as the input
+472.131	and gives out perfectly grammatical English text.
+476.061	And by putting these two pieces together,
+477.666	the representation and the engine,
+479.547	I was able to create an app, a
+479.547	technology for children with autism,
+483.343	that not only gives them words
+485.842	but also gives them grammar.
+489.783	So I tried this out with kids with autism,
+492.143	and I found that there was an 
+492.143	incredible amount of identification.
+497.156	They were able to create sentences in FreeSpeech
+499.876	which were much more complicated
+499.876	but much more effective
+502.434	than equivalent sentences in English,
+505.333	and I started thinking about
+507.015	why that might be the case.
+508.984	And I had an idea, and I want to 
+508.984	talk to you about this idea next.
+513.271	In about 1997, about 15 years back,
+516.413	there were a group of scientists that were trying
+518.424	to understand how the brain processes language,
+520.813	and they found something very interesting.
+522.592	They found that when you learn a language
+524.464	as a child, as a two-year-old,
+527.376	you learn it with a certain part of your brain,
+529.742	and when you learn a language as an adult --
+531.342	for example, if I wanted to
+531.342	learn Japanese right now —
+535.253	a completely different part of my brain is used.
+537.96	Now I don't know why that's the case,
+539.791	but my guess is that that's because
+541.782	when you learn a language as an adult,
+544.219	you almost invariably learn it
+545.835	through your native language, or
+545.835	through your first language.
+550.101	So what's interesting about FreeSpeech
+553.353	is that when you create a sentence
+555.155	or when you create language,
+556.85	a child with autism creates
+556.85	language with FreeSpeech,
+559.92	they're not using this support language,
+561.753	they're not using this bridge language.
+563.964	They're directly constructing the sentence.
+566.621	And so this gave me this idea.
+568.814	Is it possible to use FreeSpeech
+570.838	not for children with autism
+573.348	but to teach language to people without disabilities?
+579.61	And so I tried a number of experiments.
+581.588	The first thing I did was I built a jigsaw puzzle
+584.536	in which these questions and answers
+586.506	are coded in the form of shapes,
+588.341	in the form of colors,
+589.479	and you have people putting these together
+591.328	and trying to understand how this works.
+593.101	And I built an app out of it, a game out of it,
+595.477	in which children can play with words
+598.138	and with a reinforcement,
+599.842	a sound reinforcement of visual structures,
+602.427	they're able to learn language.
+604.44	And this, this has a lot of potential, a lot of promise,
+607.176	and the government of India recently
+609.151	licensed this technology from us,
+610.555	and they're going to try it out
+610.555	with millions of different children
+612.629	trying to teach them English.
+615.234	And the dream, the hope, the vision, really,
+617.848	is that when they learn English this way,
+620.93	they learn it with the same proficiency
+623.573	as their mother tongue.
+627.291	All right, let's talk about something else.
+631.107	Let's talk about speech.
+633.104	This is speech.
+634.375	So speech is the primary mode of communication
+636.337	delivered between all of us.
+637.95	Now what's interesting about speech is that
+639.805	speech is one-dimensional.
+641.05	Why is it one-dimensional?
+642.409	It's one-dimensional because it's sound.
+643.977	It's also one-dimensional because
+645.516	our mouths are built that way.
+646.721	Our mouths are built to create
+646.721	one-dimensional sound.
+650.233	But if you think about the brain,
+653.099	the thoughts that we have in our heads
+654.863	are not one-dimensional.
+656.965	I mean, we have these rich,
+658.424	complicated, multi-dimensional ideas.
+661.452	Now, it seems to me that language
+663.142	is really the brain's invention
+665.474	to convert this rich, multi-dimensional thought
+668.57	on one hand
+670.157	into speech on the other hand.
+672.08	Now what's interesting is that
+673.842	we do a lot of work in information nowadays,
+676.41	and almost all of that is done
+676.41	in the language domain.
+679.489	Take Google, for example.
+681.428	Google trawls all these
+681.428	countless billions of websites,
+684.105	all of which are in English,
+684.105	and when you want to use Google,
+686.83	you go into Google search, and you type in English,
+689.28	and it matches the English with the English.
+693.443	What if we could do this in FreeSpeech instead?
+697.026	I have a suspicion that if we did this,
+699.327	we'd find that algorithms like searching,
+701.395	like retrieval, all of these things,
+703.72	are much simpler and also more effective,
+706.795	because they don't process
+706.795	the data structure of speech.
+711.212	Instead they're processing
+711.212	the data structure of thought.
+717.188	The data structure of thought.
+719.996	That's a provocative idea.
+722.072	But let's look at this in a little more detail.
+724.214	So this is the FreeSpeech ecosystem.
+726.58	We have the Free Speech
+726.58	representation on one side,
+729.464	and we have the FreeSpeech 
+729.464	Engine, which generates English.
+731.694	Now if you think about it,
+733.419	FreeSpeech, I told you, is completely 
+733.419	language-independent.
+735.963	It doesn't have any specific information in it
+738.05	which is about English.
+739.278	So everything that this system knows about English
+742.078	is actually encoded into the engine.
+746.698	That's a pretty interesting concept in itself.
+748.935	You've encoded an entire human language
+752.539	into a software program.
+755.184	But if you look at what's inside the engine,
+757.715	it's actually not very complicated.
+760.073	It's not very complicated code.
+762.178	And what's more interesting is the fact that
+764.85	the vast majority of the code in that engine
+767.053	is not really English-specific.
+769.465	And that gives this interesting idea.
+771.36	It might be very easy for us to actually
+773.398	create these engines in many,
+773.398	many different languages,
+777.224	in Hindi, in French, in German, in Swahili.
+783.578	And that gives another interesting idea.
+786.377	For example, supposing I was a writer,
+789.031	say, for a newspaper or for a magazine.
+791.153	I could create content in one language, FreeSpeech,
+796.164	and the person who's consuming that content,
+798.22	the person who's reading that particular information
+801.281	could choose any engine,
+803.776	and they could read it in their own mother tongue,
+806.512	in their native language.
+810.451	I mean, this is an incredibly attractive idea,
+813.173	especially for India.
+815.172	We have so many different languages.
+816.862	There's a song about India, and there's a description
+819.004	of the country as, it says,
+821.348	(in Sanskrit).
+823.708	"That means ""ever-smiling speaker"
+826.481	"of beautiful languages."""
+831	Language is beautiful.
+832.964	I think it's the most beautiful of human creations.
+835.418	I think it's the loveliest thing
+835.418	that our brains have invented.
+839.396	It entertains, it educates, it enlightens,
+842.98	but what I like the most about language
+845.024	is that it empowers.
+846.524	I want to leave you with this.
+848.362	This is a photograph of my collaborators,
+850.747	my earliest collaborators
+851.744	when I started working on language
+853.206	and autism and various other things.
+854.708	The girl's name is Pavna,
+856.125	and that's her mother, Kalpana.
+858.027	And Pavna's an entrepreneur,
+860.165	but her story is much more remarkable than mine,
+862.536	because Pavna is about 23.
+864.936	She has quadriplegic cerebral palsy,
+867.488	so ever since she was born,
+869.128	she could neither move nor talk.
+872.728	And everything that she's accomplished so far,
+875.131	finishing school, going to college,
+877.358	starting a company,
+878.774	collaborating with me to develop Avaz,
+880.914	all of these things she's done
+882.806	with nothing more than moving her eyes.
+888.329	Daniel Webster said this:
+891.018	"He said, ""If all of my possessions were taken"
+893.958	from me with one exception,
+896.946	I would choose to keep the power of communication,
+899.927	"for with it, I would regain all the rest."""
+903.83	And that's why, of all of these incredible 
+903.83	applications of FreeSpeech,
+908.946	the one that's closest to my heart
+911.026	still remains the ability for this
+913.094	to empower children with disabilities
+915.474	to be able to communicate,
+917.247	the power of communication,
+919.036	to get back all the rest.
+921.276	Thank you.
+922.673	(Applause)
+924.005	Thank you. (Applause)
+928.204	Thank you. Thank you. Thank you. (Applause)
+933.527	Thank you. Thank you. Thank you. (Applause)

@@ -1,0 +1,99 @@
+startsecond	text
+25	What I want to talk to you about today is
+28	virtual worlds, digital globes, the 3-D Web, the Metaverse.
+37	What does this all mean for us?
+39	What it means is the Web is going to become an exciting place again.
+44	It's going to become super exciting as we transform
+47	to this highly immersive and interactive world.
+51	With graphics, computing power, low latencies,
+54	these types of applications and possibilities
+57	are going to stream rich data into your lives.
+62	So the Virtual Earth initiative, and other types of these initiatives,
+67	are all about extending our current search metaphor.
+73	When you think about it, we're so constrained by browsing the Web,
+76	remembering URLs, saving favorites.
+79	As we move to search, we rely on the relevance rankings,
+82	the Web matching, the index crawling.
+85	But we want to use our brain!
+87	We want to navigate, explore, discover information.
+90	In order to do that, we have to put you as a user back in the driver's seat.
+95	We need cooperation between you and the computing network and the computer.
+99	So what better way to put you back in the driver's seat
+103	than to put you in the real world that you interact in every day?
+106	Why not leverage the learnings that you've been learning your entire life?
+110	So Virtual Earth is about starting off
+113	creating the first digital representation, comprehensive, of the entire world.
+118	What we want to do is mix in all types of data.
+121	Tag it. Attribute it. Metadata. Get the community to add local depth,
+126	global perspective, local knowledge.
+129	So when you think about this problem,
+131	what an enormous undertaking. Where do you begin?
+135	Well, we collect data from satellites, from airplanes,
+139	from ground vehicles, from people.
+142	This process is an engineering problem,
+147	a mechanical problem, a logistical problem, an operational problem.
+151	Here is an example of our aerial camera.
+153	This is panchromatic. It's actually four color cones.
+156	In addition, it's multi-spectral.
+158	We collect four gigabits per second of data,
+162	if you can imagine that kind of data stream coming down.
+164	That's equivalent to a constellation of 12 satellites at highest res capacity.
+170	We fly these airplanes at 5,000 feet in the air.
+174	You can see the camera on the front. We collect multiple viewpoints,
+177	vantage points, angles, textures. We bring all that data back in.
+183	We sit here -- you know, think about the ground vehicles, the human scale --
+187	what do you see in person? We need to capture that up close
+189	to establish that what it's like-type experience.
+193	I bet many of you have seen the Apple commercials,
+197	kind of poking at the PC for their brilliance and simplicity.
+203	So a little unknown secret is --
+205	did you see the one with the guy, he's got the Web cam?
+209	The poor PC guy. They're duct taping his head. They're just wrapping it on him.
+213	Well, a little unknown secret is his brother actually works on the Virtual Earth team.
+217	(Laughter). So they've got a little bit of a sibling rivalry thing going on here.
+222	But let me tell you -- it doesn't affect his day job.
+224	We think a lot of good can come from this technology.
+227	This was after Katrina. We were the first commercial fleet of airplanes
+231	to be cleared into the disaster impact zone.
+234	We flew the area. We imaged it. We sent in people. We took pictures of interiors,
+239	disaster areas. We helped with the first responders, the search and rescue.
+243	Often the first time anyone saw what happened to their house was on Virtual Earth.
+248	We made it all freely available on the Web, just to --
+250	it was obviously our chance of helping out with the cause.
+254	When we think about how all this comes together,
+257	it's all about software, algorithms and math.
+261	You know, we capture this imagery but to build the 3-D models
+264	we need to do geo-positioning. We need to do geo-registering of the images.
+269	We have to bundle adjust them. Find tie points.
+271	Extract geometry from the images.
+274	This process is a very calculated process.
+278	In fact, it was always done manual.
+279	Hollywood would spend millions of dollars to do a small urban corridor
+283	for a movie because they'd have to do it manually.
+286	They'd drive the streets with lasers called LIDAR.
+288	They'd collected information with photos. They'd manually build each building.
+292	We do this all through software, algorithms and math --
+294	a highly automated pipeline creating these cities.
+297	We took a decimal point off what it cost to build these cities,
+300	and that's how we're going to be able to scale this out and make this reality a dream.
+304	We think about the user interface.
+306	What does it mean to look at it from multiple perspectives?
+309	An ortho-view, a nadir-view. How do you keep the precision of the fidelity of the imagery
+314	while maintaining the fluidity of the model?
+318	I'll wrap up by showing you the --
+320	this is a brand-new peek I haven't really shown into the lab area of Virtual Earth.
+324	What we're doing is -- people like this a lot,
+327	this bird's eye imagery we work with. It's this high resolution data.
+330	But what we've found is they like the fluidity of the 3-D model.
+334	A child can navigate with an Xbox controller or a game controller.
+338	So here what we're trying to do is we bring the picture and project it into the 3-D model space.
+343	You can see all types of resolution. From here, I can slowly pan the image over.
+349	I can get the next image. I can blend and transition.
+352	By doing this I don't lose the original detail. In fact, I might be recording history.
+357	The freshness, the capacity. I can turn this image.
+360	I can look at it from multiple viewpoints and angles.
+363	What we're trying to do is build a virtual world.
+366	We hope that we can make computing a user model you're familiar with,
+371	and really derive insights from you, from all different directions.
+375	I thank you very much for your time.
+377	(Applause)

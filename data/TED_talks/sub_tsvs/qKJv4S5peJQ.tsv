@@ -1,0 +1,161 @@
+startsecond	text
+12.58	Paying close attention to something:
+15.1	Not that easy, is it?
+17.34	It's because our attention is pulled
+17.34	in so many different directions at a time,
+22.38	and it's in fact pretty impressive
+22.38	if you can stay focused.
+28.18	Many people think that attention
+28.18	is all about what we are focusing on,
+32.26	but it's also about what information
+32.26	our brain is trying to filter out.
+38.14	There are two ways
+38.14	you direct your attention.
+41.42	First, there's overt attention.
+43.46	In overt attention,
+43.46	you move your eyes towards something
+47.62	in order to pay attention to it.
+50.18	Then there's covert attention.
+52.18	In covert attention,
+52.18	you pay attention to something,
+56.22	but without moving your eyes.
+58.86	Think of driving for a second.
+62.78	Your overt attention,
+62.78	your direction of the eyes,
+65.82	are in front,
+67.5	but that's your covert attention
+69.3	which is constantly scanning
+69.3	the surrounding area,
+73.42	where you don't actually look at them.
+77.339	I'm a computational neuroscientist,
+79.3	and I work on cognitive
+79.3	brain-machine interfaces,
+82.42	or bringing together
+82.42	the brain and the computer.
+86.54	I love brain patterns.
+88.54	Brain patterns are important for us
+90.26	because based on them
+90.26	we can build models for the computers,
+93.78	and based on these models
+95.22	computers can recognize
+95.22	how well our brain functions.
+99.46	And if it doesn't function well,
+101.9	then these computers themselves
+101.9	can be used as assistive devices
+106.58	for therapies.
+108.3	But that also means something,
+111.18	because choosing the wrong patterns
+113.7	will give us the wrong models
+115.62	and therefore the wrong therapies.
+117.3	Right?
+119.46	In case of attention,
+121.14	the fact that we can
+123.62	shift our attention not only by our eyes
+127.14	but also by thinking --
+129.26	that makes covert attention
+129.26	an interesting model for computers.
+134.1	So I wanted to know
+134.1	what are the brainwave patterns
+137.58	when you look overtly
+137.58	or when you look covertly.
+142.26	I set up an experiment for that.
+144.78	In this experiment
+144.78	there are two flickering squares,
+147.54	one of them flickering
+147.54	at a slower rate than the other one.
+152.42	Depending on which of these flickers
+152.42	you are paying attention to,
+156.26	certain parts of your brain
+156.26	will start resonating in the same rate
+161.02	as that flickering rate.
+163.82	So by analyzing your brain signals,
+166.78	we can track where exactly
+166.78	you are watching
+170.58	or you are paying attention to.
+174.82	So to see what happens in your brain
+174.82	when you pay overt attention,
+179.06	I asked people to look directly
+179.06	in one of the squares
+182.34	and pay attention to it.
+184.58	In this case, not surprisingly,
+184.58	we saw that these flickering squares
+189.9	appeared in their brain signals
+191.86	which was coming
+191.86	from the back of their head,
+195.38	which is responsible for the processing
+195.38	of your visual information.
+200.1	But I was really interested
+202.46	to see what happens in your brain
+202.46	when you pay covert attention.
+206.3	So this time I asked people
+206.3	to look in the middle of the screen
+210.22	and without moving their eyes,
+212.94	to pay attention
+212.94	to either of these squares.
+216.94	When we did that,
+218.58	we saw that both of these flickering rates
+218.58	appeared in their brain signals,
+222.54	but interestingly,
+224.46	only one of them,
+224.46	which was paid attention to,
+228.02	had stronger signals,
+229.7	so there was something in the brain
+231.98	which was handling this information
+234.54	so that thing in the brain was basically
+234.54	the activation of the frontal area.
+242.26	The front part of your brain
+242.26	is responsible
+245.26	for higher cognitive functions as a human.
+248.98	The frontal part,
+248.98	it seems that it works as a filter
+254.46	trying to let information come in
+254.46	only from the right flicker
+258.86	that you are paying attention to
+261.22	and trying to inhibit the information
+261.22	coming from the ignored one.
+267.22	The filtering ability of the brain
+267.22	is indeed a key for attention,
+272.54	which is missing in some people,
+275.34	for example in people with ADHD.
+278.46	So a person with ADHD
+278.46	cannot inhibit these distractors,
+283.5	and that's why they can't focus
+283.5	for a long time on a single task.
+289.42	But what if this person
+290.98	could play a specific computer game
+294.54	with his brain connected to the computer,
+298.26	and then train his own brain
+301.18	to inhibit these distractors?
+305.5	Well, ADHD is just one example.
+309.02	We can use these cognitive
+309.02	brain-machine interfaces
+312.3	for many other cognitive fields.
+315.58	It was just a few years ago
+317.38	that my grandfather had a stroke,
+317.38	and he lost complete ability to speak.
+324.46	He could understand everybody,
+324.46	but there was no way to respond,
+327.82	even not writing
+327.82	because he was illiterate.
+331.82	So he passed away in silence.
+336.62	I remember thinking at that time:
+338.98	What if we could have a computer
+342.9	which could speak for him?
+345.66	Now, after years that I am in this field,
+347.9	I can see that this might be possible.
+352.06	Imagine if we can find brainwave patterns
+354.94	when people think
+354.94	about images or even letters,
+359.54	like the letter A generates
+359.54	a different brainwave pattern
+362.5	than the letter B, and so on.
+364.78	Could a computer one day
+364.78	communicate for people who can't speak?
+369.46	What if a computer
+371.78	can help us understand
+371.78	the thoughts of a person in a coma?
+377.66	We are not there yet,
+379.3	but pay close attention.
+382.06	We will be there soon.
+383.78	Thank you.
+385.3	(Applause)

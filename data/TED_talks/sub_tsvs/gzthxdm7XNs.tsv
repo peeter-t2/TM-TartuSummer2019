@@ -1,0 +1,301 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+13.527	Something happened in the early morning hours
+16.315	of May 2nd, 2000, that had a profound effect
+19.9	on the way our society operates.
+22.206	Ironically, hardly anyone noticed at the time.
+25.484	The change was silent, imperceptible,
+28.144	unless you knew exactly what to look for.
+30.989	On that morning, U.S. President Bill Clinton
+33.34	ordered that a special switch be thrown
+35.612	in the orbiting satellites of the Global Positioning System.
+39.045	Instantaneously, every civilian GPS receiver
+42.909	around the globe went from errors the size of a football field
+47.471	to errors the size of a small room.
+54.314	It's hard to overstate the effect that this change
+58.105	in accuracy has had on us.
+60.657	Before this switch was thrown, we didn't have
+62.904	in-car navigation systems giving turn-by-turn
+65.163	directions, because back then, GPS couldn't tell you
+67.755	what block you were on, let alone what street.
+70.449	For geolocation, accuracy matters,
+73.697	and things have only improved over the last 10 years.
+76.955	With more base stations, more ground stations,
+79.074	better receivers and better algorithms,
+82.043	GPS can now not only tell you what street you are on,
+85.106	but what part of the street.
+89.608	This level of accuracy
+91.854	has unleashed a firestorm of innovation.
+94.78	In fact, many of you navigated here today
+97.451	with the help of your TomTom or your smartphone.
+101.044	Paper maps are becoming obsolete.
+104.269	But we now stand on the verge of another revolution
+108.408	in geolocation accuracy.
+110.403	What if I told you that the two-meter positioning
+113.136	that our current cell phones and our TomToms give us
+116.567	is pathetic compared to what we could be getting?
+120.464	For some time now, it's been known that if you pay attention
+123.297	to the carrier phase of the GPS signal,
+125.832	and if you have an Internet connection,
+128.313	then you can go from meter level to centimeter level,
+131.129	even millimeter-level positioning.
+134.096	So why don't we have this capability on our phones?
+137.376	Only, I believe, for a lack of imagination.
+141.746	Manufacturers haven't built this carrier phase technique
+144.913	into their cheap GPS chips
+147.019	because they're not sure what the general public would do
+149.173	with geolocation so accurate that you could pinpoint
+152.749	the wrinkles in the palm of your hand.
+156.587	But you and I and other innovators,
+158.974	we can see the potential in this next leap in accuracy.
+163.014	Imagine, for example, an augmented reality app
+165.726	that overlays a virtual world to millimeter-level precision
+169.263	on top of the physical world.
+171.271	I could build for you a structure up here in 3D,
+174.158	millimeter accurate, that only you could see,
+176.526	or my friends at home.
+179.419	So this level of positioning, this is what we're looking for,
+183.934	and I believe that, within the next few years, I predict,
+187.858	that this kind of hyper-precise, carrier phase-based positioning
+192.841	will become cheap and ubiquitous,
+196.065	and the consequences will be fantastic.
+198.61	The Holy Grail, of course, is the GPS dot.
+203.266	"Do you remember the movie ""The Da Vinci Code?"""
+205.946	Here's Professor Langdon examining a GPS dot,
+209.394	which his accomplice tells him is a tracking device
+212.771	accurate within two feet anywhere on the globe,
+215.832	but we know that in the world of nonfiction,
+218.738	the GPS dot is impossible, right?
+221.602	For one thing, GPS doesn't work indoors,
+224.226	and for another, they don't make devices quite this small,
+227.41	especially when those devices have to relay
+229.738	their measurements back over a network.
+232.713	Well, these objections were perfectly reasonable
+235.051	a few years ago, but things have changed.
+238.065	There's been a strong trend toward miniaturization,
+240.921	better sensitivity, so much so that, a few years ago,
+244.64	a GPS tracking device looked like this clunky box
+247.344	to the left of the keys.
+249.52	Compare that with the device released just months ago
+252.171	that's now packaged into something the size of a key fob,
+255.963	and if you take a look at the state of the art
+258.516	for a complete GPS receiver, which is only a centimeter
+261.262	on a side and more sensitive than ever,
+263.349	you realize that the GPS dot will soon move
+266.858	from fiction to nonfiction.
+271.257	Imagine what we could do with a world full of GPS dots.
+275.499	It's not just that you'll never lose your wallet or your keys
+278.405	anymore, or your child when you're at Disneyland.
+282.976	You'll buy GPS dots in bulk, and you'll stick them on
+286.757	everything you own worth more than a few tens of dollars.
+290.724	I couldn't find my shoes one recent morning,
+293.196	and, as usual, had to ask my wife if she had seen them.
+296.564	But I shouldn't have to bother my wife with that kind of triviality.
+300.356	I should be able to ask my house where my shoes are.
+302.967	(Laughter)
+305.106	Those of you who have made the switch to Gmail,
+308.614	remember how refreshing it was to go from
+311.492	organizing all of your email to simply searching it.
+315.636	The GPS dot will do the same for our possessions.
+320.138	Now, of course, there is a flip side to the GPS dot.
+324.824	I was in my office some months back
+327.213	and got a telephone call.
+329.756	The woman on the other end of the line, we'll call her Carol,
+333.377	was panicked.
+335.456	Apparently, an ex-boyfriend of Carol's from California
+338.249	had found her in Texas and was following her around.
+341.564	So you might ask at this point why she's calling you.
+345.401	Well, so did I.
+346.8	But it turned out there was a technical twist to Carol's case.
+350.791	Every time her ex-boyfriend would show up,
+353.525	at the most improbable times and the most improbable locations,
+357.875	he was carrying an open laptop,
+360.571	and over time Carol realized that he had planted
+363.414	a GPS tracking device on her car,
+365.962	so she was calling me for help to disable it.
+368.871	"""Well, you should go to a good mechanic"
+370.859	"and have him look at your car,"" I said."
+374.143	"""I already have,"" she told me."
+376.847	"""He didn't see anything obvious,"
+378.991	"and he said he'd have to take the car apart piece by piece."""
+382.528	"""Well then, you'd better go to the police,"" I said."
+385.849	"""I already have,"" she replied."
+388.953	"""They're not sure this rises to the level of harassment,"
+391.399	"and they're not set up technically to find the device."""
+395.152	"""Okay, what about the FBI?"""
+396.658	"""I've talked to them too, and same story."""
+400.821	We then talked about her coming to my lab
+402.491	and us performing a radio sweep of her car,
+405.039	but I wasn't even sure that would work,
+407.538	given that some of these devices are configured
+409.589	to only transmit when they're inside safe zones
+411.823	or when the car is moving.
+415.127	So, there we were.
+416.621	Carol isn't the first, and certainly won't be the last,
+419.59	to find herself in this kind of fearsome environment,
+424.525	worrisome situation caused by GPS tracking.
+430.41	In fact, as I looked into her case,
+432.213	I discovered to my surprise that it's not clearly illegal
+435.675	for you or me to put a tracking device on someone else's car.
+440.108	The Supreme Court ruled last month that a policeman
+443.988	has to get a warrant if he wants to do prolonged tracking,
+448.32	but the law isn't clear about civilians doing this to one another,
+451.836	so it's not just Big Brother we have to worry about,
+454.466	but Big Neighbor. (Laughter)
+457.737	There is one alternative that Carol could have taken,
+462.385	very effective. It's called the Wave Bubble.
+468.088	It's an open-source GPS jammer,
+471.023	developed by Limor Fried,
+473.578	a graduate student at MIT, and Limor calls it
+477.371	"""a tool for reclaiming our personal space."""
+481.256	With a flip of the switch you create a bubble around you
+483.521	within which GPS signals can't reside.
+485.768	They get drowned out by the bubble.
+488.124	And Limor designed this, in part, because, like Carol,
+491.771	she felt threatened by GPS tracking.
+494.417	Then she posted her design to the web,
+496.993	and if you don't have time to build your own,
+500.735	you can buy one.
+501.509	Chinese manufacturers now sell thousands
+503.567	of nearly identical devices on the Internet.
+507.34	So you might be thinking, the Wave Bubble sounds great.
+511.492	I should have one. Might come in handy if somebody ever puts a tracking device on my car.
+515.145	But you should be aware that its use is very much illegal
+518.927	in the United States.
+520.726	And why is that?
+521.473	Well, because it's not a bubble at all.
+524.566	Its jamming signals don't stop at the edge
+526.965	of your personal space or at the edge of your car.
+529.437	They go on to jam innocent GPS receivers for miles around you. (Laughter)
+535.673	Now, if you're Carol or Limor,
+538.424	or someone who feels threatened by GPS tracking,
+541.049	it might not feel wrong to turn on a Wave Bubble,
+544.824	but in fact, the results can be disastrous.
+548.804	Imagine, for example, you're the captain of a cruise ship
+551.524	trying to make your way through a thick fog
+554.043	and some passenger in the back turns on a Wave Bubble.
+557.883	All of a sudden your GPS readout goes blank,
+560.598	and now it's just you and the fog
+563.884	and whatever you can pull off the radar system
+566.484	if you remember how to work it.
+569.608	They -- in fact, they don't update or upkeep lighthouses
+575.544	anymore, and LORAN, the only backup to GPS,
+580.197	was discontinued last year.
+582.617	Our modern society has a special relationship with GPS.
+587.53	We're almost blindly reliant on it.
+589.8	It's built deeply into our systems and infrastructure.
+593.451	"Some call it ""the invisible utility."""
+597.079	So, turning on a Wave Bubble might not just cause inconvenience.
+600.801	It might be deadly.
+605.171	But as it turns out, for purposes of protecting your privacy
+609.379	at the expense of general GPS reliability,
+612.868	there's something even more potent
+615.028	and more subversive than a Wave Bubble,
+618.82	and that is a GPS spoofer.
+622.209	The idea behind the GPS spoofer is simple.
+625.034	Instead of jamming the GPS signals, you fake them.
+629.011	You imitate them, and if you do it right, the device
+632.129	you're attacking doesn't even know it's being spoofed.
+635.296	So let me show you how this works.
+636.928	In any GPS receiver, there's a peak inside
+639.653	that corresponds to the authentic signals.
+642.288	These three red dots represent the tracking points
+645.103	that try to keep themselves centered on that peak.
+647.982	But if you send in a fake GPS signal,
+651.047	another peak pops up, and if you can get these two peaks
+655.513	perfectly aligned, the tracking points can't tell the difference,
+660.231	and they get hijacked by the stronger counterfeit signal,
+663.542	with the authentic peak getting forced off.
+667.502	At this point, the game is over.
+669.669	The fake signals now completely control this GPS receiver.
+673.406	So is this really possible?
+674.901	Can someone really manipulate
+676.624	the timing and positioning of a GPS receiver
+678.606	just like that, with a spoofer?
+681.485	Well, the short answer is yes.
+683.5	The key is that civil GPS signals
+686.304	are completely open.
+687.406	They have no encryption. They have no authentication.
+691.397	They're wide open, vulnerable to a kind of spoofing attack.
+694.892	Even so, up until very recently,
+697.467	nobody worried about GPS spoofers.
+699.859	People figured that it would be too complex
+701.837	or too expensive for some hacker to build one.
+704.652	But I, and a friend of mine from graduate school,
+708.604	we didn't see it that way.
+710.756	We knew it wasn't going to be so hard,
+713.229	and we wanted to be the first to build one
+715.157	so we could get out in front of the problem
+717.237	and help protect against GPS spoofing.
+721.343	I remember vividly the week it all came together.
+724.688	We built it at my home, which means that
+728.137	I got a little extra help from my three-year-old son Ramon.
+732.526	Here's Ramon — (Laughter) —
+734.944	looking for a little attention from Dad that week.
+738.629	At first, the spoofer was just a jumble of cables
+740.899	and computers, though we eventually got it packaged
+743.781	into a small box.
+745.453	Now, the Dr. Frankenstein moment,
+748.262	when the spoofer finally came alive
+750.989	and I glimpsed its awful potential,
+753.59	came late one night when I tested the spoofer
+756.326	against my iPhone.
+758.412	Let me show you some actual footage from that
+760.029	very first experiment.
+761.965	I had come to completely trust this little blue dot
+765.559	and its reassuring blue halo.
+767.194	They seemed to speak to me.
+768.269	"They'd say, ""Here you are. Here you are."" (Laughter)"
+772.929	"And ""you can trust us."""
+775.799	So something felt very wrong about the world.
+780.917	It was a sense, almost, of betrayal,
+783.5	when this little blue dot started at my house,
+787.691	and went running off toward the north
+789.303	leaving me behind. I wasn't moving.
+793.198	What I then saw in this little moving blue dot
+797.431	was the potential for chaos.
+800.149	I saw airplanes and ships veering off course, with the captain
+804.291	learning only too late that something was wrong.
+808.565	I saw the GPS-derived timing
+811.065	of the New York Stock Exchange
+812.796	being manipulated by hackers.
+814.746	You can scarcely imagine the kind of havoc
+817.714	you could cause if you knew what you were doing
+820.364	with a GPS spoofer.
+823.717	There is, though, one redeeming feature
+828.861	of the GPS spoofer.
+831.317	It's the ultimate weapon against an invasion of GPS dots.
+835.918	Imagine, for example, you're being tracked.
+839.005	Well, you can play the tracker for a fool,
+841.529	pretending to be at work when you're really on vacation.
+844.49	Or, if you're Carol, you could lure your ex-boyfriend
+847.205	into some empty parking lot
+848.522	where the police are waiting for him.
+850.823	So I'm fascinated by this conflict, a looming conflict,
+856.026	between privacy on the one hand
+858.691	and the need for a clean radio spectrum on the other.
+862.89	We simply cannot tolerate GPS jammers and spoofers,
+865.935	and yet, given the lack of effective legal means
+869.671	for protecting our privacy from the GPS dot,
+873.77	can you really blame people for wanting to turn them on,
+875.642	for wanting to use them?
+878.058	I hold out hope that we'll be able to reconcile
+881.111	this conflict with some sort of,
+884.297	some yet uninvented technology.
+889.727	But meanwhile, grab some popcorn,
+892.853	because things are going to get interesting.
+894.98	Within the next few years,
+896.32	many of you will be the proud owner of a GPS dot.
+900.574	Maybe you'll have a whole bag full of them.
+902.922	You'll never lose track of your things again.
+906.374	The GPS dot will fundamentally reorder your life.
+910.403	But will you be able to resist the temptation
+913.085	to track your fellow man?
+916.077	Or will you be able to resist the temptation
+917.909	to turn on a GPS spoofer or a Wave Bubble
+921.204	to protect your own privacy?
+923.972	So, as usual, what we see just beyond the horizon
+927.604	is full of promise and peril.
+930.944	It'll be fascinating to see how this all turns out.
+934.132	Thanks. (Applause)

@@ -1,0 +1,218 @@
+startsecond	text
+13.046	One billion people in the world today
+15.565	do not have access to all-season roads.
+17.845	One billion people.
+19.55	One seventh of the Earth's population
+21.721	are totally cut off for some part of the year.
+25.03	We cannot get medicine to them reliably,
+27.358	they cannot get critical supplies,
+29.704	and they cannot get their goods to market
+31.693	in order to create a sustainable income.
+35.583	In sub-Saharan Africa, for instance,
+41.64	Investments are being made,
+43.659	but at the current level,
+45.204	it's estimated it's going to take them
+49.707	In the U.S. alone, there's more than four million
+52.001	miles of roads, very expensive to build,
+55.132	very expensive to maintain infrastructure,
+58.503	with a huge ecological footprint,
+60.772	and yet, very often, congested.
+64.444	So we saw this and we thought,
+66.826	can there be a better way?
+68.309	Can we create a system using today's
+68.309	most advanced technologies
+71.764	that can allow this part of the world to leapfrog
+74.884	in the same way they've done with mobile telephones
+77.239	in the last 10 years?
+79.114	Many of those nations have excellent telecommunications today
+82.059	without ever putting copper lines in the ground.
+85.036	Could we do the same for transportation?
+88.386	Imagine this scenario.
+90.701	Imagine you are in a maternity ward in Mali,
+93.859	and have a newborn in need of urgent medication.
+97.089	What would you do today?
+99.321	Well, you would place a request via mobile phone,
+101.718	and someone would get the request immediately.
+104.582	That's the part that works.
+106.575	The medication may take days to arrive, though,
+108.612	because of bad roads.
+110.022	That's the part that's broken.
+112.378	We believe we can deliver it within hours
+114.895	with an electric autonomous flying vehicle
+117.476	such as this.
+118.881	This can transport a small payload
+118.881	today, about two kilograms,
+121.766	over a short distance, about 10 kilometers,
+124.4	but it's part of a wider network that may cover
+126.755	the entire country, maybe even the entire continent.
+130.715	It's an ultra-flexible, automated logistics network.
+135.053	It's a network for a transportation of matter.
+137.988	We call it Matternet.
+139.765	We use three key technologies.
+141.279	The first is electric autonomous flying vehicles.
+143.914	The second is automated ground stations
+146.625	that the vehicles fly in and out of
+148.604	to swap batteries and fly farther,
+150.862	or pick up or deliver loads.
+152.604	And the third is the operating system
+154.335	that manages the whole network.
+157.078	Let's look at each one of those
+157.078	technologies in a bit more detail.
+160.417	First of all, the UAVs.
+162.662	Eventually, we're going to be
+162.662	using all sorts of vehicles
+164.746	for different payload capacities and different ranges.
+167.2	Today, we're using small quads.
+169.456	These are able to transport two kilograms
+171.799	over 10 kilometers in just about 15 minutes.
+174.612	Compare this with trying to trespass a bad road
+177.138	in the developing world,
+178.552	or even being stuck in traffic
+180.772	in a developed world country.
+182.817	These fly autonomously.
+184.527	This is the key to the technology.
+186.083	So they use GPS and other sensors on board
+188.443	to navigate between ground stations.
+192.137	Every vehicle is equipped with an automatic
+194.562	payload and battery exchange mechanism,
+197.6	so these vehicles navigate to those ground stations,
+200.006	they dock, swap a battery automatically,
+202.122	and go out again.
+203.826	The ground stations are located on safe locations
+206.582	on the ground.
+208.144	They secure the most vulnerable part of the mission,
+210.143	which is the landing.
+211.997	They are at known locations on the ground,
+214.089	so the paths between them are also known,
+216.009	which is very important from a reliability perspective
+218.747	from the whole network.
+220.298	Apart from fulfilling the energy
+220.298	requirements of the vehicles,
+223.122	eventually they're going to be becoming
+225.494	commercial hubs where people can take out loads
+228.194	or put loads into the network.
+231.257	The last component is the operating system
+233.48	that manages the whole network.
+235.374	It monitors weather data from all the ground stations
+238.115	and optimizes the routes of
+238.115	the vehicles through the system
+241.456	to avoid adverse weather conditions,
+244.047	avoid other risk factors,
+246.05	and optimize the use of the resources
+247.77	throughout the network.
+249.668	I want to show you what one of those flights
+251.31	looks like.
+253.078	Here we are flying in Haiti last summer,
+257.02	where we've done our first field trials.
+259.463	We're modeling here a medical delivery
+261.607	in a camp we set up after the 2010 earthquake.
+266.447	People there love this.
+268.998	And I want to show you
+271.127	what one of those vehicles looks like up close.
+276.003	So this is a $3,000 vehicle.
+278.011	Costs are coming down very rapidly.
+282.028	We use this in all sorts of weather conditions,
+285.203	very hot and very cold climates,
+286.998	very strong winds. They're very sturdy vehicles.
+293.096	Imagine if your life depended on this package,
+297.115	somewhere in Africa
+298.559	or in New York City, after Sandy.
+302.822	The next big question is, what's the cost?
+306.128	Well, it turns out that the cost to transport
+309.938	two kilograms over 10 kilometers with this vehicle
+313.897	is just 24 cents.
+317.27	(Applause)
+322.342	And it's counterintuitive, but the cost of energy
+325.086	expended for the flight is only two cents
+327.075	of a dollar today,
+328.413	and we're just at the beginning of this.
+330.546	When we saw this, we felt that this is something
+333.148	that can have significant impact in the world.
+336.147	So we said, okay, how much does it cost
+338.565	to set up a network somewhere in the world?
+340.633	And we looked at setting up a network in Lesotho
+342.663	for transportation of HIV/AIDS samples.
+345.704	The problem there is how do you take them
+348.111	from clinics where they're being collected
+350.34	to hospitals where they're being analyzed?
+353.36	And we said, what if we wanted to cover an area
+355.502	spanning around 140 square kilometers?
+358.159	That's roughly one and a half times
+358.159	the size of Manhattan.
+361.633	Well it turns out that the cost to do that there
+363.8	would be less than a million dollars.
+366.775	Compare this to normal infrastructure investments.
+370.006	We think this can be -- this is the power
+373.163	of a new paradigm.
+375.882	So here we are: a new idea
+378.365	about a network for transportation
+380.235	that is based on the ideas of the Internet.
+382.881	It's decentralized, it's peer-to-peer,
+385.11	it's bidirectional, highly adaptable,
+387.813	with very low infrastructure investment,
+390.323	very low ecological footprint.
+394.456	If it is a new paradigm, though,
+396.74	there must be other uses for it.
+398.886	It can be used perhaps in other places in the world.
+401.052	So let's look at the other end of the spectrum:
+405.23	our cities and megacities.
+407.235	Half of the Earth's population lives in cities today.
+410.107	Half a billion of us live in megacities.
+412.827	We are living through an amazing urbanization trend.
+415.507	China alone is adding a megacity
+417.48	the size of New York City every two years.
+420.587	These are places that do have road infrastructure,
+423.24	but it's very inefficient.
+425.554	Congestion is a huge problem.
+427.686	So we think it makes sense in those places
+429.626	to set up a network of transportation
+431.996	that is a new layer that sits between the road
+434.162	and the Internet,
+435.433	initially for lightweight, urgent stuff,
+438.339	and over time, we would hope to develop this
+440.388	into a new mode of transportation
+442.38	that is truly a modern solution to a very old problem.
+445.832	It's ultimately scalable
+447.386	with a very small ecological footprint,
+450.244	operating in the background 24/7,
+453.22	just like the Internet.
+455.566	So when we started this
+457.988	a couple of years ago now,
+460.99	we've had a lot of people come up to us who said,
+463.334	"""This is a very interesting but crazy idea,"
+466.166	and certainly not something that you should
+468	"engage with anytime soon."""
+470.714	And of course, we're talking about drones, right,
+472.857	a technology that's not only unpopular in the West
+476.559	but one that has become a very, very unpleasant
+478.507	fact of life for many living in poor countries,
+481.372	especially those engaged in conflict.
+484.183	So why are we doing this?
+488.717	Well, we chose to do this one
+491.501	not because it's easy,
+493.287	but because it can have amazing impact.
+496.122	Imagine one billion people being connected
+498.947	to physical goods in the same way
+501.342	that mobile telecommunications connected them
+504.366	to information.
+506.458	Imagine if the next big network we built in the world
+510.198	was a network for the transportation of matter.
+513.961	In the developing world, we would hope
+516.363	to reach millions of people with better vaccines,
+519.068	reach them with better medication.
+520.952	It would give us an unfair advantage against battling
+522.81	HIV/AIDS, tuberculosis and other epidemics.
+526.802	Over time, we would hope it would become
+528.498	a new platform for economic transactions,
+530.672	lifting millions of people out of poverty.
+533.133	In the developed world and the emerging world,
+535.343	we would hope it would become a new mode
+536.811	of transportation that could help make our cities
+540.532	more livable.
+542.385	So for those that still believe
+542.385	that this is science fiction,
+545.728	I firmly say to you that it is not.
+548.543	We do need to engage, though,
+550.212	in social fiction to make it happen.
+553.28	Thank you.
+555.447	(Applause)

@@ -1,0 +1,231 @@
+startsecond	text
+0	Translator: Morton Bast
+0	Reviewer: Thu-Huong Ha
+15.766	So, how many of you have ever
+17.173	gotten behind the wheel of a car
+18.828	when you really shouldn't have been driving?
+24.515	Maybe you're out on the road for a long day,
+26.42	and you just wanted to get home.
+27.91	You were tired, but you felt you could drive a few more miles.
+30.557	Maybe you thought,
+31.756	I've had less to drink than everybody else,
+33.773	I should be the one to go home.
+35.509	Or maybe your mind was just entirely elsewhere.
+40.1	Does this sound familiar to you?
+41.554	Now, in those situations, wouldn't it be great
+44.452	if there was a button on your dashboard
+46.045	that you could push, and the car would get you home safely?
+52.388	Now, that's been the promise of the self-driving car,
+54.681	the autonomous vehicle, and it's been the dream
+57.308	since at least 1939, when General Motors showcased
+60.557	this idea at their Futurama booth at the World's Fair.
+63.859	Now, it's been one of those dreams
+65.802	that's always seemed about 20 years in the future.
+70.016	Now, two weeks ago, that dream took a step forward,
+72.699	when the state of Nevada granted Google's self-driving car
+75.964	the very first license for an autonomous vehicle,
+79.564	clearly establishing that it's legal for them
+81.809	to test it on the roads in Nevada.
+83.619	Now, California's considering similar legislation,
+87.346	and this would make sure that the autonomous car
+89.754	is not one of those things that has to stay in Vegas.
+92.731	(Laughter)
+94.827	Now, in my lab at Stanford, we've been working on
+98.611	autonomous cars too, but with a slightly different spin
+102.098	on things. You see, we've been developing robotic race cars,
+106.346	cars that can actually push themselves to the very limits
+110.466	of physical performance.
+112.706	Now, why would we want to do such a thing?
+115.319	Well, there's two really good reasons for this.
+117.419	First, we believe that before people turn over control
+121.378	to an autonomous car, that autonomous car should be
+124.212	at least as good as the very best human drivers.
+127.466	Now, if you're like me, and the other 70 percent of the population
+130.771	who know that we are above-average drivers,
+132.964	you understand that's a very high bar.
+136.139	There's another reason as well.
+138.531	Just like race car drivers can use all of the friction
+142.107	between the tire and the road,
+143.387	all of the car's capabilities to go as fast as possible,
+146.564	we want to use all of those capabilities to avoid
+149.909	any accident we can.
+151.497	Now, you may push the car to the limits
+153.547	not because you're driving too fast,
+155.514	but because you've hit an icy patch of road,
+157.674	conditions have changed.
+159.378	In those situations, we want a car
+162.139	that is capable enough to avoid any accident
+165.859	that can physically be avoided.
+168.537	I must confess, there's kind of a third motivation as well.
+172.804	You see, I have a passion for racing.
+175.06	In the past, I've been a race car owner,
+177.824	a crew chief and a driving coach,
+180.379	although maybe not at the level that you're currently expecting.
+184.234	One of the things that we've developed in the lab --
+186.938	we've developed several vehicles --
+188.642	is what we believe is the world's first
+190.877	autonomously drifting car.
+193.242	It's another one of those categories
+195.755	where maybe there's not a lot of competition.
+198.178	(Laughter)
+199.586	But this is P1. It's an entirely student-built electric vehicle,
+203.408	which through using its rear-wheel drive
+205.486	and front-wheel steer-by-wire
+207.051	can drift around corners.
+209.118	It can get sideways like a rally car driver,
+211.318	always able to take the tightest curve,
+213.033	even on slippery, changing surfaces,
+216.337	never spinning out.
+217.953	We've also worked with Volkswagen Oracle,
+220.321	on Shelley, an autonomous race car that has raced
+223.745	at 150 miles an hour through the Bonneville Salt Flats,
+226.815	gone around Thunderhill Raceway Park in the sun,
+231.286	the wind and the rain,
+233.925	and navigated the 153 turns and 12.4 miles
+238.943	of the Pikes Peak Hill Climb route
+240.505	in Colorado with nobody at the wheel.
+243.978	(Laughter)
+245.426	(Applause)
+250.992	I guess it goes without saying that we've had a lot of fun
+254.271	doing this.
+255.575	But in fact, there's something else that we've developed
+259.232	in the process of developing these autonomous cars.
+262.287	We have developed a tremendous appreciation
+266.158	for the capabilities of human race car drivers.
+269.975	As we've looked at the question of how well do these cars perform,
+274.32	we wanted to compare them to our human counterparts.
+277.599	And we discovered their human counterparts are amazing.
+283.279	Now, we can take a map of a race track,
+287.302	we can take a mathematical model of a car,
+289.672	and with some iteration, we can actually find
+292.575	the fastest way around that track.
+294.2	We line that up with data that we record
+296.733	from a professional driver,
+298.166	and the resemblance is absolutely remarkable.
+302.273	Yes, there are subtle differences here,
+305.485	but the human race car driver is able to go out
+308.612	and drive an amazingly fast line,
+310.947	without the benefit of an algorithm that compares
+313.277	the trade-off between going as fast as possible
+315.885	in this corner, and shaving a little bit of time
+317.922	off of the straight over here.
+319.824	Not only that, they're able to do it lap
+323.281	after lap after lap.
+325.656	They're able to go out and consistently do this,
+328.568	pushing the car to the limits every single time.
+332.696	It's extraordinary to watch.
+335.865	You put them in a new car,
+337.931	and after a few laps, they've found the fastest line in that car,
+341.833	and they're off to the races.
+345.71	It really makes you think,
+346.856	we'd love to know what's going on inside their brain.
+351.727	So as researchers, that's what we decided to find out.
+356.268	We decided to instrument not only the car,
+358.08	but also the race car driver,
+360.575	to try to get a glimpse into what was going on
+363.344	in their head as they were doing this.
+365.53	Now, this is Dr. Lene Harbott applying electrodes
+369.48	to the head of John Morton.
+370.712	John Morton is a former Can-Am and IMSA driver,
+373.701	who's also a class champion at Le Mans.
+375.501	Fantastic driver, and very willing to put up with graduate students
+378.997	and this sort of research.
+380.852	She's putting electrodes on his head
+383.524	so that we can monitor the electrical activity
+385.636	in John's brain as he races around the track.
+388.468	Now, clearly we're not going to put a couple of electrodes on his head
+391.663	and understand exactly what all of his thoughts are on the track.
+394.933	However, neuroscientists have identified certain patterns
+398.34	that let us tease out some very important aspects of this.
+402.101	For instance, the resting brain
+403.948	tends to generate a lot of alpha waves.
+406.103	In contrast, theta waves are associated with
+409.855	a lot of cognitive activity, like visual processing,
+413.039	things where the driver is thinking quite a bit.
+416.087	Now, we can measure this,
+417.75	and we can look at the relative power
+419.735	between the theta waves and the alpha waves.
+421.935	This gives us a measure of mental workload,
+424.377	how much the driver is actually challenged cognitively
+427.944	at any point along the track.
+429.73	Now, we wanted to see if we could actually record this
+432.672	on the track, so we headed down south to Laguna Seca.
+435.71	Laguna Seca is a legendary raceway
+437.726	about halfway between Salinas and Monterey.
+440.027	It has a curve there called the Corkscrew.
+442.114	Now, the Corkscrew is a chicane, followed by a quick
+444.831	right-handed turn as the road drops three stories.
+447.577	Now, the strategy for driving this as explained to me was,
+451.343	you aim for the bush in the distance,
+453.365	and as the road falls away, you realize it was actually the top of a tree.
+456.39	All right, so thanks to the Revs Program at Stanford,
+459.694	we were able to take John there
+461.167	and put him behind the wheel
+462.131	of a 1960 Porsche Abarth Carrera.
+464.57	Life is way too short for boring cars.
+468.268	So, here you see John on the track,
+470.027	he's going up the hill -- Oh! Somebody liked that --
+472.211	and you can see, actually, his mental workload
+474.676	-- measuring here in the red bar --
+476.829	you can see his actions as he approaches.
+479.172	Now watch, he has to downshift.
+482.402	And then he has to turn left.
+483.163	Look for the tree, and down.
+487.156	Not surprisingly, you can see this is a pretty challenging task.
+489.994	You can see his mental workload spike as he goes through this,
+492.97	as you would expect with something that requires
+495.034	this level of complexity.
+497.843	But what's really interesting is to look at areas of the track
+501.259	where his mental workload doesn't increase.
+504.105	I'm going to take you around now
+505.6	to the other side of the track.
+506.689	Turn three. And John's going to go into that corner
+509.025	and the rear end of the car is going to begin to slide out.
+511.576	He's going to have to correct for that with steering.
+513.593	So watch as John does this here.
+515.824	Watch the mental workload, and watch the steering.
+518.146	The car begins to slide out, dramatic maneuver to correct it,
+521.818	and no change whatsoever in the mental workload.
+525.341	Not a challenging task.
+528.173	In fact, entirely reflexive.
+531.373	Now, our data processing on this is still preliminary,
+535.016	but it really seems that these phenomenal feats
+537.688	that the race car drivers are performing
+539.298	are instinctive.
+541.208	They are things that they have simply learned to do.
+544.598	It requires very little mental workload
+546.88	for them to perform these amazing feats.
+549.704	And their actions are fantastic.
+552.839	This is exactly what you want to do on the steering wheel
+555.45	to catch the car in this situation.
+558.787	Now, this has given us tremendous insight
+562.232	and inspiration for our own autonomous vehicles.
+565.354	We've started to ask the question:
+567.282	Can we make them a little less algorithmic
+569.535	and a little more intuitive?
+571.984	Can we take this reflexive action
+574.265	that we see from the very best race car drivers,
+576.552	introduce it to our cars,
+578.201	and maybe even into a system that could
+580.185	get onto your car in the future?
+582.153	That would take us a long step
+583.764	along the road to autonomous vehicles
+586.273	that drive as well as the best humans.
+588.185	But it's made us think a little bit more deeply as well.
+591.625	Do we want something more from our car
+594.593	than to simply be a chauffeur?
+596.433	Do we want our car to perhaps be a partner, a coach,
+600.668	someone that can use their understanding of the situation
+603.755	to help us reach our potential?
+608.011	Can, in fact, the technology not simply replace humans,
+610.284	but allow us to reach the level of reflex and intuition
+614.859	that we're all capable of?
+618.284	So, as we move forward into this technological future,
+620.207	I want you to just pause and think of that for a moment.
+623.028	What is the ideal balance of human and machine?
+626.803	And as we think about that,
+628.512	let's take inspiration
+630.243	from the absolutely amazing capabilities
+633.572	of the human body and the human mind.
+636.388	Thank you.
+638.124	(Applause)

@@ -1,0 +1,351 @@
+startsecond	text
+12.543	On March 10, 2011,
+15.286	I was in Cambridge at the MIT Media Lab
+18.293	meeting with faculty, students and staff,
+21.522	and we were trying to figure out whether
+23.311	I should be the next director.
+25.671	That night, at midnight,
+28.04	a magnitude 9 earthquake
+29.81	hit off of the Pacific coast of Japan.
+32.676	My wife and family were in Japan,
+34.961	and as the news started to come in,
+38.271	I was panicking.
+39.97	I was looking at the news streams
+41.232	and listening to the press conferences
+44.06	of the government officials
+46.27	and the Tokyo Power Company,
+47.86	and hearing about this explosion
+50.411	at the nuclear reactors
+51.61	and this cloud of fallout
+53.291	that was headed towards our house
+55.19	which was only about 200 kilometers away.
+58.089	And the people on TV weren't telling us
+60.92	anything that we wanted to hear.
+62.86	I wanted to know what was going on with the reactor,
+64.82	what was going on with the radiation,
+66.242	whether my family was in danger.
+68.57	So I did what instinctively felt like the right thing,
+71.759	which was to go onto the Internet
+73.43	and try to figure out
+74.772	if I could take matters into my own hands.
+77.183	On the Net, I found there were a lot of other people
+79.024	like me trying to figure out what was going on,
+81.09	and together we sort of loosely formed a group
+83.306	and we called it Safecast,
+85.777	and we decided we were going to try
+86.949	to measure the radiation
+88.695	and get the data out to everybody else,
+90.469	because it was clear that the government
+92.141	wasn't going to be doing this for us.
+95.043	Three years later,
+96.46	we have 16 million data points,
+99.554	we have designed our own Geiger counters
+102.299	that you can download the designs
+103.952	and plug it into the network.
+104.826	We have an app that shows you
+106.73	most of the radiation in Japan
+106.73	and other parts of the world.
+109.757	We are arguably one of the most successful
+111.962	citizen science projects in the world,
+113.817	and we have created
+116.169	the largest open dataset of radiation measurements.
+119.67	And the interesting thing here
+122.412	is how did — (Applause) — Thank you.
+127.06	How did a bunch of amateurs
+129.151	who really didn't know what we were doing
+131.32	somehow come together
+133.009	and do what NGOs and the government
+136.193	were completely incapable of doing?
+138.611	And I would suggest that this has something to do
+141.369	with the Internet. It's not a fluke.
+143.129	It wasn't luck, and it wasn't because it was us.
+145.98	It helped that it was an event
+147.398	that pulled everybody together,
+149.033	but it was a new way of doing things
+150.791	that was enabled by the Internet
+152.87	and a lot of the other things that were going on,
+154.462	and I want to talk a little bit about
+156.475	what those new principles are.
+159.144	So remember before the Internet? (Laughter)
+163.952	I call this B.I. Okay?
+165.74	So, in B.I., life was simple.
+169.351	Things were Euclidian, Newtonian,
+172.097	somewhat predictable.
+173.556	People actually tried to predict the future,
+175.966	even the economists.
+177.68	And then the Internet happened,
+180.894	and the world became extremely complex,
+182.965	extremely low-cost, extremely fast,
+185.602	and those Newtonian laws
+187.72	that we so dearly cherished
+189.519	turned out to be just local ordinances,
+191.716	and what we found was that in this
+193.467	completely unpredictable world
+196.08	that most of the people who were surviving
+198.112	were working with sort of a different set of principles,
+201.445	and I want to talk a little bit about that.
+204.076	Before the Internet, if you remember,
+205.44	when we tried to create services,
+207.345	what you would do is you'd create
+208.371	the hardware layer and the
+208.371	network layer and the software
+210.683	and it would cost millions of dollars
+212.711	to do anything that was substantial.
+215.018	So when it costs millions of dollars
+215.018	to do something substantial,
+217.457	what you would do is you'd get an MBA
+219.529	who would write a plan
+220.987	and get the money
+221.93	from V.C.s or big companies,
+223.674	and then you'd hire the designers and the engineers,
+225.787	and they'd build the thing.
+226.81	This is the Before Internet, B.I., innovation model.
+231.429	What happened after the Internet was
+233.736	the cost of innovation went down so much
+235.492	because the cost of collaboration,
+235.492	the cost of distribution,
+237.979	the cost of communication, and Moore's Law
+240.622	made it so that the cost of trying a new thing
+243.298	became nearly zero,
+244.692	and so you would have Google, Facebook, Yahoo,
+246.961	students that didn't have permission —
+248.732	permissionless innovation —
+250.105	didn't have permission, didn't have PowerPoints,
+251.725	they just built the thing,
+253.828	then they raised the money,
+255.272	and then they sort of figured out a business plan
+257.473	and maybe later on they hired some MBAs.
+259.83	So the Internet caused innovation,
+262.141	at least in software and services,
+263.265	to go from an MBA-driven innovation model
+266.124	to a designer-engineer-driven innovation model,
+270.027	and it pushed innovation to the edges,
+272.125	to the dorm rooms, to the startups,
+273.671	away from the large institutions,
+275.357	the stodgy old institutions that had the power
+277.712	and the money and the authority.
+279.399	And we all know this. We all know
+279.399	this happened on the Internet.
+282.008	It turns out it's happening in other things, too.
+284.773	Let me give you some examples.
+288.015	So at the Media Lab, we don't just do hardware.
+290.8	We do all kinds of things.
+291.842	We do biology, we do hardware,
+293.727	and Nicholas Negroponte
+293.727	"famously said, ""Demo or die,"""
+297.348	"as opposed to ""Publish or perish,"""
+299.07	which was the traditional academic way of thinking.
+301.313	And he often said, the demo only has to work once,
+304.875	because the primary mode of us impacting the world
+307.691	was through large companies
+309.469	being inspired by us
+310.732	and creating products like
+310.732	the Kindle or Lego Mindstorms.
+314.248	But today, with the ability
+316.19	to deploy things into the real world at such low cost,
+318.499	I'm changing the motto now,
+320.649	and this is the official public statement.
+322.462	"I'm officially saying, ""Deploy or die."""
+324.959	You have to get the stuff into the real world
+327.18	for it to really count,
+328.536	and sometimes it will be large companies,
+330.415	and Nicholas can talk about satellites.
+332.372	(Applause)
+333.658	Thank you.
+334.74	But we should be getting out there ourselves
+336.514	and not depending on large
+336.514	institutions to do it for us.
+340.098	So last year, we sent a bunch
+340.098	of students to Shenzhen,
+342.8	and they sat on the factory floors
+344.38	with the innovators in Shenzhen, and it was amazing.
+346.685	What was happening there
+348.162	was you would have these manufacturing devices,
+350.346	and they weren't making prototypes or PowerPoints.
+352.539	They were fiddling with the manufacturing equipment
+355.004	and innovating right on the
+355.004	manufacturing equipment.
+358.214	The factory was in the designer,
+360.1	and the designer was literally in the factory.
+362.374	And so what you would do is,
+364	you'd go down to the stalls
+365.241	and you would see these cell phones.
+367.797	So instead of starting little websites
+370.322	like the kids in Palo Alto do,
+371.87	the kids in Shenzhen make new cell phones.
+374.41	They make new cell phones like kids in Palo Alto
+377.107	make websites,
+378.365	and so there's a rainforest
+380.478	of innovation going on in the cell phone.
+382.034	What they do is, they make a cell phone,
+383.634	go down to the stall, they sell some,
+385.858	they look at the other kids' stuff, go up,
+388.183	make a couple thousand more, go down.
+390.774	Doesn't this sound like a software thing?
+392.765	It sounds like agile software development,
+394.412	A/B testing and iteration,
+397.34	and what we thought you could only do with software
+399.423	kids in Shenzhen are doing this in hardware.
+401.693	My next fellow, I hope, is going to be
+403.16	one of these innovators from Shenzhen.
+404.645	And so what you see is
+406.31	that is pushing innovation to the edges.
+408.279	We talk about 3D printers and stuff like that,
+410.384	and that's great, but this is Limor.
+412.375	She is one of our favorite graduates,
+414.634	and she is standing in front of a Samsung
+416.71	Techwin Pick and Place Machine.
+418.543	This thing can put 23,000 components per hour
+422.467	onto an electronics board.
+424.46	This is a factory in a box.
+426.283	So what used to take a factory full of workers
+428.781	working by hand
+429.8	in this little box in New York,
+431.509	she's able to have effectively —
+432.559	She doesn't actually have to go to Shenzhen
+434.192	to do this manufacturing.
+435.436	She can buy this box and she can manufacture it.
+437.697	So manufacturing, the cost of innovation,
+439.94	the cost of prototyping, distribution,
+439.94	manufacturing, hardware,
+442.63	is getting so low
+444.093	that innovation is being pushed to the edges
+446.41	and students and startups are being able to build it.
+448.838	This is a recent thing, but this will happen
+450.716	and this will change
+452.199	just like it did with software.
+454.624	Sorona is a DuPont process
+457.87	that uses a genetically engineered microbe
+460.89	to turn corn sugar into polyester.
+464.84	It's 30 percent more efficient
+464.84	than the fossil fuel method,
+467.318	and it's much better for the environment.
+470.977	Genetic engineering and bioengineering
+472.382	are creating a whole bunch
+473.913	of great new opportunities
+475.671	for chemistry, for computation, for memory.
+478.5	We will probably be doing a lot,
+478.5	obviously doing health things,
+480.55	but we will probably be growing chairs
+482.754	and buildings soon.
+483.794	The problem is, Sorona costs
+483.794	about 400 million dollars
+487.704	and took seven years to build.
+489.085	It kind of reminds you of the old mainframe days.
+492.164	The thing is, the cost of innovation
+494.656	in bioengineering is also going down.
+496.242	This is desktop gene sequencer.
+498.211	It used to cost millions and millions
+498.211	of dollars to sequence genes.
+501.765	Now you can do it on a desktop like this,
+503.509	and kids can do this in dorm rooms.
+505.602	This is Gen9 gene assembler,
+508.29	and so right now when you try to print a gene,
+510.369	what you do is somebody in a factory
+511.637	with pipettes puts the thing together by hand,
+513.577	you have one error per 100 base pairs,
+515.928	and it takes a long time and costs a lot of money.
+518.504	This new device
+519.89	assembles genes on a chip,
+521.564	and instead of one error per 100 base pairs,
+523.713	it's one error per 10,000 base pairs.
+525.839	In this lab, we will have the world's capacity
+528.584	of gene printing within a year,
+533.299	This is kind of like when we went
+535.862	from transistor radios wrapped by hand
+538.123	to the Pentium.
+539.394	This is going to become the
+539.394	Pentium of bioengineering,
+541.79	pushing bioengineering into the hands
+543.826	of dorm rooms and startup companies.
+546.427	So it's happening in software and in hardware
+549.2	and bioengineering,
+550.163	and so this is a fundamental new
+550.163	way of thinking about innovation.
+553.444	It's a bottom-up innovation, it's democratic,
+556.121	it's chaotic, it's hard to control.
+558.325	It's not bad, but it's very different,
+560.632	and I think that the traditional rules that we have
+562.599	for institutions don't work anymore,
+564.671	and most of us here
+566.35	operate with a different set of principles.
+569.433	One of my favorite principles is the power of pull,
+572.269	which is the idea of pulling resources
+574.56	from the network as you need them
+576.326	rather than stocking them in the center
+578.171	and controlling everything.
+579.756	So in the case of the Safecast story,
+582.52	I didn't know anything when
+582.52	the earthquake happened,
+584.362	but I was able to find Sean
+585.99	who was the hackerspace community organizer,
+588.186	and Peter, the analog hardware hacker
+589.972	who made our first Geiger counter,
+591.688	and Dan, who built the Three Mile Island
+593.686	monitoring system after the
+593.686	Three Mile Island meltdown.
+597.02	And these people I wouldn't have been able to find
+599.406	beforehand and probably were better
+601.84	that I found them just in time from the network.
+604.967	I'm a three-time college dropout,
+606.834	so learning over education
+608.507	is very near and dear to my heart,
+609.932	but to me, education is what people do to you
+612.456	and learning is what you do to yourself.
+615.455	(Applause)
+619.231	And it feels like, and I'm biased,
+620.99	it feels like they're trying to make you memorize
+623.787	the whole encyclopedia before
+623.787	they let you go out and play,
+626.901	and to me, I've got Wikipedia on my cell phone,
+630.998	and it feels like they assume
+632.701	you're going to be on top of some mountain
+634.488	all by yourself with a number 2 pencil
+636.949	trying to figure out what to do
+638.332	when in fact you're always going to be connected,
+640.448	you're always going to have friends,
+642.093	and you can pull Wikipedia
+642.093	up whenever you need it,
+644.052	and what you need to learn is how to learn.
+647.5	In the case of Safecast, a bunch of amateurs
+650.144	when we started three years ago,
+651.742	I would argue that we probably as a group
+654.25	know more than any other organization
+656.666	about how to collect data and publish data
+659.875	and do citizen science.
+662.647	Compass over maps.
+663.767	So this one, the idea is that the cost of writing a plan
+667.492	or mapping something is getting so expensive
+670.595	and it's not very accurate or useful.
+673.768	So in the Safecast story, we
+673.768	knew we needed to collect data,
+676.88	we knew we wanted to publish the data,
+679.303	and instead of trying to come up with the exact plan,
+682.192	we first said, oh, let's get Geiger counters.
+684.6	Oh, they've run out.
+686.366	Let's build them. There aren't enough sensors.
+688.369	Okay, then we can make a mobile Geiger counter.
+690.596	We can drive around. We can get volunteers.
+692.643	We don't have enough money. Let's Kickstarter it.
+694.522	We could not have planned this whole thing,
+696.513	but by having a very strong compass,
+698.257	we eventually got to where we were going,
+699.692	and to me it's very similar to
+699.692	agile software development,
+702.11	but this idea of compasses is very important.
+705.468	So I think the good news is
+707.409	that even though the world is extremely complex,
+710.92	what you need to do is very simple.
+713.302	I think it's about stopping this notion
+716	that you need to plan everything,
+717.572	you need to stock everything,
+718.664	and you need to be so prepared,
+720.134	and focus on being connected,
+723.128	always learning,
+724.979	fully aware,
+726.84	and super present.
+728.62	"So I don't like the word ""futurist."""
+731.566	I think we should be now-ists,
+737.181	like we are right now.
+739.227	Thank you.
+741.07	(Applause)

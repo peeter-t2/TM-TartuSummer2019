@@ -1,0 +1,344 @@
+startsecond	text
+25	This meeting has really been about a digital revolution,
+29	but I'd like to argue that it's done; we won.
+33	We've had a digital revolution but we don't need to keep having it.
+37	And I'd like to look after that,
+39	to look what comes after the digital revolution.
+42	So, let me start projecting forward.
+44	These are some projects I'm involved in today at MIT,
+48	looking what comes after computers.
+51	This first one, Internet Zero, up here -- this is a web server
+56	that has the cost and complexity of an RFID tag --
+59	about a dollar -- that can go in every light bulb and doorknob,
+62	and this is getting commercialized very quickly.
+64	And what's interesting about it isn't the cost;
+66	it's the way it encodes the Internet.
+67	It uses a kind of a Morse code for the Internet
+70	so you could send it optically; you can communicate acoustically
+73	through a power line, through RF.
+75	It takes the original principle of the Internet,
+77	which is inter-networking computers,
+79	and now lets devices inter-network.
+82	That we can take the whole idea that gave birth to the Internet
+85	and bring it down to the physical world in this Internet Zero,
+88	this internet of devices.
+90	So this is the next step from there to here,
+92	and this is getting commercialized today.
+95	A step after that is a project on fungible computers.
+100	Fungible goods in economics can be extended and traded.
+103	So, half as much grain is half as much useful,
+105	but half a baby or half a computer is less useful than
+108	a whole baby or a whole computer,
+110	and we've been trying to make computers that work that way.
+113	So, what you see in the background is a prototype.
+115	This was from a thesis of a student, Bill Butow, now at Intel,
+118	who wondered why, instead of making bigger and bigger chips,
+121	you don't make small chips, put them in a viscous medium,
+124	and pour out computing by the pound or by the square inch.
+126	And that's what you see here.
+128	On the left was postscript being rendered by a conventional computer;
+131	on the right is postscript being rendered from the first prototype
+134	we made, but there's no frame buffer, IO processor,
+138	any of that stuff -- it's just this material.
+140	Unlike this screen where the dots are placed carefully,
+142	this is a raw material.
+143	If you add twice as much of it, you have twice as much display.
+146	If you shoot a gun through the middle, nothing happens.
+149	If you need more resource, you just apply more computer.
+153	So, that's the step after this -- of computing as a raw material.
+156	That's still conventional bits, the step after that is --
+159	this is an earlier prototype in the lab;
+161	this is high-speed video slowed down.
+163	Now, integrating chemistry in computation, where the bits are bubbles.
+166	This is showing making bits, this is showing --
+168	once again, slowed down so you can see it,
+170	bits interacting to do logic and multiplexing and de-multiplexing.
+174	So, now we can compute that the output arranges material
+177	as well as information. And, ultimately, these are some slides
+181	from an early project I did, computing where the bits are stored
+184	quantum-mechanically in the nuclei of atoms, so
+187	programs rearrange the nuclear structure of molecules.
+191	All of these are in the lab pushing further and further and further,
+195	not as metaphor but literally integrating bits and atoms,
+198	and they lead to the following recognition.
+201	We all know we've had a digital revolution, but what is that?
+204	Well, Shannon took us, in the '40s, from here to here:
+207	from a telephone being a speaker wire that degraded with distance
+211	to the Internet. And he proved the first threshold theorem, that shows
+215	if you add information and remove it to a signal,
+218	you can compute perfectly with an imperfect device.
+220	And that's when we got the Internet.
+222	Von Neumann, in the '50s, did the same thing for computing;
+225	he showed you can have an unreliable computer but restore its state
+228	to make it perfect. This was the last great analog computer at MIT:
+232	a differential analyzer, and the more you ran it,
+234	the worse the answer got.
+236	After Von Neumann, we have the Pentium, where the billionth transistor
+239	is as reliable as the first one.
+242	But all our fabrication is down in this lower left corner.
+245	A state-of-the-art airplane factory rotating metal wax at fixed metal,
+248	or you maybe melt some plastic. A 10-billion-dollar chip fab
+251	uses a process a village artisan would recognize --
+254	you spread stuff around and bake it.
+257	All the intelligence is external to the system;
+259	the materials don't have information.
+261	Yesterday you heard about molecular biology,
+264	which fundamentally computes to build.
+266	It's an information processing system.
+268	We've had digital revolutions in communication and computation,
+272	but precisely the same idea, precisely the same math
+275	Shannon and Von Neuman did, hasn't yet come out
+277	to the physical world. So, inspired by that,
+280	colleagues in this program -- the Center for Bits and Atoms
+282	at MIT -- which is a group of people, like me,
+285	who never understood the boundary between physical science
+288	and computer science. I would even go further and say
+291	computer science is one of the worst things that ever happened
+293	to either computers or to science --
+295	(Laughter)
+296	-- because the canon -- computer science --
+300	many of them are great but the canon of computer science
+302	prematurely froze a model of computation
+305	based on technology that was available in 1950,
+308	and nature's a much more powerful computer than that.
+310	So, you'll hear, tomorrow, from Saul Griffith. He was one of the
+314	first students to emerge from this program.
+317	We started to figure out how you can compute to fabricate.
+320	This was just a proof of principle he did of tiles
+323	that interact magnetically, where you write a code,
+325	much like protein folding, that specifies their structure.
+328	So, there's no feedback to a tool metrology;
+331	the material itself codes for its structure in just the same ways
+336	that protein are fabricated. So, you can, for example, do that.
+340	You can do other things. That's in 2D. It works in 3D.
+343	The video on the upper right -- I won't show for time --
+345	shows self-replication, templating so something can make something
+349	that can make something, and we're doing that now over, maybe,
+352	nine orders of magnitude. Those ideas have been used to show
+355	the best fidelity and direct rate DNA to make an organism,
+358	in functionalizing nanoclusters with peptide tails
+361	that code for their assembly -- so, much like the magnets,
+363	but now on nanometer scales.
+365	Laser micro-machining: essentially 3D printers that digitally fabricate
+369	functional systems, all the way up to building buildings,
+372	not by having blueprints,
+373	but having the parts code for the structure of the building.
+376	So, these are early examples in the lab of emerging technologies
+381	to digitize fabrication. Computers that don't control tools
+385	but computers that are tools, where the output of a program
+389	rearranges atoms as well as bits.
+393	Now, to do that -- with your tax dollars, thank you --
+396	I bought all these machines. We made a modest proposal
+400	to the NSF. We wanted to be able to make anything on any length scale,
+404	all in one place, because you can't segregate digital fabrication
+408	by a discipline or a length scale.
+410	So we put together focused nano beam writers
+414	and supersonic water jet cutters and excimer micro-machining systems.
+419	But I had a problem. Once I had all these machines,
+422	I was spending too much time teaching students to use them.
+425	So I started teaching a class, modestly called,
+427	"""How To Make Almost Anything."" And that wasn't meant to be provocative;"
+430	it was just for a few research students.
+432	But the first day of class looked like this.
+434	You know, hundreds of people came in begging,
+436	all my life I've been waiting for this class; I'll do anything to do it.
+439	Then they'd ask, can you teach it at MIT? It seems too useful?
+442	And then the next --
+443	(Laughter)
+445	-- surprising thing was they weren't there to do research.
+446	They were there because they wanted to make stuff.
+448	They had no conventional technical background.
+452	At the end of a semester they integrated their skills.
+454	I'll show an old video. Kelly was a sculptor, and this is what she did
+458	with her semester project.
+460	(Video): Kelly: Hi, I'm Kelly and this is my scream buddy.
+465	Do you ever find yourself in a situation
+468	where you really have to scream, but you can't because you're at work,
+473	or you're in a classroom, or you're watching your children,
+476	or you're in any number of situations where it's just not permitted?
+481	Well, scream buddy is a portable space for screaming.
+485	When a user screams into scream buddy, their scream is silenced.
+490	It is also recorded for later release where, when and how
+494	the user chooses.
+516	(Scream)
+519	(Laughter) (Applause)
+523	So, Einstein would like this.
+525	This student made a web browser for parrots --
+526	lets parrots surf the Net and talk to other parrots.
+529	This student's made an alarm clock you wrestle
+531	to prove you're awake; this is one that defends --
+533	a dress that defends your personal space.
+535	This isn't technology for communication;
+537	it's technology to prevent it.
+539	This is a device that lets you see your music.
+542	This is a student who made a machine that makes machines,
+545	and he made it by making Lego bricks that do the computing.
+548	Just year after year -- and I finally realized
+550	the students were showing the killer app of personal fabrication
+554	is products for a market of one person.
+556	You don't need this for what you can get in Wal-Mart;
+558	you need this for what makes you unique.
+559	Ken Olsen famously said, nobody needs a computer in the home.
+563	But you don't use it for inventory and payroll;
+565	DEC is now twice bankrupt. You don't need personal fabrication
+568	in the home to buy what you can buy because you can buy it.
+570	You need it for what makes you unique, just like personalization.
+574	So, with that, in turn, 20 million dollars today does this;
+582	The students hijacked all the machines I bought to do personal fabrication.
+586	Today, when you spend that much of your money,
+588	there's a government requirement to do outreach, which often means
+591	classes at a local school, a website -- stuff that's just not that exciting.
+594	So, I made a deal with my NSF program managers that
+598	instead of talking about it, I'd give people the tools.
+600	This wasn't meant to be provocative or important,
+602	but we put together these Fab Labs. It's about 20,000 dollars in equipment
+606	that approximate both what the 20 million dollars does and where it's going.
+611	A laser cutter to do press-fit assembly with 3D from 2D,
+614	a sign cutter to plot in copper to do electromagnetics,
+616	a micron scale,
+618	numerically-controlled milling machine for precise structures,
+620	programming tools for less than a dollar,
+626	and microseconds on up, and they exploded around the world.
+630	This wasn't scheduled, but they went from inner-city Boston
+632	to Pobal in India, to Secondi-Takoradi on Ghana's coast
+636	to Soshanguve in a township in South Africa,
+639	to the far north of Norway, uncovering, or helping uncover,
+643	for all the attention to the digital divide,
+646	we would find unused computers in all these places.
+650	A farmer in a rural village -- a kid needs to measure and modify
+653	the world, not just get information about it on a screen.
+657	That there's really a fabrication and an instrumentation divide
+659	bigger than the digital divide.
+662	And the way you close it is not IT for the masses but IT development for the masses.
+665	So, in place after place
+668	we saw this same progression: that we'd open one of these Fab Labs,
+671	where we didn't -- this is too crazy to think of.
+674	We didn't think this up, that we would get pulled to these places;
+677	we'd open it. The first step was just empowerment.
+679	You can see it in their face, just this joy of, I can do it.
+682	This is a girl in inner-city Boston who had just done a high-tech
+684	on-demand craft sale in the inner city community center.
+688	It goes on from there to serious hands-on technical education
+692	informally, out of schools. In Ghana we had set up one of these labs.
+697	We designed a network sensor, and kids would show up
+699	and refuse to leave the lab.
+700	There was a girl who insisted we stay late at night --
+703	(Video): Kids: I love the Fab Lab.
+705	-- her first night in the lab because she was going to make the sensor.
+708	So she insisted on fabbing the board, learning how to stuff it,
+711	learning how to program it. She didn't really know
+713	what she was doing or why she was doing it, but she knew
+715	she just had to do it. There was something electric about it.
+718	This is late at, you know, 11 o'clock at night
+720	and I think I was the only person surprised when what she built
+723	worked the first time.
+725	And I've shown this to engineers at big companies, and they say
+727	they can't do this. Any one thing she's doing, they can do better,
+730	but it's distributed over many people and many sites
+733	and they can't do in an afternoon
+734	what this little girl in rural Ghana is doing.
+753	(Video): Girl: My name is Valentina Kofi; I am eight years old.
+757	I made a stacking board.
+760	And, again, that was just for the joy of it.
+763	Then these labs started doing serious problem solving --
+766	instrumentation for agriculture in India,
+768	steam turbines for energy conversion in Ghana,
+770	high-gain antennas in thin client computers.
+774	And then, in turn, businesses started to grow,
+775	like making these antennas.
+776	And finally, the lab started doing invention.
+778	We're learning more from them than we're giving them.
+780	I was showing my kids in a Fab Lab how to use it.
+783	They invented a way to do a construction kit out of a cardboard box --
+787	which, as you see up there, that's becoming a business --
+789	but their design was better than Saul's design at MIT,
+792	so there's now three students at MIT doing their theses on
+795	scaling the work of eight-year-old children
+798	because they had better designs.
+799	Real invention is happening in these labs.
+802	And I still kept -- so, in the last year I've been spending time with
+804	heads of state and generals and tribal chiefs who all want this,
+807	and I keep saying, but this isn't the real thing.
+809	Wait, like, 20 years and then we'll be done.
+811	And I finally got what's been going on. This is Kernigan and Ritchie
+814	inventing UNIX on a PDP.
+817	PDPs came between mainframes and minicomputers.
+819	They were tens of thousands of dollars, hard to use,
+822	but they brought computing down to work groups,
+824	and everything we do today happened there.
+826	These Fab Labs are the cost and complexity of a PDP.
+829	The projection of digital fabrication
+831	isn't a projection for the future; we are now in the PDP era.
+834	We talked in hushed tones about the great discoveries then.
+837	It was very chaotic, it wasn't, sort of, clear what was going on.
+840	In the same sense we are now, today, in the minicomputer era
+843	of digital fabrication.
+845	The only problem with that is it breaks everybody's boundaries.
+849	In DC, I go to every agency that wants to talk, you know;
+852	in the Bay Area, I go to every organization you can think of --
+854	they all want to talk about it, but it breaks
+856	their organizational boundaries. In fact, it's illegal for them,
+859	in many cases, to equip ordinary people to create
+863	rather than consume technology.
+864	And that problem is so severe that the ultimate invention
+868	coming from this community surprised me:
+871	it's the social engineering. That the lab in far north of Norway --
+875	this is so far north its satellite dishes look at the ground
+877	rather than the sky because that's where the satellites are --
+881	the lab outgrew the little barn that it was in.
+882	It was there because they wanted to find animals in the mountains
+885	but it outgrew it, so they built this extraordinary village for the lab.
+889	This isn't a university; it's not a company. It's essentially
+891	a village for invention; it's a village for the outliers in society,
+896	and those have been growing up around these Fab Labs
+898	all around the world.
+899	So this program has split into an NGO foundation,
+903	a Fab Foundation to support the scaling, a micro VC fund.
+907	The person who runs it nicely describes it as
+908	"""machines that make machines need businesses that make businesses:"""
+912	it's a cross between micro-finance and VC to do fan-out,
+915	and then the research partnerships back at MIT for what's
+917	making it possible.
+920	So I'd like to leave you with two thoughts.
+922	There's been a sea change in aid, from top-down mega-projects
+927	to bottom-up, grassroots, micro-finance investing in the roots,
+931	so that everybody's got that that's what works.
+934	But we still look at technology as top-down mega-projects.
+937	Computing, communication, energy for the rest of the planet
+940	are these top-down mega-projects.
+942	If this room full of heroes is just clever enough,
+944	you can solve the problems.
+946	The message coming from the Fab Labs is that
+948	the other five billion people on the planet
+950	aren't just technical sinks; they're sources.
+952	The real opportunity is to harness the inventive power of the world
+955	to locally design and produce solutions to local problems.
+959	I thought that's the projection 20 years hence into the future,
+962	but it's where we are today.
+964	It breaks every organizational boundary we can think of.
+966	The hardest thing at this point is the social engineering
+969	and the organizational engineering, but it's here today.
+972	And, finally, any talk like this on the future of computing
+974	is required to show Moore's law, but my favorite version --
+978	this is Gordon Moore's original one from his original paper --
+983	and what's happened is, year after year after year,
+985	we've scaled and we've scaled and we've scaled
+986	and we've scaled, and we've scaled and we've scaled,
+990	and we've scaled and we've scaled,
+991	and there's this looming bug of what's going to happen
+993	at the end of Moore's law; this ultimate bug is coming.
+997	But we're coming to appreciate, is the transition from 2D to 3D,
+1002	from programming bits to programming atoms,
+1005	turns the ends of Moore's law scaling from the ultimate bug
+1007	to the ultimate feature.
+1009	So, we're just at the edge of this digital revolution in fabrication,
+1013	where the output of computation programs the physical world.
+1016	So, together, these two projects answer questions
+1019	I hadn't asked carefully. The class at MIT shows the killer app
+1023	for personal fabrication in the developed world
+1025	is technology for a market of one: personal expression in technology
+1029	that touches a passion unlike anything I've seen in technology
+1032	for a very long time.
+1034	And the killer app for the rest of the planet is the instrumentation
+1038	and the fabrication divide: people locally developing solutions
+1041	to local problems. Thank you.

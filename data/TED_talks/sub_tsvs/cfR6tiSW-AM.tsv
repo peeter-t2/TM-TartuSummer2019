@@ -1,0 +1,574 @@
+startsecond	text
+16.069	So the first robot
+16.069	to talk about is called STriDER.
+19.267	It stands for Self-excited
+19.267	Tripedal Dynamic Experimental Robot.
+22.76	It's a robot that has three legs,
+22.76	which is inspired by nature.
+27.76	But have you seen anything in nature,
+27.76	an animal that has three legs?
+31.195	Probably not. So why do I call this
+31.195	a biologically inspired robot?
+35.089	How would it work?
+36.275	But before that,
+36.275	let's look at pop culture.
+38.461	So, you know H.G. Wells's
+38.461	"""War of the Worlds,"" novel and movie."
+41.953	And what you see over here
+41.953	is a very popular video game,
+45.298	and in this fiction, they describe
+45.298	these alien creatures and robots
+49.022	that have three legs that terrorize Earth.
+51.308	But my robot, STriDER,
+51.308	does not move like this.
+54.867	This is an actual dynamic
+54.867	simulation animation.
+57.942	I'm going to show you how the robot works.
+60.023	It flips its body 180 degrees
+62.439	and it swings its leg between the two legs
+64.521	and catches the fall.
+65.704	So that's how it walks.
+66.89	But when you look at us
+66.89	human beings, bipedal walking,
+69.626	what you're doing is,
+70.808	you're not really using muscle
+70.808	to lift your leg and walk like a robot.
+74.919	What you're doing is,
+74.919	you swing your leg and catch the fall,
+78.28	stand up again, swing your leg
+78.28	and catch the fall.
+80.76	You're using your built-in dynamics,
+80.76	the physics of your body,
+83.951	just like a pendulum.
+85.726	We call that the concept
+85.726	of passive dynamic locomotion.
+89.108	What you're doing is, when you stand up,
+91.27	potential energy to kinetic energy,
+93.375	potential energy to kinetic energy.
+95.376	It's a constantly falling process.
+97.377	So even though there is nothing
+97.377	in nature that looks like this,
+100.45	really, we're inspired by biology
+100.45	and applying the principles of walking
+104.603	to this robot.
+105.784	Thus, it's a biologically inspired robot.
+107.785	What you see here,
+107.785	this is what we want to do next.
+110.222	We want to fold up the legs
+110.222	and shoot it up for long-range motion.
+113.76	And it deploys legs --
+113.76	"it looks almost like ""Star Wars"" --"
+116.578	so when it lands, it absorbs
+116.578	the shock and starts walking.
+119.466	What you see over here, this yellow thing,
+119.466	this is not a death ray.
+122.695	(Laughter)
+123.731	This is just to show you
+124.914	that if you have cameras
+124.914	or different types of sensors,
+127.625	because it's 1.8 meters tall,
+129.166	you can see over obstacles like bushes
+129.166	and those kinds of things.
+132.276	So we have two prototypes.
+133.647	The first version,
+133.647	in the back, that's STriDER I.
+136.614	The one in front,
+136.614	the smaller, is STriDER II.
+138.805	The problem we had with STriDER I is,
+138.805	it was just too heavy in the body.
+142.337	We had so many motors aligning the joints
+144.945	and those kinds of things.
+146.223	So we decided to synthesize
+146.223	a mechanical mechanism
+149.447	so we could get rid of all the motors,
+149.447	and with a single motor,
+152.54	we can coordinate all the motions.
+154.241	It's a mechanical solution to a problem,
+154.241	instead of using mechatronics.
+157.642	So with this, now the top body
+157.642	is lighted up; it's walking in our lab.
+161.078	This was the very first successful step.
+163.161	It's still not perfected,
+163.161	its coffee falls down,
+165.853	so we still have a lot of work to do.
+168.685	The second robot I want
+168.685	to talk about is called IMPASS.
+171.405	It stands for Intelligent Mobility
+171.405	Platform with Actuated Spoke System.
+175.888	It's a wheel-leg hybrid robot.
+178.507	So think of a rimless wheel
+178.507	or a spoke wheel,
+182.388	but the spokes individually
+182.388	move in and out of the hub;
+185.389	so, it's a wheel-leg hybrid.
+187.5	We're literally reinventing
+187.5	the wheel here.
+189.766	Let me demonstrate how it works.
+192.253	So in this video we're using an approach
+192.253	called the reactive approach.
+196.126	Just simply using
+196.126	the tactile sensors on the feet,
+199.127	it's trying to walk
+199.127	over a changing terrain,
+201.961	a soft terrain where it pushes
+201.961	down and changes.
+204.685	And just by the tactile information,
+206.906	it successfully crosses
+206.906	over these types of terrains.
+209.685	But, when it encounters
+209.685	a very extreme terrain --
+213.514	in this case, this obstacle
+213.514	is more than three times the height
+217.451	of the robot --
+218.645	then it switches to a deliberate mode,
+220.543	where it uses a laser range finder
+220.543	and camera systems
+223.381	to identify the obstacle and the size.
+225.231	And it carefully plans
+225.231	the motion of the spokes
+228.239	and coordinates it so it can show
+228.239	this very impressive mobility.
+231.972	You probably haven't seen
+231.972	anything like this out there.
+234.637	This is a very high-mobility robot
+234.637	that we developed called IMPASS.
+239.873	Ah, isn't that cool?
+241.685	When you drive your car,
+245.003	when you steer your car, you use
+245.003	a method called Ackermann steering.
+248.949	The front wheels rotate like this.
+250.824	For most small-wheeled robots,
+253.363	they use a method
+253.363	called differential steering
+255.636	where the left and right wheel
+255.636	turn the opposite direction.
+258.517	For IMPASS, we can do many,
+258.517	many different types of motion.
+261.439	For example, in this case,
+262.732	even though the left and right
+262.732	wheels are connected
+265.156	with a single axle rotating
+265.156	at the same angle of velocity,
+267.946	we simply change the length
+267.946	of the spoke, it affects the diameter,
+271.104	then can turn to the left
+271.104	and to the right.
+273.215	These are just some examples
+273.215	of the neat things we can do with IMPASS.
+276.592	This robot is called CLIMBeR:
+278.39	Cable-suspended Limbed Intelligent
+278.39	Matching Behavior Robot.
+281.814	I've been talking
+281.814	to a lot of NASA JPL scientists --
+284.965	at JPL, they are famous
+284.965	for the Mars rovers --
+287.139	and the scientists,
+287.139	geologists always tell me
+289.534	that the real interesting science,
+289.534	the science-rich sites,
+292.685	are always at the cliffs.
+294.22	But the current rovers cannot get there.
+296.194	So, inspired by that,
+296.194	we wanted to build a robot
+298.701	that can climb
+298.701	a structured cliff environment.
+301.842	So this is CLIMBeR.
+303.09	It has three legs.
+304.625	It's probably difficult to see, but it has
+304.625	a winch and a cable at the top.
+308.232	It tries to figure out
+308.232	the best place to put its foot.
+310.837	And then once it figures that out,
+312.496	in real time, it calculates
+312.496	the force distribution:
+315.497	how much force it needs
+315.497	to exert to the surface
+318.044	so it doesn't tip and doesn't slip.
+320.045	Once it stabilizes that, it lifts a foot,
+322.21	and then with the winch,
+322.21	it can climb up these kinds of cliffs.
+326.045	Also for search and rescue
+326.045	applications as well.
+328.685	Five years ago,
+328.685	I actually worked at NASA JPL
+331.128	during the summer as a faculty fellow.
+333.002	And they already had
+333.002	a six-legged robot called LEMUR.
+336.476	So this is actually based on that.
+338.14	This robot is called MARS:
+339.455	Multi-Appendage Robotic System.
+341.096	It's a hexapod robot.
+342.358	We developed our adaptive gait planner.
+344.359	We actually have a very interesting
+344.359	payload on there.
+346.908	The students like to have fun.
+348.379	And here you can see that it's walking
+348.379	over unstructured terrain.
+351.498	(Motor sound)
+352.639	It's trying to walk
+352.639	on the coastal terrain, a sandy area,
+355.46	but depending on the moisture content
+355.46	or the grain size of the sand,
+360.132	the foot's soil sinkage model changes,
+360.132	so it tries to adapt its gait
+364	to successfully cross
+364	over these kind of things.
+366.264	It also does some fun stuff.
+367.795	As you can imagine,
+367.795	we get so many visitors visiting our lab.
+371.304	So when the visitors come,
+371.304	MARS walks up to the computer,
+374.06	"starts typing, ""Hello, my name is MARS."
+376.132	Welcome to RoMeLa,
+377.685	the Robotics Mechanisms
+377.685	"Laboratory at Virginia Tech."""
+380.322	(Laughter)
+381.816	This robot is an amoeba robot.
+383.965	Now, we don't have enough time
+383.965	to go into technical details,
+386.877	I'll just show you
+386.877	some of the experiments.
+388.958	These are some of the early
+388.958	feasibility experiments.
+391.494	We store potential energy
+391.494	to the elastic skin to make it move,
+394.603	or use active tension cords
+394.603	to make it move forward and backward.
+398.43	It's called ChIMERA.
+399.611	We also have been working
+399.611	with some scientists and engineers
+402.647	from UPenn
+403.822	to come up with a chemically actuated
+403.822	version of this amoeba robot.
+407.679	We do something to something,
+409.586	and just like magic, it moves.
+412.886	"""The Blob."""
+415.193	This robot is a very recent project.
+416.994	It's called RAPHaEL:
+418.169	Robotic Air-Powered Hand
+418.169	with Elastic Ligaments.
+420.88	There are a lot of really neat,
+420.88	very good robotic hands
+423.903	out there on the market.
+425.09	The problem is,
+425.09	they're just too expensive --
+427.294	tens of thousands of dollars.
+428.723	So for prosthesis applications
+428.723	it's probably not too practical,
+431.768	because it's not affordable.
+433.137	We wanted to tackle this problem
+433.137	in a very different direction.
+436.635	Instead of using electrical motors,
+436.635	electromechanical actuators,
+439.708	we're using compressed air.
+441.488	We developed these novel actuators
+441.488	for the joints, so it's compliant.
+444.959	You can actually change the force,
+446.685	simply just changing the air pressure.
+448.535	And it can actually crush
+448.535	an empty soda can.
+450.749	It can pick up very delicate
+450.749	objects like a raw egg,
+453.823	or in this case, a lightbulb.
+456.05	The best part: it took only 200 dollars
+456.05	to make the first prototype.
+461.166	This robot is actually
+461.166	a family of snake robots
+463.938	that we call HyDRAS,
+465.33	Hyper Degrees-of-freedom Robotic
+465.33	Articulated Serpentine.
+468.065	This is a robot that can climb structures.
+470.26	This is a HyDRAS's arm.
+472.367	It's a 12-degrees-of-freedom robotic arm.
+474.4	But the cool part is the user interface.
+476.772	The cable over there,
+476.772	that's an optical fiber.
+479.539	This student, it's probably
+479.539	her first time using it,
+481.999	but she can articulate it
+481.999	in many different ways.
+484.38	So, for example, in Iraq, the war zone,
+484.38	there are roadside bombs.
+487.867	Currently, you send these remotely
+487.867	controlled vehicles that are armed.
+491.902	It takes really a lot of time
+491.902	and it's expensive to train the operator
+495.465	to operate this complex arm.
+497.227	In this case, it's very intuitive;
+499.218	this student, probably
+499.218	his first time using it,
+501.51	is doing very complex manipulation tasks,
+503.512	picking up objects and doing
+503.512	manipulation, just like that.
+506.897	Very intuitive.
+510.025	Now, this robot
+510.025	is currently our star robot.
+512.646	We actually have a fan club
+512.646	for the robot, DARwIn:
+515.655	Dynamic Anthropomorphic
+515.655	Robot with Intelligence.
+518.58	As you know, we're very interested
+518.58	in human walking,
+522.487	so we decided to build
+522.487	a small humanoid robot.
+524.703	This was in 2004; at that time,
+526.489	this was something really,
+526.489	really revolutionary.
+528.783	This was more of a feasibility study:
+530.608	What kind of motors should we use?
+530.608	Is it even possible?
+533.283	What kinds of controls should we do?
+535.041	This does not have any sensors,
+535.041	so it's an open-loop control.
+538.585	For those who probably know,
+538.585	if you don't have any sensors
+541.379	and there's any disturbances,
+541.379	you know what happens.
+543.976	(Laughter)
+546.113	Based on that success, the following year
+546.113	we did the proper mechanical design,
+551.361	starting from kinematics.
+552.609	And thus, DARwIn I was born in 2005.
+555.543	It stands up, it walks -- very impressive.
+557.878	However, still, as you can see,
+557.878	it has a cord, an umbilical cord.
+561.259	So we're still using
+561.259	an external power source
+563.455	and external computation.
+566.002	So in 2006, now it's really
+566.002	time to have fun.
+569.337	Let's give it intelligence.
+570.82	We give it all the computing
+570.82	power it needs:
+572.965	a 1.5 gigahertz Pentium M chip,
+572.965	two FireWire cameras,
+575.519	rate gyros, accelerometers,
+575.519	four forced sensors on the foot,
+578.389	lithium polymer batteries --
+579.763	and now DARwIn II
+579.763	is completely autonomous.
+583.406	It is not remote controlled.
+583.406	There's no tethers.
+586.121	It looks around, searches for the ball ...
+586.121	looks around, searches for the ball,
+589.878	and it tries to play a game of soccer
+589.878	autonomously -- artificial intelligence.
+594.831	Let's see how it does.
+596.009	This was our very first trial, and ...
+597.98	(Video) Spectators: Goal!
+603.498	Dennis Hong: There is actually
+603.498	a competition called RoboCup.
+606.472	I don't know how many of you
+606.472	have heard about RoboCup.
+609.083	It's an international autonomous
+609.083	robot soccer competition.
+613.481	And the actual goal of RoboCup is,
+616.253	by the year 2050,
+618.47	we want to have full-size,
+618.47	autonomous humanoid robots
+622.225	play soccer against the human
+622.225	World Cup champions
+625.323	and win.
+626.5	(Laughter)
+627.556	It's a true, actual goal.
+628.798	It's a very ambitious goal,
+628.798	but we truly believe we can do it.
+632.719	This is last year in China.
+634.477	We were the very first team
+634.477	in the United States that qualified
+637.514	in the humanoid RoboCup competition.
+639.338	This is this year in Austria.
+641.542	You're going to see the action
+641.542	is three against three,
+644.133	completely autonomous.
+645.348	(Video) (Crowd groans)
+646.463	DH: There you go. Yes!
+648.591	The robots track and they team-play
+648.591	amongst themselves.
+653.194	It's very impressive.
+654.369	It's really a research event,
+655.869	packaged in a more exciting
+655.869	competition event.
+660.133	What you see here is the beautiful
+660.133	Louis Vuitton Cup trophy.
+663.685	This is for the best humanoid.
+665.228	We'd like to bring this, for the first
+665.228	time, to the United States next year,
+668.921	so wish us luck.
+670.1	(Applause)
+671.16	Thank you.
+672.336	(Applause)
+674.441	DARwIn also has a lot of other talents.
+676.533	Last year, it actually conducted
+676.533	the Roanoke Symphony Orchestra
+680.273	for the holiday concert.
+682.685	This is the next generation
+682.685	robot, DARwIn IV,
+685.685	much smarter, faster, stronger.
+688.685	And it's trying to show off its ability:
+690.686	"""I'm macho, I'm strong."""
+692.507	(Laughter)
+693.975	"""I can also do some Jackie Chan-motion,"
+693.975	"martial art movements."""
+698.224	(Laughter)
+701.685	And it walks away. So this is DARwIn IV.
+703.644	Again, you'll be able
+703.644	to see it in the lobby.
+705.803	We truly believe this will be
+705.803	the very first running humanoid robot
+709.019	in the United States.
+710.194	So stay tuned.
+711.372	All right. So I showed you
+711.372	some of our exciting robots at work.
+714.397	So, what is the secret of our success?
+716.609	Where do we come up with these ideas?
+718.45	How do we develop these kinds of ideas?
+720.367	We have a fully autonomous vehicle
+722.181	that can drive into urban environments.
+724.081	We won a half a million dollars
+724.081	in the DARPA Urban Challenge.
+727.004	We also have the world's very first
+727.004	vehicle that can be driven by the blind.
+730.685	We call it the Blind Driver
+730.685	Challenge, very exciting.
+733.233	And many, many other robotics
+733.233	projects I want to talk about.
+736.429	These are just the awards
+736.429	that we won in 2007 fall
+739.09	from robotics competitions
+739.09	and those kinds of things.
+741.685	So really, we have five secrets.
+743.602	First is: Where do we get inspiration?
+746.062	Where do we get this spark of imagination?
+748.165	This is a true story, my personal story.
+750.21	At night, when I go to bed,
+750.21	at three, four in the morning,
+753.011	I lie down, close my eyes,
+753.011	and I see these lines and circles
+755.924	and different shapes floating around.
+757.742	And they assemble, and they form
+757.742	these kinds of mechanisms.
+760.529	"And I think, ""Ah, this is cool."""
+762.161	So right next to my bed
+762.161	I keep a notebook, a journal,
+765.062	with a special pen
+765.062	that has an LED light on it,
+767.442	because I don't want to turn on the light
+767.442	and wake up my wife.
+770.503	So I see this, scribble everything down,
+770.503	draw things, and go to bed.
+773.796	Every day in the morning,
+773.796	the first thing I do,
+776.21	before my first cup of coffee,
+776.21	before I brush my teeth,
+778.841	I open my notebook.
+780.027	Many times it's empty;
+780.027	sometimes I have something there.
+782.714	If something's there, sometimes it's junk.
+784.804	But most of the time,
+784.804	I can't read my handwriting.
+787.185	Four in the morning --
+787.185	what do you expect, right?
+789.533	So I need to decipher what I wrote.
+791.461	But sometimes I see
+791.461	this ingenious idea in there,
+794.685	and I have this eureka moment.
+796.194	I directly run to my home office,
+796.194	sit at my computer,
+798.734	I type in the ideas, I sketch things out
+800.735	and I keep a database of ideas.
+803.288	So when we have these calls for proposals,
+805.673	I try to find a match
+805.673	between my potential ideas
+809.267	and the problem.
+810.451	If there's a match,
+810.451	we write a research proposal,
+812.792	get the research funding in,
+814.163	and that's how we start
+814.163	our research programs.
+816.347	But just a spark of imagination
+816.347	is not good enough.
+818.864	How do we develop these kinds of ideas?
+820.768	At our lab RoMeLa, the Robotics
+820.768	and Mechanisms Laboratory,
+823.572	we have these fantastic
+823.572	brainstorming sessions.
+826.208	So we gather around, we discuss problems
+826.208	and solutions and talk about it.
+830.567	But before we start,
+830.567	we set this golden rule.
+833.568	The rule is:
+835.241	nobody criticizes anybody's ideas.
+838.242	Nobody criticizes any opinion.
+840.685	This is important, because many times,
+840.685	students fear or feel uncomfortable
+844.256	about how others might think
+844.256	about their opinions and thoughts.
+847.549	So once you do this, it is amazing
+847.549	how the students open up.
+851.363	They have these wacky, cool,
+851.363	crazy, brilliant ideas,
+854.685	and the whole room is just electrified
+854.685	with creative energy.
+858.138	And this is how we develop our ideas.
+860.998	Well, we're running out of time.
+862.579	One more thing I want to talk about is,
+864.505	you know, just a spark of idea
+864.505	and development is not good enough.
+867.685	There was a great TED moment --
+867.685	I think it was Sir Ken Robinson, was it?
+872.42	He gave a talk about how education
+872.42	and school kill creativity.
+876.882	Well, actually,
+876.882	there's two sides to the story.
+879.685	So there is only so much one can do
+879.685	with just ingenious ideas
+884.922	and creativity
+884.922	and good engineering intuition.
+887.962	If you want to go beyond a tinkering,
+889.78	if you want to go
+889.78	beyond a hobby of robotics
+891.954	and really tackle
+891.954	the grand challenges of robotics
+895.419	through rigorous research,
+896.685	we need more than that.
+897.864	This is where school comes in.
+899.902	Batman, fighting against the bad guys,
+902.42	he has his utility belt,
+902.42	he has his grappling hook,
+904.837	he has all different kinds of gadgets.
+906.685	For us roboticists,
+906.685	engineers and scientists,
+909.122	these tools are the courses
+909.122	and classes you take in class.
+913.303	Math, differential equations.
+915.329	I have linear algebra, science, physics --
+918.093	even, nowadays, chemistry
+918.093	and biology, as you've seen.
+921.085	These are all the tools we need.
+922.867	So the more tools you have, for Batman,
+924.767	more effective at fighting the bad guys,
+926.768	for us, more tools to attack
+926.768	these kinds of big problems.
+930.842	So education is very important.
+933.828	Also -- it's not only about that.
+936.449	You also have to work really, really hard.
+938.541	So I always tell my students,
+940.018	"""Work smart, then work hard."""
+942.093	This picture in the back --
+942.093	this is three in the morning.
+944.841	I guarantee if you come
+944.841	to our lab at 3, 4am,
+947.194	we have students working there,
+948.774	not because I tell them to,
+948.774	but because we are having too much fun.
+952.007	Which leads to the last topic:
+953.685	do not forget to have fun.
+955.578	That's really the secret of our success,
+955.578	we're having too much fun.
+958.815	I truly believe that highest productivity
+958.815	comes when you're having fun,
+962.305	and that's what we're doing.
+963.685	And there you go.
+964.863	Thank you so much.
+966.054	(Applause)

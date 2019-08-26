@@ -1,0 +1,386 @@
+startsecond	text
+16.331	Ladies and gentlemen,
+17.507	I present to you the human genome.
+19.658	(Applause)
+23.561	Chromosome one -- top left,
+23.561	bottom right -- are the sex chromosomes.
+27.518	Women have two copies
+27.518	of that big X chromosome;
+30.27	men have the X and, of course,
+30.27	that small copy of the Y.
+33.459	Sorry boys, but it's just a tiny
+33.459	little thing that makes you different.
+37.174	So if you zoom in on this genome,
+40.19	then what you see, of course,
+40.19	is this double-helix structure --
+43.832	the code of life spelled out
+43.832	with these four biochemical letters,
+46.99	or we call them bases: A, C, G and T.
+49.26	How many are there
+49.26	in the human genome? Three billion.
+51.856	Is that a big number?
+53.06	Well, everybody
+53.06	can throw around big numbers.
+55.303	But in fact, if I were to place one base
+57.427	on each pixel of this
+61.214	we would need 3,000 screens
+61.214	to take a look at the genome.
+64.517	So it's really quite big.
+65.749	And perhaps because of its size,
+67.668	a group of people -- all,
+67.668	by the way, with Y chromosomes --
+70.543	decided they would want to sequence it.
+72.577	(Laughter)
+74.616	And so 15 years, actually,
+74.616	and about four billion dollars later,
+77.897	the genome was sequenced and published.
+79.796	In 2003, the final version was published,
+79.796	and they keep working on it.
+83.14	That was all done on a machine like this.
+85.153	It costs about a dollar for each base --
+85.153	a very slow way of doing it.
+88.494	Well, folks, I'm here to tell you
+90.113	that the world has completely changed,
+92.228	and none of you know about it.
+94.062	So now what we do is take a genome,
+96.775	we make maybe 50 copies of it,
+98.338	we cut all those copies up
+98.338	into little 50-base reads,
+101.382	and then we sequence them,
+101.382	massively parallel.
+103.747	Then we bring that into software
+103.747	and reassemble it,
+106.858	and tell you what the story is.
+108.452	So to give you a picture
+108.452	of what this looks like,
+110.791	the Human Genome Project:
+110.791	3 gigabases, right?
+113.298	One run on one of these modern machines:
+117.974	And that 200 is going
+117.974	to change to 600 this summer,
+120.511	and there's no sign of this pace slowing.
+123.069	The price of a base, to sequence a base,
+126.678	has fallen 100 million times.
+129.455	That's the equivalent of you filling up
+129.455	your car with gas in 1998,
+133.255	waiting until 2011,
+134.508	and now you can drive
+134.508	to Jupiter and back twice.
+136.945	(Laughter)
+141.709	World population,
+144.121	PC placements,
+145.971	the archive of all of medical literature,
+148.757	Moore's law,
+150.479	the old way of sequencing,
+152.332	and here's all the new stuff.
+154.113	Guys, this is a long scale;
+155.478	you don't typically see
+155.478	lines that go up like that.
+158.702	So the worldwide capacity
+158.702	to sequence human genomes
+162.184	is something like 50,000 to 100,000
+162.184	human genomes this year.
+165.377	We know this based on the machines
+165.377	that are being placed.
+168.104	This is expected to double,
+168.104	triple or maybe quadruple
+170.645	year over year for the foreseeable future.
+172.879	In fact, there's one lab in particular
+174.888	that represents 20 percent
+174.888	of all that capacity:
+177.848	It's called the Beijing
+177.848	Genomics Institute.
+180.666	The Chinese are absolutely winning
+180.666	this race to the new Moon, by the way.
+184.395	What does this mean for medicine?
+186.72	So a woman, age 37,
+189.468	presents with stage 2 estrogen
+189.468	receptor-positive breast cancer.
+192.706	She is treated with surgery,
+192.706	chemotherapy and radiation.
+195.897	She goes home.
+197.105	Two years later,
+198.28	she comes back with stage 3C
+198.28	ovarian cancer, unfortunately;
+201.478	treated again with surgery
+201.478	and chemotherapy.
+203.939	She comes back three years later at age 42
+206.217	with more ovarian cancer,
+206.217	more chemotherapy.
+208.598	Six months later,
+210.091	she comes back
+210.091	with acute myeloid leukemia.
+214.819	She goes into respiratory failure
+214.819	and dies eight days later.
+217.849	So first: the way in which
+217.849	this woman was treated,
+220.231	in as little as 10 years,
+220.231	will look like bloodletting.
+223.698	And it's because of people
+223.698	like my colleague, Rick Wilson,
+226.547	at the Genome Institute
+226.547	at Washington University,
+228.91	who decided to take a look
+228.91	at this woman postmortem.
+231.393	And he took skin cells, healthy skin
+233.9	and cancerous bone marrow,
+235.862	and sequenced the whole
+235.862	genomes of both of them
+238.172	in a couple of weeks, no big deal.
+240.26	Then he compared those two
+240.26	genomes in software,
+242.485	and what he found, among other things,
+244.334	was a deletion -- a 2,000-base deletion
+244.334	across three billion bases
+248.971	in a particular gene called TP53.
+251.154	If you have this deleterious
+251.154	mutation in this gene,
+253.59	you're 90 percent likely
+253.59	to get cancer in your life.
+256.336	So unfortunately,
+256.336	this doesn't help this woman,
+258.584	but it does have severe --
+258.584	profound, if you will --
+261.26	implications to her family.
+264.061	I mean, if they have the same mutation,
+265.968	and they get this genetic test
+265.968	and they understand it,
+268.537	then they can get regular screens
+268.537	and can catch cancer early,
+271.442	and potentially live
+271.442	a significantly longer life.
+273.786	Let me introduce you to the Beery twins,
+275.74	diagnosed with cerebral palsy
+275.74	at the age of two.
+278.096	Their mom is a very brave woman
+278.096	who didn't believe it;
+280.668	the symptoms weren't matching up.
+282.295	And through some heroic efforts
+282.295	and a lot of Internet searching,
+285.327	she was able to convince
+285.327	the medical community
+287.522	that, in fact, they had something else.
+289.442	They had dopa-responsive dystonia.
+291.632	And so they were given L-Dopa,
+293.635	and their symptoms did improve,
+295.976	but they weren't totally asymptomatic.
+297.843	Significant problems remained.
+299.334	Turns out the gentleman in this picture
+299.334	is a guy named Joe Beery,
+302.527	who was lucky enough to be the CIO
+304.194	of a company called Life Technologies.
+306.339	They're one of two companies
+307.705	that makes these massive
+307.705	whole-genome sequencing tools.
+310.879	And so he got his kids sequenced.
+313.916	What they found was a series of mutations
+313.916	in a gene called SPR,
+317.018	which is responsible for producing
+317.018	serotonin, among other things.
+320.439	So on top of L-Dopa, they gave
+320.439	these kids a serotonin precursor drug,
+323.952	and they're effectively normal now.
+325.698	Guys, this would never have happened
+325.698	without whole-genome sequencing.
+329.013	At the time -- this was
+329.013	a few years ago -- it cost $100,000.
+331.877	Today it's $10,000, next year, $1,000,
+333.728	the year after, $100, give or take a year.
+335.781	That's how fast this is moving.
+337.305	So here's little Nick --
+339.186	likes Batman and squirt guns.
+340.926	And it turns out Nick
+340.926	shows up at the children's hospital
+344.645	with this distended belly,
+344.645	like a famine victim.
+346.931	And it's not that he's not eating;
+346.931	it's that when he eats,
+349.791	his intestine basically opens up
+349.791	and feces spill out into his gut.
+353.226	So a hundred surgeries later,
+354.885	he looks at his mom and says,
+354.885	"""Mom, please pray for me."
+358.584	"I'm in so much pain."""
+360.408	His pediatrician happens to have
+360.408	a background in clinical genetics
+363.547	and he has no idea what's going on,
+365.26	"but he says, ""Let's get"
+365.26	"this kid's genome sequenced."""
+367.827	And what they find
+367.827	is a single-point mutation
+369.991	in a gene responsible for controlling
+369.991	programmed cell death.
+372.864	So the theory is that he's having
+372.864	some immunological reaction
+375.966	to what's going on --
+375.966	to the food, essentially.
+378.405	And that's a natural reaction,
+378.405	which causes some programmed cell death,
+381.799	but the gene that regulates
+381.799	that down is broken.
+384.093	And so this informs,
+384.093	among other things, of course,
+386.535	a treatment for bone marrow transplant,
+386.535	which he undertakes.
+389.53	And after nine months
+389.53	of grueling recovery,
+391.574	he's now eating steak with A1 sauce.
+393.503	(Laughter)
+394.624	The prospect of using the genome
+394.624	as a universal diagnostic
+398.747	is upon us today.
+401.462	Today. It's here.
+403.025	And what it means for all of us
+404.541	is that everybody in this room
+404.541	could live an extra 5, 10, 20 years,
+407.852	just because of this one thing.
+409.543	Which is a fantastic story,
+411.63	unless you think about
+411.63	humanity's footprint on the planet,
+414.532	and our ability to keep up
+414.532	food production.
+417.031	So it turns out
+418.627	that the very same technology
+418.627	is also being used to grow new lines
+422.592	of corn, wheat, soybean and other crops
+425.745	that are highly tolerant
+425.745	of drought, of flood,
+427.944	of pests and pesticides.
+429.491	Now, look --
+431.184	as long as we continue
+431.184	to increase the population,
+433.582	we'll have to continue to grow and eat
+433.582	genetically modified foods.
+436.785	And that's the only position
+436.785	I'll take today.
+438.96	Unless there's anybody in the audience
+440.802	who'd like to volunteer to stop eating?
+443.047	None, not one.
+444.961	This is a typewriter,
+446.696	a staple of every desktop for decades.
+449.339	And, in fact, the typewriter
+449.339	was essentially deleted by this thing.
+453.503	And then more general versions
+453.503	of word processors came about.
+456.792	But ultimately, it was a disruption
+456.792	on top of a disruption.
+459.595	It was Bob Metcalfe
+459.595	inventing the Ethernet,
+461.687	and the connection of all these computers
+463.68	that fundamentally changed everything.
+465.554	Suddenly we had Netscape, we had Yahoo.
+468.379	And we had, indeed,
+468.379	the entire dot-com bubble.
+471.948	(Laughter)
+474.78	Not to worry though,
+476.027	that was quickly rescued
+476.027	by the iPod, Facebook
+478.626	and, indeed, Angry Birds.
+480.753	(Laughter)
+483.125	Look, this is where we are today.
+485.675	This is the genomic revolution today.
+485.675	This is where we are.
+488.489	What I'd like you to consider is:
+490.093	What does it mean
+491.522	when these dots don't represent
+491.522	the individual bases of your genome,
+494.903	but they connect to genomes
+494.903	all across the planet?
+497.778	I just recently had to buy life insurance,
+497.778	and I was required to answer:
+501.39	A. I have never had a genetic test;
+503.545	B. I've had one, here you go;
+505.052	or C. I've had one and I'm not telling.
+507.021	Thankfully, I was able to answer A,
+508.761	and I say that honestly, in case
+508.761	my life insurance agent is listening.
+512.333	But what would have happened
+512.333	if I had said C?
+514.756	Consumer applications
+514.756	for genomics will flourish.
+517.181	Do you want to see
+517.181	if you're genetically compatible
+519.654	with your girlfriend?
+520.908	DNA sequencing on your iPhone?
+520.908	There's an app for that.
+523.895	(Laughter)
+525.705	Personalized genomic massage, anyone?
+529.038	There's already a lab today that tests
+529.038	for allele 334 of the AVPR1 gene,
+533.629	the so-called cheating gene.
+535.037	(Laughter)
+537.076	So anybody who's here today
+537.076	with your significant other,
+539.727	just turn over to them,
+539.727	swab their mouth, send it to the lab
+542.618	and you'll know for sure.
+543.911	(Laughter)
+545.046	Do you really want to elect a president
+547.012	whose genome suggests cardiomyopathy?
+549.298	Think of it -- it's 2016,
+551.182	and the leading candidate releases
+552.912	not only her four years
+552.912	of back-tax returns,
+555.018	but also her personal genome.
+556.495	And it looks really good.
+557.729	Then she challenges all
+557.729	her competitors to do the same.
+560.349	Do you think that's not going to happen?
+562.308	Do you think it would have
+562.308	helped John McCain?
+564.566	(Laughter)
+566.383	How many people in the audience
+566.383	have the last name Resnick, like me?
+569.625	Raise your hand.
+570.807	Anybody? Nobody.
+572.435	Typically, there's one or two.
+573.904	So my father's father
+573.904	was one of 10 Resnick brothers.
+576.481	They all hated each other, and all moved
+576.481	to different parts of the planet.
+580.59	So it's likely I'm related
+580.59	to every Resnick that I ever meet,
+583.533	but I don't know.
+584.708	So imagine if my genome
+584.708	were De-identified, sitting in software,
+587.769	And a third cousin's genome
+587.769	was also sitting there,
+590.177	and there was software
+590.177	that could compare the two
+592.502	and make these associations.
+593.883	Not hard to imagine. My company
+593.883	has software that does this right now.
+597.215	Imagine one more thing,
+598.407	that that software is able to ask
+598.407	both parties for mutual consent:
+601.666	"""Would you be willing"
+601.666	"to meet your third cousin?"""
+604.015	And if we both say yes -- voilà!
+605.689	Welcome to Chromosomally LinkedIn.
+607.49	(Laughter)
+611.808	Now this is probably a good thing, right?
+613.825	Bigger clan gatherings and so on.
+615.437	But maybe it's a bad thing as well.
+617.162	How many fathers in the room?
+617.162	Raise your hands.
+619.467	OK, so experts think
+619.467	that one to three percent of you
+622.819	are not actually the father of your child.
+624.946	(Laughter)
+626.724	Look --
+627.924	(Laughter)
+632.871	These genomes, these 23 chromosomes,
+635.26	they don't in any way represent
+635.26	the quality of our relationships
+638.649	or the nature of our society --
+638.649	at least not yet.
+641.366	And like any new technology,
+643.185	it's really in humanity's hands
+644.998	to wield it for the betterment of mankind
+647.22	or not.
+648.395	And so I urge you all
+648.395	to wake up and to tune in
+650.642	and to influence the genomic revolution
+650.642	that's happening all around you.
+654.062	Thank you.
+655.237	(Applause)

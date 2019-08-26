@@ -1,0 +1,676 @@
+startsecond	text
+16.236	Khan Academy is most known
+16.236	for its collection of videos,
+19.26	so before I go any further,
+21.26	let me show you a little bit of a montage.
+24.623	(Video) Salman Khan: So the hypotenuse
+24.623	is now going to be five.
+27.719	This animal's fossils are only found
+27.719	in this area of South America --
+31.036	a nice clean band here --
+32.64	and this part of Africa.
+34.853	We can integrate over the surface,
+37.043	and the notation
+37.043	usually is a capital sigma.
+39.908	National Assembly: They create
+39.908	the Committee of Public Safety,
+43.098	which sounds like a very nice committee.
+45.083	Notice, this is an aldehyde,
+45.083	and it's an alcohol.
+48.812	Start differentiating
+48.812	into effector and memory cells.
+52.081	A galaxy. Hey! There's another galaxy.
+52.081	Oh, look! There's another galaxy.
+55.825	And for dollars, is their 30 million,
+58.26	plus the 20 million dollars
+58.26	from the American manufacturer.
+61.323	If this does not blow your mind,
+64.847	then you have no emotion.
+66.878	(Laughter)
+68.26	(Applause)
+73.799	(Live) SK: We now have
+73.799	on the order of 2,200 videos,
+77.804	covering everything from basic arithmetic,
+77.804	all the way to vector calculus,
+82.019	and some of the stuff
+82.019	that you saw up there.
+84.26	We have a million students
+84.26	a month using the site,
+87.688	watching on the order
+87.688	of 100 to 200,000 videos a day.
+91.26	But what we're going to talk about in this
+91.26	is how we're going to the next level.
+95.934	But before I do that,
+97.26	I want to talk a little bit
+97.26	about really just how I got started.
+101.18	And some of you all might know,
+103.505	about five years ago,
+103.505	I was an analyst at a hedge fund,
+106.55	and I was in Boston,
+109.042	and I was tutoring my cousins
+109.042	in New Orleans, remotely.
+112.154	And I started putting
+112.154	the first YouTube videos up,
+114.519	really just as a kind of nice-to-have,
+116.377	just kind of a supplement for my cousins,
+118.526	something that might give them
+118.526	a refresher or something.
+121.558	And as soon as I put those
+121.558	first YouTube videos up,
+124.222	something interesting happened.
+125.75	Actually, a bunch of interesting
+125.75	things happened.
+128.118	The first was the feedback
+128.118	from my cousins.
+130.967	They told me that they preferred
+130.967	me on YouTube than in person.
+135.732	(Laughter)
+142.733	And once you get over
+142.733	the backhanded nature of that,
+147.047	there was actually something
+147.047	very profound there.
+149.379	They were saying that they preferred
+149.379	the automated version of their cousin
+153.229	to their cousin.
+154.84	At first it's very unintuitive,
+156.353	but when you think about it from their
+156.353	point of view, it makes a ton of sense.
+160.135	You have this situation where now
+160.135	they can pause and repeat their cousin,
+163.979	without feeling
+163.979	like they're wasting my time.
+167.027	If they have to review something
+169.423	that they should have learned
+169.423	a couple of weeks ago,
+172.002	or maybe a couple of years ago,
+174.248	they don't have to be embarrassed
+174.248	and ask their cousin.
+176.93	They can just watch those videos;
+176.93	if they're bored, they can go ahead.
+180.296	They can watch at their own time and pace.
+182.344	Probably the least-appreciated aspect
+182.344	of this
+187.169	is the notion that the very first time
+189.764	that you're trying to get
+189.764	your brain around a new concept,
+193.636	the very last thing you need
+195.26	is another human being saying,
+195.26	"""Do you understand this?"""
+198.454	And that's what was happening
+199.872	with the interaction
+199.872	with my cousins before,
+201.991	and now they can just do it
+201.991	in the intimacy of their own room.
+208.573	The other thing that happened is --
+210.294	I put them on YouTube just --
+213.811	I saw no reason to make it private,
+215.634	so I let other people watch it,
+217.26	and then people started stumbling on it,
+219.26	and I started getting
+219.26	some comments and some letters
+222.782	and all sorts of feedback
+225.012	from random people around the world.
+226.972	These are just a few.
+229.922	This is actually from one
+229.922	of the original calculus videos.
+233.44	Someone wrote it on YouTube,
+233.44	it was a YouTube comment:
+236.545	"""First time I smiled doing a derivative."""
+239.26	(Laughter)
+242.18	Let's pause here.
+244.006	This person did a derivative,
+245.982	and then they smiled.
+247.183	(Laughter)
+248.988	In response to that same comment --
+250.695	this is on the thread, you can go
+250.695	on YouTube and look at the comments --
+254.17	"someone else wrote: ""Same thing here."
+255.972	I actually got a natural high
+255.972	and a good mood for the entire day,
+259.069	since I remember seeing
+259.069	all of this matrix text in class,
+263.521	"and here I'm all like, 'I know kung fu.'"""
+266.26	(Laughter)
+270.545	We get a lot of feedback
+270.545	along those lines.
+272.92	This clearly was helping people.
+274.625	But then, as the viewership
+274.625	kept growing and kept growing,
+278.351	I started getting letters from people,
+280.946	and it was starting to become clear
+282.707	that it was more than just a nice-to-have.
+284.813	This is just an excerpt
+284.813	from one of those letters:
+288.26	"""My 12 year-old son has autism,"
+290.755	and has had a terrible time with math.
+293.001	We have tried everything,
+294.26	viewed everything, bought everything.
+296.26	We stumbled on your video
+296.26	on decimals, and it got through.
+299.969	Then we went on to the dreaded fractions.
+301.977	Again, he got it.
+303.152	We could not believe it.
+304.342	"He is so excited."""
+306.444	And so you can imagine,
+307.834	here I was, an analyst at a hedge fund --
+311.992	it was very strange for me to do
+311.992	something of social value.
+315.285	(Laughter)
+317.26	(Applause)
+323.964	But I was excited, so I kept going.
+327.26	And then a few other things
+327.26	started to dawn on me;
+329.982	that not only would it
+329.982	help my cousins right now,
+332.474	or these people who were sending letters,
+334.553	but that this content will never grow old,
+337.449	that it could help their kids
+337.449	or their grandkids.
+340.767	If Isaac Newton had done
+340.767	YouTube videos on calculus,
+345.553	I wouldn't have to.
+346.815	(Laughter)
+348.624	Assuming he was good. We don't know.
+351.26	(Laughter)
+353.886	The other thing that happened --
+353.886	and even at this point, I said,
+356.95	"""OK, maybe it's a good supplement."
+356.95	It's good for motivated students.
+360.188	"It's good for maybe home-schoolers."""
+362.038	But I didn't think it would somehow
+362.038	penetrate the classroom.
+365.337	Then I started getting
+365.337	letters from teachers,
+367.487	and the teachers would write, saying,
+369.336	"""We've used your videos"
+369.336	to flip the classroom.
+371.581	You've given the lectures,
+371.581	"so now what we do --"""
+374.182	And this could happen in every classroom
+374.182	in America tomorrow --
+377.744	"""what I do is I assign"
+377.744	the lectures for homework,
+381.022	and what used to be homework,
+383.069	I now have the students
+383.069	"doing in the classroom."""
+386.045	And I want to pause here --
+388.537	(Applause)
+393.154	I want to pause here, because there's
+393.154	a couple of interesting things.
+396.475	One, when those teachers are doing that,
+398.7	there's the obvious benefit --
+400.26	the benefit that now their students
+402.784	can enjoy the videos in the way
+402.784	that my cousins did,
+405.33	they can pause, repeat at their
+405.33	own pace, at their own time.
+408.76	But the more interesting thing --
+408.76	and this is the unintuitive thing
+411.965	when you talk about technology
+411.965	in the classroom --
+414.367	by removing the one-size-fits-all
+414.367	lecture from the classroom,
+417.277	and letting students have
+417.277	a self-paced lecture at home,
+420.301	then when you go to the classroom,
+421.976	letting them do work,
+421.976	having the teacher walk around,
+424.5	having the peers actually be able
+424.5	to interact with each other,
+427.61	these teachers have used technology
+427.61	to humanize the classroom.
+433.268	They took a fundamentally
+433.268	dehumanizing experience --
+438.269	not allowed to interact with each other.
+440.247	A teacher, no matter how good,
+441.763	has to give this one-size-fits-all
+441.763	lecture to 30 students --
+445.096	blank faces, slightly antagonistic --
+447.483	and now it's a human experience,
+449.078	now they're actually
+449.078	interacting with each other.
+451.411	So once the Khan Academy --
+454.22	I quit my job,
+455.396	and we turned into a real organization --
+457.864	we're a not-for-profit --
+459.681	the question is, how do we take this
+459.681	to the next level?
+462.799	How do we take what those teachers
+462.799	were doing to its natural conclusion?
+466.331	And so, what I'm showing over here,
+468.26	these are actual exercises
+470.918	that I started writing for my cousins.
+473.26	The ones I started
+473.26	were much more primitive.
+475.38	This is a more competent version of it.
+478.774	But the paradigm here is, we'll generate
+478.774	as many questions as you need,
+482.187	until you get that concept,
+482.187	until you get 10 in a row.
+485.26	And the Khan Academy videos are there.
+487.26	You get hints, the actual
+487.26	steps for that problem,
+489.617	if you don't know how to do it.
+491.598	The paradigm here seems
+491.598	like a very simple thing:
+495.154	But it's fundamentally different
+496.758	than what's happening
+496.758	in classrooms right now.
+499.069	In a traditional classroom,
+500.995	you have homework, lecture,
+500.995	homework, lecture,
+504.26	and then you have a snapshot exam.
+506.123	And that exam, whether you get
+506.123	a 70 percent, an 80 percent,
+509.804	a 90 percent or a 95 percent,
+511.273	the class moves on to the next topic.
+513.74	And even that 95 percent student --
+515.509	what was the five percent
+515.509	they didn't know?
+517.542	Maybe they didn't know what happens when
+517.542	you raise something to the zeroth power.
+521.387	Then you build on that
+521.387	in the next concept.
+523.66	That's analogous to --
+523.66	imagine learning to ride a bicycle.
+527.024	Maybe I give you a lecture ahead of time,
+529.917	and I give you a bicycle for two weeks,
+529.917	then I come back after two weeks,
+533.854	"and say, ""Well, let's see."
+533.854	You're having trouble taking left turns.
+537.028	You can't quite stop.
+537.028	"You're an 80 percent bicyclist."""
+540.289	"So I put a big ""C"" stamp"
+540.289	on your forehead --
+542.735	(Laughter)
+543.821	"and then I say, ""Here's a unicycle."""
+545.607	(Laughter)
+546.725	But as ridiculous as that sounds,
+548.584	that's exactly what's happening
+548.584	in our classrooms right now.
+552.26	And the idea is you fast forward
+554.893	and good students start failing
+554.893	algebra all of the sudden,
+557.903	and start failing
+557.903	calculus all of the sudden,
+560.231	despite being smart,
+560.231	despite having good teachers,
+562.613	and it's usually because they have
+562.613	these Swiss cheese gaps
+565.381	that kept building
+565.381	throughout their foundation.
+567.614	So our model is: learn math
+567.614	the way you'd learn anything,
+571.216	like riding a bicycle.
+572.586	Stay on that bicycle.
+572.586	Fall off that bicycle.
+575.681	Do it as long as necessary,
+575.681	until you have mastery.
+578.736	The traditional model,
+580.26	it penalizes you
+580.26	for experimentation and failure,
+582.856	but it does not expect mastery.
+584.903	We encourage you to experiment.
+584.903	We encourage you to fail.
+587.991	But we do expect mastery.
+591.181	This is just another one of the modules.
+593.125	This is trigonometry.
+594.569	This is shifting and reflecting functions.
+597.831	And they all fit together.
+599.259	We have about 90 of these right now.
+601.241	You can go to the site right now,
+602.874	it's all free,
+602.874	not trying to sell anything.
+604.97	But the general idea is that they all
+604.97	fit into this knowledge map.
+608.134	That top node right there,
+608.134	that's literally single-digit addition,
+611.277	it's like one plus one is equal to two.
+613.576	The paradigm is, once you get
+615.952	it keeps forwarding you
+615.952	to more and more advanced modules.
+619.159	Further down the knowledge map,
+622.262	we're getting into more
+622.262	advanced arithmetic.
+624.533	Further down, you start getting
+624.533	into pre-algebra and early algebra.
+627.73	Further down, you start getting
+627.73	into algebra one, algebra two,
+631.497	a little bit of precalculus.
+633.402	And the idea is, from this we can
+633.402	actually teach everything --
+636.623	well, everything that can be taught
+636.623	in this type of a framework.
+640.489	So you can imagine -- and this
+640.489	is what we are working on --
+643.322	from this knowledge map, you have
+643.322	logic, you have computer programming,
+646.909	you have grammar, you have genetics,
+649.433	all based off of that core of,
+649.433	if you know this and that,
+652.616	now you're ready for this next concept.
+655.869	Now that can work well
+655.869	for an individual learner,
+658.195	and I encourage you
+658.195	to do it with your kids,
+660.351	but I also encourage everyone
+660.351	in the audience to do it yourself.
+663.414	It'll change what happens
+663.414	at the dinner table.
+665.64	But what we want to do
+666.82	is use the natural conclusion
+666.82	of the flipping of the classroom
+669.922	that those early teachers
+669.922	had emailed me about.
+672.319	And so what I'm showing you here,
+673.936	this is data from a pilot
+673.936	in the Los Altos school district,
+676.848	where they took two fifth-grade classes
+676.848	and two seventh-grade classes,
+680.188	and completely gutted
+680.188	their old math curriculum.
+682.463	These kids aren't using textbooks,
+682.463	or getting one-size-fits-all lectures.
+685.922	They're doing Khan Academy, that software,
+685.922	for roughly half of their math class.
+689.939	I want to be clear: we don't view this
+689.939	as a complete math education.
+693.17	What it does is -- this is
+693.17	what's happening in Los Altos --
+696.092	it frees up time --
+696.092	it's the blocking and tackling,
+698.517	making sure you know how to move
+698.517	through a system of equations,
+701.517	and it frees up time
+701.517	for the simulations, for the games,
+704.176	for the mechanics, for the robot-building,
+706.216	for the estimating how high
+706.216	that hill is based on its shadow.
+709.122	And so the paradigm is
+709.122	the teacher walks in every day,
+711.702	every kid works at their own pace --
+713.504	this is actually a live dashboard
+713.504	from the Los Altos school district --
+717.059	and they look at this dashboard.
+718.654	Every row is a student.
+720.368	Every column is one of those concepts.
+722.26	Green means the student's
+722.26	already proficient.
+724.427	Blue means they're working
+724.427	on it -- no need to worry.
+726.975	Red means they're stuck.
+728.688	And what the teacher does
+728.688	is literally just say,
+731.957	"""Let me intervene on the red kids."""
+733.656	"Or even better, ""Let me get"
+733.656	one of the green kids,
+736.045	who are already proficient
+736.045	in that concept,
+738.115	to be the first line of attack,
+738.115	"and actually tutor their peer."""
+743.26	(Applause)
+748.885	Now, I come from a very
+748.885	data-centric reality,
+752.26	so we don't want that teacher
+752.26	to even go and intervene
+755.023	and have to ask the kid awkward questions:
+757.093	"""What don't you understand? What do"
+757.093	"you understand?"" and all the rest."
+760.427	So our paradigm is to arm teachers
+760.427	with as much data as possible --
+763.686	data that, in any other
+763.686	field, is expected,
+765.76	in finance, marketing, manufacturing --
+767.823	so the teachers can diagnose
+767.823	what's wrong with the students
+770.644	so they can make their interaction
+770.644	as productive as possible.
+773.556	Now teachers know exactly
+773.556	what the students have been up to,
+776.414	how long they've spent each day,
+776.414	what videos they've watched,
+779.323	when did they pause the videos,
+779.323	what did they stop watching,
+782.181	what exercises are they using,
+782.181	what have they focused on?
+784.928	The outer circle shows
+784.928	what exercises they were focused on.
+787.825	The inner circle shows
+787.825	the videos they're focused on.
+791.141	The data gets pretty granular,
+792.602	so you can see the exact problems
+792.602	the student got right or wrong.
+795.713	Red is wrong, blue is right.
+797.466	The leftmost question is the first one
+797.466	the student attempted.
+800.464	They watched the video over there.
+802.13	And you can see, eventually
+802.13	they were able to get 10 in a row.
+805.098	It's almost like you can see them
+805.098	learning over those last 10 problems.
+808.477	They also got faster -- the height
+808.477	is how long it took them.
+813.481	When you talk about self-paced learning,
+813.481	it makes sense for everyone --
+818.004	in education-speak,
+818.004	"""differentiated learning"" --"
+820.449	but it's kind of crazy, what happens
+820.449	when you see it in a classroom.
+824.155	Because every time we've done this,
+824.155	in every classroom we've done,
+828.623	over and over again,
+828.623	if you go five days into it,
+830.971	there's a group of kids who've raced ahead
+833.008	and a group who are a little bit slower.
+834.945	In a traditional model,
+834.945	in a snapshot assessment,
+837.372	"you say, ""These are the gifted kids,"
+837.372	these are the slow kids.
+840.308	Maybe they should be tracked differently.
+842.3	Maybe we should put them
+842.3	"in different classes."""
+844.554	But when you let students
+844.554	work at their own pace --
+846.982	we see it over and over again --
+848.607	you see students who took
+848.607	a little bit extra time
+851.056	on one concept or the other,
+852.931	but once they get through that concept,
+855.151	they just race ahead.
+856.523	And so the same kids that you
+856.523	thought were slow six weeks ago,
+859.919	you now would think are gifted.
+861.602	And we're seeing it over and over again.
+863.618	It makes you really wonder
+865.427	how much all of the labels maybe
+865.427	a lot of us have benefited from
+868.75	were really just due
+868.75	to a coincidence of time.
+874.487	Now as valuable as something like this is
+874.487	in a district like Los Altos,
+879.543	our goal is to use technology
+881.26	to humanize, not just in Los Altos,
+881.26	but on a global scale,
+884.26	what's happening in education.
+886.787	And that brings up an interesting point.
+889.112	A lot of the effort
+889.112	in humanizing the classroom
+891.866	is focused on student-to-teacher ratios.
+894.81	In our mind, the relevant metric is:
+897.333	student-to-valuable-human-time-
+897.333	with-the-teacher ratio.
+901.259	So in a traditional model,
+901.259	most of the teacher's time
+903.808	is spent doing lectures
+903.808	and grading and whatnot.
+906.204	Maybe five percent of their time
+906.204	is sitting next to students
+909.124	and working with them.
+910.308	Now, 100 percent of their time is.
+912.339	So once again, using technology,
+912.339	not just flipping the classroom,
+915.633	you're humanizing
+915.633	the classroom, I'd argue,
+918.015	by a factor of five or 10.
+920.656	As valuable as that is in Los Altos,
+922.41	imagine what it does to the adult learner,
+924.475	who's embarrassed to go back
+924.475	and learn stuff
+926.562	they should have known
+926.562	before going back to college.
+929.038	Imagine what it does
+929.038	to a street kid in Calcutta,
+934.995	who has to help his family during the day,
+937.761	and that's the reason
+937.761	he or she can't go to school.
+940.191	Now they can spend two hours
+940.191	a day and remediate,
+942.698	or get up to speed
+942.698	and not feel embarrassed
+945.047	about what they do or don't know.
+947.666	Now imagine what happens where --
+949.318	we talked about the peers
+949.318	teaching each other
+952.253	inside of a classroom.
+954.086	But this is all one system.
+955.84	There's no reason why you can't
+955.84	have that peer-to-peer tutoring
+959.166	beyond that one classroom.
+961.26	Imagine what happens
+961.26	if that student in Calcutta
+964.26	all of the sudden can tutor your son,
+966.452	or your son can tutor
+966.452	that kid in Calcutta.
+969.381	And I think what you'll see emerging
+971.26	is this notion of a global
+971.26	one-world classroom.
+977.862	And that's essentially
+977.862	what we're trying to build.
+981.822	Thank you.
+982.998	(Applause)
+991.22	Bill Gates: I'll ask about two
+991.22	or three questions.
+993.68	Salman Khan: Oh, OK.
+995.426	(Applause continues)
+1022.971	(Applause ends)
+1024.344	BG: I've seen some things
+1024.344	you're doing in the system,
+1027.304	that have to do with motivation
+1027.304	and feedback --
+1029.765	energy points, merit badges.
+1032.26	Tell me what you're thinking there.
+1034.315	SK: Oh yeah. No, we have
+1034.315	an awesome team working on it.
+1036.935	I have to be clear,
+1036.935	it's not just me anymore.
+1039.062	I'm still doing all the videos,
+1040.571	but we have a rock-star team
+1040.571	doing the software.
+1042.897	We've put a bunch of game mechanics
+1042.897	in there, where you get badges,
+1046.08	we're going to start having leader boards
+1046.08	by area, you get points.
+1049.363	It's actually been pretty interesting.
+1051.213	Just the wording of the badging,
+1052.796	or how many points you get
+1052.796	for doing something,
+1055.027	we see on a system-wide basis,
+1056.688	like tens of thousands
+1056.688	of fifth-graders or sixth-graders
+1059.35	going one direction or another,
+1059.35	depending what badge you give them.
+1062.549	(Laughter)
+1064.636	BG: And the collaboration
+1064.636	you're doing with Los Altos,
+1067.26	how did that come about?
+1069.461	SK: Los Altos, it was kind of crazy.
+1072.524	Once again, I didn't expect it
+1072.524	to be used in classrooms.
+1075.357	Someone from their board came and said,
+1077.26	"""What would you do if you had"
+1077.26	"carte Blanche in a classroom?"""
+1080.111	"I said, ""Well, every student"
+1080.111	would work at their own pace,
+1083.151	on something like this,
+1083.151	"we'd give a dashboard."""
+1085.372	"They said, ""This is kind of radical."
+1085.372	"We have to think about it."""
+1088.595	Me and the rest of the team were like,
+1088.595	"""They're never going to want to do this."""
+1092.421	But literally the next day they were like,
+1092.421	"""Can you start in two weeks?"""
+1095.866	(Laughter)
+1097.341	BG: So fifth-grade math
+1097.341	is where that's going on right now?
+1100.262	SK: It's two fifth-grade classes
+1100.262	and two seventh-grade classes.
+1103.285	They're doing it at the district level.
+1105.175	I think what they're excited about
+1105.175	is they can follow these kids,
+1108.271	not only in school; on Christmas,
+1108.271	we saw some of the kids were doing it.
+1111.708	We can track everything, track them
+1111.708	as they go through the entire district.
+1115.26	Through the summers, as they go
+1115.26	from one teacher to the next,
+1118.212	you have this continuity of data that
+1118.212	even at the district level, they can see.
+1122.036	BG: So some of those views we saw
+1122.036	were for the teacher
+1125.26	to go in and track actually
+1125.26	what's going on with those kids.
+1128.975	So you're getting feedback
+1128.975	on those teacher views
+1131.325	to see what they think they need?
+1133.062	SK: Oh yeah. Most of those
+1133.062	were specs by the teachers.
+1137.442	We made some of those for students
+1137.442	so they could see their data,
+1140.476	but we have a very tight design loop
+1140.476	with the teachers themselves.
+1143.612	And they're saying,
+1143.612	"""Hey, this is nice, but --"""
+1145.86	Like that focus graph,
+1145.86	a lot of the teachers said,
+1148.273	"""I have a feeling a lot of the kids"
+1148.273	are jumping around
+1150.837	"and not focusing on one topic."""
+1152.463	So we made that focus diagram.
+1153.96	So it's all been teacher-driven.
+1153.96	It's been pretty crazy.
+1156.624	BG: Is this ready for prime time?
+1158.221	Do you think a lot of classes next school
+1158.221	year should try this thing out?
+1162.599	SK: Yeah, it's ready.
+1163.781	We've got a million people
+1163.781	on the site already,
+1166.523	so we can handle a few more.
+1169.479	(Laughter)
+1171.26	No, no reason why it really can't happen
+1173.26	in every classroom in America tomorrow.
+1175.894	BG: And the vision of the tutoring thing.
+1178.398	The idea there is,
+1178.398	if I'm confused about a topic,
+1181.26	somehow right in the user interface,
+1183.436	I'd find people who are volunteering,
+1185.596	maybe see their reputation,
+1187.358	and I could schedule and connect up
+1187.358	with those people?
+1190.559	SK: Absolutely. And this is something
+1190.559	I recommend everyone in this audience do.
+1194.332	Those dashboards the teachers have,
+1194.332	you can go log in right now
+1197.418	and you can essentially become a coach
+1199.26	for your kids, your nephews, your cousins,
+1202.26	or maybe some kids
+1202.26	at the Boys and Girls Club.
+1205.113	And yeah, you can start
+1205.113	becoming a mentor, a tutor,
+1207.669	really immediately.
+1209.165	But yeah, it's all there.
+1211.15	BG: Well, it's amazing.
+1212.332	I think you just got a glimpse
+1212.332	of the future of education.
+1215.418	BG: Thank you.
+1215.418	SK: Thank you.
+1217.26	(Applause)

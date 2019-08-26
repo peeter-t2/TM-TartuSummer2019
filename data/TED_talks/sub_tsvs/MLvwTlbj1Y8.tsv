@@ -1,0 +1,452 @@
+startsecond	text
+15.26	So today, I would like to talk with you
+18.26	about bionics,
+20.26	which is the popular term
+22.26	for the science of replacing part of a living organism
+25.26	with a mechatronic device, or a robot.
+28.26	It is essentially
+30.26	the stuff of life meets machine.
+33.26	And specifically, I'd like to talk with you
+35.26	about how bionics is evolving
+38.26	for people with arm amputations.
+41.26	This is our motivation.
+44.26	Arm amputation causes a huge disability.
+47.26	I mean, the functional impairment is clear.
+49.26	Our hands are amazing instruments.
+51.26	And when you lose one, far less both,
+54.26	it's a lot harder to do the things
+56.26	we physically need to do.
+58.26	There's also a huge emotional impact.
+60.26	And actually, I spend as much of my time in clinic
+62.26	dealing with the emotional adjustment of patients
+65.26	as with the physical disability.
+67.26	And finally, there's a profound social impact.
+70.26	We talk with our hands.
+72.26	We greet with our hands.
+74.26	And we interact with the physical world with our hands.
+77.26	And when they're missing,
+79.26	it's a barrier.
+81.26	Arm amputation is usually caused by trauma,
+84.26	with things like industrial accidents,
+86.26	motor vehicle collisions
+88.26	or, very poignantly, war.
+90.26	There are also some children who are born without arms,
+93.26	called congenital limb deficiency.
+96.26	Unfortunately, we don't do great
+98.26	with upper-limb prosthetics.
+100.26	There are two general types.
+102.26	They're called body-powered prostheses,
+104.26	which were invented just after the Civil War,
+106.26	refined in World War I and World War II.
+109.26	Here you see a patent
+111.26	for an arm in 1912.
+113.26	It's not a lot different
+115.26	than the one you see on my patient.
+118.26	They work by harnessing shoulder power.
+120.26	So when you squish your shoulders, they pull on a bicycle cable.
+123.26	And that bicycle cable can open or close a hand or a hook
+126.26	or bend an elbow.
+128.26	And we still use them commonly,
+130.26	because they're very robust
+132.26	and relatively simple devices.
+134.26	The state of the art
+136.26	is what we call myoelectric prostheses.
+138.26	These are motorized devices
+140.26	that are controlled
+142.26	by little electrical signals from your muscle.
+144.26	Every time you contract a muscle,
+146.26	it emits a little electricity
+148.26	that you can record with antennae or electrodes
+150.26	and use that to operate the motorized prosthesis.
+153.26	They work pretty well
+155.26	for people who have just lost their hand,
+157.26	because your hand muscles are still there.
+159.26	You squeeze your hand, these muscles contract.
+161.26	You open it, these muscles contract.
+163.26	So it's intuitive, and it works pretty well.
+166.26	Well how about with higher levels of amputation?
+168.26	Now you've lost your arm above the elbow.
+170.26	You're missing not only these muscles,
+172.26	but your hand and your elbow too.
+174.26	What do you do?
+176.26	Well our patients have to use
+178.26	very code-y systems
+181.26	of using just their arm muscles
+183.26	to operate robotic limbs.
+186.26	We have robotic limbs.
+188.26	There are several available on the market, and here you see a few.
+191.26	They contain just a hand that will open and close,
+194.26	a wrist rotator and an elbow.
+196.26	There's no other functions.
+198.26	If they did, how would we tell them what to do?
+200.26	We built our own arm at the Rehab Institute of Chicago
+203.26	where we've added some wrist flexion and shoulder joints
+206.26	to get up to six motors, or six degrees of freedom.
+209.26	And we've had the opportunity to work with some very advanced arms
+212.26	that were funded by the U.S. military, using these prototypes,
+215.26	that had up to 10 different degrees of freedom
+218.26	including movable hands.
+220.26	But at the end of the day,
+222.26	how do we tell these robotic arms what to do?
+224.26	How do we control them?
+226.26	Well we need a neural interface,
+228.26	a way to connect to our nervous system
+230.26	or our thought processes
+232.26	so that it's intuitive, it's natural,
+234.26	like for you and I.
+238.26	Well the body works by starting a motor command in your brain,
+241.26	going down your spinal cord,
+243.26	out the nerves and to your periphery.
+245.26	And your sensation's the exact opposite.
+247.26	You touch yourself, there's a stimulus
+249.26	that comes up those very same nerves back up to your brain.
+253.26	When you lose your arm, that nervous system still works.
+256.26	Those nerves can put out command signals.
+259.26	And if I tap the nerve ending
+261.26	on a World War II vet,
+263.26	he'll still feel his missing hand.
+265.26	So you might say,
+267.26	let's go to the brain
+269.26	and put something in the brain to record signals,
+272.26	or in the end of the peripheral nerve and record them there.
+275.26	And these are very exciting research areas,
+278.26	but it's really, really hard.
+280.26	You have to put in
+282.26	hundreds of microscopic wires
+284.26	to record from little tiny individual neurons -- ordinary fibers
+288.26	that put out tiny signals
+290.26	that are microvolts.
+292.26	And it's just too hard
+294.26	to use now and for my patients today.
+296.26	So we developed a different approach.
+299.26	We're using a biological amplifier
+302.26	to amplify these nerve signals -- muscles.
+305.26	Muscles will amplify the nerve signals
+307.26	about a thousand-fold,
+309.26	so that we can record them from on top of the skin,
+312.26	like you saw earlier.
+314.26	So our approach is something we call targeted reinnervation.
+317.26	Imagine, with somebody who's lost their whole arm,
+320.26	we still have four major nerves
+322.26	that go down your arm.
+324.26	And we take the nerve away from your chest muscle
+327.26	and let these nerves grow into it.
+330.26	"Now you think, ""Close hand,"" and a little section of your chest contracts."
+333.26	"You think, ""Bend elbow,"""
+335.26	a different section contracts.
+337.26	And we can use electrodes or antennae
+339.26	to pick that up and tell the arm to move.
+342.26	That's the idea.
+344.26	So this is the first man that we tried it on.
+347.26	His name is Jesse Sullivan.
+349.26	He's just a saint of a man --
+353.26	and had both of his arms burnt so badly
+356.26	they had to be amputated at the shoulder.
+358.26	Jesse came to us at the RIC
+360.26	to be fit with these state-of-the-art devices, and here you see them.
+363.26	I'm still using that old technology
+366.26	with a bicycle cable on his right side.
+368.26	And he picks which joint he wants to move with those chin switches.
+371.26	On the left side he's got a modern motorized prosthesis
+374.26	with those three joints,
+376.26	and he operates little pads in his shoulder
+379.26	that he touches to make the arm go.
+381.26	And Jesse's a good crane operator,
+383.26	and he did okay by our standards.
+385.26	He also required a revision surgery on his chest.
+388.26	And that gave us the opportunity
+390.26	to do targeted reinnervation.
+392.26	So my colleague, Dr. Greg Dumanian, did the surgery.
+395.26	First, we cut away the nerve to his own muscle,
+398.26	then we took the arm nerves
+400.26	and just kind of had them shift down onto his chest
+402.26	and closed him up.
+404.26	And after about three months,
+406.26	the nerves grew in a little bit and we could get a twitch.
+408.26	And after six months, the nerves grew in well,
+411.26	and you could see strong contractions.
+413.26	And this is what it looks like.
+415.26	This is what happens when Jesse thinks
+417.26	open and close his hand,
+419.26	or bend or straighten your elbow.
+422.26	You can see the movements on his chest,
+424.26	and those little hash marks
+426.26	are where we put our antennae, or electrodes.
+428.26	And I challenge anybody in the room
+430.26	to make their chest go like this.
+432.26	His brain is thinking about his arm.
+434.26	He has not learned how to do this with the chest.
+437.26	There is not a learning process.
+439.26	That's why it's intuitive.
+441.26	So here's Jesse in our first little test with him.
+444.26	On the left-hand side, you see his original prosthesis,
+447.26	and he's using those switches
+449.26	to move little blocks from one box to the other.
+451.26	He's had that arm for about 20 months, so he's pretty good with it.
+454.26	On the right side,
+456.26	two months after we fit him with his targeted reinnervation prosthesis --
+459.26	which, by the way, is the same physical arm,
+462.26	just programmed a little different --
+464.26	you can see that he's much faster
+466.26	and much smoother as he moves these little blocks.
+469.26	And we're only able to use three of the signals at this time.
+472.26	Then we had one of those little surprises in science.
+477.26	So we're all motivated to get motor commands
+479.26	to drive robotic arms.
+481.26	And after a few months,
+483.26	you touch Jesse on his chest,
+485.26	and he felt his missing hand.
+488.26	His hand sensation grew into his chest again
+490.26	probably because we had also taken away a lot of fat,
+493.26	so the skin was right down to the muscle
+495.26	and deinnervated, if you would, his skin.
+497.26	So you touch Jesse here, he feels his thumb;
+499.26	you touch it here, he feels his pinky.
+501.26	He feels light touch
+503.26	down to one gram of force.
+505.26	He feels hot, cold, sharp, dull,
+508.26	all in his missing hand,
+510.26	or both his hand and his chest,
+512.26	but he can attend to either.
+514.26	So this is really exciting for us,
+516.26	because now we have a portal,
+518.26	a portal, or a way to potentially give back sensation,
+522.26	so that he might feel what he touches
+524.26	with his prosthetic hand.
+526.26	Imagine sensors in the hand
+528.26	coming up and pressing on this new hand skin.
+531.26	So it was very exciting.
+533.26	We've also gone on
+535.26	with what was initially our primary population
+537.26	of people with above-the-elbow amputations.
+539.26	And here we deinnervate, or cut the nerve away,
+542.26	just from little segments of muscle
+544.26	and leave others alone
+546.26	that give us our up-down signals
+548.26	and two others that will give us a hand open and close signal.
+551.26	This was one of our first patients, Chris.
+553.26	You see him with his original device
+555.26	on the left there after eight months of use,
+557.26	and on the right, it is two months.
+559.26	He's about four or five times as fast
+562.26	with this simple little performance metric.
+565.26	All right.
+567.26	So one of the best parts of my job
+570.26	is working with really great patients
+572.26	who are also our research collaborators.
+574.26	And we're fortunate today
+576.26	to have Amanda Kitts come and join us.
+578.26	Please welcome Amanda Kitts.
+580.26	(Applause)
+587.26	So Amanda, would you please tell us how you lost your arm?
+590.26	Amanda Kitts: Sure. In 2006, I had a car accident.
+593.26	And I was driving home from work,
+596.26	and a truck was coming the opposite direction,
+598.26	came over into my lane,
+600.26	ran over the top of my car and his axle tore my arm off.
+604.26	Todd Kuiken: Okay, so after your amputation, you healed up.
+607.26	And you've got one of these conventional arms.
+609.26	Can you tell us how it worked?
+612.26	AK: Well, it was a little difficult,
+614.26	because all I had to work with was a bicep and a tricep.
+616.26	So for the simple little things like picking something up,
+619.26	I would have to bend my elbow,
+622.26	and then I would have to cocontract
+624.26	to get it to change modes.
+626.26	When I did that,
+628.26	I had to use my bicep
+631.26	to get the hand to close,
+633.26	use my tricep to get it to open,
+635.26	cocontract again
+637.26	to get the elbow to work again.
+639.26	TK: So it was a little slow?
+641.26	AK: A little slow, and it was just hard to work.
+644.26	You had to concentrate a whole lot.
+646.26	TK: Okay, so I think about nine months later
+649.26	that you had the targeted reinnervation surgery,
+651.26	took six more months to have all the reinnervation.
+654.26	Then we fit her with a prosthesis.
+657.26	And how did that work for you?
+659.26	AK: It works good.
+662.26	I was able to use my elbow
+666.26	and my hand simultaneously.
+669.26	I could work them just by my thoughts.
+671.26	So I didn't have to do any of the cocontracting and all that.
+674.26	TK: A little faster?
+676.26	AK: A little faster. And much more easy, much more natural.
+680.26	TK: Okay, this was my goal.
+683.26	For 20 years, my goal was to let somebody
+686.26	[be] able to use their elbow and hand in an intuitive way
+689.26	and at the same time.
+691.26	And we now have over 50 patients around the world who have had this surgery,
+694.26	including over a dozen of our wounded warriors
+696.26	in the U.S. armed services.
+698.26	The success rate of the nerve transfers is very high.
+701.26	It's like 96 percent.
+703.26	Because we're putting a big fat nerve onto a little piece of muscle.
+706.26	And it provides intuitive control.
+710.26	Our functional testing, those little tests,
+712.26	all show that they're a lot quicker and a lot easier.
+714.26	And the most important thing
+716.26	is our patients have appreciated it.
+718.26	So that was all very exciting.
+720.26	But we want to do better.
+723.26	There's a lot of information in those nerve signals,
+727.26	and we wanted to get more.
+729.26	You can move each finger. You can move your thumb, your wrist.
+732.26	Can we get more out of it?
+734.26	So we did some experiments
+736.26	where we saturated our poor patients with zillions of electrodes
+739.26	and then had them try to do two dozen different tasks --
+742.26	from wiggling a finger to moving a whole arm
+745.26	to reaching for something --
+747.26	and recorded this data.
+749.26	And then we used some algorithms
+751.26	that are a lot like speech recognition algorithms,
+753.26	called pattern recognition.
+755.26	See.
+757.26	(Laughter)
+759.26	And here you can see, on Jesse's chest,
+761.26	when he just tried to do three different things,
+763.26	you can see three different patterns.
+765.26	But I can't put in an electrode
+767.26	"and say, ""Go there."""
+769.26	So we collaborated with our colleagues in University of New Brunswick,
+772.26	came up with this algorithm control,
+774.26	which Amanda can now demonstrate.
+776.26	AK: So I have the elbow that goes up and down.
+781.26	I have the wrist rotation
+783.26	that goes -- and it can go all the way around.
+786.26	And I have the wrist flexion and extension.
+790.26	And I also have the hand closed and open.
+793.26	TK: Thank you, Amanda.
+795.26	Now this is a research arm,
+797.26	but it's made out of commercial components from here down
+800.26	and a few that I've borrowed from around the world.
+803.26	It's about seven pounds,
+806.26	which is probably about what my arm would weigh
+808.26	if I lost it right here.
+810.26	Obviously, that's heavy for Amanda.
+813.26	And in fact, it feels even heavier,
+815.26	because it's not glued on the same.
+817.26	She's carrying all the weight through harnesses.
+819.26	So the exciting part isn't so much the mechatronics,
+822.26	but the control.
+824.26	So we've developed a small microcomputer
+827.26	that is blinking somewhere behind her back
+830.26	and is operating this
+832.26	all by the way she trains it
+834.26	to use her individual muscle signals.
+836.26	So Amanda, when you first started using this arm,
+838.26	how long did it take to use it?
+841.26	AK: It took just about probably three to four hours
+843.26	to get it to train.
+845.26	I had to hook it up to a computer,
+847.26	so I couldn't just train it anywhere.
+849.26	So if it stopped working, I just had to take it off.
+852.26	So now it's able to train
+854.26	with just this little piece on the back.
+856.26	I can wear it around.
+858.26	If it stops working for some reason, I can retrain it.
+861.26	Takes about a minute.
+863.26	TK: So we're really excited,
+865.26	because now we're getting to a clinically practical device.
+868.26	And that's where our goal is --
+870.26	to have something clinically pragmatic to wear.
+874.26	We've also had Amanda able to use
+877.26	some of our more advanced arms that I showed you earlier.
+881.26	Here's Amanda using an arm made by DEKA Research Corporation.
+884.26	And I believe Dean Kamen presented it at TED a few years ago.
+888.26	So Amanda, you can see,
+890.26	has really good control.
+892.26	It's all the pattern recognition.
+894.26	And it now has a hand that can do different grasps.
+897.26	What we do is have the patient go all the way open
+900.26	"and think, ""What hand grasp pattern do I want?"""
+903.26	It goes into that mode,
+905.26	and then you can do up to five or six different hand grasps with this hand.
+907.26	Amanda, how many were you able to do with the DEKA arm?
+910.26	AK: I was able to get four.
+912.26	I had the key grip, I had a chuck grip,
+915.26	I had a power grasp
+917.26	and I had a fine pinch.
+919.26	But my favorite one was just when the hand was open,
+921.26	because I work with kids,
+923.26	and so all the time you're clapping and singing,
+926.26	so I was able to do that again, which was really good.
+929.26	TK: That hand's not so good for clapping.
+931.26	AK: Can't clap with this one.
+933.26	TK: All right. So that's exciting
+935.26	on where we may go with the better mechatronics,
+937.26	if we make them good enough
+939.26	to put out on the market and use in a field trial.
+942.26	I want you to watch closely.
+944.26	(Video) Claudia: Oooooh!
+946.26	TK: That's Claudia,
+948.26	and that was the first time
+950.26	she got to feel sensation through her prosthetic.
+953.26	She had a little sensor at the end of her prosthesis
+956.26	that then she rubbed over different surfaces,
+959.26	and she could feel different textures
+961.26	of sandpaper, different grits, ribbon cable,
+964.26	as it pushed on her reinnervated hand skin.
+967.26	She said that when she just ran it across the table,
+970.26	it felt like her finger was rocking.
+972.26	So that's an exciting laboratory experiment
+974.26	on how to give back, potentially, some skin sensation.
+977.26	But here's another video that shows some of our challenges.
+980.26	This is Jesse, and he's squeezing a foam toy.
+983.26	And the harder he squeezes -- you see a little black thing in the middle
+986.26	that's pushing on his skin proportional to how hard he squeezes.
+989.26	But look at all the electrodes around it.
+991.26	I've got a real estate problem.
+993.26	You're supposed to put a bunch of these things on there,
+995.26	but our little motor's making all kinds of noise
+998.26	right next to my electrodes.
+1000.26	So we're really challenged on what we're doing there.
+1003.26	The future is bright.
+1005.26	We're excited about where we are and a lot of things we want to do.
+1008.26	So for example,
+1010.26	one is to get rid of my real estate problem
+1013.26	and get better signals.
+1015.26	We want to develop these little tiny capsules
+1018.26	about the size of a piece of risotto
+1020.26	that we can put into the muscles
+1022.26	and telemeter out the EMG signals,
+1025.26	so that it's not worrying about electrode contact.
+1028.26	And we can have the real estate open
+1030.26	to try more sensation feedback.
+1032.26	We want to build a better arm.
+1034.26	This arm -- they're always made for the 50th percentile male --
+1038.26	which means they're too big for five-eighths of the world.
+1042.26	So rather than a super strong or super fast arm,
+1045.26	we're making an arm that is --
+1047.26	we're starting with,
+1049.26	the 25th percentile female --
+1052.26	that will have a hand that wraps around,
+1054.26	opens all the way,
+1056.26	two degrees of freedom in the wrist and an elbow.
+1059.26	So it'll be the smallest and lightest
+1061.26	and the smartest arm ever made.
+1063.26	Once we can do it that small,
+1065.26	it's a lot easier making them bigger.
+1067.26	So those are just some of our goals.
+1070.26	And we really appreciate you all being here today.
+1074.26	I'd like to tell you a little bit about the dark side,
+1076.26	with yesterday's theme.
+1078.26	So Amanda came jet-lagged,
+1080.26	she's using the arm,
+1082.26	and everything goes wrong.
+1084.26	There was a computer spook,
+1086.26	a broken wire,
+1088.26	a converter that sparked.
+1090.26	We took out a whole circuit in the hotel
+1092.26	and just about put on the fire alarm.
+1094.26	And none of those problems could I have dealt with,
+1097.26	but I have a really bright research team.
+1099.26	And thankfully Dr. Annie Simon was with us
+1102.26	and worked really hard yesterday to fix it.
+1104.26	That's science.
+1106.26	And fortunately, it worked today.
+1108.26	So thank you very much.
+1110.26	(Applause)

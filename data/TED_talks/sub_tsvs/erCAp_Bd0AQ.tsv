@@ -1,0 +1,378 @@
+startsecond	text
+12.869	Four years ago,
+14.62	a security researcher,
+16.422	or, as most people would call it, a hacker,
+20.671	found a way to literally
+22.838	make ATMs throw money at him.
+26.041	His name was Barnaby Jack,
+29.382	"and this technique was later called ""jackpotting"""
+33.041	in his honor.
+34.95	I'm here today because I think
+36.799	we actually need hackers.
+39.85	Barnaby Jack
+41.712	could have easily turned
+43.199	into a career criminal or James Bond villain
+47.397	with his knowledge,
+48.893	but he chose to show the world
+51.381	his research instead.
+54.07	He believed that sometimes
+55.923	you have to demo a threat
+57.963	to spark a solution.
+60.88	And I feel the same way.
+62.81	That's why I'm here today.
+64.66	We are often terrified and fascinated
+67.938	by the power hackers now have.
+71.399	They scare us.
+73.131	But the choices they make
+75.116	have dramatic outcomes
+77.286	that influence us all.
+80.274	So I am here today because I think we need hackers,
+83.609	and in fact, they just might be
+87.192	the immune system for the information age.
+91.532	Sometimes they make us sick,
+93.565	but they also find those hidden threats
+96.92	in our world,
+98.244	and they make us fix it.
+101.089	I knew that I might get hacked
+103.447	for giving this talk,
+105.855	so let me save you the effort.
+108.328	In true TED fashion,
+110.162	here is my most embarrassing picture.
+114.135	But it would be difficult for you to find me in it,
+117.005	because I'm the one who looks like a boy
+120.743	standing to the side.
+122.548	I was such a nerd back then
+124.93	that even the boys on the
+124.93	Dungeons and Dragons team
+127.532	wouldn't let me join.
+129.729	This is who I was,
+131.714	but this is who I wanted to be:
+135.829	Angelina Jolie.
+137.727	She portrayed Acid Burn
+139.282	"in the '95 film ""Hackers."""
+141.776	She was pretty and she could rollerblade,
+144.954	but being a hacker, that made her powerful.
+149.063	And I wanted to be just like her,
+151.523	so I started spending a lot of time
+153.889	on hacker chat rooms and online forums.
+156.774	I remember one late night
+159.107	I found a bit of PHP code.
+161.368	I didn't really know what it did,
+162.99	but I copy-pasted it
+164.615	and used it anyway
+166.329	to get into a password-protected site
+168.802	like that.
+170.606	Open Sesame.
+172.009	It was a simple trick,
+173.531	and I was just a script kiddie back then,
+176.536	but to me, that trick,
+177.974	it felt like this,
+180.189	like I had discovered limitless potential
+182.633	at my fingertips.
+184.424	This is the rush of power that hackers feel.
+187.733	It's geeks just like me
+190.637	discovering they have access to superpower,
+193.869	one that requires the skill and tenacity
+196.496	of their intellect,
+198.004	but thankfully no radioactive spiders.
+201.565	But with great power
+203.406	comes great responsibility,
+205.71	and you all like to think that if we had such powers,
+209.374	we would only use them for good.
+211.653	But what if you could read your ex's emails,
+215	or add a couple zeros to your bank account.
+218.112	What would you do then?
+220.132	Indeed, many hackers do not resist
+222.369	those temptations,
+224.357	and so they are responsible in one way or another
+227.482	to billions of dollars lost each year
+229.886	to fraud, malware or plain old identity theft,
+233.147	which is a serious issue.
+235.025	But there are other hackers,
+237.01	hackers who just like to break things,
+239.772	and it is precisely those hackers
+242.48	that can find the weaker elements in our world
+245.773	and make us fix it.
+247.45	This is what happened last year
+249.37	when another security researcher
+251.379	called Kyle Lovett
+252.944	discovered a gaping hole
+254.501	in the design of certain wireless routers
+257.461	like you might have in your home or office.
+260	He learned that anyone could remotely connect
+262.645	to these devices over the Internet
+264.967	and download documents from hard drives
+267.728	attached to those routers,
+269.903	no password needed.
+271.75	He reported it to the company, of course,
+274.087	but they ignored his report.
+276.401	Perhaps they thought universal access
+278.265	was a feature, not a bug,
+281.25	until two months ago
+283.105	when a group of hackers used it
+284.538	to get into people's files.
+286.992	But they didn't steal anything.
+289.393	They left a note:
+291.41	Your router and your documents
+293.288	can be accessed by anyone in the world.
+295.447	Here's what you should do to fix it.
+297.715	We hope we helped.
+300.093	By getting into people's files like that,
+302.623	yeah, they broke the law,
+304.083	but they also forced that company
+306.551	to fix their product.
+308.532	Making vulnerabilities known to the public
+310.7	is a practice called full disclosure
+313.445	in the hacker community,
+315.047	and it is controversial,
+317.081	but it does make me think of how hackers
+319.613	have an evolving effect on technologies we use
+322.599	every day.
+324.095	This is what Khalil did.
+326.373	Khalil is a Palestinian hacker from the West Bank,
+328.988	and he found a serious privacy flaw on Facebook
+332.997	which he attempted to report
+334.847	through the company's bug bounty program.
+337.837	These are usually great arrangements for companies
+340.494	to reward hackers disclosing vulnerabilities
+343.671	they find in their code.
+345.36	Unfortunately, due to some miscommunications,
+348.91	his report was not acknowledged.
+351.946	Frustrated with the exchange,
+353.791	he took to use his own discovery
+357.068	to post on Mark Zuckerberg's wall.
+360.203	This got their attention, all right,
+362.97	and they fixed the bug,
+366.265	but because he hadn't reported it properly,
+369.12	he was denied the bounty usually paid out
+371.345	for such discoveries.
+373.349	Thankfully for Khalil,
+375.338	a group of hackers were watching out for him.
+378.224	In fact, they raised more than 13,000 dollars
+382.033	to reward him for this discovery,
+384.111	raising a vital discussion in the technology industry
+387.311	about how we come up with incentives
+390.37	for hackers to do the right thing.
+392.96	But I think there's a greater story here still.
+395.98	Even companies founded by hackers,
+398.915	like Facebook was,
+401.302	still have a complicated relationship
+403.885	when it comes to hackers.
+405.689	And so for more conservative organizations,
+408.52	it is going to take time and adapting
+412.038	in order to embrace hacker culture
+414.62	and the creative chaos that it brings with it.
+417.741	But I think it's worth the effort,
+420.183	because the alternative,
+422.163	to blindly fight all hackers,
+425.993	is to go against the power you cannot control
+428.581	at the cost of stifling innovation
+431.882	and regulating knowledge.
+434.076	These are things that will come back and bite you.
+438.37	It is even more true
+439.848	if we go after hackers
+441.927	that are willing to risk their own freedom
+444.964	for ideals like the freedom of the web,
+447.867	especially in times like this, like today even,
+451.93	as governments and corporates
+454.55	fight to control the Internet.
+457.776	I find it astounding
+460.1	that someone from the shadowy
+460.1	corners of cyberspace
+463.113	can become its voice of opposition,
+465.928	its last line of defense even,
+468.57	perhaps someone like Anonymous,
+471.987	the leading brand of global hacktivism.
+475.84	This universal hacker movement
+478.1	needs no introduction today,
+479.706	but six years ago
+481.809	they were not much more than an Internet subculture
+485.238	dedicated to sharing silly pictures of funny cats
+488.157	and Internet trolling campaigns.
+491.587	Their moment of transformation was in early 2008
+496.429	when the Church of Scientology
+498.079	attempted to remove certain leaked videos
+501.146	from appearing on certain websites.
+505.549	This is when Anonymous was forged
+507.989	out of the seemingly random collection
+510.62	of Internet dwellers.
+512.363	It turns out,
+514.817	the Internet doesn't like it
+516.146	when you try to remove things from it,
+518.769	and it will react with cyberattacks
+521.739	and elaborate pranks
+523.84	and with a series of organized protests
+526.489	all around the world,
+527.834	from my hometown of Tel Aviv
+529.822	to Adelaide, Australia.
+532.066	This proved that Anonymous and this idea
+535.196	can rally the masses from the keyboards
+538.279	to the streets,
+539.855	and it laid the foundations
+541.802	for dozens of future operations
+544.02	against perceived injustices
+545.96	to their online and offline world.
+549.316	Since then, they've gone after many targets.
+551.341	They've uncovered corruption, abuse.
+554.13	They've hacked popes and politicians,
+556.95	and I think their effect is larger
+558.627	than simple denial of service attacks
+561.424	that take down websites
+562.8	or even leak sensitive documents.
+566.438	I think that, like Robin Hood,
+569.48	they are in the business of redistribution,
+573.38	but what they are after isn't your money.
+576.112	It's not your documents. It's your attention.
+580.842	They grab the spotlight for causes they support,
+585.382	forcing us to take note,
+588.013	acting as a global magnifying glass
+590.478	for issues that we are not as aware of
+592.622	but perhaps we should be.
+594.731	They have been called many names
+596.584	from criminals to terrorists,
+598.355	and I cannot justify their illegal means,
+601.801	but the ideas they fight for
+603.942	are ones that matter to us all.
+607.968	The reality is,
+609.951	hackers can do a lot more than break things.
+612.756	They can bring people together.
+615.229	And if the Internet doesn't like it
+617.552	when you try to remove things from it,
+620.199	just watch what happens
+621.1	when you try to shut the Internet down.
+623.929	This took place in Egypt in January 2011,
+628.521	and as President Hosni Mubarak
+631.737	attempted a desperate move
+633.791	to quash the rising revolution on the streets of Cairo,
+637.633	he sent his personal troops
+639.503	down to Egypt's Internet service providers
+643.146	and had them physically kill the switch
+645.617	on the country's connection to the world overnight.
+649.862	For a government to do a thing like that
+651.477	was unprecedented,
+653.196	and for hackers, it made it personal.
+656.66	Hackers like the Telecomix group
+658.748	were already active on the ground,
+660.621	helping Egyptians bypass censorship
+663.439	using clever workarounds like Morse code
+665.929	and ham radio.
+667.957	It was high season for low tech,
+670.086	which the government couldn't block,
+672.65	but when the Net went completely down,
+675.892	Telecomix brought in the big guns.
+678.83	They found European service providers
+681.001	that still had 20-year-old
+683.31	analog dial-up access infrastructure.
+685.89	They opened up 300 of those lines
+689.292	for Egyptians to use,
+691.766	serving slow but sweet Internet connection
+694.603	for Egyptians.
+696.004	This worked.
+697.299	It worked so well, in fact,
+699.092	one guy even used it to download an episode
+701.372	"of ""How I Met Your Mother."""
+705.71	But while Egypt's future is still uncertain,
+709.631	when the same thing happened in Syria
+712.284	just one year later,
+713.804	Telecomix were prepared with those Internet lines,
+717.539	and Anonymous,
+718.708	they were perhaps the first international group
+720.954	to officially denounce the actions
+722.658	of the Syrian military
+724.571	by defacing their website.
+727.375	But with this sort of power,
+730.867	it really depends on where you stand,
+733.213	because one man's hero
+736.722	can be another's villain,
+738.969	and so the Syrian Electronic Army
+741.367	is a pro-Assad group of hackers
+743.838	who support his contentious regime.
+746.503	They've taken down multiple high-profile targets
+749.185	in the past few years,
+750.82	including the Associated Press's Twitter account,
+754.203	in which they posted a message
+757.219	about an attack on the White House
+759.375	injuring President Obama.
+762.638	This tweet was fake, of course,
+764.783	but the resulting drop in the Dow Jones index
+767.722	that day was most certainly not,
+771.099	and a lot of people lost a lot of money.
+774.361	This sort of thing is happening
+774.361	all over the world right now.
+778.267	In conflicts from the Crimean Peninsula
+781.214	to Latin America,
+783.576	from Europe to the United States,
+785.88	hackers are a force for social,
+788.937	political and military influence.
+792.703	As individuals or in groups,
+794.954	volunteers or military conflicts,
+797.594	there are hackers everywhere.
+800.235	They come from all walks of life,
+802.33	ethnicities, ideologies and genders, I might add.
+807.254	They are now shaping the world's stage.
+811.053	Hackers represent an exceptional force for change
+813.898	in the 21st century.
+816.062	This is because access to information
+818.599	is a critical currency of power,
+821.912	one which governments would like to control,
+824.878	a thing they attempt to do by setting up
+827.339	all-you-can-eat surveillance programs,
+830.999	a thing they need hackers for, by the way.
+833.737	And so the establishment has long had
+836.384	a love-hate relationship when it comes to hackers,
+840.091	because the same people who demonize hacking
+842.849	also utilize it at large.
+847.931	Two years ago,
+849.179	I saw General Keith Alexander.
+851.952	He's the NSA director and U.S. cyber commander,
+856.17	but instead of his four star general uniform,
+859.878	he was wearing jeans and a t-shirt.
+862.174	This was at DEF CON,
+863.918	the world's largest hacker conference.
+867.023	Perhaps like me, General Alexander
+868.95	didn't see 12,000 criminals that day in Vegas.
+872.77	I think he saw untapped potential.
+875.881	In fact, he was there to give a hiring pitch.
+879.254	"""In this room right here,"" he said,"
+881.894	"""is the talent our nation needs."""
+884.284	Well, hackers in the back row replied,
+887.664	"""Then stop arresting us."""
+889.79	(Applause)
+893.224	Indeed, for years,
+895.803	hackers have been on the wrong side of the fence,
+898.619	but in light of what we know now,
+901.527	who is more watchful of our online world?
+905.8	The rules of the game are not that clear anymore,
+908.806	but hackers are perhaps the only ones
+912.218	still capable of challenging
+912.218	overreaching governments
+916.101	and data-hoarding corporates
+918.316	on their own playing field.
+920.794	To me, that represents hope.
+923.914	For the past three decades,
+925.238	hackers have done a lot of things,
+926.789	but they have also impacted civil liberties,
+930.006	innovation and Internet freedom,
+932.376	so I think it's time we take a good look
+935.305	at how we choose to portray them,
+937.435	because if we keep expecting
+937.435	them to be the bad guys,
+941.019	how can they be the heroes too?
+944.489	My years in the hacker world
+946.5	have made me realize
+948.142	both the problem and the beauty about hackers:
+953.875	They just can't see something broken in the world
+957.033	and leave it be.
+958.68	They are compelled
+960.36	to either exploit it or try and change it,
+963.89	and so they find the vulnerable aspects
+967.806	in our rapidly changing world.
+969.94	They make us, they force us to fix things
+974.282	or demand something better,
+976.001	and I think we need them
+977.995	to do just that,
+980.201	because after all, it is not information
+983.47	that wants to be free, it's us.
+986.575	Thank you very much.
+989.937	Thank you. (Applause)
+992.295	Hack the planet!

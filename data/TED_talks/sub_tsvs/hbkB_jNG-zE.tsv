@@ -1,0 +1,401 @@
+startsecond	text
+13.066	Twenty-five years ago, scientists at CERN
+13.066	created the World Wide Web.
+18.174	Since then, the Internet has transformed 
+18.174	the way we communicate,
+22.083	the way we do business,
+22.083	and even the way we live.
+25.545	In many ways,
+27.717	the ideas that gave birth to Google,
+27.717	Facebook, Twitter, and so many others,
+32.542	have now really transformed our lives,
+35.146	and this has brought us many real benefits
+35.146	such as a more connected society.
+39.433	However, there are also
+39.433	some downsides to this.
+43.134	Today, the average person
+43.134	has an astounding amount
+45.967	of personal information online,
+48.08	and we add to this online information
+48.08	every single time we post on Facebook,
+51.737	each time we search on Google,
+53.939	and each time we send an email.
+56.341	Now, many of us probably think,
+58.343	well, one email,
+58.343	there's nothing in there, right?
+61.453	But if you consider
+61.453	a year's worth of emails,
+64.659	or maybe even a lifetime of email,
+67.561	collectively, this tells a lot.
+69.907	It tells where we have been,
+69.907	who we have met,
+73.47	and in many ways,
+73.47	even what we're thinking about.
+76.709	And the more scary part about this is
+76.709	our data now lasts forever,
+81.086	so your data can and will outlive you.
+84.093	What has happened is that we've largely
+84.093	lost control over our data
+87.622	and also our privacy.
+89.944	So this year, as the web turns 25,
+93.474	it's very important for us
+93.474	to take a moment
+95.772	and think about the implications of this.
+98.304	We have to really think.
+100.006	We've lost privacy, yes,
+101.796	but actually what we've also lost
+101.796	is the idea of privacy itself.
+105.995	If you think about it,
+107.749	most of us here today probably remember 
+107.749	what life was like before the Internet,
+111.763	but today, there's a new generation
+114.305	that is being taught from a very young age
+114.305	to share everything online,
+117.725	and this is a generation that is not 
+117.725	going to remember when data was private.
+122.204	So we keep going down this road,
+125.592	the word 'privacy' is going to have
+125.592	a completely different meaning
+128.688	from what it means to you and I.
+130.973	So, it's time for us 
+130.973	to take a moment and think,
+133.413	is there anything we can do about this?
+136.22	And I believe there is.
+138.705	Let's take a look at one of the most
+138.705	widely used forms of communication
+142.266	in the world today: email.
+144.533	Before the invention of email,
+144.533	we largely communicated using letters,
+148.294	and the process was quite simple.
+150.616	You would first start by writing
+150.616	your message on a piece of paper,
+153.728	then you would place it
+153.728	into a sealed envelope,
+156.132	and from there,
+156.132	you would go ahead and send it
+158.387	after you put a stamp and address on it.
+160.345	Unfortunately, today,
+161.825	when we actually send an email,
+161.825	we're not sending a letter.
+164.642	What you are sending, in many ways,
+164.642	is actually a postcard,
+167.417	and it's a postcard in the sense
+167.417	that everybody that sees it
+171.064	from the time it leaves your computer
+171.064	to when it gets to the recipient
+174.699	can actually read the entire contents.
+177.319	So, the solution to this
+177.319	has been known for some time,
+180.778	and there's many attempts to do it.
+182.621	The most basic solution
+182.621	is to use encryption,
+185.77	and the idea is quite simple.
+187.697	First, you encrypt the connection
+189.466	between your computer
+189.466	and the email server.
+192.074	Then, you also encrypt the data
+192.074	as it sits on the server itself.
+195.7	But there's a problem with this,
+197.646	and that is, the email servers
+197.646	also hold the encryption keys,
+200.595	so now you have a really big lock
+200.595	with a key placed right next to it.
+204.98	But not only that, any government
+204.98	could lawfully ask for
+208.211	and get the key to your data,
+210.441	and this is all without you
+210.441	being aware of it.
+213.064	So the way we fix this problem
+213.064	is actually relatively easy, in principle:
+218.337	You give everybody their own keys,
+220.739	and then you make sure the server
+220.739	doesn't actually have the keys.
+224.012	This seems like common sense, right?
+226.148	So the question that comes up is,
+226.148	why hasn't this been done yet?
+230.261	Well, if we really think about it,
+232.796	we see that the business model
+232.796	of the Internet today
+235.721	really isn't compatible with privacy.
+237.788	Just take a look at some
+237.788	of the biggest names on the web,
+240.574	and you see that advertising
+240.574	plays a huge role.
+243.501	In fact, this year alone,
+243.501	advertising is 137 billion dollars,
+248.329	and to optimize the ads
+248.329	that are shown to us,
+250.5	companies have to know
+250.5	everything about us.
+252.633	They need to know where we live,
+254.552	how old we are, what we like,
+254.552	what we don't like,
+258.207	and anything else
+258.207	they can get their hands on.
+260.369	And if you think about it,
+262.098	the best way to get this information
+262.098	is really just to invade our privacy.
+266.246	So these companies
+266.246	aren't going to give us our privacy.
+269.437	If we want to have privacy online,
+271.252	what we have to do is
+271.252	we've got to go out and get it ourselves.
+274.795	For many years, when it came to email,
+277.063	the only solution
+277.063	was something known as PGP,
+279.978	which was quite complicated
+279.978	and only accessible to the tech-savvy.
+283.192	Here's a diagram that basically shows
+285.61	the process for encrypting
+285.61	and decrypting messages.
+288.345	So needless to say,
+288.345	this is not a solution for everybody,
+291.231	and this actually is part of the problem,
+294.363	because if you think about communication,
+296.825	by definition, it involves
+296.825	having someone to communicate with.
+301.18	So while PGP does a great job
+301.18	of what it's designed to do,
+304.394	for the people out there
+304.394	who can't understand how to use it,
+307.215	the option to communicate privately
+307.215	simply does not exist.
+310.117	And this is a problem
+310.117	that we need to solve.
+313.125	So if we want to have privacy online,
+315.123	the only way we can succeed
+315.123	is if we get the whole world on board,
+318.442	and this is only possible
+318.442	if we bring down the barrier to entry.
+321.693	I think this is actually the key challenge
+321.693	that lies in the tech community.
+325.222	What we really have to do
+325.222	is work and make privacy more accessible.
+329.285	So last summer, when
+329.285	the Edward Snowden story came out,
+332.281	several colleagues and I decided to see
+332.281	if we could make this happen.
+335.896	At that time, we were working at the
+335.896	European Organization for Nuclear Research
+340.883	at the world's largest particle collider,
+340.883	which collides protons, by the way.
+344.614	We were all scientists,
+344.614	so we used our scientific creativity
+348.059	and came up with a very
+348.059	creative name for our project:
+351.293	ProtonMail.
+351.293	(Laughter)
+353.389	Many startups these days
+353.389	actually begin in people's garages
+356.257	or people's basements.
+357.941	We were a bit different.
+359.438	We started out at the CERN cafeteria,
+362.081	which actually is great, because look,
+364.537	you have all the food
+364.537	and water you could ever want.
+367.01	But even better than this
+367.01	is that every day
+369.49	between 12 p.m. and 2 p.m.,
+369.49	free of charge,
+373.461	the CERN cafeteria comes with
+373.461	several thousand scientists and engineers,
+377.71	and these guys basically know
+377.71	the answers to everything.
+380.496	So it was in this environment
+380.496	that we began working.
+383.283	What we actually want to do
+383.283	is we want to take your email
+386.394	and turn it into something
+386.394	that looks more like this,
+389.854	but more importantly,
+389.854	we want to do it in a way
+392.129	that you can't even tell
+392.129	that it's happened.
+394.274	So to do this, we actually need
+394.274	a combination of technology
+397.261	and also design.
+398.848	So how do we go about
+398.848	doing something like this?
+402.018	Well, it's probably a good idea
+402.018	not to put the keys on the server.
+406.172	So what we do is we generate
+406.172	encryption keys on your computer,
+410.07	and we don't generate a single key,
+410.07	but actually a pair of keys,
+413.858	so there's an RSA private key
+413.858	and an RSA public key,
+417.563	and these keys
+417.563	are mathematically connected.
+420.191	So let's have a look
+420.191	and see how this works
+422.396	when multiple people communicate.
+424.787	So here we have Bob and Alice,
+424.787	who want to communicate privately.
+429.232	So the key challenge
+429.232	is to take Bob's message
+432.794	and to get it to Alice in such a way
+432.794	that the server cannot read that message.
+437.103	So what we have to do
+437.103	is we have to encrypt it
+439.516	before it even leaves Bob's computer,
+441.64	and one of the tricks is, we encrypt it
+441.64	using the public key from Alice.
+446.141	Now this encrypted data is sent
+446.141	through the server to Alice,
+451.333	and because the message was encrypted
+451.333	using Alice's public key,
+455.613	the only key that can now decrypt it
+455.613	is a private key that belongs to Alice,
+459.901	and it turns out Alice is the only person
+459.901	that actually has this key.
+464.616	So we've now accomplished the objective,
+467.284	which is to get the message
+467.284	from Bob to Alice
+469.451	without the server being able
+469.451	to read what's going on.
+472.143	Actually, what I've shown here
+472.143	is a highly simplified picture.
+475.1	The reality is much more complex
+477.105	and it requires a lot of software
+477.105	that looks a bit like this.
+480.819	And that's actually
+480.819	the key design challenge:
+483.259	How do we take all this complexity,
+483.259	all this software,
+486.78	and implement it in a way
+486.78	that the user cannot see it.
+490.898	I think with ProtonMail,
+490.898	we have gotten pretty close to doing this.
+494.496	So let's see how it works in practice.
+496.958	Here, we've got Bob and Alice again,
+499.975	who also want to communicate securely.
+501.945	They simply create accounts on ProtonMail,
+504.132	which is quite simple
+504.132	and takes a few moments,
+506.542	and all the key encryption and generation
+508.964	is happening automatically
+508.964	in the background
+511.354	as Bob is creating his account.
+513.06	Once his account is created,
+513.06	"he just clicks ""compose,"""
+515.602	and now he can write his email
+515.602	like he does today.
+518.589	So he fills in his information,
+520.456	and then after that, 
+520.456	"all he has to do is click ""send,"""
+523.74	and just like that,
+523.74	without understanding cryptography,
+527.281	and without doing anything different
+527.281	from how he writes email today,
+530.834	Bob has just sent an encrypted message.
+533.481	What we have here
+533.481	is really just the first step,
+537.593	but it shows that
+537.593	with improving technology,
+539.89	privacy doesn't have to be difficult,
+539.89	it doesn't have to be disruptive.
+544.065	If we change the goal from maximizing 
+544.065	ad revenue to protecting data,
+548.512	we can actually make it accessible.
+551.008	Now, I know a question
+551.008	on everybody's minds is,
+553.468	okay, protecting privacy,
+553.468	this is a great goal,
+555.858	but can you actually do this
+558.298	without the tons of money
+558.298	that advertisements give you?
+561.09	And I think the answer is actually yes,
+563.476	because today, we've reached a point
+565.706	where people around the world really
+565.706	understand how important privacy is,
+569.652	and when you have that,
+569.652	anything is possible.
+572.625	Earlier this year,
+573.789	ProtonMail actually had so many users 
+573.789	that we ran out of resources,
+577.454	and when this happened,
+577.454	our community of users got together
+580.283	and donated half a million dollars.
+582.399	So this is just an example
+582.399	of what can happen
+584.83	when you bring the community together
+584.83	towards a common goal.
+587.643	We can also leverage the world.
+589.449	Right now,
+590.597	we have a quarter of a million people
+590.597	that have signed up for ProtonMail,
+594.023	and these people come from everywhere,
+595.832	and this really shows that privacy
+597.464	is not just an American
+597.464	or a European issue,
+599.716	it's a global issue
+599.716	that impacts all of us.
+602.061	It's something that we really
+602.061	have to pay attention to going forward.
+605.521	So what do we have to do
+605.521	to solve this problem?
+608.517	Well, first of all,
+610.514	we need to support a different
+610.514	business model for the Internet,
+613.508	one that does not rely
+613.508	entirely on advertisements
+615.841	for revenue and for growth.
+618.175	We actually need to build a new Internet
+620.684	where our privacy and our ability 
+620.684	to control our data is first and foremost.
+626.377	But even more importantly,
+628.122	we have to build an Internet 
+628.122	where privacy is no longer just an option
+632.99	but is also the default.
+635.923	We have done the first step
+635.923	with ProtonMail,
+638.493	but this is really just the first step
+638.493	in a very, very long journey.
+642.074	The good news I can share
+642.074	with you guys today,
+644.997	the exciting news,
+644.997	is that we're not traveling alone.
+647.525	The movement to protect people's privacy
+647.525	and freedom online
+650.375	is really gaining momentum,
+651.861	and today, there are dozens of projects
+651.861	from all around the world
+655.455	who are working together
+655.455	to improve our privacy.
+658.966	These projects protect things
+658.966	from our chat to voice communications,
+662.612	also our file storage, our online search,
+665.416	our online browsing,
+665.416	and many other things.
+668.457	And these projects are not backed
+668.457	by billions of dollars in advertising,
+671.986	but they've found support
+671.986	really from the people,
+674.309	from private individuals like you and I
+674.309	from all over the world.
+677.356	This really matters, because ultimately,
+680.473	privacy depends on each
+680.473	and every one of us,
+683.944	and we have to protect it now
+683.944	because our online data
+686.777	is more than just a collection
+686.777	of ones and zeros.
+689.541	It's actually a lot more than that.
+691.397	It's our lives, our personal stories,
+693.743	our friends, our families,
+696.041	and in many ways,
+696.041	also our hopes and our aspirations.
+699.547	We need to spend time now
+699.547	to really protect our right
+702.651	to share this only with people
+702.651	that we want to share this with,
+705.601	because without this,
+705.601	we simply can't have a free society.
+708.341	So now's the time for us
+708.341	to collectively stand up and say,
+711.194	yes, we do want to live
+711.194	in a world with online privacy,
+714.687	and yes, we can work together
+714.687	to turn this vision into a reality.
+719.215	Thank you.
+721.35	(Applause)

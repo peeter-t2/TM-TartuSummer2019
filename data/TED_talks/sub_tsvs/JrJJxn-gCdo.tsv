@@ -1,0 +1,298 @@
+startsecond	text
+12.864	We live in a very complex environment:
+15.187	complexity and dynamism
+17.091	and patterns of evidence
+19.154	from satellite photographs, from videos.
+22.039	You can even see it outside your window.
+25.05	It's endlessly complex, but somehow familiar,
+28.91	but the patterns kind of repeat,
+30.87	but they never repeat exactly.
+33.36	It's a huge challenge to understand.
+37.487	The patterns that you see
+39.619	are there at all of the different scales,
+43.339	but you can't chop it into one little bit and say,
+46.245	"""Oh, well let me just make a smaller climate."""
+48.908	I can't use the normal products of reductionism
+53.12	to get a smaller and smaller thing that I can study
+55.842	"in a laboratory and say, ""Oh,"
+58.15	"now that's something I now understand."""
+60.546	It's the whole or it's nothing.
+63.913	The different scales that give you
+66.465	these kinds of patterns
+68.587	range over an enormous range of magnitude,
+72.044	roughly 14 orders of magnitude,
+74.46	from the small microscopic particles
+76.951	that seed clouds
+79.327	to the size of the planet itself,
+81.887	from 10 to the minus six
+83.163	to 10 to the eight,
+86.532	In time, from milliseconds to millennia,
+89.943	again around 14 orders of magnitude.
+92.998	What does that mean?
+94.385	Okay, well if you think about how
+96.324	you can calculate these things,
+98.984	you can take what you can see,
+100.944	okay, I'm going to chop it up
+101.97	into lots of little boxes,
+103.349	and that's the result of physics, right?
+105.704	And if I think about a weather model,
+107.429	that spans about five orders of magnitude,
+109.923	from the planet to a few kilometers,
+113.05	and the time scale
+114.588	from a few minutes to 10 days, maybe a month.
+119	We're interested in more than that.
+120.395	We're interested in the climate.
+121.7	That's years, that's millennia,
+123.841	and we need to go to even smaller scales.
+126.414	The stuff that we can't resolve,
+128.015	the sub-scale processes,
+129.98	we need to approximate in some way.
+131.96	That is a huge challenge.
+133.722	Climate models in the 1990s
+135.91	took an even smaller chunk of that,
+137.88	only about three orders of magnitude.
+139.898	Climate models in the 2010s,
+141.993	kind of what we're working with now,
+143.767	four orders of magnitude.
+146.707	We have 14 to go,
+149.01	and we're increasing our capability
+151.21	of simulating those at about
+153.08	one extra order of magnitude every decade.
+156.626	One extra order of magnitude in space
+158.521	is 10,000 times more calculations.
+161.77	And we keep adding more things,
+164.15	more questions to these different models.
+166.524	So what does a climate model look like?
+169.257	This is an old climate model, admittedly,
+171.598	a punch card, a single line of Fortran code.
+175.678	We no longer use punch cards.
+177.656	We do still use Fortran.
+179.897	New-fangled ideas like C
+181.854	really haven't had a big impact
+185.089	on the climate modeling community.
+187.456	But how do we go about doing it?
+188.856	How do we go from that complexity that you saw
+193.48	to a line of code?
+196.01	We do it one piece at a time.
+197.583	This is a picture of sea ice
+199.461	taken flying over the Arctic.
+201.559	We can look at all of the different equations
+203.597	that go into making the ice grow
+206.709	or melt or change shape.
+208.823	We can look at the fluxes.
+209.954	We can look at the rate at which
+211.906	snow turns to ice, and we can code that.
+214.751	We can encapsulate that in code.
+217.08	These models are around
+218.306	a million lines of code at this point,
+220.389	and growing by tens of thousands of lines of code
+223.859	every year.
+225.05	So you can look at that piece,
+226.703	but you can look at the other pieces too.
+228.625	What happens when you have clouds?
+230.558	What happens when clouds form,
+232.717	when they dissipate, when they rain out?
+234.599	That's another piece.
+236.341	What happens when we have radiation
+238.187	coming from the sun, going through the atmosphere,
+240.721	being absorbed and reflected?
+242.647	We can code each of those
+242.647	very small pieces as well.
+246.626	There are other pieces:
+248.042	the winds changing the ocean currents.
+251.502	We can talk about the role of vegetation
+255.272	in transporting water from the soils
+257.601	back into the atmosphere.
+259.57	And each of these different elements
+262.484	we can encapsulate and put into a system.
+266.108	Each of those pieces ends up adding to the whole.
+271.256	And you get something like this.
+273.553	You get a beautiful representation
+276.401	of what's going on in the climate system,
+279.023	where each and every one of those
+282.412	emergent patterns that you can see,
+285.194	the swirls in the Southern Ocean,
+287.197	the tropical cyclone in the Gulf of Mexico,
+289.953	and there's two more that are going to pop up
+291.594	in the Pacific at any point now,
+293.948	those rivers of atmospheric water,
+296.661	all of those are emergent properties
+299.518	that come from the interactions
+301.642	of all of those small-scale processes I mentioned.
+305.137	There's no code that says,
+307.042	"""Do a wiggle in the Southern Ocean."""
+308.899	"There's no code that says, ""Have two"
+311.567	"tropical cyclones that spin around each other."""
+314.465	All of those things are emergent properties.
+318.277	This is all very good. This is all great.
+320.423	But what we really want to know
+321.693	is what happens to these emergent properties
+323.642	when we kick the system?
+325.347	When something changes, what
+325.347	happens to those properties?
+328.88	And there's lots of different ways to kick the system.
+331.869	There are wobbles in the Earth's orbit
+333.902	over hundreds of thousands of years
+335.781	that change the climate.
+337.807	There are changes in the solar cycles,
+339.943	every 11 years and longer, that change the climate.
+343.048	Big volcanoes go off and change the climate.
+346.622	Changes in biomass burning, in smoke,
+349.86	in aerosol particles, all of those things
+351.723	change the climate.
+353.545	The ozone hole changed the climate.
+357.604	Deforestation changes the climate
+359.821	by changing the surface properties
+361.747	and how water is evaporated
+363.737	and moved around in the system.
+366.203	Contrails change the climate
+368.488	by creating clouds where there were none before,
+371.355	and of course greenhouse gases change the system.
+375.953	Each of these different kicks
+378.974	provides us with a target
+381.125	to evaluate whether we understand
+383.96	something about this system.
+386.121	So we can go to look at
+388.513	what model skill is.
+391.217	"Now I use the word ""skill"" advisedly:"
+393.25	Models are not right or wrong; they're always wrong.
+395.661	They're always approximations.
+397.381	The question you have to ask
+399.275	is whether a model tells you more information
+402.354	than you would have had otherwise.
+404.279	If it does, it's skillful.
+407.66	This is the impact of the ozone hole
+410.114	on sea level pressure, so
+410.114	low pressure, high pressures,
+412.974	around the southern oceans, around Antarctica.
+415.569	This is observed data.
+417.482	This is modeled data.
+419.57	There's a good match
+421.164	because we understand the physics
+423.115	that controls the temperatures in the stratosphere
+426.253	and what that does to the winds
+427.999	around the southern oceans.
+430.18	We can look at other examples.
+431.699	The eruption of Mount Pinatubo in 1991
+434.555	put an enormous amount of aerosols, small particles,
+437.354	into the stratosphere.
+438.941	That changed the radiation
+438.941	balance of the whole planet.
+442.088	There was less energy coming
+442.088	in than there was before,
+444.87	so that cooled the planet,
+446.528	and those red lines and those green lines,
+448.547	those are the differences between what we expected
+451.112	and what actually happened.
+452.8	The models are skillful,
+454.583	not just in the global mean,
+456.276	but also in the regional patterns.
+459.32	I could go through a dozen more examples:
+462.16	the skill associated with solar cycles,
+465.01	changing the ozone in the stratosphere;
+467.08	the skill associated with orbital changes
+469.427	over 6,000 years.
+471.483	We can look at that too, and the models are skillful.
+473.881	The models are skillful in response to the ice sheets
+478.495	The models are skillful
+480.166	when it comes to the 20th-century trends
+483.07	over the decades.
+484.585	Models are successful at modeling
+486.867	lake outbursts into the North Atlantic
+489.472	8,000 years ago.
+491.237	And we can get a good match to the data.
+495.463	Each of these different targets,
+497.85	each of these different evaluations,
+499.98	leads us to add more scope
+502.371	to these models,
+503.522	and leads us to more and more
+506.266	complex situations that we can ask
+510.254	more and more interesting questions,
+512.823	like, how does dust from the Sahara,
+515.533	that you can see in the orange,
+517.267	interact with tropical cyclones in the Atlantic?
+520.71	How do organic aerosols from biomass burning,
+524.187	which you can see in the red dots,
+526.91	intersect with clouds and rainfall patterns?
+529.844	How does pollution, which you can see
+531.631	in the white wisps of sulfate pollution in Europe,
+535.53	how does that affect the
+535.53	temperatures at the surface
+538.865	and the sunlight that you get at the surface?
+542.353	We can look at this across the world.
+545.841	We can look at the pollution from China.
+549.501	We can look at the impacts of storms
+553.099	on sea salt particles in the atmosphere.
+556.543	We can see the combination
+559.104	of all of these different things
+561.275	happening all at once,
+562.743	and we can ask much more interesting questions.
+565.15	How do air pollution and climate coexist?
+569.774	Can we change things
+571.283	that affect air pollution and
+571.283	climate at the same time?
+573.872	The answer is yes.
+576.216	So this is a history of the 20th century.
+579.26	The first one is the model.
+581.503	The weather is a little bit different
+582.91	to what actually happened.
+584.199	The second one are the observations.
+586.231	And we're going through the 1930s.
+588.556	There's variability, there are things going on,
+591.38	but it's all kind of in the noise.
+593.562	As you get towards the 1970s,
+596.424	things are going to start to change.
+598.433	They're going to start to look more similar,
+600.495	and by the time you get to the 2000s,
+603.063	you're already seeing the
+603.063	patterns of global warming,
+605.705	both in the observations and in the model.
+608.454	We know what happened over the 20th century.
+610.581	Right? We know that it's gotten warmer.
+612.341	We know where it's gotten warmer.
+613.952	And if you ask the models why did that happen,
+616.692	and you say, okay, well, yes,
+618.817	basically it's because of the carbon dioxide
+620.683	we put into the atmosphere.
+622.662	We have a very good match
+624.344	up until the present day.
+626.971	But there's one key reason why we look at models,
+630.391	and that's because of this phrase here.
+632.612	Because if we had observations of the future,
+635.107	we obviously would trust them more than models,
+638.436	But unfortunately,
+640.38	observations of the future
+640.38	are not available at this time.
+645.92	So when we go out into the
+645.92	future, there's a difference.
+648.625	The future is unknown, the future is uncertain,
+651.187	and there are choices.
+653.591	Here are the choices that we have.
+655.424	We can do some work to mitigate
+657.563	the emissions of carbon dioxide into the atmosphere.
+660.358	That's the top one.
+662.284	We can do more work
+664.19	to really bring it down
+666.366	so that by the end of the century,
+668.584	it's not much more than there is now.
+671.048	Or we can just leave it to fate
+674.815	and continue on
+676.308	with a business-as-usual type of attitude.
+680.054	The differences between these choices
+683.51	can't be answered by looking at models.
+688.307	There's a great phrase
+689.946	that Sherwood Rowland,
+691.739	who won the Nobel Prize for the chemistry
+695.603	that led to ozone depletion,
+697.876	when he was accepting his Nobel Prize,
+700.273	he asked this question:
+701.652	"""What is the use of having developed a science"
+703.963	well enough to make predictions if, in the end,
+707.224	all we're willing to do is stand around
+710.053	"and wait for them to come true?"""
+712.76	The models are skillful,
+715.497	but what we do with the
+715.497	information from those models
+718.815	is totally up to you.
+720.986	Thank you.
+722.924	(Applause)

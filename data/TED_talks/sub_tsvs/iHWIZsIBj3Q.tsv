@@ -1,0 +1,190 @@
+startsecond	text
+12.579	I would like to demonstrate
+12.579	for the first time in public
+16.048	that it is possible to transmit a video
+20.143	from a standard off-the-shelf LED lamp
+24.476	to a solar cell with a laptop
+24.476	acting as a receiver.
+30.478	There is no Wi-Fi involved,
+30.478	it's just light.
+33.093	And you may wonder, what's the point?
+35.951	And the point is this:
+38.399	There will be a massive
+38.399	extension of the Internet
+41.099	to close the digital divide,
+43.933	and also to allow for what we call
+43.933	"""The Internet of Things"" --"
+48.138	tens of billions of devices
+48.138	connected to the Internet.
+51.328	In my view, such an extension
+51.328	of the Internet can only work
+55.383	if it's almost energy-neutral.
+58.173	This means we need to use existing
+58.173	infrastructure as much as possible.
+63.497	And this is where the solar cell
+63.497	and the LED come in.
+68.959	I demonstrated for the first time,
+71.301	at TED in 2011,
+73.29	Li-Fi, or Light Fidelity.
+75.781	Li-Fi uses off-the-shelf LEDs
+75.781	to transmit data incredibly fast,
+81.8	and also in a safe and secure manner.
+85.402	Data is transported by the light,
+88.307	encoded in subtle changes
+88.307	of the brightness.
+92.39	If we look around,
+92.39	we have many LEDs around us,
+95.978	so there's a rich infrastructure
+95.978	of Li-Fi transmitters around us.
+101.393	But so far, we have been using
+101.393	special devices -- small photo detectors,
+106.656	to receive the information
+106.656	encoded in the data.
+110.94	I wanted to find a way to also use
+110.94	existing infrastructure
+114.856	to receive data from our Li-Fi lights.
+118.426	And this is why I have been looking into
+118.426	solar cells and solar panels.
+123.016	A solar cell absorbs light
+123.016	and converts it into electrical energy.
+128.549	This is why we can use a solar cell
+128.549	to charge our mobile phone.
+133.559	But now we need to remember
+134.989	that the data is encoded in subtle changes
+134.989	of the brightness of the LED,
+141.244	so if the incoming light fluctuates,
+144.617	so does the energy harvested
+144.617	from the solar cell.
+148.579	This means we have
+148.579	a principal mechanism in place
+152.112	to receive information from the light
+152.112	and by the solar cell,
+158.246	because the fluctuations
+158.246	of the energy harvested
+161.045	correspond to the data transmitted.
+163.934	Of course the question is:
+166.084	can we receive very fast and subtle
+166.084	changes of the brightness,
+170.268	such as the ones transmitted
+170.268	by our LED lights?
+174.641	And the answer to that is yes, we can.
+178.637	We have shown in the lab
+180.44	that we can receive up to 50
+180.44	megabytes per second
+183.946	from a standard, off-the-shelf solar cell.
+186.921	And this is faster than most
+186.921	broadband connections these days.
+191.437	Now let me show you in practice.
+197.095	In this box is a standard,
+197.095	off-the-shelf LED lamp.
+203.193	This is a standard,
+203.193	off-the-shelf solar cell;
+205.792	it is connected to the laptop.
+208.949	And also we have an instrument here
+211.293	to visualize the energy
+211.293	we harvest from the solar cell.
+215.095	And this instrument shows
+215.095	something at the moment.
+217.917	This is because the solar cell already
+217.917	harvests light from the ambient light.
+223.102	Now what I would like to do first
+223.102	is switch on the light,
+225.966	and I'll simply, only switch on the light,
+228.096	for a moment,
+230.228	and what you'll notice is that
+230.228	the instrument jumps to the right.
+234.904	So the solar cell, for a moment,
+236.618	is harvesting energy
+236.618	from this artificial light source.
+240.54	If I turn it off, we see it drops.
+243.842	I turn it on ...
+245.049	So we harvest energy with the solar cell.
+248.586	But next I would like to activate
+248.586	the streaming of the video.
+255.418	And I've done this
+255.418	by pressing this button.
+257.766	So now this LED lamp here
+257.766	is streaming a video
+262.513	by changing the brightness of the LED
+262.513	in a very subtle way,
+266.669	and in a way that you can't
+266.669	recognize with your eye,
+269.191	because the changes
+269.191	are too fast to recognize.
+273.384	But in order to prove the point,
+275.807	I can block the light of the solar cell.
+280.087	So first you notice
+280.087	the energy harvesting drops
+283.334	and the video stops as well.
+285.05	If I remove the blockage,
+285.05	the video will restart.
+289.357	(Applause)
+295.61	And I can repeat that.
+297.967	So we stop the transmission of the video
+297.967	and energy harvesting stops as well.
+303.242	So that is to show that the solar cell
+303.242	acts as a receiver.
+308.079	But now imagine that this LED lamp
+308.079	is a street light, and there's fog.
+314.106	And so I want to simulate fog,
+316.433	and that's why I brought
+316.433	a handkerchief with me.
+319.2	(Laughter)
+320.656	And let me put the handkerchief
+320.656	over the solar cell.
+325.905	First you notice
+327.557	the energy harvested drops, as expected,
+331.778	but now the video still continues.
+334.769	This means, despite the blockage,
+337.412	there's sufficient light coming through
+337.412	the handkerchief to the solar cell,
+341.317	so that the solar cell is able to decode
+341.317	and stream that information,
+346.856	in this case, a high-definition video.
+351.04	What's really important here is that
+351.04	a solar cell has become a receiver
+356.627	for high-speed wireless signals
+356.627	encoded in light,
+360.466	while it maintains its primary function
+360.466	as an energy-harvesting device.
+365.872	That's why it is possible
+368.315	to use existing solar cells
+368.315	on the roof of a hut
+372.196	to act as a broadband receiver
+374.713	from a laser station on a close by hill,
+374.713	or indeed, lamp post.
+379.605	And It really doesn't matter
+379.605	where the beam hits the solar cell.
+383.647	And the same is true
+384.849	for translucent solar cells
+384.849	integrated into windows,
+388.666	solar cells integrated
+388.666	into street furniture,
+392.222	or indeed, solar cells integrated
+392.222	into these billions of devices
+396.789	that will form the Internet of Things.
+398.889	Because simply,
+400.071	we don't want to charge
+400.071	these devices regularly,
+402.586	or worse, replace the batteries
+402.586	every few months.
+406.418	As I said to you,
+408.172	this is the first time
+408.172	I've shown this in public.
+410.514	It's very much a lab demonstration,
+412.593	a prototype.
+414.276	But my team and I are confident
+414.276	that we can take this to market
+417.594	within the next two to three years.
+420.251	And we hope we will be able to contribute
+420.251	to closing the digital divide,
+425.568	and also contribute
+426.79	to connecting all these billions
+426.79	of devices to the Internet.
+430.37	And all of this without causing
+431.919	a massive explosion
+431.919	of energy consumption --
+434.395	because of the solar cells,
+434.395	quite the opposite.
+436.641	Thank you.
+437.818	(Applause)

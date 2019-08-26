@@ -1,0 +1,127 @@
+startsecond	text
+15.26	This may sound strange,
+17.26	but I'm a big fan of the concrete block.
+19.26	The first concrete blocks were manufactured in 1868
+22.26	with a very simple idea:
+24.26	modules made of cement of a fixed measurement
+27.26	that fit together.
+29.26	Very quickly concrete blocks became
+31.26	the most-used construction unit in the world.
+34.26	They enabled us to to build things that were larger than us,
+36.26	buildings, bridges,
+38.26	one brick at a time.
+40.26	Essentially concrete blocks had become
+42.26	the building block of our time.
+45.26	Almost a hundred years later in 1947,
+47.26	LEGO came up with this.
+49.26	It was called the Automatic Binding Brick.
+52.26	And in a few short years,
+54.26	LEGO bricks took place in every household.
+57.26	It's estimated that over 400 billion bricks have been produced --
+60.26	or 75 bricks for every person on the planet.
+63.26	You don't have to be an engineer
+65.26	to make beautiful houses, beautiful bridges, beautiful buildings.
+68.26	LEGO made it accessible.
+70.26	LEGO has essentially taken the concrete block, the building block of the world,
+73.26	and made it into the building block
+75.26	of our imagination.
+77.26	Meanwhile the exact same year,
+79.26	at Bell Labs the next revolution was about to be announced,
+82.26	the next building block.
+84.26	The transistor was a small plastic unit
+86.26	that would take us from a world
+88.26	of static bricks piled on top of each other
+90.26	to a world where everything was interactive.
+92.26	Like the concrete block,
+94.26	the transistor allows you to build
+96.26	much larger, more complex circuits, one brick at a time.
+99.26	But there's a main difference:
+101.26	The transistor was only for experts.
+103.26	I personally don't accept this,
+105.26	that the building block of our time
+107.26	is reserved for experts,
+109.26	so I decided to change that.
+112.26	Eight years ago when I was at the Media Lab,
+114.26	I started exploring this idea
+116.26	of how to put the power of engineers
+118.26	in the hands of artists and designers.
+120.26	A few years ago I started developing littleBits.
+123.26	Let me show you how they work.
+127.26	LittleBits are electronic modules
+130.26	with each one specific function.
+133.26	They're pre-engineered
+135.26	to be light, sound,
+138.26	motors and sensors.
+140.26	And the best part about it
+142.26	is they snap together with magnets.
+145.26	So you can't put them the wrong way.
+148.26	The bricks are color-coded.
+150.26	Green is output, blue is power,
+153.26	pink is input and orange is wire.
+155.26	So all you need to do is snap a blue to a green
+158.26	and very quickly you can start making larger circuits.
+161.26	You put a blue to a green,
+163.26	you can make light.
+165.26	You can put a knob in between
+169.26	and now you've made a little dimmer.
+172.26	Switch out the knob
+175.26	for a pulse module,
+177.26	which is here,
+180.26	and now you've made a little blinker.
+184.26	Add this buzzer
+186.26	for some extra punch
+188.26	and you've created a noise machine.
+190.26	I'm going to stop that.
+192.26	So beyond simple play,
+195.26	littleBits are actually pretty powerful.
+197.26	Instead of having to program, to wire, to solder,
+200.26	littleBits allow you to program
+202.26	using very simple intuitive gestures.
+204.26	So to make this blink faster or slower,
+206.26	you would just turn this knob
+208.26	and basically make it pulse faster or slower.
+211.26	The idea behind littleBits
+213.26	is that it's a growing library.
+215.26	We want to make every single interaction in the world
+217.26	into a ready-to-use brick.
+219.26	Lights, sounds, solar panels, motors --
+221.26	everything should be accessible.
+223.26	We've been giving littleBits to kids and seeing them play with them.
+226.26	And it's been an incredible experience.
+228.26	The nicest thing is how they start to understand
+230.26	the electronics around them from everyday
+232.26	that they don't learn at schools.
+234.26	For example, how a nightlight works,
+236.26	or why an elevator door stays open,
+238.26	or how an iPod responds to touch.
+241.26	We've also been taking littleBits to design schools.
+243.26	So for example, we've had designers
+246.26	with no experience with electronics whatsoever
+248.26	start to play with littleBits as a material.
+251.26	Here you see, with felt and paper water bottles,
+254.26	we have Geordie making ...
+256.26	(Clanging)
+258.26	(Buzzing)
+260.26	A few weeks ago we took littleBits to RISD
+263.26	and gave them to some designers
+265.26	with no experience in engineering whatsoever --
+267.26	"just cardboard, wood and paper -- and told them ""Make something."""
+270.26	Here's an example of a project they made,
+272.26	a motion-activated confetti canon ball.
+275.26	(Laughter)
+277.26	But wait, this is actually my favorite project.
+281.26	It's a lobster made of playdough
+286.26	that's afraid of the dark.
+288.26	(Laughter)
+292.26	To these non-engineers, littleBits became another material,
+295.26	electronics became just another material.
+297.26	And we want to make this material accessible to everyone.
+300.26	So littleBits is open-source.
+302.26	You can go on the website, download all the design files, make them yourself.
+305.26	We want to encourage a world
+307.26	of creators, of inventors, of contributors,
+310.26	because this world that we live in,
+312.26	this interactive world, is ours.
+314.26	So go ahead and start inventing.
+316.26	Thank you.
+318.26	(Applause)

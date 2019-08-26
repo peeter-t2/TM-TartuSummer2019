@@ -1,0 +1,338 @@
+startsecond	text
+15.26	Erez Lieberman Aiden: Everyone knows
+17.26	that a picture is worth a thousand words.
+22.26	But we at Harvard
+24.26	were wondering if this was really true.
+27.26	(Laughter)
+29.26	So we assembled a team of experts,
+33.26	spanning Harvard, MIT,
+35.26	The American Heritage Dictionary, The Encyclopedia Britannica
+38.26	and even our proud sponsors,
+40.26	the Google.
+43.26	And we cogitated about this
+45.26	for about four years.
+47.26	And we came to a startling conclusion.
+52.26	Ladies and gentlemen, a picture is not worth a thousand words.
+55.26	In fact, we found some pictures
+57.26	that are worth 500 billion words.
+62.26	Jean-Baptiste Michel: So how did we get to this conclusion?
+64.26	So Erez and I were thinking about ways
+66.26	to get a big picture of human culture
+68.26	and human history: change over time.
+71.26	So many books actually have been written over the years.
+73.26	So we were thinking, well the best way to learn from them
+75.26	is to read all of these millions of books.
+77.26	Now of course, if there's a scale for how awesome that is,
+80.26	that has to rank extremely, extremely high.
+83.26	Now the problem is there's an X-axis for that,
+85.26	which is the practical axis.
+87.26	This is very, very low.
+89.26	(Applause)
+92.26	Now people tend to use an alternative approach,
+95.26	which is to take a few sources and read them very carefully.
+97.26	This is extremely practical, but not so awesome.
+99.26	What you really want to do
+102.26	is to get to the awesome yet practical part of this space.
+105.26	So it turns out there was a company across the river called Google
+108.26	who had started a digitization project a few years back
+110.26	that might just enable this approach.
+112.26	They have digitized millions of books.
+114.26	So what that means is, one could use computational methods
+117.26	to read all of the books in a click of a button.
+119.26	That's very practical and extremely awesome.
+123.26	ELA: Let me tell you a little bit about where books come from.
+125.26	Since time immemorial, there have been authors.
+128.26	These authors have been striving to write books.
+131.26	And this became considerably easier
+133.26	with the development of the printing press some centuries ago.
+135.26	Since then, the authors have won
+138.26	on 129 million distinct occasions,
+140.26	publishing books.
+142.26	Now if those books are not lost to history,
+144.26	then they are somewhere in a library,
+146.26	and many of those books have been getting retrieved from the libraries
+149.26	and digitized by Google,
+151.26	which has scanned 15 million books to date.
+153.26	Now when Google digitizes a book, they put it into a really nice format.
+156.26	Now we've got the data, plus we have metadata.
+158.26	We have information about things like where was it published,
+161.26	who was the author, when was it published.
+163.26	And what we do is go through all of those records
+166.26	and exclude everything that's not the highest quality data.
+170.26	What we're left with
+172.26	is a collection of five million books,
+178.26	a string of characters a thousand times longer
+180.26	than the human genome --
+183.26	a text which, when written out,
+185.26	would stretch from here to the Moon and back
+189.26	a veritable shard of our cultural genome.
+193.26	Of course what we did
+195.26	when faced with such outrageous hyperbole ...
+198.26	(Laughter)
+200.26	was what any self-respecting researchers
+203.26	would have done.
+206.26	We took a page out of XKCD,
+208.26	"and we said, ""Stand back."
+210.26	"We're going to try science."""
+212.26	(Laughter)
+214.26	JM: Now of course, we were thinking,
+216.26	well let's just first put the data out there
+218.26	for people to do science to it.
+220.26	Now we're thinking, what data can we release?
+222.26	Well of course, you want to take the books
+224.26	and release the full text of these five million books.
+226.26	Now Google, and Jon Orwant in particular,
+228.26	told us a little equation that we should learn.
+230.26	So you have five million, that is, five million authors
+233.26	and five million plaintiffs is a massive lawsuit.
+236.26	So, although that would be really, really awesome,
+238.26	again, that's extremely, extremely impractical.
+241.26	(Laughter)
+243.26	Now again, we kind of caved in,
+245.26	and we did the very practical approach, which was a bit less awesome.
+248.26	We said, well instead of releasing the full text,
+250.26	we're going to release statistics about the books.
+252.26	"So take for instance ""A gleam of happiness."""
+254.26	It's four words; we call that a four-gram.
+256.26	We're going to tell you how many times a particular four-gram
+258.26	appeared in books in 1801, 1802, 1803,
+260.26	all the way up to 2008.
+262.26	That gives us a time series
+264.26	of how frequently this particular sentence was used over time.
+266.26	We do that for all the words and phrases that appear in those books,
+269.26	and that gives us a big table of two billion lines
+272.26	that tell us about the way culture has been changing.
+274.26	ELA: So those two billion lines,
+276.26	we call them two billion n-grams.
+278.26	What do they tell us?
+280.26	Well the individual n-grams measure cultural trends.
+282.26	Let me give you an example.
+284.26	Let's suppose that I am thriving,
+286.26	then tomorrow I want to tell you about how well I did.
+288.26	"And so I might say, ""Yesterday, I throve."""
+291.26	"Alternatively, I could say, ""Yesterday, I thrived."""
+294.26	Well which one should I use?
+297.26	How to know?
+299.26	As of about six months ago,
+301.26	the state of the art in this field
+303.26	is that you would, for instance,
+305.26	go up to the following psychologist with fabulous hair,
+307.26	and you'd say,
+309.26	"""Steve, you're an expert on the irregular verbs."
+312.26	"What should I do?"""
+314.26	"And he'd tell you, ""Well most people say thrived,"
+316.26	"but some people say throve."""
+319.26	And you also knew, more or less,
+321.26	that if you were to go back in time 200 years
+324.26	and ask the following statesman with equally fabulous hair,
+327.26	(Laughter)
+330.26	"""Tom, what should I say?"""
+332.26	"He'd say, ""Well, in my day, most people throve,"
+334.26	"but some thrived."""
+337.26	So now what I'm just going to show you is raw data.
+339.26	Two rows from this table of two billion entries.
+343.26	What you're seeing is year by year frequency
+345.26	"of ""thrived"" and ""throve"" over time."
+349.26	Now this is just two
+351.26	out of two billion rows.
+354.26	So the entire data set
+356.26	is a billion times more awesome than this slide.
+359.26	(Laughter)
+361.26	(Applause)
+365.26	JM: Now there are many other pictures that are worth 500 billion words.
+367.26	For instance, this one.
+369.26	If you just take influenza,
+371.26	you will see peaks at the time where you knew
+373.26	big flu epidemics were killing people around the globe.
+376.26	ELA: If you were not yet convinced,
+379.26	sea levels are rising,
+381.26	so is atmospheric CO2 and global temperature.
+384.26	JM: You might also want to have a look at this particular n-gram,
+387.26	and that's to tell Nietzsche that God is not dead,
+390.26	although you might agree that he might need a better publicist.
+393.26	(Laughter)
+395.26	ELA: You can get at some pretty abstract concepts with this sort of thing.
+398.26	For instance, let me tell you the history
+400.26	of the year 1950.
+402.26	Pretty much for the vast majority of history,
+404.26	no one gave a damn about 1950.
+406.26	In 1700, in 1800, in 1900,
+408.26	no one cared.
+412.26	Through the 30s and 40s,
+414.26	no one cared.
+416.26	Suddenly, in the mid-40s,
+418.26	there started to be a buzz.
+420.26	People realized that 1950 was going to happen,
+422.26	and it could be big.
+424.26	(Laughter)
+427.26	But nothing got people interested in 1950
+430.26	like the year 1950.
+433.26	(Laughter)
+436.26	People were walking around obsessed.
+438.26	They couldn't stop talking
+440.26	about all the things they did in 1950,
+443.26	all the things they were planning to do in 1950,
+446.26	all the dreams of what they wanted to accomplish in 1950.
+451.26	In fact, 1950 was so fascinating
+453.26	that for years thereafter,
+455.26	people just kept talking about all the amazing things that happened,
+458.26	in '51, '52, '53.
+460.26	Finally in 1954,
+462.26	someone woke up and realized
+464.26	that 1950 had gotten somewhat passé.
+468.26	(Laughter)
+470.26	And just like that, the bubble burst.
+472.26	(Laughter)
+474.26	And the story of 1950
+476.26	is the story of every year that we have on record,
+478.26	with a little twist, because now we've got these nice charts.
+481.26	And because we have these nice charts, we can measure things.
+484.26	"We can say, ""Well how fast does the bubble burst?"""
+486.26	And it turns out that we can measure that very precisely.
+489.26	Equations were derived, graphs were produced,
+492.26	and the net result
+494.26	is that we find that the bubble bursts faster and faster
+497.26	with each passing year.
+499.26	We are losing interest in the past more rapidly.
+504.26	JM: Now a little piece of career advice.
+506.26	So for those of you who seek to be famous,
+508.26	we can learn from the 25 most famous political figures,
+510.26	authors, actors and so on.
+512.26	So if you want to become famous early on, you should be an actor,
+515.26	because then fame starts rising by the end of your 20s --
+517.26	you're still young, it's really great.
+519.26	Now if you can wait a little bit, you should be an author,
+521.26	because then you rise to very great heights,
+523.26	like Mark Twain, for instance: extremely famous.
+525.26	But if you want to reach the very top,
+527.26	you should delay gratification
+529.26	and, of course, become a politician.
+531.26	So here you will become famous by the end of your 50s,
+533.26	and become very, very famous afterward.
+535.26	So scientists also tend to get famous when they're much older.
+538.26	Like for instance, biologists and physics
+540.26	tend to be almost as famous as actors.
+542.26	One mistake you should not do is become a mathematician.
+545.26	(Laughter)
+547.26	If you do that,
+549.26	"you might think, ""Oh great. I'm going to do my best work when I'm in my 20s."""
+552.26	But guess what, nobody will really care.
+554.26	(Laughter)
+557.26	ELA: There are more sobering notes
+559.26	among the n-grams.
+561.26	For instance, here's the trajectory of Marc Chagall,
+563.26	an artist born in 1887.
+565.26	And this looks like the normal trajectory of a famous person.
+568.26	He gets more and more and more famous,
+572.26	except if you look in German.
+574.26	If you look in German, you see something completely bizarre,
+576.26	something you pretty much never see,
+578.26	which is he becomes extremely famous
+580.26	and then all of a sudden plummets,
+582.26	going through a nadir between 1933 and 1945,
+585.26	before rebounding afterward.
+588.26	And of course, what we're seeing
+590.26	is the fact Marc Chagall was a Jewish artist
+593.26	in Nazi Germany.
+595.26	Now these signals
+597.26	are actually so strong
+599.26	that we don't need to know that someone was censored.
+602.26	We can actually figure it out
+604.26	using really basic signal processing.
+606.26	Here's a simple way to do it.
+608.26	Well, a reasonable expectation
+610.26	is that somebody's fame in a given period of time
+612.26	should be roughly the average of their fame before
+614.26	and their fame after.
+616.26	So that's sort of what we expect.
+618.26	And we compare that to the fame that we observe.
+621.26	And we just divide one by the other
+623.26	to produce something we call a suppression index.
+625.26	If the suppression index is very, very, very small,
+628.26	then you very well might be being suppressed.
+630.26	If it's very large, maybe you're benefiting from propaganda.
+634.26	JM: Now you can actually look at
+636.26	the distribution of suppression indexes over whole populations.
+639.26	So for instance, here --
+641.26	this suppression index is for 5,000 people
+643.26	picked in English books where there's no known suppression --
+645.26	it would be like this, basically tightly centered on one.
+647.26	What you expect is basically what you observe.
+649.26	This is distribution as seen in Germany --
+651.26	very different, it's shifted to the left.
+653.26	People talked about it twice less as it should have been.
+656.26	But much more importantly, the distribution is much wider.
+658.26	There are many people who end up on the far left on this distribution
+661.26	who are talked about 10 times fewer than they should have been.
+664.26	But then also many people on the far right
+666.26	who seem to benefit from propaganda.
+668.26	This picture is the hallmark of censorship in the book record.
+671.26	ELA: So culturomics
+673.26	is what we call this method.
+675.26	It's kind of like genomics.
+677.26	Except genomics is a lens on biology
+679.26	through the window of the sequence of bases in the human genome.
+682.26	Culturomics is similar.
+684.26	It's the application of massive-scale data collection analysis
+687.26	to the study of human culture.
+689.26	Here, instead of through the lens of a genome,
+691.26	through the lens of digitized pieces of the historical record.
+694.26	The great thing about culturomics
+696.26	is that everyone can do it.
+698.26	Why can everyone do it?
+700.26	Everyone can do it because three guys,
+702.26	Jon Orwant, Matt Gray and Will Brockman over at Google,
+705.26	saw the prototype of the Ngram Viewer,
+707.26	"and they said, ""This is so fun."
+709.26	"We have to make this available for people."""
+712.26	So in two weeks flat -- the two weeks before our paper came out --
+714.26	they coded up a version of the Ngram Viewer for the general public.
+717.26	And so you too can type in any word or phrase that you're interested in
+720.26	and see its n-gram immediately --
+722.26	also browse examples of all the various books
+724.26	in which your n-gram appears.
+726.26	JM: Now this was used over a million times on the first day,
+728.26	and this is really the best of all the queries.
+730.26	So people want to be their best, put their best foot forward.
+733.26	But it turns out in the 18th century, people didn't really care about that at all.
+736.26	They didn't want to be their best, they wanted to be their beft.
+739.26	So what happened is, of course, this is just a mistake.
+742.26	It's not that strove for mediocrity,
+744.26	it's just that the S used to be written differently, kind of like an F.
+747.26	Now of course, Google didn't pick this up at the time,
+750.26	so we reported this in the science article that we wrote.
+753.26	But it turns out this is just a reminder
+755.26	that, although this is a lot of fun,
+757.26	when you interpret these graphs, you have to be very careful,
+759.26	and you have to adopt the base standards in the sciences.
+762.26	ELA: People have been using this for all kinds of fun purposes.
+765.26	(Laughter)
+772.26	Actually, we're not going to have to talk,
+774.26	we're just going to show you all the slides and remain silent.
+777.26	This person was interested in the history of frustration.
+780.26	There's various types of frustration.
+783.26	"If you stub your toe, that's a one A ""argh."""
+786.26	If the planet Earth is annihilated by the Vogons
+788.26	to make room for an interstellar bypass,
+790.26	"that's an eight A ""aaaaaaaargh."""
+792.26	"This person studies all the ""arghs,"""
+794.26	from one through eight A's.
+796.26	And it turns out
+798.26	"that the less-frequent ""arghs"""
+800.26	are, of course, the ones that correspond to things that are more frustrating --
+803.26	except, oddly, in the early 80s.
+806.26	We think that might have something to do with Reagan.
+808.26	(Laughter)
+810.26	JM: There are many usages of this data,
+813.26	but the bottom line is that the historical record is being digitized.
+816.26	Google has started to digitize 15 million books.
+818.26	That's 12 percent of all the books that have ever been published.
+820.26	It's a sizable chunk of human culture.
+823.26	There's much more in culture: there's manuscripts, there newspapers,
+826.26	there's things that are not text, like art and paintings.
+828.26	These all happen to be on our computers,
+830.26	on computers across the world.
+832.26	And when that happens, that will transform the way we have
+835.26	to understand our past, our present and human culture.
+837.26	Thank you very much.
+839.26	(Applause)

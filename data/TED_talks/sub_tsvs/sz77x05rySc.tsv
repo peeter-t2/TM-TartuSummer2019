@@ -1,0 +1,134 @@
+startsecond	text
+15.26	Well we all know the World Wide Web
+17.26	has absolutely transformed publishing, broadcasting,
+21.26	commerce and social connectivity,
+23.26	but where did it all come from?
+25.26	And I'll quote three people:
+27.26	Vannevar Bush, Doug Engelbart and Tim Berners-Lee.
+30.26	So let's just run through these guys.
+32.26	This is Vannevar Bush.
+34.26	Vannevar Bush was the U.S. government's chief scientific adviser during the war.
+37.26	And in 1945,
+39.26	he published an article in a magazine called Atlantic Monthly.
+42.26	"And the article was called ""As We May Think."""
+45.26	And what Vannevar Bush was saying
+47.26	was the way we use information is broken.
+50.26	We don't work in terms of libraries
+53.26	and catalog systems and so forth.
+55.26	The brain works by association.
+57.26	With one item in its thought, it snaps instantly to the next item.
+60.26	And the way information is structured
+62.26	is totally incapable of keeping up with this process.
+65.26	And so he suggested a machine,
+67.26	and he called it the memex.
+69.26	And the memex would link information,
+71.26	one piece of information to a related piece of information and so forth.
+74.26	Now this was in 1945.
+76.26	A computer in those days
+78.26	was something the secret services used to use for code breaking.
+81.26	And nobody knew anything about it.
+83.26	So this was before the computer was invented.
+85.26	And he proposed this machine called the memex.
+87.26	And he had a platform where you linked information to other information,
+90.26	and then you could call it up at will.
+92.26	So spinning forward,
+94.26	one of the guys who read this article was a guy called Doug Engelbart,
+96.26	and he was a U.S. Air Force officer.
+98.26	And he was reading it in their library in the Far East.
+101.26	And he was so inspired by this article,
+103.26	it kind of directed the rest of his life.
+105.26	And by the mid-60s, he was able to put this into action
+108.26	when he worked at the Stanford Research Lab in California.
+112.26	He built a system.
+114.26	The system was designed to augment human intelligence, it was called.
+117.26	And in a premonition of today's world
+120.26	of cloud computing and softwares of service,
+122.26	his system was called NLS
+124.26	for oN-Line System.
+126.26	And this is Doug Engelbart.
+128.26	He was giving a presentation at the Fall Joint Computer Conference
+131.26	in 1968.
+134.26	What he showed --
+136.26	he sat on a stage like this, and he demonstrated this system.
+139.26	He had his head mic like I've got.
+141.26	And he works this system.
+143.26	And you can see, he's working between documents
+145.26	and graphics and so forth.
+147.26	And he's driving it all
+149.26	with this platform here,
+151.26	with a five-finger keyboard
+153.26	and the world's first computer mouse,
+155.26	which he specially designed in order to do this system.
+157.26	So this is where the mouse came from as well.
+159.26	So this is Doug Engelbart.
+161.26	The trouble with Doug Engelbart's system
+163.26	was that the computers in those days cost several million pounds.
+166.26	So for a personal computer,
+168.26	a few million pounds was like having a personal jet plane;
+170.26	it wasn't really very practical.
+172.26	But spin on to the 80s
+174.26	when personal computers did arrive,
+176.26	then there was room for this kind of system on personal computers.
+178.26	And my company, OWL
+180.26	built a system called Guide for the Apple Macintosh.
+183.26	And we delivered the world's first hypertext system.
+187.26	And this began to get a head of steam.
+189.26	Apple introduced a thing called HyperCard,
+191.26	and they made a bit of a fuss about it.
+193.26	They had a 12-page supplement in the Wall Street Journal the day it launched.
+196.26	The magazines started to cover it.
+198.26	Byte magazine and Communications at the ACM
+200.26	had special issues covering hypertext.
+202.26	We developed a PC version of this product
+204.26	as well as the Macintosh version.
+206.26	And our PC version became quite mature.
+209.26	These are some examples of this system in action in the late 80s.
+213.26	You were able to deliver documents, were able to do it over networks.
+216.26	We developed a system such
+218.26	that it had a markup language based on html.
+220.26	We called it hml: hypertext markup language.
+223.26	And the system was capable of doing
+225.26	very, very large documentation systems over computer networks.
+229.26	So I took this system to a trade show in Versailles near Paris
+232.26	in late November 1990.
+235.26	And I was approached by a nice young man called Tim Berners-Lee
+237.26	"who said, ""Are you Ian Ritchie?"" and I said, ""Yeah."""
+239.26	"And he said, ""I need to talk to you."""
+241.26	And he told me about his proposed system called the World Wide Web.
+244.26	And I thought, well, that's got a pretentious name,
+247.26	especially since the whole system ran on his computer in his office.
+250.26	But he was completely convinced that his World Wide Web
+253.26	would take over the world one day.
+255.26	And he tried to persuade me to write the browser for it,
+257.26	because his system didn't have any graphics or fonts or layout or anything;
+260.26	it was just plain text.
+262.26	I thought, well, you know, interesting,
+265.26	but a guy from CERN, he's not going to do this.
+267.26	So we didn't do it.
+269.26	In the next couple of years,
+271.26	the hypertext community didn't recognize him either.
+273.26	In 1992, his paper was rejected for the Hypertext Conference.
+276.26	In 1993,
+279.26	there was a table at the conference in Seattle,
+281.26	and a guy called Marc Andreessen
+283.26	was demonstrating his little browser for the World Wide Web.
+286.26	And I saw it, and I thought, yep, that's it.
+288.26	And the very next year, in 1994, we had the conference here in Edinburgh,
+291.26	and I had no opposition in having Tim Berners-Lee as the keynote speaker.
+295.26	So that puts me in pretty illustrious company.
+297.26	There was a guy called Dick Rowe
+299.26	who was at Decca Records and turned down The Beatles.
+301.26	There was a guy called Gary Kildall
+303.26	who went flying his plane
+305.26	when IBM came looking for an operating system
+307.26	for the IBM PC,
+309.26	and he wasn't there, so they went back to see Bill Gates.
+311.26	And the 12 publishers
+313.26	who turned down J.K. Rowling's Harry Potter, I guess.
+316.26	On the other hand, there's Marc Andreessen
+318.26	who wrote the world's first browser for the World Wide Web.
+320.26	And according to Fortune magazine,
+322.26	he's worth 700 million dollars.
+324.26	But is he happy?
+326.26	(Laughter)
+328.26	(Applause)

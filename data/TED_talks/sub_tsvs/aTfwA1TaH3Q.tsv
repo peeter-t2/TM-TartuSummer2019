@@ -1,0 +1,331 @@
+startsecond	text
+12.844	Growing up in Kenya,
+14.71	I knew I always wanted
+14.71	to study biochemistry.
+18.908	See, I had seen the impact of the high
+18.908	prevalence of diseases like malaria,
+24.463	and I wanted to make medicines
+24.463	that would cure the sick.
+27.585	So I worked really hard,
+28.994	got a scholarship to the United States,
+28.994	where I became a cancer researcher,
+32.805	and I loved it.
+34.432	For someone who wants to cure diseases,
+36.543	there is no higher calling.
+39.141	Ten years later, I returned
+39.141	to Kenya to do just that.
+43.021	A freshly minted PhD,
+45.006	ready to take on this horrific illness,
+47.231	which in Kenya was almost
+47.231	certainly a death sentence.
+51.421	But instead of landing a job
+51.421	in a pharmaceutical company
+54.396	or a hospital,
+56.309	I found myself drawn
+56.309	to a different kind of lab,
+59.186	working with a different
+59.186	kind of patient --
+61.586	a patient whose illness was so serious
+63.964	it impacted every single
+63.964	person in my country;
+67.438	a patient who needed to get healthy fast.
+70.148	That patient was my government.
+73.946	(Laughter)
+75.922	See, many of us will agree that lots
+75.922	of governments are unhealthy today.
+80.696	(Laughter)
+82.803	(Applause)
+88.634	And Kenya was no exception.
+90.795	When I returned to Kenya in 2014,
+93.322	there was 17 percent youth unemployment.
+96.605	And Nairobi, the major business hub,
+98.977	was rated 177th on the quality
+98.977	of living index.
+103.076	It was bad.
+106.09	Now, an economy is only as healthy
+106.09	as the entities that make it up.
+111.007	So when government --
+112.181	one of its most vital entities --
+113.95	is weak or unhealthy,
+115.412	everyone and everything suffers.
+118.342	Sometimes you might
+118.342	put a Band-Aid in place
+121.139	to try and temporarily stop the pain.
+124.552	Maybe some of you here have participated
+126.558	in a Band-Aid operation
+126.558	to an African country --
+129.561	setting up alternative schools,
+129.561	building hospitals, digging wells --
+134.067	because governments there
+134.067	either weren't or couldn't provide
+137.028	the services to their citizens.
+139.72	We all know this is a temporary solution.
+143.275	There are just some things
+143.275	Band-Aids can't fix,
+146.847	like providing an environment
+146.847	where businesses feel secure
+151.26	that they'll have an equal opportunity
+153.095	to be able to run and start
+153.095	their businesses successfully.
+156.361	Or there are systems in place
+158.199	that would protect the private
+158.199	property that they create.
+161.264	I would argue,
+162.445	only government is capable of creating
+162.445	these necessary conditions
+165.913	for economies to thrive.
+168.369	Economies thrive when business are able
+168.369	to quickly and easily set up shop.
+173.231	Business owners create new sources
+173.231	of income for themselves,
+176.627	new jobs get added into the economy
+179.102	and then more taxes are paid
+179.102	to fund public projects.
+183.324	New business is good for everyone.
+186.235	And it's such an important measure
+186.235	of economic growth,
+189.089	the World Bank has a ranking called
+189.089	"the ""Ease of Doing Business Ranking,"""
+193.064	which measures how easy
+193.064	or difficult it is to start a business
+196.125	in any given country.
+197.746	And as you can imagine,
+200.224	starting or running a business
+200.224	in a country with an ailing government --
+203.869	almost impossible.
+206.252	The President of Kenya knew this,
+206.252	which is why in 2014,
+210	he came to our lab and asked
+210	us to partner with him
+213.393	to be able to help Kenya
+213.393	to jump-start business growth.
+217.509	He set an ambitious goal:
+219.598	he wanted Kenya to be ranked top 50
+219.598	in this World Bank ranking.
+224.987	In 2014 when he came,
+227.088	Kenya was ranked 136 out of 189 countries.
+231.891	We had our work cut out for us.
+235.412	Fortunately, he came to the right place.
+238.137	We're not just a Band-Aid kind of team.
+240.488	We're a group of computer scientists,
+240.488	mathematicians, engineers
+244.278	and a cancer researcher,
+246.239	who understood that in order
+246.239	to cure the sickness
+248.709	of a system as big as government,
+250.807	we needed to examine the whole body,
+253.231	and then we needed to drill down
+253.231	all the way from the organs,
+256.342	into the tissues,
+257.699	all the way to single cells,
+259.225	so that we could properly
+259.225	make a diagnosis.
+262.582	So with our marching orders
+262.582	from the President himself,
+265.437	we embarked on the purest
+265.437	of the scientific method:
+268.574	collecting data --
+269.773	all the data we could get our hands on --
+271.884	making hypotheses,
+273.165	creating solutions,
+274.426	one after the other.
+276.665	So we met with hundreds of individuals
+276.665	who worked at government agencies,
+280.724	from the tax agency, the lands
+280.724	office, utilities company,
+284.684	the agency that's responsible
+284.684	for registering companies,
+288.176	and with each of them, we observed
+288.176	them as they served customers,
+291.799	we documented their processes --
+291.799	most of them were manual.
+297.293	We also just went back and looked at
+297.293	a lot of their previous paperwork
+300.773	to try and really understand;
+302.965	to try and diagnose what bodily
+302.965	malfunctions had occurred
+306.339	that lead to that 136th spot
+306.339	on the World Bank list.
+310.068	What did we find?
+311.794	Well, in Kenya it was taking 72 days
+315.889	for a business owner
+315.889	to register their property,
+318.857	compared to just one day in New Zealand,
+321.278	which was ranked second
+321.278	on the World Bank list.
+324.647	It took 158 days to get
+324.647	a new electric connection.
+329.699	In Korea it took 18 days.
+332.804	If you wanted to get a construction permit
+334.881	so you could put up a building,
+336.425	in Kenya, it was going
+336.425	to take you 125 days.
+340.02	In Singapore, which is ranked first,
+340.02	that would only take you 26 days.
+345.4	God forbid you had to go to court
+347.468	to get help in being able to settle
+347.468	a dispute to enforce a contract,
+351.379	because that process alone
+351.379	would take you 465 days.
+356.885	And if that wasn't bad enough,
+360.495	you would lose 40 percent
+360.495	of your claim in just fees --
+364.671	legal fees, enforcement fees, court fees.
+368.928	Now, I know what you're thinking:
+372.546	for there to exist such inefficiencies
+372.546	in an African country,
+376.237	there must be corruption.
+378.311	The very cells that run the show
+378.311	must be corrupt to the bone.
+382.792	I thought so, too, actually.
+384.804	When we started out,
+385.981	I thought I was going to find
+385.981	so much corruption,
+389.493	I was literally going to either die
+389.493	or get killed in the process.
+393.013	(Laughter)
+396.766	But when we dug deeper,
+398.745	we didn't find corruption
+398.745	in the classic sense:
+401.926	slimy gangsters lurking in the darkness,
+404.958	waiting to grease the palms
+404.958	of their friends.
+407.959	What we found was an overwhelming
+407.959	sense of helplessness.
+413.504	Our government was sick,
+414.79	because government
+414.79	employees felt helpless.
+418.813	They felt that they were not
+418.813	empowered to drive change.
+422.42	And when people feel stuck and helpless,
+426.788	they stop seeing their role
+426.788	in a bigger system.
+430.085	They start to think the work they do
+430.085	doesn't matter in driving change.
+434.578	And when that happens,
+436.408	things slow down,
+438.025	fall through the cracks
+439.469	and inefficiencies flourish.
+442.991	Now imagine with me,
+444.78	if you had a process
+444.78	you had to go through --
+448.742	had no other alternative --
+450.536	and this process was inefficient, complex
+454.281	and very, very slow.
+455.695	What would you do?
+458.302	I think you might start by trying
+458.302	to find somebody to outsource it to,
+461.654	so that they can just
+461.654	take care of that for you.
+464.62	If that doesn't work,
+467.127	maybe you'd consider paying somebody
+469.161	"to just ""unofficially"" take care"
+469.161	of it on your behalf --
+472.565	especially if you thought
+472.565	nobody was going to catch you.
+476.61	Not out of malice or greed,
+479.004	just trying to make sure that you get
+479.004	something to work for you
+482.119	so you can move on.
+483.738	Unfortunately, that
+483.738	is the beginning of corruption.
+487.259	And if left to thrive and grow,
+489.606	it seeps into the whole system,
+491.196	and before you know it,
+492.59	the whole body is sick.
+496.416	Knowing this,
+497.733	we had to start by making sure
+499.312	that every single stakeholder
+499.312	we worked with had a shared vision
+503.913	for what we wanted to do.
+506.012	So we met with everyone,
+508.476	from the clerk whose sole job
+508.476	is to remove staples
+511.059	from application packets,
+513.266	to the legal drafters
+513.266	at the attorney general's office,
+517.007	to the clerks who are responsible
+517.007	for serving business owners
+520.028	when they came to access
+520.028	government services.
+523.377	And with them,
+524.551	we made sure that they understood
+526.147	how their day-to-day actions
+526.147	were impacting our ability as a country
+530.918	to create new jobs
+530.918	and to attract investments.
+534.425	No one's role was too small;
+534.425	everyone's role was vital.
+539.907	Now, guess what we started to see?
+542.814	A coalition of government employees
+544.851	who are excited and ready to drive change,
+546.987	began to grow and form.
+549.747	And together we started
+549.747	to implement changes
+552.375	that impacted the service
+552.375	delivery of our country.
+556.405	The result?
+557.853	In just two years,
+559.918	Kenya's ranking moved from 136 to 92.
+564.844	(Applause)
+572.34	And in recognition of the significant
+572.34	reforms we've been able to implement
+576.753	in such a short time,
+578.556	Kenya was recognized
+580.461	to be among the top three
+580.461	global reformers in the world
+584.071	two years in a row.
+586.518	(Applause)
+592.984	Are we fully healthy?
+595.376	No.
+596.969	We have some serious work still to do.
+600.156	I like to think about these two years
+600.156	like a weight-loss program.
+603.995	(Laughter)
+606.341	It's that time after months
+606.341	of hard, grueling work at the gym,
+610.327	and then you get your first
+610.327	time to weigh yourself,
+612.781	and you've lost 20 pounds.
+614.827	You're feeling unstoppable.
+618.517	Now, some of you may think
+618.517	this doesn't apply to you.
+622.878	You're not from Kenya.
+624.252	You don't intend to be an entrepreneur.
+626.418	But think with me for just a moment.
+629.134	When is the last time
+629.134	you accessed a government service?
+633.8	Maybe applied for your driver's license,
+636.6	tried to do your taxes on your own.
+642.464	It's easy in this political
+642.464	and global economy
+645.258	to want to give up when we think
+645.258	about transforming government.
+649.206	We can easily resign to the fact
+649.206	or to the thinking
+652.731	that government is too inefficient,
+655.097	too corrupt,
+656.277	unfixable.
+658.347	We might even rarely get
+658.347	some key government responsibilities
+661.808	to other sectors,
+663.032	to Band-Aid solutions,
+664.225	or to just give up and feel helpless.
+667.849	But just because a system is sick
+667.849	doesn't mean it's dying.
+672.509	We cannot afford to give up
+675.34	when it comes to the challenges
+675.34	of fixing our governments.
+679.809	In the end,
+682.502	what really makes a government healthy
+682.502	is when healthy cells --
+686.701	that's you and I --
+689.654	get to the ground,
+691.325	roll up our sleeves,
+692.633	refuse to be helpless
+694.762	and believe that sometimes,
+696.582	all it takes is for us
+696.582	to create some space
+699.836	for healthy cells to grow and thrive.
+702.601	Thank you.
+703.782	(Applause)

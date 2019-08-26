@@ -1,0 +1,329 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.838	I'm a brain scientist, and as a brain scientist,
+18.935	I'm actually interested in how the brain learns,
+22.007	and I'm especially interested in a possibility of
+25.374	making our brains smarter, better and faster.
+30.106	This is in this context I'm going to tell you
+32.982	about video games. When we say video games,
+35.732	most of you think about children.
+38.27	It's true. Ninety percent of children do play video games.
+42.248	But let's be frank.
+45.166	When the kids are in bed, who is in front of the PlayStation?
+49.955	Most of you. The average age of a gamer is 33 years old,
+56.439	not eight years old, and in fact, if we look
+59.446	at the projected demographics of video game play,
+63.155	the video game players of tomorrow are
+65.888	older adults. (Laughter)
+69.012	So video [gaming] is pervasive throughout our society.
+73.263	It is clearly here to stay. It has an amazing impact
+77.646	on our everyday life. Consider these statistics
+81.033	released by Activision. After one month of release
+86.848	"of the game ""Call Of Duty: Black Ops,"" it had been played"
+91.34	for 68,000 years
+94.713	worldwide, right?
+96.579	Would any of you complain if this was the case
+99.526	about doing linear algebra?
+102.689	So what we are asking in the lab is, how can we leverage that power?
+106.984	Now I want to step back a bit.
+108.832	I know most of you have had the experience of coming back
+112.073	home and finding your kids playing these kinds of games.
+116.793	(Shooting noises) The name of the game is to get
+118.933	after your enemy zombie bad guys
+121.897	before they get to you, right?
+125.487	And I'm almost sure most of you have thought,
+128.664	"""Oh, come on, can't you do something more intelligent"
+131.985	"than shooting at zombies?"""
+135.312	I'd like you to put this kind of knee-jerk reaction
+138.778	in the context of what you would have thought
+141.275	if you had found your girl playing sudoku
+144.784	or your boy reading Shakespeare. Right?
+149.135	Most parents would find that great.
+151.872	Well, I'm not going to tell you that playing video games
+155.216	days in and days out is actually good for your health.
+158.184	It's not, and binging is never good.
+161.384	But I'm going to argue that in reasonable doses,
+165.375	actually the very game I showed you at the beginning,
+168.344	those action-packed shooter games
+170.928	have quite powerful effects and positive effects
+174.704	on many different aspects of our behavior.
+178.562	There's not one week that goes without some major
+182.257	headlines in the media about whether video games are
+185.033	good or bad for you, right? You're all bombarded with that.
+189.649	I'd like to put this kind of Friday night bar discussion aside
+195.337	and get you to actually step into the lab.
+198.48	What we do in the lab is actually measure directly,
+201.353	in a quantitative fashion, what is the impact
+204.12	of video games on the brain.
+206.889	And so I'm going to take a few examples from our work.
+210.224	One first saying that I'm sure you all have heard
+212.823	is the fact that too much screen time
+215.109	makes your eyesight worse.
+217.924	That's a statement about vision.
+220.127	There may be vision scientists among you.
+222.663	We actually know how to test that statement.
+225.602	We can step into the lab and measure how good your vision is.
+229.039	Well, guess what? People that don't play a lot
+232.72	of action games, that don't actually spend a lot of time
+235.71	in front of screens, have normal, or what we call
+239.242	corrective-to-normal vision. That's okay.
+241.896	The issue is what happens with these guys that actually
+244.345	indulge into playing video games like five hours per week,
+249.5	By that statement, their vision should be really bad, right?
+252.728	Guess what? Their vision is really, really good.
+255.425	It's better than those that don't play.
+257.865	And it's better in two different ways.
+260.137	The first way is that they're actually able to resolve
+262.562	small detail in the context of clutter, and though that means
+265.817	being able to read the fine print on a prescription
+269.615	rather than using magnifier glasses, you can actually do it
+274.242	with just your eyesight.
+275.808	The other way that they are better is actually being able
+278.624	to resolve different levels of gray.
+281.533	Imagine you're driving in a fog. That makes a difference
+284.704	between seeing the car in front of you
+287.185	and avoiding the accident, or getting into an accident.
+290.928	So we're actually leveraging that work to develop games
+293.944	for patients with low vision, and to have an impact
+298.418	on retraining their brain to see better.
+301.753	Clearly, when it comes to action video games,
+305.402	screen time doesn't make your eyesight worse.
+308.297	Another saying that I'm sure you have all heard around:
+312.283	Video games lead to attention problems and greater distractability.
+316.657	Okay, we know how to measure attention in the lab.
+320.562	I'm actually going to give you an example of how we do so.
+324.163	I'm going to ask you to participate, so you're going to have
+326.888	to actually play the game with me. I'm going to show you
+329.912	colored words. I want you to shout out the color of the ink.
+335.345	Right? So this is the first example.
+338.728	"[""Chair""]"
+339.818	"Orange, good. [""Table""] Green."
+342.879	"[""Board""] Audience: Red.Daphne Bavelier: Red."
+344.259	"[""Horse""] DB: Yellow. Audience: Yellow."
+345.553	"[""Yellow""] DB: Red. Audience: Yellow."
+346.878	"[""Blue""] DB: Yellow."
+348.387	Okay, you get my point, right? (Laughter)
+354.742	You're getting better, but it's hard. Why is it hard?
+358.078	Because I introduced a conflict between
+362.032	the word itself and its color.
+364.945	How good your attention is determines actually how fast
+367.984	you resolve that conflict, so the young guys here
+370.511	at the top of their game probably, like, did a little better
+373.072	than some of us that are older.
+375.616	What we can show is that when you do this kind of task
+378.184	with people that play a lot of action games,
+379.784	they actually resolve the conflict faster.
+383.104	So clearly playing those action games doesn't lead
+386.312	to attention problems.
+388.795	Actually, those action video game players have
+390.766	many other advantages in terms of attention, and one
+393.083	aspect of attention which is also improved for the better
+395.982	is our ability to track objects around in the world.
+400.76	This is something we use all the time. When you're driving,
+403.304	you're tracking, keeping track of the cars around you.
+406.552	You're also keeping track of the pedestrian, the running dog,
+409.627	and that's how you can actually be safe driving, right?
+412.68	In the lab, we get people to come to the lab,
+415.744	sit in front of a computer screen, and we give them
+417.824	little tasks that I'm going to get you to do again.
+420.72	You're going to see yellow happy faces
+423.672	and a few sad blue faces. These are children
+427.488	in the schoolyard in Geneva during a recess
+431.308	during the winter. Most kids are happy. It's actually recess.
+435.609	But a few kids are sad and blue because they've forgotten their coat.
+438.736	Everybody begins to move around, and your task
+442.056	is to keep track of who had a coat at the beginning
+445.18	and who didn't. So I'm just going to show you an example
+447.671	where there is only one sad kid. It's easy because you can
+450.5	actually track it with your eyes. You can track,
+452.837	you can track, and then when it stops, and there is
+455.117	a question mark, and I ask you, did this kid have a coat or not?
+459.048	Was it yellow initially or blue?
+461.876	I hear a few yellow. Good. So most of you have a brain. (Laughter)
+465.673	I'm now going to ask you to do the task, but now with
+470.469	a little more challenging task. There are going to be
+472.557	three of them that are blue. Don't move your eyes.
+475.74	Please don't move your eyes. Keep your eyes fixated
+477.993	and expand, pull your attention. That's the only way
+480.639	you can actually do it. If you move your eyes, you're doomed.
+483.487	Yellow or blue?
+484.95	Audience: Yellow.DB: Good.
+486.596	So your typical normal young adult
+489.099	can have a span of about three or four objects of attention.
+492.735	That's what we just did. Your action video game player
+495.495	has a span of about six to seven objects of attention,
+498.695	which is what is shown in this video here.
+501.673	That's for you guys, action video game players.
+505.149	A bit more challenging, right? (Laughter)
+507.034	Yellow or blue? Blue. We have some people
+510.742	that are serious out there. Yeah. (Laughter)
+513.946	Good. So in the same way that we actually see
+517.55	the effects of video games on people's behavior,
+521.028	we can use brain imaging and look at the impact
+524.093	of video games on the brain, and we do find many changes,
+527.878	but the main changes are actually to the brain networks
+531.238	that control attention. So one part is the parietal cortex
+535.782	which is very well known to control the orientation of attention.
+539.501	The other one is the frontal lobe, which controls
+541.934	how we sustain attention, and another one
+544.644	is the anterior cingulate, which controls how we allocate
+547.213	and regulate attention and resolve conflict.
+550.51	Now, when we do brain imaging, we find that all three
+553.374	of these networks are actually much more efficient
+556.718	in people that play action games.
+559.478	This actually leads me to a rather counterintuitive finding
+564.229	in the literature about technology and the brain.
+567.67	You all know about multitasking. You all have been faulty
+572.119	of multitasking when you're driving
+574.329	and you pick up your cellphone. Bad idea. Very bad idea.
+579.02	Why? Because as your attention shifts to your cell phone,
+582.923	you are actually losing the capacity to react swiftly
+587.071	to the car braking in front of you, and so you're
+589.519	much more likely to get engaged into a car accident.
+595.09	Now, we can measure that kind of skills in the lab.
+597.966	We obviously don't ask people to drive around and see
+600.438	how many car accidents they have. That would be a little
+602.783	costly proposition. But we design tasks on the computer
+606.33	where we can measure, to millisecond accuracy,
+609.448	how good they are at switching from one task to another.
+613.976	When we do that, we actually find that people
+616.544	that play a lot of action games are really, really good.
+619.628	They switch really fast, very swiftly. They pay a very small cost.
+624.111	Now I'd like you to remember that result, and put it
+626.769	in the context of another group of technology users,
+630.501	a group which is actually much revered by society,
+632.911	which are people that engage in multimedia-tasking.
+637.45	What is multimedia-tasking? It's the fact that most of us,
+641.095	most of our children, are engaged with listening to music
+644.376	at the same time as they're doing search on the web
+647.123	at the same time as they're chatting on Facebook with their friends.
+650.48	That's a multimedia-tasker.
+652.816	There was a first study done by colleagues at Stanford
+656.376	and that we replicated that showed that
+658.929	those people that identify as being high multimedia-taskers
+663.576	are absolutely abysmal at multitasking.
+667.423	When we measure them in the lab, they're really bad.
+670.16	Right? So these kinds of results really
+672.866	makes two main points.
+675.352	The first one is that not all media are created equal.
+678.544	You can't compare the effect of multimedia-tasking
+683.456	and the effect of playing action games. They have
+685.102	totally different effects on different aspects of cognition,
+688.494	perception and attention.
+691.608	Even within video games, I'm telling you right now
+694.448	about these action-packed video games.
+696.201	Different video games have a different effect on your brains.
+699.535	So we actually need to step into the lab and really measure
+702.217	what is the effect of each video game.
+704.728	The other lesson is that general wisdom carries no weight.
+709.015	I showed that to you already, like we looked at the fact that
+712.071	despite a lot of screen time, those action gamers
+714.519	have a lot of very good vision, etc.
+718.527	Here, what was really striking is that these undergraduates
+721.845	that actually report engaging in a lot of high
+725.086	multimedia-tasking are convinced they aced the test.
+730.063	So you show them their data, you show them they are bad
+732.353	"and they're like, ""Not possible."" You know, they have"
+735.039	this sort of gut feeling that, really, they are doing really, really good.
+738.895	That's another argument for why we need to step into the lab
+741.84	and really measure the impact of technology on the brain.
+745.432	Now in a sense, when we think about the effect
+750.015	of video games on the brain, it's very similar
+752.495	to the effect of wine on the health.
+756.359	There are some very poor uses of wine. There are some
+759.399	very poor uses of video games. But when consumed
+763.615	in reasonable doses, and at the right age,
+767.096	wine can be very good for health. There are actually
+770.367	specific molecules that have been identified
+773.631	in red wine as leading to greater life expectancy.
+779.463	So it's the same way, like those action video games
+782.735	have a number of ingredients that are actually really
+784.397	powerful for brain plasticity, learning, attention,
+788.367	vision, etc., and so we need and we're working on
+791.972	understanding what are those active ingredients so that
+794.727	we can really then leverage them to deliver better games,
+798.617	either for education or for rehabilitation of patients.
+802.86	Now because we are interested in having an impact
+806.639	for education or rehabilitation of patients, we are actually
+809.127	not that interested in how those of you that choose
+812.543	to play video games for many hours on end perform.
+816.415	I'm much more interested in taking any of you
+820.24	and showing that by forcing you to play an action game,
+824.02	I can actually change your vision for the better,
+826.883	whether you want to play that action game or not, right?
+829.214	That's the point of rehabilitation or education.
+831.63	Most of the kids don't go to school saying,
+833.556	"""Great, two hours of math!"""
+836.296	So that's really the crux of the research, and to do that,
+840.735	we need to go one more step.
+843.199	And one more step is to do training studies.
+846.223	So let me illustrate that step with
+849.623	a task which is called mental rotation.
+853.191	Mental rotation is a task where I'm going to ask you,
+857.366	and again you're going to do the task,
+859.251	to look at this shape. Study it, it's a target shape,
+862.936	and I'm going to present to you four different shapes.
+866.19	One of these four different shapes is actually a rotated
+869.03	version of this shape. I want you to tell me which one:
+873.334	the first one, second one, third one or fourth one?
+878.175	Okay, I'll help you. Fourth one.
+880.592	One more. Get those brains working. Come on.
+885.122	That's our target shape.
+890.096	Third. Good! This is hard, right?
+893.799	Like, the reason that I asked you to do that is because
+895.286	you really feel your brain cringing, right?
+898.02	It doesn't really feel like playing mindless action video games.
+901.452	Well, what we do in these training studies is, people
+904.157	come to the lab, they do tasks like this one,
+906.766	we then force them to play 10 hours of action games.
+911.096	They don't play 10 hours of action games in a row.
+913.842	They do distributed practice, so little shots of 40 minutes
+916.952	several days over a period of two weeks.
+921.253	Then, once they are done with the training, they come back
+923.049	a few days later and they are tested again on a similar type
+927.022	of mental rotation task. So this is work from a colleague
+930.638	in Toronto. What they showed is that, initially,
+933.173	you know, subjects perform where they are expected
+935.371	to perform given their age. After two weeks of training
+940.581	on action video games, they actually perform better,
+944.437	and the improvement is still there five months after
+949.793	having done the training. That's really, really important.
+952.661	Why? Because I told you we want to use these games
+955.141	for education or for rehabilitation. We need to have effects
+958.341	that are going to be long-lasting.
+961.277	Now, at this point, a number of you are probably wondering
+964.13	well, what are you waiting for, to put on the market
+967.763	a game that would be good for the attention
+970.315	of my grandmother and that she would actually enjoy,
+973.835	or a game that would be great to rehabilitate the vision
+976.418	of my grandson who has amblyopia, for example?
+980.227	Well, we're working on it, but here is a challenge.
+984.707	There are brain scientists like me that are beginning
+986.618	to understand what are the good ingredients in games
+989.875	to promote positive effects, and that's what I'm going
+992.98	to call the broccoli side of the equation.
+996.554	There is an entertainment software industry
+1000.29	which is extremely deft at coming up with
+1003.762	appealing products that you can't resist.
+1007.906	That's the chocolate side of the equation.
+1011.434	The issue is we need to put the two together,
+1014.458	and it's a little bit like with food.
+1016.714	Who really wants to eat chocolate-covered broccoli?
+1020.355	None of you. (Laughter) And you probably have had
+1022.614	that feeling, right, picking up an education game
+1024.946	and sort of feeling, hmm, you know, it's not really fun,
+1028.338	it's not really engaging. So what we need
+1030.755	is really a new brand of chocolate, a brand of chocolate
+1034.106	that is irresistible, that you really want to play,
+1038.117	but that has all the ingredients, the good ingredients
+1041.102	that are extracted from the broccoli that you can't recognize
+1044.33	but are still working on your brains. And we're working on it,
+1047.169	but it takes brain scientists to come and to get together,
+1051.645	people that work in the entertainment software industry,
+1054.608	and publishers, so these are not people that usually
+1057.346	meet every day, but it's actually doable,
+1059.683	and we are on the right track.
+1062.33	I'd like to leave you with that thought,
+1064.112	and thank you for your attention. (Applause)
+1067.479	(Applause)

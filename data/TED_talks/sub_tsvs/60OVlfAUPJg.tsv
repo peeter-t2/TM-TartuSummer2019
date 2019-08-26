@@ -1,0 +1,406 @@
+startsecond	text
+15.26	We've got a real problem with math education right now.
+19.26	Basically, no one's very happy.
+22.26	Those learning it
+24.26	think it's disconnected,
+26.26	uninteresting and hard.
+28.26	Those trying to employ them
+30.26	think they don't know enough.
+32.26	Governments realize that it's a big deal for our economies,
+35.26	but don't know how to fix it.
+38.26	And teachers are also frustrated.
+40.26	Yet math is more important to the world
+43.26	than at any point in human history.
+45.26	So at one end we've got falling interest
+47.26	in education in math,
+49.26	and at the other end we've got a more mathematical world,
+52.26	a more quantitative world than we ever have had.
+56.26	So what's the problem, why has this chasm opened up,
+58.26	and what can we do to fix it?
+61.26	Well actually, I think the answer
+63.26	is staring us right in the face:
+65.26	Use computers.
+67.26	I believe
+69.26	that correctly using computers
+71.26	is the silver bullet
+73.26	for making math education work.
+76.26	So to explain that,
+78.26	let me first talk a bit about what math looks like in the real world
+81.26	and what it looks like in education.
+83.26	See, in the real world
+85.26	math isn't necessarily done by mathematicians.
+88.26	It's done by geologists,
+90.26	engineers, biologists,
+92.26	all sorts of different people --
+94.26	modeling and simulation.
+96.26	It's actually very popular.
+98.26	But in education it looks very different --
+101.26	dumbed-down problems, lots of calculating,
+103.26	mostly by hand.
+106.26	Lots of things that seem simple
+108.26	and not difficult like in the real world,
+110.26	except if you're learning it.
+113.26	And another thing about math:
+115.26	math sometimes looks like math --
+117.26	like in this example here --
+120.26	and sometimes it doesn't --
+122.26	"like ""Am I drunk?"""
+127.26	And then you get an answer that's quantitative in the modern world.
+130.26	You wouldn't have expected that a few years back.
+133.26	But now you can find out all about --
+136.26	unfortunately, my weight is a little higher than that, but --
+139.26	all about what happens.
+141.26	So let's zoom out a bit and ask,
+143.26	why are we teaching people math?
+145.26	What's the point of teaching people math?
+148.26	And in particular, why are we teaching them math in general?
+151.26	Why is it such an important part of education
+154.26	as a sort of compulsory subject?
+156.26	Well, I think there are about three reasons:
+159.26	technical jobs
+161.26	so critical to the development of our economies,
+164.26	"what I call ""everyday living"" --"
+168.26	to function in the world today,
+170.26	you've got to be pretty quantitative,
+172.26	much more so than a few years ago:
+174.26	figure out your mortgages,
+176.26	being skeptical of government statistics, those kinds of things --
+180.26	and thirdly, what I would call something like
+183.26	logical mind training, logical thinking.
+186.26	Over the years
+188.26	we've put so much in society
+190.26	into being able to process and think logically. It's part of human society.
+193.26	It's very important to learn that
+195.26	math is a great way to do that.
+197.26	So let's ask another question.
+199.26	What is math?
+201.26	What do we mean when we say we're doing math,
+203.26	or educating people to do math?
+205.26	Well, I think it's about four steps, roughly speaking,
+208.26	starting with posing the right question.
+210.26	What is it that we want to ask? What is it we're trying to find out here?
+213.26	And this is the thing most screwed up in the outside world,
+215.26	beyond virtually any other part of doing math.
+218.26	People ask the wrong question,
+220.26	and surprisingly enough, they get the wrong answer,
+222.26	for that reason, if not for others.
+224.26	So the next thing is take that problem
+226.26	and turn it from a real world problem
+228.26	into a math problem.
+230.26	That's stage two.
+232.26	Once you've done that, then there's the computation step.
+235.26	Turn it from that into some answer
+237.26	in a mathematical form.
+240.26	And of course, math is very powerful at doing that.
+242.26	And then finally, turn it back to the real world.
+244.26	Did it answer the question?
+246.26	And also verify it -- crucial step.
+250.26	Now here's the crazy thing right now.
+252.26	In math education,
+254.26	we're spending about perhaps 80 percent of the time
+257.26	teaching people to do step three by hand.
+260.26	Yet, that's the one step computers can do
+262.26	better than any human after years of practice.
+265.26	Instead, we ought to be using computers
+268.26	to do step three
+270.26	and using the students to spend much more effort
+273.26	on learning how to do steps one, two and four --
+275.26	conceptualizing problems, applying them,
+278.26	getting the teacher to run them through how to do that.
+281.26	See, crucial point here:
+283.26	math is not equal to calculating.
+285.26	Math is a much broader subject than calculating.
+288.26	Now it's understandable that this has all got intertwined
+291.26	over hundreds of years.
+293.26	There was only one way to do calculating and that was by hand.
+296.26	But in the last few decades
+298.26	that has totally changed.
+300.26	We've had the biggest transformation of any ancient subject
+303.26	that I could ever imagine with computers.
+307.26	Calculating was typically the limiting step,
+309.26	and now often it isn't.
+311.26	So I think in terms of the fact that math
+313.26	has been liberated from calculating.
+316.26	But that math liberation didn't get into education yet.
+319.26	See, I think of calculating, in a sense,
+321.26	as the machinery of math.
+323.26	It's the chore.
+325.26	It's the thing you'd like to avoid if you can, like to get a machine to do.
+329.26	It's a means to an end, not an end in itself,
+334.26	and automation allows us
+336.26	to have that machinery.
+338.26	Computers allow us to do that --
+340.26	and this is not a small problem by any means.
+343.26	I estimated that, just today, across the world,
+346.26	we spent about 106 average world lifetimes
+349.26	teaching people how to calculate by hand.
+352.26	That's an amazing amount of human endeavor.
+355.26	So we better be damn sure --
+357.26	and by the way, they didn't even have fun doing it, most of them --
+360.26	so we better be damn sure
+362.26	that we know why we're doing that
+364.26	and it has a real purpose.
+366.26	I think we should be assuming computers
+368.26	for doing the calculating
+370.26	and only doing hand calculations where it really makes sense to teach people that.
+373.26	And I think there are some cases.
+375.26	For example: mental arithmetic.
+377.26	I still do a lot of that, mainly for estimating.
+380.26	"People say, ""Is such and such true?"""
+382.26	"And I'll say, ""Hmm, not sure."" I'll think about it roughly."
+384.26	It's still quicker to do that and more practical.
+386.26	So I think practicality is one case
+388.26	where it's worth teaching people by hand.
+390.26	And then there are certain conceptual things
+392.26	that can also benefit from hand calculating,
+394.26	but I think they're relatively small in number.
+396.26	One thing I often ask about
+398.26	is ancient Greek and how this relates.
+401.26	See, the thing we're doing right now
+403.26	is we're forcing people to learn mathematics.
+405.26	It's a major subject.
+407.26	I'm not for one minute suggesting that, if people are interested in hand calculating
+410.26	or in following their own interests
+412.26	in any subject however bizarre --
+414.26	they should do that.
+416.26	That's absolutely the right thing,
+418.26	for people to follow their self-interest.
+420.26	I was somewhat interested in ancient Greek,
+422.26	but I don't think that we should force the entire population
+425.26	to learn a subject like ancient Greek.
+427.26	I don't think it's warranted.
+429.26	So I have this distinction between what we're making people do
+432.26	and the subject that's sort of mainstream
+434.26	and the subject that, in a sense, people might follow with their own interest
+437.26	and perhaps even be spiked into doing that.
+439.26	So what are the issues people bring up with this?
+442.26	Well one of them is, they say, you need to get the basics first.
+445.26	You shouldn't use the machine
+447.26	until you get the basics of the subject.
+449.26	"So my usual question is, what do you mean by ""basics?"""
+452.26	Basics of what?
+454.26	Are the basics of driving a car
+456.26	learning how to service it, or design it for that matter?
+459.26	Are the basics of writing learning how to sharpen a quill?
+463.26	I don't think so.
+465.26	I think you need to separate the basics of what you're trying to do
+468.26	from how it gets done
+470.26	and the machinery of how it gets done
+474.26	and automation allows you to make that separation.
+477.26	A hundred years ago, it's certainly true that to drive a car
+480.26	you kind of needed to know a lot about the mechanics of the car
+482.26	and how the ignition timing worked and all sorts of things.
+486.26	But automation in cars
+488.26	allowed that to separate,
+490.26	so driving is now a quite separate subject, so to speak,
+493.26	from engineering of the car
+496.26	or learning how to service it.
+500.26	So automation allows this separation
+502.26	and also allows -- in the case of driving,
+504.26	and I believe also in the future case of maths --
+506.26	a democratized way of doing that.
+508.26	It can be spread across a much larger number of people
+510.26	who can really work with that.
+513.26	So there's another thing that comes up with basics.
+515.26	People confuse, in my view,
+517.26	the order of the invention of the tools
+520.26	with the order in which they should use them for teaching.
+523.26	So just because paper was invented before computers,
+526.26	it doesn't necessarily mean you get more to the basics of the subject
+529.26	by using paper instead of a computer
+531.26	to teach mathematics.
+535.26	My daughter gave me a rather nice anecdote on this.
+538.26	"She enjoys making what she calls ""paper laptops."""
+541.26	(Laughter)
+543.26	"So I asked her one day, ""You know, when I was your age,"
+545.26	I didn't make these.
+547.26	"Why do you think that was?"""
+549.26	And after a second or two, carefully reflecting,
+551.26	"she said, ""No paper?"""
+553.26	(Laughter)
+559.26	If you were born after computers and paper,
+561.26	it doesn't really matter which order you're taught with them in,
+564.26	you just want to have the best tool.
+566.26	"So another one that comes up is ""Computers dumb math down."""
+569.26	That somehow, if you use a computer,
+571.26	it's all mindless button-pushing,
+573.26	but if you do it by hand,
+575.26	it's all intellectual.
+577.26	This one kind of annoys me, I must say.
+580.26	Do we really believe
+582.26	that the math that most people are doing in school
+584.26	practically today
+586.26	is more than applying procedures
+588.26	to problems they don't really understand, for reasons they don't get?
+591.26	I don't think so.
+593.26	And what's worse, what they're learning there isn't even practically useful anymore.
+596.26	Might have been 50 years ago, but it isn't anymore.
+599.26	When they're out of education, they do it on a computer.
+602.26	Just to be clear, I think computers can really help with this problem,
+605.26	actually make it more conceptual.
+607.26	Now, of course, like any great tool,
+609.26	they can be used completely mindlessly,
+611.26	like turning everything into a multimedia show,
+614.26	like the example I was shown of solving an equation by hand,
+617.26	where the computer was the teacher --
+619.26	show the student how to manipulate and solve it by hand.
+622.26	This is just nuts.
+624.26	Why are we using computers to show a student how to solve a problem by hand
+627.26	that the computer should be doing anyway?
+629.26	All backwards.
+631.26	Let me show you
+633.26	that you can also make problems harder to calculate.
+636.26	See, normally in school,
+638.26	you do things like solve quadratic equations.
+641.26	But you see, when you're using a computer,
+644.26	you can just substitute.
+648.26	You can make it a quartic equation. Make it kind of harder, calculating-wise.
+650.26	Same principles applied --
+652.26	calculations, harder.
+654.26	And problems in the real world
+656.26	look nutty and horrible like this.
+658.26	They've got hair all over them.
+660.26	They're not just simple, dumbed-down things that we see in school math.
+664.26	And think of the outside world.
+666.26	Do we really believe that engineering and biology
+668.26	and all of these other things
+670.26	that have so benefited from computers and maths
+672.26	have somehow conceptually gotten reduced by using computers?
+675.26	I don't think so -- quite the opposite.
+678.26	So the problem we've really got in math education
+681.26	is not that computers might dumb it down,
+684.26	but that we have dumbed-down problems right now.
+687.26	Well, another issue people bring up
+689.26	is somehow that hand calculating procedures
+691.26	teach understanding.
+693.26	So if you go through lots of examples,
+695.26	you can get the answer,
+697.26	you can understand how the basics of the system work better.
+700.26	I think there is one thing that I think very valid here,
+703.26	which is that I think understanding procedures and processes is important.
+707.26	But there's a fantastic way to do that in the modern world.
+710.26	It's called programming.
+713.26	Programming is how most procedures and processes
+715.26	get written down these days,
+717.26	and it's also a great way
+719.26	to engage students much more
+721.26	and to check they really understand.
+723.26	If you really want to check you understand math
+725.26	then write a program to do it.
+728.26	So programming is the way I think we should be doing that.
+731.26	So to be clear, what I really am suggesting here
+733.26	is we have a unique opportunity
+735.26	to make maths both more practical
+737.26	and more conceptual, simultaneously.
+740.26	I can't think of any other subject where that's recently been possible.
+743.26	It's usually some kind of choice
+745.26	between the vocational and the intellectual.
+747.26	But I think we can do both at the same time here.
+752.26	And we open up so many more possibilities.
+755.26	You can do so many more problems.
+757.26	What I really think we gain from this
+759.26	is students getting intuition and experience
+762.26	in far greater quantities than they've ever got before.
+765.26	And experience of harder problems --
+767.26	being able to play with the math, interact with it,
+769.26	feel it.
+771.26	We want people who can feel the math instinctively.
+774.26	That's what computers allow us to do.
+777.26	Another thing it allows us to do is reorder the curriculum.
+780.26	Traditionally it's been by how difficult it is to calculate,
+782.26	but now we can reorder it
+784.26	by how difficult it is to understand the concepts,
+786.26	however hard the calculating.
+788.26	So calculus has traditionally been taught very late.
+791.26	Why is this?
+793.26	Well, it's damn hard doing the calculations, that's the problem.
+797.26	But actually many of the concepts
+799.26	are amenable to a much younger age group.
+802.26	This was an example I built for my daughter.
+805.26	And very, very simple.
+808.26	We were talking about what happens
+810.26	when you increase the number of sides of a polygon
+812.26	to a very large number.
+816.26	And of course, it turns into a circle.
+818.26	And by the way, she was also very insistent
+820.26	on being able to change the color,
+822.26	an important feature for this demonstration.
+826.26	You can see that this is a very early step
+829.26	into limits and differential calculus
+831.26	and what happens when you take things to an extreme --
+834.26	and very small sides and a very large number of sides.
+836.26	Very simple example.
+838.26	That's a view of the world
+840.26	that we don't usually give people for many, many years after this.
+843.26	And yet, that's a really important practical view of the world.
+846.26	So one of the roadblocks we have
+849.26	in moving this agenda forward
+852.26	is exams.
+854.26	In the end, if we test everyone by hand in exams,
+857.26	it's kind of hard to get the curricula changed
+860.26	to a point where they can use computers
+862.26	during the semesters.
+865.26	And one of the reasons it's so important --
+867.26	so it's very important to get computers in exams.
+870.26	And then we can ask questions, real questions,
+873.26	questions like, what's the best life insurance policy to get? --
+876.26	real questions that people have in their everyday lives.
+880.26	And you see, this isn't some dumbed-down model here.
+882.26	This is an actual model where we can be asked to optimize what happens.
+885.26	How many years of protection do I need?
+887.26	What does that do to the payments
+889.26	and to the interest rates and so forth?
+892.26	Now I'm not for one minute suggesting it's the only kind of question
+895.26	that should be asked in exams,
+897.26	but I think it's a very important type
+899.26	that right now just gets completely ignored
+902.26	and is critical for people's real understanding.
+905.26	So I believe [there is] critical reform
+908.26	we have to do in computer-based math.
+910.26	We have got to make sure
+912.26	that we can move our economies forward,
+915.26	and also our societies,
+917.26	based on the idea that people can really feel mathematics.
+922.26	This isn't some optional extra.
+925.26	And the country that does this first
+927.26	will, in my view, leapfrog others
+930.26	in achieving a new economy even,
+933.26	an improved economy,
+935.26	an improved outlook.
+937.26	In fact, I even talk about us moving
+939.26	"from what we often call now the ""knowledge economy"""
+942.26	"to what we might call a ""computational knowledge economy,"""
+945.26	where high-level math is integral to what everyone does
+948.26	in the way that knowledge currently is.
+950.26	We can engage so many more students with this,
+953.26	and they can have a better time doing it.
+956.26	And let's understand:
+958.26	this is not an incremental sort of change.
+962.26	We're trying to cross the chasm here
+964.26	between school math and the real-world math.
+966.26	And you know if you walk across a chasm,
+968.26	you end up making it worse than if you didn't start at all --
+971.26	bigger disaster.
+973.26	No, what I'm suggesting
+975.26	is that we should leap off,
+977.26	we should increase our velocity
+979.26	so it's high,
+981.26	and we should leap off one side and go the other --
+984.26	of course, having calculated our differential equation very carefully.
+987.26	(Laughter)
+989.26	So I want to see
+991.26	a completely renewed, changed math curriculum
+993.26	built from the ground up,
+995.26	based on computers being there,
+997.26	computers that are now ubiquitous almost.
+999.26	Calculating machines are everywhere
+1001.26	and will be completely everywhere in a small number of years.
+1004.26	Now I'm not even sure if we should brand the subject as math,
+1008.26	but what I am sure is
+1010.26	it's the mainstream subject of the future.
+1013.26	Let's go for it,
+1016.26	and while we're about it,
+1018.26	let's have a bit of fun,
+1020.26	for us, for the students and for TED here.
+1023.26	Thanks.
+1025.26	(Applause)

@@ -1,0 +1,388 @@
+startsecond	text
+12.795	Algorithms are everywhere.
+15.931	They sort and separate
+15.931	the winners from the losers.
+19.839	The winners get the job
+22.127	or a good credit card offer.
+23.894	The losers don't even get an interview
+27.41	or they pay more for insurance.
+30.017	We're being scored with secret formulas
+30.017	that we don't understand
+34.495	that often don't have systems of appeal.
+39.06	That begs the question:
+40.38	What if the algorithms are wrong?
+44.92	To build an algorithm you need two things:
+46.984	you need data, what happened in the past,
+48.989	and a definition of success,
+50.574	the thing you're looking for
+50.574	and often hoping for.
+53.055	You train an algorithm
+53.055	by looking, figuring out.
+58.116	The algorithm figures out
+58.116	what is associated with success.
+61.559	What situation leads to success?
+64.701	Actually, everyone uses algorithms.
+66.487	They just don't formalize them
+66.487	in written code.
+69.229	Let me give you an example.
+70.601	I use an algorithm every day
+70.601	to make a meal for my family.
+73.941	The data I use
+76.214	is the ingredients in my kitchen,
+77.897	the time I have,
+79.448	the ambition I have,
+80.705	and I curate that data.
+82.438	I don't count those little packages
+82.438	of ramen noodles as food.
+86.713	(Laughter)
+88.606	My definition of success is:
+90.475	a meal is successful
+90.475	if my kids eat vegetables.
+94.001	It's very different
+94.001	from if my youngest son were in charge.
+96.879	He'd say success is if
+96.879	he gets to eat lots of Nutella.
+100.999	But I get to choose success.
+103.249	I am in charge. My opinion matters.
+105.98	That's the first rule of algorithms.
+108.679	Algorithms are opinions embedded in code.
+113.382	It's really different from what you think
+113.382	most people think of algorithms.
+117.069	They think algorithms are objective
+117.069	and true and scientific.
+122.207	That's a marketing trick.
+125.089	It's also a marketing trick
+127.238	to intimidate you with algorithms,
+130.416	to make you trust and fear algorithms
+134.101	because you trust and fear mathematics.
+137.387	A lot can go wrong when we put
+137.387	blind faith in big data.
+143.504	This is Kiri Soares.
+143.504	She's a high school principal in Brooklyn.
+146.901	In 2011, she told me
+146.901	her teachers were being scored
+149.511	with a complex, secret algorithm
+152.262	"called the ""value-added model."""
+154.325	"I told her, ""Well, figure out"
+154.325	what the formula is, show it to me.
+157.441	"I'm going to explain it to you."""
+159.006	"She said, ""Well, I tried"
+159.006	to get the formula,
+161.171	but my Department of Education contact
+161.171	told me it was math
+163.967	"and I wouldn't understand it."""
+167.086	It gets worse.
+168.448	The New York Post filed
+168.448	a Freedom of Information Act request,
+172.002	got all the teachers' names
+172.002	and all their scores
+174.985	and they published them
+174.985	as an act of teacher-shaming.
+178.904	When I tried to get the formulas,
+178.904	the source code, through the same means,
+182.788	I was told I couldn't.
+184.961	I was denied.
+186.221	I later found out
+187.419	that nobody in New York City
+187.419	had access to that formula.
+190.309	No one understood it.
+193.749	Then someone really smart
+193.749	got involved, Gary Rubinstein.
+196.997	He found 665 teachers
+196.997	from that New York Post data
+200.642	that actually had two scores.
+202.532	That could happen if they were teaching
+204.437	seventh grade math and eighth grade math.
+206.9	He decided to plot them.
+208.462	Each dot represents a teacher.
+210.924	(Laughter)
+213.327	What is that?
+214.872	(Laughter)
+216.173	That should never have been used
+216.173	for individual assessment.
+219.643	It's almost a random number generator.
+221.593	(Applause)
+224.563	But it was.
+225.749	This is Sarah Wysocki.
+226.949	She got fired, along
+226.949	with 205 other teachers,
+229.148	from the Washington, DC school district,
+231.834	even though she had great
+231.834	recommendations from her principal
+234.767	and the parents of her kids.
+237.21	I know what a lot
+237.21	of you guys are thinking,
+239.266	especially the data scientists,
+239.266	the AI experts here.
+241.777	"You're thinking, ""Well, I would never make"
+241.777	"an algorithm that inconsistent."""
+246.673	But algorithms can go wrong,
+248.38	even have deeply destructive effects
+248.38	with good intentions.
+254.351	And whereas an airplane
+254.351	that's designed badly
+256.754	crashes to the earth and everyone sees it,
+258.779	an algorithm designed badly
+262.065	can go on for a long time,
+262.065	silently wreaking havoc.
+267.568	This is Roger Ailes.
+269.162	(Laughter)
+272.344	He founded Fox News in 1996.
+275.256	More than 20 women complained
+275.256	about sexual harassment.
+277.861	They said they weren't allowed
+277.861	to succeed at Fox News.
+281.12	He was ousted last year,
+281.12	but we've seen recently
+283.664	that the problems have persisted.
+287.474	That begs the question:
+288.898	What should Fox News do
+288.898	to turn over another leaf?
+293.065	Well, what if they replaced
+293.065	their hiring process
+296.13	with a machine-learning algorithm?
+297.808	That sounds good, right?
+299.427	Think about it.
+300.751	The data, what would the data be?
+302.88	A reasonable choice would be the last
+307.851	Reasonable.
+309.377	What about the definition of success?
+311.741	Reasonable choice would be,
+313.089	well, who is successful at Fox News?
+314.891	I guess someone who, say,
+314.891	stayed there for four years
+318.495	and was promoted at least once.
+320.636	Sounds reasonable.
+322.221	And then the algorithm would be trained.
+324.599	It would be trained to look for people
+324.599	to learn what led to success,
+329.039	what kind of applications
+329.039	historically led to success
+333.381	by that definition.
+336.02	Now think about what would happen
+337.819	if we applied that
+337.819	to a current pool of applicants.
+340.939	It would filter out women
+343.483	because they do not look like people
+343.483	who were successful in the past.
+351.572	Algorithms don't make things fair
+354.133	if you just blithely,
+354.133	blindly apply algorithms.
+356.851	They don't make things fair.
+358.357	They repeat our past practices,
+360.509	our patterns.
+361.716	They automate the status quo.
+364.538	That would be great
+364.538	if we had a perfect world,
+367.725	but we don't.
+369.061	And I'll add that most companies
+369.061	don't have embarrassing lawsuits,
+374.266	but the data scientists in those companies
+376.878	are told to follow the data,
+379.091	to focus on accuracy.
+382.093	Think about what that means.
+383.498	Because we all have bias,
+383.498	it means they could be codifying sexism
+387.549	or any other kind of bigotry.
+391.308	Thought experiment,
+392.753	because I like them:
+395.394	an entirely segregated society --
+400.067	racially segregated, all towns,
+400.067	all neighborhoods
+403.419	and where we send the police
+403.419	only to the minority neighborhoods
+406.48	to look for crime.
+408.271	The arrest data would be very biased.
+411.671	What if, on top of that,
+411.671	we found the data scientists
+414.27	and paid the data scientists to predict
+414.27	where the next crime would occur?
+419.095	Minority neighborhood.
+421.105	Or to predict who the next
+421.105	criminal would be?
+424.708	A minority.
+427.769	The data scientists would brag
+427.769	about how great and how accurate
+431.334	their model would be,
+432.655	and they'd be right.
+435.771	Now, reality isn't that drastic,
+435.771	but we do have severe segregations
+440.41	in many cities and towns,
+441.721	and we have plenty of evidence
+443.638	of biased policing
+443.638	and justice system data.
+447.452	And we actually do predict hotspots,
+450.291	places where crimes will occur.
+452.221	And we do predict, in fact,
+452.221	the individual criminality,
+456.111	the criminality of individuals.
+458.792	The news organization ProPublica
+458.792	recently looked into
+462.779	"one of those ""recidivism risk"" algorithms,"
+464.827	as they're called,
+466.014	being used in Florida
+466.014	during sentencing by judges.
+470.231	Bernard, on the left, the black man,
+470.231	was scored a 10 out of 10.
+474.999	Dylan, on the right, 3 out of 10.
+	3 out of 10, low risk.
+480.418	They were both brought in
+480.418	for drug possession.
+482.827	They both had records,
+484.005	but Dylan had a felony
+486.835	but Bernard didn't.
+489.638	This matters, because
+489.638	the higher score you are,
+492.728	the more likely you're being given
+492.728	a longer sentence.
+498.114	What's going on?
+500.346	Data laundering.
+502.75	It's a process by which
+502.75	technologists hide ugly truths
+507.201	inside black box algorithms
+509.046	and call them objective;
+511.14	call them meritocratic.
+514.938	When they're secret,
+514.938	important and destructive,
+517.347	I've coined a term for these algorithms:
+519.858	"""weapons of math destruction."""
+521.881	(Laughter)
+523.469	(Applause)
+526.547	They're everywhere,
+526.547	and it's not a mistake.
+529.515	These are private companies
+529.515	building private algorithms
+533.262	for private ends.
+535.034	Even the ones I talked about
+535.034	for teachers and the public police,
+538.272	those were built by private companies
+540.165	and sold to the government institutions.
+542.42	"They call it their ""secret sauce"" --"
+544.317	that's why they can't tell us about it.
+546.469	It's also private power.
+549.744	They are profiting for wielding
+549.744	the authority of the inscrutable.
+556.934	Now you might think,
+556.934	since all this stuff is private
+559.892	and there's competition,
+561.074	maybe the free market
+561.074	will solve this problem.
+563.404	It won't.
+564.677	There's a lot of money
+564.677	to be made in unfairness.
+568.947	Also, we're not economic rational agents.
+572.851	We all are biased.
+574.78	We're all racist and bigoted
+574.78	in ways that we wish we weren't,
+578.181	in ways that we don't even know.
+581.172	We know this, though, in aggregate,
+584.277	because sociologists
+584.277	have consistently demonstrated this
+587.521	with these experiments they build,
+589.21	where they send a bunch
+589.21	of applications to jobs out,
+591.802	equally qualified but some
+591.802	have white-sounding names
+594.327	and some have black-sounding names,
+596.057	and it's always disappointing,
+596.057	the results -- always.
+599.33	So we are the ones that are biased,
+601.125	and we are injecting those biases
+601.125	into the algorithms
+604.578	by choosing what data to collect,
+606.414	like I chose not to think
+606.414	about ramen noodles --
+609.181	I decided it was irrelevant.
+610.83	But by trusting the data that's actually
+610.83	picking up on past practices
+616.538	and by choosing the definition of success,
+618.576	how can we expect the algorithms
+618.576	to emerge unscathed?
+622.583	We can't. We have to check them.
+625.985	We have to check them for fairness.
+627.718	The good news is,
+627.718	we can check them for fairness.
+630.453	Algorithms can be interrogated,
+633.829	and they will tell us
+633.829	the truth every time.
+635.887	And we can fix them.
+635.887	We can make them better.
+638.404	I call this an algorithmic audit,
+640.803	and I'll walk you through it.
+642.506	First, data integrity check.
+645.952	For the recidivism risk
+645.952	algorithm I talked about,
+649.402	a data integrity check would mean
+649.402	we'd have to come to terms with the fact
+652.999	that in the US, whites and blacks
+652.999	smoke pot at the same rate
+656.549	but blacks are far more likely
+656.549	to be arrested --
+659.058	four or five times more likely,
+659.058	depending on the area.
+663.137	What is that bias looking like
+663.137	in other crime categories,
+665.987	and how do we account for it?
+667.982	Second, we should think about
+667.982	the definition of success,
+671.045	audit that.
+672.45	Remember -- with the hiring
+672.45	algorithm? We talked about it.
+675.226	Someone who stays for four years
+675.226	and is promoted once?
+678.415	Well, that is a successful employee,
+680.208	but it's also an employee
+680.208	that is supported by their culture.
+683.909	That said, also it can be quite biased.
+685.859	We need to separate those two things.
+687.948	We should look to
+687.948	the blind orchestra audition
+690.398	as an example.
+691.618	That's where the people auditioning
+691.618	are behind a sheet.
+694.766	What I want to think about there
+696.721	is the people who are listening
+696.721	have decided what's important
+700.162	and they've decided what's not important,
+702.215	and they're not getting
+702.215	distracted by that.
+704.781	When the blind orchestra
+704.781	auditions started,
+707.554	the number of women in orchestras
+707.554	went up by a factor of five.
+712.073	Next, we have to consider accuracy.
+715.053	This is where the value-added model
+715.053	for teachers would fail immediately.
+719.398	No algorithm is perfect, of course,
+722.44	so we have to consider
+722.44	the errors of every algorithm.
+726.656	How often are there errors,
+726.656	and for whom does this model fail?
+731.67	What is the cost of that failure?
+734.254	And finally, we have to consider
+737.793	the long-term effects of algorithms,
+740.686	the feedback loops that are engendering.
+743.406	That sounds abstract,
+744.666	but imagine if Facebook engineers
+744.666	had considered that
+748.09	before they decided to show us
+748.09	only things that our friends had posted.
+753.581	I have two more messages,
+753.581	one for the data scientists out there.
+757.27	Data scientists: we should
+757.27	not be the arbiters of truth.
+761.34	We should be translators
+761.34	of ethical discussions that happen
+765.147	in larger society.
+767.399	(Applause)
+769.556	And the rest of you,
+771.831	the non-data scientists:
+773.251	this is not a math test.
+775.452	This is a political fight.
+778.407	We need to demand accountability
+778.407	for our algorithmic overlords.
+783.938	(Applause)
+785.461	The era of blind faith
+785.461	in big data must end.
+789.71	Thank you very much.
+790.901	(Applause)

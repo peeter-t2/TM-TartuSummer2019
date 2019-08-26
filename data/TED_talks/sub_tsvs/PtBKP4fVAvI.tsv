@@ -1,0 +1,207 @@
+startsecond	text
+12.564	My students and I
+12.564	work on very tiny robots.
+16.209	Now, you can think of these
+16.209	as robotic versions
+18.426	of something that you're all
+18.426	very familiar with: an ant.
+22.016	We all know that ants
+22.016	and other insects at this size scale
+24.776	can do some pretty incredible things.
+27.012	We've all seen a group of ants,
+27.012	or some version of that,
+30.197	carting off your potato chip
+30.197	at a picnic, for example.
+34.467	But what are the real challenges
+34.467	of engineering these ants?
+37.91	Well, first of all, how do we get
+37.91	the capabilities of an ant
+41.861	in a robot at the same size scale?
+43.909	Well, first we need to figure out
+43.909	how to make them move
+46.513	when they're so small.
+47.923	We need mechanisms like legs
+47.923	and efficient motors
+50.223	in order to support that locomotion,
+52.072	and we need the sensors,
+52.072	power and control
+54.563	in order to pull everything together
+54.563	in a semi-intelligent ant robot.
+58.525	And finally, to make
+58.525	these things really functional,
+61.071	we want a lot of them working together
+61.071	in order to do bigger things.
+65.019	So I'll start with mobility.
+67.71	Insects move around amazingly well.
+70.871	This video is from UC Berkeley.
+72.559	It shows a cockroach moving
+72.559	over incredibly rough terrain
+75.342	without tipping over,
+77.195	and it's able to do this because its legs
+77.195	are a combination of rigid materials,
+81.192	which is what we traditionally
+81.192	use to make robots,
+83.545	and soft materials.
+86.374	Jumping is another really interesting way
+86.374	to get around when you're very small.
+90.201	So these insects store energy in a spring
+90.201	and release that really quickly
+94.27	to get the high power they need
+94.27	to jump out of water, for example.
+98.281	So one of the big
+98.281	contributions from my lab
+101.403	has been to combine
+101.403	rigid and soft materials
+104.153	in very, very small mechanisms.
+106.367	So this jumping mechanism
+106.367	is about four millimeters on a side,
+109.532	so really tiny.
+111.22	The hard material here is silicon,
+111.22	and the soft material is silicone rubber.
+115.058	And the basic idea is that
+115.058	we're going to compress this,
+117.953	store energy in the springs,
+117.953	and then release it to jump.
+120.654	So there's no motors
+120.654	on board this right now, no power.
+124.037	This is actuated with a method
+124.037	that we call in my lab
+126.8	"""graduate student with tweezers."""
+126.8	(Laughter)
+129.472	So what you'll see in the next video
+131.306	is this guy doing
+131.306	amazingly well for its jumps.
+134.333	So this is Aaron, the graduate student
+134.333	in question, with the tweezers,
+137.947	and what you see is this 
+137.947	four-millimeter-sized mechanism
+140.63	jumping almost 40 centimeters high.
+142.841	That's almost 100 times its own length.
+145.265	And it survives, bounces on the table,
+147.221	it's incredibly robust, and of course
+147.221	survives quite well until we lose it
+150.735	because it's very tiny.
+153.361	Ultimately, though, we want
+153.361	to add motors to this too,
+155.97	and we have students in the lab
+155.97	working on millimeter-sized motors
+159.086	to eventually integrate onto
+159.086	small, autonomous robots.
+162.686	But in order to look at mobility and
+162.686	locomotion at this size scale to start,
+166.267	we're cheating and using magnets.
+168.241	So this shows what would eventually
+168.241	be part of a micro-robot leg,
+171.317	and you can see the silicone rubber joints
+173.334	and there's an embedded magnet
+173.334	that's being moved around
+175.963	by an external magnetic field.
+178.266	So this leads to the robot
+178.266	that I showed you earlier.
+181.959	The really interesting thing
+181.959	that this robot can help us figure out
+185.11	is how insects move at this scale.
+187.117	We have a really good model
+187.117	for how everything
+189.342	from a cockroach up to an elephant moves.
+191.304	We all move in this 
+191.304	kind of bouncy way when we run.
+194.228	But when I'm really small, 
+194.228	the forces between my feet and the ground
+198.513	are going to affect my locomotion
+198.513	a lot more than my mass,
+201.288	which is what causes that bouncy motion.
+203.642	So this guy doesn't work quite yet,
+205.317	but we do have slightly larger versions
+205.317	that do run around.
+208.392	So this is about a centimeter cubed,
+208.392	a centimeter on a side, so very tiny,
+212.277	and we've gotten this to run
+212.277	about 10 body lengths per second,
+215.179	so 10 centimeters per second.
+216.565	It's pretty quick for a little, small guy,
+218.598	and that's really only limited 
+218.598	by our test setup.
+220.96	But this gives you some idea
+220.96	of how it works right now.
+224.027	We can also make 3D-printed versions 
+224.027	of this that can climb over obstacles,
+227.781	a lot like the cockroach
+227.781	that you saw earlier.
+231.28	But ultimately we want to add
+231.28	everything onboard the robot.
+234.166	We want sensing, power, control,
+234.166	actuation all together,
+237.859	and not everything
+237.859	needs to be bio-inspired.
+240.765	So this robot's about
+240.765	the size of a Tic Tac.
+243.9	And in this case, instead of magnets
+243.9	or muscles to move this around,
+247.849	we use rockets.
+250.274	So this is a micro-fabricated
+250.274	energetic material,
+252.94	and we can create tiny pixels of this,
+255.539	and we can put one of these pixels
+255.539	on the belly of this robot,
+259.326	and this robot, then, is going to jump
+259.326	when it senses an increase in light.
+264.645	So the next video is one of my favorites.
+266.618	So you have this 300-milligram robot
+269.658	jumping about eight
+269.658	centimeters in the air.
+272.064	It's only four by four
+272.064	by seven millimeters in size.
+274.974	And you'll see a big flash
+274.974	at the beginning
+277.13	when the energetic is set off,
+278.622	and the robot tumbling through the air.
+280.53	So there was that big flash,
+282.139	and you can see the robot
+282.139	jumping up through the air.
+285.336	So there's no tethers on this,
+285.336	no wires connecting to this.
+288.368	Everything is onboard,
+288.368	and it jumped in response
+290.862	to the student just flicking on
+290.862	a desk lamp next to it.
+295.243	So I think you can imagine
+295.243	all the cool things that we could do
+298.897	with robots that can run and crawl
+298.897	and jump and roll at this size scale.
+303.604	Imagine the rubble that you get after 
+303.604	a natural disaster like an earthquake.
+307.394	Imagine these small robots
+307.394	running through that rubble
+309.953	to look for survivors.
+312.171	Or imagine a lot of small robots
+312.171	running around a bridge
+315.127	in order to inspect it
+315.127	and make sure it's safe
+317.286	so you don't get collapses like this,
+319.326	which happened outside of 
+319.326	Minneapolis in 2007.
+323.233	Or just imagine what you could do
+324.995	if you had robots that could
+324.995	swim through your blood.
+327.518	"Right? ""Fantastic Voyage,"" Isaac Asimov."
+329.851	Or they could operate without having
+329.851	to cut you open in the first place.
+334.206	Or we could radically change
+334.206	the way we build things
+336.936	if we have our tiny robots
+336.936	work the same way that termites do,
+340.343	and they build these incredible
+340.343	eight-meter-high mounds,
+343.108	effectively well ventilated
+343.108	apartment buildings for other termites
+347.196	in Africa and Australia.
+349.287	So I think I've given you
+349.287	some of the possibilities
+351.717	of what we can do with these small robots.
+354.154	And we've made some advances so far,
+354.154	but there's still a long way to go,
+358.561	and hopefully some of you
+358.561	can contribute to that destination.
+361.419	Thanks very much.
+363.187	(Applause)

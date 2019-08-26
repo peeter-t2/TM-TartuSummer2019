@@ -1,0 +1,404 @@
+startsecond	text
+16.228	I moved to Boston
+19.545	with an interest in cancer
+19.545	and in chemistry.
+22.633	You might know that chemistry
+22.633	is the science of making molecules
+25.952	or, to my taste,
+27.292	new drugs for cancer.
+29.439	And you might also know that,
+29.439	for science and medicine,
+32.26	Boston is a bit of a candy store.
+35.767	You can't roll a stop sign in Cambridge
+35.767	without hitting a graduate student.
+40.414	The bar is called the Miracle of Science.
+42.993	"The billboards say ""Lab Space Available."""
+46.656	And it's fair to say
+46.656	that in these 10 years,
+48.839	we've witnessed absolutely the start
+48.839	of a scientific revolution --
+53.17	that of genome medicine.
+55.035	We know more about the patients
+55.035	that enter our clinic now
+57.789	than ever before.
+58.972	And we're able, finally,
+58.972	to answer the question
+61.22	that's been so pressing for so many years:
+63.608	Why do I have cancer?
+66.675	This information
+66.675	is also pretty staggering.
+69.215	You might know that, so far,
+69.215	in just the dawn of this revolution,
+72.332	we know that there are perhaps
+76.082	affecting more than 10,000 genes,
+78.717	and that there are 500 of these genes
+78.717	that are bona-fide drivers,
+82.104	causes of cancer.
+85.094	Yet comparatively,
+86.313	we have about a dozen
+86.313	targeted medications.
+89.972	And this inadequacy of cancer medicine
+92.258	really hit home when my father
+92.258	was diagnosed with pancreatic cancer.
+98.21	We didn't fly him to Boston.
+99.895	We didn't sequence his genome.
+101.807	It's been known for decades
+101.807	what causes this malignancy.
+106.363	It's three proteins: ras, myc, p53.
+110.937	This is old information
+110.937	we've known since about the 80s,
+113.659	yet there's no medicine I can prescribe
+115.603	to a patient with this
+115.603	or any of the numerous solid tumors
+119.19	caused by these three ...
+121.841	Horsemen of the Apocalypse that is cancer.
+124.539	There's no ras, no myc, no p53 drug.
+127.356	And you might fairly ask: Why is that?
+130.309	And the very unsatisfying
+130.309	yet scientific answer is:
+133.166	it's too hard.
+134.88	That for whatever reason,
+136.174	these three proteins have entered
+136.174	a space, in the language of our field,
+139.691	that's called the undruggable genome --
+141.915	which is like calling
+141.915	a computer unsurfable
+144.229	or the Moon unwalkable.
+145.509	It's a horrible term of trade.
+147.641	But what it means
+148.823	is that we've failed to identify
+148.823	a greasy pocket in these proteins,
+152.069	into which we, like molecular locksmiths,
+154.363	can fashion an active, small,
+154.363	organic molecule or drug substance.
+160.034	Now, as I was training
+160.034	in clinical medicine
+162.491	and hematology and oncology
+162.491	and stem-cell transplantation,
+165.976	what we had instead,
+167.873	cascading through the regulatory
+167.873	network at the FDA,
+171.412	were these substances:
+172.869	arsenic,
+174.202	thalidomide,
+175.391	and this chemical derivative
+175.391	of nitrogen mustard gas.
+178.772	And this is the 21st century.
+181.405	And so, I guess you'd say,
+182.675	dissatisfied with the performance
+182.675	and quality of these medicines,
+185.836	I went back to school, in chemistry,
+189.309	with the idea that perhaps by learning
+189.309	the trade of discovery chemistry
+193.992	and approaching it in the context
+193.992	of this brave new world
+196.889	of the open source,
+199.125	the crowd source,
+200.577	the collaborative network
+200.577	that we have access to within academia,
+203.906	that we might more quickly bring
+203.906	powerful and targeted therapies
+208.208	to our patients.
+209.951	And so, please consider
+209.951	this a work in progress,
+213.075	but I'd like to tell you today a story
+215.116	about a very rare cancer
+215.116	called midline carcinoma,
+219.119	about the undruggable protein target
+219.119	that causes this cancer,
+223.357	called BRD4,
+224.909	and about a molecule developed at my lab
+224.909	at Dana-Farber Cancer Institute,
+228.778	called JQ1,
+229.954	which we affectionately named for Jun Qi,
+232.2	the chemist that made this molecule.
+234.969	Now, BRD4 is an interesting protein.
+237.689	You might ask: with all the things
+237.689	cancer's trying to do to kill our patient,
+241.394	how does it remember it's cancer?
+243.006	When it winds up its genome,
+244.461	divides into two cells and unwinds again,
+246.856	why does it not turn
+246.856	into an eye, into a liver,
+249.117	as it has all the genes
+249.117	necessary to do this?
+251.522	It remembers that it's cancer.
+253.948	And the reason is that cancer,
+253.948	like every cell in the body,
+257.06	places little molecular bookmarks,
+259.06	little Post-it notes,
+260.462	"that remind the cell, ""I'm cancer;"
+260.462	"I should keep growing."""
+264.06	And those Post-it notes involve this
+264.06	and other proteins of its class --
+268.097	so-called bromodomains.
+269.992	So we developed an idea, a rationale,
+272.684	that perhaps if we made a molecule
+274.857	that prevented
+274.857	the Post-it note from sticking
+277.174	by entering into the little pocket
+278.857	at the base of this spinning protein,
+280.737	then maybe we could convince cancer cells,
+282.817	certainly those addicted
+282.817	to this BRD4 protein,
+285.642	that they're not cancer.
+287.678	And so we started to work on this problem.
+289.925	We developed libraries of compounds
+292.251	and eventually arrived
+292.251	at this and similar substances
+295.06	called JQ1.
+296.837	Now, not being a drug company,
+298.425	we could do certain things,
+298.425	we had certain flexibilities,
+301.543	that I respect that a pharmaceutical
+301.543	industry doesn't have.
+304.401	We just started mailing it to our friends.
+307.143	I have a small lab.
+308.32	We thought we'd just send it to people
+308.32	and see how the molecule behaves.
+311.749	We sent it to Oxford, England,
+313.223	where a group of talented
+313.223	crystallographers provided this picture,
+316.469	which helped us understand exactly
+316.469	how this molecule is so potent
+319.59	for this protein target.
+320.78	It's what we call a perfect fit
+320.78	of shape complementarity,
+323.74	or hand in glove.
+325.587	Now, this is a very rare cancer,
+327.232	this BRD4-addicted cancer.
+329.461	And so we worked with samples of material
+331.716	that were collected by young pathologists
+331.716	at Brigham and Women's Hospital.
+335.314	And as we treated these cells
+335.314	with this molecule,
+337.711	we observed something really striking.
+340.06	The cancer cells --
+341.29	small, round and rapidly dividing,
+343.381	grew these arms and extensions.
+345.758	They were changing shape.
+347.58	In effect,
+348.931	the cancer cell
+348.931	was forgetting it was cancer
+352.262	and becoming a normal cell.
+355.336	This got us very excited.
+358.101	The next step would be to put
+358.101	this molecule into mice.
+360.713	The only problem was there's no
+360.713	mouse model of this rare cancer.
+364.132	And so at the time
+364.132	we were doing this research,
+366.879	I was caring for a 29-year-old
+366.879	firefighter from Connecticut
+370.476	who was very much at the end of life
+372.382	with this incurable cancer.
+374.881	This BRD4-addicted cancer
+374.881	was growing throughout his left lung.
+378.355	And he had a chest tube in
+378.355	that was draining little bits of debris.
+381.544	And every nursing shift,
+381.544	we would throw this material out.
+384.529	And so we approached this patient
+386.32	and asked if he would collaborate with us.
+388.975	Could we take this precious
+388.975	and rare cancerous material
+392.698	from this chest tube
+394.321	and drive it across town
+394.321	and put it into mice
+396.564	and try to do a clinical trial
+396.564	at a stage that with a prototype drug,
+400.229	well, that would be, of course, impossible
+402.277	and, rightly, illegal to do in humans.
+404.134	And he obliged us.
+406.266	At the Lurie Family Center
+406.266	for Animal Imaging,
+408.482	our colleague, Andrew Kung,
+408.482	grew this cancer successfully in mice
+412.121	without ever touching plastic.
+413.835	And you can see this PET scan
+413.835	of a mouse -- what we call a pet PET.
+417.275	The cancer is growing
+418.855	as this red, huge mass
+418.855	in the hind limb of this animal.
+422.181	And as we treat it with our compound,
+424.428	this addiction to sugar,
+426.06	this rapid growth, faded.
+427.675	And on the animal on the right,
+429.742	you see that the cancer was responding.
+432.829	We've completed, now, clinical trials
+435.06	in four mouse models of this disease.
+437.06	And every time, we see the same thing.
+438.933	The mice with this cancer
+438.933	that get the drug live,
+441.662	and the ones that don't rapidly perish.
+446.06	So we started to wonder,
+447.513	what would a drug company
+447.513	do at this point?
+449.641	Well, they probably
+449.641	would keep this a secret
+451.714	until they turn the prototype drug
+453.623	into an active pharmaceutical substance.
+456.323	So we did just the opposite.
+458.144	We published a paper
+458.144	that described this finding
+461.003	at the earliest prototype stage.
+463.773	We gave the world the chemical
+463.773	identity of this molecule,
+466.705	typically a secret in our discipline.
+468.626	We told people exactly how to make it.
+471.299	We gave them our email address,
+472.991	suggesting that if they write us,
+474.666	we'll send them a free molecule.
+476.292	(Laughter)
+477.404	We basically tried to create
+477.404	the most competitive environment
+480.325	for our lab as possible.
+481.509	And this was, unfortunately, successful.
+483.475	(Laughter)
+484.523	Because now, we've shared this molecule,
+486.552	just since December of last year,
+488.979	with 40 laboratories in the United States
+491.258	and 30 more in Europe --
+493.06	many of them pharmaceutical companies,
+494.933	seeking now to enter this space,
+496.552	to target this rare cancer
+496.552	that, thankfully right now,
+500.456	is quite desirable
+500.456	to study in that industry.
+505.322	But the science that's coming back
+505.322	from all of these laboratories
+508.415	about the use of this molecule
+510.273	has provided us insights
+510.273	we might not have had on our own.
+513.47	Leukemia cells treated with this compound
+515.471	turn into normal white blood cells.
+518.536	Mice with multiple myeloma,
+520.341	an incurable malignancy
+520.341	of the bone marrow,
+523.4	respond dramatically
+525.401	to the treatment with this drug.
+527.576	You might know that fat has memory.
+530.624	I'll nicely demonstrate that for you.
+532.624	(Laughter)
+533.679	In fact, this molecule
+535.255	prevents this adipocyte,
+535.255	this fat stem cell,
+538.679	from remembering how to make fat,
+541.572	such that mice on a high-fat diet,
+543.964	like the folks
+543.964	in my hometown of Chicago --
+546.102	(Laughter)
+547.134	fail to develop fatty liver,
+549.166	which is a major medical problem.
+552.18	What this research taught us --
+553.776	not just my lab, but our institute,
+556.06	and Harvard Medical School
+556.06	more generally --
+558.156	is that we have unique
+558.156	resources in academia
+560.441	for drug discovery;
+561.799	that our center, which has tested
+561.799	perhaps more cancer molecules
+565.006	in a scientific way
+566.187	than any other,
+567.362	never made one of its own.
+569.805	For all the reasons you see listed here,
+571.996	we think there's a great
+571.996	opportunity for academic centers
+574.759	to participate in this earliest,
+574.759	conceptually tricky
+578.607	and creative discipline
+580.561	of prototype drug discovery.
+585.132	So what next?
+586.609	We have this molecule,
+586.609	but it's not a pill yet.
+589.013	It's not orally bioavailable.
+591.631	We need to fix it so we can
+591.631	deliver it to our patients.
+594.85	And everyone in the lab,
+596.458	especially following the interaction
+596.458	with these patients,
+599.283	feels quite compelled
+599.283	to deliver a drug substance
+601.632	based on this molecule.
+602.854	It's here where I'd say
+604.289	that we could use your help
+604.289	and your insights,
+606.528	your collaborative participation.
+608.741	Unlike a drug company,
+608.741	we don't have a pipeline
+612.446	that we can deposit these molecules into.
+614.477	We don't have a team
+614.477	of salespeople and marketeers
+616.898	to tell us how to position
+616.898	this drug against the other.
+619.633	What we do have is the flexibility
+619.633	of an academic center
+622.325	to work with competent, motivated,
+624.701	enthusiastic, hopefully well-funded people
+627.63	to carry these molecules
+627.63	forward into the clinic
+629.947	while preserving our ability
+629.947	to share the prototype drug worldwide.
+634.734	This molecule will soon leave our benches
+637.399	and go into a small start-up company
+637.399	called Tensha Therapeutics.
+640.473	And, really, this is the fourth
+640.473	of these molecules
+643.433	"to kind of ""graduate"""
+643.433	from our little pipeline
+645.704	of drug discovery,
+647.182	two of which -- a topical drug
+647.182	for lymphoma of the skin
+652.457	and an oral substance for the treatment
+652.457	of multiple myeloma --
+655.592	will actually come to the bedside
+655.592	for the first clinical trial
+658.854	in July of this year -- for us,
+658.854	a major and exciting milestone.
+663.909	I want to leave you with just two ideas.
+665.956	The first is: if anything is unique
+665.956	about this research,
+670.314	it's less the science than the strategy.
+672.695	This, for us, was a social experiment --
+675.141	"an experiment in ""What would happen"
+675.141	if we were as open and honest
+680.43	at the earliest phase
+680.43	of discovery chemistry research
+682.97	"as we could be?"""
+684.441	This string of letters and numbers
+686.806	and symbols and parentheses
+688.845	that can be texted, I suppose,
+690.488	or Twittered worldwide,
+693.208	is the chemical identity
+693.208	of our pro compound.
+695.734	It's the information that we most need
+695.734	from pharmaceutical companies,
+699.84	the information on how these early
+699.84	prototype drugs might work.
+704.948	Yet this information is largely a secret.
+707.742	And so we seek, really, to download
+710.645	from the amazing successes
+710.645	of the computer-science industry,
+713.788	two principles -- that of open source
+713.788	and that of crowdsourcing --
+718.191	to quickly, responsibly accelerate
+718.191	the delivery of targeted therapeutics
+724.209	to patients with cancer.
+726.377	Now, the business model
+726.377	involves all of you.
+729.52	This research is funded by the public.
+731.845	It's funded by foundations.
+733.247	And one thing I've learned in Boston
+735.001	is that you people will do anything
+735.001	for cancer, and I love that.
+738.099	You bike across the state,
+738.099	you walk up and down the river.
+741.02	(Laughter)
+743.15	I've never seen, really, anywhere,
+745.5	this unique support for cancer research.
+748.767	And so I want to thank you
+750.548	for your participation, your collaboration
+753.869	and most of all,
+755.054	for your confidence in our ideas.
+757.012	(Applause)

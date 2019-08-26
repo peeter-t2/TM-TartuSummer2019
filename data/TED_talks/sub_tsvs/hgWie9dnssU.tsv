@@ -1,0 +1,292 @@
+startsecond	text
+12.738	If you remember that first decade of the web,
+14.735	it was really a static place.
+16.99	You could go online, you could look at pages,
+19.235	and they were put up either by organizations
+21.748	who had teams to do it
+23.269	or by individuals who were really tech-savvy
+25.498	for the time.
+27.235	And with the rise of social media
+28.81	and social networks in the early 2000s,
+31.209	the web was completely changed
+33.358	to a place where now the vast majority of content
+36.966	we interact with is put up by average users,
+40.278	either in YouTube videos or blog posts
+42.975	or product reviews or social media postings.
+46.29	And it's also become a much more interactive place,
+48.637	where people are interacting with others,
+51.274	they're commenting, they're sharing,
+52.97	they're not just reading.
+54.584	So Facebook is not the only place you can do this,
+56.45	but it's the biggest,
+57.548	and it serves to illustrate the numbers.
+59.332	Facebook has 1.2 billion users per month.
+62.809	So half the Earth's Internet population
+64.739	is using Facebook.
+66.392	They are a site, along with others,
+68.324	that has allowed people to create an online persona
+71.543	with very little technical skill,
+73.325	and people responded by putting huge amounts
+75.801	of personal data online.
+77.784	So the result is that we have behavioral,
+80.327	preference, demographic data
+82.313	for hundreds of millions of people,
+84.414	which is unprecedented in history.
+86.44	And as a computer scientist, 
+86.44	what this means is that
+89	I've been able to build models
+90.664	that can predict all sorts of hidden attributes
+92.986	for all of you that you don't even know
+95.27	you're sharing information about.
+97.472	As scientists, we use that to help
+99.854	the way people interact online,
+101.968	but there's less altruistic applications,
+104.467	and there's a problem in that users don't really
+106.848	understand these techniques and how they work,
+109.318	and even if they did, they don't
+109.318	have a lot of control over it.
+112.446	So what I want to talk to you about today
+113.936	is some of these things that we're able to do,
+116.638	and then give us some ideas
+116.638	of how we might go forward
+119.401	to move some control back into the hands of users.
+122.17	So this is Target, the company.
+123.756	I didn't just put that logo
+125.08	on this poor, pregnant woman's belly.
+127.25	You may have seen this anecdote that was printed
+129.09	in Forbes magazine where Target
+131.151	sent a flyer to this 15-year-old girl
+133.512	with advertisements and coupons
+135.222	for baby bottles and diapers and cribs
+137.776	two weeks before she told her parents
+139.46	that she was pregnant.
+141.324	Yeah, the dad was really upset.
+144.028	"He said, ""How did Target figure out"
+145.744	that this high school girl was pregnant
+147.568	"before she told her parents?"""
+149.528	It turns out that they have the purchase history
+152.149	for hundreds of thousands of customers
+154.45	and they compute what they 
+154.45	call a pregnancy score,
+157.18	which is not just whether or 
+157.18	not a woman's pregnant,
+159.512	but what her due date is.
+161.242	And they compute that
+162.546	not by looking at the obvious things,
+164.314	like, she's buying a crib or baby clothes,
+166.826	but things like, she bought more vitamins
+169.769	than she normally had,
+171.486	or she bought a handbag
+172.95	that's big enough to hold diapers.
+174.661	And by themselves, those purchases don't seem
+176.571	like they might reveal a lot,
+179.04	but it's a pattern of behavior that,
+181.018	when you take it in the context 
+181.018	of thousands of other people,
+184.135	starts to actually reveal some insights.
+186.892	So that's the kind of thing that we do
+188.685	when we're predicting stuff
+188.685	about you on social media.
+191.252	We're looking for little
+191.252	patterns of behavior that,
+194.048	when you detect them among millions of people,
+196.73	lets us find out all kinds of things.
+199.436	So in my lab and with colleagues,
+201.183	we've developed mechanisms where we can
+202.96	quite accurately predict things
+204.52	like your political preference,
+206.245	your personality score, gender, sexual orientation,
+209.997	religion, age, intelligence,
+212.87	along with things like
+214.264	how much you trust the people you know
+216.201	and how strong those relationships are.
+218.005	We can do all of this really well.
+219.79	And again, it doesn't come from what you might
+221.987	think of as obvious information.
+224.089	So my favorite example is from this study
+226.37	that was published this year
+227.61	in the Proceedings of the National Academies.
+229.405	If you Google this, you'll find it.
+230.69	It's four pages, easy to read.
+232.562	And they looked at just people's Facebook likes,
+235.565	so just the things you like on Facebook,
+237.485	and used that to predict all these attributes,
+239.623	along with some other ones.
+241.268	And in their paper they listed the five likes
+244.229	that were most indicative of high intelligence.
+247.016	And among those was liking a page
+249.34	for curly fries. (Laughter)
+251.245	Curly fries are delicious,
+253.338	but liking them does not necessarily mean
+255.868	that you're smarter than the average person.
+257.948	So how is it that one of the strongest indicators
+261.155	of your intelligence
+262.725	is liking this page
+264.172	when the content is totally irrelevant
+266.424	to the attribute that's being predicted?
+268.951	And it turns out that we have to look at
+270.535	a whole bunch of underlying theories
+272.153	to see why we're able to do this.
+274.722	One of them is a sociological
+274.722	theory called homophily,
+277.635	which basically says people are
+277.635	friends with people like them.
+280.727	So if you're smart, you tend to
+280.727	be friends with smart people,
+282.741	and if you're young, you tend
+282.741	to be friends with young people,
+285.371	and this is well established
+286.998	for hundreds of years.
+288.743	We also know a lot
+289.975	about how information spreads through networks.
+292.525	It turns out things like viral videos
+294.279	or Facebook likes or other information
+296.685	spreads in exactly the same way
+298.573	that diseases spread through social networks.
+301.027	So this is something we've studied for a long time.
+302.818	We have good models of it.
+304.394	And so you can put those things together
+306.551	and start seeing why things like this happen.
+309.639	So if I were to give you a hypothesis,
+311.453	it would be that a smart guy started this page,
+314.68	or maybe one of the first people who liked it
+316.619	would have scored high on that test.
+318.355	And they liked it, and their friends saw it,
+320.643	and by homophily, we know that
+320.643	he probably had smart friends,
+323.765	and so it spread to them, 
+323.765	and some of them liked it,
+326.821	and they had smart friends,
+328.01	and so it spread to them,
+328.817	and so it propagated through the network
+330.79	to a host of smart people,
+333.359	so that by the end, the action
+335.415	of liking the curly fries page
+337.959	is indicative of high intelligence,
+339.574	not because of the content,
+341.377	but because the actual action of liking
+343.899	reflects back the common attributes
+345.799	of other people who have done it.
+348.267	So this is pretty complicated stuff, right?
+351.164	It's a hard thing to sit down and explain
+353.363	to an average user, and even if you do,
+356.211	what can the average user do about it?
+358.399	How do you know that 
+358.399	you've liked something
+360.447	that indicates a trait for you
+361.939	that's totally irrelevant to the
+361.939	content of what you've liked?
+365.484	There's a lot of power that users don't have
+368.03	to control how this data is used.
+370.26	And I see that as a real 
+370.26	problem going forward.
+373.372	So I think there's a couple paths
+375.349	that we want to look at
+376.35	if we want to give users some control
+378.26	over how this data is used,
+380	because it's not always going to be used
+381.94	for their benefit.
+383.321	An example I often give is that,
+384.743	if I ever get bored being a professor,
+386.389	I'm going to go start a company
+388.042	that predicts all of these attributes
+389.496	and things like how well you work in teams
+391.098	and if you're a drug user, if you're an alcoholic.
+393.769	We know how to predict all that.
+395.209	And I'm going to sell reports
+396.97	to H.R. companies and big businesses
+399.07	that want to hire you.
+401.343	We totally can do that now.
+402.52	I could start that business tomorrow,
+404.308	and you would have
+404.308	absolutely no control
+406.36	over me using your data like that.
+408.498	That seems to me to be a problem.
+410.79	So one of the paths we can go down
+412.7	is the policy and law path.
+414.732	And in some respects, I think
+414.732	that that would be most effective,
+417.778	but the problem is we'd
+417.778	actually have to do it.
+420.534	Observing our political process in action
+423.314	makes me think it's highly unlikely
+425.693	that we're going to get a bunch of representatives
+427.29	to sit down, learn about this,
+429.276	and then enact sweeping changes
+431.382	to intellectual property law in the U.S.
+433.539	so users control their data.
+436	We could go the policy route,
+437.304	where social media companies say,
+438.783	you know what? You own your data.
+440.185	You have total control over how it's used.
+442.674	The problem is that the revenue models
+444.522	for most social media companies
+446.246	rely on sharing or exploiting 
+446.246	users' data in some way.
+450.277	It's sometimes said of Facebook that the users
+452.11	aren't the customer, they're the product.
+454.638	And so how do you get a company
+457.352	to cede control of their main asset
+459.91	back to the users?
+461.159	It's possible, but I don't think it's something
+462.86	that we're going to see change quickly.
+465.18	So I think the other path
+466.68	that we can go down that's
+466.68	going to be more effective
+468.968	is one of more science.
+470.476	It's doing science that allowed us to develop
+472.986	all these mechanisms for computing
+474.736	this personal data in the first place.
+476.788	And it's actually very similar research
+478.894	that we'd have to do
+480.332	if we want to develop mechanisms
+482.718	that can say to a user,
+484.139	"""Here's the risk of that action you just took."""
+486.368	By liking that Facebook page,
+488.448	or by sharing this piece of personal information,
+490.983	you've now improved my ability
+492.485	to predict whether or not you're using drugs
+494.571	or whether or not you get
+494.571	along well in the workplace.
+497.433	And that, I think, can affect whether or not
+499.281	people want to share something,
+500.791	keep it private, or just keep it offline altogether.
+504.03	We can also look at things like
+505.593	allowing people to encrypt data that they upload,
+508.321	so it's kind of invisible and worthless
+510.176	to sites like Facebook
+511.607	or third party services that access it,
+514.236	but that select users who the person who posted it
+517.483	want to see it have access to see it.
+520.153	This is all super exciting research
+522.319	from an intellectual perspective,
+523.939	and so scientists are going to be willing to do it.
+525.798	So that gives us an advantage over the law side.
+529.408	One of the problems that people bring up
+531.133	when I talk about this is, they say,
+532.728	you know, if people start
+532.728	keeping all this data private,
+535.374	all those methods that you've been developing
+537.487	to predict their traits are going to fail.
+540.14	And I say, absolutely, and for me, that's success,
+543.66	because as a scientist,
+545.446	my goal is not to infer information about users,
+549.134	it's to improve the way people interact online.
+551.901	And sometimes that involves
+551.901	inferring things about them,
+555.119	but if users don't want me to use that data,
+558.141	I think they should have the right to do that.
+560.179	I want users to be informed and consenting
+562.83	users of the tools that we develop.
+564.942	And so I think encouraging this kind of science
+567.894	and supporting researchers
+569.24	who want to cede some of that control back to users
+572.263	and away from the social media companies
+574.574	means that going forward, as these tools evolve
+577.245	and advance,
+578.721	means that we're going to have an educated
+580.135	and empowered user base,
+581.829	and I think all of us can agree
+582.929	that that's a pretty ideal way to go forward.
+585.493	Thank you.
+587.677	(Applause)

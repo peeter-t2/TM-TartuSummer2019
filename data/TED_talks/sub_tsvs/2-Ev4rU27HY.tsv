@@ -1,0 +1,255 @@
+startsecond	text
+12.285	This is an image of the planet Earth.
+15.178	It looks very much like the Apollo pictures
+18.271	that are very well known.
+19.882	There is something different;
+21.952	you can click on it,
+23.399	and if you click on it,
+24.597	you can zoom in on almost any place on the Earth.
+27.669	For instance, this is a bird's-eye view
+29.668	of the EPFL campus.
+32.334	In many cases, you can also see
+34.442	how a building looks from a nearby street.
+38.182	This is pretty amazing.
+39.604	But there's something missing in this wonderful tour:
+43.031	It's time.
+45.219	i'm not really sure when this picture was taken.
+48.289	I'm not even sure it was taken
+49.701	at the same moment as the bird's-eye view.
+55.784	In my lab, we develop tools
+57.993	to travel not only in space
+59.757	but also through time.
+62.315	The kind of question we're asking is
+64.185	Is it possible to build something
+65.578	like Google Maps of the past?
+67.756	Can I add a slider on top of Google Maps
+71.066	and just change the year,
+72.869	seeing how it was 100 years before,
+74.66	1,000 years before?
+76.329	Is that possible?
+78.452	Can I reconstruct social networks of the past?
+80.704	Can I make a Facebook of the Middle Ages?
+83.753	So, can I build time machines?
+87.529	"Maybe we can just say, ""No, it's not possible."""
+90.094	Or, maybe, we can think of it from an information point of view.
+93.904	This is what I call the information mushroom.
+97.094	Vertically, you have the time.
+98.677	and horizontally, the amount of digital information available.
+101.417	Obviously, in the last 10 years, we have much information.
+104.899	And obviously the more we go in the past, the less information we have.
+108.447	If we want to build something like Google Maps of the past,
+110.765	or Facebook of the past,
+112.259	we need to enlarge this space,
+113.833	we need to make that like a rectangle.
+115.771	How do we do that?
+117.281	One way is digitization.
+119.395	There's a lot of material available --
+121.19	newspaper, printed books, thousands of printed books.
+127.46	I can digitize all these.
+129.228	I can extract information from these.
+131.965	Of course, the more you go in the past,
+131.965	the less information you will have.
+135.508	So, it might not be enough.
+138.154	So, I can do what historians do.
+140.562	I can extrapolate.
+142.086	This is what we call, in computer science, simulation.
+146.556	If I take a log book,
+148.307	I can consider, it's not just a log book
+150.711	of a Venetian captain going to a particular journey.
+153.683	I can consider it is actually a log book
+155.326	which is representative of
+155.326	many journeys of that period.
+157.908	I'm extrapolating.
+160.153	If I have a painting of a facade,
+162.191	I can consider it's not just that particular building,
+164.942	but probably it also shares the same grammar
+168.874	of buildings where we lost any information.
+172.915	So if we want to construct a time machine,
+175.773	we need two things.
+177.112	We need very large archives,
+179.346	and we need excellent specialists.
+182.088	The Venice Time Machine,
+183.962	the project I'm going to talk to you about,
+185.767	is a joint project between the EPFL
+188.787	and the University of Venice Ca'Foscari.
+191.765	There's something very peculiar about Venice,
+193.93	that its administration has been
+196.604	very, very bureaucratic.
+198.798	They've been keeping track of everything,
+200.991	almost like Google today.
+203.906	At the Archivio di Stato,
+205.42	you have 80 kilometers of archives
+207.184	documenting every aspect
+209.193	of the life of Venice over
+209.193	more than 1,000 years.
+211.439	You have every boat that goes out,
+213.359	every boat that comes in.
+214.435	You have every change that was made in the city.
+217.232	This is all there.
+220.523	We are setting up a 10-year digitization program
+224.431	which has the objective of transforming
+226.108	this immense archive
+227.492	into a giant information system.
+229.918	The type of objective we want to reach
+231.775	is 450 books a day that can be digitized.
+236.501	Of course, when you digitize, that's not enough,
+238.748	because these documents,
+240.035	most of them are in Latin, in Tuscan,
+242.689	in Venetian dialect,
+244.204	so you need to transcribe them,
+245.879	to translate them in some cases,
+247.56	to index them,
+248.68	and this is obviously not easy.
+250.844	In particular, traditional optical
+250.844	character recognition method
+254.688	that can be used for printed manuscripts,
+256.112	they do not work well on the handwritten document.
+260.116	So the solution is actually to take inspiration
+262.246	from another domain: speech recognition.
+265.147	This is a domain of something 
+265.147	that seems impossible,
+267.202	which can actually be done,
+269.739	simply by putting additional constraints.
+271.933	If you have a very good model
+273.519	of a language which is used,
+275.045	if you have a very good model of a document,
+277.131	how well they are structured.
+278.563	And these are administrative documents.
+279.931	They are well structured in many cases.
+282.063	If you divide this huge archive into smaller subsets
+285.371	where a smaller subset
+285.371	actually shares similar features,
+288.248	then there's a chance of success.
+294.761	If we reach that stage, then there's something else:
+297.196	we can extract from this document events.
+300.718	Actually probably 10 billion events
+303.016	can be extracted from this archive.
+304.947	And this giant information system
+306.671	can be searched in many ways.
+308.487	You can ask questions like,
+309.855	"""Who lived in this palazzo in 1323?"""
+312.615	"""How much cost a sea bream at the Realto market"
+314.837	"in 1434?"""
+316.561	"""What was the salary"
+318.021	of a glass maker in Murano
+320.066	"maybe over a decade?"""
+321.472	You can ask even bigger questions
+322.894	because it will be semantically coded.
+325.632	And then what you can do is put that in space,
+327.772	because much of this information is spatial.
+329.945	And from that, you can do things like
+331.88	reconstructing this extraordinary journey
+333.993	of that city that managed to
+333.993	have a sustainable development
+337.349	over a thousand years,
+339.475	managing to have all the time
+341.095	a form of equilibrium with its environment.
+343.956	You can reconstruct that journey,
+345.204	visualize it in many different ways.
+348.1	But of course, you cannot understand 
+348.1	Venice if you just look at the city.
+350.799	You have to put it in a larger European context.
+353.195	So the idea is also to document all the things
+356.016	that worked at the European level.
+358.439	We can reconstruct also the journey
+360.403	of the Venetian maritime empire,
+362.393	how it progressively controlled the Adriatic Sea,
+365.559	how it became the most powerful medieval empire
+369.305	of its time,
+370.866	controlling most of the sea routes
+373.038	from the east to the south.
+377.305	But you can even do other things,
+379.621	because in these maritime routes,
+381.898	there are regular patterns.
+383.889	You can go one step beyond
+386.382	and actually create a simulation system,
+388.502	create a Mediterranean simulator
+391.317	which is capable actually of reconstructing
+393.91	even the information we are missing,
+396.112	which would enable us to have 
+396.112	questions you could ask
+399.1	like if you were using a route planner.
+402.088	"""If I am in Corfu in June 1323"
+405.159	and want to go to Constantinople,
+407.685	"where can I take a boat?"""
+409.828	Probably we can answer this question
+411.195	with one or two or three days' precision.
+415.668	"""How much will it cost?"""
+417.275	"""What are the chance of encountering pirates?"""
+420.867	Of course, you understand,
+422.678	the central scientific challenge
+422.678	of a project like this one
+425.287	is qualifying, quantifying and representing
+429.016	uncertainty and inconsistency
+429.016	at each step of this process.
+432.346	There are errors everywhere,
+435.058	errors in the document, it's
+435.058	the wrong name of the captain,
+437.547	some of the boats never actually took to sea.
+440.76	There are errors in translation, interpretative biases,
+445.624	and on top of that, if you add algorithmic processes,
+449.09	you're going to have errors in recognition,
+452.039	errors in extraction,
+454	so you have very, very uncertain data.
+458.481	So how can we detect and
+458.481	correct these inconsistencies?
+462.238	How can we represent that form of uncertainty?
+465.898	It's difficult. One thing you can do
+467.995	is document each step of the process,
+470.221	not only coding the historical information
+472.669	but what we call the meta-historical information,
+475.348	how is historical knowledge constructed,
+478.011	documenting each step.
+480.009	That will not guarantee that we actually converge
+481.654	toward a single story of Venice,
+484.104	but probably we can actually reconstruct
+486.242	a fully documented potential story of Venice.
+489.29	Maybe there's not a single map.
+490.749	Maybe there are several maps.
+492.869	The system should allow for that,
+495.085	because we have to deal with
+495.085	a new form of uncertainty,
+497.944	which is really new for this type of giant databases.
+502.585	And how should we communicate
+504.79	this new research to a large audience?
+508.769	Again, Venice is extraordinary for that.
+511.432	With the millions of visitors that come every year,
+513.603	it's actually one of the best places
+515.366	to try to invent the museum of the future.
+518.354	Imagine, horizontally you see the reconstructed map
+521.658	of a given year,
+522.944	and vertically, you see the document
+525.902	that served the reconstruction,
+527.413	paintings, for instance.
+530.813	Imagine an immersive system that permits
+533.393	to go and dive and reconstruct
+533.393	the Venice of a given year,
+536.895	some experience you could share within a group.
+539.61	On the contrary, imagine actually that you start
+541.856	from a document, a Venetian manuscript,
+544.063	and you show, actually, what
+544.063	you can construct out of it,
+547.112	how it is decoded,
+548.884	how the context of that document can be recreated.
+551.299	This is an image from an exhibit
+553.184	which is currently conducted in Geneva
+555.46	with that type of system.
+557.814	So to conclude, we can say that
+559.989	research in the humanities is about to undergo
+563.068	an evolution which is maybe similar
+564.87	to what happened to life sciences 30 years ago.
+569.452	It's really a question of scale.
+574.13	We see projects which are
+577.433	much beyond any single research team can do,
+581.276	and this is really new for the humanities,
+583.519	which very often take the habit of working
+587.388	in small groups or only with a couple of researchers.
+591.396	When you visit the Archivio di Stato,
+593.514	you feel this is beyond what any single team can do,
+596.336	and that should be a joint and common effort.
+600.17	So what we must do for this paradigm shift
+603.276	is actually foster a new generation
+605.178	"of ""digital humanists"""
+606.715	that are going to be ready for this shift.
+608.805	I thank you very much.
+610.764	(Applause)

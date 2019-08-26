@@ -1,0 +1,267 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.772	I'd like to tell you about two games of chess.
+18.328	The first happened in 1997, in which Garry Kasparov,
+22.192	a human, lost to Deep Blue, a machine.
+25.908	To many, this was the dawn of a new era,
+28.148	one where man would be dominated by machine.
+30.927	But here we are, 20 years on, and the greatest change
+34.261	in how we relate to computers is the iPad,
+36.951	not HAL.
+38.996	The second game was a freestyle chess tournament
+41.644	in 2005, in which man and machine could enter together
+44.613	as partners, rather than adversaries, if they so chose.
+49.279	At first, the results were predictable.
+51.13	Even a supercomputer was beaten by a grandmaster
+53.627	with a relatively weak laptop.
+55.939	The surprise came at the end. Who won?
+58.924	Not a grandmaster with a supercomputer,
+61.7	but actually two American amateurs
+63.193	using three relatively weak laptops.
+67.015	Their ability to coach and manipulate their computers
+69.611	to deeply explore specific positions
+72.046	effectively counteracted the superior chess knowledge
+74.436	of the grandmasters and the superior computational power
+77.045	of other adversaries.
+78.954	This is an astonishing result: average men,
+81.859	average machines beating the best man, the best machine.
+85.94	And anyways, isn't it supposed to be man versus machine?
+89.139	Instead, it's about cooperation, and the right type of cooperation.
+93.291	We've been paying a lot of attention to Marvin Minsky's
+96.148	vision for artificial intelligence over the last 50 years.
+99.39	It's a sexy vision, for sure. Many have embraced it.
+101.652	It's become the dominant school of thought in computer science.
+104.405	But as we enter the era of big data, of network systems,
+107.477	of open platforms, and embedded technology,
+110.175	I'd like to suggest it's time to reevaluate an alternative vision
+113.567	that was actually developed around the same time.
+116.637	I'm talking about J.C.R. Licklider's human-computer symbiosis,
+119.969	"perhaps better termed ""intelligence augmentation,"" I.A."
+123.777	Licklider was a computer science titan who had a profound
+126.417	effect on the development of technology and the Internet.
+129.423	His vision was to enable man and machine to cooperate
+132.291	in making decisions, controlling complex situations
+135.881	without the inflexible dependence
+137.651	on predetermined programs.
+140.184	"Note that word ""cooperate."""
+142.682	Licklider encourages us not to take a toaster
+145.429	"and make it Data from ""Star Trek,"""
+147.713	but to take a human and make her more capable.
+151.248	Humans are so amazing -- how we think,
+153.159	our non-linear approaches, our creativity,
+155.777	iterative hypotheses, all very difficult if possible at all
+157.908	for computers to do.
+159.253	Licklider intuitively realized this, contemplating humans
+161.705	setting the goals, formulating the hypotheses,
+164.032	determining the criteria, and performing the evaluation.
+167.408	Of course, in other ways, humans are so limited.
+169.183	We're terrible at scale, computation and volume.
+172.418	We require high-end talent management
+174.254	to keep the rock band together and playing.
+176.318	Licklider foresaw computers doing all the routinizable work
+178.522	that was required to prepare the way for insights and decision making.
+181.798	Silently, without much fanfare,
+184.022	this approach has been compiling victories beyond chess.
+187.376	Protein folding, a topic that shares the incredible expansiveness of chess —
+190.732	there are more ways of folding a protein than there are atoms in the universe.
+193.774	This is a world-changing problem with huge implications
+196.127	for our ability to understand and treat disease.
+198.435	And for this task, supercomputer field brute force simply isn't enough.
+202.683	Foldit, a game created by computer scientists,
+205.067	illustrates the value of the approach.
+207.569	Non-technical, non-biologist amateurs play a video game
+210.61	in which they visually rearrange the structure of the protein,
+213.683	allowing the computer to manage the atomic forces
+215.182	and interactions and identify structural issues.
+218.139	This approach beat supercomputers 50 percent of the time
+221.162	and tied 30 percent of the time.
+223.746	Foldit recently made a notable and major scientific discovery
+226.883	by deciphering the structure of the Mason-Pfizer monkey virus.
+230.043	A protease that had eluded determination for over 10 years
+233.058	was solved was by three players in a matter of days,
+235.684	perhaps the first major scientific advance
+237.709	to come from playing a video game.
+240.032	Last year, on the site of the Twin Towers,
+242.213	the 9/11 memorial opened.
+243.686	It displays the names of the thousands of victims
+246.407	"using a beautiful concept called ""meaningful adjacency."""
+249.47	It places the names next to each other based on their
+251.636	relationships to one another: friends, families, coworkers.
+253.849	When you put it all together, it's quite a computational
+256.877	challenge: 3,500 victims, 1,800 adjacency requests,
+261.1	the importance of the overall physical specifications
+264.192	and the final aesthetics.
+266.329	When first reported by the media, full credit for such a feat
+268.944	was given to an algorithm from the New York City
+270.836	design firm Local Projects. The truth is a bit more nuanced.
+274.837	While an algorithm was used to develop the underlying framework,
+277.708	humans used that framework to design the final result.
+280.716	So in this case, a computer had evaluated millions
+282.941	of possible layouts, managed a complex relational system,
+286.276	and kept track of a very large set of measurements
+288.69	and variables, allowing the humans to focus
+291.1	on design and compositional choices.
+293.902	So the more you look around you,
+294.938	the more you see Licklider's vision everywhere.
+296.9	Whether it's augmented reality in your iPhone or GPS in your car,
+300.204	human-computer symbiosis is making us more capable.
+303.174	So if you want to improve human-computer symbiosis,
+304.829	what can you do?
+306.258	You can start by designing the human into the process.
+308.71	Instead of thinking about what a computer will do to solve the problem,
+310.914	design the solution around what the human will do as well.
+314.783	When you do this, you'll quickly realize that you spent
+316.72	all of your time on the interface between man and machine,
+319.599	specifically on designing away the friction in the interaction.
+322.698	In fact, this friction is more important than the power
+325.464	of the man or the power of the machine
+327.516	in determining overall capability.
+329.447	That's why two amateurs with a few laptops
+331.424	handily beat a supercomputer and a grandmaster.
+333.88	What Kasparov calls process is a byproduct of friction.
+336.885	The better the process, the less the friction.
+339.286	And minimizing friction turns out to be the decisive variable.
+343.542	Or take another example: big data.
+345.785	Every interaction we have in the world is recorded
+347.691	by an ever growing array of sensors: your phone,
+350.75	your credit card, your computer. The result is big data,
+353.123	and it actually presents us with an opportunity
+354.865	to more deeply understand the human condition.
+357.527	The major emphasis of most approaches to big data
+359.832	"focus on, ""How do I store this data? How do I search"
+362.047	"this data? How do I process this data?"""
+364.323	These are necessary but insufficient questions.
+366.527	The imperative is not to figure out how to compute,
+368.998	but what to compute. How do you impose human intuition
+371.182	on data at this scale?
+372.973	Again, we start by designing the human into the process.
+376.472	When PayPal was first starting as a business, their biggest
+379.284	"challenge was not, ""How do I send money back and forth online?"""
+382.088	"It was, ""How do I do that without being defrauded by organized crime?"""
+385.96	Why so challenging? Because while computers can learn
+388.048	to detect and identify fraud based on patterns,
+391.192	they can't learn to do that based on patterns
+392.671	they've never seen before, and organized crime
+394.787	has a lot in common with this audience: brilliant people,
+397.496	relentlessly resourceful, entrepreneurial spirit — (Laughter) —
+401.136	and one huge and important difference: purpose.
+403.848	And so while computers alone can catch all but the cleverest
+406.68	fraudsters, catching the cleverest is the difference
+408.933	between success and failure.
+411.478	There's a whole class of problems like this, ones with
+413.699	adaptive adversaries. They rarely if ever present with a
+416.274	repeatable pattern that's discernable to computers.
+419.01	Instead, there's some inherent component of innovation or disruption,
+423.003	and increasingly these problems are buried in big data.
+425.738	For example, terrorism. Terrorists are always adapting
+428.238	in minor and major ways to new circumstances, and despite
+430.29	what you might see on TV, these adaptations,
+433.384	and the detection of them, are fundamentally human.
+435.677	Computers don't detect novel patterns and new behaviors,
+438.794	but humans do. Humans, using technology, testing hypotheses,
+442.029	searching for insight by asking machines to do things for them.
+446.649	Osama bin Laden was not caught by artificial intelligence.
+448.969	He was caught by dedicated, resourceful, brilliant people
+451.522	in partnerships with various technologies.
+455.791	As appealing as it might sound, you cannot algorithmically
+458.609	data mine your way to the answer.
+460.21	"There is no ""Find Terrorist"" button, and the more data"
+463.065	we integrate from a vast variety of sources
+465.367	across a wide variety of data formats from very
+467.5	disparate systems, the less effective data mining can be.
+470.809	Instead, people will have to look at data
+472.833	and search for insight, and as Licklider foresaw long ago,
+476.289	the key to great results here is the right type of cooperation,
+478.974	and as Kasparov realized,
+480.498	that means minimizing friction at the interface.
+483.529	Now this approach makes possible things like combing
+486.287	through all available data from very different sources,
+489.673	identifying key relationships and putting them in one place,
+492.465	something that's been nearly impossible to do before.
+495.393	To some, this has terrifying privacy and civil liberties
+497.335	implications. To others it foretells of an era of greater
+500.745	privacy and civil liberties protections,
+502.654	but privacy and civil liberties are of fundamental importance.
+505.59	That must be acknowledged, and they can't be swept aside,
+507.783	even with the best of intents.
+510.313	So let's explore, through a couple of examples, the impact
+512.831	that technologies built to drive human-computer symbiosis
+515.237	have had in recent time.
+518.156	In October, 2007, U.S. and coalition forces raided
+521.572	an al Qaeda safe house in the city of Sinjar
+523.988	on the Syrian border of Iraq.
+525.922	They found a treasure trove of documents:
+530.633	These foreign fighters had left their families in the Gulf,
+533.217	the Levant and North Africa to join al Qaeda in Iraq.
+536.363	These records were human resource forms.
+537.979	The foreign fighters filled them out as they joined the organization.
+540.834	It turns out that al Qaeda, too,
+542.045	is not without its bureaucracy. (Laughter)
+544.642	"They answered questions like, ""Who recruited you?"""
+546.74	"""What's your hometown?"" ""What occupation do you seek?"""
+549.594	In that last question, a surprising insight was revealed.
+552.763	The vast majority of foreign fighters
+555.163	were seeking to become suicide bombers for martyrdom --
+557.563	hugely important, since between 2003 and 2007, Iraq
+561.901	had 1,382 suicide bombings, a major source of instability.
+566.145	Analyzing this data was hard. The originals were sheets
+568.203	of paper in Arabic that had to be scanned and translated.
+570.945	The friction in the process did not allow for meaningful
+573.137	results in an operational time frame using humans, PDFs
+576.487	and tenacity alone.
+578.705	The researchers had to lever up their human minds
+580.658	with technology to dive deeper, to explore non-obvious
+583.003	hypotheses, and in fact, insights emerged.
+586.221	Twenty percent of the foreign fighters were from Libya,
+591.833	hugely important since prior statistics put that figure at
+594.283	three percent. It also helped to hone in on a figure
+596.666	of rising importance in al Qaeda, Abu Yahya al-Libi,
+599.643	a senior cleric in the Libyan Islamic fighting group.
+602.274	In March of 2007, he gave a speech, after which there was
+604.938	a surge in participation amongst Libyan foreign fighters.
+608.404	Perhaps most clever of all, though, and least obvious,
+611.51	by flipping the data on its head, the researchers were
+613.583	able to deeply explore the coordination networks in Syria
+616.483	that were ultimately responsible for receiving and
+619	transporting the foreign fighters to the border.
+621.464	These were networks of mercenaries, not ideologues,
+624.097	who were in the coordination business for profit.
+626.495	For example, they charged Saudi foreign fighters
+628.399	substantially more than Libyans, money that would have
+630.598	otherwise gone to al Qaeda.
+632.918	Perhaps the adversary would disrupt their own network
+634.963	if they knew they cheating would-be jihadists.
+637.998	In January, 2010, a devastating 7.0 earthquake struck Haiti,
+641.743	third deadliest earthquake of all time, left one million people,
+647.243	One seemingly small aspect of the overall relief effort
+650.38	became increasingly important as the delivery of food
+652.556	and water started rolling.
+654.716	January and February are the dry months in Haiti,
+656.174	yet many of the camps had developed standing water.
+659.116	The only institution with detailed knowledge of Haiti's
+661.238	floodplains had been leveled
+662.535	in the earthquake, leadership inside.
+665.543	So the question is, which camps are at risk,
+668.118	how many people are in these camps, what's the
+670.039	timeline for flooding, and given very limited resources
+672.35	and infrastructure, how do we prioritize the relocation?
+675.734	The data was incredibly disparate. The U.S. Army had
+678.078	detailed knowledge for only a small section of the country.
+681.007	There was data online from a 2006 environmental risk
+683.518	conference, other geospatial data, none of it integrated.
+686.182	The human goal here was to identify camps for relocation
+689.14	based on priority need.
+691.535	The computer had to integrate a vast amount of geospacial
+693.975	information, social media data and relief organization
+696.559	information to answer this question.
+700.039	By implementing a superior process, what was otherwise
+702.454	a task for 40 people over three months became
+705.062	a simple job for three people in 40 hours,
+708.238	all victories for human-computer symbiosis.
+710.866	We're more than 50 years into Licklider's vision
+712.92	for the future, and the data suggests that we should be
+715.162	quite excited about tackling this century's hardest problems,
+718.192	man and machine in cooperation together.
+721.139	Thank you. (Applause)
+723.336	(Applause)

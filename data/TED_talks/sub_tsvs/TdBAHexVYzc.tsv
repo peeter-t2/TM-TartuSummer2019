@@ -1,0 +1,460 @@
+startsecond	text
+13.303	A few years ago,
+14.487	with my colleague, Emmanuelle Charpentier,
+17.281	I invented a new technology
+17.281	for editing genomes.
+21.093	It's called CRISPR-Cas9.
+23.87	The CRISPR technology allows
+23.87	scientists to make changes
+27.47	to the DNA in cells
+29.349	that could allow us
+29.349	to cure genetic disease.
+33.196	You might be interested to know
+34.712	that the CRISPR technology came about
+34.712	through a basic research project
+38.52	that was aimed at discovering
+38.52	how bacteria fight viral infections.
+43.34	Bacteria have to deal with viruses
+43.34	in their environment,
+46.236	and we can think about a viral infection
+46.236	like a ticking time bomb --
+49.924	a bacterium has only a few minutes
+49.924	to defuse the bomb
+53.306	before it gets destroyed.
+55.284	So, many bacteria have in their cells
+55.284	an adaptive immune system called CRISPR,
+60.698	that allows them to detect
+60.698	viral DNA and destroy it.
+65.148	Part of the CRISPR system
+65.148	is a protein called Cas9,
+69.14	that's able to seek out, cut
+69.14	and eventually degrade viral DNA
+75.113	in a specific way.
+77.054	And it was through our research
+78.58	to understand the activity
+78.58	of this protein, Cas9,
+82.261	that we realized that we could
+82.261	harness its function
+85.116	as a genetic engineering technology --
+88.546	a way for scientists to delete or insert
+88.546	specific bits of DNA into cells
+95.521	with incredible precision --
+97.576	that would offer opportunities
+99.267	to do things that really haven't
+99.267	been possible in the past.
+103.184	The CRISPR technology
+103.184	has already been used
+105.27	to change the DNA in the cells
+105.27	of mice and monkeys,
+110.378	other organisms as well.
+112.527	Chinese scientists showed recently
+114.306	that they could even use
+114.306	the CRISPR technology
+116.489	to change genes in human embryos.
+119.142	And scientists in Philadelphia showed
+119.142	they could use CRISPR
+122.309	to remove the DNA
+122.309	of an integrated HIV virus
+127.176	from infected human cells.
+130.217	The opportunity to do this kind
+130.217	of genome editing
+133.372	also raises various ethical issues
+133.372	that we have to consider,
+136.679	because this technology can be employed
+136.679	not only in adult cells,
+140.671	but also in the embryos of organisms,
+143.298	including our own species.
+146.767	And so, together with my colleagues,
+148.789	I've called for a global conversation
+148.789	about the technology that I co-invented,
+153.301	so that we can consider all of the ethical
+153.301	and societal implications
+157.865	of a technology like this.
+160.056	What I want to do now is tell you
+160.056	what the CRISPR technology is,
+165.019	what it can do,
+166.497	where we are today
+167.766	and why I think we need to take
+167.766	a prudent path forward
+170.812	in the way that we employ this technology.
+175.085	When viruses infect a cell,
+175.085	they inject their DNA.
+179.363	And in a bacterium,
+180.863	the CRISPR system allows that DNA
+180.863	to be plucked out of the virus,
+185.752	and inserted in little bits
+185.752	into the chromosome --
+189.621	the DNA of the bacterium.
+191.937	And these integrated bits of viral DNA
+191.937	get inserted at a site called CRISPR.
+198.032	CRISPR stands for clustered regularly
+198.032	interspaced short palindromic repeats.
+204.051	(Laughter)
+205.076	A big mouthful -- you can see why
+205.076	we use the acronym CRISPR.
+208.89	It's a mechanism that allows cells
+208.89	to record, over time,
+212.902	the viruses they have been exposed to.
+215.608	And importantly, those bits of DNA
+215.608	are passed on to the cells' progeny,
+220.315	so cells are protected from viruses
+220.315	not only in one generation,
+224.872	but over many generations of cells.
+227.245	This allows the cells
+227.245	to keep a record of infection,
+231.554	and as my colleague,
+231.554	Blake Wiedenheft, likes to say,
+234.517	the CRISPR locus is effectively
+234.517	a genetic vaccination card in cells.
+240.572	Once those bits of DNA have been inserted
+240.572	into the bacterial chromosome,
+245.094	the cell then makes a little copy
+245.094	of a molecule called RNA,
+249.317	which is orange in this picture,
+251.356	that is an exact replicate
+251.356	of the viral DNA.
+256.502	RNA is a chemical cousin of DNA,
+258.862	and it allows interaction
+258.862	with DNA molecules
+262.839	that have a matching sequence.
+265.258	So those little bits of RNA
+265.258	from the CRISPR locus
+269.191	associate -- they bind --
+269.191	to protein called Cas9,
+273.004	which is white in the picture,
+274.963	and form a complex that functions
+274.963	like a sentinel in the cell.
+279.206	It searches through all
+279.206	of the DNA in the cell,
+282.644	to find sites that match
+282.644	the sequences in the bound RNAs.
+286.92	And when those sites are found --
+288.579	as you can see here,
+288.579	the blue molecule is DNA --
+292.073	this complex associates with that DNA
+294.946	and allows the Cas9 cleaver
+294.946	to cut up the viral DNA.
+300.272	It makes a very precise break.
+304.096	So we can think of the Cas9 RNA
+304.096	sentinel complex
+308.52	like a pair of scissors
+308.52	that can cut DNA --
+311.725	it makes a double-stranded break
+311.725	in the DNA helix.
+314.985	And importantly,
+314.985	this complex is programmable,
+318.991	so it can be programmed to recognize
+318.991	particular DNA sequences,
+324.215	and make a break in the DNA at that site.
+327.928	As I'm going to tell you now,
+329.532	we recognized that that activity
+329.532	could be harnessed for genome engineering,
+334.332	to allow cells to make
+334.332	a very precise change to the DNA
+338.583	at the site where
+338.583	this break was introduced.
+341.558	That's sort of analogous
+342.797	to the way that we use
+342.797	a word-processing program
+345.529	to fix a typo in a document.
+349.541	The reason we envisioned using
+349.541	the CRISPR system for genome engineering
+354.383	is because cells have the ability
+354.383	to detect broken DNA
+358.026	and repair it.
+359.78	So when a plant or an animal cell detects
+359.78	a double-stranded break in its DNA,
+364.735	it can fix that break,
+366.356	either by pasting together
+366.356	the ends of the broken DNA
+369.907	with a little, tiny change
+369.907	in the sequence of that position,
+374.041	or it can repair the break by integrating
+374.041	a new piece of DNA at the site of the cut.
+381.054	So if we have a way to introduce
+381.054	double-stranded breaks into DNA
+386.051	at precise places,
+387.655	we can trigger cells
+387.655	to repair those breaks,
+390.488	by either the disruption or incorporation
+390.488	of new genetic information.
+395.936	So if we were able to program
+395.936	the CRISPR technology
+399.202	to make a break in DNA
+401.549	at the position at or near a mutation
+401.549	causing cystic fibrosis, for example,
+407.842	we could trigger cells
+407.842	to repair that mutation.
+412.464	Genome engineering is actually not new,
+412.464	it's been in development since the 1970s.
+417.591	We've had technologies for sequencing DNA,
+420.366	for copying DNA,
+421.985	and even for manipulating DNA.
+424.969	And these technologies
+424.969	were very promising,
+428.129	but the problem was
+428.129	that they were either inefficient,
+432.559	or they were difficult enough to use
+434.916	that most scientists had not adopted them
+434.916	for use in their own laboratories,
+439.742	or certainly for many
+439.742	clinical applications.
+444.722	So, the opportunity to take a technology
+444.722	like CRISPR and utilize it has appeal,
+452.101	because of its relative simplicity.
+455.126	We can think of older
+455.126	genome engineering technologies
+458.919	as similar to having
+458.919	to rewire your computer
+462.602	each time you want to run
+462.602	a new piece of software,
+466.396	whereas the CRISPR technology
+466.396	is like software for the genome,
+470.184	we can program it easily,
+470.184	using these little bits of RNA.
+474.658	So once a double-stranded
+474.658	break is made in DNA,
+477.775	we can induce repair,
+479.886	and thereby potentially achieve
+479.886	astounding things,
+483.356	like being able to correct mutations
+483.356	that cause sickle cell anemia
+487.539	or cause Huntington's Disease.
+489.914	I actually think that the first
+489.914	applications of the CRISPR technology
+493.399	are going to happen in the blood,
+495.692	where it's relatively easier
+495.692	to deliver this tool into cells,
+500.469	compared to solid tissues.
+503.905	Right now, a lot of the work
+503.905	that's going on
+506.333	applies to animal models
+506.333	of human disease, such as mice.
+510.326	The technology is being used to make
+510.326	very precise changes
+513.619	that allow us to study the way
+513.619	that these changes in the cell's DNA
+518.814	affect either a tissue or,
+518.814	in this case, an entire organism.
+523.515	Now in this example,
+524.746	the CRISPR technology
+524.746	was used to disrupt a gene
+528.563	by making a tiny change in the DNA
+531.354	in a gene that is responsible
+531.354	for the black coat color of these mice.
+536.219	Imagine that these white mice
+536.219	differ from their pigmented litter-mates
+541.261	by just a tiny change at one gene
+541.261	in the entire genome,
+545.952	and they're otherwise completely normal.
+547.966	And when we sequence the DNA
+547.966	from these animals,
+550.881	we find that the change in the DNA
+553.531	has occurred at exactly the place
+553.531	where we induced it,
+556.697	using the CRISPR technology.
+559.662	Additional experiments
+559.662	are going on in other animals
+562.41	that are useful for creating models
+562.41	for human disease,
+566.529	such as monkeys.
+568.156	And here we find
+568.156	that we can use these systems
+571.406	to test the application of this technology
+571.406	in particular tissues,
+575.232	for example, figuring out how to deliver
+575.232	the CRISPR tool into cells.
+580.329	We also want to understand better
+582.501	how to control the way
+582.501	that DNA is repaired after it's cut,
+586.152	and also to figure out how to control
+586.152	and limit any kind of off-target,
+591.857	or unintended effects
+591.857	of using the technology.
+596.356	I think that we will see
+596.356	clinical application of this technology,
+602.53	certainly in adults,
+604.066	within the next 10 years.
+605.693	I think that it's likely
+605.693	that we will see clinical trials
+608.851	and possibly even approved
+608.851	therapies within that time,
+612.304	which is a very exciting thing
+612.304	to think about.
+615.041	And because of the excitement
+615.041	around this technology,
+617.566	there's a lot of interest
+617.566	in start-up companies
+620.883	that have been founded
+620.883	to commercialize the CRISPR technology,
+625.669	and lots of venture capitalists
+627.182	that have been investing
+627.182	in these companies.
+631.242	But we have to also consider
+632.839	that the CRISPR technology can be used
+632.839	for things like enhancement.
+636.485	Imagine that we could try
+636.485	to engineer humans
+639.553	that have enhanced properties,
+639.553	such as stronger bones,
+644.012	or less susceptibility
+644.012	to cardiovascular disease
+648.107	or even to have properties
+649.642	that we would consider maybe
+649.642	to be desirable,
+652.065	like a different eye color
+652.065	or to be taller, things like that.
+657.942	"""Designer humans,"" if you will."
+660.78	Right now, the genetic information
+663.194	to understand what types of genes
+663.194	would give rise to these traits
+667.711	is mostly not known.
+669.468	But it's important to know
+670.738	that the CRISPR technology gives us a tool
+670.738	to make such changes,
+675.047	once that knowledge becomes available.
+678.651	This raises a number of ethical questions
+678.651	that we have to carefully consider,
+682.786	and this is why I and my colleagues
+682.786	have called for a global pause
+687.025	in any clinical application
+687.025	of the CRISPR technology in human embryos,
+691.795	to give us time
+692.97	to really consider all of the various
+692.97	implications of doing so.
+697.743	And actually, there is an important
+697.743	precedent for such a pause
+701.61	from the 1970s,
+702.953	when scientists got together
+704.841	to call for a moratorium
+704.841	on the use of molecular cloning,
+708.695	until the safety of that technology
+708.695	could be tested carefully and validated.
+715.506	So, genome-engineered humans
+715.506	are not with us yet,
+720.67	but this is no longer science fiction.
+724.179	Genome-engineered animals and plants
+724.179	are happening right now.
+729.069	And this puts in front of all of us
+729.069	a huge responsibility,
+733.146	to consider carefully
+733.146	both the unintended consequences
+737.747	as well as the intended impacts
+737.747	of a scientific breakthrough.
+742.19	Thank you.
+743.366	(Applause)
+751.572	(Applause ends)
+753.535	Bruno Giussani: Jennifer, this is
+753.535	a technology with huge consequences,
+757.453	as you pointed out.
+758.628	Your attitude about asking for a pause
+758.628	or a moratorium or a quarantine
+763.824	is incredibly responsible.
+766.733	There are, of course,
+766.733	the therapeutic results of this,
+769.305	but then there are the un-therapeutic ones
+771.479	and they seem to be the ones
+771.479	gaining traction,
+773.683	particularly in the media.
+774.953	This is one of the latest issues
+774.953	"of The Economist -- ""Editing humanity."""
+779.143	It's all about genetic enhancement,
+779.143	it's not about therapeutics.
+783.541	What kind of reactions
+783.541	did you get back in March
+785.847	from your colleagues in the science world,
+787.888	when you asked or suggested
+789.27	that we should actually pause this
+789.27	for a moment and think about it?
+793.054	Jennifer Doudna: My colleagues
+793.054	were actually, I think, delighted
+796.079	to have the opportunity
+796.079	to discuss this openly.
+798.348	It's interesting that as I talk to people,
+800.718	my scientific colleagues
+800.718	as well as others,
+803.21	there's a wide variety
+803.21	of viewpoints about this.
+805.544	So clearly it's a topic that needs
+805.544	careful consideration and discussion.
+809.242	BG: There's a big meeting
+809.242	happening in December
+811.481	that you and your colleagues are calling,
+813.481	together with the National Academy
+813.481	of Sciences and others,
+816.272	what do you hope will come
+816.272	out of the meeting, practically?
+819.588	JD: Well, I hope that we can air the views
+821.978	of many different individuals
+821.978	and stakeholders
+825.602	who want to think about how to use
+825.602	this technology responsibly.
+829.918	It may not be possible to come up with
+829.918	a consensus point of view,
+833.044	but I think we should at least understand
+835.061	what all the issues are as we go forward.
+837.057	BG: Now, colleagues of yours,
+838.487	like George Church,
+838.487	for example, at Harvard,
+840.59	"they say, ""Yeah, ethical issues basically"
+840.59	are just a question of safety.
+844.05	We test and test and test again,
+844.05	in animals and in labs,
+846.728	and then once we feel it's safe enough,
+846.728	"we move on to humans."""
+850.668	So that's kind of the other
+850.668	school of thought,
+853.273	that we should actually use
+853.273	this opportunity and really go for it.
+856.445	Is there a possible split happening
+856.445	in the science community about this?
+860.247	I mean, are we going to see
+860.247	some people holding back
+862.731	because they have ethical concerns,
+864.549	and some others just going forward
+866.26	because some countries under-regulate
+866.26	or don't regulate at all?
+869.58	JD: Well, I think with any new technology,
+869.58	especially something like this,
+873.449	there are going to be
+873.449	a variety of viewpoints,
+876.258	and I think that's
+876.258	perfectly understandable.
+879.623	I think that in the end,
+881.159	this technology will be used
+881.159	for human genome engineering,
+886.134	but I think to do that without careful
+886.134	consideration and discussion
+890.475	of the risks and potential complications
+893.436	would not be responsible.
+894.999	BG: There are a lot of technologies
+894.999	and other fields of science
+898.002	that are developing exponentially,
+898.002	pretty much like yours.
+900.797	I'm thinking about artificial
+900.797	intelligence, autonomous robots and so on.
+905.199	No one seems --
+906.39	aside from autonomous warfare robots --
+908.922	nobody seems to have launched
+908.922	a similar discussion in those fields,
+913.651	in calling for a moratorium.
+915.085	Do you think that your discussion may
+915.085	serve as a blueprint for other fields?
+919.18	JD: Well, I think it's hard for scientists
+919.18	to get out of the laboratory.
+922.723	Speaking for myself,
+923.9	it's a little bit
+923.9	uncomfortable to do that.
+926.54	But I do think that being involved
+926.54	in the genesis of this
+930.478	really puts me and my colleagues
+930.478	in a position of responsibility.
+934.358	And I would say that I certainly hope
+934.358	that other technologies
+937.812	will be considered in the same way,
+940.482	just as we would want to consider
+940.482	something that could have implications
+943.904	in other fields besides biology.
+945.855	BG: Jennifer, thanks for coming to TED.
+947.831	JD: Thank you.
+949.116	(Applause)

@@ -1,0 +1,505 @@
+startsecond	text
+12.76	This is Pleurobot.
+15.4	Pleurobot is a robot that we designed
+15.4	to closely mimic a salamander species
+19.04	called Pleurodeles waltl.
+21.24	Pleurobot can walk, as you can see here,
+23.52	and as you'll see later, it can also swim.
+26.28	So you might ask,
+26.28	why did we design this robot?
+28.96	And in fact, this robot has been designed
+28.96	as a scientific tool for neuroscience.
+33.4	Indeed, we designed it
+33.4	together with neurobiologists
+35.92	to understand how animals move,
+37.84	and especially how the spinal cord
+37.84	controls locomotion.
+41.56	But the more I work in biorobotics,
+43.28	the more I'm really impressed
+43.28	by animal locomotion.
+45.92	If you think of a dolphin swimming
+45.92	or a cat running or jumping around,
+50.24	or even us as humans,
+51.84	when you go jogging or play tennis,
+53.68	we do amazing things.
+55.88	And in fact, our nervous system solves
+55.88	a very, very complex control problem.
+60.04	It has to coordinate
+60.04	more or less 200 muscles perfectly,
+63.16	because if the coordination is bad,
+63.16	we fall over or we do bad locomotion.
+67.56	And my goal is to understand
+67.56	how this works.
+71.16	There are four main components
+71.16	behind animal locomotion.
+74.8	The first component is just the body,
+76.76	and in fact we should never underestimate
+78.76	to what extent the biomechanics
+78.76	already simplify locomotion in animals.
+82.92	Then you have the spinal cord,
+84.4	and in the spinal cord you find reflexes,
+86.4	multiple reflexes that create
+86.4	a sensorimotor coordination loop
+89.88	between neural activity in the spinal cord
+89.88	and mechanical activity.
+94	A third component
+94	are central pattern generators.
+97	These are very interesting circuits
+97	in the spinal cord of vertebrate animals
+100.92	that can generate, by themselves,
+102.56	very coordinated
+102.56	rhythmic patterns of activity
+105.32	while receiving
+105.32	only very simple input signals.
+107.72	And these input signals
+108.96	coming from descending modulation
+108.96	from higher parts of the brain,
+112.04	like the motor cortex,
+112.04	the cerebellum, the basal ganglia,
+114.76	will all modulate activity
+114.76	of the spinal cord
+116.92	while we do locomotion.
+118.4	But what's interesting is to what extent
+118.4	just a low-level component,
+121.64	the spinal cord, together with the body,
+123.6	already solve a big part
+123.6	of the locomotion problem.
+126.08	You probably know it by the fact
+126.08	that you can cut the head off a chicken,
+129.532	it can still run for a while,
+130.937	showing that just the lower part,
+130.937	spinal cord and body,
+133.5	already solve a big part of locomotion.
+135.397	Now, understanding how this works
+135.397	is very complex,
+137.88	because first of all,
+139.2	recording activity in the spinal cord
+139.2	is very difficult.
+141.844	It's much easier to implant electrodes
+141.844	in the motor cortex
+144.64	than in the spinal cord,
+144.64	because it's protected by the vertebrae.
+147.72	Especially in humans, very hard to do.
+149.56	A second difficulty is that locomotion
+149.56	is really due to a very complex
+153.36	and very dynamic interaction
+153.36	between these four components.
+156.44	So it's very hard to find out
+156.44	what's the role of each over time.
+160.88	This is where biorobots like Pleurobot
+160.88	and mathematical models
+164.64	can really help.
+167.48	So what's biorobotics?
+168.76	Biorobotics is a very active field
+168.76	of research in robotics
+171.52	where people want to
+171.52	take inspiration from animals
+174	to make robots to go outdoors,
+176.48	like service robots
+176.48	or search and rescue robots
+179.16	or field robots.
+180.88	And the big goal here
+180.88	is to take inspiration from animals
+183.6	to make robots that can handle
+183.6	complex terrain --
+185.96	stairs, mountains, forests,
+187.6	places where robots
+187.6	still have difficulties
+189.64	and where animals
+189.64	can do a much better job.
+191.72	The robot can be a wonderful
+191.72	scientific tool as well.
+194.24	There are some very nice projects
+194.24	where robots are used,
+196.884	like a scientific tool for neuroscience,
+196.884	for biomechanics or for hydrodynamics.
+200.88	And this is exactly
+200.88	the purpose of Pleurobot.
+203.6	So what we do in my lab
+203.6	is to collaborate with neurobiologists
+206.56	like Jean-Marie Cabelguen,
+206.56	a neurobiologist in Bordeaux in France,
+209.8	and we want to make spinal cord models
+209.8	and validate them on robots.
+214.48	And here we want to start simple.
+216.12	So it's good to start with simple animals
+218.12	like lampreys, which are
+218.12	very primitive fish,
+220.4	and then gradually
+220.4	go toward more complex locomotion,
+222.92	like in salamanders,
+224.2	but also in cats and in humans,
+225.72	in mammals.
+227.88	And here, a robot becomes
+227.88	an interesting tool
+230.28	to validate our models.
+232.24	And in fact, for me, Pleurobot
+232.24	is a kind of dream becoming true.
+235.28	Like, more or less 20 years ago
+235.28	I was already working on a computer
+238.56	making simulations of lamprey
+238.56	and salamander locomotion
+241.24	during my PhD.
+242.8	But I always knew that my simulations
+242.8	were just approximations.
+246.2	Like, simulating the physics in water
+246.2	or with mud or with complex ground,
+250.2	it's very hard to simulate that
+250.2	properly on a computer.
+252.88	Why not have a real robot
+252.88	and real physics?
+255.6	So among all these animals,
+255.6	one of my favorites is the salamander.
+258.76	You might ask why,
+258.76	and it's because as an amphibian,
+262.24	it's a really key animal
+262.24	from an evolutionary point of view.
+265.12	It makes a wonderful link
+265.12	between swimming,
+267.2	as you find it in eels or fish,
+269.12	and quadruped locomotion,
+269.12	as you see in mammals, in cats and humans.
+274.16	And in fact, the modern salamander
+275.84	is very close to the first
+275.84	terrestrial vertebrate,
+278.24	so it's almost a living fossil,
+279.8	which gives us access to our ancestor,
+281.76	the ancestor to all terrestrial tetrapods.
+285.24	So the salamander swims
+286.64	by doing what's called
+286.64	an anguilliform swimming gait,
+289.16	so they propagate a nice traveling wave
+289.16	of muscle activity from head to tail.
+293.44	And if you place
+293.44	the salamander on the ground,
+295.64	it switches to what's called
+295.64	a walking trot gait.
+298	In this case, you have nice
+298	periodic activation of the limbs
+300.887	which are very nicely coordinated
+302.52	with this standing wave
+302.52	undulation of the body,
+305.2	and that's exactly the gait
+305.2	that you are seeing here on Pleurobot.
+308.88	Now, one thing which is very surprising
+308.88	and fascinating in fact
+311.88	is the fact that all this can be generated
+311.88	just by the spinal cord and the body.
+316.04	So if you take
+316.04	a decerebrated salamander --
+318.064	it's not so nice
+318.064	but you remove the head --
+320.104	and if you electrically
+320.104	stimulate the spinal cord,
+322.8	at low level of stimulation
+322.8	this will induce a walking-like gait.
+326.08	If you stimulate a bit more,
+326.08	the gait accelerates.
+328.56	And at some point, there's a threshold,
+330.48	and automatically,
+330.48	the animal switches to swimming.
+333.04	This is amazing.
+334.44	Just changing the global drive,
+335.96	as if you are pressing the gas pedal
+337.72	of descending modulation
+337.72	to your spinal cord,
+339.88	makes a complete switch
+339.88	between two very different gaits.
+344.44	And in fact, the same
+344.44	has been observed in cats.
+347.04	If you stimulate the spinal cord of a cat,
+349.08	you can switch between
+349.08	walk, trot and gallop.
+351.32	Or in birds, you can make a bird
+351.32	switch between walking,
+354.08	at a low level of stimulation,
+355.56	and flapping its wings
+355.56	at high-level stimulation.
+358.4	And this really shows that the spinal cord
+360.44	is a very sophisticated
+360.44	locomotion controller.
+362.88	So we studied salamander locomotion
+362.88	in more detail,
+365.36	and we had in fact access
+365.36	to a very nice X-ray video machine
+368.48	from Professor Martin Fischer
+368.48	in Jena University in Germany.
+372.08	And thanks to that,
+372.08	you really have an amazing machine
+374.68	to record all the bone motion
+374.68	in great detail.
+377.16	That's what we did.
+378.44	So we basically figured out
+378.44	which bones are important for us
+381.64	and collected their motion in 3D.
+384.68	And what we did is collect
+384.68	a whole database of motions,
+387.4	both on ground and in water,
+389.08	to really collect a whole database
+389.08	of motor behaviors
+391.589	that a real animal can do.
+392.858	And then our job as roboticists
+392.858	was to replicate that in our robot.
+396.033	So we did a whole optimization process
+396.033	to find out the right structure,
+399.44	where to place the motors,
+399.44	how to connect them together,
+402.12	to be able to replay
+402.12	these motions as well as possible.
+405.68	And this is how Pleurobot came to life.
+409.2	So let's look at how close
+409.2	it is to the real animal.
+412.96	So what you see here
+412.96	is almost a direct comparison
+415.48	between the walking
+415.48	of the real animal and the Pleurobot.
+418.2	You can see that we have
+418.2	almost a one-to-one exact replay
+420.96	of the walking gait.
+422.24	If you go backwards and slowly,
+422.24	you see it even better.
+427.52	But even better, we can do swimming.
+429.92	So for that we have a dry suit
+429.92	that we put all over the robot --
+432.96	(Laughter)
+434.08	and then we can go in water
+434.08	and start replaying the swimming gaits.
+437.28	And here, we were very happy,
+437.28	because this is difficult to do.
+440.64	The physics of interaction are complex.
+442.88	Our robot is much bigger
+442.88	than a small animal,
+445.32	so we had to do what's called
+445.32	dynamic scaling of the frequencies
+448.4	to make sure we had
+448.4	the same interaction physics.
+450.76	But you see at the end,
+450.76	we have a very close match,
+453.2	and we were very, very happy with this.
+455.48	So let's go to the spinal cord.
+457.72	So here what we did
+457.72	with Jean-Marie Cabelguen
+460.04	is model the spinal cord circuits.
+463.04	And what's interesting
+463.04	is that the salamander
+465.2	has kept a very primitive circuit,
+466.844	which is very similar
+466.844	to the one we find in the lamprey,
+469.52	this primitive eel-like fish,
+471.52	and it looks like during evolution,
+473.28	new neural oscillators
+473.28	have been added to control the limbs,
+476.24	to do the leg locomotion.
+477.68	And we know where
+477.68	these neural oscillators are
+479.88	but what we did was to make
+479.88	a mathematical model
+482.16	to see how they should be coupled
+483.8	to allow this transition
+483.8	between the two very different gaits.
+486.76	And we tested that on board of a robot.
+489.68	And this is how it looks.
+498.92	So what you see here
+498.92	is a previous version of Pleurobot
+501.96	that's completely controlled
+501.96	by our spinal cord model
+505.08	programmed on board of the robot.
+507.28	And the only thing we do
+508.52	is send to the robot
+508.52	through a remote control
+510.72	the two descending signals
+510.72	it normally should receive
+513.24	from the upper part of the brain.
+515.48	And what's interesting is,
+515.48	by playing with these signals,
+518.2	we can completely control
+518.2	speed, heading and type of gait.
+521.6	For instance,
+522.84	when we stimulate at a low level,
+522.84	we have the walking gait,
+526.44	and at some point, if we stimulate a lot,
+528.44	very rapidly it switches
+528.44	to the swimming gait.
+531.48	And finally, we can also
+531.48	do turning very nicely
+533.72	by just stimulating more one side
+533.72	of the spinal cord than the other.
+538.2	And I think it's really beautiful
+539.84	how nature has distributed control
+542.12	to really give a lot of responsibility
+542.12	to the spinal cord
+545	so that the upper part of the brain
+545	doesn't need to worry about every muscle.
+548.68	It just has to worry
+548.68	about this high-level modulation,
+551.24	and it's really the job of the spinal cord
+551.24	to coordinate all the muscles.
+554.84	So now let's go to cat locomotion
+554.84	and the importance of biomechanics.
+559.08	So this is another project
+560.36	where we studied cat biomechanics,
+562.8	and we wanted to see how much
+562.8	the morphology helps locomotion.
+566.72	And we found three important
+566.72	criteria in the properties,
+570.36	basically, of the limbs.
+572.32	The first one is that a cat limb
+574.32	more or less looks
+574.32	like a pantograph-like structure.
+577.04	So a pantograph is a mechanical structure
+579.28	which keeps the upper segment
+579.28	and the lower segments always parallel.
+583.6	So a simple geometrical system
+583.6	that kind of coordinates a bit
+586.72	the internal movement of the segments.
+588.56	A second property of cat limbs
+588.56	is that they are very lightweight.
+591.64	Most of the muscles are in the trunk,
+593.52	which is a good idea,
+593.52	because then the limbs have low inertia
+596.44	and can be moved very rapidly.
+598.24	The last final important property is this
+598.24	very elastic behavior of the cat limb,
+602.08	so to handle impacts and forces.
+604.76	And this is how we designed Cheetah-Cub.
+607.12	So let's invite Cheetah-Cub onstage.
+614.16	So this is Peter Eckert,
+614.16	who does his PhD on this robot,
+617.84	and as you see, it's a cute little robot.
+619.92	It looks a bit like a toy,
+621.2	but it was really used
+621.2	as a scientific tool
+623.28	to investigate these properties
+623.28	of the legs of the cat.
+626.6	So you see, it's very compliant,
+626.6	very lightweight,
+629.24	and also very elastic,
+630.52	so you can easily press it down
+630.52	and it will not break.
+633.32	It will just jump, in fact.
+634.8	And this very elastic property
+634.8	is also very important.
+639.16	And you also see a bit these properties
+641.08	of these three segments
+641.08	of the leg as pantograph.
+644.28	Now, what's interesting
+644.28	is that this quite dynamic gait
+647.08	is obtained purely in open loop,
+649	meaning no sensors,
+649	no complex feedback loops.
+652.16	And that's interesting, because it means
+654.6	that just the mechanics
+654.6	already stabilized this quite rapid gait,
+658.64	and that really good mechanics
+658.64	already basically simplify locomotion.
+662.84	To the extent that we can even
+662.84	disturb a bit locomotion,
+666.16	as you will see in the next video,
+667.84	where we can for instance do some exercise
+667.84	where we have the robot go down a step,
+671.76	and the robot will not fall over,
+673.4	which was a surprise for us.
+675	This is a small perturbation.
+676.44	I was expecting the robot
+676.44	to immediately fall over,
+678.88	because there are no sensors,
+678.88	no fast feedback loop.
+681.34	But no, just the mechanics
+681.34	stabilized the gait,
+683.56	and the robot doesn't fall over.
+685.16	Obviously, if you make the step bigger,
+685.16	and if you have obstacles,
+688.32	you need the full control loops
+688.32	and reflexes and everything.
+692	But what's important here
+692	is that just for small perturbation,
+694.96	the mechanics are right.
+696.48	And I think this is
+696.48	a very important message
+698.6	from biomechanics and robotics
+698.6	to neuroscience,
+700.815	saying don't underestimate to what extent
+700.815	the body already helps locomotion.
+707.44	Now, how does this relate
+707.44	to human locomotion?
+709.96	Clearly, human locomotion is more complex
+709.96	than cat and salamander locomotion,
+714.36	but at the same time, the nervous system
+714.36	of humans is very similar
+717.52	to that of other vertebrates.
+719.12	And especially the spinal cord
+720.6	is also the key controller
+720.6	for locomotion in humans.
+723.76	That's why, if there's a lesion
+723.76	of the spinal cord,
+726.2	this has dramatic effects.
+727.72	The person can become
+727.72	paraplegic or tetraplegic.
+730.52	This is because the brain
+730.52	loses this communication
+732.92	with the spinal cord.
+734.2	Especially, it loses
+734.2	this descending modulation
+736.44	to initiate and modulate locomotion.
+739.64	So a big goal of neuroprosthetics
+741.36	is to be able to reactivate
+741.36	that communication
+743.76	using electrical or chemical stimulations.
+746.84	And there are several teams
+746.84	in the world that do exactly that,
+749.8	especially at EPFL.
+751.04	My colleagues Grégoire Courtine
+751.04	and Silvestro Micera,
+753.56	with whom I collaborate.
+755.96	But to do this properly,
+755.96	it's very important to understand
+759.08	how the spinal cord works,
+760.84	how it interacts with the body,
+762.56	and how the brain
+762.56	communicates with the spinal cord.
+765.8	This is where the robots
+765.8	and models that I've presented today
+768.72	will hopefully play a key role
+770.64	towards these very important goals.
+773.32	Thank you.
+774.56	(Applause)
+784.1	Bruno Giussani: Auke, I've seen
+784.1	in your lab other robots
+786.76	that do things like swim in pollution
+789.24	and measure the pollution while they swim.
+791.72	But for this one,
+792.96	you mentioned in your talk,
+792.96	like a side project,
+797.64	search and rescue,
+798.88	and it does have a camera on its nose.
+801.08	Auke Ijspeert: Absolutely. So the robot --
+803.6	We have some spin-off projects
+805.053	where we would like to use the robots
+805.053	to do search and rescue inspection,
+808.52	so this robot is now seeing you.
+810.12	And the big dream is to,
+810.12	if you have a difficult situation
+813.32	like a collapsed building
+813.32	or a building that is flooded,
+816.96	and this is very dangerous
+816.96	for a rescue team or even rescue dogs,
+820.32	why not send in a robot
+820.32	that can crawl around, swim, walk,
+823.24	with a camera onboard
+823.24	to do inspection and identify survivors
+826.44	and possibly create
+826.44	a communication link with the survivor.
+829.24	BG: Of course, assuming the survivors
+829.24	don't get scared by the shape of this.
+832.84	AI: Yeah, we should probably
+832.84	change the appearance quite a bit,
+836.16	because here I guess a survivor
+836.16	might die of a heart attack
+839	just of being worried
+839	that this would feed on you.
+841.56	But by changing the appearance
+841.56	and it making it more robust,
+844.44	I'm sure we can make
+844.44	a good tool out of it.
+846.52	BG: Thank you very much.
+846.52	Thank you and your team.

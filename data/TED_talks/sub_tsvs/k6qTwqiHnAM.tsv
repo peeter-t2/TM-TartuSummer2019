@@ -1,0 +1,401 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.916	Living with a physical
+15.916	disability isn't easy
+19.157	anywhere in the world,
+21.38	but if you live in a country
+21.38	like the United States,
+24.209	there's certain appurtenances available
+24.209	to you that do make life easier.
+27.302	So if you're in a building,
+27.302	you can take an elevator.
+29.975	If you're crossing the street,
+29.975	you have sidewalk cutouts.
+32.255	And if you have to travel
+32.255	some distance farther
+34.518	than you can do under your own power,
+34.518	there's accessible vehicles,
+37.685	and if you can't afford one of those,
+39.546	there's accessible public transportation.
+41.919	But in the developing world,
+41.919	things are quite different.
+44.61	There's 40 million people who need
+44.61	a wheelchair but don't have one,
+47.829	and the majority of these
+47.829	people live in rural areas,
+51.184	where the only connections to community,
+51.184	to employment, to education,
+55.069	are by traveling long
+55.069	distances on rough terrain
+57.552	often under their own power.
+60.289	And the devices usually
+60.289	available to these people
+62.647	are not made for that context,
+62.647	break down quickly,
+65.105	and are hard to repair.
+67.415	I started looking at wheelchairs
+67.415	in developing countries in 2005,
+72.135	when I spent the summer assessing
+72.135	the state of technology in Tanzania,
+75.951	and I talked to wheelchair users, wheelchair
+75.951	manufacturers, disability groups,
+79.764	and what stood out to me
+81.621	is that there wasn't a device available
+84.073	that was designed for rural
+84.073	areas, that could go fast
+86.621	and efficiently on many types of terrain.
+89.237	So being a mechanical engineer,
+91.02	being at MIT and having lots
+91.02	of resources available to me,
+93.806	I thought I'd try to do
+93.806	something about it.
+96.12	Now when you're talking
+96.12	about trying to travel
+99.073	long distances on rough terrain,
+101.279	I immediately thought of a mountain bike,
+103.012	and a mountain bike's good at doing this
+104.425	because it has a gear train,
+106.264	and you can shift to a low gear
+106.264	if you have to climb a hill
+109.098	or go through mud or sand
+110.724	and you get a lot of torque
+110.724	but a low speed.
+112.838	And if you want to go
+112.838	faster, say on pavement,
+114.953	you can shift to a high gear,
+116.358	and you get less torque,
+116.358	but higher speeds.
+118.43	So the logical evolution here
+120.011	is to just make a wheelchair
+120.011	with mountain bike components,
+122.845	which many people have done.
+124.203	But these are two products
+124.203	available in the U.S. that
+127.385	would be difficult to transfer
+127.385	into developing countries
+130.076	because they're much, much too expensive.
+132.626	And the context I'm talking about is where
+134.902	you need to have a product
+134.902	that is less than 200 dollars.
+138.898	And this ideal product
+138.898	would also be able to go
+141.329	about five kilometers a day so you
+141.329	could get to your job, get to school,
+145.333	and do it on many,
+145.333	many different types of terrain.
+147.185	But when you get home or want
+147.185	to go indoors at your work,
+150.077	it's got to be small enough and maneuverable
+150.077	enough to use inside.
+154.498	And furthermore, if you want it to last
+154.498	a long time out in rural areas,
+157.903	it has to be repairable using the local
+157.903	tools, materials and knowledge
+161.965	in those contexts.
+164.781	So the real crux of the problem here is,
+167.721	how do you make a system
+167.721	that's a simple device
+170.869	but gives you a large
+170.869	mechanical advantage?
+173	How do you make a mountain
+173	bike for your arms
+175.187	that doesn't have the mountain
+175.187	bike cost and complexity?
+177.878	So as is the case with simple solutions,
+180.279	oftentimes the answer is right in front
+180.279	of your face, and for us it was levers.
+184.065	We use levers all the time,
+184.065	in tools, doorknobs, bicycle parts.
+188.699	And that moment of inspiration,
+188.699	that key invention moment,
+191.485	was when I was sitting
+191.485	in front of my design notebook
+194.033	and I started thinking
+194.033	about somebody grabbing a lever,
+196.805	and if they grab
+196.805	near the end of the lever,
+198.918	they can get an effectively long lever
+200.752	and produce a lot of torque
+200.752	as they push back and forth,
+203.577	and effectively get a low gear.
+205.797	And as they slide
+205.797	their hand down the lever,
+208.204	they can push with a smaller
+208.204	effective lever length,
+211.04	but push through a bigger
+211.04	angle every stroke,
+213.16	which makes a faster rotational speed,
+213.16	and gives you an effective high gear.
+216.819	So what's exciting about this system
+218.571	is that it's really, really
+218.571	mechanically simple,
+221.174	and you could make it using technology
+223.008	that's been around for hundreds of years.
+224.99	So seeing this in practice,
+227.175	this is the Leveraged Freedom Chair that,
+229.152	after a few years of development,
+230.892	we're now going into production with,
+232.829	and this is a full-time wheelchair user --
+234.853	he's paralyzed -- in Guatemala,
+236.394	and you see he's able to traverse
+236.394	pretty rough terrain.
+240.393	Again, the key innovation of this technology
+240.393	is that when he wants to go fast,
+244.924	he just grabs the levers near the pivots
+244.924	and goes through a big angle every stroke,
+248.979	and as the going gets tougher, he just
+248.979	slides his hands up the levers,
+251.904	creates more torque, and kind
+251.904	of bench-presses his way
+254.5	out of trouble through the rough terrain.
+256.686	Now the big, important point here is that
+259.698	the person is the complex
+259.698	machine in this system.
+262.411	It's the person that's sliding
+262.411	his hands up and down the levers,
+265.757	so the mechanism itself can be very simple
+268.479	and composed of bicycle parts you
+268.479	can get anywhere in the world.
+271.551	Because those bicycle parts
+273.142	are so ubiquitously available,
+273.142	they're super-cheap.
+275.647	They're made by the gazillions
+275.647	in China and India,
+277.827	and we can source them
+277.827	anywhere in the world,
+279.683	build the chair anywhere,
+279.683	and most importantly repair it,
+282.422	even out in a village
+282.422	with a local bicycle mechanic
+284.875	who has local tools, knowledge
+284.875	and parts available.
+289.23	Now, when you want to use the LFC indoors,
+291.907	all you have to do is pull
+291.907	the levers out of the drivetrain,
+295.427	stow them in the frame, and it
+295.427	converts into a normal wheelchair
+298.704	that you can use just
+298.704	like any other normal wheelchair,
+301.348	and we sized it like a normal wheelchair,
+303.365	so it's narrow enough to fit
+303.365	through a standard doorway,
+307.5	it's low enough to fit under a table,
+311.019	and it's small and maneuverable
+311.019	enough to fit in a bathroom
+315.012	and this is important so the user
+315.012	can get up close to a toilet,
+318.036	and be able to transfer off
+319.74	just like he could in a normal wheelchair.
+325.331	Now, there's three important
+325.331	points that I want to stress
+328.423	that I think really hit
+328.423	home in this project.
+332.055	The first is that this
+332.055	product works well because
+335.259	we were effectively able to combine
+337.29	rigorous engineering science
+337.29	and analysis with user-centered design
+341.844	focused on the social and usage
+341.844	and economic factors
+345.221	important to wheelchair users
+345.221	in the developing countries.
+347.758	So I'm an academic at MIT,
+347.758	and I'm a mechanical engineer,
+350.246	so I can do things like look at the type
+350.246	of terrain you want to travel on,
+353.794	and figure out how much
+353.794	resistance it should impose,
+356.442	look at the parts we have
+356.442	available and mix and match them
+359.45	to figure out what sort
+359.45	of gear trains we can use,
+362.095	and then look at the power and force
+362.095	you can get out of your upper body
+365.204	to analyze how fast you should
+365.204	be able to go in this chair
+367.167	as you put your arms
+367.167	up and down the levers.
+369.538	So as a wet-behind-the-ears
+369.538	student, excited,
+373.197	our team made a prototype,
+375.322	brought that prototype to Tanzania,
+375.322	Kenya and Vietnam in 2008,
+380.197	and found it was terrible
+382.331	because we didn't get
+382.331	enough input from users.
+384.768	So because we tested it
+384.768	with wheelchair users,
+387.934	with wheelchair manufacturers,
+387.934	we got that feedback from them,
+390.44	not just articulating their problems,
+390.44	but articulating their solutions,
+393.894	and worked together to go back
+393.894	to the drawing board and make a new design,
+397.442	which we brought back
+397.442	to East Africa in '09
+399.592	that worked a lot better than a normal
+399.592	wheelchair on rough terrain,
+402.437	but it still didn't work well
+402.437	indoors because it was too big,
+405.319	it was heavy, it was hard to move around,
+407.317	so again with that user feedback,
+407.317	we went back to the drawing board,
+410.871	came up with a better
+410.871	design, 20 pounds lighter,
+413.186	as narrow as a regular wheelchair, tested
+413.186	that in a field trial in Guatemala,
+416.877	and that advanced the product to the point
+418.901	where we have now that it's going
+418.901	into production.
+422.124	Now also being engineering scientists,
+424.37	we were able to quantify the performance
+424.37	benefits of the Leveraged Freedom Chair,
+428.252	so here are some shots
+428.252	of our trial in Guatemala
+430.892	where we tested the LFC
+430.892	on village terrain,
+434.434	and tested people's biomechanical outputs,
+436.458	their oxygen consumption,
+436.458	how fast they go,
+438.645	how much power they're putting out,
+440.336	both in their regular
+440.336	wheelchairs and using the LFC,
+443.235	and we found that the LFC
+443.235	is about 80 percent faster
+445.736	going on these terrains
+445.736	than a normal wheelchair.
+448.094	It's also about 40 percent more
+448.094	efficient than a regular wheelchair,
+451.477	and because of the mechanical
+451.477	advantage you get from the levers,
+454.02	you can produce 50 percent higher torque
+455.949	and really muscle your way
+455.949	through the really, really rough terrain.
+459.933	Now the second lesson
+459.933	that we learned in this is that
+463.369	the constraints on this design
+463.369	really push the innovation,
+466.269	because we had to hit
+466.269	such a low price point,
+468.533	because we had to make
+468.533	a device that could travel
+470.843	on many, many types of terrain
+470.843	but still be usable indoors,
+473.662	and be simple enough to repair,
+475.953	we ended up with a fundamentally
+475.953	new product,
+478.32	a new product that is an innovation
+480.436	in a space that really hasn't
+480.436	changed in a hundred years.
+483.353	And these are all merits that are not
+483.353	just good in the developing world.
+486.806	Why not in countries like the U.S. too?
+489.245	So we teamed up with Continuum,
+490.981	a local product design firm here in Boston
+493.005	to make the high-end version,
+493.005	the developed world version,
+496.013	that we'll probably sell primarily
+496.013	in the U.S. and Europe,
+498.799	but to higher-income buyers.
+501.6	And the final point I want
+501.6	to make is that I think
+504.586	this project worked
+504.586	well because we engaged
+507.412	all the stakeholders that buy into this
+507.412	project and are important to consider
+512.023	in bringing the technology
+512.023	from inception of an idea
+515.366	through innovation, validation,
+515.366	commercialization and dissemination,
+519.605	and that cycle has to start
+519.605	and end with end users.
+523.35	These are the people that define
+523.35	the requirements of the technology,
+526.125	and these are the people that have
+526.125	to give the thumbs-up at the end,
+528.463	"and say, ""Yeah, it actually works."
+528.463	"It meets our needs."""
+531.107	So people like me in the academic space,
+533.037	we can do things like innovate
+533.037	and analyze and test,
+536.408	create data and make
+536.408	bench-level prototypes,
+539.504	but how do you get that bench-level
+539.504	prototype to commercialization?
+542.671	So we need gap-fillers like Continuum
+542.671	that can work on commercializing,
+546.083	and we started a whole NGO
+546.083	to bring our chair to market --
+548.869	Global Research Innovation Technology --
+551.034	and then we also teamed up with a big
+551.034	manufacturer in India, Pinnacle Industries,
+554.766	that's tooled up now
+554.766	to make 500 chairs a month
+557.029	and will make the first
+557.029	batch of 200 next month,
+558.832	which will be delivered in India.
+560.8	And then finally, to get this
+560.8	out to the people in scale,
+563.539	we teamed up with the largest
+563.539	disability organization
+566.087	in the world, Jaipur Foot.
+568.374	Now what's powerful about this model
+570.653	is when you bring together
+570.653	all these stakeholders
+573.46	that represent each link in the chain
+575.429	from inception of an idea
+577.97	all the way to implementation
+577.97	in the field,
+580.738	that's where the magic happens.
+582.289	That's where you can take
+582.289	a guy like me, an academic,
+584.837	but analyze and test
+584.837	and create a new technology
+587.865	and quantitatively determine
+587.865	how much better the performance is.
+591.401	You can connect with stakeholders
+591.401	like the manufacturers
+594.062	and talk with them face-to-face
+594.062	and leverage their
+596.322	local knowledge of manufacturing
+596.322	practices and their clients
+599.193	and combine that knowledge
+599.193	with our engineering knowledge
+601.932	to create something greater
+601.932	than either of us could have done alone.
+605.262	And then you can also engage the end user
+607.793	in the design process, and not
+607.793	just ask him what he needs,
+610.579	but ask him how he thinks
+610.579	it can be achieved.
+613.528	And this picture was taken
+613.528	in India in our last field trial,
+616.585	where we had a 90-percent
+616.585	adoption rate where people
+619.086	switched to using our Leveraged Freedom
+619.086	Chair over their normal wheelchair,
+622.692	and this picture specifically is of Ashok,
+625.653	and Ashok had a spinal injury
+625.653	when he fell out of a tree,
+628.685	and he had been working at a tailor,
+628.685	but once he was injured
+631.567	he wasn't able to transport
+631.567	himself from his house
+634.45	over a kilometer to his shop
+634.45	in his normal wheelchair.
+637.25	The road was too rough.
+638.521	But the day after he got
+638.521	an LFC, he hopped in it,
+641.442	rode that kilometer, opened up his shop
+643.526	and soon after landed a contract
+643.526	to make school uniforms
+646.242	and started making money, started
+646.242	providing for his family again.
+649.362	Ashok: You also encouraged me to work.
+651.211	I rested for a day at home.
+653.935	The next day I went to my shop.
+658.391	Now everything is back to normal.
+661.369	Amos Winter: And thank you
+661.369	very much for having me today.
+665.454	(Applause)

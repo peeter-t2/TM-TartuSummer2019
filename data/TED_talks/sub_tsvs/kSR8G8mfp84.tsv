@@ -1,0 +1,240 @@
+startsecond	text
+12.837	How much do you need
+12.837	to know about a person
+14.862	before you'd feel comfortable
+14.862	making a loan?
+18.044	Suppose you wanted to lend 1,000 dollars
+20.523	to the person sitting two rows behind you.
+23.19	What would you need to know
+23.19	about that person
+25.346	before you'd feel comfortable?
+27.291	My mom came to the US from India
+27.291	in her late thirties.
+31.614	She's a doctor in Brooklyn,
+33.07	and she often lets friends and neighbors
+33.07	come to see her for health services,
+37.317	whether they can pay right away or not.
+39.955	I remember running into her patients
+39.955	with her at the grocery store
+43.186	or on the sidewalk,
+44.361	and sometimes they would come
+44.361	and pay her right on the spot
+47.225	for previous appointments.
+48.607	She would thank them,
+49.87	and ask them about their families
+49.87	and their health.
+53.466	She gave them credit
+53.466	because she trusted them.
+57.122	Most of us are like my mom.
+59.899	We would give credit to someone we know
+62.786	or that we live next to.
+64.206	But most of us are probably not
+64.206	going to lend to a stranger
+67.934	unless we know a little
+67.934	something about them.
+71.634	Banks, credit card companies
+71.634	and other financial institutions
+75.361	don't know us on a personal level,
+77.645	but they do have a way of trusting us,
+80.548	and that's through our credit scores.
+83.033	Our credit scores have been created
+85.052	through an aggregation and analysis
+85.052	of our public consumer credit data.
+89.596	And because of them, we have
+89.596	pretty much easy access
+92.861	to all of the goods
+92.861	and services that we need,
+95.329	from getting electricity to buying a home,
+98.197	or taking a risk and starting a business.
+101.561	But ...
+102.746	there are 2.5 billion people
+102.746	around the world
+107.137	that don't have a credit score.
+109.247	That's a third of the world's population.
+112.93	They don't have a score
+114.209	because there are no formal
+114.209	public records on them --
+117.494	no bank accounts,
+118.882	no credit histories
+120.4	and no social security numbers.
+122.482	And because they don't have a score,
+124.225	they don't have access
+124.225	to the credit or financial products
+128.9	that can improve their lives.
+131.509	They are not trusted.
+134.968	So we wanted to find a way to build trust
+138.162	and to open up financial access
+138.162	for these 2.5 billion.
+142.772	So we created a mobile application
+145.262	that builds credit scores for them
+145.262	using mobile data.
+150.345	There are currently over one billion
+150.345	smartphones in emerging markets.
+154.825	And people are using them
+154.825	the same way that we do.
+158.235	They're texting their friends,
+158.235	they're looking up directions,
+161.228	they're browsing the Internet
+162.664	and they're even making
+162.664	financial transactions.
+165.167	Over time, this data is getting
+165.167	captured on our phones,
+168.377	and it provides a really rich picture
+168.377	of a person's life.
+173.132	Our customers give us access to this data
+175.332	and we capture it
+175.332	through our mobile application.
+178.466	It helps us understand
+178.466	the creditworthiness
+181.134	of people like Jenipher,
+181.134	a small-business owner in Nairobi, Kenya.
+186.29	Jenipher is 65 years old, and for decades
+186.29	has been running a food stall
+191.197	in the central business district.
+193.897	She has three sons who she put
+193.897	through vocational school,
+197.12	and she's also the leader
+197.12	of her local chama,
+199.668	or savings group.
+201.609	Jenipher's food stall does well.
+203.556	She makes just enough every day
+203.556	to cover her expenses.
+207.024	But she's not financially secure.
+209.842	Any emergency could force her into debt.
+212.887	And she has no discretionary income
+214.758	to improve her family's way of living,
+217.02	for emergencies,
+218.283	or for investing
+218.283	into growing her business.
+222.065	If Jenipher wants credit,
+222.065	her options are limited.
+225.733	She could get a microloan,
+227.135	but she'd have to form a group
+227.135	that could help vouch for her credibility.
+231.003	And even then, the loan sizes
+231.003	would be way too small
+233.999	to really have an impact on her business,
+236.28	averaging around 150 dollars.
+239.525	Loan sharks are always an option,
+242.067	but with interest rates
+242.067	that are well above 300 percent,
+246.041	they're financially risky.
+248.079	And because Jenipher doesn't have
+248.079	collateral or a credit history,
+252.088	she can't walk into a bank
+252.088	and ask for a business loan.
+256.331	But one day,
+257.678	Jenipher's son convinced her
+257.678	to download our application
+261.68	and apply for a loan.
+263.407	Jenipher answered a few
+263.407	questions on her phone
+265.97	and she gave us access to a few
+265.97	key data points on her device.
+270.561	And here's what we saw.
+272.392	So, bad news first.
+274.996	Jenipher had a low savings balance
+274.996	and no previous loan history.
+280.395	These are factors
+281.57	that would have thrown up
+281.57	a red flag to a traditional bank.
+284.62	But there were other points
+284.62	in her history that showed us
+287.375	a much richer picture of her potential.
+291.342	So for one,
+292.517	we saw that she made regular
+292.517	phone calls to her family in Uganda.
+297.629	Well, it turns out that the data shows
+300.11	a four percent increase in repayment
+302.868	among people who consistently
+302.868	communicate with a few close contacts.
+308.657	We could also see
+309.84	that though she traveled
+309.84	around a lot throughout the day,
+312.672	she actually had pretty
+312.672	regular travel patterns,
+315.427	and she was either at home
+315.427	or at her food stall.
+319.315	And the data shows
+319.315	a six percent increase in repayment
+323.326	among customers who are consistent
+325.737	with where they spend most of their time.
+329.349	We could also see
+329.349	that she communicated a lot
+331.954	with many different people
+331.954	throughout the day
+334.326	and that she had a strong support network.
+337.287	Our data shows
+338.704	that people who communicate
+338.704	with more than 58 different contacts
+343.408	tend to be more likely
+343.408	to be good borrowers.
+346.333	In Jenipher's case,
+347.626	she communicated
+347.626	with 89 different individuals,
+351.693	which showed a nine percent
+351.693	increase in her repayment.
+355.888	These are just some of the thousands
+355.888	of different data points
+359.679	that we look at to understand
+359.679	a person's creditworthiness.
+363.397	And after analyzing all
+363.397	of these different data points,
+366.494	we took the first risk
+368.49	and gave Jenipher a loan.
+371.37	This is data that would not
+371.37	be found on a paper trail
+374.72	or in any formal financial record.
+377.72	But it proves trust.
+380.193	By looking beyond income,
+382.194	we can see that people in emerging markets
+384.375	that may seem risky
+384.375	and unpredictable on the surface
+388.068	are actually willing and have
+388.068	the capacity to repay.
+393.334	Our credit scores have helped us deliver
+393.334	over 200,000 loans in Kenya
+398.543	in just the past year.
+400.164	And our repayment rates
+400.164	are above 90 percent --
+403.49	which, by the way, is in line
+403.49	with traditional bank repayment rates.
+409.564	With something as simple
+409.564	as a credit score,
+412.497	we're giving people the power
+412.497	to build their own futures.
+416.647	Our customers have used
+416.647	their loans for family expenses,
+419.978	emergencies, travel
+421.859	and for investing back
+421.859	into growing their businesses.
+425.792	They're now building better
+425.792	economies and communities
+429.288	where more people can succeed.
+432.664	Over the past two years
+432.664	of using our product,
+435.416	Jenipher has increased
+435.416	her savings by 60 percent.
+439.624	She's also started
+439.624	two additional food stalls
+442.3	and is now making plans
+442.3	for her own restaurant.
+445.401	She's applying for a small-business loan
+445.401	from a commercial bank,
+448.829	because she now has the credit history
+448.829	to prove she deserves it.
+454.038	I saw Jenipher in Nairobi just last week,
+456.977	and she told me how excited
+456.977	she was to get started.
+460.252	She said,
+462.178	"""Only my son believed I could do this."
+462.178	"I didn't think this was for me."""
+468.25	She's lived her whole life
+470.56	believing that there was a part
+470.56	of the world that was closed off to her.
+475.536	Our job now is to open
+475.536	the world to Jenipher
+479.916	and the billions like her
+479.916	that deserve to be trusted.
+484.135	Thank you.
+485.318	(Applause)

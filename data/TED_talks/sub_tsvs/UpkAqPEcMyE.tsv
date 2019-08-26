@@ -1,0 +1,318 @@
+startsecond	text
+12.881	I have a question.
+15.422	Can a computer write poetry?
+18.959	This is a provocative question.
+21.715	You think about it for a minute,
+23.457	and you suddenly have a bunch
+23.457	of other questions like:
+26.769	What is a computer?
+28.71	What is poetry?
+30.707	What is creativity?
+33.65	But these are questions
+34.846	that people spend their entire
+34.846	lifetime trying to answer,
+37.94	not in a single TED Talk.
+40.188	So we're going to have to try
+40.188	a different approach.
+42.657	So up here, we have two poems.
+45.839	One of them is written by a human,
+48.139	and the other one's written by a computer.
+50.754	I'm going to ask you to tell me
+50.754	which one's which.
+53.858	Have a go:
+55.038	Poem 1: Little Fly / Thy summer's play, /
+55.038	My thoughtless hand / Has brush'd away.
+59.118	Am I not / A fly like thee? /
+59.118	Or art not thou / A man like me?
+62.536	Poem 2: We can feel / Activist
+62.536	through your life's / morning /
+65.859	Pauses to see, pope I hate the / Non
+65.859	all the night to start a / great otherwise (...)
+70.13	Alright, time's up.
+71.513	Hands up if you think Poem 1
+71.513	was written by a human.
+77.547	OK, most of you.
+79.061	Hands up if you think Poem 2
+79.061	was written by a human.
+83.172	Very brave of you,
+84.855	because the first one was written
+84.855	by the human poet William Blake.
+89.784	The second one was written by an algorithm
+92.757	that took all the language
+92.757	from my Facebook feed on one day
+96.473	and then regenerated it algorithmically,
+99.26	according to methods that I'll describe
+99.26	a little bit later on.
+103.218	So let's try another test.
+106.398	Again, you haven't got ages to read this,
+108.515	so just trust your gut.
+110.151	Poem 1: A lion roars and a dog barks.
+110.151	It is interesting / and fascinating
+114.22	that a bird will fly and not / roar
+114.22	or bark. Enthralling stories about animals
+118.547	are in my dreams and I will sing them all
+118.547	if I / am not exhausted or weary.
+122.631	Poem 2: Oh! kangaroos, sequins, chocolate
+122.631	sodas! / You are really beautiful!
+126.64	Pearls, / harmonicas, jujubes, aspirins!
+126.64	All / the stuff they've always talked about (...)
+131.022	Alright, time's up.
+132.204	So if you think the first poem
+132.204	was written by a human,
+135.365	put your hand up.
+137.687	OK.
+138.865	And if you think the second poem
+138.865	was written by a human,
+141.564	put your hand up.
+143.779	We have, more or less, a 50/50 split here.
+148.157	It was much harder.
+149.617	The answer is,
+151.353	the first poem was generated
+151.353	by an algorithm called Racter,
+154.86	that was created back in the 1970s,
+157.886	and the second poem was written
+157.886	by a guy called Frank O'Hara,
+161.099	who happens to be
+161.099	one of my favorite human poets.
+164.631	(Laughter)
+168.046	So what we've just done now
+168.046	is a Turing test for poetry.
+172.018	The Turing test was first proposed
+172.018	by this guy, Alan Turing, in 1950,
+176.589	in order to answer the question,
+178.177	can computers think?
+180.245	Alan Turing believed that if
+180.245	a computer was able
+183.039	to have a to have a text-based
+183.039	conversation with a human,
+186.141	with such proficiency
+186.141	such that the human couldn't tell
+188.935	whether they are talking
+188.935	to a computer or a human,
+191.925	then the computer can be said
+191.925	to have intelligence.
+195.27	So in 2013, my friend
+195.27	Benjamin Laird and I,
+198.589	we created a Turing test
+198.589	for poetry online.
+201.601	It's called bot or not,
+202.902	and you can go and play it for yourselves.
+204.97	But basically, it's the game
+204.97	we just played.
+207.245	You're presented with a poem,
+208.797	you don't know whether it was written
+208.797	by a human or a computer
+211.849	and you have to guess.
+213.039	So thousands and thousands
+213.039	of people have taken this test online,
+216.254	so we have results.
+217.727	And what are the results?
+219.704	Well, Turing said that if a computer
+219.704	could fool a human
+	that it was a human,
+225.65	then it passes the Turing test
+225.65	for intelligence.
+228.625	We have poems on the bot or not database
+231.087	that have fooled 65 percent
+231.087	of human readers into thinking
+234.09	it was written by a human.
+235.959	So, I think we have an answer
+235.959	to our question.
+239.546	According to the logic of the Turing test,
+241.918	can a computer write poetry?
+243.87	Well, yes, absolutely it can.
+247.782	But if you're feeling
+247.782	a little bit uncomfortable
+250.152	with this answer, that's OK.
+252.103	If you're having a bunch
+252.103	of gut reactions to it,
+254.443	that's also OK because
+254.443	this isn't the end of the story.
+258.594	Let's play our third and final test.
+262	Again, you're going to have to read
+263.774	and tell me which you think is human.
+265.707	Poem 1: Red flags the reason
+265.707	for pretty flags. / And ribbons.
+269.449	Ribbons of flags / And wearing material /
+269.449	Reasons for wearing material. (...)
+273.794	Poem 2: A wounded deer leaps
+273.794	highest, / I've heard the daffodil
+277.736	I've heard the flag to-day /
+277.736	I've heard the hunter tell; /
+281.206	'Tis but the ecstasy of death, /
+281.206	And then the brake is almost done (...)
+284.932	OK, time is up.
+286.555	So hands up if you think Poem 1
+286.555	was written by a human.
+291.973	Hands up if you think Poem 2
+291.973	was written by a human.
+295.035	Whoa, that's a lot more people.
+298.327	So you'd be surprised to find that Poem 1
+301.319	was written by the very
+301.319	human poet Gertrude Stein.
+306.1	And Poem 2 was generated
+306.1	by an algorithm called RKCP.
+311.162	Now before we go on, let me describe
+311.162	very quickly and simply,
+314.505	how RKCP works.
+316.873	So RKCP is an algorithm
+316.873	designed by Ray Kurzweil,
+320.747	who's a director of engineering at Google
+322.993	and a firm believer
+322.993	in artificial intelligence.
+325.822	So, you give RKCP a source text,
+329.837	it analyzes the source text in order
+329.837	to find out how it uses language,
+334.33	and then it regenerates language
+336.302	that emulates that first text.
+338.854	So in the poem we just saw before,
+340.991	Poem 2, the one that you all
+340.991	thought was human,
+343.64	it was fed a bunch of poems
+345.214	by a poet called Emily Dickinson
+347.273	it looked at the way she used language,
+349.486	learned the model,
+350.675	and then it regenerated a model
+350.675	according to that same structure.
+356.732	But the important thing to know about RKCP
+358.934	is that it doesn't know the meaning
+358.934	of the words it's using.
+362.359	The language is just raw material,
+364.659	it could be Chinese,
+364.659	it could be in Swedish,
+366.843	it could be the collected language
+366.843	from your Facebook feed for one day.
+371.046	It's just raw material.
+373.38	And nevertheless, it's able
+373.38	to create a poem
+376.101	that seems more human
+376.101	than Gertrude Stein's poem,
+379.452	and Gertrude Stein is a human.
+382.846	So what we've done here is,
+382.846	more or less, a reverse Turing test.
+387.94	So Gertrude Stein, who's a human,
+387.94	is able to write a poem
+393.143	that fools a majority
+393.143	of human judges into thinking
+396.905	that it was written by a computer.
+399.176	Therefore, according to the logic
+399.176	of the reverse Turing test,
+403.341	Gertrude Stein is a computer.
+405.281	(Laughter)
+407.358	Feeling confused?
+409.193	I think that's fair enough.
+411.546	So far we've had humans
+411.546	that write like humans,
+415.686	we have computers that write
+415.686	like computers,
+418.821	we have computers that write like humans,
+421.9	but we also have,
+421.9	perhaps most confusingly,
+425.556	humans that write like computers.
+428.938	So what do we take from all of this?
+431.611	Do we take that William Blake
+431.611	is somehow more of a human
+434.792	than Gertrude Stein?
+436.065	Or that Gertrude Stein is more
+436.065	of a computer than William Blake?
+439.135	(Laughter)
+440.711	These are questions
+440.711	I've been asking myself
+443.058	for around two years now,
+444.547	and I don't have any answers.
+446.88	But what I do have are a bunch of insights
+449.234	about our relationship with technology.
+452.999	So my first insight is that,
+452.999	for some reason,
+456.632	we associate poetry with being human.
+460.197	So that when we ask,
+460.197	"""Can a computer write poetry?"""
+463.936	we're also asking,
+465.153	"""What does it mean to be human"
+466.975	and how do we put boundaries
+466.975	around this category?
+470.171	How do we say who or what
+470.171	"can be part of this category?"""
+474.376	This is an essentially
+474.376	philosophical question, I believe,
+477.751	and it can't be answered
+477.751	with a yes or no test,
+480.004	like the Turing test.
+481.805	I also believe that Alan Turing
+481.805	understood this,
+484.874	and that when he devised
+484.874	his test back in 1950,
+488.203	he was doing it
+488.203	as a philosophical provocation.
+493.124	So my second insight is that,
+493.124	when we take the Turing test for poetry,
+498.689	we're not really testing
+498.689	the capacity of the computers
+502.173	because poetry-generating algorithms,
+505.09	they're pretty simple and have existed,
+505.09	more or less, since the 1950s.
+511.055	What we are doing with the Turing
+511.055	test for poetry, rather,
+514.197	is collecting opinions about what
+514.197	constitutes humanness.
+520.313	So, what I've figured out,
+523.066	we've seen this when earlier today,
+526.062	we say that William Blake
+526.062	is more of a human
+528.564	than Gertrude Stein.
+530.153	Of course, this doesn't mean
+530.153	that William Blake
+532.639	was actually more human
+534.491	or that Gertrude Stein
+534.491	was more of a computer.
+537.533	It simply means that the category
+537.533	of the human is unstable.
+543.45	This has led me to understand
+545.548	that the human is not a cold, hard fact.
+548.832	Rather, it is something
+548.832	that's constructed with our opinions
+551.988	and something that changes over time.
+556.671	So my final insight is that
+556.671	the computer, more or less,
+561.174	works like a mirror
+561.174	that reflects any idea of a human
+565.204	that we show it.
+566.958	We show it Emily Dickinson,
+568.866	it gives Emily Dickinson back to us.
+571.768	We show it William Blake,
+573.626	that's what it reflects back to us.
+575.935	We show it Gertrude Stein,
+577.798	what we get back is Gertrude Stein.
+581.083	More than any other bit of technology,
+583.475	the computer is a mirror that reflects
+583.475	any idea of the human we teach it.
+590.061	So I'm sure a lot of you have been hearing
+592.372	a lot about artificial
+592.372	intelligence recently.
+596.694	And much of the conversation is,
+600.292	can we build it?
+602.383	Can we build an intelligent computer?
+605.542	Can we build a creative computer?
+608.329	What we seem to be asking over and over
+610.466	is can we build a human-like computer?
+613.961	But what we've seen just now
+615.541	is that the human
+615.541	is not a scientific fact,
+618.653	that it's an ever-shifting,
+618.653	concatenating idea
+622.207	and one that changes over time.
+624.762	So that when we begin
+624.762	to grapple with the ideas
+627.938	of artificial intelligence in the future,
+630.348	we shouldn't only be asking ourselves,
+632.277	"""Can we build it?"""
+633.669	But we should also be asking ourselves,
+635.587	"""What idea of the human"
+635.587	"do we want to have reflected back to us?"""
+639.82	This is an essentially philosophical idea,
+642.537	and it's one that can't be answered
+642.537	with software alone,
+645.558	but I think requires a moment
+645.558	of species-wide, existential reflection.
+651.04	Thank you.
+652.217	(Applause)

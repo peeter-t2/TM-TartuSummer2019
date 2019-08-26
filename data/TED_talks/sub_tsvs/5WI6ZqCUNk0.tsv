@@ -1,0 +1,172 @@
+startsecond	text
+12.721	A computer is an incredibly powerful means
+15.388	of creative expression,
+17.042	but for the most part,
+18.613	that expression is confined to the screens
+20.778	of our laptops and mobile phones.
+23.196	And I'd like to tell you a story about
+25.396	bringing this power of the computer
+27.352	to move things around and interact with us
+29.722	off of the screen and into the physical world
+32.635	in which we live.
+33.824	A few years ago, I got a call from
+35.442	a luxury fashion store called Barneys New York,
+37.928	and the next thing I knew,
+39.192	I was designing storefront kinetic sculptures
+41.885	for their window displays.
+43.277	"This one's called ""The Chase."""
+44.672	There are two pairs of shoes,
+46.018	a man's pair and a woman's pair,
+47.643	and they play out this slow, tense chase
+50.547	around the window
+51.825	in which the man scoots up behind the woman
+54.05	and gets in her personal space,
+55.623	and then she moves away.
+57.558	Each of the shoes has magnets in it,
+59.399	and there are magnets underneath the table
+61.402	that move the shoes around.
+63.366	My friend Andy Cavatorta was building
+65.398	a robotic harp for Bjork's Biophilia tour
+68.94	and I wound up building the electronics
+71.332	and motion control software
+73.521	to make the harps move and play music.
+75.987	The harp has four separate pendulums,
+77.998	and each pendulum has 11 strings,
+80.124	so the harp swings on its axis and also rotates
+82.612	in order to play different musical notes,
+84.815	and the harps are all networked together
+86.977	so that they can play the right notes
+88.777	at the right time in the music.
+91.403	I built an interactive chemistry exhibit
+93.827	at the Museum of Science and Industry in Chicago,
+96.426	and this exhibit lets people use physical objects
+99.407	to grab chemical elements off of the periodic table
+102.443	and bring them together to cause
+103.851	chemical reactions to happen.
+105.617	And the museum noticed that people
+107.541	were spending a lot of time with this exhibit,
+109.767	and a researcher from a science education center
+112.914	in Australia decided to study this exhibit
+115.719	and try to figure out what was going on.
+117.959	And she found that the physical objects
+120.252	that people were using were helping people
+121.916	understand how to use the exhibit,
+123.93	and were helping people learn in a social way.
+126.873	And when you think about
+126.873	it, this makes a lot of sense,
+129.139	that using specialized physical objects
+131.379	would help people use an interface more easily.
+134.651	I mean, our hands and our minds are optimized
+137.49	to think about and interact with tangible objects.
+140.759	Think about which you find easier to use,
+142.821	a physical keyboard or an onscreen keyboard
+145.14	like on a phone?
+147.24	But the thing that struck me
+148.265	about all of these different projects
+150.264	is that they really had to be built from scratch,
+153.381	down to the level of the electronics
+155.171	and the printed circuit boards and
+156.277	all the mechanisms all the way up to the software.
+159.022	I wanted to create something
+160.784	where we could move objects
+160.784	under computer control
+164.103	and create interactions around that idea
+166.352	without having to go through this process
+168.567	of building something from scratch
+169.95	every single time.
+171.325	So my first attempt at this
+173.316	was at the MIT Media Lab
+175	with Professor Hiroshi Ishii,
+176.581	and we built this array of
+180.673	and together they were able to move objects around
+183.3	on top of their surface.
+184.836	But the problem with this
+186.384	was that these magnets
+188.04	cost over 10,000 dollars.
+190.2	Although each one was pretty small,
+191.866	altogether they weighed so much
+193.575	that the table that they were on
+194.83	started to sag.
+196.388	So I wanted to build something
+197.72	where you could have this kind of interaction
+199.336	on any tabletop surface.
+201.979	So to explore this idea,
+204.06	I built an army of small robots,
+206.21	and each of these robots has
+206.21	what are called omni wheels.
+208.975	They're these special wheels
+210.28	that can move equally easily in all directions,
+212.946	and when you couple these robots
+215.535	with a video projector,
+217.445	you have these physical tools
+219.253	for interacting with digital information.
+222.153	So here's an example of what I mean.
+223.995	This is a video editing application
+225.917	where all of the controls
+227.403	for manipulating the video are physical.
+229.71	So if we want to tweak the color,
+231.292	we just enter the color mode,
+232.644	and then we get three different dials
+233.94	for tweaking the color,
+235.318	or if we want to adjust the audio,
+237.279	then we get two different dials
+237.279	for that, these physical objects.
+240.62	So here the left and right channel stay in sync,
+243.466	but if we want to, we can override that
+245.209	by grabbing both of them at the same time.
+248.208	So the idea is that we get the speed
+250.136	and efficiency benefits of using these physical dials
+253.253	together with the flexibility and versatility
+256.043	of a system that's designed in software.
+259.374	And this is a mapping application
+261.309	for disaster response.
+263.436	So you have these physical objects
+265.381	that represent police, fire and rescue,
+267.608	and a dispatcher can grab them
+269.161	and place them on the map
+270.487	to tell those units where to go,
+272.476	and then the position of the units on the map
+274.852	gets synced up with the position
+276.821	of those units in the real world.
+280.448	This is a video chat application.
+282.06	It's amazing how much emotion you can convey
+284.412	with just a few simple movements
+285.625	of a physical object.
+288.05	With this interface, we open up
+288.05	a huge array of possibilities
+291.102	in between traditional board games
+293.18	and arcade games,
+294.594	where the physical possibilities of interaction
+297.141	make so many different styles of play possible.
+300.854	But one of the areas that I'm most excited
+303.243	about using this platform for
+305.057	is applying it to problems that are difficult
+307.6	for computers or people to solve alone.
+309.854	One example of those is protein folding.
+312.476	So here we have an interface
+313.888	where we have physical handles onto a protein,
+317.402	and we can grab those handles
+319.153	and try to move the protein and
+319.153	try to fold it in different ways.
+322.14	And if we move it in a way that
+322.14	doesn't really make sense
+325.14	with the underlying molecular simulation,
+327.107	we get this physical feedback where we can
+329.309	actually feel these physical handles
+331.282	pulling back against us.
+332.89	So feeling what's going on
+334.421	inside a molecular simulation
+336.66	is a whole different level of interaction.
+339.606	So we're just beginning to explore
+342.587	what's possible when we use software
+345.098	to control the movement
+346.589	of objects in our environment.
+348.832	Maybe this is the computer of the future.
+351.736	There's no touchscreen.
+353.352	There's no technology visible at all.
+355.383	But when we want to have a video chat
+357.227	or play a game
+358.688	or lay out the slides to our next TED Talk,
+361.401	the objects on the table come alive.
+363.674	Thank you.
+365.026	(Applause)

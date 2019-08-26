@@ -1,0 +1,334 @@
+startsecond	text
+0	Translator: Morton Bast
+0	Reviewer: Thu-Huong Ha
+15.768	In the ocean,
+16.8	what is the common point
+18.64	between oil, plastic and radioactivity?
+24.408	On the top line, this is the BP oil spill:
+29.625	billions of barrels of oil gushing
+31.648	in the Gulf of Mexico.
+33.017	The middle line is millions of tons of
+35.192	plastic debris accumulating in our ocean,
+37.596	and the third line is radioactive material
+40.316	leaking from Fukushima nuclear power plant
+42.612	in the Pacific Ocean.
+43.95	Well, the three big problems have in common
+48.533	that they are man-made problems
+51.348	but they are controlled by natural forces.
+53.404	This should make us feel very, terribly awful
+57.812	as much as it should make us feel hopeful,
+60.139	because if we have the power to create these problems,
+62.948	we may as well have the power
+64.628	to remediate these problems.
+66.06	But what about natural forces?
+68.004	Well, that's exactly what I want to talk about today,
+70.987	is how we can use these natural forces
+73.292	to remediate these man-made problems.
+78.515	When the BP oil spill happened,
+79.741	I was working at MIT, and I was in charge
+82.506	of developing an oil spill-cleaning technology.
+84.903	And I had a chance to go in the Gulf of Mexico
+88.316	and meet some fishermen and see
+90.653	the terrible conditions in which they were working.
+92.444	More than 700 of these boats,
+95.525	which are fishermen boats repurposed
+97.832	with oil absorbent in white
+100.293	and oil containment in orange, were used,
+102.688	but they only collected three percent of the oil on the surface,
+105.947	and the health of the cleaners
+107.659	were very deeply affected.
+109.572	I was working on a very interesting technology
+113.566	at MIT, but it was a very long-term view
+115.875	of how to develop technology,
+117.309	and it was going to be a very expensive technology,
+119.827	and also it would be patented.
+122.275	So I wanted to develop something that we could
+124.907	develop very fast, that would be cheap,
+128.307	and that would be open-source, so, because
+130.747	oil spills are not only happening in the Gulf of Mexico,
+132.915	and that would be using renewable energy.
+135.531	So I quit my dream job,
+137.931	and I moved to New Orleans,
+139.547	and I kept on studying how the oil spill was happening.
+142.491	Currently, what they were doing is
+144.563	that they were using these small fishing boats,
+146.209	and they were cleaning clean lines in an ocean of dirt.
+149.369	If you're using the exact same amount of surface
+153.082	of oil absorbent, but you're just paying attention
+155.235	to natural patterns, and if you're going up the winds,
+157.568	you can collect a lot more material.
+159.336	If you're multiplying the rig,
+161.457	so you multiply how many layers of absorbent
+164.032	you're using, you can collect a lot more.
+165.934	But it's extremely difficult to move oil absorbent
+168.535	against the winds, the surface currents and the waves.
+172.167	These are enormous forces.
+173.631	So the very simple idea was to use the ancient technique
+176.654	of sailing and tacking of the wind
+178.907	to capture or intercept the oil
+181.525	that is drifting down the wind.
+182.867	So this didn't require any invention.
+186.364	We just took a simple sailing boat
+188.067	and we tried to pull something long and heavy,
+189.964	but as we tacked back and forth,
+192.276	what we lost was two things:
+193.947	we were losing pulling power and direction.
+197.324	And so, I thought, what about if we just take the rudder
+201.156	from the back of the boat to the front,
+202.668	would we have better control?
+204.411	So I built this small sailing robot
+206.627	with the rudder at the front,
+207.875	and I was trying to pull something very long and heavy,
+210.34	so that's a four-meter-long object just to pull,
+213.547	and I was surprised with just a 14-centimeter rudder,
+216.459	I could control four meters of absorbent.
+218.811	Then I was so happy that I kept playing with the robot,
+222.627	and so you see the robot has
+225.091	a front rudder here.
+226.763	Normally it's at the back.
+227.979	And, playing, I realized that the maneuverability
+231.594	of this was really amazing,
+232.874	and I could avoid an obstacle at the very last second,
+234.802	more maneuverable than a normal boat.
+236.474	Then I started publishing online, and
+239.338	some friends from Korea, they started being
+242.25	interested in this, and we made a boat
+243.979	which has a front rudder and a back rudder,
+245.787	so we started interacting with this,
+247.845	and it was slightly better,
+249.964	although it was very small and a bit off balance,
+251.888	but then we thought,
+252.968	what if we have more than two points of control?
+254.856	What if the entire boat becomes a point of control?
+256.848	What if the entire boat changes shape?
+258.968	So — (Applause)
+261.408	Thank you very much. (Applause)
+263.304	And so that's the beginning of Protei,
+265.889	and that's the first boat in history
+267.528	that completely changed the shape of the hull
+269.152	in order to control it,
+270.322	and the properties of sailing that we get
+273.208	are very superior compared to a normal boat.
+276.106	When we're turning, we have the feeling of surfing,
+278.76	and the way it's going up-wind, it's very efficient.
+282.876	This is low speed, low wind speed,
+285.576	and the maneuverability is very increased,
+287.649	and here I'm going to do a small jibe,
+289.96	and look at the position of the sail.
+292.056	What's happening is that, because the boat changes shape,
+295.656	the position of the front sail and the main sail
+297.996	are different to the wind.
+299.173	We're catching wind from both sides.
+301.056	And this is exactly what we're looking [for]
+303.315	if we want to pull something long and heavy.
+305.099	We don't want to lose pulling power, nor direction.
+307.488	So, I wanted to know if this was possible
+310.328	to put this at an industrial level,
+311.799	so we made a large boat with a large sail,
+314.311	and with a very light hull, inflatable,
+317.007	very small footprint,
+318.512	so we have a very big size and power ratio.
+321.336	After this, we wanted to see if we could
+324.567	implement this and automate the system,
+326.864	so we used the same system but we added
+328.536	a structure to it so we could activate the machine.
+330.906	So, we used the same bladder-inflated system,
+334.12	and we took it for testing.
+336.104	So this is happening in the Netherlands.
+338.415	We tried in the water without any skin or ballast
+340.946	just to see how it works.
+343.517	And then we mounted a camera for controlling it,
+346.202	but quickly we saw that we would need
+349.104	a lot more weight at the bottom,
+351.253	so we had to take it back to the lab,
+352.79	and then we built a skin around it,
+354.878	we put batteries, remote controllers, and then
+358.165	we put it in the water and then we
+359.613	let it go in the water and see how well it would work,
+362.774	so let some rope out, and hope it's going to work,
+366.198	and it worked okay, but we still have a long way.
+369.421	Our small prototype has given us good insight
+371.857	that it's working very well,
+373.203	but we still need to work a lot more on this.
+375.888	So what we are doing is an accelerated evolution
+379.757	of sailing technology.
+381.205	We went from a back rudder to a front rudder
+383.132	to two rudders to multiple rudders
+385.143	to the whole boat changing shape,
+386.814	and the more we are moving forward,
+388.67	and the more the design looks simple and cute. (Laughter)
+394.717	But I wanted to show you a fish because --
+397.094	In fact, it's very different from a fish.
+400.164	A fish will move because -- by changing like this,
+404.564	but our boat is propelled by the wind still,
+407.663	and the hull controls the trajectory.
+410.07	So I brought to you for the first time on the TED stage
+413.724	Protei Number Eight. It's not the last one,
+416.109	but it's a good one for making demos.
+418.358	So the first thing as I show you in the video is
+420.634	that we may be able to control the trajectory
+424.621	of a sailing boat better,
+426.085	or we may be able to never be in irons,
+429.146	so never facing the wind,
+430.446	we always can catch the wind from both sides.
+432.561	But new properties of a sailing boat.
+435.121	So if you're looking at the boat from this side,
+439.377	this might remind you of an airplane profile.
+441.585	An airplane, when you're moving in this direction,
+443.998	starts to lift, and that's how it takes off.
+446.263	Now, if you're taking the same system,
+448.438	and you're putting vertical, you're bending,
+450.806	and if you're moving this way forward,
+452.806	your instinct will tell you that you might go this way,
+455.933	but if you're moving fast enough,
+457.74	you might create what we call lateral lift,
+459.759	so we could get further or closer to the wind.
+462.684	Other property is this:
+465.628	A normal sailing boat has a centerboard here
+468.789	and a rudder at the back,
+470.781	and these two things are what creates most
+473.331	resistance and turbulence behind the boat,
+475.985	but because this doesn't have either
+478.256	a centerboard or a rudder,
+479.792	we hope that if we keep working on this hull design
+482.664	we can improve and have less resistance.
+484.856	The other thing is, most boats, when they reach
+487.511	a certain speed, and they are going on waves,
+489.735	they start to hit and slap on the surface of the water,
+492.174	and a lot of the energy moving forward is lost.
+495.471	But if we're going with the flow,
+497.559	if we pay attention to natural patterns
+499.695	instead of trying to be strong,
+501.306	but if you're going with the flow, we may absorb
+503.705	a lot of environmental noises, so the wave energy,
+506.902	to actually save some energy to move forward.
+510.059	So we may have developed the technology
+514.21	which is very efficient for pulling something long and heavy,
+516.877	but the idea is, what is the purpose of technology
+521.094	if it doesn't reach the right hands?
+523.04	Normal technology or innovation happens like this:
+525.986	Somebody has an interesting idea,
+528.416	some other scientist or engineer,
+530.378	they take it to the next level, they make a theory about it
+532.882	and maybe they patent it,
+534.138	and then some industry will make a contract
+536.674	of exclusivity to manufacture and sell it,
+539.818	and then, eventually, a buyer will buy it,
+541.914	and we hope that they are going to use [it] for a good purpose.
+544.682	What we really want is that this innovation happens
+548.378	continuously. The inventor and engineers
+550.714	and also the manufacturers and everybody
+552.45	works at the same time, but this would be sterile
+554.834	if this was happening in a parallel and uncrossed process.
+558.466	What you really want is not a sequential,
+560.506	not parallel development.
+561.898	You want to have a network of innovation.
+563.507	You want everybody, like we're doing now,
+565.586	to work at the same time, and that can only happen
+568.755	if these people all together decide to share the information,
+572.146	and that's exactly what open hardware is about.
+575.086	It's to replace competition by collaboration.
+578.755	It's to transform any new product into a new market.
+582.906	So what is open hardware?
+585.347	Essentially, open hardware is a license.
+587.13	It's just an intellectual property setup.
+589.202	It means that everybody is free to use,
+592.226	modify and distribute, and in exchange
+595.379	we only ask for two things:
+596.657	The name is credited -- the name of the project --
+598.752	and also the people who make improvement,
+601.488	they share back with the community.
+602.816	So it's a very simple condition.
+604.152	And I started this project alone in a garage in New Orleans,
+608.176	but quickly after I wanted to publish and share
+610.352	this information, so I made a Kickstarter,
+612.096	which is a crowd-fundraising platform,
+614.336	and in about one month we fundraised 30,000 dollars.
+616.768	With this money, I hired a team of young engineers
+620.08	from all over the world, and we rented a factory
+622.608	in Rotterdam in the Netherlands.
+624.128	We were peer-learning, we were engineering,
+627.289	we were making things, prototyping,
+630.472	but most importantly we were trying our prototypes
+632.697	in the water as often as possible,
+634.392	to fail as quickly as possible, to learn from.
+637.544	This is a proud member of Protei from Korea,
+640.056	and on the right side, this is a multiple-masts
+642.516	design proposed by a team in Mexico.
+644.449	This idea really appealed to Gabriella Levine
+647.634	in New York, and so she decided to prototype
+650.229	this idea that she saw, and she documented
+652.759	every step of the process,
+654.188	and she published it on Instructables,
+656.437	which is a website for sharing inventions.
+658.669	Less than one week after,
+660.564	this is a team in Eindhoven, it's a school of engineering.
+664.574	They made it, but they eventually published
+666.904	a simplified design.
+668.028	They also made it into an Instructable,
+669.957	and in less than one week, they had
+671.692	almost 10,000 views, and they got many new friends.
+674.452	We're working on also simpler technology,
+677.356	not that complex, with younger people
+679.307	and also older people,
+680.876	like this dinosaur is from Mexico. (Laughter)
+684.027	So Protei is now an international network
+686.844	of innovation for selling technology
+689.692	using this shape-shifting hull.
+691.484	And what puts us together is that we have a common,
+695.519	at least, global understanding
+698.308	"of what the word ""business"" is, or what it should be."
+701.38	This is how most work today.
+703.613	Business as usual is saying, what's most important
+705.987	is to make lots of profit, and you'll be using
+708.226	technology for that, and people will be your work force,
+711.051	instrumentalized,
+712.299	and environment is usually the last priority.
+714.971	It will be just a way to, say, greenwash your audience
+718.849	and, say, increase your price tag.
+721.08	What we're trying to do, or what we believe,
+723.609	because this is how we believe the world really works,
+726.025	is that without the environment you have nothing.
+728.195	We have the people so we need to protect each other, yes,
+731.08	and we're a technology company,
+732.744	and profit is necessary to make this happen. (Applause)
+737.929	Thank you very much. (Applause)
+741.534	If we have the courage to understand or accept
+745.615	that this actually how the world really works,
+747.535	and this is the order of priority that we need to choose,
+750.552	then it makes obvious why we need
+752.693	to choose open hardware for developing environmental
+755.032	technology, because we need to share information.
+756.912	What's next for us?
+758.992	So, this small machine that you've seen,
+761.527	we're hoping to make small toys like
+763.671	one-meter remote control Protei that you can upgrade --
+767.164	so replace the remote control parts by Androids,
+770.15	so the mobile phone, and Arduino micro-controller,
+773.929	so you could be controlling this
+775.152	from your mobile phone, your tablet.
+776.64	Then what we want to do is create six-meter versions
+780.206	so we can test the maximum performance of these machines,
+782.534	so we can go at very, very high speed.
+784.098	So imagine yourself.
+785.361	You are laying down in a flexible torpedo,
+788.546	sailing at high speed,
+790.04	controlling the shape of the hull with your legs
+791.885	and controlling the sail with your arms.
+794.547	So that's what we're looking for developing. (Applause)
+798.872	And we replace the human being --
+801.086	to go, for example, for measuring radioactivity,
+803.23	you don't want a human to be sailing those robots --
+805.409	with batteries, motors, micro-controllers and sensors.
+808.744	This is what our teammates, we dream of at night.
+812.678	We hope that we can sometime clean up oil spills,
+815.33	or we can gather or collect plastic in the ocean,
+819.307	or we can have swarms of our machines
+822.741	controlled by multi-player video game engines
+825.923	to control many of these machines,
+827.874	to monitor coral reefs
+829.625	or to monitor fisheries.
+831.764	Our hope is that we can use open hardware technology
+836.254	to better understand and protect our oceans.
+839.785	Thank you very much. (Applause)
+843.497	(Applause)

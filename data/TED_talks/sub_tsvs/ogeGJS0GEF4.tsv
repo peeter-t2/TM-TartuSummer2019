@@ -1,0 +1,408 @@
+startsecond	text
+12.534	Back in 2003,
+15.654	the UK government carried out a survey.
+19.314	And it was a survey that measured
+19.314	levels of numeracy
+22.487	in the population.
+23.748	And they were shocked to find out
+25.415	that for every 100 working age
+25.415	adults in the country,
+32.712	Now, Level 1 numeracy skills --
+32.712	that's low-end GCSE score.
+37.23	It's the ability to deal with fractions,
+37.23	percentages and decimals.
+40.502	So this figure prompted
+40.502	a lot of hand-wringing in Whitehall.
+45.154	Policies were changed,
+46.806	investments were made,
+48.552	and then they ran
+48.552	the survey again in 2011.
+51.614	So can you guess
+51.614	what happened to this number?
+55.841	It went up to 49.
+57.309	(Laughter)
+58.782	And in fact, when I reported
+58.782	this figure in the FT,
+61.255	one of our readers joked and said,
+62.95	"""This figure is only shocking"
+62.95	"to 51 percent of the population."""
+66.735	(Laughter)
+69.045	But I preferred, actually,
+69.045	the reaction of a schoolchild
+72.226	when I presented
+72.226	at a school this information,
+75.345	who raised their hand and said,
+76.9	"""How do we know that the person"
+76.9	who made that number
+79.44	"isn't one of the 49 percent either?"""
+81.279	(Laughter)
+82.557	So clearly, there's a numeracy issue,
+86.631	because these are
+86.631	important skills for life,
+88.765	and a lot of the changes
+88.765	that we want to introduce in this century
+92.656	involve us becoming
+92.656	more comfortable with numbers.
+95.121	Now, it's not just an English problem.
+96.993	OECD this year released some figures
+96.993	looking at numeracy in young people,
+101.947	and leading the way, the USA --
+104.751	nearly 40 percent of young people
+104.751	in the US have low numeracy.
+109.445	Now, England is there too,
+110.766	but there are seven OECD countries
+110.766	with figures above 20 percent.
+116.323	That is a problem,
+116.323	because it doesn't have to be that way.
+119.106	If you look at the far end of this graph,
+121.138	you can see the Netherlands and Korea
+121.138	are in single figures.
+124.122	So there's definitely a numeracy
+124.122	problem that we want to address.
+129.33	Now, as useful as studies like these are,
+132.284	I think we risk herding people
+132.284	inadvertently into one of two categories;
+137.708	that there are two kinds of people:
+139.508	those people that are comfortable
+139.508	with numbers, that can do numbers,
+143.881	and the people who can't.
+146.141	And what I'm trying
+146.141	to talk about here today
+148.266	is to say that I believe
+148.266	that is a false dichotomy.
+151.332	It's not an immutable pairing.
+153.224	I think you don't have to have
+153.224	tremendously high levels of numeracy
+156.896	to be inspired by numbers,
+158.648	and that should be the starting point
+158.648	to the journey ahead.
+162.207	And one of the ways in which
+162.207	we can begin that journey, for me,
+166.542	is looking at statistics.
+168.292	Now, I am the first to acknowledge
+168.292	that statistics has got somewhat
+171.811	of an image problem.
+173.153	(Laughter)
+174.224	It's the part of mathematics
+175.78	that even mathematicians
+175.78	don't particularly like,
+178.863	because whereas the rest of maths
+178.863	is all about precision and certainty,
+182.899	statistics is almost the reverse of that.
+185.613	But actually, I was a late convert
+185.613	to the world of statistics myself.
+190.292	If you'd asked my undergraduate professors
+192.398	what two subjects would I be least likely
+192.398	to excel in after university,
+197.181	they'd have told you statistics
+197.181	and computer programming,
+199.972	and yet here I am, about to show you
+199.972	some statistical graphics
+202.935	that I programmed.
+204.565	So what inspired that change in me?
+206.344	What made me think that statistics
+206.344	was actually an interesting thing?
+210.016	It's really because
+210.016	statistics are about us.
+212.689	If you look at the etymology
+212.689	of the word statistics,
+215.295	it's the science of dealing with data
+217.928	about the state or the community
+217.928	that we live in.
+220.382	So statistics are about us as a group,
+223.76	not us as individuals.
+225.459	And I think as social animals,
+226.953	we share this fascination about how
+226.953	we as individuals relate to our groups,
+230.921	to our peers.
+232.333	And statistics in this way
+232.333	are at their most powerful
+235.467	when they surprise us.
+237.297	And there's been some really wonderful
+237.297	surveys carried out recently
+240.528	by Ipsos MORI in the last few years.
+242.266	They did a survey of over
+242.266	1,000 adults in the UK,
+244.998	and said, for every 100 people
+244.998	in England and Wales,
+248.802	how many of them are Muslim?
+250.696	Now the average answer from this survey,
+253.366	which was supposed to be representative
+253.366	of the total population, was 24.
+256.802	That's what people thought.
+260.502	British people think 24 out of every 100
+260.502	people in the country are Muslim.
+264.165	Now, official figures reveal
+264.165	that figure to be about five.
+269.552	So there's this big variation
+269.552	between what we think, our perception,
+273.563	and the reality as given by statistics.
+275.625	And I think that's interesting.
+277.193	What could possibly be causing
+277.193	that misperception?
+281.032	And I was so thrilled with this study,
+282.91	I started to take questions out
+282.91	in presentations. I was referring to it.
+286.414	Now, I did a presentation
+287.656	at St. Paul's School for Girls
+287.656	in Hammersmith,
+289.99	and I had an audience rather like this,
+292.154	except it was comprised entirely
+292.154	of sixth-form girls.
+296.046	"And I said, ""Girls,"
+299.418	how many teenage girls do you think
+299.418	the British public think
+303.985	"get pregnant every year?"""
+305.757	And the girls were apoplectic when I said
+309.273	the British public think that 15
+309.273	out of every 100 teenage girls
+313.21	get pregnant in the year.
+315.249	And they had every right to be angry,
+317.504	because in fact, I'd have to have
+317.504	closer to 200 dots
+320.286	before I could color one in,
+321.88	in terms of what
+321.88	the official figures tell us.
+324.419	And rather like numeracy,
+324.419	this is not just an English problem.
+328.243	Ipsos MORI expanded the survey
+328.243	in recent years to go across the world.
+332.771	And so, they asked Saudi Arabians,
+335.745	for every 100 adults in your country,
+338.29	how many of them are overweight or obese?
+342.346	And the average answer from the Saudis
+342.346	was just over a quarter.
+348.222	That's what they thought.
+349.448	Just over a quarter of adults
+349.448	are overweight or obese.
+352.04	The official figures show, actually,
+352.04	it's nearer to three-quarters.
+356.845	(Laughter)
+358.325	So again, a big variation.
+360.641	And I love this one: they asked in Japan,
+360.641	they asked the Japanese,
+365.111	for every 100 Japanese people,
+367.095	how many of them live in rural areas?
+370.341	The average was about a 50-50 split,
+370.341	just over halfway.
+375.266	They thought 56 out of every 100
+375.266	Japanese people lived in rural areas.
+379.437	The official figure is seven.
+382.079	So extraordinary variations,
+382.079	and surprising to some,
+386.553	but not surprising to people
+386.553	who have read the work
+388.966	of Daniel Kahneman, for example,
+388.966	the Nobel-winning economist.
+393.382	He and his colleague, Amos Tversky,
+393.382	spent years researching this disjoint
+398.498	between what people perceive
+398.498	and the reality,
+401.667	the fact that people are actually
+401.667	pretty poor intuitive statisticians.
+405.442	And there are many reasons for this.
+407.226	Individual experiences, certainly,
+407.226	can influence our perceptions,
+410.365	but so, too, can things like the media
+410.365	reporting things by exception,
+414.347	rather than what's normal.
+416.675	Kahneman had a nice way
+416.675	of referring to that.
+418.825	"He said, ""We can be blind"
+418.825	"to the obvious"" --"
+420.934	so we've got the numbers wrong --
+422.596	"""but we can be blind"
+422.596	"to our blindness about it."""
+424.942	And that has enormous
+424.942	repercussions for decision making.
+428.232	So at the statistics office
+428.232	while this was all going on,
+431.108	I thought this was really interesting.
+433.044	I said, this is clearly a global problem,
+435.078	but maybe geography is the issue here.
+437.537	These were questions that were all about,
+437.537	how well do you know your country?
+441.47	So in this case, it's how well
+441.47	do you know 64 million people?
+445.487	Not very well, it turns out.
+445.487	I can't do that.
+448.243	So I had an idea,
+449.591	which was to think about
+449.591	this same sort of approach
+452.738	but to think about it
+452.738	in a very local sense.
+454.867	Is this a local?
+456.082	If we reframe the questions and say,
+458.047	how well do you know your local area,
+460.193	would your answers be any more accurate?
+463.637	So I devised a quiz:
+465.423	How well do you know your area?
+468.274	It's a simple Web app.
+470.187	You put in a post code
+471.394	and then it will ask you questions
+471.394	based on census data
+474.125	for your local area.
+476.125	And I was very conscious
+476.125	in designing this.
+478.272	I wanted to make it open
+478.272	to the widest possible range of people,
+482.405	not just the 49 percent
+482.405	who can get the numbers.
+485.257	I wanted everyone to engage with it.
+487.036	So for the design of the quiz,
+488.585	I was inspired by the isotypes
+492.224	of Otto Neurath from the 1920s and '30s.
+494.85	Now, these are methods
+494.85	for representing numbers
+499.222	using repeating icons.
+501.46	And the numbers are there,
+501.46	but they sit in the background.
+504.649	So it's a great way
+504.649	of representing quantity
+507.396	without resorting to using terms
+507.396	"like ""percentage,"""
+510.404	"""fractions"" and ""ratios."""
+511.658	So here's the quiz.
+514.13	The layout of the quiz is,
+515.801	you have your repeating icons
+515.801	on the left-hand side there,
+518.644	and a map showing you the area
+518.644	we're asking you questions about
+521.791	on the right-hand side.
+522.982	There are seven questions.
+524.287	Each question, there's a possible answer
+524.287	between zero and a hundred,
+528.204	and at the end of the quiz,
+529.577	you get an overall score
+529.577	between zero and a hundred.
+532.819	And so because this is TEDxExeter,
+534.927	I thought we would have
+534.927	a quick look at the quiz
+537.276	for the first few questions of Exeter.
+539.609	And so the first question is:
+541.038	For every 100 people,
+541.038	how many are aged under 16?
+544.604	Now, I don't know Exeter very well
+544.604	at all, so I had a guess at this,
+548.228	but it gives you an idea
+548.228	of how this quiz works.
+550.813	You drag the slider
+550.813	to highlight your icons,
+554.543	"and then just click ""Submit"" to answer,"
+556.802	and we animate away the difference
+556.802	between your answer and reality.
+560.489	And it turns out, I was a pretty
+560.489	terrible guess: five.
+564.969	How about the next question?
+566.417	This is asking about
+566.417	what the average age is,
+568.597	so the age at which half
+568.597	the population are younger
+571.066	and half the population are older.
+572.764	And I thought 35 -- that sounds
+572.764	middle-aged to me.
+576.138	(Laughter)
+580.026	Actually, in Exeter,
+580.026	it's incredibly young,
+582.156	and I had underestimated the impact
+582.156	of the university in this area.
+586.718	The questions get harder
+586.718	as you go through.
+588.773	So this one's now asking
+588.773	about homeownership:
+591.775	For every 100 households, how many
+591.775	are owned with a mortgage or loan?
+595.498	And I hedged my bets here,
+596.802	because I didn't want to be
+596.802	more than 50 out on the answer.
+599.924	(Laughter)
+601.968	And actually, these get harder,
+601.968	these questions,
+604.458	because when you're in an area,
+604.458	when you're in a community,
+607.341	things like age -- there are clues
+607.341	to whether a population is old or young.
+612.615	Just by looking around
+612.615	the area, you can see it.
+614.984	Something like homeownership
+614.984	is much more difficult to see,
+618.399	so we revert to our own heuristics,
+621.031	our own biases about how many people
+621.031	we think own their own homes.
+625.506	Now the truth is,
+625.506	when we published this quiz,
+629.18	the census data that it's based on
+629.18	was already a few years old.
+632.74	We've had online applications
+632.74	that allow you to put in a post code
+636.333	and get statistics back for years.
+638.451	So in some senses,
+639.664	this was all a little bit old
+639.664	and not necessarily new.
+643.237	But I was interested to see
+643.237	what reaction we might get
+646.9	by gamifying the data
+646.9	in the way that we have,
+649.641	by using animation
+651.072	and playing on the fact
+651.072	that people have their own preconceptions.
+655.328	It turns out, the reaction was, um ...
+660.148	was more than I could have hoped for.
+662.1	It was a long-held ambition of mine
+662.1	to bring down a statistics website
+665.505	due to public demand.
+666.937	(Laughter)
+668.761	This URL contains the words
+668.761	"""statistics,"" ""gov"" and ""UK,"""
+672.249	which are three of people's least
+672.249	favorite words in a URL.
+675.515	And the amazing thing about this
+675.515	was that the website came down
+679.524	at quarter to 10 at night,
+681.641	because people were actually
+681.641	engaging with this data
+684.876	of their own free will,
+686.439	using their own personal time.
+688.498	I was very interested to see
+691.009	that we got something like
+691.009	a quarter of a million people
+694.746	playing the quiz within the space
+694.746	of 48 hours of launching it.
+698.042	And it sparked an enormous discussion
+698.042	online, on social media,
+701.993	which was largely dominated
+704.054	by people having fun
+704.054	with their misconceptions,
+708.071	which is something that
+708.071	I couldn't have hoped for any better,
+711.154	in some respects.
+712.338	I also liked the fact that people started
+712.338	sending it to politicians.
+715.588	How well do you know the area
+715.588	you claim to represent?
+718.201	(Laughter)
+719.387	And then just to finish,
+721.812	going back to the two kinds of people,
+724.166	I thought it would be
+724.166	really interesting to see
+726.447	how people who are good with numbers
+726.447	would do on this quiz.
+729.286	The national statistician
+729.286	of England and Wales, John Pullinger,
+732.326	you would expect he would be pretty good.
+735.344	He got 44 for his own area.
+737.817	(Laughter)
+740.309	Jeremy Paxman -- admittedly,
+740.309	after a glass of wine -- 36.
+745.871	Even worse.
+747.356	It just shows you that the numbers
+747.356	can inspire us all.
+750.581	They can surprise us all.
+751.865	So very often, we talk about statistics
+753.928	as being the science of uncertainty.
+755.914	My parting thought for today is:
+757.72	actually, statistics is the science of us.
+760.779	And that's why we should
+760.779	be fascinated by numbers.
+763.591	Thank you very much.
+764.805	(Applause)

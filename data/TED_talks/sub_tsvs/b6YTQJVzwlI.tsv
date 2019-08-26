@@ -1,0 +1,346 @@
+startsecond	text
+15.26	We're 25, 26 years after
+17.26	the advent of the Macintosh,
+19.26	which was an astoundingly seminal event
+21.26	in the history
+23.26	of human-machine interface
+25.26	and in computation in general.
+27.26	It fundamentally changed the way
+29.26	that people thought about computation,
+31.26	thought about computers,
+33.26	how they used them and who and how many people were able to use them.
+36.26	It was such a radical change, in fact,
+38.26	that the early Macintosh development team
+40.26	in '82, '83, '84
+42.26	had to write an entirely new operating system from the ground up.
+45.26	Now, this is an interesting little message,
+47.26	and it's a lesson that has since, I think,
+49.26	been forgotten or lost or something,
+51.26	and that is, namely, that the OS is the interface.
+54.26	The interface is the OS.
+56.26	It's like the land and the king (i.e. Arthur) they're inseparable, they are one.
+59.26	And to write a new operating system was not a capricious matter.
+62.26	It wasn't just a matter of tuning up some graphics routines.
+65.26	There were no graphics routines. There were no mouse drivers.
+68.26	So it was a necessity.
+70.26	But in the quarter-century since then,
+72.26	we've seen all of the fundamental
+74.26	supporting technologies go berserk.
+76.26	So memory capacity and disk capacity
+79.26	have been multiplied by something between 10,000 and a million.
+82.26	Same thing for processor speeds.
+84.26	Networks, we didn't have networks at all
+86.26	at the time of the Macintosh's introduction,
+89.26	and that has become the single most salient aspect
+91.26	of how we live with computers.
+93.26	And, of course, graphics: Today
+98.26	buys you more graphics power
+100.26	than you could have gotten for a million bucks from SGI only a decade ago.
+103.26	So we've got that incredible ramp-up.
+105.26	Then, on the side, we've got the Web
+107.26	and, increasingly, the cloud,
+109.26	which is fantastic,
+111.26	but also -- in the regard in which an interface is fundamental --
+114.26	kind of a distraction.
+116.26	So we've forgotten to invent new interfaces.
+118.26	Certainly we've seen in recent years a lot of change in that regard,
+120.26	and people are starting to wake up about that.
+124.26	So what happens next? Where do we go from there?
+126.26	The problem, as we see it,
+128.26	"has to do with a single, simple word: ""space,"""
+130.26	or a single, simple phrase:
+132.26	"""real world geometry."""
+134.26	Computers and the programming languages
+136.26	that we talk to them in, that we teach them in,
+138.26	are hideously insensate when it comes to space.
+141.26	They don't understand real world space.
+143.26	It's a funny thing because the rest of us occupy it quite frequently and quite well.
+146.26	They also don't understand time, but that's a matter for a separate talk.
+149.26	So what happens if you start to
+151.26	explain space to them?
+156.26	One thing you might get is something like the Luminous Room.
+159.26	The Luminous Room is a system
+161.26	in which it's considered that
+163.26	input and output spaces are co-located.
+165.26	That's a strangely simple,
+167.26	and yet unexplored idea, right?
+169.26	When you use a mouse, your hand is down here on the mouse pad.
+172.26	It's not even on the same plane as what you're talking about:
+174.26	The pixels are up on the display.
+176.26	So here was a room in which all the walls, floors, ceilings,
+179.26	pets, potted plants, whatever was in there,
+181.26	were capable, not only of display but of sensing as well.
+184.26	And that means input and output are in the same space
+186.26	enabling stuff like this.
+188.26	That's a digital storage in a physical container.
+190.26	The contract is the same
+192.26	as with real word objects in real world containers.
+195.26	Has to come back out, whatever you put in.
+198.26	This little design experiment
+200.26	that was a small office here knew a few other tricks as well.
+203.26	If you presented it with a chess board,
+205.26	it tried to figure out what you might mean by that.
+207.26	And if there was nothing for them to do,
+209.26	the chess pieces eventually got bored
+211.26	and hopped away.
+213.26	The academics who were overseeing this work
+216.26	thought that that was too frivolous,
+218.26	so we built deadly serious applications
+220.26	like this optics prototyping workbench
+222.26	in which a toothpaste cap on a cardboard box
+225.26	becomes a laser.
+227.26	The beam splitters and lenses are represented by physical objects,
+230.26	and the system projects down the laser beam path.
+233.26	So you've got an interface that has no interface.
+235.26	You operate the world as you operate the real world,
+238.26	which is to say, with your hands.
+240.26	Similarly, a digital wind tunnel with digital wind
+242.26	flowing from right to left --
+244.26	not that remarkable in a sense; we didn't invent the mathematics.
+247.26	But if you displayed that on a CRT or flat panel display,
+249.26	it would be meaningless to hold up an arbitrary object,
+252.26	a real world object in that.
+254.26	Here, the real world merges with the simulation.
+258.26	And finally, to pull out all the stops,
+260.26	this is a system called Urp, for urban planners,
+263.26	in which we give architects and urban planners back
+266.26	the models that we confiscated
+268.26	when we insisted that they use CAD systems.
+270.26	And we make the machine meet them half way.
+272.26	It projects down digital shadows, as you see here.
+275.26	And if you introduce tools like this inverse clock,
+278.26	then you can control the sun's position in the sky.
+280.26	That's 8 a.m. shadows.
+282.26	They get a little shorter at 9 a.m.
+284.26	There you are, swinging the sun around.
+286.26	Short shadows at noon and so forth.
+290.26	And we built up a series of tools like this.
+293.26	There are inter-shadowing studies
+295.26	that children can operate,
+297.26	even though they don't know anything about urban planning:
+299.26	To move a building, you simply reach out your hand and you move the building.
+302.26	A material wand makes the building
+304.26	into a sort of Frank Gehry thing that reflects light in all directions.
+307.26	Are you blinding passers by and motorists on the freeways?
+310.26	A zoning tool connects distant structures, a building and a roadway.
+313.26	Are you going to get sued by the zoning commission? And so forth.
+317.26	Now, if these ideas seem familiar
+319.26	or perhaps even a little dated,
+321.26	that's great; they should seem familiar.
+323.26	This work is 15 years old.
+326.26	This stuff was undertaken at MIT and the Media Lab
+329.26	under the incredible direction of Professor Hiroshi Ishii,
+332.26	director of the Tangible Media Group.
+334.26	But it was that work that was seen
+336.26	by Alex McDowell,
+338.26	one of the world's legendary production designers.
+341.26	But Alex was preparing a little, sort of obscure, indie, arthouse film
+344.26	"called ""Minority Report"" for Steven Spielberg,"
+347.26	and invited us to come out from MIT
+349.26	and design the interfaces
+352.26	that would appear in that film.
+355.26	And the great thing about it was
+357.26	that Alex was so dedicated to the idea of verisimilitude,
+360.26	the idea that the putative 2054
+363.26	that we were painting in the film be believable,
+366.26	that he allowed us to take on that design work
+368.26	as if it were an R&amp;D effort.
+370.26	And the result is sort of
+372.26	gratifyingly perpetual.
+374.26	"People still reference those sequences in ""Minority Report"""
+377.26	when they talk about new UI design.
+379.26	So this led full circle, in a strange way,
+381.26	to build these ideas into what we believe
+384.26	is the necessary future of human machine interface:
+387.26	the Spatial Operating Environment, we call it.
+392.26	So here we have a bunch of stuff, some images.
+395.26	And, using a hand,
+397.26	we can actually exercise six degrees of freedom,
+400.26	six degrees of navigational control.
+403.26	And it's fun to fly through Mr. Beckett's eye.
+405.26	And you can come back out
+407.26	through the scary orangutan.
+409.26	And that's all well and good.
+412.26	Let's do something a little more difficult.
+415.26	Here, we have a whole bunch of disparate images.
+417.26	We can fly around them.
+419.26	So navigation is a fundamental issue.
+421.26	You have to be able to navigate in 3D.
+424.26	Much of what we want computers to help us with in the first place
+427.26	is inherently spatial.
+429.26	And the part that isn't spatial can often be spatialized
+431.26	to allow our wetware to make greater sense of it.
+434.26	Now we can distribute this stuff in many different ways.
+437.26	So we can throw it out like that. Let's reset it.
+439.26	We can organize it this way.
+441.26	And, of course, it's not just about navigation,
+444.26	but about manipulation as well.
+446.26	So if we don't like stuff,
+448.26	or we're intensely curious about
+450.26	Ernst Haeckel's scientific falsifications,
+453.26	we can pull them out like that.
+455.26	And then if it's time for analysis, we can pull back a little bit
+458.26	and ask for a different distribution.
+463.26	Let's just come down a bit
+466.26	and fly around.
+469.26	So that's a different way to look at stuff.
+472.26	If you're of a more analytical nature
+474.26	then you might want, actually, to look at this
+476.26	as a color histogram.
+479.26	So now we've got the stuff color-sorted,
+482.26	angle maps onto color.
+485.26	And now, if we want to select stuff,
+487.26	3D, space,
+489.26	the idea that we're tracking hands in real space
+492.26	becomes really important because we can reach in,
+495.26	not in 2D, not in fake 2D, but in actual 3D.
+497.26	Here are some selection planes.
+499.26	And we'll perform this Boolean operation
+502.26	because we really love yellow and tapirs on green grass.
+514.26	So, from there to the world of real work.
+517.26	Here's a logistics system,
+519.26	a small piece of one that we're currently building.
+521.26	There're a lot of elements.
+523.26	And one thing that's very important is to combine traditional tabular data
+526.26	with three-dimensional and geospatial information.
+529.26	So here's a familiar place.
+532.26	And we'll bring this back here for a second.
+535.26	Maybe select a little bit of that.
+538.26	And bring out this graph.
+541.26	And we should, now,
+543.26	be able to fly in here
+546.26	and have a closer look.
+549.26	These are logistics elements
+551.26	that are scattered across the United States.
+560.26	One thing that three-dimensional interactions
+563.26	and the general idea of imbuing
+565.26	computation with space affords you
+567.26	is a final destruction of that unfortunate
+569.26	one-to-one pairing between human beings and computers.
+572.26	That's the old way, that's the old mantra:
+574.26	one machine, one human, one mouse, one screen.
+576.26	Well, that doesn't really cut it anymore.
+579.26	In the real world, we have people who collaborate;
+582.26	we have people who have to work together,
+585.26	and we have many different displays.
+588.26	And we might want to look at these various images.
+591.26	We might want to ask for some help.
+593.26	The author of this new pointing device
+596.26	is sitting over there,
+598.26	so I can pull this from there to there.
+600.26	These are unrelated machines, right?
+603.26	So the computation is space soluble and network soluble.
+606.26	So I'm going to leave that over there
+608.26	because I have a question for Paul.
+610.26	Paul is the designer of this wand, and maybe its easiest
+612.26	for him to come over here and tell me in person what's going on.
+615.26	So let me get some of these out of the way.
+620.26	Let's pull this apart:
+623.26	I'll go ahead and explode it.
+626.26	Kevin, can you help?
+633.26	Let me see if I can help us find the circuit board.
+638.26	Mind you, it's a sort of gratuitous field-stripping exercise,
+641.26	but we do it in the lab all the time.
+644.26	All right.
+646.26	So collaborative work, whether it's immediately co-located
+649.26	or distant and distinct, is always important.
+652.26	And again, that stuff
+654.26	needs to be undertaken in the context of space.
+659.26	And finally, I'd like to leave you with a glimpse
+662.26	that takes us back to the world of imagery.
+664.26	This is a system called TAMPER,
+666.26	which is a slightly whimsical look
+668.26	at what the future of editing
+670.26	and media manipulation systems might be.
+672.26	We at Oblong believe that media should be
+674.26	accessible in much more fine-grained form.
+677.26	So we have a large number of movies
+679.26	stuck inside here.
+681.26	And let's just pick out a few elements.
+684.26	We can zip through them
+687.26	as a possibility.
+689.26	We can grab elements off the front,
+691.26	where upon they reanimate, come to life,
+694.26	and drag them down onto the table here.
+699.26	We'll go over to Jacques Tati here
+702.26	and grab our blue friend
+705.26	and put him down on the table as well.
+708.26	We may need more than one.
+713.26	And we probably need,
+715.26	well, we probably need a cowboy
+717.26	to be quite honest.
+719.26	(Laughter)
+721.26	Yeah, let's
+724.26	take that one.
+726.26	(Laughter)
+728.26	You see, cowboys and French farce people
+730.26	don't go well together, and the system knows that.
+735.26	Let me leave with one final thought,
+737.26	and that is that
+739.26	one of the greatest English language writers
+741.26	of the last three decades
+743.26	suggested that great art is always a gift.
+746.26	And he wasn't talking about whether the novel costs 24.95 [dollars],
+749.26	or whether you have to spring 70 million bucks
+751.26	to buy the stolen Vermeer;
+753.26	he was talking about the circumstances of its creation
+755.26	and of its existence.
+757.26	And I think that it's time that we asked
+759.26	for the same from technology.
+761.26	Technology is capable of
+763.26	expressing and being imbued with
+766.26	a certain generosity,
+768.26	and we need to demand that, in fact.
+770.26	For some of this kind of technology,
+773.26	ground center is
+776.26	a combination of design, which is crucially important.
+778.26	We can't have advances in technology any longer
+781.26	unless design is integrated from the very start.
+784.26	And, as well, as of efficacy, agency.
+787.26	We're, as human beings, the creatures that create,
+790.26	and we should make sure that our machines aid us in that task
+793.26	and are built in that same image.
+796.26	So I will leave you with that. Thank you.
+798.26	(Applause)
+813.26	Chris Anderson: So to ask the obvious question --
+816.26	actually this is from Bill Gates --
+818.26	when? (John Underkoffler: When?)
+821.26	CA: When real? When for us, not just in a lab and on a stage?
+825.26	Can it be for every man, or is this just for corporations and movie producers?
+828.26	JU: No, it has to be for every human being.
+830.26	That's our goal entirely.
+832.26	We won't have succeeded
+834.26	unless we take that next big step.
+836.26	I mean it's been 25 years.
+838.26	Can there really be only one interface? There can't.
+840.26	CA: But does that mean that, at your desk or in your home,
+842.26	you need projectors, cameras?
+845.26	You know, how can it work?
+847.26	JU: No, this stuff will be built into the bezel of every display.
+849.26	It'll be built into architecture.
+851.26	The gloves go away in a matter of months or years.
+854.26	So this is the inevitability about it.
+856.26	CA: So, in your mind, five years time,
+858.26	someone can buy this as part of
+860.26	a standard computer interface?
+862.26	JU: I think in five years time when you buy a computer,
+865.26	you'll get this.
+867.26	CA: Well that's cool.
+869.26	(Applause)
+873.26	The world has a habit of surprising us as to how these things are actually used.
+876.26	What do you think, what in your mind is the first killer app for this?
+879.26	JU: That's a good question, and we ask ourselves that every day.
+882.26	At the moment, our early-adopter customers --
+885.26	and these systems are deployed out in the real world --
+888.26	do all the big data intensive, data heavy problems with it.
+891.26	So, whether it's logistics and supply chain management
+893.26	or natural gas and resource extraction,
+896.26	financial services, pharmaceuticals, bioinformatics,
+899.26	those are the topics right now, but that's not a killer app.
+901.26	And I understand what you're asking.
+903.26	CA: C'mon, c'mon. Martial arts, games. C'mon.
+905.26	(Laughter)
+907.26	John, thank you for making science-fiction real.
+910.26	JU: It's been a great pleasure.
+912.26	Thank you to you all.
+914.26	(Applause)

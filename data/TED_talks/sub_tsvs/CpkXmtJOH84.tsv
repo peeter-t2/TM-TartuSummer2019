@@ -1,0 +1,321 @@
+startsecond	text
+12.368	We have a global health challenge
+14.505	in our hands today,
+16.197	and that is that the way we currently
+19.257	discover and develop new drugs
+22.182	is too costly, takes far too long,
+26.36	and it fails more often than it succeeds.
+30.074	It really just isn't working, and that means
+33.451	that patients that badly need new therapies
+36.498	are not getting them,
+38.209	and diseases are going untreated.
+41.707	We seem to be spending more and more money.
+44.79	So for every billion dollars we spend in R&amp;D,
+48.886	we're getting less drugs approved into the market.
+52.715	More money, less drugs. Hmm.
+55.932	So what's going on here?
+57.852	Well, there's a multitude of factors at play,
+60.447	but I think one of the key factors
+62.468	is that the tools that we currently have
+64.865	available to test whether a drug is going to work,
+68.948	whether it has efficacy,
+70.337	or whether it's going to be safe
+72.103	before we get it into human clinical trials,
+75.655	are failing us. They're not predicting
+77.806	what's going to happen in humans.
+81.034	And we have two main tools available
+83.757	at our disposal.
+85.771	They are cells in dishes and animal testing.
+89.812	Now let's talk about the first one, cells in dishes.
+93.132	So, cells are happily functioning in our bodies.
+96.285	We take them and rip them out
+98.34	of their native environment,
+98.34	throw them in one of these dishes,
+101.289	and expect them to work.
+102.874	Guess what. They don't.
+105.067	They don't like that environment
+106.729	because it's nothing like
+108.361	what they have in the body.
+111.037	What about animal testing?
+113.108	Well, animals do and can provide
+115.993	extremely useful information.
+118.255	They teach us about what happens
+119.964	in the complex organism.
+122.293	We learn more about the biology itself.
+125.301	However, more often than not,
+128.199	animal models fail to predict
+128.199	what will happen in humans
+132.415	when they're treated with a particular drug.
+135.601	So we need better tools.
+137.98	We need human cells,
+139.733	but we need to find a way to keep them happy
+142.483	outside the body.
+144.074	Our bodies are dynamic environments.
+146.98	We're in constant motion.
+148.82	Our cells experience that.
+151.011	They're in dynamic environments in our body.
+153.82	They're under constant mechanical forces.
+156.575	So if we want to make cells happy
+159.031	outside our bodies,
+160.46	we need to become cell architects.
+162.986	We need to design, build and engineer
+167.33	a home away from home for the cells.
+170.561	And at the Wyss Institute,
+172.235	we've done just that.
+174.173	We call it an organ-on-a-chip.
+177.197	And I have one right here.
+178.988	It's beautiful, isn't it?
+178.988	But it's pretty incredible.
+181.803	Right here in my hand is a breathing, living
+186.303	human lung on a chip.
+188.961	And it's not just beautiful.
+191.089	It can do a tremendous amount of things.
+193.529	We have living cells in that little chip,
+197.308	cells that are in a dynamic environment
+199.858	interacting with different cell types.
+202.939	There's been many people
+204.578	trying to grow cells in the lab.
+206.439	They've tried many different approaches.
+209.595	They've even tried to grow
+209.595	little mini-organs in the lab.
+212.222	We're not trying to do that here.
+213.771	We're simply trying to recreate
+215.897	in this tiny chip
+217.474	the smallest functional unit
+220.491	that represents the biochemistry,
+223.045	the function and the mechanical strain
+226.169	that the cells experience in our bodies.
+229.685	So how does it work? Let me show you.
+232.717	We use techniques from the computer chip
+235.351	manufacturing industry
+236.984	to make these structures at a scale
+239.181	relevant to both the cells and their environment.
+242.077	We have three fluidic channels.
+244.141	In the center, we have a porous, flexible membrane
+247.853	on which we can add human cells
+249.916	from, say, our lungs,
+251.26	and then underneath, they had capillary cells,
+253.747	the cells in our blood vessels.
+255.535	And we can then apply mechanical forces to the chip
+259.855	that stretch and contract the membrane,
+262.684	so the cells experience the same mechanical forces
+265.781	that they did when we breathe.
+268.714	And they experience them how they did in the body.
+271.874	There's air flowing through the top channel,
+274.274	and then we flow a liquid that contains nutrients
+277.623	through the blood channel.
+280.462	Now the chip is really beautiful,
+282.834	but what can we do with it?
+284.931	We can get incredible functionality
+287.255	inside these little chips.
+289.006	Let me show you.
+290.512	We could, for example, mimic infection,
+293.143	where we add bacterial cells into the lung.
+296.679	then we can add human white blood cells.
+299.611	White blood cells are our body's defense
+302.202	against bacterial invaders,
+303.57	and when they sense this
+303.57	inflammation due to infection,
+306.739	they will enter from the blood into the lung
+309.596	and engulf the bacteria.
+311.511	Well now you're going to see this happening
+313.759	live in an actual human lung on a chip.
+317.069	We've labeled the white blood cells
+317.069	so you can see them flowing through,
+320.612	and when they detect that infection,
+322.773	they begin to stick.
+324.17	They stick, and then they try to go into the lung
+328.057	side from blood channel.
+329.838	And you can see here, we can actually visualize
+333.527	a single white blood cell.
+337.286	It sticks, it wiggles its way through
+339.542	between the cell layers, through the pore,
+341.857	comes out on the other side of the membrane,
+344.278	and right there, it's going to engulf the bacteria
+347.713	labeled in green.
+349.362	In that tiny chip, you just witnessed
+352.366	one of the most fundamental responses
+355.547	our body has to an infection.
+357.504	It's the way we respond to -- an immune response.
+361.274	It's pretty exciting.
+363.675	Now I want to share this picture with you,
+366.018	not just because it's so beautiful,
+368.656	but because it tells us an enormous
+368.656	amount of information
+371.992	about what the cells are doing within the chips.
+374.589	It tells us that these cells
+376.848	from the small airways in our lungs,
+379.159	actually have these hairlike structures
+380.91	that you would expect to see in the lung.
+382.918	These structures are called cilia,
+384.383	and they actually move the mucus out of the lung.
+387.293	Yeah. Mucus. Yuck.
+388.832	But mucus is actually very important.
+391.272	Mucus traps particulates, viruses,
+393.853	potential allergens,
+395.312	and these little cilia move
+396.913	and clear the mucus out.
+399.163	When they get damaged, say,
+401.075	by cigarette smoke for example,
+403.494	they don't work properly,
+403.494	and they can't clear that mucus out.
+406.302	And that can lead to diseases such as bronchitis.
+410.119	Cilia and the clearance of mucus
+412.766	are also involved in awful diseases like cystic fibrosis.
+417.227	But now, with the functionality
+417.227	that we get in these chips,
+420.777	we can begin to look
+422.601	for potential new treatments.
+425.114	We didn't stop with the lung on a chip.
+427.066	We have a gut on a chip.
+428.95	You can see one right here.
+430.98	And we've put intestinal human cells
+434.206	in a gut on a chip,
+436.111	and they're under constant peristaltic motion,
+438.948	this trickling flow through the cells,
+442.139	and we can mimic many of the functions
+444.697	that you actually would expect to see
+446.96	in the human intestine.
+448.653	Now we can begin to create models of diseases
+452.444	such as irritable bowel syndrome.
+454.854	This is a disease that affects
+456.936	a large number of individuals.
+458.847	It's really debilitating,
+460.621	and there aren't really many good treatments for it.
+464.563	Now we have a whole pipeline
+466.865	of different organ chips
+469.144	that we are currently working on in our labs.
+472.876	Now, the true power of this technology, however,
+476.295	really comes from the fact
+478.42	that we can fluidically link them.
+480.965	There's fluid flowing across these cells,
+482.912	so we can begin to interconnect
+484.991	multiple different chips together
+487.853	to form what we call a virtual human on a chip.
+492.066	Now we're really getting excited.
+495.075	We're not going to ever recreate 
+495.075	a whole human in these chips,
+499.17	but what our goal is is to be able to recreate
+503.339	sufficient functionality
+505.352	so that we can make better predictions
+507.712	of what's going to happen in humans.
+509.926	For example, now we can begin to explore
+512.85	what happens when we put
+512.85	a drug like an aerosol drug.
+516.284	Those of you like me who have asthma,
+516.284	when you take your inhaler,
+519.27	we can explore how that drug comes into your lungs,
+522.196	how it enters the body,
+523.822	how it might affect, say, your heart.
+525.576	Does it change the beating of your heart?
+527.484	Does it have a toxicity?
+529.125	Does it get cleared by the liver?
+531.133	Is it metabolized in the liver?
+533.285	Is it excreted in your kidneys?
+535.176	We can begin to study the dynamic
+537.388	response of the body to a drug.
+540.028	This could really revolutionize
+541.947	and be a game changer
+543.596	for not only the pharmaceutical industry,
+546.534	but a whole host of different industries,
+548.907	including the cosmetics industry.
+551.307	We can potentially use the skin on a chip
+554.189	that we're currently developing in the lab
+556.15	to test whether the ingredients in those products
+558.704	that you're using are actually 
+558.704	safe to put on your skin
+561.987	without the need for animal testing.
+564.676	We could test the safety
+566.62	of chemicals that we are exposed to
+568.873	on a daily basis in our environment,
+570.787	such as chemicals in regular household cleaners.
+574.518	We could also use the organs on chips
+577.72	for applications in bioterrorism
+580.499	or radiation exposure.
+583.07	We could use them to learn more about
+586.42	diseases such as ebola
+589.464	or other deadly diseases such as SARS.
+593.356	Organs on chips could also change
+595.194	the way we do clinical trials in the future.
+598.568	Right now, the average participant
+601.155	in a clinical trial is that: average.
+604.525	Tends to be middle aged, tends to be female.
+607.851	You won't find many clinical trials
+610.323	in which children are involved,
+611.838	yet every day, we give children medications,
+615.385	and the only safety data we have on that drug
+619.131	is one that we obtained from adults.
+622.205	Children are not adults.
+623.999	They may not respond in the same way adults do.
+627.132	There are other things like genetic differences
+629.544	in populations
+630.977	that may lead to at-risk populations
+634.083	that are at risk of having an adverse drug reaction.
+637.52	Now imagine if we could take cells
+637.52	from all those different populations,
+640.919	put them on chips,
+642.827	and create populations on a chip.
+644.791	This could really change the way
+646.629	we do clinical trials.
+648.698	And this is the team and the people
+648.698	that are doing this.
+651.53	We have engineers, we have cell biologists,
+654.787	we have clinicians, all working together.
+658.561	We're really seeing something quite incredible
+660.487	at the Wyss Institute.
+662.092	It's really a convergence of disciplines,
+664.263	where biology is influencing the way we design,
+667.983	the way we engineer, the way we build.
+670.645	It's pretty exciting.
+672.048	We're establishing important industry collaborations
+675.612	such as the one we have with a company
+678.985	that has expertise in large-scale
+678.985	digital manufacturing.
+682.584	They're going to help us make,
+684.603	instead of one of these,
+686.129	millions of these chips,
+687.712	so that we can get them into the hands
+689.381	of as many researchers as possible.
+692.27	And this is key to the potential of that technology.
+696.486	Now let me show you our instrument.
+699.023	This is an instrument that our engineers
+701.012	are actually prototyping right now in the lab,
+703.63	and this instrument is going to give us
+705.939	the engineering controls that we're going to require
+708.398	in order to link 10 or more organ chips together.
+712.566	It does something else that's very important.
+714.795	It creates an easy user interface.
+717.639	So a cell biologist like me can come in,
+720.629	take a chip, put it in a cartridge
+722.637	like the prototype you see there,
+724.569	put the cartridge into the machine
+726.64	just like you would a C.D.,
+728.128	and away you go.
+729.26	Plug and play. Easy.
+732.009	Now, let's imagine a little bit
+734.523	what the future might look like
+735.902	if I could take your stem cells
+738.315	and put them on a chip,
+739.755	or your stem cells and put them on a chip.
+742.974	It would be a personalized chip just for you.
+746.475	Now all of us in here are individuals,
+749.683	and those individual differences mean
+752.521	that we could react very differently
+754.963	and sometimes in unpredictable ways to drugs.
+759.21	I myself, a couple of years back,
+759.21	had a really bad headache,
+763.778	just couldn't shake it, thought, 
+763.778	"""Well, I'll try something different."""
+766.191	I took some Advil. Fifteen minutes later,
+768.326	I was on my way to the emergency room
+770.206	with a full-blown asthma attack.
+772.099	Now, obviously it wasn't fatal,
+773.929	but unfortunately, some of these
+777.102	adverse drug reactions can be fatal.
+780.711	So how do we prevent them?
+782.652	Well, we could imagine one day
+785.232	having Geraldine on a chip,
+787.575	having Danielle on a chip,
+789.324	having you on a chip.
+790.797	Personalized medicine. Thank you.
+793.185	(Applause)

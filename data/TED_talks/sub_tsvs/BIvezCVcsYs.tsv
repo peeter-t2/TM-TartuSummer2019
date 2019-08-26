@@ -1,0 +1,453 @@
+startsecond	text
+13.256	"In the movie ""Interstellar,"""
+15.14	we get an up-close look
+15.14	at a supermassive black hole.
+18.491	Set against a backdrop of bright gas,
+20.658	the black hole's massive
+20.658	gravitational pull
+22.8	bends light into a ring.
+24.259	However, this isn't a real photograph,
+26.392	but a computer graphic rendering --
+28.202	an artistic interpretation
+28.202	of what a black hole might look like.
+32.221	A hundred years ago,
+33.411	Albert Einstein first published
+33.411	his theory of general relativity.
+37.036	In the years since then,
+38.499	scientists have provided
+38.499	a lot of evidence in support of it.
+41.496	But one thing predicted
+41.496	from this theory, black holes,
+44.604	still have not been directly observed.
+46.978	Although we have some idea
+46.978	as to what a black hole might look like,
+50.208	we've never actually taken
+50.208	a picture of one before.
+53.011	However, you might be surprised to know
+53.011	that that may soon change.
+57.314	We may be seeing our first picture
+57.314	of a black hole in the next couple years.
+61.502	Getting this first picture will come down
+61.502	to an international team of scientists,
+65.484	an Earth-sized telescope
+67.075	and an algorithm that puts together
+67.075	the final picture.
+69.931	Although I won't be able to show you
+69.931	a real picture of a black hole today,
+73.483	I'd like to give you a brief glimpse
+73.483	into the effort involved
+76.418	in getting that first picture.
+79.297	My name is Katie Bouman,
+80.758	and I'm a PhD student at MIT.
+83.348	I do research in a computer science lab
+85.399	that works on making computers
+85.399	see through images and video.
+88.721	But although I'm not an astronomer,
+90.907	today I'd like to show you
+92.216	how I've been able to contribute
+92.216	to this exciting project.
+95.143	If you go out past
+95.143	the bright city lights tonight,
+97.998	you may just be lucky enough
+97.998	to see a stunning view
+100.458	of the Milky Way Galaxy.
+101.975	And if you could zoom past
+101.975	millions of stars,
+	of the spiraling Milky Way,
+108.24	we'd eventually reach
+108.24	a cluster of stars right at the center.
+111.785	Peering past all the galactic dust
+111.785	with infrared telescopes,
+115.015	astronomers have watched these stars
+115.015	for over 16 years.
+118.906	But it's what they don't see
+118.906	that is the most spectacular.
+122.519	These stars seem to orbit
+122.519	an invisible object.
+125.609	By tracking the paths of these stars,
+127.956	astronomers have concluded
+129.274	that the only thing small and heavy
+129.274	enough to cause this motion
+132.427	is a supermassive black hole --
+134.419	an object so dense that it sucks up
+134.419	anything that ventures too close --
+138.621	even light.
+140.139	But what happens if we were
+140.139	to zoom in even further?
+143.224	Is it possible to see something
+143.224	that, by definition, is impossible to see?
+148.539	Well, it turns out that if we were
+148.539	to zoom in at radio wavelengths,
+151.807	we'd expect to see a ring of light
+153.513	caused by the gravitational
+153.513	lensing of hot plasma
+155.948	zipping around the black hole.
+157.801	In other words,
+158.985	the black hole casts a shadow
+158.985	on this backdrop of bright material,
+162.18	carving out a sphere of darkness.
+164.046	This bright ring reveals
+164.046	the black hole's event horizon,
+167.409	where the gravitational pull
+167.409	becomes so great
+169.833	that not even light can escape.
+171.483	Einstein's equations predict
+171.483	the size and shape of this ring,
+174.366	so taking a picture of it
+174.366	wouldn't only be really cool,
+177.598	it would also help to verify
+177.598	that these equations hold
+180.24	in the extreme conditions
+180.24	around the black hole.
+182.73	However, this black hole
+182.73	is so far away from us,
+185.312	that from Earth, this ring appears
+185.312	incredibly small --
+188.434	the same size to us as an orange
+188.434	on the surface of the moon.
+192.578	That makes taking a picture of it
+192.578	extremely difficult.
+196.465	Why is that?
+198.332	Well, it all comes down
+198.332	to a simple equation.
+201.544	Due to a phenomenon called diffraction,
+203.984	there are fundamental limits
+205.363	to the smallest objects
+205.363	that we can possibly see.
+208.609	This governing equation says
+208.609	that in order to see smaller and smaller,
+212.305	we need to make our telescope
+212.305	bigger and bigger.
+214.916	But even with the most powerful
+214.916	optical telescopes here on Earth,
+218.009	we can't even get close
+218.009	to the resolution necessary
+220.452	to image on the surface of the moon.
+222.674	In fact, here I show one of the highest
+222.674	resolution images ever taken
+226.315	of the moon from Earth.
+227.736	It contains roughly 13,000 pixels,
+230.317	and yet each pixel would contain
+230.317	over 1.5 million oranges.
+235.216	So how big of a telescope do we need
+237.212	in order to see an orange
+237.212	on the surface of the moon
+240.001	and, by extension, our black hole?
+242.239	Well, it turns out
+242.239	that by crunching the numbers,
+244.603	you can easily calculate
+244.603	that we would need a telescope
+247.237	the size of the entire Earth.
+248.654	(Laughter)
+249.702	If we could build
+249.702	this Earth-sized telescope,
+251.845	we could just start to make out
+251.845	that distinctive ring of light
+254.794	indicative of the black
+254.794	hole's event horizon.
+257.001	Although this picture wouldn't contain
+257.001	all the detail we see
+259.943	in computer graphic renderings,
+261.473	it would allow us to safely get
+261.473	our first glimpse
+263.796	of the immediate environment
+263.796	around a black hole.
+266.307	However, as you can imagine,
+267.944	building a single-dish telescope
+267.944	the size of the Earth is impossible.
+271.592	But in the famous words of Mick Jagger,
+273.503	"""You can't always get what you want,"
+275.318	but if you try sometimes,
+275.318	you just might find
+277.529	"you get what you need."""
+278.768	And by connecting telescopes
+278.768	from around the world,
+281.256	an international collaboration
+281.256	called the Event Horizon Telescope
+284.818	is creating a computational telescope
+284.818	the size of the Earth,
+287.951	capable of resolving structure
+289.512	on the scale of a black
+289.512	hole's event horizon.
+291.735	This network of telescopes is scheduled
+291.735	to take its very first picture
+295.146	of a black hole next year.
+296.985	Each telescope in the worldwide
+296.985	network works together.
+300.347	Linked through the precise timing
+300.347	of atomic clocks,
+303.083	teams of researchers at each
+303.083	of the sights freeze light
+305.764	by collecting thousands
+305.764	of terabytes of data.
+308.75	This data is then processed in a lab
+308.75	right here in Massachusetts.
+313.791	So how does this even work?
+315.609	Remember if we want to see the black hole
+315.609	in the center of our galaxy,
+319.036	we need to build this impossibly large
+319.036	Earth-sized telescope?
+322.042	For just a second,
+322.042	let's pretend we could build
+324.298	a telescope the size of the Earth.
+326.164	This would be a little bit
+326.164	like turning the Earth
+328.643	into a giant spinning disco ball.
+330.414	Each individual mirror would collect light
+332.638	that we could then combine
+332.638	together to make a picture.
+335.259	However, now let's say
+335.259	we remove most of those mirrors
+337.944	so only a few remained.
+339.94	We could still try to combine
+339.94	this information together,
+342.841	but now there are a lot of holes.
+344.858	These remaining mirrors represent
+344.858	the locations where we have telescopes.
+349.255	This is an incredibly small number
+349.255	of measurements to make a picture from.
+353.358	But although we only collect light
+353.358	at a few telescope locations,
+357.22	as the Earth rotates, we get to see
+357.22	other new measurements.
+360.667	In other words, as the disco ball spins,
+360.667	those mirrors change locations
+364.51	and we get to observe
+364.51	different parts of the image.
+367.433	The imaging algorithms we develop
+367.433	fill in the missing gaps of the disco ball
+371.475	in order to reconstruct
+371.475	the underlying black hole image.
+374.532	If we had telescopes located
+374.532	everywhere on the globe --
+377.192	in other words, the entire disco ball --
+379.157	this would be trivial.
+380.465	However, we only see a few samples,
+380.465	and for that reason,
+383.811	there are an infinite number
+383.811	of possible images
+386.223	that are perfectly consistent
+386.223	with our telescope measurements.
+389.211	However, not all images are created equal.
+392.669	Some of those images look more like
+392.669	what we think of as images than others.
+397.151	And so, my role in helping to take
+397.151	the first image of a black hole
+400.397	is to design algorithms that find
+400.397	the most reasonable image
+403.353	that also fits the telescope measurements.
+406.547	Just as a forensic sketch artist
+406.547	uses limited descriptions
+410.513	to piece together a picture using
+410.513	their knowledge of face structure,
+414.051	the imaging algorithms I develop
+414.051	use our limited telescope data
+417.39	to guide us to a picture that also
+417.39	looks like stuff in our universe.
+421.736	Using these algorithms,
+421.736	we're able to piece together pictures
+425.411	from this sparse, noisy data.
+427.615	So here I show a sample reconstruction
+427.615	done using simulated data,
+432.168	when we pretend to point our telescopes
+434.125	to the black hole
+434.125	in the center of our galaxy.
+436.734	Although this is just a simulation,
+436.734	reconstruction such as this give us hope
+441.213	that we'll soon be able to reliably take
+441.213	the first image of a black hole
+444.69	and from it, determine
+444.69	the size of its ring.
+447.938	Although I'd love to go on
+447.938	about all the details of this algorithm,
+451.161	luckily for you, I don't have the time.
+453.359	But I'd still like
+453.359	to give you a brief idea
+455.384	of how we define
+455.384	what our universe looks like,
+457.71	and how we use this to reconstruct
+457.71	and verify our results.
+462.2	Since there are an infinite number
+462.2	of possible images
+464.72	that perfectly explain
+464.72	our telescope measurements,
+467.109	we have to choose
+467.109	between them in some way.
+469.738	We do this by ranking the images
+471.6	based upon how likely they are
+471.6	to be the black hole image,
+474.458	and then choosing the one
+474.458	that's most likely.
+476.964	So what do I mean by this exactly?
+479.682	Let's say we were trying to make a model
+481.684	that told us how likely an image
+481.684	were to appear on Facebook.
+484.891	We'd probably want the model to say
+486.616	it's pretty unlikely that someone
+486.616	would post this noise image on the left,
+490.197	and pretty likely that someone
+490.197	would post a selfie
+492.64	like this one on the right.
+493.998	The image in the middle is blurry,
+495.661	so even though it's more likely
+495.661	we'd see it on Facebook
+498.324	compared to the noise image,
+499.708	it's probably less likely we'd see it
+499.708	compared to the selfie.
+502.692	But when it comes to images
+502.692	from the black hole,
+505.006	we're posed with a real conundrum:
+505.006	we've never seen a black hole before.
+508.532	In that case, what is a likely
+508.532	black hole image,
+510.847	and what should we assume
+510.847	about the structure of black holes?
+513.809	We could try to use images
+513.809	from simulations we've done,
+516.465	like the image of the black hole
+516.465	"from ""Interstellar,"""
+519.019	but if we did this,
+519.019	it could cause some serious problems.
+521.981	What would happen
+521.981	if Einstein's theories didn't hold?
+525.385	We'd still want to reconstruct
+525.385	an accurate picture of what was going on.
+529.37	If we bake Einstein's equations
+529.37	too much into our algorithms,
+532.765	we'll just end up seeing
+532.765	what we expect to see.
+535.544	In other words,
+535.544	we want to leave the option open
+537.844	for there being a giant elephant
+537.844	at the center of our galaxy.
+540.791	(Laughter)
+541.872	Different types of images have
+541.872	very distinct features.
+544.885	We can easily tell the difference
+544.885	between black hole simulation images
+548.457	and images we take
+548.457	every day here on Earth.
+550.757	We need a way to tell our algorithms
+550.757	what images look like
+553.885	without imposing one type
+553.885	of image's features too much.
+557.685	One way we can try to get around this
+559.602	is by imposing the features
+559.602	of different kinds of images
+562.688	and seeing how the type of image we assume
+562.688	affects our reconstructions.
+567.532	If all images' types produce
+567.532	a very similar-looking image,
+571.047	then we can start to become more confident
+573.128	that the image assumptions we're making
+573.128	are not biasing this picture that much.
+577.325	This is a little bit like
+577.325	giving the same description
+580.339	to three different sketch artists
+580.339	from all around the world.
+583.359	If they all produce
+583.359	a very similar-looking face,
+586.243	then we can start to become confident
+588.06	that they're not imposing their own
+588.06	cultural biases on the drawings.
+591.7	One way we can try to impose
+591.7	different image features
+595.039	is by using pieces of existing images.
+598.034	So we take a large collection of images,
+600.218	and we break them down
+600.218	into their little image patches.
+602.96	We then can treat each image patch
+602.96	a little bit like pieces of a puzzle.
+607.269	And we use commonly seen puzzle pieces
+607.269	to piece together an image
+611.571	that also fits our telescope measurements.
+614.86	Different types of images have
+614.86	very distinctive sets of puzzle pieces.
+618.627	So what happens when we take the same data
+621.457	but we use different sets of puzzle pieces
+621.457	to reconstruct the image?
+625.611	Let's first start with black hole
+625.611	image simulation puzzle pieces.
+630.401	OK, this looks reasonable.
+632.016	This looks like what we expect
+632.016	a black hole to look like.
+634.734	But did we just get it
+635.951	because we just fed it little pieces
+635.951	of black hole simulation images?
+639.289	Let's try another set of puzzle pieces
+641.193	from astronomical, non-black hole objects.
+644.734	OK, we get a similar-looking image.
+646.884	And then how about pieces
+646.884	from everyday images,
+649.144	like the images you take
+649.144	with your own personal camera?
+653.132	Great, we see the same image.
+655.271	When we get the same image
+655.271	from all different sets of puzzle pieces,
+658.661	then we can start to become more confident
+660.731	that the image assumptions we're making
+662.721	aren't biasing the final
+662.721	image we get too much.
+665.666	Another thing we can do is take
+665.666	the same set of puzzle pieces,
+668.943	such as the ones derived
+668.943	from everyday images,
+671.456	and use them to reconstruct
+671.456	many different kinds of source images.
+675.08	So in our simulations,
+676.375	we pretend a black hole looks like
+676.375	astronomical non-black hole objects,
+680.174	as well as everyday images like
+680.174	the elephant in the center of our galaxy.
+684.047	When the results of our algorithms
+684.047	on the bottom look very similar
+687.239	to the simulation's truth image on top,
+689.359	then we can start to become
+689.359	more confident in our algorithms.
+692.729	And I really want to emphasize here
+694.62	that all of these pictures were created
+696.578	by piecing together little pieces
+696.578	of everyday photographs,
+699.538	like you'd take with your own
+699.538	personal camera.
+701.777	So an image of a black hole
+701.777	we've never seen before
+705.077	may eventually be created by piecing
+705.077	together pictures we see all the time
+709.044	of people, buildings,
+709.044	trees, cats and dogs.
+711.813	Imaging ideas like this
+711.813	will make it possible for us
+714.482	to take our very first pictures
+714.482	of a black hole,
+717.125	and hopefully, verify
+717.125	those famous theories
+719.596	on which scientists rely on a daily basis.
+722.041	But of course, getting
+722.041	imaging ideas like this working
+724.673	would never have been possible
+724.673	without the amazing team of researchers
+728.019	that I have the privilege to work with.
+729.93	It still amazes me
+731.117	that although I began this project
+731.117	with no background in astrophysics,
+734.492	what we have achieved
+734.492	through this unique collaboration
+737.135	could result in the very first
+737.135	images of a black hole.
+739.918	But big projects like
+739.918	the Event Horizon Telescope
+742.64	are successful due to all
+742.64	the interdisciplinary expertise
+745.478	different people bring to the table.
+747.292	We're a melting pot of astronomers,
+749.022	physicists, mathematicians and engineers.
+751.278	This is what will make it soon possible
+753.856	to achieve something
+753.856	once thought impossible.
+756.733	I'd like to encourage all of you to go out
+759.013	and help push the boundaries of science,
+761.133	even if it may at first seem
+761.133	as mysterious to you as a black hole.
+765.058	Thank you.
+766.256	(Applause)

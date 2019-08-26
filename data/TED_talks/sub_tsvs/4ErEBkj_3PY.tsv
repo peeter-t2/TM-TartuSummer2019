@@ -1,0 +1,446 @@
+startsecond	text
+20.566	Good morning.
+22.853	I'm here today to talk
+22.853	about autonomous flying beach balls.
+27.03	(Laughter)
+28.062	No, agile aerial robots like this one.
+31.624	I'd like to tell you a little bit
+31.624	about the challenges in building these,
+35.108	and some of the terrific opportunities
+35.108	for applying this technology.
+38.957	So these robots are related
+38.957	to unmanned aerial vehicles.
+44.199	However, the vehicles
+44.199	you see here are big.
+47.318	They weigh thousands of pounds,
+47.318	are not by any means agile.
+50.611	They're not even autonomous.
+52.886	In fact, many of these vehicles
+52.886	are operated by flight crews
+57.092	that can include multiple pilots,
+59.676	operators of sensors,
+61.906	and mission coordinators.
+63.922	What we're interested in
+63.922	is developing robots like this --
+66.689	and here are two other pictures --
+68.403	of robots that you can buy off the shelf.
+71.11	So these are helicopters with four rotors,
+74.418	and they're roughly
+74.418	a meter or so in scale,
+78.132	and weigh several pounds.
+80.076	And so we retrofit these
+80.076	with sensors and processors,
+83.455	and these robots can fly indoors.
+85.685	Without GPS.
+87.457	The robot I'm holding in my hand
+89.369	is this one,
+91.043	and it's been created by two students,
+94.21	Alex and Daniel.
+96.493	So this weighs a little more
+96.493	than a tenth of a pound.
+99.632	It consumes about 15 watts of power.
+102.235	And as you can see,
+102.235	it's about eight inches in diameter.
+106.33	So let me give you
+106.33	just a very quick tutorial
+108.949	on how these robots work.
+111.043	So it has four rotors.
+112.26	If you spin these rotors
+112.26	at the same speed,
+114.332	the robot hovers.
+116.42	If you increase the speed
+116.42	of each of these rotors,
+120.08	then the robot flies up,
+120.08	it accelerates up.
+122.643	Of course, if the robot were tilted,
+125.099	inclined to the horizontal,
+126.433	then it would accelerate
+126.433	in this direction.
+129.686	So to get it to tilt,
+131.123	there's one of two ways of doing it.
+133.24	So in this picture, you see
+133.24	that rotor four is spinning faster
+136.9	and rotor two is spinning slower.
+138.892	And when that happens,
+140.476	there's a moment that causes
+140.476	this robot to roll.
+144.495	And the other way around,
+145.774	if you increase the speed of rotor three
+145.774	and decrease the speed of rotor one,
+151.377	then the robot pitches forward.
+153.82	And then finally,
+155.012	if you spin opposite pairs of rotors
+157.93	faster than the other pair,
+159.646	then the robot yaws
+159.646	about the vertical axis.
+162.391	So an on-board processor
+163.875	essentially looks at what motions
+163.875	need to be executed
+167.206	and combines these motions,
+169.2	and figures out what commands
+169.2	to send to the motors --
+173.77	That's basically how this thing operates.
+176.247	So one of the advantages of this design
+178.413	is when you scale things down,
+180.336	the robot naturally becomes agile.
+183.194	So here, R is the characteristic
+183.194	length of the robot.
+187.281	It's actually half the diameter.
+189.595	And there are lots of physical parameters
+189.595	that change as you reduce R.
+194.968	The one that's most important
+194.968	is the inertia,
+197.623	or the resistance to motion.
+199.568	So it turns out the inertia,
+199.568	which governs angular motion,
+204.068	scales as a fifth power of R.
+207.046	So the smaller you make R,
+208.766	the more dramatically the inertia reduces.
+211.956	So as a result, the angular acceleration,
+214.915	denoted by the Greek letter alpha here,
+216.978	goes as 1 over R.
+218.621	It's inversely proportional to R.
+220.374	The smaller you make it,
+220.374	the more quickly you can turn.
+224.219	So this should be clear in these videos.
+226.204	On the bottom right, you see a robot
+226.204	performing a 360-degree flip
+230.687	in less than half a second.
+232.656	Multiple flips, a little more time.
+236.259	So here the processes on board
+238.164	are getting feedback from accelerometers
+238.164	and gyros on board,
+241.372	and calculating, like I said before,
+243.514	commands at 600 times a second,
+245.347	to stabilize this robot.
+247.607	So on the left, you see Daniel
+247.607	throwing this robot up into the air,
+250.981	and it shows you
+250.981	how robust the control is.
+253.032	No matter how you throw it,
+254.366	the robot recovers and comes back to him.
+258.881	So why build robots like this?
+261.079	Well, robots like this
+261.079	have many applications.
+264.198	You can send them
+264.198	inside buildings like this,
+266.693	as first responders to look for intruders,
+270.304	maybe look for biochemical leaks,
+273.629	gaseous leaks.
+275.102	You can also use them
+275.102	for applications like construction.
+278.84	So here are robots carrying beams, columns
+283.388	and assembling cube-like structures.
+285.26	I'll tell you a little bit
+285.26	more about this.
+288.695	The robots can be used
+288.695	for transporting cargo.
+291.583	So one of the problems
+291.583	with these small robots
+294.72	is their payload-carrying capacity.
+296.745	So you might want to have
+296.745	multiple robots carry payloads.
+300.746	This is a picture of a recent
+300.746	experiment we did --
+303.125	actually not so recent anymore --
+304.744	in Sendai, shortly after the earthquake.
+307.938	So robots like this could be sent
+307.938	into collapsed buildings,
+311.153	to assess the damage
+311.153	after natural disasters,
+314.068	or sent into reactor buildings,
+315.674	to map radiation levels.
+319.583	So one fundamental problem
+319.583	that the robots have to solve
+323.128	if they are to be autonomous,
+324.731	is essentially figuring out how to get
+324.731	from point A to point B.
+328.937	So this gets a little challenging,
+330.628	because the dynamics of this robot
+330.628	are quite complicated.
+333.659	In fact, they live
+333.659	in a 12-dimensional space.
+336.524	So we use a little trick.
+337.992	We take this curved 12-dimensional space,
+341.429	and transform it into a flat,
+341.429	four-dimensional space.
+345.347	And that four-dimensional space
+345.347	consists of X, Y, Z,
+348.442	and then the yaw angle.
+349.878	And so what the robot does,
+351.26	is it plans what we call
+351.26	a minimum-snap trajectory.
+356.209	So to remind you of physics:
+357.63	You have position, derivative, velocity;
+359.708	then acceleration;
+361.588	and then comes jerk,
+363.713	and then comes snap.
+365.578	So this robot minimizes snap.
+368.8	So what that effectively does,
+370.26	is produce a smooth and graceful motion.
+372.908	And it does that avoiding obstacles.
+376.313	So these minimum-snap trajectories
+376.313	in this flat space are then transformed
+379.9	back into this complicated
+383.249	which the robot must do
+383.249	for control and then execution.
+386.749	So let me show you some examples
+388.313	of what these minimum-snap
+388.313	trajectories look like.
+391.114	And in the first video,
+392.289	you'll see the robot going
+392.289	from point A to point B,
+395.042	through an intermediate point.
+396.99	(Whirring noise)
+403.377	So the robot is obviously capable
+403.377	of executing any curve trajectory.
+407.022	So these are circular trajectories,
+408.76	where the robot pulls about two G's.
+412.844	Here you have overhead
+412.844	motion capture cameras on the top
+416.57	that tell the robot where it is
+419.8	It also tells the robot
+419.8	where these obstacles are.
+423.14	And the obstacles can be moving.
+424.72	And here, you'll see Daniel
+424.72	throw this hoop into the air,
+427.871	while the robot is calculating
+427.871	the position of the hoop,
+430.554	and trying to figure out how to best
+430.554	go through the hoop.
+434.002	So as an academic,
+435.26	we're always trained to be able
+435.26	to jump through hoops
+437.812	to raise funding for our labs,
+439.321	and we get our robots to do that.
+441.26	(Applause)
+448.524	So another thing the robot can do
+450.159	is it remembers pieces of trajectory
+452.26	that it learns or is pre-programmed.
+455.466	So here, you see the robot combining
+455.466	a motion that builds up momentum,
+460.26	and then changes its orientation
+460.26	and then recovers.
+464.004	So it has to do this
+464.004	because this gap in the window
+466.988	is only slightly larger
+466.988	than the width of the robot.
+471.05	So just like a diver
+471.05	stands on a springboard
+473.827	and then jumps off it to gain momentum,
+476.304	and then does this pirouette,
+476.304	this two and a half somersault through
+479.557	and then gracefully recovers,
+480.983	this robot is basically doing that.
+482.705	So it knows how to combine
+482.705	little bits and pieces of trajectories
+485.809	to do these fairly difficult tasks.
+490.018	So I want change gears.
+491.26	So one of the disadvantages
+491.26	of these small robots is its size.
+495.654	And I told you earlier
+496.83	that we may want to employ
+496.83	lots and lots of robots
+499.203	to overcome the limitations of size.
+502.01	So one difficulty is:
+503.608	How do you coordinate
+503.608	lots of these robots?
+506.425	And so here, we looked to nature.
+508.544	So I want to show you a clip
+508.544	of Aphaenogaster desert ants,
+513.176	in Professor Stephen Pratt's lab,
+513.176	carrying an object.
+516.588	So this is actually a piece of fig.
+518.327	Actually you take any object
+518.327	coated with fig juice,
+520.751	and the ants will carry it
+520.751	back to the nest.
+522.866	So these ants don't have
+522.866	any central coordinator.
+526.487	They sense their neighbors.
+528.058	There's no explicit communication.
+530.367	But because they sense the neighbors
+532.13	and because they sense the object,
+533.93	they have implicit coordination
+533.93	across the group.
+537.474	So this is the kind of coordination
+537.474	we want our robots to have.
+541.569	So when we have a robot
+541.569	which is surrounded by neighbors --
+546.371	and let's look at robot I and robot J --
+548.624	what we want the robots to do,
+550.196	is to monitor the separation between them,
+552.331	as they fly in formation.
+554.537	And then you want to make sure
+556.042	that this separation
+556.042	is within acceptable levels.
+559.303	So again, the robots monitor this error
+561.795	and calculate the control commands
+565.968	which then translates into motor commands,
+569.254	So this also has to be done
+569.254	in a decentralized way.
+572.785	Again, if you have
+572.785	lots and lots of robots,
+575.143	it's impossible to coordinate
+575.143	all this information centrally
+578.444	fast enough in order for the robots
+578.444	to accomplish the task.
+581.645	Plus, the robots have to base
+581.645	their actions only on local information --
+586.017	what they sense from their neighbors.
+588.16	And then finally,
+589.57	we insist that the robots be agnostic
+589.57	to who their neighbors are.
+593.694	So this is what we call anonymity.
+597.258	So what I want to show you next
+597.258	is a video of 20 of these little robots,
+603.699	flying in formation.
+606.144	They're monitoring
+606.144	their neighbors' positions.
+609.064	They're maintaining formation.
+610.99	The formations can change.
+612.794	They can be planar formations,
+614.497	they can be three-dimensional formations.
+617.331	As you can see here,
+618.696	they collapse from a three-dimensional
+618.696	formation into planar formation.
+622.407	And to fly through obstacles,
+623.962	they can adapt the formations on the fly.
+628.026	So again, these robots come
+628.026	really close together.
+630.513	As you can see
+630.513	in this figure-eight flight,
+632.925	they come within inches of each other.
+635.377	And despite the aerodynamic interactions
+635.377	with these propeller blades,
+639.718	they're able to maintain stable flight.
+641.89	(Applause)
+649.246	So once you know how to fly in formation,
+651.269	you can actually pick up
+651.269	objects cooperatively.
+653.509	So this just shows that we can
+653.509	double, triple, quadruple
+658.11	the robots' strength,
+659.292	by just getting them to team
+659.292	with neighbors, as you can see here.
+662.393	One of the disadvantages of doing that is,
+662.393	as you scale things up --
+666.559	so if you have lots of robots
+666.559	carrying the same thing,
+669.147	you're essentially increasing the inertia,
+671.891	and therefore you pay a price;
+671.891	they're not as agile.
+674.978	But you do gain in terms
+674.978	of payload-carrying capacity.
+678.098	Another application I want to show you --
+678.098	again, this is in our lab.
+681.337	This is work done by Quentin Lindsey,
+681.337	who's a graduate student.
+684.526	So his algorithm essentially
+684.526	tells these robots
+687.17	how to autonomously build cubic structures
+691.266	from truss-like elements.
+694.441	So his algorithm tells the robot
+694.441	what part to pick up,
+698.225	when, and where to place it.
+700.471	So in this video you see --
+701.978	and it's sped up 10, 14 times --
+704.026	you see three different structures
+704.026	being built by these robots.
+707.139	And again, everything is autonomous,
+709.189	and all Quentin has to do
+710.496	is to give them a blueprint
+710.496	of the design that he wants to build.
+716.925	So all these experiments
+716.925	you've seen thus far,
+719.76	all these demonstrations,
+721.134	have been done with the help
+721.134	of motion-capture systems.
+725.029	So what happens when you leave your lab,
+727.56	and you go outside into the real world?
+729.922	And what if there's no GPS?
+732.755	So this robot is actually
+732.755	equipped with a camera,
+737.116	and a laser rangefinder, laser scanner.
+740.14	And it uses these sensors
+740.14	to build a map of the environment.
+744.084	What that map consists of are features --
+747.394	like doorways, windows,
+747.394	people, furniture --
+751.289	and it then figures out
+751.289	where its position is,
+753.456	with respect to the features.
+754.881	So there is no global coordinate system.
+757.115	The coordinate system
+757.115	is defined based on the robot,
+759.645	where it is and what it's looking at.
+762.575	And it navigates with respect
+762.575	to those features.
+766.316	So I want to show you a clip
+767.76	of algorithms developed by Frank Shen
+767.76	and Professor Nathan Michael,
+771.736	that shows this robot entering
+771.736	a building for the very first time,
+775.529	and creating this map on the fly.
+778.642	So the robot then figures out
+778.642	what the features are,
+781.824	it builds the map,
+782.999	it figures out where it is
+782.999	with respect to the features,
+785.99	and then estimates its position
+789.962	allowing us to use the control algorithms
+789.962	that I described to you earlier.
+793.804	So this robot is actually being
+793.804	commanded remotely by Frank,
+798.261	but the robot can also figure out
+798.261	where to go on its own.
+802.125	So suppose I were to send
+802.125	this into a building,
+804.356	and I had no idea
+804.356	what this building looked like.
+806.682	I can ask this robot to go in,
+808.15	create a map,
+810.078	and then come back and tell me
+810.078	what the building looks like.
+812.967	So here, the robot is not
+812.967	only solving the problem
+816.159	of how to go from point A
+816.159	to point B in this map,
+818.817	but it's figuring out what the best
+818.817	point B is at every time.
+823.24	So essentially it knows where to go
+825.318	to look for places that have
+825.318	the least information,
+828.127	and that's how it populates this map.
+830.944	So I want to leave you
+830.944	with one last application.
+834.982	And there are many applications
+834.982	of this technology.
+837.823	I'm a professor, and we're
+837.823	passionate about education.
+840.395	Robots like this can really change
+840.395	the way we do K-12 education.
+844.355	But we're in Southern California,
+846.204	close to Los Angeles,
+848.061	so I have to conclude with something
+848.061	focused on entertainment.
+852.407	I want to conclude with a music video.
+854.265	I want to introduce the creators,
+854.265	Alex and Daniel, who created this video.
+859.003	(Applause)
+865.905	So before I play this video,
+867.363	I want to tell you that they created it
+867.363	in the last three days,
+870.584	after getting a call from Chris.
+872.743	And the robots that play in the video
+872.743	are completely autonomous.
+876.584	You will see nine robots
+876.584	play six different instruments.
+880.697	And of course, it's made
+880.697	exclusively for TED 2012.
+884.533	Let's watch.
+886.824	(Sound of air escaping from valve)
+893.547	(Music)
+896.907	(Whirring sound)
+919.442	(Music)
+984.029	(Applause) (Cheers)

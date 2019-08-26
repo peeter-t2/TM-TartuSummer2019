@@ -1,0 +1,342 @@
+startsecond	text
+15.26	The electricity powering the lights in this theater
+18.26	was generated just moments ago.
+21.26	Because the way things stand today,
+24.26	electricity demand must be in constant balance
+27.26	with electricity supply.
+30.26	If in the time that it took me to walk out here on this stage,
+33.26	some tens of megawatts of wind power
+36.26	stopped pouring into the grid,
+39.26	the difference would have to be made up
+41.26	from other generators immediately.
+45.26	But coal plants, nuclear plants
+48.26	can't respond fast enough.
+50.26	A giant battery could.
+52.26	With a giant battery,
+54.26	we'd be able to address the problem of intermittency
+57.26	that prevents wind and solar
+59.26	from contributing to the grid
+61.26	in the same way that coal, gas and nuclear do today.
+65.26	You see, the battery
+67.26	is the key enabling device here.
+70.26	With it, we could draw electricity from the sun
+73.26	even when the sun doesn't shine.
+75.26	And that changes everything.
+78.26	Because then renewables
+80.26	such as wind and solar
+82.26	come out from the wings,
+84.26	here to center stage.
+86.26	Today I want to tell you about such a device.
+89.26	It's called the liquid metal battery.
+91.26	It's a new form of energy storage
+93.26	that I invented at MIT
+96.26	along with a team of my students
+98.26	and post-docs.
+100.26	Now the theme of this year's TED Conference is Full Spectrum.
+103.26	The OED defines spectrum
+106.26	"as ""The entire range of wavelengths"
+109.26	of electromagnetic radiation,
+111.26	from the longest radio waves to the shortest gamma rays
+114.26	of which the range of visible light
+117.26	"is only a small part."""
+119.26	So I'm not here today only to tell you
+121.26	how my team at MIT has drawn out of nature
+124.26	a solution to one of the world's great problems.
+127.26	I want to go full spectrum and tell you how,
+130.26	in the process of developing
+132.26	this new technology,
+134.26	we've uncovered some surprising heterodoxies
+137.26	that can serve as lessons for innovation,
+140.26	ideas worth spreading.
+143.26	And you know,
+145.26	if we're going to get this country out of its current energy situation,
+149.26	we can't just conserve our way out;
+152.26	we can't just drill our way out;
+155.26	we can't bomb our way out.
+157.26	We're going to do it the old-fashioned American way,
+159.26	we're going to invent our way out,
+161.26	working together.
+163.26	(Applause)
+166.26	Now let's get started.
+168.26	The battery was invented about 200 years ago
+171.26	by a professor, Alessandro Volta,
+173.26	at the University of Padua in Italy.
+176.26	His invention gave birth to a new field of science,
+178.26	electrochemistry,
+180.26	and new technologies
+182.26	such as electroplating.
+184.26	Perhaps overlooked,
+186.26	Volta's invention of the battery
+188.26	for the first time also
+190.26	demonstrated the utility of a professor.
+192.26	(Laughter)
+194.26	Until Volta, nobody could imagine
+196.26	a professor could be of any use.
+199.26	Here's the first battery --
+202.26	a stack of coins, zinc and silver,
+205.26	separated by cardboard soaked in brine.
+207.26	This is the starting point
+209.26	for designing a battery --
+211.26	two electrodes,
+213.26	in this case metals of different composition,
+215.26	and an electrolyte,
+217.26	in this case salt dissolved in water.
+219.26	The science is that simple.
+221.26	Admittedly, I've left out a few details.
+225.26	Now I've taught you
+227.26	that battery science is straightforward
+229.26	and the need for grid-level storage
+231.26	is compelling,
+233.26	but the fact is
+235.26	that today there is simply no battery technology
+238.26	capable of meeting
+240.26	the demanding performance requirements of the grid --
+244.26	namely uncommonly high power,
+246.26	long service lifetime
+248.26	and super-low cost.
+250.26	We need to think about the problem differently.
+253.26	We need to think big,
+255.26	we need to think cheap.
+257.26	So let's abandon the paradigm
+259.26	of let's search for the coolest chemistry
+262.26	and then hopefully we'll chase down the cost curve
+264.26	by just making lots and lots of product.
+267.26	Instead, let's invent
+269.26	to the price point of the electricity market.
+272.26	So that means
+274.26	that certain parts of the periodic table
+276.26	are axiomatically off-limits.
+278.26	This battery needs to be made
+280.26	out of earth-abundant elements.
+282.26	I say, if you want to make something dirt cheap,
+285.26	make it out of dirt --
+287.26	(Laughter)
+289.26	preferably dirt
+291.26	that's locally sourced.
+294.26	And we need to be able to build this thing
+297.26	using simple manufacturing techniques and factories
+300.26	that don't cost us a fortune.
+304.26	So about six years ago,
+306.26	I started thinking about this problem.
+308.26	And in order to adopt a fresh perspective,
+311.26	I sought inspiration from beyond the field of electricity storage.
+315.26	In fact, I looked to a technology
+318.26	that neither stores nor generates electricity,
+321.26	but instead consumes electricity,
+323.26	huge amounts of it.
+325.26	I'm talking about the production of aluminum.
+329.26	The process was invented in 1886
+331.26	by a couple of 22-year-olds --
+333.26	Hall in the United States and Heroult in France.
+336.26	And just a few short years following their discovery,
+339.26	aluminum changed
+341.26	from a precious metal costing as much as silver
+344.26	to a common structural material.
+347.26	You're looking at the cell house of a modern aluminum smelter.
+350.26	It's about 50 feet wide
+352.26	and recedes about half a mile --
+354.26	row after row of cells
+357.26	that, inside, resemble Volta's battery,
+360.26	with three important differences.
+362.26	Volta's battery works at room temperature.
+365.26	It's fitted with solid electrodes
+368.26	and an electrolyte that's a solution of salt and water.
+371.26	The Hall-Heroult cell
+373.26	operates at high temperature,
+375.26	a temperature high enough
+377.26	that the aluminum metal product is liquid.
+379.26	The electrolyte
+381.26	is not a solution of salt and water,
+383.26	but rather salt that's melted.
+385.26	It's this combination of liquid metal,
+387.26	molten salt and high temperature
+390.26	that allows us to send high current through this thing.
+394.26	Today, we can produce virgin metal from ore
+397.26	at a cost of less than 50 cents a pound.
+400.26	That's the economic miracle
+402.26	of modern electrometallurgy.
+404.26	It is this that caught and held my attention
+407.26	to the point that I became obsessed with inventing a battery
+411.26	that could capture this gigantic economy of scale.
+415.26	And I did.
+417.26	I made the battery all liquid --
+420.26	liquid metals for both electrodes
+422.26	and a molten salt for the electrolyte.
+424.26	I'll show you how.
+444.26	So I put low-density
+447.26	liquid metal at the top,
+451.26	put a high-density liquid metal at the bottom,
+457.26	and molten salt in between.
+463.26	So now,
+465.26	how to choose the metals?
+468.26	For me, the design exercise
+470.26	always begins here
+472.26	with the periodic table,
+474.26	enunciated by another professor,
+476.26	Dimitri Mendeleyev.
+478.26	Everything we know
+480.26	is made of some combination
+482.26	of what you see depicted here.
+485.26	And that includes our own bodies.
+487.26	I recall the very moment one day
+490.26	when I was searching for a pair of metals
+493.26	that would meet the constraints
+495.26	of earth abundance,
+497.26	different, opposite density
+500.26	and high mutual reactivity.
+502.26	I felt the thrill of realization
+504.26	when I knew I'd come upon the answer.
+509.26	Magnesium for the top layer.
+512.26	And antimony
+514.26	for the bottom layer.
+517.26	You know, I've got to tell you,
+519.26	one of the greatest benefits of being a professor:
+522.26	colored chalk.
+524.26	(Laughter)
+527.26	So to produce current,
+530.26	magnesium loses two electrons
+532.26	to become magnesium ion,
+535.26	which then migrates across the electrolyte,
+537.26	accepts two electrons from the antimony,
+540.26	and then mixes with it to form an alloy.
+543.26	The electrons go to work
+545.26	in the real world out here,
+548.26	powering our devices.
+554.26	Now to charge the battery,
+557.26	we connect a source of electricity.
+560.26	It could be something like a wind farm.
+564.26	And then we reverse the current.
+568.26	And this forces magnesium to de-alloy
+573.26	and return to the upper electrode,
+576.26	restoring the initial constitution of the battery.
+581.26	And the current passing between the electrodes
+584.26	generates enough heat to keep it at temperature.
+587.26	It's pretty cool,
+590.26	at least in theory.
+592.26	But does it really work?
+594.26	So what to do next?
+596.26	We go to the laboratory.
+598.26	Now do I hire seasoned professionals?
+602.26	No, I hire a student
+605.26	and mentor him,
+607.26	teach him how to think about the problem,
+610.26	to see it from my perspective
+612.26	and then turn him loose.
+614.26	This is that student, David Bradwell,
+616.26	who, in this image,
+618.26	appears to be wondering if this thing will ever work.
+621.26	What I didn't tell David at the time
+623.26	was I myself wasn't convinced it would work.
+626.26	But David's young and he's smart
+628.26	and he wants a Ph.D.,
+630.26	and he proceeds to build --
+632.26	(Laughter)
+634.26	He proceeds to build
+636.26	the first ever liquid metal battery
+638.26	of this chemistry.
+640.26	And based on David's initial promising results,
+643.26	which were paid
+645.26	with seed funds at MIT,
+648.26	I was able to attract major research funding
+651.26	from the private sector
+653.26	and the federal government.
+655.26	And that allowed me to expand my group to 20 people,
+658.26	a mix of graduate students, post-docs
+660.26	and even some undergraduates.
+662.26	And I was able to attract really, really good people,
+665.26	people who share my passion
+667.26	for science and service to society,
+669.26	not science and service for career building.
+673.26	And if you ask these people
+675.26	why they work on liquid metal battery,
+677.26	their answer would hearken back
+679.26	to President Kennedy's remarks
+681.26	at Rice University in 1962
+684.26	when he said -- and I'm taking liberties here --
+686.26	"""We choose to work on grid-level storage,"
+688.26	not because it is easy,
+690.26	"but because it is hard."""
+692.26	(Applause)
+699.26	So this is the evolution of the liquid metal battery.
+702.26	We start here with our workhorse one watt-hour cell.
+705.26	I called it the shotglass.
+707.26	We've operated over 400 of these,
+710.26	perfecting their performance with a plurality of chemistries --
+713.26	not just magnesium and antimony.
+715.26	Along the way we scaled up to the 20 watt-hour cell.
+718.26	I call it the hockey puck.
+720.26	And we got the same remarkable results.
+722.26	And then it was onto the saucer.
+724.26	That's 200 watt-hours.
+726.26	The technology was proving itself
+728.26	to be robust and scalable.
+731.26	But the pace wasn't fast enough for us.
+733.26	So a year and a half ago,
+735.26	David and I,
+737.26	along with another research staff-member,
+739.26	formed a company
+741.26	to accelerate the rate of progress
+743.26	and the race to manufacture product.
+745.26	So today at LMBC,
+747.26	we're building cells 16 inches in diameter
+749.26	with a capacity of one kilowatt-hour --
+751.26	1,000 times the capacity
+754.26	of that initial shotglass cell.
+756.26	We call that the pizza.
+758.26	And then we've got a four kilowatt-hour cell on the horizon.
+761.26	It's going to be 36 inches in diameter.
+763.26	We call that the bistro table,
+765.26	but it's not ready yet for prime-time viewing.
+767.26	And one variant of the technology
+769.26	has us stacking these bistro tabletops into modules,
+773.26	aggregating the modules into a giant battery
+776.26	that fits in a 40-foot shipping container
+778.26	for placement in the field.
+780.26	And this has a nameplate capacity of two megawatt-hours --
+783.26	two million watt-hours.
+785.26	That's enough energy
+787.26	to meet the daily electrical needs
+789.26	of 200 American households.
+791.26	So here you have it, grid-level storage:
+794.26	silent, emissions-free,
+797.26	no moving parts,
+799.26	remotely controlled,
+801.26	designed to the market price point
+804.26	without subsidy.
+807.26	So what have we learned from all this?
+809.26	(Applause)
+815.26	So what have we learned from all this?
+817.26	Let me share with you
+819.26	some of the surprises, the heterodoxies.
+822.26	They lie beyond the visible.
+824.26	Temperature:
+826.26	Conventional wisdom says set it low,
+828.26	at or near room temperature,
+830.26	and then install a control system to keep it there.
+833.26	Avoid thermal runaway.
+835.26	Liquid metal battery is designed to operate at elevated temperature
+838.26	with minimum regulation.
+841.26	Our battery can handle the very high temperature rises
+844.26	that come from current surges.
+848.26	Scaling: Conventional wisdom says
+851.26	reduce cost by producing many.
+853.26	Liquid metal battery is designed to reduce cost
+856.26	by producing fewer, but they'll be larger.
+859.26	And finally, human resources:
+861.26	Conventional wisdom says
+863.26	hire battery experts,
+865.26	seasoned professionals,
+867.26	who can draw upon their vast experience and knowledge.
+870.26	To develop liquid metal battery,
+872.26	I hired students and post-docs and mentored them.
+875.26	In a battery,
+877.26	I strive to maximize electrical potential;
+880.26	when mentoring,
+882.26	I strive to maximize human potential.
+884.26	So you see,
+886.26	the liquid metal battery story
+888.26	is more than an account
+890.26	of inventing technology,
+892.26	it's a blueprint
+894.26	for inventing inventors, full-spectrum.
+897.26	(Applause)

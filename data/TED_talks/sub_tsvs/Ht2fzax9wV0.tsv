@@ -1,0 +1,233 @@
+startsecond	text
+12.336	Motor racing is a funny old business.
+14.593	We make a new car every year,
+16.91	and then we spend the rest of the season
+19.098	trying to understand
+19.098	what it is we've built
+21.874	to make it better, to make it faster.
+25.095	And then the next year, we start again.
+28.37	Now, the car you see in front
+28.37	of you is quite complicated.
+32.608	The chassis is made
+32.608	up of about 11,000 components,
+36.227	the engine another 6,000,
+38.695	the electronics
+38.695	about eight and a half thousand.
+41.788	So there's about 25,000 things
+41.788	there that can go wrong.
+46.189	So motor racing is very much
+46.189	about attention to detail.
+51.015	The other thing about Formula
+51.015	1 in particular
+54.278	is we're always changing the car.
+56.402	We're always trying to make it faster.
+58.682	So every two weeks, we will be making
+61.666	about 5,000 new components
+61.666	to fit to the car.
+65.866	Five to 10 percent of the race car
+68.044	will be different
+68.044	every two weeks of the year.
+71.796	So how do we do that?
+74.105	Well, we start our life
+74.105	with the racing car.
+77.849	We have a lot of sensors
+77.849	on the car to measure things.
+81.84	On the race car in front of you here
+83.722	there are about 120 sensors
+83.722	when it goes into a race.
+86.881	It's measuring all sorts
+86.881	of things around the car.
+90.533	That data is logged. We're logging about
+	within the data systems,
+96.289	about 13,000 health parameters and events
+99.954	to say when things are not
+99.954	working the way they should do,
+104.519	and we're sending that data
+104.519	back to the garage
+107.344	using telemetry at a rate
+107.344	of two to four megabits per second.
+112.323	So during a two-hour race,
+112.323	each car will be sending
+117.725	That's twice as many numbers
+117.725	as words that each of us
+120.868	speaks in a lifetime.
+122.499	It's a huge amount of data.
+125.117	But it's not enough just
+125.117	to have data and measure it.
+127.762	You need to be able to do
+127.762	something with it.
+129.92	So we've spent a lot of time and effort
+132.314	in turning the data into stories
+134.183	to be able to tell,
+134.183	what's the state of the engine,
+137.288	how are the tires degrading,
+139.56	what's the situation
+139.56	with fuel consumption?
+143.308	So all of this is taking data
+146.096	and turning it into knowledge
+146.096	that we can act upon.
+149.898	Okay, so let's have a look
+149.898	at a little bit of data.
+152.536	Let's pick a bit of data from
+154.566	another three-month-old patient.
+157.645	This is a child, and what you're
+157.645	seeing here is real data,
+161.816	and on the far right-hand side,
+163.793	where everything starts getting
+163.793	a little bit catastrophic,
+166.579	that is the patient going
+166.579	into cardiac arrest.
+169.964	It was deemed to be
+169.964	an unpredictable event.
+173.196	This was a heart attack
+173.196	that no one could see coming.
+176.985	But when we look at the information there,
+179.535	we can see that things
+179.535	are starting to become
+181.884	a little fuzzy about five minutes
+181.884	or so before the cardiac arrest.
+185.913	We can see small changes
+187.95	in things like the heart rate moving.
+190.333	These were all undetected
+190.333	by normal thresholds
+192.819	which would be applied to data.
+195.227	So the question is, why
+195.227	couldn't we see it?
+198.37	Was this a predictable event?
+200.951	Can we look more
+200.951	at the patterns in the data
+203.961	to be able to do things better?
+207.341	So this is a child,
+209.991	about the same age
+209.991	as the racing car on stage,
+213.223	three months old.
+214.853	It's a patient with a heart problem.
+217.458	Now, when you look at some of the data
+217.458	on the screen above,
+220.926	things like heart rate, pulse,
+220.926	oxygen, respiration rates,
+225.828	they're all unusual for a normal child,
+228.904	but they're quite normal
+228.904	for the child there,
+231.546	and so one of the challenges
+231.546	you have in health care is,
+235.684	how can I look at the patient
+235.684	in front of me,
+238.535	have something which is specific for her,
+241.582	and be able to detect when
+241.582	things start to change,
+244.37	when things start to deteriorate?
+246.469	Because like a racing car, any patient,
+249.519	when things start to go
+249.519	bad, you have a short time
+252.495	to make a difference.
+254.326	So what we did is we took a data system
+257.08	which we run every two weeks
+257.08	of the year in Formula 1
+260.211	and we installed it
+260.211	on the hospital computers
+263.213	at Birmingham Children's Hospital.
+265.503	We streamed data
+265.503	from the bedside instruments
+267.942	in their pediatric intensive care
+270.499	so that we could both look
+270.499	at the data in real time
+273.954	and, more importantly, to store the data
+276.826	so that we could start to learn from it.
+279.883	And then, we applied an application on top
+284.267	which would allow us to tease
+284.267	out the patterns in the data
+287.537	in real time so we could
+287.537	see what was happening,
+290.493	so we could determine when
+290.493	things started to change.
+294.206	Now, in motor racing, we're
+294.206	all a little bit ambitious,
+298.069	audacious, a little bit
+298.069	arrogant sometimes,
+300.618	so we decided we would also
+300.618	look at the children
+304.016	as they were being transported
+304.016	to intensive care.
+306.973	Why should we wait
+306.973	until they arrived in the hospital
+309.521	before we started to look?
+311.121	And so we installed a real-time link
+314.118	between the ambulance and the hospital,
+316.954	just using normal 3G
+316.954	telephony to send that data
+320.73	so that the ambulance became an extra bed
+323.217	in intensive care.
+326.353	And then we started looking at the data.
+330.055	So the wiggly lines
+330.055	at the top, all the colors,
+332.976	this is the normal sort of data
+332.976	you would see on a monitor --
+336.17	heart rate, pulse,
+336.17	oxygen within the blood,
+339.942	and respiration.
+342.577	The lines on the bottom,
+342.577	the blue and the red,
+345.33	these are the interesting ones.
+346.831	The red line is showing
+346.831	an automated version
+349.899	of the early warning score
+351.496	that Birmingham Children's Hospital
+351.496	were already running.
+354.235	They'd been running that since 2008,
+356.321	and already have stopped cardiac arrests
+358.577	and distress within the hospital.
+361.334	The blue line is an indication
+363.766	of when patterns start to change,
+366.266	and immediately, before we even started
+368.575	putting in clinical interpretation,
+370.283	we can see that the data
+370.283	is speaking to us.
+373.153	It's telling us that something
+373.153	is going wrong.
+376.689	The plot with the red and the green blobs,
+380.505	this is plotting different components
+383.31	of the data against each other.
+385.857	The green is us learning
+385.857	what is normal for that child.
+389.697	We call it the cloud of normality.
+392.307	And when things start to change,
+394.548	when conditions start to deteriorate,
+397.112	we move into the red line.
+399.35	There's no rocket science here.
+401.007	It is displaying data that exists
+401.007	already in a different way,
+405.12	to amplify it, to provide
+405.12	cues to the doctors,
+408.511	to the nurses, so they can
+408.511	see what's happening.
+411.249	In the same way that a good racing driver
+414.379	relies on cues to decide
+414.379	when to apply the brakes,
+418.423	when to turn into a corner,
+419.899	we need to help
+419.899	our physicians and our nurses
+422.817	to see when things
+422.817	are starting to go wrong.
+426.437	So we have a very ambitious program.
+429.383	We think that the race is on to do
+429.383	something differently.
+434.119	We are thinking big.
+434.119	It's the right thing to do.
+437.023	We have an approach which,
+437.023	if it's successful,
+440.435	there's no reason why it
+440.435	should stay within a hospital.
+443.079	It can go beyond the walls.
+444.807	With wireless connectivity these days,
+446.878	there is no reason why
+446.878	patients, doctors and nurses
+450.322	always have to be in the same place
+452.493	at the same time.
+454.486	And meanwhile, we'll take
+454.486	our little three-month-old baby,
+458.481	keep taking it to the track,
+458.481	keeping it safe,
+462.238	and making it faster and better.
+464.571	Thank you very much.
+465.976	(Applause)

@@ -1,0 +1,297 @@
+startsecond	text
+25	So anyway, who am I?
+26	"I usually say to people, when they say, ""What do you do?"""
+29	"I say, ""I do hardware,"""
+31	because it sort of conveniently encompasses everything I do.
+33	And I recently said that to a venture capitalist casually at some
+37	"Valley event, to which he replied, ""How quaint."""
+40	(Laughter)
+42	And I sort of really was dumbstruck.
+45	And I really should have said something smart.
+47	And now I've had a little bit of time to think about it,
+52	"I would have said, ""Well, you know,"
+54	if we look at the next 100 years
+56	and we've seen all these problems in the last few days,
+58	most of the big issues -- clean water, clean energy --
+61	and they're interchangeable in some respects --
+63	and cleaner, more functional materials --
+65	they all look to me to be hardware problems.
+68	This doesn't mean we should ignore software,
+70	"or information, or computation."""
+72	And that's in fact probably what I'm going to try and tell you about.
+75	So, this talk is going to be about how do we make things
+78	and what are the new ways that we're going to make things in the future.
+83	Now, TED sends you a lot of spam if you're a speaker
+88	"about ""do this, do that"" and you fill out all these forms,"
+90	and you don't actually know how they're going to describe you,
+93	and it flashed across my desk that they were going to introduce me as a futurist.
+96	"And I've always been nervous about the term ""futurist,"""
+98	because you seem doomed to failure because you can't really predict it.
+101	And I was laughing about this with the very smart colleagues I have,
+104	"and said, ""You know, well, if I have to talk about the future, what is it?"""
+108	"And George Homsey, a great guy, said, ""Oh, the future is amazing."
+113	It is so much stranger than you think.
+115	We're going to reprogram the bacteria in your gut,
+117	"and we're going to make your poo smell like peppermint."""
+122	(Laughter)
+124	So, you may think that's sort of really crazy,
+127	but there are some pretty amazing things that are happening
+129	that make this possible.
+130	So, this isn't my work, but it's work of good friends of mine at MIT.
+134	This is called the registry of standard biological parts.
+136	This is headed by Drew Endy and Tom Knight
+138	and a few other very, very bright individuals.
+141	Basically, what they're doing is looking at biology as a programmable system.
+144	Literally, think of proteins as subroutines
+148	that you can string together to execute a program.
+151	Now, this is actually becoming such an interesting idea.
+156	This is a state diagram. That's an extremely simple computer.
+159	This one is a two-bit counter.
+161	So that's essentially the computational equivalent of two light switches.
+167	And this is being built by a group of students at Zurich
+170	for a design competition in biology.
+172	And from the results of the same competition last year,
+175	a University of Texas team of students programmed bacteria
+179	so that they can detect light and switch on and off.
+182	So this is interesting in the sense that you can now
+184	"do ""if-then-for"" statements in materials, in structure."
+189	This is a pretty interesting trend,
+191	because we used to live in a world where everyone's said glibly,
+193	"""Form follows function,"" but I think I've sort of grown up in a world"
+197	-- you listened to Neil Gershenfeld yesterday;
+200	I was in a lab associated with his -- where it's really a world
+204	where information defines form and function.
+207	I spent six years thinking about that,
+211	but to show you the power of art over science --
+213	"this is actually one of the cartoons I write. These are called ""HowToons."""
+216	I work with a fabulous illustrator called Nick Dragotta.
+218	Took me six years at MIT,
+220	and about that many pages to describe what I was doing,
+224	and it took him one page. And so this is our muse Tucker.
+229	He's an interesting little kid -- and his sister, Celine --
+231	and what he's doing here
+233	is observing the self-assembly of his Cheerios in his cereal bowl.
+237	And in fact you can program the self-assembly of things,
+240	so he starts chocolate-dipping edges,
+242	changing the hydrophobicity and the hydrophylicity.
+244	In theory, if you program those sufficiently,
+246	you should be able to do something pretty interesting
+248	and make a very complex structure.
+250	In this case, he's done self-replication of a complex 3D structure.
+255	And that's what I thought about for a long time,
+258	because this is how we currently make things.
+260	This is a silicon wafer, and essentially
+262	that's just a whole bunch of layers of two-dimensional stuff, sort of layered up.
+266	The feature side is -- you know, people will say,
+268	[unclear] down around about 65 nanometers now.
+270	On the right, that's a radiolara.
+272	That's a unicellular organism ubiquitous in the oceans.
+275	And that has feature sizes down to about 20 nanometers,
+279	and it's a complex 3D structure.
+281	We could do a lot more with computers and things generally
+285	if we knew how to build things this way.
+288	The secret to biology is, it builds computation
+291	into the way it makes things. So this little thing here, polymerase,
+294	is essentially a supercomputer designed for replicating DNA.
+299	And the ribosome here is another little computer
+302	that helps in the translation of the proteins.
+304	I thought about this
+305	in the sense that it's great to build in biological materials,
+308	but can we do similar things?
+310	Can we get self-replicating-type behavior?
+312	Can we get complex 3D structure automatically assembling
+316	in inorganic systems?
+318	Because there are some advantages to inorganic systems,
+320	like higher speed semiconductors, etc.
+322	So, this is some of my work
+324	on how do you do an autonomously self-replicating system.
+330	And this is sort of Babbage's revenge.
+332	These are little mechanical computers.
+333	These are five-state state machines.
+336	So, that's about three light switches lined up.
+339	In a neutral state, they won't bind at all.
+341	Now, if I make a string of these, a bit string,
+345	they will be able to replicate.
+347	So we start with white, blue, blue, white.
+348	That encodes; that will now copy. From one comes two,
+354	and then from two comes three.
+356	And so you've got this sort of replicating system.
+360	It was work actually by Lionel Penrose,
+362	father of Roger Penrose, the tiles guy.
+365	He did a lot of this work in the '60s,
+367	and so a lot of this logic theory lay fallow
+369	as we went down the digital computer revolution, but it's now coming back.
+372	So now I'm going to show you the hands-free, autonomous self-replication.
+376	So we've tracked in the video the input string,
+378	which was green, green, yellow, yellow, green.
+380	We set them off on this air hockey table.
+384	You know, high science uses air hockey tables --
+386	(Laughter)
+387	-- and if you watch this thing long enough you get dizzy,
+389	but what you're actually seeing is copies of that original string
+392	emerging from the parts bin that you have here.
+395	So we've got autonomous replication of bit strings.
+400	So, why would you want to replicate bit strings?
+403	Well, it turns out biology has this other very interesting meme,
+406	that you can take a linear string, which is a convenient thing to copy,
+409	and you can fold that into an arbitrarily complex 3D structure.
+413	So I was trying to, you know, take the engineer's version:
+416	Can we build a mechanical system in inorganic materials
+419	that will do the same thing?
+420	So what I'm showing you here is that we can make a 2D shape --
+425	the B -- assemble from a string of components
+429	that follow extremely simple rules.
+431	And the whole point of going with the extremely simple rules here,
+434	and the incredibly simple state machines in the previous design,
+437	was that you don't need digital logic to do computation.
+440	And that way you can scale things much smaller than microchips.
+444	So you can literally use these as the tiny components in the assembly process.
+448	So, Neil Gershenfeld showed you this video on Wednesday, I believe,
+453	but I'll show you again.
+455	This is literally the colored sequence of those tiles.
+458	Each different color has a different magnetic polarity,
+461	and the sequence is uniquely specifying the structure that is coming out.
+466	Now, hopefully, those of you who know anything about graph theory
+469	can look at that, and that will satisfy you
+471	that that can also do arbitrary 3D structure,
+474	and in fact, you know, I can now take a dog, carve it up
+479	and then reassemble it so it's a linear string
+481	that will fold from a sequence. And now
+483	I can actually define that three-dimensional object as a sequence of bits.
+490	So, you know, it's a pretty interesting world
+493	when you start looking at the world a little bit differently.
+495	And the universe is now a compiler.
+498	And so I'm thinking about, you know, what are the programs
+500	for programming the physical universe?
+503	And how do we think about materials and structure,
+506	sort of as an information and computation problem?
+509	Not just where you attach a micro-controller to the end point,
+512	but that the structure and the mechanisms are the logic, are the computers.
+517	Having totally absorbed this philosophy,
+522	I started looking at a lot of problems a little differently.
+525	With the universe as a computer,
+526	you can look at this droplet of water
+528	as having performed the computations.
+530	You set a couple of boundary conditions, like gravity,
+532	"the surface tension, density, etc., and then you press ""execute,"""
+536	and magically, the universe produces you a perfect ball lens.
+541	So, this actually applied to the problem
+543	of -- so there's a half a billion to a billion people in the world
+546	don't have access to cheap eyeglasses.
+548	So can you make a machine
+550	that could make any prescription lens very quickly on site?
+554	This is a machine where you literally define a boundary condition.
+558	If it's circular, you make a spherical lens.
+561	If it's elliptical, you can make an astigmatic lens.
+564	You then put a membrane on that and you apply pressure --
+567	so that's part of the extra program.
+569	And literally with only those two inputs --
+572	so, the shape of your boundary condition and the pressure --
+574	you can define an infinite number of lenses
+576	that cover the range of human refractive error,
+578	from minus 12 to plus eight diopters, up to four diopters of cylinder.
+583	And then literally, you now pour on a monomer.
+586	You know, I'll do a Julia Childs here.
+589	This is three minutes of UV light.
+592	And you reverse the pressure on your membrane
+595	once you've cooked it. Pop it out.
+598	I've seen this video, but I still don't know if it's going to end right.
+601	(Laughter)
+604	So you reverse this. This is a very old movie,
+606	so with the new prototypes, actually both surfaces are flexible,
+610	but this will show you the point.
+612	Now you've finished the lens, you literally pop it out.
+614	That's next year's Yves Klein, you know, eyeglasses shape.
+621	And you can see that that has a mild prescription of about minus two diopters.
+624	And as I rotate it against this side shot, you'll see that that has cylinder,
+628	and that was programmed in --
+629	literally into the physics of the system.
+633	So, this sort of thinking about structure as computation
+636	and structure as information leads to other things, like this.
+641	This is something that my people at SQUID Labs
+644	"are working on at the moment, called ""electronic rope."""
+646	So literally, you think about a rope. It has very complex structure in the weave.
+650	And under no load, it's one structure.
+652	Under a different load, it's a different structure. And you can actually exploit that
+655	by putting in a very small number of
+657	conducting fibers to actually make it a sensor.
+659	So this is now a rope that knows the load on the rope
+662	at any particular point in the rope.
+664	Just by thinking about the physics of the world,
+667	materials as the computer,
+669	you can start to do things like this.
+672	I'm going to segue a little here.
+675	I guess I'm just going to casually tell you the types of things
+677	that I think about with this.
+678	One thing I'm really interested about this right now is, how,
+682	if you're really taking this view of the universe as a computer,
+686	how do we make things in a very general sense,
+688	and how might we share the way we make things in a general sense
+692	the same way you share open source hardware?
+695	And a lot of talks here have espoused the benefits
+698	of having lots of people look at problems,
+700	share the information and work on those things together.
+703	So, a convenient thing about being a human is you move in linear time,
+706	and unless Lisa Randall changes that,
+708	we'll continue to move in linear time.
+711	So that means anything you do, or anything you make,
+713	you produce a sequence of steps --
+715	and I think Lego in the '70s nailed this,
+718	and they did it most elegantly.
+719	But they can show you how to build things in sequence.
+723	So, I'm thinking about, how can we generalize
+726	the way we make all sorts of things,
+728	so you end up with this sort of guy, right?
+730	And I think this applies across a very broad -- sort of, a lot of concepts.
+735	You know, Cameron Sinclair yesterday said,
+737	"""How do I get everyone to collaborate on design"
+739	"globally to do housing for humanity?"""
+742	And if you've seen Amy Smith,
+744	she talks about how you get students at MIT
+748	to work with communities in Haiti.
+750	And I think we have to sort of redefine and rethink
+752	how we define structure and materials and assembly things,
+756	so that we can really share the information
+758	on how you do those things in a more profound way
+760	and build on each other's source code for structure.
+763	I don't know exactly how to do this yet,
+764	but, you know, it's something being actively thought about.
+769	So, you know, that leads to questions
+771	like, is this a compiler? Is this a sub-routine?
+775	Interesting things like that.
+776	Maybe I'm getting a little too abstract, but you know,
+779	this is the sort of -- returning to our comic characters --
+782	this is sort of the universe, or a different universe view,
+784	that I think is going to be very prevalent in the future --
+786	from biotech to materials assembly. It was great to hear Bill Joy.
+789	They're starting to invest in materials science,
+792	but these are the new things in materials science.
+794	How do we put real information and real structure into new ideas,
+798	and see the world in a different way? And it's not going to be binary code
+801	that defines the computers of the universe --
+803	it's sort of an analog computer.
+805	But it's definitely an interesting new worldview.
+810	I've gone too far. So that sounds like it's it.
+813	I've probably got a couple of minutes of questions,
+815	or I can show -- I think they also said that I do extreme stuff
+819	in the introduction, so I may have to explain that.
+823	So maybe I'll do that with this short video.
+826	So this is actually a 3,000-square-foot kite,
+832	which also happens to be a minimal energy surface.
+834	So returning to the droplet, again,
+836	thinking about the universe in a new way.
+838	This is a kite designed by a guy called Dave Kulp.
+840	And why do you want a 3,000-square-foot kite?
+842	So that's a kite the size of your house.
+844	And so you want that to tow boats very fast.
+848	So I've been working on this a little, also,
+851	with a couple of other guys.
+853	But, you know, this is another way to look at the --
+855	if you abstract again,
+857	this is a structure that is defined by the physics of the universe.
+861	You could just hang it as a bed sheet,
+862	but again, the computation of all the physics
+864	gives you the aerodynamic shape.
+866	And so you can actually sort of almost double your boat speed
+869	with systems like that. So that's sort of another interesting aspect of the future.
+876	(Applause)

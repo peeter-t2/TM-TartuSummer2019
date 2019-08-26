@@ -1,0 +1,708 @@
+startsecond	text
+25.56	Charles Van Doren, who was later
+25.56	a senior editor of Britannica,
+28.719	said the ideal encyclopedia
+28.719	should be radical --
+31.92	it should stop being safe.
+33.48	But if you know anything about the history
+33.48	of Britannica since 1962,
+36.72	it was anything but radical:
+38.08	still a very completely safe,
+38.08	stodgy type of encyclopedia.
+43	Wikipedia, on the other hand,
+43	begins with a very radical idea,
+47.2	and that's for all of us
+47.2	to imagine a world
+49.24	in which every single person on the planet
+51.28	is given free access
+51.28	to the sum of all human knowledge.
+53.88	And that's what we're doing.
+56	So Wikipedia --
+57.183	you just saw the little
+57.183	demonstration of it --
+59.64	it's a freely licensed encyclopedia.
+61.76	It's written by thousands of volunteers
+63.642	all over the world
+63.642	in many, many languages.
+66.32	It's written using wiki software --
+68.08	which is the type of software
+68.08	he just demonstrated --
+70.66	so anyone can quickly edit and save,
+72.399	and it goes live
+72.399	on the Internet immediately.
+75.64	And everything about Wikipedia is managed
+75.64	by virtually an all-volunteer staff.
+80.28	So when Yochai is talking
+80.28	about new methods of organization,
+84.72	he's exactly describing Wikipedia.
+87.24	And what I'm going to do today
+88.693	is tell you a little bit more
+88.693	about how it really works on the inside.
+92.96	So Wikipedia's owned
+92.96	by the Wikimedia Foundation,
+96.12	which I founded,
+97.36	a nonprofit organization.
+98.8	And our goal, the core aim
+98.8	of the Wikimedia Foundation,
+102.84	is to get a free encyclopedia
+102.84	to every single person on the planet.
+106.04	And so, if you think
+106.04	about what that means,
+108.08	it means a lot more
+108.08	than just building a cool website.
+110.64	We're really interested
+110.64	in all the issues of the digital divide,
+113.68	poverty worldwide,
+115.28	empowering people everywhere
+115.28	to have the information that they need
+118.68	to make good decisions.
+119.92	And so we're going
+119.92	to have to do a lot of work
+122.52	that goes beyond just the Internet.
+124.24	And so that's a big part of why
+124.24	we've chosen the free licensing model,
+127.56	because that empowers local
+127.56	entrepreneurs or anyone who wants to --
+130.823	they can take our content
+130.823	and do anything they like with it --
+133.759	you can copy it, redistribute it --
+135.465	and you can do it
+135.465	commercially or non-commercially.
+137.901	So there's a lot of opportunities
+137.901	that are going to arise around Wikipedia
+141.425	all over the world.
+143.48	We're funded by donations from the public,
+145.52	and one of the more
+145.52	interesting things about that
+148	is how little money
+148	it actually takes to run Wikipedia.
+151.84	So Yochai showed you the graph
+151.84	of what the cost of a printing press was.
+156.4	And I'm going to tell you
+156.4	what the cost of Wikipedia is.
+159.76	But first, I'll show you how big it is.
+161.642	So we've got over 600,000
+161.642	articles in English.
+166.04	We've got two million total articles
+166.04	across many, many different languages.
+170.52	The biggest languages
+170.52	are German, Japanese, French --
+173.8	all the Western-European
+173.8	languages are quite big.
+177.52	But only around one-third
+177.52	of all of our traffic to our web
+180.92	clusters to the English Wikipedia,
+182.58	which is surprising to a lot of people.
+184.462	A lot of people think in a very
+184.462	English-centric way on the Internet,
+187.84	but for us, we're truly global.
+189.76	We're in many, many languages.
+191.88	How popular we've gotten to be --
+191.88	we're a top-50 website
+195.04	and we're more popular
+195.04	than the New York Times.
+197.255	So this is where we get
+197.255	to Yochai's discussion.
+201.96	This shows the growth of Wikipedia --
+201.96	we're the blue line there --
+205.32	and this is the New York Times over there.
+208.04	And what's interesting about this
+209.64	is the New York Times website is a huge,
+209.64	enormous corporate operation
+214	with I have no idea
+214	how many hundreds of employees.
+216.52	We have exactly one employee,
+218.56	and that employee
+218.56	is our lead software developer.
+221.2	And he's only been our employee
+221.2	since January 2005,
+224.4	all the other growth before that ...
+226.24	So the servers are managed
+226.24	by a ragtag band of volunteers.
+229.88	All the editing is done by volunteers.
+231.88	And the way that we're organized
+233.44	is not like any traditional
+233.44	organization you can imagine.
+236.147	People are always asking,
+236.147	"""Well, who's in charge of this?"""
+238.886	"or ""Who does that?"""
+240.08	And the answer is:
+240.08	anybody who wants to pitch in.
+242.4	It's a very unusual and chaotic thing.
+246.48	We've got over 90 servers now
+246.48	in three locations.
+248.8	These are managed by volunteer
+248.8	system administrators who are online.
+254.08	I can go online
+254.08	any time of the day or night
+256.16	and see eight to 10 people waiting for me
+260.48	to ask a question or something,
+260.48	anything about the servers.
+264.04	You could never afford
+264.04	to do this in a company.
+266.4	You could never afford
+267.64	to have a standby crew of people
+271.4	and do what we're doing at Wikipedia.
+274.48	So we're doing around
+274.48	1.4 billion page views monthly,
+277.72	so it's really gotten to be a huge thing.
+280.36	And everything is managed
+280.36	by the volunteers.
+282.76	And the total monthly cost
+282.76	for our bandwidth is about 5,000 dollars.
+287	And that's essentially our main cost.
+288.96	We could actually do without the employee.
+291.24	We hired Brian because he was
+291.24	working part-time for two years
+295.68	and full-time at Wikipedia,
+297	so we actually hired him,
+298.24	so he could get a life
+298.24	and go to the movies sometimes.
+301.955	So the big question when you've got
+301.955	this really chaotic organization is,
+305.36	why isn't it all rubbish?
+306.6	Why is the website as good as it is?
+308.995	First of all, how good is it?
+310.4	Well, it's pretty good.
+311.96	It isn't perfect,
+313.2	but it's much better
+313.2	than you would expect,
+315.24	given our completely chaotic model.
+316.947	So when you saw him make
+316.947	a ridiculous edit to the page about me,
+319.987	"you think, ""Oh, this is obviously"
+319.987	"just going to degenerate into rubbish."""
+323.76	But when we've seen quality tests --
+325.515	and there haven't been enough of these yet
+327.555	and I'm really encouraging
+327.555	people to do more,
+330.16	comparing Wikipedia
+330.16	to traditional things --
+332.32	we win hands down.
+334.12	So a German magazine
+334.12	compared German Wikipedia,
+336.88	which is much, much smaller than English,
+340.24	to Microsoft Encarta
+340.24	and to Brockhaus multimedial,
+344.36	and we won across the board.
+345.84	They hired experts to come and look
+345.84	at articles and compare the quality,
+349.245	and we were very pleased with that result.
+352.32	So a lot of people have heard about
+352.32	the Wikipedia Bush-Kerry controversy.
+357.88	The media has covered this
+357.88	somewhat extensively.
+360.56	It started out
+360.56	with an article in Red Herring.
+363.4	The reporters called me up and they --
+365.24	I mean, I have to say
+365.24	they spelled my name right,
+368.24	but they really wanted to say
+368.24	the Bush-Kerry election is so contentious,
+373.2	it's tearing apart
+373.2	the Wikipedia community.
+375.6	And so they quote me as saying,
+377.12	"""They're the most contentious"
+377.12	"in the history of Wikipedia."""
+380.04	What I actually said
+380.04	is they're not contentious at all.
+382.64	So it's a slight misquote.
+384.76	(Laughter)
+386.56	The articles were edited quite heavily.
+388.6	And it is true that we did
+388.6	have to lock the articles
+391.08	on a couple of occasions.
+392.44	Time magazine recently reported that
+394.84	"""Extreme action sometimes has to be taken,"
+396.88	and Wales locked the entries
+396.88	"on Kerry and Bush for most of 2004."""
+401.76	This came after I told the reporter
+401.76	that we had to lock it for --
+406.04	occasionally a little bit here and there.
+408.2	So the truth in general
+408.2	is that the kinds of controversies
+411.6	that you would probably think
+411.6	we have within the Wikipedia community
+414.815	are not really controversies at all.
+417.56	Articles on controversial topics
+417.56	are edited a lot,
+420.08	but they don't cause much controversy
+420.08	within the community.
+423.08	And the reason for this is that most
+423.08	people understand the need for neutrality.
+427.6	The real struggle is not
+427.6	between the right and the left --
+434.32	that's where most people assume --
+435.964	but it's between
+435.964	the party of the thoughtful
+438.04	and the party of the jerks.
+439.36	And no side of the political spectrum
+441.2	has a monopoly
+441.2	on either of those qualities.
+443.68	The actual truth
+443.68	about the specific Bush-Kerry incident
+446.28	is that the Bush-Kerry articles
+449.28	were locked less than one percent
+449.28	of the time in 2004,
+452.28	and it wasn't because
+452.28	they were contentious;
+454.36	it was just because
+454.36	there was routine vandalism --
+456.72	which happens sometimes even on stage ...
+460.44	(Laughter)
+461.6	Sometimes even reporters have reported
+461.6	to me that they vandalized Wikipedia
+465.16	and were amazed
+465.16	that it was fixed so quickly.
+467.52	And I said -- you know, I always say,
+467.52	please don't do that.
+470.32	That's not a good thing.
+471.92	So how do we do this?
+473.44	How do we manage the quality control?
+476.32	How does it work?
+479.12	So there's a few elements,
+480.84	mostly social policies
+480.84	and some elements of the software.
+484.12	So the biggest
+484.12	and the most important thing
+486.88	is our neutral point of view policy.
+488.635	This is something
+488.635	that I set down, from the very beginning,
+491.421	as a core principle of the community
+491.421	that's completely not debatable.
+495.48	It's a social concept of cooperation,
+498.4	so we don't talk a lot
+498.4	about truth and objectivity.
+501.92	The reason for this is if we say
+504	we're only going to write
+504	"the ""truth"" about some topic,"
+506.6	that doesn't do us a damn bit of good
+506.6	of figuring out what to write,
+509.831	because I don't agree with you
+509.831	about what's the truth.
+512.391	But we have this
+512.391	jargon term of neutrality,
+514.76	which has its own long history
+514.76	within the community,
+517.24	which basically says,
+517.24	any time there's a controversial issue,
+520.68	Wikipedia itself should not
+520.68	take a stand on the issue.
+523.28	We should merely report on what
+523.28	reputable parties have said about it.
+526.543	So this neutrality policy
+526.543	is really important for us
+529.64	because it empowers a community
+529.64	that is very diverse
+532.92	to come together
+532.92	and actually get some work done.
+535.24	So we have very diverse contributors
+537.4	in terms of political,
+537.4	religious, cultural backgrounds.
+540.64	By having this firm neutrality policy,
+542.48	which is non-negotiable
+542.48	from the beginning,
+544.52	we ensure that people can work together
+546.402	and that the entries
+546.402	don't become simply a war
+548.64	back and forth
+548.64	between the left and the right.
+550.807	If you engage in that type of behavior,
+550.807	you'll be asked to leave the community.
+556.24	So, real-time peer review.
+557.72	Every single change on the site
+557.72	"goes to the ""Recent changes"" page."
+560.88	So as soon as he made his change,
+560.88	"it went to the ""Recent changes"" page."
+564.4	That recent changes page
+564.4	was also fed into an IRC channel,
+568.4	which is an Internet chat channel
+570	that people are monitoring
+570	with various software tools.
+573.92	And people can get RSS feeds --
+576.4	they can get email
+576.4	notifications of changes.
+579.52	And then users can set up
+579.52	their own personal watch list.
+582.2	So my page is on quite a few
+582.2	volunteers' watch lists,
+584.717	because it is sometimes vandalized.
+586.437	And therefore, what happens is someone
+586.437	will notice the change very quickly,
+592.44	and then they'll just
+592.44	simply revert the change.
+595.84	"There's a ""new pages feed,"" for example,"
+597.78	so you can go
+597.78	to a certain page of Wikipedia
+599.86	and see every new page as it's created.
+601.82	This is really important
+602.98	because a lot of new pages
+602.98	are just garbage that has to be deleted,
+606.2	"you know, ""ASDFASDF."""
+607.48	But also, that's some
+607.48	of the most interesting and fun things,
+610.42	some of the new articles.
+611.66	People will start an article
+611.66	on some interesting topic,
+614.26	other people will find that intriguing
+616.1	and jump in and help
+616.1	and make it much better.
+618.52	So we do have edits by anonymous users,
+620.44	which is one of the most controversial
+620.44	and intriguing things about Wikipedia.
+624.32	So, Chris was able to do his change --
+624.32	he didn't have to log in or anything;
+627.96	he just went on the website
+627.96	and made a change.
+630.8	But it turns out
+630.8	that only about 18 percent
+632.88	of all the edits to the website
+634.4	are done by anonymous users.
+635.76	And that's a really important
+635.76	thing to understand:
+638.12	the vast majority of the edits
+638.12	that go on on the website
+641.4	are from a very close-knit community
+641.4	of maybe 600 to 1,000 people
+645.12	who are in constant communication.
+646.764	And we have over 40 IRC channels,
+649.36	All these people know each other.
+650.96	They communicate.
+650.96	We have off-line meetings.
+653.032	These are the people
+653.032	who are doing the bulk of the site,
+655.676	and they are, in a sense,
+655.676	semi-professionals at what they're doing.
+660.96	The standards we set for ourselves
+663.32	are equal to or higher
+663.32	than professional standards of quality.
+666.4	We don't always meet those standards,
+666.4	but that's what we're striving for.
+669.94	And so that tight community
+669.94	is who really cares for the site,
+672.822	and these are some
+672.822	of the smartest people I've ever met.
+675.48	It's my job to say that,
+675.48	but it's actually true.
+677.76	The type of people who were drawn
+677.76	to writing an encyclopedia for fun
+681.52	tend to be pretty smart people.
+683.88	The tools and the software:
+683.88	there's lots of tools that allow us --
+687	allow us, meaning the community --
+688.644	to self-monitor
+688.644	and to monitor all the work.
+690.72	This is an example
+690.72	"of a page history on ""flat Earth,"""
+693.24	and you can see some changes
+693.24	that were made.
+695.32	What's nice about this page
+695.32	is you can immediately take a look at this
+698.64	"and see, ""OK, I understand now."""
+700.24	When somebody goes and looks at --
+702.04	they see that someone,
+702.04	an anonymous IP number,
+704.207	made an edit to my page.
+705.72	That sounds suspicious.
+705.72	Who is this person?
+707.8	Somebody looks at it --
+709.04	they can immediately see
+709.04	highlighted in red
+711.08	all of the changes that took place --
+713	to see, OK, well, these words
+713	have changed, things like this.
+716.64	So that's one tool that we can use
+718.284	to very quickly monitor
+718.284	the history of a page.
+721.52	Another thing that we do
+721.52	within the community
+723.84	is we leave everything very open-ended.
+727.24	Most of the social rules
+727.24	and the methods of work
+730.64	are left completely open-ended
+730.64	in the software.
+733.08	All of that stuff is just on Wiki pages.
+735.12	And so there's nothing
+735.12	in the software that enforces the rules.
+738.24	The example I've got up here
+738.24	is the Votes for Deletion page.
+742.28	So, I mentioned earlier,
+742.28	"people type ""ASDFASDF"" --"
+744.88	it needs to be deleted.
+746.12	Cases like that,
+746.12	the administrators just delete it.
+748.62	There's no reason
+748.62	to have a big argument about it.
+750.98	But you can imagine there's a lot
+750.98	of other areas where the question is,
+754.339	is this notable enough
+754.339	to go in an encyclopedia?
+756.603	Is the information verifiable?
+756.603	Is it a hoax? Is it true? Is it what?
+760.2	So we needed a social method
+760.2	for figuring out the answer to this.
+763.28	And so the method that arose
+763.28	organically within the community
+766.162	is the Votes For Deletion page.
+767.76	And in the particular
+767.76	example we have here,
+769.8	"it's a film, ""Twisted Issues,"""
+771.32	and the first person says,
+772.8	"""Now this is supposedly a film."
+772.8	"It fails the Google test miserably."""
+776.52	The Google test is you look in Google
+776.52	and see if it's there,
+779.36	because if something's not even in Google,
+779.36	it probably doesn't exist at all.
+783.28	It's not a perfect rule,
+784.88	but it's a nice starting point
+784.88	for quick research.
+788.24	"So somebody says, ""Delete it, please."
+788.24	"Delete it -- it's not notable."""
+791.519	And then somebody says,
+791.519	"""Wait, I found it. I found it in a book,"
+794.559	'Film Threat Video Guide:
+794.559	"the 20 Underground Films You Must See.'"""
+797.84	"So the next persons says, ""Clean it up."""
+799.769	"Somebody says, ""I've found it on IMDB."
+799.769	"Keep, keep, keep."""
+803.2	And what's interesting about this
+803.2	is that the software is --
+806.04	these votes are just text
+806.04	typed into a page.
+809.6	This is not really a vote
+809.6	so much as it is a dialogue.
+813.68	Now it is true that at the end of the day,
+816.44	an administrator can go through here
+816.44	and take a look at this and say,
+819.703	"""OK, 18 deletes, two keeps:"
+819.703	"we'll delete it."""
+822.2	But in other cases,
+822.2	this could be 18 deletes and two keeps,
+826	and we would keep it,
+826	because if those last two keeps say,
+828.82	"""Wait a minute. Nobody else saw this"
+828.82	but I found it in a book,
+831.749	and I found a link
+831.749	to a page that describes it,
+833.971	and I'm going to clean it up tomorrow,
+833.971	"so please don't delete it,"""
+837.091	then it would survive.
+838.3	And it also matters
+838.3	who the people are who are voting.
+840.92	Like I say, it's a tight-knit community.
+842.849	Down here at the bottom,
+842.849	"""Keep, real movie,"" RickK."
+845.4	RickK is a very famous Wikipedian
+845.4	who does an enormous amount of work
+848.805	with vandalism, hoaxes
+848.805	and votes for deletion.
+851.56	His voice carries a lot of weight
+851.56	within the community
+854.4	because he knows what he's doing.
+857.4	So how is all this governed?
+859.36	People really want to know
+859.36	about administrators, things like that.
+862.52	So the Wikipedia governance model,
+862.52	the governance of the community,
+866.4	is a very confusing,
+866.4	but workable mix of consensus --
+870.84	meaning we try not to vote
+870.84	on the content of articles,
+873.4	because the majority view
+873.4	is not necessarily neutral --
+877.32	some amount of democracy --
+878.64	all of the administrators --
+880	these are the people
+880	who have the ability to delete pages.
+882.82	That doesn't mean that they have
+882.82	the right to delete pages.
+885.68	They still have to follow all the rules --
+885.68	but they're elected by the community.
+889.54	Sometimes people --
+889.54	random trolls on the Internet --
+891.994	like to accuse me
+891.994	of handpicking the administrators
+894.401	to bias the content of the encyclopedia.
+896.33	I always laugh at this, because I have
+896.33	no idea how they're elected, actually.
+900.12	There's a certain amount of aristocracy.
+902.12	You got a hint of that
+902.12	when I mentioned, like,
+904.287	RickK's voice would carry
+904.287	a lot more weight
+906.463	than someone we don't know.
+907.783	I give this talk sometimes with Angela,
+910.52	who was just re-elected to the board
+910.52	from the community --
+913.275	to the Board of the Foundation,
+914.795	with more than twice the votes
+914.795	of the person who didn't make it.
+917.96	And I always embarrass her because I say,
+920.92	"""Well, Angela, for example,"
+922.24	could get away with doing
+922.24	absolutely anything within Wikipedia,
+925.68	"because she's so admired and so powerful."""
+927.72	But the irony is, of course, that Angela
+927.72	can do this because she's the one person
+931.56	who you know would never, ever
+931.56	break any rules of Wikipedia.
+934.56	And I also like to say
+934.56	she's the only person
+936.64	who actually knows
+936.64	all the rules of Wikipedia, so ...
+939.88	And then there's monarchy,
+941.143	and that's my role
+941.143	on the community, so ...
+943.183	(Laughter)
+945.6	I was describing this in Berlin once,
+948.24	and the next day
+948.24	in the newspaper the headline said,
+951.04	"""I am the Queen of England."""
+952.632	(Laughter)
+953.807	And that's not exactly what I said, but --
+956.2	(Laughter)
+957.72	the point is my role in the community --
+960.32	Within the free software world,
+960.32	there's been a long-standing tradition
+965.04	"of the ""benevolent dictator"" model."
+968.28	So if you look at most
+968.28	of the major free software projects,
+971.16	they have one single person in charge
+972.96	who everyone agrees
+972.96	is the benevolent dictator.
+976.32	Well, I don't like the term
+976.32	"""benevolent dictator,"""
+978.84	and I don't think that it's my job
+978.84	or my role in the world of ideas
+982.84	to be the dictator of the future
+982.84	of all human knowledge
+986.2	compiled by the world.
+987.44	It just isn't appropriate.
+989.16	But there is a need still
+989.16	for a certain amount of monarchy,
+991.96	a certain amount of --
+993.56	sometimes we have to make a decision
+995.36	and we don't want
+995.36	to get bogged down too heavily
+997.623	in formal decision-making processes.
+1000.36	So as an example
+1000.36	of how this can be important:
+1005.28	we recently had a situation where
+1005.28	a neo-Nazi website discovered Wikipedia,
+1009.28	and they said,
+1009.28	"""Oh, well, this is horrible,"
+1012.16	this Jewish conspiracy of a website,
+1014.08	and we're going to get certain articles
+1014.08	deleted that we don't like.
+1017.263	And we see they have a voting process,
+1017.263	so we're going to send --
+1020.287	we have 40,000 members
+1020.287	and we're going to send them over
+1023.12	and they're all going to vote
+1023.12	"and get these pages deleted."""
+1025.922	Well, they managed
+1025.922	to get 18 people to show up.
+1028.137	That's neo-Nazi math for you.
+1030.92	They always think they've got
+1034.4	But they managed to get 18 people
+1034.4	to come and vote in a fairly absurd way
+1037.92	to delete a perfectly valid article.
+1039.96	Of course, the vote ended up
+1039.96	being about 85 to 18,
+1042.72	so there was no real danger
+1042.72	to our democratic processes.
+1046	On the other hand, people said,
+1046	"""But what are we going to do?"
+1049.319	I mean, this could happen.
+1050.599	What if some group
+1050.599	gets really seriously organized
+1052.96	"and comes in and wants to vote?"""
+1055.56	"Then I said, ""Well, fuck it,"
+1055.56	"we'll just change the rules."""
+1058.359	That's my job in the community:
+1060.079	to say we won't allow
+1060.079	our openness and freedom
+1063.68	to undermine the quality of the content.
+1066.28	And so, as long as people
+1066.28	trust me in my role,
+1069.599	then that's a valid place for me.
+1071.48	Of course, because of the free licensing,
+1073.54	if I do a bad job, the volunteers
+1073.54	are more than happy to take and leave --
+1077.041	I can't tell anyone what to do.
+1079	So the final point here
+1079	is that to understand how Wikipedia works,
+1083.72	it's important to understand
+1083.72	that our wiki model is the way we work,
+1086.935	but we are not fanatical web anarchists.
+1090.56	In fact, we're very flexible
+1090.56	about the social methodology,
+1093.96	because ultimately,
+1093.96	the passion of the community
+1096.4	is for the quality of the work,
+1098.44	not necessarily for the process
+1098.44	that we use to generate it.
+1101.44	Thank you.
+1102.68	(Applause)
+1106.96	Ben Saunders: Yeah, hi, Ben Saunders.
+1108.76	Jimmy, you mentioned impartiality
+1108.76	being a key to Wikipedia's success.
+1112.92	It strikes me that much of the textbooks
+1112.92	that are used to educate our children
+1118.28	are inherently biased.
+1120.08	Have you found Wikipedia
+1120.08	being used by teachers
+1123.72	and how do you see Wikipedia
+1123.72	changing education?
+1126.2	Jimmy Wales: Yeah, so, a lot of teachers
+1126.2	are beginning to use Wikipedia.
+1130.44	There's a media storyline about Wikipedia,
+1130.44	which I think is false.
+1135.04	It builds on the storyline
+1135.04	of bloggers versus newspapers.
+1138.64	And the storyline is,
+1138.64	there's this crazy thing, Wikipedia,
+1141.8	but academics hate it
+1141.8	and teachers hate it.
+1145.28	And that turns out to not be true.
+1147.88	The last time I got an email
+1147.88	from a journalist saying,
+1150.44	"""Why do academics hate Wikipedia?"""
+1152.18	I sent it from my Harvard email address
+1154.062	because I was recently
+1154.062	appointed a fellow there.
+1156.339	"And I said, ""Well,"
+1156.339	"they don't all hate it."""
+1158.379	(Laughter)
+1159.48	But I think there's going
+1159.48	to be huge impacts.
+1162.36	And we actually have a project
+1162.36	that I'm personally really excited about,
+1165.8	which is the Wikibooks project,
+1167.32	which is an effort to create
+1167.32	textbooks in all the languages.
+1170.44	And that's a much bigger project.
+1172.04	It's going to take 20 years or so
+1172.04	to come to fruition.
+1176.68	But part of that is to fulfill our mission
+1178.72	of giving an encyclopedia
+1178.72	to every single person on the planet.
+1181.72	We don't mean we're going
+1181.72	to Spam them with AOL-style CDs.
+1184.6	We mean we're going to give them
+1184.6	a tool that they can use.
+1187.42	And for a lot of people in the world,
+1189.22	if I give you an encyclopedia
+1189.22	that's written at a university level,
+1192.42	it doesn't do you any good
+1192.42	without a whole host of literacy materials
+1196	to build you up to the point
+1196	where you can actually use it.
+1198.8	The Wikibooks project
+1198.8	is an effort to do that.
+1200.967	And I think that we're going to see --
+1200.967	it may not even come from us;
+1204.2	there's all kinds of innovation going on.
+1206.2	But freely licensed textbooks
+1206.2	are the next big thing in education.

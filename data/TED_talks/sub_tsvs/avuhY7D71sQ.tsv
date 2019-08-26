@@ -1,0 +1,490 @@
+startsecond	text
+12.811	So you go to the doctor
+12.811	and get some tests.
+16.674	The doctor determines
+16.674	that you have high cholesterol
+19.318	and you would benefit
+19.318	from medication to treat it.
+22.981	So you get a pillbox.
+25.505	You have some confidence,
+26.728	your physician has some confidence
+26.728	that this is going to work.
+29.689	The company that invented it did
+29.689	a lot of studies, submitted it to the FDA.
+33.266	They studied it very carefully,
+33.266	skeptically, they approved it.
+36.397	They have a rough idea of how it works,
+38.31	they have a rough idea
+38.31	of what the side effects are.
+40.787	It should be OK.
+42.864	You have a little more
+42.864	of a conversation with your physician
+45.706	and the physician is a little worried
+45.706	because you've been blue,
+48.693	haven't felt like yourself,
+50.01	you haven't been able to enjoy things
+50.01	in life quite as much as you usually do.
+53.765	"Your physician says, ""You know,"
+53.765	I think you have some depression.
+57.792	I'm going to have to give
+57.792	"you another pill."""
+60.934	So now we're talking
+60.934	about two medications.
+63.441	This pill also -- millions
+63.441	of people have taken it,
+66.569	the company did studies,
+66.569	the FDA looked at it -- all good.
+70.823	Think things should go OK.
+72.904	Think things should go OK.
+75.125	Well, wait a minute.
+76.588	How much have we studied
+76.588	these two together?
+80.63	Well, it's very hard to do that.
+82.954	In fact, it's not traditionally done.
+85.108	We totally depend on what we call
+85.108	"""post-marketing surveillance,"""
+90.65	after the drugs hit the market.
+92.996	How can we figure out
+92.996	if bad things are happening
+95.868	between two medications?
+97.249	Three? Five? Seven?
+99.708	Ask your favorite person
+99.708	who has several diagnoses
+102.147	how many medications they're on.
+104.53	Why do I care about this problem?
+106.134	I care about it deeply.
+107.315	I'm an informatics and data science guy
+107.315	and really, in my opinion,
+111.643	the only hope -- only hope --
+111.643	to understand these interactions
+115.412	is to leverage lots
+115.412	of different sources of data
+118.492	in order to figure out
+118.492	when drugs can be used together safely
+122.072	and when it's not so safe.
+124.615	So let me tell you a data science story.
+126.69	And it begins with my student Nick.
+128.868	"Let's call him ""Nick,"""
+128.868	because that's his name.
+131.272	(Laughter)
+132.888	Nick was a young student.
+134.113	"I said, ""You know, Nick, we have"
+134.113	to understand how drugs work
+137.216	and how they work together
+137.216	and how they work separately,
+139.866	and we don't have a great understanding.
+141.812	But the FDA has made available
+141.812	an amazing database.
+144.241	It's a database of adverse events.
+146.321	They literally put on the web --
+147.987	publicly available, you could all
+147.987	download it right now --
+151.13	hundreds of thousands
+151.13	of adverse event reports
+154.781	from patients, doctors,
+154.781	companies, pharmacists.
+158.565	And these reports are pretty simple:
+160.338	it has all the diseases
+160.338	that the patient has,
+163.02	all the drugs that they're on,
+164.811	and all the adverse events,
+164.811	or side effects, that they experience.
+168.653	It is not all of the adverse events
+168.653	that are occurring in America today,
+172.113	but it's hundreds and hundreds
+172.113	of thousands of drugs.
+174.715	So I said to Nick,
+176.038	"""Let's think about glucose."
+177.888	Glucose is very important,
+177.888	and we know it's involved with diabetes.
+181.479	Let's see if we can understand
+181.479	glucose response.
+185.473	I sent Nick off. Nick came back.
+188.248	"""Russ,"" he said,"
+190.351	"""I've created a classifier that can"
+190.351	look at the side effects of a drug
+195.487	based on looking at this database,
+197.562	and can tell you whether that drug
+197.562	"is likely to change glucose or not."""
+201.857	He did it. It was very simple, in a way.
+203.897	He took all the drugs
+203.897	that were known to change glucose
+206.556	and a bunch of drugs
+206.556	that don't change glucose,
+208.969	"and said, ""What's the difference"
+208.969	in their side effects?
+211.881	Differences in fatigue? In appetite?
+211.881	"In urination habits?"""
+216.757	All those things conspired
+216.757	to give him a really good predictor.
+219.741	"He said, ""Russ, I can predict"
+219.741	with 93 percent accuracy
+222.313	"when a drug will change glucose."""
+223.909	"I said, ""Nick, that's great."""
+225.349	He's a young student,
+225.349	you have to build his confidence.
+228.269	"""But Nick, there's a problem."
+229.683	It's that every physician in the world
+229.683	knows all the drugs that change glucose,
+233.667	because it's core to our practice.
+235.729	So it's great, good job,
+235.729	but not really that interesting,
+239.475	"definitely not publishable."""
+241.03	(Laughter)
+242.068	"He said, ""I know, Russ."
+242.068	"I thought you might say that."""
+244.642	Nick is smart.
+246.149	"""I thought you might say that,"
+246.149	so I did one other experiment.
+249.047	I looked at people in this database
+249.047	who were on two drugs,
+251.999	and I looked for signals similar,
+251.999	glucose-changing signals,
+256.445	for people taking two drugs,
+258.093	where each drug alone
+258.093	did not change glucose,
+263.686	"but together I saw a strong signal."""
+266.17	"And I said, ""Oh! You're clever."
+266.17	"Good idea. Show me the list."""
+269.343	And there's a bunch of drugs,
+269.343	not very exciting.
+271.621	But what caught my eye
+271.621	was, on the list there were two drugs:
+275.577	paroxetine, or Paxil, an antidepressant;
+279.756	and pravastatin, or Pravachol,
+279.756	a cholesterol medication.
+283.936	"And I said, ""Huh. There are millions"
+283.936	"of Americans on those two drugs."""
+288.243	In fact, we learned later,
+	at the time, 15 million on pravastatin,
+295.569	and a million, we estimated, on both.
+298.767	So that's a million people
+300.045	who might be having some problems
+300.045	with their glucose
+302.522	if this machine-learning mumbo jumbo
+302.522	that he did in the FDA database
+305.752	actually holds up.
+307.03	"But I said, ""It's still not publishable,"
+308.981	because I love what you did
+308.981	with the mumbo jumbo,
+311.301	with the machine learning,
+312.571	but it's not really standard-of-proof
+312.571	"evidence that we have."""
+317.618	So we have to do something else.
+319.231	Let's go into the Stanford
+319.231	electronic medical record.
+322.131	We have a copy of it
+322.131	that's OK for research,
+324.219	we removed identifying information.
+326.581	"And I said, ""Let's see if people"
+326.581	on these two drugs
+329.108	"have problems with their glucose."""
+331.242	Now there are thousands
+331.242	and thousands of people
+333.473	in the Stanford medical records
+333.473	that take paroxetine and pravastatin.
+336.956	But we needed special patients.
+338.779	We needed patients who were on one of them
+338.779	and had a glucose measurement,
+343.4	then got the second one and had
+343.4	another glucose measurement,
+346.873	all within a reasonable period of time --
+346.873	something like two months.
+350.512	And when we did that,
+350.512	we found 10 patients.
+354.592	However, eight out of the 10
+354.592	had a bump in their glucose
+359.154	when they got the second P --
+359.154	we call this P and P --
+361.823	when they got the second P.
+363.157	Either one could be first,
+363.157	the second one comes up,
+365.743	glucose went up
+368.614	Just as a reminder,
+369.796	you walk around normally,
+369.796	if you're not diabetic,
+372.145	with a glucose of around 90.
+373.528	And if it gets up to 120, 125,
+375.628	your doctor begins to think
+375.628	about a potential diagnosis of diabetes.
+379.102	So a 20 bump -- pretty significant.
+382.601	"I said, ""Nick, this is very cool."
+385.616	But, I'm sorry, we still
+385.616	don't have a paper,
+387.693	because this is 10 patients
+387.693	and -- give me a break --
+390.296	"it's not enough patients."""
+391.565	So we said, what can we do?
+392.895	And we said, let's call our friends
+392.895	at Harvard and Vanderbilt,
+395.895	who also -- Harvard in Boston,
+395.895	Vanderbilt in Nashville,
+398.506	who also have electronic
+398.506	medical records similar to ours.
+401.351	Let's see if they can find
+401.351	similar patients
+403.395	with the one P, the other P,
+403.395	the glucose measurements
+406.695	in that range that we need.
+408.787	God bless them, Vanderbilt
+408.787	in one week found 40 such patients,
+413.766	same trend.
+415.804	Harvard found 100 patients, same trend.
+419.448	So at the end, we had 150 patients
+419.448	from three diverse medical centers
+423.753	that were telling us that patients
+423.753	getting these two drugs
+427.074	were having their glucose bump
+427.074	somewhat significantly.
+430.317	More interestingly,
+430.317	we had left out diabetics,
+433.151	because diabetics already
+433.151	have messed up glucose.
+435.492	When we looked
+435.492	at the glucose of diabetics,
+437.754	it was going up 60 milligrams
+437.754	per deciliter, not just 20.
+441.76	This was a big deal, and we said,
+441.76	"""We've got to publish this."""
+445.236	We submitted the paper.
+446.439	It was all data evidence,
+448.574	data from the FDA, data from Stanford,
+451.081	data from Vanderbilt, data from Harvard.
+453.051	We had not done a single real experiment.
+456.495	But we were nervous.
+458.201	So Nick, while the paper
+458.201	was in review, went to the lab.
+461.955	We found somebody
+461.955	who knew about lab stuff.
+464.441	I don't do that.
+465.858	I take care of patients,
+465.858	but I don't do pipettes.
+469.42	They taught us how to feed mice drugs.
+472.864	We took mice and we gave them
+472.864	one P, paroxetine.
+475.302	We gave some other mice pravastatin.
+477.834	And we gave a third group
+477.834	of mice both of them.
+481.893	And lo and behold, glucose went up
+485.863	in the mice.
+487.058	So the paper was accepted
+487.058	based on the informatics evidence alone,
+490.24	but we added a little note at the end,
+492.158	saying, oh by the way,
+492.158	if you give these to mice, it goes up.
+495.081	That was great, and the story
+495.081	could have ended there.
+497.613	But I still have six and a half minutes.
+499.634	(Laughter)
+502.465	So we were sitting around
+502.465	thinking about all of this,
+505.304	and I don't remember who thought
+505.304	of it, but somebody said,
+508.063	"""I wonder if patients"
+508.063	who are taking these two drugs
+511.288	are noticing side effects
+511.288	of hyperglycemia.
+514.865	They could and they should.
+516.761	"How would we ever determine that?"""
+519.551	We said, well, what do you do?
+521.018	You're taking a medication,
+521.018	one new medication or two,
+523.622	and you get a funny feeling.
+525.184	What do you do?
+526.359	You go to Google
+527.534	and type in the two drugs you're taking
+527.534	or the one drug you're taking,
+530.907	"and you type in ""side effects."""
+532.534	What are you experiencing?
+534.239	So we said OK,
+535.414	let's ask Google if they will share
+535.414	their search logs with us,
+538.494	so that we can look at the search logs
+540.351	and see if patients are doing
+540.351	these kinds of searches.
+542.94	Google, I am sorry to say,
+542.94	denied our request.
+546.819	So I was bummed.
+547.994	I was at a dinner with a colleague
+547.994	who works at Microsoft Research
+551.184	"and I said, ""We wanted to do this study,"
+553.149	"Google said no, it's kind of a bummer."""
+555.053	"He said, ""Well, we have"
+555.053	"the Bing searches."""
+558.195	(Laughter)
+562.805	Yeah.
+564.096	That's great.
+565.271	Now I felt like I was --
+566.446	(Laughter)
+567.47	I felt like I was talking to Nick again.
+570.437	He works for one of the largest
+570.437	companies in the world,
+573.085	and I'm already trying
+573.085	to make him feel better.
+575.315	"But he said, ""No, Russ --"
+575.315	you might not understand.
+577.784	We not only have Bing searches,
+579.308	but if you use Internet Explorer
+579.308	to do searches at Google,
+582.672	Yahoo, Bing, any ...
+584.587	Then, for 18 months, we keep that data
+584.587	"for research purposes only."""
+588.254	"I said, ""Now you're talking!"""
+590.214	This was Eric Horvitz,
+590.214	my friend at Microsoft.
+592.436	So we did a study
+594.155	where we defined 50 words
+594.155	that a regular person might type in
+598.798	if they're having hyperglycemia,
+600.424	"like ""fatigue,"" ""loss of appetite,"""
+600.424	"""urinating a lot,"" ""peeing a lot"" --"
+605.21	forgive me, but that's one
+605.21	of the things you might type in.
+608.001	So we had 50 phrases
+608.001	"that we called the ""diabetes words."""
+610.815	And we did first a baseline.
+612.902	And it turns out
+612.902	that about .5 to one percent
+615.63	of all searches on the Internet
+615.63	involve one of those words.
+618.636	So that's our baseline rate.
+620.402	"If people type in ""paroxetine"""
+620.402	"or ""Paxil"" -- those are synonyms --"
+624.569	and one of those words,
+625.808	the rate goes up to about two percent
+625.808	of diabetes-type words,
+630.722	if you already know
+630.722	"that there's that ""paroxetine"" word."
+634.191	"If it's ""pravastatin,"" the rate goes up"
+634.191	to about three percent from the baseline.
+639.171	"If both ""paroxetine"" and ""pravastatin"""
+639.171	are present in the query,
+643.585	it goes up to 10 percent,
+645.278	a huge three- to four-fold increase
+648.763	in those searches with the two drugs
+648.763	that we were interested in,
+652.176	and diabetes-type words
+652.176	or hyperglycemia-type words.
+656.216	We published this,
+657.505	and it got some attention.
+658.995	The reason it deserves attention
+660.797	is that patients are telling us
+660.797	their side effects indirectly
+665.133	through their searches.
+666.313	We brought this
+666.313	to the attention of the FDA.
+668.475	They were interested.
+669.768	They have set up social media
+669.768	surveillance programs
+673.398	to collaborate with Microsoft,
+675.173	which had a nice infrastructure
+675.173	for doing this, and others,
+677.991	to look at Twitter feeds,
+679.297	to look at Facebook feeds,
+681.037	to look at search logs,
+682.372	to try to see early signs that drugs,
+682.372	either individually or together,
+687.305	are causing problems.
+688.918	What do I take from this?
+688.918	Why tell this story?
+691.116	Well, first of all,
+692.347	we have now the promise
+692.347	of big data and medium-sized data
+696.408	to help us understand drug interactions
+699.35	and really, fundamentally, drug actions.
+701.794	How do drugs work?
+703.231	This will create and has created
+703.231	a new ecosystem
+706.091	for understanding how drugs work
+706.091	and to optimize their use.
+710.303	Nick went on; he's a professor
+710.303	at Columbia now.
+712.986	He did this in his PhD
+712.986	for hundreds of pairs of drugs.
+717.082	He found several
+717.082	very important interactions,
+719.623	and so we replicated this
+720.861	and we showed that this
+720.861	is a way that really works
+723.459	for finding drug-drug interactions.
+726.282	However, there's a couple of things.
+728.04	We don't just use pairs
+728.04	of drugs at a time.
+731.11	As I said before, there are patients
+731.11	on three, five, seven, nine drugs.
+735.981	Have they been studied with respect
+735.981	to their nine-way interaction?
+739.647	Yes, we can do pair-wise,
+739.647	A and B, A and C, A and D,
+743.879	but what about A, B, C,
+743.879	D, E, F, G all together,
+748.189	being taken by the same patient,
+749.975	perhaps interacting with each other
+752.117	in ways that either makes them
+752.117	more effective or less effective
+755.919	or causes side effects
+755.919	that are unexpected?
+758.275	We really have no idea.
+760.126	It's a blue sky, open field
+760.126	for us to use data
+763.906	to try to understand
+763.906	the interaction of drugs.
+766.848	Two more lessons:
+768.242	I want you to think about the power
+768.242	that we were able to generate
+772.465	with the data from people who had
+772.465	volunteered their adverse reactions
+777.2	through their pharmacists,
+777.2	through themselves, through their doctors,
+780.493	the people who allowed the databases
+780.493	at Stanford, Harvard, Vanderbilt,
+784.184	to be used for research.
+785.929	People are worried about data.
+787.398	They're worried about their privacy
+787.398	and security -- they should be.
+790.609	We need secure systems.
+791.784	But we can't have a system
+791.784	that closes that data off,
+795.214	because it is too rich of a source
+797.99	of inspiration, innovation and discovery
+801.985	for new things in medicine.
+804.494	And the final thing I want to say is,
+806.312	in this case we found two drugs
+806.312	and it was a little bit of a sad story.
+809.693	The two drugs actually caused problems.
+811.638	They increased glucose.
+813.137	They could throw somebody into diabetes
+815.607	who would otherwise not be in diabetes,
+817.925	and so you would want to use
+817.925	the two drugs very carefully together,
+821.124	perhaps not together,
+822.299	make different choices
+822.299	when you're prescribing.
+824.663	But there was another possibility.
+826.533	We could have found
+826.533	two drugs or three drugs
+828.901	that were interacting in a beneficial way.
+831.616	We could have found new effects of drugs
+834.352	that neither of them has alone,
+836.536	but together, instead
+836.536	of causing a side effect,
+839.053	they could be a new and novel treatment
+841.502	for diseases that don't have treatments
+843.408	or where the treatments are not effective.
+845.439	If we think about drug treatment today,
+847.858	all the major breakthroughs --
+849.634	for HIV, for tuberculosis,
+849.634	for depression, for diabetes --
+853.955	it's always a cocktail of drugs.
+856.809	And so the upside here,
+858.563	and the subject for a different
+858.563	TED Talk on a different day,
+861.436	is how can we use the same data sources
+864.053	to find good effects
+864.053	of drugs in combination
+867.64	that will provide us new treatments,
+869.839	new insights into how drugs work
+871.715	and enable us to take care
+871.715	of our patients even better?
+875.525	Thank you very much.
+876.715	(Applause)

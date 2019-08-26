@@ -1,0 +1,356 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.26	"""When the crisis came,"
+18.521	the serious limitations
+18.521	of existing economic and financial models
+23.231	"immediately became apparent."""
+27.455	"""There is also a strong belief,"
+27.455	which I share,
+31.633	that bad or oversimplistic
+31.633	and overconfident economics
+36.621	"helped create the crisis."""
+38.55	Now, you've probably all heard
+38.55	of similar criticism
+41.131	coming from people
+41.131	who are skeptical of capitalism.
+44.806	But this is different.
+46.001	This is coming from the heart of finance.
+49.704	The first quote
+49.704	is from Jean-Claude Trichet
+52.628	when he was governor
+52.628	of the European Central Bank.
+56.44	The second quote is from the head
+56.44	of the UK Financial Services Authority.
+62.275	Are these people implying
+63.846	that we don't understand
+63.846	the economic systems
+66.61	that drive our modern societies?
+69.779	It gets worse.
+71.704	"""We spend billions of dollars"
+73.917	trying to understand
+73.917	the origins of the universe,
+77.903	while we still don't understand
+77.903	the conditions for a stable society,
+83.797	"a functioning economy, or peace."""
+89.437	What's happening here?
+89.437	How can this be possible?
+92.233	Do we really understand more
+92.233	about the fabric of reality
+95.504	than we do about the fabric
+95.504	which emerges from our human interactions?
+99.99	Unfortunately, the answer is yes.
+102.517	But there's an intriguing solution
+105.258	which is coming from what is known
+105.258	as the science of complexity.
+111.045	To explain what this means
+111.045	and what this thing is,
+113.756	please let me quickly take
+113.756	a couple of steps back.
+117.231	I ended up in physics by accident.
+119.473	It was a random encounter
+119.473	when I was young,
+122.611	and since then, I've often wondered
+122.611	about the amazing success of physics
+127.229	in describing the reality
+127.229	we wake up in every day.
+131.401	In a nutshell, you can think
+131.401	of physics as follows.
+134.164	So you take a chunk of reality
+134.164	you want to understand
+137.782	and you translate it into mathematics.
+141.411	You encode it into equations.
+144.402	Then, predictions can be made and tested.
+148.384	We're actually
+148.384	really lucky that this works,
+150.896	because no one really knows
+150.896	why the thoughts in our heads
+153.808	should actually relate to the fundamental
+153.808	workings of the universe.
+159.538	Despite the success,
+159.538	physics has its limits.
+162.948	As Dirk Helbing pointed out
+162.948	in the last quote,
+166.022	we don't really understand the complexity
+166.022	that relates to us, that surrounds us.
+171.861	This paradox is what got me interested
+171.861	in complex systems.
+175.989	So these are systems which are made up
+177.889	of many interconnected
+177.889	or interacting parts:
+181.373	swarms of birds or fish,
+184.206	ant colonies, ecosystems,
+184.206	brains, financial markets.
+188.781	These are just a few examples.
+192.947	Interestingly, complex systems
+192.947	are very hard to map
+198.19	into mathematical equations,
+200.213	so the usual physics approach
+200.213	doesn't really work here.
+204.543	So what do we know about complex systems?
+206.736	Well, it turns out that what looks
+206.736	like complex behavior from the outside
+212.792	is actually the result
+212.792	of a few simple rules of interaction.
+218.255	This means you can forget
+218.255	about the equations
+222.119	and just start to understand the system
+224.869	by looking at the interactions,
+226.612	so you can actually forget
+226.612	about the equations
+229.006	and you just start to look
+229.006	at the interactions.
+231.582	And it gets even better,
+231.582	because most complex systems
+234.94	have this amazing property
+234.94	called emergence.
+237.958	So this means that the system as a whole
+237.958	suddenly starts to show a behavior
+242.173	which cannot be understood or predicted
+245.069	by looking at the components
+245.069	of the system.
+247.646	So the whole is literally
+247.646	more than the sum of its parts.
+251.919	And all of this also means
+253.217	that you can forget about
+253.217	the individual parts of the system,
+258.105	how complex they are.
+259.45	So if it's a cell or a termite or a bird,
+264.462	you just focus on the rules
+264.462	of interaction.
+269.21	As a result, networks are ideal
+269.21	representations of complex systems.
+276.362	The nodes in the network
+276.362	are the system's components,
+282.109	and the links are given
+282.109	by the interactions.
+285.874	So what equations are for physics,
+288.177	complex networks are for the study
+288.177	of complex systems.
+292.924	This approach has been
+292.924	very successfully applied
+296.158	to many complex systems
+296.158	in physics, biology,
+299.776	computer science, the social sciences,
+302.52	but what about economics?
+304.817	Where are economic networks?
+307.373	This is a surprising
+307.373	and prominent gap in the literature.
+312.243	The study we published last year, called
+312.243	"""The Network of Global Corporate Control,"""
+318.097	was the first extensive analysis
+318.097	of economic networks.
+323.914	The study went viral on the Internet
+326.5	and it attracted a lot of attention
+326.5	from the international media.
+331.506	This is quite remarkable, because, again,
+331.506	why did no one look at this before?
+335.749	Similar data has been
+335.749	around for quite some time.
+338.832	What we looked at in detail
+338.832	was ownership networks.
+344.33	So here the nodes are companies,
+344.33	people, governments, foundations, etc.
+351.384	And the links represent
+351.384	the shareholding relations,
+354.292	so shareholder A has x percent
+354.292	of the shares in company B.
+359.48	And we also assign a value to the company
+359.48	given by the operating revenue.
+365.038	So ownership networks reveal the patterns
+365.038	of shareholding relations.
+371.305	In this little example,
+371.305	you can see a few financial institutions
+375.454	with some of the many links highlighted.
+379.105	Now, you may think that no one
+379.105	looked at this before
+381.974	because ownership networks
+381.974	are really, really boring to study.
+387.201	Well, as ownership is related to control,
+391.291	as I shall explain later,
+392.848	looking at ownership networks
+394.289	actually can give you
+394.289	answers to questions like,
+396.991	who are the key players?
+398.464	How are they organized?
+398.464	Are they isolated?
+400.814	Are they interconnected?
+402.483	And what is the overall
+402.483	distribution of control?
+406.413	In other words, who controls the world?
+409.675	I think this is an interesting question.
+412.041	And it has implications for systemic risk.
+416.608	This is a measure of how vulnerable
+416.608	a system is overall.
+422.122	A high degree of interconnectivity
+422.122	can be bad for stability,
+426.784	because then the stress can spread
+426.784	through the system like an epidemic.
+433.592	Scientists have sometimes
+433.592	criticized economists
+436.149	who believe ideas and concepts
+436.149	are more important than empirical data,
+441.68	because a foundational
+441.68	guideline in science is:
+445.218	Let the data speak. OK. Let's do that.
+447.875	So we started with a database containing
+454.841	This is a lot of data,
+454.841	and because we wanted to find out
+458.152	"""who rules the world,"""
+460.284	we decided to focus
+460.284	on transnational corporations,
+463.712	"or ""TNCs,"" for short."
+465.06	These are companies that operate
+465.06	in more than one country,
+468.656	and we found 43,000.
+472.408	In the next step, we built
+472.408	the network around these companies,
+475.393	so we took all the TNCs' shareholders,
+477.773	and the shareholders' shareholders, etc.,
+479.756	all the way upstream,
+479.756	and we did the same downstream,
+482.632	and ended up with a network
+482.632	containing 600,000 nodes
+486.784	and one million links.
+488.57	This is the TNC network which we analyzed.
+492.511	And it turns out to be
+492.511	structured as follows.
+494.644	So you have a periphery and a center
+497.195	which contains about 75 percent
+497.195	of all the players,
+502.199	and in the center,
+502.199	there's this tiny but dominant core
+506.274	which is made up of highly
+506.274	interconnected companies.
+510.376	To give you a better picture,
+512.666	think about a metropolitan area.
+514.331	So you have the suburbs and the periphery,
+516.361	you have a center,
+516.361	like a financial district,
+519.218	then the core will be something like
+520.968	the tallest high-rise building
+520.968	in the center.
+524.992	And we already see signs
+524.992	of organization going on here.
+	are in the core only,
+534.848	but they make up 95 percent of the total
+534.848	operating revenue of all TNCs.
+542.014	OK, so now we analyzed the structure,
+544.64	so how does this relate to the control?
+548.777	Well, ownership gives
+548.777	voting rights to shareholders.
+552.447	This is the normal notion of control.
+555.221	And there are different models
+556.713	which allow you to compute
+556.713	the control you get from ownership.
+561.178	If you have more than 50 percent
+561.178	of the shares in a company,
+564.026	you get control,
+565.375	but usually, it depends
+565.375	on the relative distribution of shares.
+570.352	And the network really matters.
+573.575	About 10 years ago, Mr. Tronchetti Provera
+576.524	had ownership and control
+576.524	in a small company,
+579.959	which had ownership and control
+579.959	in a bigger company.
+583.146	You get the idea.
+584.714	This ended up giving him control
+584.714	in Telecom Italia with a leverage of 26.
+591.75	So this means that,
+591.75	with each euro he invested,
+595.047	he was able to move 26 euros
+595.047	of market value
+599.015	through the chain of ownership relations.
+602.435	Now what we actually computed in our study
+602.435	was the control over the TNCs' value.
+609.295	This allowed us to assign
+609.295	a degree of influence to each shareholder.
+615.025	This is very much in the sense
+615.025	of Max Weber's idea of potential power,
+620.124	which is the probability
+620.124	of imposing one's own will
+623.615	despite the opposition of others.
+627.666	If you want to compute the flow
+627.666	in an ownership network,
+632.447	this is what you have to do.
+633.828	It's actually not that hard to understand.
+636.046	Let me explain by giving you this analogy.
+639.077	So think about water flowing in pipes,
+639.077	where the pipes have different thickness.
+644.851	So similarly, the control is flowing
+644.851	in the ownership networks
+650.229	and is accumulating at the nodes.
+654.333	So what did we find after computing
+654.333	all this network control?
+658.385	Well, it turns out
+658.385	that the 737 top shareholders
+663.77	have the potential to collectively control
+670.988	Now remember, we started out
+670.988	with 600,000 nodes,
+673.717	so these 737 top players
+673.717	make up a bit more than 0.1 percent.
+681.434	They're mostly financial institutions
+681.434	in the US and the UK.
+686.345	And it gets even more extreme.
+689.312	There are 146 top players in the core,
+694.239	and they together have the potential
+694.239	to collectively control
+703.341	What should you take home
+703.341	from all of this?
+705.639	Well, the high degree of control you saw
+705.639	is very extreme by any standard.
+714.545	The high degree of interconnectivity
+714.545	of the top players in the core
+719.527	could pose a significant systemic risk
+719.527	to the global economy.
+725.22	And we could easily
+725.22	reproduce the TNC network
+727.726	with a few simple rules.
+730.026	This means that its structure is probably
+730.026	the result of self-organization.
+734.09	It's an emergent property which depends
+734.09	on the rules of interaction in the system,
+739.957	so it's probably not the result
+739.957	of a top-down approach
+743.796	like a global conspiracy.
+747.359	"Our study ""is an impression"
+747.359	of the moon's surface.
+749.982	"It's not a street map."""
+751.315	So you should take the exact numbers
+751.315	in our study with a grain of salt,
+755.149	"yet it ""gave us a tantalizing glimpse"
+755.149	"of a brave new world of finance."""
+763.448	We hope to have opened the door
+763.448	for more such research in this direction,
+767.501	so the remaining unknown terrain
+767.501	will be charted in the future.
+772.296	And this is slowly starting.
+773.901	We're seeing the emergence of long-term
+773.901	and highly-funded programs
+779.016	which aim at understanding
+779.016	our networked world
+782.667	from a complexity point of view.
+785.121	But this journey has only just begun,
+786.943	so we will have to wait
+786.943	before we see the first results.
+792.67	Now there is still
+792.67	a big problem, in my opinion.
+796.801	Ideas relating to finance,
+796.801	economics, politics, society,
+802.75	are very often tainted
+802.75	by people's personal ideologies.
+808.708	I really hope that this
+808.708	complexity perspective
+812.857	allows for some common ground to be found.
+818.237	It would be really great
+818.237	if it has the power
+820.498	to help end the gridlock
+820.498	created by conflicting ideas,
+825.651	which appears to be paralyzing
+825.651	our globalized world.
+830.832	Reality is so complex,
+830.832	we need to move away from dogma.
+835.62	But this is just my own personal ideology.
+838.201	Thank you.
+839.376	(Applause)

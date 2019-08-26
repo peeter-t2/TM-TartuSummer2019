@@ -1,0 +1,357 @@
+startsecond	text
+16.06	"""You have cancer."""
+20.5	Sadly, about 40 percent of us will hear
+20.5	those three words within our lifetime,
+25.66	and half will not survive.
+28.78	This means that two out of five
+28.78	of your closest friends and relatives
+32.66	will be diagnosed
+32.66	with some form of cancer,
+35.14	and one will die.
+39.1	Beyond the physical hardships,
+40.58	roughly one-third
+40.58	of cancer survivors here in the US
+43.78	will go into debt from treatment.
+45.54	And they're at least two and a half times
+45.54	more likely to declare bankruptcy
+49.3	than those without cancer.
+51.5	This disease is pervasive.
+53.9	It's emotionally draining
+55.5	and, for many,
+56.74	financially destructive.
+59.7	But a cancer diagnosis
+59.7	doesn't have to be a death sentence.
+63.74	Finding cancer early,
+65.62	closer its genesis,
+66.86	is one of the critical factors
+66.86	to improving treatment options,
+70.5	reducing its emotional impact
+72.5	and minimizing financial burdens.
+75.38	Most importantly,
+76.62	finding cancer early --
+77.9	which is one of the primary
+77.9	aims of my research --
+80.82	greatly enhances your odds of survival.
+83.94	If we just look at the case
+83.94	of breast cancer for example,
+86.7	we find that those who are diagnosed
+86.7	and treated at stage one
+90.22	have a five-year survival rate
+90.22	of nearly 100 percent --
+94.58	odds that decrease to just 22 percent
+94.58	if treated at stage four.
+99.86	And similar trends are found
+99.86	for colorectal and ovarian cancer.
+105.82	Now, we're all aware
+105.82	that an early diagnosis that is accurate
+111.3	is critical for survival.
+115.42	The problem is that many
+115.42	cancer diagnostic tools are invasive,
+119.26	costly,
+120.5	often inaccurate
+121.74	and they can take an agonizing
+121.74	amount of time to get the results back.
+126.34	Still worse, when it comes
+126.34	to some forms of cancer,
+128.78	such as ovarian,
+128.78	liver or pancreatic cancer,
+133.1	good screening methods simply don't exist,
+136.7	meaning that often people wait
+136.7	until physical symptoms surface,
+140.78	which are themselves already
+140.78	indicators of late-stage progression.
+145.74	Like a tornado strike in an area
+145.74	without an early warning system,
+149.34	there is no alarm to warn,
+151.26	for the danger is already at your doorstep
+154.14	when your odds of survival
+154.14	are greatly reduced.
+159.22	Having the convenience and accessibility
+159.22	of regular screening options
+163.5	that are affordable, noninvasive
+163.5	and could provide results much sooner,
+168.86	would provide us with a formidable
+168.86	weapon in the fight against cancer.
+174.58	An early warning would allow us
+174.58	to get out ahead of the disease
+177.66	instead of merely
+177.66	following in its relentless wake.
+180.42	And this is exactly what I've been doing.
+182.42	For the past three years,
+182.42	I've been developing technologies
+185.58	that could ultimately aid clinicians
+187.34	with rapid, early-stage
+187.34	cancer diagnostics.
+190.74	And I've been fueled
+190.74	by a deep scientific curiosity,
+194.62	and a passion to change these statistics.
+198.7	Last year however,
+200.78	this fight became much more personal
+203.86	when my wife was diagnosed
+203.86	with breast cancer.
+207.38	It was an experience that added a strong
+207.38	and unexpected emotional dimension
+211.82	to these efforts.
+215.06	I know firsthand how life-altering
+215.06	treatment can be,
+219.34	and I'm keenly aware
+219.34	of the emotional havoc
+222.02	that cancer can wreak on a family,
+224.5	which in our case
+224.5	included our two young daughters.
+228.22	Because we found it early
+228.22	during a routine mammogram,
+231.38	we were able to focus
+231.38	primarily on treatment options
+235.1	for the localized tumor,
+236.66	reaffirming to me
+236.66	how important an early diagnosis is.
+242.78	Unlike other forms of cancer,
+245.22	mammograms do offer an early-stage
+245.22	screening option for breast cancer.
+248.9	Still, not everyone has this done,
+251.14	or they may develop breast cancer
+252.75	before the middle age recommendation
+252.75	for having a mammogram.
+257.38	So, there's still
+257.38	a lot of room for improvement,
+259.66	even for cancers
+259.66	that do have screening options,
+261.94	and, of course, considerable benefits
+261.94	for those that don't.
+265.5	A key challenge then
+265.5	for cancer researchers
+268.26	is to develop methods
+269.58	that make regular screening
+269.58	for many types of cancers
+273.14	much more accessible.
+275.74	Imagine a scenario
+275.74	where during your regular checkup,
+278.82	your doctor can take
+278.82	a simple, noninvasive urine sample,
+282.62	or other liquid biopsy,
+284.54	and present you with the results
+284.54	before you even leave the doctor's office.
+288.62	Such a technology could
+288.62	dramatically reduce the number of people
+292.18	who slip through the net
+292.18	of an early-stage cancer diagnosis.
+296.66	My research team
+296.66	of engineers and biochemists
+299.5	is working on exactly this challenge.
+302.14	We're working on ways to frequently
+302.14	activate an early-stage cancer alarm
+307.3	by enabling regular screenings
+307.3	that would start when a person is healthy
+311.66	so that action could be taken
+311.66	to stop cancer the moment it emerges,
+315.98	and before it can progress
+315.98	beyond its infancy.
+320.46	The silver bullet in this case
+320.46	are tiny vesicles,
+323.5	little escape pods regularly shed
+323.5	by cells called exosomes.
+328.5	Exosomes are important biomarkers
+331.26	that provide an early-warning system
+331.26	for the development of cancer.
+335.54	And because they're abundantly present
+335.54	in just about every bodily fluid,
+338.98	including blood, urine and saliva,
+341.5	they're extremely attractive
+341.5	for noninvasive liquid biopsies.
+346.86	There's just one problem.
+348.46	An automated system for rapidly sorting
+348.46	these important biomarkers
+352.78	is not currently available.
+355.5	We've created a technology
+355.5	that we call nano-DLD
+358.82	that is capable of precisely this:
+361.74	automated exosome isolation
+364.46	to aid rapid cancer diagnostics.
+367.86	Exosomes are the newest
+367.86	early-warning weapon, if you will,
+371.42	to emerge on the liquid biopsy front.
+373.5	And they're really, really small.
+375.82	They measure just 30 to 150
+375.82	nanometers in diameter.
+380.1	This is so tiny
+381.42	that you could fit about a million
+381.42	of them into a single red blood cell.
+385.62	That's roughly the difference
+385.62	between a golf ball
+387.98	and a fine grain piece of sand.
+390.74	Once thought to be little bins
+390.74	for unwanted cellular waste,
+394.46	it has been found
+394.46	that cells actually communicate
+397.46	by producing and absorbing these exosomes
+400.62	which contain surface receptors,
+403.02	proteins and other genetic material
+403.02	collected from their cell of origin.
+408.34	When absorbed by a neighboring cell,
+411.02	exosomes release their contents
+411.02	into the receiving cell,
+414.86	and can set in motion
+414.86	fundamental changes in gene expression --
+418.1	some good,
+419.34	and this is where cancer comes in,
+421.1	some bad.
+422.7	Because they are clothed
+422.7	in the material of the mother cell,
+426.5	and contain a sample of its environment,
+428.46	they provide a genetic snapshot
+428.46	of that cell's health and its origin.
+435.02	All of these qualities
+435.02	make exosomes invaluable messengers
+438.18	that potentially allow physicians
+439.82	to eavesdrop on your health
+439.82	at the cellular level.
+443.9	To catch cancer early, however,
+445.58	you have to frequently
+445.58	intercept these messages
+448.54	to determine when cancer-causing
+448.54	troublemakers within your body
+452.06	decide to start staging a coup,
+453.9	which is why regular
+453.9	screening is so critical
+456.94	and why we're developing
+456.94	technologies to make this possible.
+460.94	While the first exosome-based diagnostics
+460.94	emerged on the market just this year,
+466.62	they are not yet part
+466.62	of mainstream healthcare options.
+471.14	In addition to their recent emergence,
+473.02	another factor that's limiting
+473.02	their widespread adoption
+476.5	is that currently, no automated
+476.5	exosome isolation system exists
+480.46	to make regular screening
+480.46	economically accessible.
+484.62	The current gold standard
+484.62	for exosome isolation
+487.38	includes ultracentrifugation,
+489.34	a process requiring
+489.34	expensive laboratory equipment,
+492.62	a trained lab tech
+493.9	and about 30 hours of time
+493.9	to process a sample.
+498.42	We've come up with a different approach
+498.42	for achieving automated exosome isolation
+503.1	from a sample such as urine.
+505.38	We use a chip-based, continuous flow
+505.38	separation technique
+509.66	called deterministic lateral displacement.
+512.66	And we have done with it
+514.06	what the semiconductor industry has done
+514.06	so successfully for the past 50 years.
+518.54	We shrunk the dimensions
+518.54	of this technology
+520.62	from the micron scale
+520.62	to the true nanoscale.
+524.54	So how does it work?
+526.02	In a nutshell,
+527.3	a set of tiny pillars
+527.3	separated by nanoscopic gaps
+531.3	are arranged in such a way
+532.58	that the system divides
+532.58	the fluid into streamlines,
+535.66	with the larger cancer-related
+535.66	nanoparticles being separated
+539.06	through a process of redirection
+539.06	from the smaller, healthier ones,
+542.98	which can in contrast
+544.54	move around the pillars
+544.54	in a zigzag-type motion
+547.1	in the direction of fluid flow.
+549.9	The net result is a complete separation
+549.9	of these two particle populations.
+555.26	You can visualize this separation process
+558.98	similar to traffic on a highway
+558.98	that separates into two roads,
+562.86	with one road going into
+562.86	a low-clearance tunnel under a mountain,
+566.34	and the other road going around it.
+568.42	Here, smaller cars
+568.42	can go through the tunnel
+571.22	while larger trucks,
+571.22	carrying potentially hazardous material,
+574.54	are forced to take the detour route.
+577.42	Traffic is effectively separated
+577.42	by size and contents
+581.54	without impeding its flow.
+583.58	And this is exactly how our system works
+583.58	on a much, much smaller scale.
+589.42	The idea here is that
+589.42	the separation process for screening
+593.3	could be as simple as processing
+593.3	a sample of urine, blood or saliva,
+597.38	which is a near-term possibility
+597.38	within the next few years.
+600.7	Ultimately, it could be used
+600.7	to isolate and detect target exosomes
+606.02	associated with
+606.02	a particular type of cancer,
+609.26	sensing and reporting
+609.26	their presence within minutes.
+612.42	This would make rapid diagnostics
+612.42	virtually painless.
+616.54	Broadly speaking,
+617.82	the ability to separate
+617.82	and enrich biomarkers
+620.5	with nanoscale precision
+620.5	in an automated way,
+624.14	opens the door to better understanding
+624.14	diseases such as cancer,
+627.62	with applications ranging
+627.62	from sample preparation to diagnostics,
+631.62	and from drug resistance
+631.62	monitoring to therapeutics.
+635.26	Even before my wife's bout with cancer,
+637.3	it was a dream of mine to facilitate
+637.3	the automation of this process --
+641.66	to make regular screening more accessible,
+644.62	similar to the way Henry Ford
+644.62	made the automobile accessible
+647.54	to the general population
+649.14	through development of the assembly line.
+651.42	Automation is the key to accessibility.
+656.1	And in the spirit of the Hoover dream,
+657.98	"""a chicken in every pot"
+657.98	"and a car in every garage,"""
+660.9	we're developing a technology
+662.34	that could ultimately place
+662.34	an early-warning cancer detection system
+666.18	in every home.
+667.82	This would allow
+667.82	every man, woman and child
+669.9	the opportunity to be regularly tested
+669.9	while they're still healthy,
+674.06	catching cancer when it first emerges.
+677.22	It is my hope and dream
+678.74	to help people around the world
+678.74	avoid the high costs --
+682.46	physical, financial and emotional --
+685.02	faced by today's cancer patients,
+687.42	hardships that I'm well acquainted with.
+691.22	I'm also happy to report that because
+691.22	we caught my wife's cancer early,
+695.62	her treatment was successful,
+697.3	and she is now, thankfully, cancer-free.
+699.58	(Applause)
+707.98	It is an outcome that I would like to see
+707.98	for everyone with a cancer diagnosis.
+713.1	With the work that my team
+713.1	has already done
+715.18	on separation of nanoscale biomarkers
+717.94	for rapid, early-stage cancer diagnostics,
+720.9	I am optimistic
+720.9	that within the next decade,
+723.46	this type of technology will be available,
+726.06	helping protect our friends,
+726.06	our family and future generations.
+730.5	Even if we are so unlucky
+730.5	as to be diagnosed with cancer,
+734.42	that early-stage alarm
+734.42	will provide a strong beacon of hope.
+738.1	Thank you.
+739.34	(Applause)

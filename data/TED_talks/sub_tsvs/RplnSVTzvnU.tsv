@@ -1,0 +1,397 @@
+startsecond	text
+13	Economists have been exploring
+13	people's behavior for hundreds of years:
+18.88	how we make decisions,
+20.48	how we act individually and in groups,
+23.56	how we exchange value.
+26.76	They've studied the institutions
+26.76	that facilitate our trade,
+30.24	like legal systems,
+31.68	corporations,
+33.52	marketplaces.
+35.6	But there is a new,
+35.6	technological institution
+39.08	that will fundamentally change
+39.08	how we exchange value,
+43.12	and it's called the blockchain.
+46.04	Now, that's a pretty bold statement,
+48.72	but if you take nothing else
+48.72	away from this talk,
+51.88	I actually want you to remember
+53.64	that while blockchain technology
+53.64	is relatively new,
+57.6	it's also a continuation
+57.6	of a very human story,
+62	and the story is this.
+64.08	As humans, we find ways
+66.12	to lower uncertainty about one another
+68.96	so that we can exchange value.
+73.08	Now, one of the first people
+73.08	to really explore the idea
+76.599	of institutions as a tool in economics
+79.8	to lower our uncertainties
+79.8	about one another
+82.28	and be able to do trade
+84.2	was the Nobel economist Douglass North.
+87.68	He passed away at the end of 2015,
+89.84	but North pioneered what's called
+89.84	"""new institutional economics."""
+95.12	And what he meant by institutions
+95.12	were really just formal rules
+99.32	like a constitution,
+101.32	and informal constraints, like bribery.
+105.28	These institutions are really the grease
+108.2	that allow our economic
+108.2	wheels to function,
+111.16	and we can see this play out
+111.16	over the course of human history.
+115.12	If we think back to when we were
+115.12	hunter-gatherer economies,
+118.6	we really just traded
+118.6	within our village structure.
+121.56	We had some informal constraints in place,
+124	but we enforced
+124	all of our trade with violence
+127.56	or social repercussions.
+129.96	As our societies grew more complex
+132.32	and our trade routes grew more distant,
+135.56	we built up more formal institutions,
+138.6	institutions like banks for currency,
+141.96	governments, corporations.
+144.68	These institutions
+144.68	helped us manage our trade
+147.24	as the uncertainty
+147.24	and the complexity grew,
+150.28	and our personal control was much lower.
+153.56	Eventually with the internet,
+153.56	we put these same institutions online.
+158.6	We built platform marketplaces
+158.6	like Amazon, eBay, Alibaba,
+163	just faster institutions
+163	that act as middlemen
+166.56	to facilitate human economic activity.
+171.84	As Douglass North saw it,
+174	institutions are a tool
+174	to lower uncertainty
+177.68	so that we can connect and exchange
+177.68	all kinds of value in society.
+182.84	And I believe we are now entering
+185.2	a further and radical evolution
+188.2	of how we interact and trade,
+190.68	because for the first time,
+190.68	we can lower uncertainty
+194.28	not just with political
+194.28	and economic institutions,
+197.88	like our banks, our corporations,
+197.88	our governments,
+201.64	but we can do it with technology alone.
+205.92	So what is the blockchain?
+207.96	Blockchain technology
+207.96	is a decentralized database
+212.04	that stores a registry
+212.04	of assets and transactions
+215.6	across a peer-to-peer network.
+218.16	It's basically a public registry
+220.32	of who owns what and who transacts what.
+223.92	The transactions are secured
+223.92	through cryptography,
+226.92	and over time, that transaction history
+226.92	gets locked in blocks of data
+232.72	that are then cryptographically
+232.72	linked together and secured.
+237.36	This creates an immutable,
+237.36	unforgeable record
+241.56	of all of the transactions
+241.56	across this network.
+245.4	This record is replicated
+245.4	on every computer that uses the network.
+251.24	It's not an app.
+253.08	It's not a company.
+255.12	I think it's closest in description
+255.12	to something like Wikipedia.
+259.8	We can see everything on Wikipedia.
+261.88	It's a composite view that's constantly
+261.88	changing and being updated.
+267.88	We can also track those changes
+267.88	over time on Wikipedia,
+271.56	and we can create our own wikis,
+273.88	because at their core,
+273.88	they're just a data infrastructure.
+278.6	On Wikipedia, it's an open platform
+278.6	that stores words and images
+284.12	and the changes to that data over time.
+287.52	On the blockchain,
+289	you can think of it
+289	as an open infrastructure
+291.96	that stores many kinds of assets.
+295.76	It stores the history of custodianship,
+298.52	ownership and location
+300.76	for assets like
+300.76	the digital currency Bitcoin,
+304.44	other digital assets
+306.04	like a title of ownership of IP.
+310.48	It could be a certificate, a contract,
+313.64	real world objects,
+314.92	even personal identifiable information.
+319.08	There are of course other
+319.08	technical details to the blockchain,
+322.96	but at its core, that's how it works.
+325	It's this public registry
+325	that stores transactions in a network
+329.36	and is replicated so that it's very secure
+329.36	and hard to tamper with.
+335.12	Which brings me to my point
+337.28	of how blockchains lower uncertainty
+340.36	and how they therefore promise
+340.36	to transform our economic systems
+344.52	in radical ways.
+347.88	So uncertainty is kind of a big term
+350.24	in economics,
+351.64	but I want to go through three forms of it
+353.72	that we face in almost all
+353.72	of our everyday transactions,
+357.12	where blockchains can play a role.
+359.24	We face uncertainties
+359.24	like not knowing who we're dealing with,
+362.64	not having visibility into a transaction
+365.48	and not having recourse
+365.48	if things go wrong.
+369.52	So let's take the first example,
+369.52	not knowing who we're dealing with.
+373.72	Say I want to buy
+373.72	a used smartphone on eBay.
+377.76	The first thing I'm going to do
+377.76	is look up who I'm buying from.
+381.6	Are they a power user?
+383.36	Do they have great reviews and ratings,
+383.36	or do they have no profile at all?
+388.96	Reviews, ratings, checkmarks:
+391.76	these are the attestations
+391.76	about our identities
+395.4	that we cobble together today
+397.04	and use to lower uncertainty
+397.04	about who we're dealing with.
+401.84	But the problem is
+401.84	they're very fragmented.
+404.88	Think about how many profiles you have.
+408.52	Blockchains allow for us
+408.52	to create an open, global platform
+414.04	on which to store any attestation
+414.04	about any individual
+418.44	from any source.
+420.48	This allows us to create a user-controlled
+423.8	portable identity.
+427.8	More than a profile,
+429.72	it means you can selectively reveal
+433.04	the different attributes about you
+435	that help facilitate trade or interaction,
+438.32	for instance that a government
+438.32	issued you an ID,
+441.2	or that you're over 21,
+443.48	by revealing the cryptographic proof
+446.12	that these details exist
+446.12	and are signed off on.
+450.96	Having this kind of portable identity
+453.04	around the physical world
+453.04	and the digital world
+456.08	means we can do all kinds of human trade
+459.4	in a totally new way.
+462.6	So I've talked about how blockchains
+462.6	could lower uncertainty
+465.52	in who we're dealing with.
+467.08	The second uncertainty that we often face
+469.68	is just not having transparency
+469.68	into our interactions.
+473.6	Say you're going to send me
+473.6	that smartphone by mail.
+476.36	I want some degree of transparency.
+478.08	I want to know that the product I bought
+478.08	is the same one that arrives in the mail
+482.4	and that there's some record
+482.4	for how it got to me.
+484.8	This is true not just
+484.8	for electronics like smartphones,
+487.44	but for many kinds of goods and data,
+490.64	things like medicine, luxury goods,
+494	any kind of data or product
+494	that we don't want tampered with.
+498.88	The problem in many companies,
+501.12	especially those that produce
+501.12	something complicated like a smartphone,
+504.48	is they're managing
+504.48	all of these different vendors
+507	across a horizontal supply chain.
+510.24	All of these people
+510.24	that go into making a product,
+512.84	they don't have the same database.
+514.52	They don't use the same infrastructure,
+516.56	and so it becomes really hard to see
+516.56	transparently a product evolve over time.
+523.84	Using the blockchain, we can create
+525.799	a shared reality
+525.799	across nontrusting entities.
+530.64	By this I mean
+531.88	all of these nodes in the network
+531.88	do not need to know each other
+535.28	or trust each other,
+536.72	because they each have the ability
+538.88	to monitor and validate
+538.88	the chain for themselves.
+543.04	Think back to Wikipedia.
+544.8	It's a shared database,
+547	and even though it has multiple readers
+549.84	and multiple writers at the same time,
+551.96	it has one single truth.
+554.72	So we can create that using blockchains.
+556.84	We can create a decentralized database
+556.84	that has the same efficiency of a monopoly
+562.84	without actually creating
+562.84	that central authority.
+566.2	So all of these vendors,
+566.2	all sorts of companies,
+568.64	can interact using the same database
+568.64	without trusting one another.
+574.2	It means for consumers,
+574.2	we can have a lot more transparency.
+577.76	As a real-world object travels along,
+579.92	we can see its digital certificate
+579.92	or token move on the blockchain,
+585.12	adding value as it goes.
+588.36	This is a whole new world
+588.36	in terms of our visibility.
+593.72	So I've talked about how blockchains
+593.72	can lower our uncertainties about identity
+599.24	and how they change
+599.24	what we mean about transparency
+602.48	in long distances and complex trades,
+602.48	like in a supply chain.
+607.52	The last uncertainty that we often face
+609.64	is one of the most open-ended,
+609.64	and it's reneging.
+612.92	What if you don't send me the smartphone?
+615.44	Can I get my money back?
+617.8	Blockchains allow us to write code,
+621.52	binding contracts,
+623.24	between individuals
+624.92	and then guarantee
+624.92	that those contracts will bear out
+628.6	without a third party enforcer.
+631.72	So if we look at the smartphone example,
+631.72	you could think about escrow.
+635.64	You are financing that phone,
+637.76	but you don't need to release the funds
+640.32	until you can verify
+640.32	that all the conditions have been met.
+643.16	You got the phone.
+646.24	I think this is one
+646.24	of the most exciting ways
+648.68	that blockchains lower our uncertainties,
+651.84	because it means to some degree
+653.44	we can collapse institutions
+653.44	and their enforcement.
+659.72	It means a lot of human economic activity
+662.44	can get collateralized and automated,
+667.48	and push a lot of human
+667.48	intervention to the edges,
+670.56	the places where information moves
+670.56	from the real world to the blockchain.
+676.88	I think what would probably
+676.88	floor Douglass North
+679.36	about this use of technology
+681.76	is the fact that the very thing
+681.76	that makes it work,
+684.8	the very thing that keeps the blockchain
+684.8	secure and verified,
+689.36	is our mutual distrust.
+693.6	So rather than all of our uncertainties
+696.72	slowing us down
+698.36	and requiring institutions
+700.88	like banks, our governments,
+700.88	our corporations,
+705.36	we can actually harness
+705.36	all of that collective uncertainty
+709.76	and use it to collaborate and exchange
+709.76	more and faster and more open.
+716.8	Now, I don't want you
+716.8	to get the impression
+718.88	that the blockchain
+718.88	is the solution to everything,
+721.28	even though the media has said
+721.28	that it's going to end world poverty,
+727.84	it's also going to solve
+727.84	the counterfeit drug problem
+730.6	and potentially save the rainforest.
+734.32	The truth is, this technology
+734.32	is in its infancy,
+738.32	and we're going to need to see
+738.32	a lot of experiments take place
+741.56	and probably fail
+743	before we truly understand
+743	all of the use cases
+746.56	for our economy.
+749.24	But there are tons of people
+749.24	working on this,
+751.44	from financial institutions
+753.16	to technology companies,
+753.16	start-ups and universities.
+757.12	And one of the reasons is
+757.12	that it's not just an economic evolution.
+762.08	It's also an innovation
+762.08	in computer science.
+769.36	Blockchains give us
+769.36	the technological capability
+772.84	of creating a record of human exchange,
+776.44	of exchange of currency,
+778.72	of all kinds of digital
+778.72	and physical assets,
+782.44	even of our own personal attributes,
+785.04	in a totally new way.
+787.72	So in some ways,
+789.08	they become a technological institution
+792.08	that has a lot of the benefits
+793.88	of the traditional institutions
+793.88	we're used to using in society,
+798.2	but it does this in a decentralized way.
+802.36	It does this by converting
+802.36	a lot of our uncertainties
+805.92	into certainties.
+808.36	So I think we need to start
+808.36	preparing ourselves,
+811.92	because we are about to face a world
+814.48	where distributed, autonomous institutions
+817.64	have quite a significant role.
+820.6	Thank you.
+821.84	(Applause)
+830.4	Bruno Giussani: Thank you, Bettina.
+832.88	I think I understood that it's coming,
+836.6	it offers a lot of potential,
+838.52	and it's complex.
+840.72	What is your estimate
+840.72	for the rate of adoption?
+847.12	Bettina Warburg: I think
+847.12	that's a really good question.
+849.76	My lab is pretty much focused
+851.2	on going the enterprise
+851.2	and government route first,
+854.68	because in reality,
+854.68	blockchain is a complex technology.
+858.24	How many of you actually understand
+858.24	how the internet works?
+861.04	But you use it every day,
+862.72	so I think we're sort of facing
+862.72	the same John Sculley idea
+866.52	of technology should either be
+866.52	invisible or beautiful,
+870.2	and blockchain is kind of
+870.2	neither of those things right now,
+874.08	so it's better suited
+874.08	for either really early adopters
+878.08	who kind of get it and can tinker around
+880.32	or for finding those best use cases
+883.32	like identity or asset tracking
+883.32	or smart contracts
+886.52	that can be used at that level
+886.52	of an enterprise or government.
+890.56	BG: Thank you. Thanks for coming to TED.
+892.489	BW: Thanks.
+893.72	(Applause)

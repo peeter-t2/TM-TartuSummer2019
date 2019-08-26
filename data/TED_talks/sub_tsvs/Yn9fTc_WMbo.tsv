@@ -1,0 +1,462 @@
+startsecond	text
+16.41	My name's Seth Priebatsch.
+16.41	I'm the chief ninja of SCVNGR.
+19.118	I'm a proud Princeton dropout.
+20.61	Also proud to have relocated
+20.61	here to Boston,
+22.688	where I actually grew up.
+24.259	(Applause) Yeah, Boston.
+26.063	Easy wins, I should just name
+26.063	the counties that we've got around here.
+29.389	I'm also fairly determined
+29.389	to try and build
+31.604	a game layer on top of the world.
+33.217	This is sort of a new concept
+33.217	and it's really important,
+35.901	because while the last decade
+35.901	was the decade of social,
+39.022	the decade where the framework in which
+39.022	we connect with other people was built,
+42.827	this next decade will be the decade
+42.827	where the game framework is built,
+47.174	where the motivations we use
+47.174	to actually influence behavior
+50.126	and the framework
+50.126	in which that is constructed,
+52.365	is decided upon,
+52.365	and that's really important.
+54.508	I say I want to build a game layer
+54.508	on top of the world,
+57.111	but that's not quite true,
+58.386	because it's already under construction;
+58.386	it's already happening.
+61.56	And it looks like this right now.
+63.444	It looks like the Web did
+63.444	back in 1997, right?
+66.26	It's not very good. It's cluttered.
+68.21	It's filled with lots of different things
+68.21	that, in short, aren't that fun.
+72.124	There are credit card schemes
+72.124	and airline mile programs,
+75.392	coupon cards and all these loyalty schemes
+78.056	that actually do use game dynamics
+78.056	and are building the game layer --
+81.941	they just suck.
+83.26	They're not very well-designed.
+85.349	(Laughter)
+86.417	So that's unfortunate.
+87.985	But luckily, as my favorite action
+87.985	hero, Bob the Builder, says,
+92.167	"""We can do better."
+92.167	"We can build this better."""
+94.769	And the tools, the resources
+94.769	that we use to build a game layer,
+98.26	are game dynamics themselves.
+100.093	And so the crux of this presentation
+100.093	is going to go through
+102.886	four really important game dynamics,
+104.648	really interesting things,
+104.648	that, if you use consciously,
+107.457	you can use to influence behavior,
+110.26	both for good, for bad, for in-between.
+112.641	Hopefully for good.
+113.964	But this is the important stage
+113.964	in which that framework will get built,
+117.988	and so we want to all be thinking
+117.988	about it consciously now.
+121.109	Before we jump into that,
+121.109	there's a question of:
+123.39	Why is this important?
+124.565	I'm making this claim
+125.743	that there's a game layer
+125.743	on top of the world,
+127.917	and it's very important
+127.917	that we build it properly.
+130.279	The reason it's so important
+130.279	is that, in the last decade,
+132.973	what we've seen has been
+132.973	building the social layer,
+135.883	has been this framework for connections,
+138.375	and construction on that layer
+138.375	is over, it's finished.
+141.963	There's still a lot to explore,
+143.465	still a lot of people
+143.465	trying to figure out social
+145.78	and how we leverage this
+145.78	and how we use this,
+147.906	but the framework itself is done,
+149.713	and it's called Facebook.
+152.175	And that's OK, right? A lot of people
+152.175	are very happy with Facebook.
+155.57	I like it quite a lot.
+157.183	They've created this thing
+157.183	called the Open Graph,
+159.51	and they own all of our connections.
+161.26	They own half a billion people.
+162.891	So when you want to build
+162.891	on the social layer,
+165.099	the framework has been decided;
+165.099	it is the Open Graph API.
+168.335	And if you're happy with that, fantastic.
+170.369	If you're not, too bad.
+170.369	There's nothing you can do.
+173.547	And that's a real thing.
+176.26	I mean, we want to build frameworks
+176.26	in a way that makes it acceptable
+181.26	and makes it productive down the road.
+183.371	So, the social layer
+183.371	is all about these connections.
+186.495	The game layer is all about influence.
+188.931	It's not about adding
+188.931	a social fabric to the web
+191.199	and connecting you to other people
+192.85	everywhere you are and everywhere you go,
+194.828	it's actually about using
+194.828	dynamics, using forces,
+197.148	to influence the behavior
+197.148	of where you are, what you do there,
+200.3	how you do it.
+201.477	That's really, really powerful.
+202.995	And it's going to be more important
+202.995	than the social layer,
+205.751	and affect our lives more deeply
+205.751	and perhaps more invisibly.
+208.67	So it's incredibly critical
+208.67	that at this moment,
+211.492	while it's just getting constructed,
+213.236	while the frameworks
+213.236	like Facebook or Open Graph
+215.566	are being created
+215.566	for the game-layer equivalent,
+217.86	that we think about it very consciously,
+219.808	and that we do it in a way
+219.808	that is open, available,
+222.22	and can be leveraged for good.
+223.733	So that's what I want to talk
+223.733	about for game dynamics,
+226.287	because construction has just begun,
+228.034	and the more consciously
+228.034	we can think about this,
+230.407	the better we'll be able to use it
+230.407	for anything we want.
+233.495	So like I said, the way you go
+233.495	through and build on the game layer
+236.665	is not with glass and steel and cement.
+239.816	And the resources we use are not
+239.816	this two-dimensional swath of land
+243.051	that we have.
+244.231	The resources are mindshare,
+245.604	and the tools, the raw materials,
+245.604	are these game dynamics.
+248.412	With that, a couple
+248.412	game dynamics to talk about.
+251.137	Back at SCVNGR, we like to joke
+252.686	that with seven game dynamics,
+252.686	you can get anyone to do anything.
+255.782	Today, I'm going to show you four,
+257.444	because I hope to have a competitive
+257.444	advantage at the end of this, still.
+260.946	(Laughter)
+263.101	So the first one,
+263.101	it's a very simple game dynamic.
+265.637	It's called the appointment dynamic.
+267.453	It's a dynamic in which to succeed,
+269.284	players have to do something
+269.284	at a predefined time,
+271.689	generally at a predefined place.
+273.395	And these dynamics
+273.395	are a little scary sometimes,
+275.695	"because you think, ""Other people"
+275.695	can be using forces
+278.459	that will manipulate how I interact:
+280.359	"what I do, where I do it, when I do it."""
+282.36	"This sort of ""loss of free will"""
+282.36	that occurs in games
+284.872	can be frightening.
+286.135	So with each dynamic,
+286.135	I'm going to give three examples:
+288.744	one that shows how it's already
+288.744	being used in the real world,
+291.634	so you can rationalize it a bit;
+293.284	one that shows it in what we consider
+293.284	a conventional game --
+296.126	I think everything is a game,
+297.542	but this is more what you'd think
+297.542	of as a game played on a board
+300.581	or on a computer screen;
+301.758	and one of how it can be used for good,
+303.649	so you can see that these forces
+303.649	can be very powerful.
+306.231	So the first one, the most famous
+306.231	appointment dynamic in the world,
+309.438	"is something called, ""Happy Hour."""
+311.656	So I had just recently
+311.656	dropped out of Princeton
+314.162	and actually ended up
+314.162	for the first time in a bar,
+316.679	and I saw these happy hour things
+316.679	all over the place.
+319.473	And this is simply an appointment dynamic:
+319.473	come here at a certain time,
+322.901	get your drinks half off.
+324.123	To win, all you have to do is show up
+324.123	at the right place at the right time.
+327.691	This game dynamic is so powerful,
+329.33	it doesn't just influence our behavior;
+329.33	it's influenced our entire culture.
+332.914	That's a really scary thought,
+334.374	that one game dynamic
+334.374	can change things so powerfully.
+337.135	It also exists in more
+337.135	conventional game forms.
+339.354	I'm sure you've all heard
+339.354	of Farmville by now.
+341.529	If you haven't, I recommend playing it.
+343.439	You won't do anything else
+343.439	for the rest of your day.
+345.932	Farmville has more active
+345.932	users than Twitter.
+348.084	It's incredibly powerful,
+349.315	and it has this dynamic
+349.315	where you have to return at a certain time
+352.456	to water your fake crops, or they wilt.
+355.416	And this is so powerful
+355.416	that when they tweak their stats,
+358.652	when they say your crops wilt
+360.485	after eight hours, or after six hours,
+360.485	or after 24 hours,
+363.26	it changes the life cycle
+363.26	of some 70 million people during the day.
+367.851	They will return, like clockwork,
+367.851	at different times.
+370.493	So if they wanted the world to end,
+370.493	if they wanted productivity to stop,
+373.907	they could make it a 30-minute cycle,
+375.701	and no one could do anything else, right?
+377.719	(Laughter)
+379.259	That's a little scary.
+380.751	But this could also be used for good.
+383.037	This local company called Vitality
+384.839	has created a product to help people
+384.839	take their medicine on time.
+387.998	That's an appointment.
+389.175	It's something that people
+389.175	don't do very well.
+391.374	They have these GlowCaps
+391.374	which flash and email you
+393.794	and do cool things to remind you
+393.794	to take your medicine.
+396.421	This isn't a game yet,
+396.421	but really should be.
+398.591	You should get points for doing it on time
+400.673	and lose points for not doing it on time.
+402.663	They should recognize they've built
+402.663	an appointment dynamic,
+405.458	and leverage the games.
+406.633	Then you can really achieve good
+406.633	in some interesting ways.
+409.424	We're going to jump onto the next one.
+411.97	Influence and status.
+413.259	This is one of the most famous
+413.259	game dynamics, used all over the place.
+417.26	It's used in your wallets, right now.
+419.389	We all want that credit card
+419.389	on the far left, because it's black.
+423.26	And you see someone at CVS or --
+425.125	not CVS -- like, Christian Dior --
+426.816	(Laughter)
+428.86	I don't know. I don't have a black
+428.86	card; I've got a debit card.
+432.152	(Laughter)
+433.961	So they whip it out and you see
+433.961	that black card, and:
+436.588	"""I want that because it means"
+436.588	they're cooler than I am,
+439.199	"and I need that."""
+440.374	And this is used in games as well.
+442.088	"""Modern Warfare,"" one of the most"
+442.088	successful selling games of all time.
+445.485	I'm only a level four, but I desperately
+445.485	want to be a level 10,
+448.51	because they've got that cool red badge,
+450.451	and that means that I am somehow
+450.451	better than everyone else.
+453.26	And that's very powerful to me.
+454.85	Status is really good motivator.
+456.983	It's also used in more
+456.983	conventional settings,
+459.147	and can be used more consciously there.
+461.052	School -- and remember,
+461.052	I made it through one year,
+464.029	so I think I'm qualified
+464.029	to talk on school --
+466.67	is a game; it's just not a terribly
+466.67	well-designed game.
+469.797	There are levels. There are C.
+469.797	There are B. There's A.
+472.355	There are statuses. I mean,
+472.355	what is valedictorian, but a status?
+475.447	If we called valedictorian
+475.447	"a ""White Knight Paladin level 20,"""
+479.851	I think people would probably
+479.851	work a lot harder.
+482.132	(Laughter)
+484.156	(Applause)
+485.93	So school is a game,
+487.62	and there has been lots of experimentation
+487.62	on how we do this properly.
+490.959	But let's use it consciously.
+492.372	Why have games you can lose?
+492.372	Why go from an A to an F or a B to a C?
+495.649	That sucks. Why not level-up?
+497.196	At Princeton, they've actually
+497.196	experimented with this,
+499.775	with quizzes where
+499.775	you gain experience points,
+501.966	and you level up from B to an A.
+503.721	And it's very powerful.
+505.26	It can be used in interesting ways.
+508.172	The third one I'll talk about
+508.172	is the progression dynamic,
+510.91	where you have to make progress,
+510.91	move through different steps
+513.841	in a very granular fashion.
+515.523	This is used all over the place,
+515.523	including LinkedIn,
+518.26	where I am an unwhole individual.
+520.578	I am only 85 percent complete on LinkedIn,
+523.882	and that bothers me.
+525.26	And this is so deep-seated in our psyche
+528.359	that when we're presented
+528.359	with a progress bar
+530.506	and presented with easy,
+530.506	granular steps to take
+533.07	to try and complete
+533.07	that progress bar, we will do it.
+535.681	We will find a way to move that blue line
+537.675	all the way to the right edge
+537.675	of the screen.
+540.172	This is used in conventional
+540.172	games as well.
+542.332	I mean, this is a Paladin level 10,
+544.549	and that's a Paladin level 20.
+546.177	And if you were going to fight
+546.177	Orcs on the fields of Mordor
+549.766	against the Ra's Al Ghul,
+551.26	you'd probably want to be
+551.26	the bigger one, right?
+553.57	I would.
+555.261	And so people work very hard to level-up.
+557.796	"""World of Warcraft"" is one"
+557.796	of the most successful games of all time.
+561.05	The average player spends some six,
+561.05	six-and-a-half hours a day on it,
+564.702	their most dedicated players --
+564.702	it's like a full-time job, it's insane.
+568.324	And they have these systems
+568.324	where you can level-up.
+570.79	And that's a very powerful thing.
+570.79	Progression is powerful.
+574.121	It can also be used
+574.121	in very compelling ways for good.
+577.16	One of the things we work on at SCVNGR is:
+579.206	How do you use games to drive traffic
+579.206	and business to local businesses,
+582.638	to something that is very key
+582.638	to the economy?
+584.808	And here, we have a game that people play.
+587.126	They go places,
+587.126	do challenges, earn points.
+589.174	And we've introduced
+589.174	a progression dynamic into it,
+591.782	where, by going to the same place
+591.782	over and over, doing challenges,
+594.914	engaging with the business,
+596.232	you move a green bar from the left edge
+596.232	of the screen to the right,
+599.418	and unlock rewards.
+600.596	This is powerful enough that we can see
+600.596	it hooks people into these dynamics,
+604.536	pulls them back to the same
+604.536	local businesses,
+606.658	creates loyalty, creates engagement,
+608.416	and is able to drive meaningful revenue
+608.416	and fun and engagement to businesses.
+612.367	These progression dynamics are powerful
+612.367	and can be used in the real world.
+616.26	The final one I want to talk about --
+616.26	and it's a great one to end on --
+619.637	is this concept of communal discovery,
+621.518	a dynamic in which everyone
+621.518	has to work together to achieve something.
+625.8	Communal discovery is powerful
+627.65	because it leverages
+627.65	the network that is society
+630.69	to solve problems.
+633.071	This is used in some famous
+633.071	consumer web stories like Digg,
+636.873	which I'm sure you've all heard of.
+638.582	Digg is a communal dynamic
+640.26	to try to find and source the best news,
+640.26	the most interesting stories.
+644.26	And they made this into a game, initially.
+646.284	They had a leader board where,
+646.284	if you recommended the best stories,
+649.472	you would get points.
+650.848	And that really motivated people
+650.848	to find the best stories.
+653.624	But it became so powerful,
+653.624	there was actually a cabal,
+656.26	a group of people, the top seven
+656.26	on the leader board,
+659.683	who would work together to make sure
+659.683	they maintained that position,
+662.886	recommending people's stories.
+664.355	The game became
+664.355	more powerful than the goal.
+666.592	They ended up shutting down the leader
+666.592	board because, while it was effective,
+670.26	it was so powerful that it stopped
+670.26	sourcing the best stories,
+673.188	and started having people work
+673.188	to maintain leadership.
+675.759	So we have to use this one carefully.
+677.55	It's also used in things
+677.55	like McDonald's Monopoly,
+679.929	where the game is not
+679.929	the Monopoly you're playing,
+682.342	but the cottage industries
+682.342	that form to try and find Boardwalk.
+685.695	There, they're just looking
+685.695	"for a sticker that says ""Boardwalk,"""
+688.933	but it can also be used
+688.933	to find real things.
+691.015	This is the DARPA balloon challenge,
+692.772	where they hid a couple balloons
+692.772	all across the United States and said,
+696.137	"""Use networks. Try and find"
+696.137	these balloons fastest,
+698.591	"and the winner will get $40,000."""
+700.261	The winner was a group out of MIT,
+702.132	where they created sort
+702.132	of a pyramid scheme, a network,
+704.752	where the first person to recommend
+704.752	the location of a balloon got $2,000,
+708.205	and anyone else to push
+708.205	that recommendation up also got a cut.
+711.16	And in 12 hours, they were able
+711.16	to find all these balloons,
+714.175	all across the country.
+715.665	Really powerful dynamic.
+717.413	And so, I've got about 20 seconds left,
+720.26	so if I'm going to leave
+720.26	you with anything,
+722.332	last decade was the decade of social.
+724.138	This next decade is the decade of games.
+726.26	We use game dynamics to build on it.
+726.26	We build with mindshare.
+729.151	We can influence behavior.
+730.42	It's very powerful. It's very exciting.
+732.307	Let's all build it together,
+732.307	let's do it well and have fun playing.
+735.688	(Applause)

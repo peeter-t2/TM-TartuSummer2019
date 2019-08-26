@@ -1,0 +1,345 @@
+startsecond	text
+12.58	This is what my last week looked like.
+16.5	What I did,
+18.22	who I was with,
+20.06	the main sensations I had
+20.06	for every waking hour ...
+23.9	If the feeling came as I thought of my dad
+26.42	who recently passed away,
+28.22	or if I could have just definitely
+28.22	avoided the worries and anxieties.
+32.3	And if you think I'm a little obsessive,
+34.26	you're probably right.
+36.14	But clearly, from this visualization,
+38.42	you can learn much more about me
+38.42	than from this other one,
+41.74	which are images you're
+41.74	probably more familiar with
+44.74	and which you possibly even have
+44.74	on your phone right now.
+47.58	Bar charts for the steps you walked,
+49.82	pie charts for the quality
+49.82	of your sleep --
+52.22	the path of your morning runs.
+55.1	In my day job, I work with data.
+57.42	I run a data visualization design company,
+59.94	and we design and develop ways
+59.94	to make information accessible
+63.3	through visual representations.
+65.42	What my job has taught me over the years
+68.46	is that to really understand data
+68.46	and their true potential,
+72.7	sometimes we actually
+72.7	have to forget about them
+75.82	and see through them instead.
+78.26	Because data are always
+78.26	just a tool we use to represent reality.
+81.86	They're always used
+81.86	as a placeholder for something else,
+84.74	but they are never the real thing.
+86.94	But let me step back for a moment
+88.9	to when I first understood
+88.9	this personally.
+92.1	In 1994, I was 13 years old.
+95.46	I was a teenager in Italy.
+97.42	I was too young
+97.42	to be interested in politics,
+100.06	but I knew that a businessman,
+100.06	Silvio Berlusconi,
+102.58	was running for president
+102.58	for the moderate right.
+105.94	We lived in a very liberal town,
+107.98	and my father was a politician
+107.98	for the Democratic Party.
+111.3	And I remember that no one thought
+111.3	that Berlusconi could get elected --
+115.66	that was totally not an option.
+118.38	But it happened.
+119.62	And I remember the feeling very vividly.
+122.18	It was a complete surprise,
+124.06	as my dad promised that in my town
+124.06	he knew nobody who voted for him.
+130.54	This was the first time
+132.06	when the data I had gave me
+132.06	a completely distorted image of reality.
+137.1	My data sample was actually
+137.1	pretty limited and skewed,
+140.42	so probably it was because of that,
+140.42	I thought, I lived in a bubble,
+144.18	and I didn't have enough chances
+144.18	to see outside of it.
+147.9	Now, fast-forward to November 8, 2016
+151.7	in the United States.
+153.78	The internet polls,
+155.1	statistical models,
+156.5	all the pundits agreeing on a possible
+156.5	outcome for the presidential election.
+161.34	It looked like we had
+161.34	enough information this time,
+163.98	and many more chances to see outside
+163.98	the closed circle we lived in --
+168.1	but we clearly didn't.
+169.86	The feeling felt very familiar.
+171.98	I had been there before.
+174.18	I think it's fair to say
+174.18	the data failed us this time --
+177.06	and pretty spectacularly.
+178.94	We believed in data,
+180.66	but what happened,
+182.1	even with the most respected newspaper,
+184.82	is that the obsession to reduce everything
+184.82	to two simple percentage numbers
+189.54	to make a powerful headline
+191.54	made us focus on these two digits
+193.62	and them alone.
+195.38	In an effort to simplify the message
+197.46	and draw a beautiful,
+197.46	inevitable red and blue map,
+200.9	we lost the point completely.
+203.26	We somehow forgot
+203.26	that there were stories --
+205.42	stories of human beings
+205.42	behind these numbers.
+209.06	In a different context,
+210.66	but to a very similar point,
+212.34	a peculiar challenge was presented
+212.34	to my team by this woman.
+216.26	She came to us with a lot of data,
+218.66	but ultimately she wanted to tell
+218.66	one of the most humane stories possible.
+223.1	She's Samantha Cristoforetti.
+224.82	She has been the first
+224.82	Italian woman astronaut,
+227.42	and she contacted us before being launched
+229.94	on a six-month-long expedition
+229.94	to the International Space Station.
+233.86	"She told us, ""I'm going to space,"
+236.1	and I want to do something meaningful
+236.1	with the data of my mission
+239.22	"to reach out to people."""
+241.42	A mission to the
+241.42	International Space Station
+243.98	comes with terabytes of data
+246.1	about anything you can possibly imagine --
+248.5	the orbits around Earth,
+250.02	the speed and position of the ISS
+252.14	and all of the other thousands
+252.14	of live streams from its sensors.
+256.66	We had all of the hard data
+256.66	we could think of --
+259.58	just like the pundits
+259.58	before the election --
+262.02	but what is the point
+262.02	of all these numbers?
+265.02	People are not interested
+265.02	in data for the sake of it,
+267.78	because numbers are never the point.
+269.659	They're always the means to an end.
+272.659	The story we needed to tell
+274.46	is that there is a human being
+274.46	in a teeny box
+276.98	flying in space above your head,
+279.26	and that you can actually see her
+279.26	with your naked eye on a clear night.
+283.38	So we decided to use data
+283.38	to create a connection
+286.5	between Samantha and all of the people
+286.5	looking at her from below.
+290.58	We designed and developed
+290.58	"what we called ""Friends in Space,"""
+293.78	a web application that simply
+293.78	"lets you say ""hello"" to Samantha"
+298.46	from where you are,
+299.74	"and ""hello"" to all the people"
+299.74	who are online at the same time
+303.3	from all over the world.
+305.46	"And all of these ""hellos"""
+305.46	left visible marks on the map
+308.94	as Samantha was flying by
+310.98	and as she was actually
+310.98	waving back every day at us
+314.38	using Twitter from the ISS.
+316.7	This made people see the mission's data
+316.7	from a very different perspective.
+321.7	It all suddenly became much more
+321.7	about our human nature and our curiosity,
+326.42	rather than technology.
+328.1	So data powered the experience,
+330.46	but stories of human beings
+330.46	were the drive.
+334.66	The very positive response
+334.66	of its thousands of users
+338.02	taught me a very important lesson --
+339.98	that working with data
+339.98	means designing ways
+342.86	to transform the abstract
+342.86	and the uncountable
+345.62	into something that can be seen,
+345.62	felt and directly reconnected
+349.66	to our lives and to our behaviors,
+351.98	something that is hard to achieve
+353.86	if we let the obsession for the numbers
+353.86	and the technology around them
+357.78	lead us in the process.
+360.42	But we can do even more to connect data
+360.42	to the stories they represent.
+365.34	We can remove technology completely.
+368.02	A few years ago, I met this other woman,
+370.3	Stefanie Posavec --
+371.7	a London-based designer who shares with me
+371.7	the passion and obsession about data.
+377.54	We didn't know each other,
+378.9	but we decided to run
+378.9	a very radical experiment,
+382.18	starting a communication using only data,
+384.74	no other language,
+386.1	and we opted for using no technology
+386.1	whatsoever to share our data.
+390.74	In fact, our only means of communication
+393.66	would be through
+393.66	the old-fashioned post office.
+396.54	"For ""Dear Data,"" every week for one year,"
+399.02	we used our personal data
+399.02	to get to know each other --
+402.5	personal data around weekly
+402.5	shared mundane topics,
+406.18	from our feelings
+407.42	to the interactions with our partners,
+409.3	from the compliments we received
+409.3	to the sounds of our surroundings.
+413.3	Personal information
+413.3	that we would then manually hand draw
+416.86	on a postcard-size sheet of paper
+419.38	that we would every week
+419.38	send from London to New York,
+422.34	where I live,
+423.62	and from New York to London,
+423.62	where she lives.
+426.3	The front of the postcard
+426.3	is the data drawing,
+430.02	and the back of the card
+431.34	contains the address
+431.34	of the other person, of course,
+433.793	and the legend for how
+433.793	to interpret our drawing.
+437.46	The very first week into the project,
+439.5	we actually chose
+439.5	a pretty cold and impersonal topic.
+442.58	How many times do we
+442.58	check the time in a week?
+446.54	So here is the front of my card,
+448.5	and you can see that every little symbol
+450.5	represents all of the times
+450.5	that I checked the time,
+453.94	positioned for days
+453.94	and different hours chronologically --
+457.34	nothing really complicated here.
+460.02	But then you see in the legend
+461.62	how I added anecdotal details
+461.62	about these moments.
+465.1	In fact, the different types of symbols
+465.1	indicate why I was checking the time --
+469.7	what was I doing?
+470.94	Was I bored? Was I hungry?
+472.66	Was I late?
+473.9	Did I check it on purpose
+473.9	or just casually glance at the clock?
+477.14	And this is the key part --
+479.42	representing the details
+479.42	of my days and my personality
+483.14	through my data collection.
+485.1	Using data as a lens or a filter
+485.1	to discover and reveal, for example,
+489.82	my never-ending anxiety for being late,
+492.02	even though I'm absolutely always on time.
+496.02	Stefanie and I spent one year
+496.02	collecting our data manually
+500.14	to force us to focus on the nuances
+500.14	that computers cannot gather --
+504.66	or at least not yet --
+506.22	using data also to explore our minds
+506.22	and the words we use,
+509.74	and not only our activities.
+511.7	Like at week number three,
+513.14	"where we tracked the ""thank yous"""
+513.14	we said and were received,
+516.98	and when I realized that I thank
+516.98	mostly people that I don't know.
+521.66	Apparently I'm a compulsive thanker
+521.66	to waitresses and waiters,
+526.02	but I definitely don't thank enough
+526.02	the people who are close to me.
+530.82	Over one year,
+532.1	the process of actively noticing
+532.1	and counting these types of actions
+536.62	became a ritual.
+537.94	It actually changed ourselves.
+540.02	We became much more
+540.02	in tune with ourselves,
+542.74	much more aware of our behaviors
+542.74	and our surroundings.
+546.5	Over one year, Stefanie and I
+546.5	connected at a very deep level
+549.5	through our shared data diary,
+551.54	but we could do this only because
+551.54	we put ourselves in these numbers,
+555.86	adding the contexts
+555.86	of our very personal stories to them.
+559.86	It was the only way
+559.86	to make them truly meaningful
+562.34	and representative of ourselves.
+566.3	I am not asking you
+566.3	to start drawing your personal data,
+569.42	or to find a pen pal across the ocean.
+572.3	But I'm asking you to consider data --
+574.9	all kind of data --
+576.38	as the beginning of the conversation
+578.18	and not the end.
+579.9	Because data alone
+579.9	will never give us a solution.
+583.1	And this is why data failed us so badly --
+585.82	because we failed to include
+585.82	the right amount of context
+589.22	to represent reality --
+590.7	a nuanced, complicated
+590.7	and intricate reality.
+594.78	We kept looking at these two numbers,
+597.26	obsessing with them
+598.78	and pretending that our world
+598.78	could be reduced
+601.3	to a couple digits and a horse race,
+603.66	while the real stories,
+604.94	the ones that really mattered,
+606.42	were somewhere else.
+607.86	What we missed looking at these stories
+607.86	only through models and algorithms
+612.3	"is what I call ""data humanism."""
+615.38	In the Renaissance humanism,
+617.42	European intellectuals
+619.06	placed the human nature instead of God
+619.06	at the center of their view of the world.
+624.62	I believe something similar
+624.62	needs to happen
+626.86	with the universe of data.
+628.66	Now data are apparently
+628.66	treated like a God --
+631.66	keeper of infallible truth
+631.66	for our present and our future.
+635.66	The experiences
+635.66	that I shared with you today
+638.58	taught me that to make data faithfully
+638.58	representative of our human nature
+643.62	and to make sure they will not
+643.62	mislead us anymore,
+647.06	we need to start designing ways
+647.06	to include empathy, imperfection
+650.78	and human qualities
+652.38	in how we collect, process,
+652.38	analyze and display them.
+657.1	I do see a place where, ultimately,
+660.1	instead of using data
+660.1	only to become more efficient,
+663.46	we will all use data
+663.46	to become more humane.
+666.7	Thank you.
+667.94	(Applause)

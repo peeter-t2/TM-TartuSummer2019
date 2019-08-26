@@ -1,0 +1,417 @@
+startsecond	text
+25	As other speakers have said, it's a rather daunting experience --
+27	a particularly daunting experience -- to be speaking in front of this audience.
+30	But unlike the other speakers, I'm not going to tell you about
+33	the mysteries of the universe, or the wonders of evolution,
+35	or the really clever, innovative ways people are attacking
+39	the major inequalities in our world.
+41	Or even the challenges of nation-states in the modern global economy.
+46	My brief, as you've just heard, is to tell you about statistics --
+50	and, to be more precise, to tell you some exciting things about statistics.
+53	And that's --
+54	(Laughter)
+55	-- that's rather more challenging
+57	than all the speakers before me and all the ones coming after me.
+59	(Laughter)
+61	One of my senior colleagues told me, when I was a youngster in this profession,
+66	rather proudly, that statisticians were people who liked figures
+70	but didn't have the personality skills to become accountants.
+73	(Laughter)
+75	And there's another in-joke among statisticians, and that's,
+78	"""How do you tell the introverted statistician from the extroverted statistician?"""
+81	To which the answer is,
+83	"""The extroverted statistician's the one who looks at the other person's shoes."""
+88	(Laughter)
+91	But I want to tell you something useful -- and here it is, so concentrate now.
+96	This evening, there's a reception in the University's Museum of Natural History.
+99	And it's a wonderful setting, as I hope you'll find,
+101	and a great icon to the best of the Victorian tradition.
+106	It's very unlikely -- in this special setting, and this collection of people --
+111	but you might just find yourself talking to someone you'd rather wish that you weren't.
+114	So here's what you do.
+116	"When they say to you, ""What do you do?"" -- you say, ""I'm a statistician."""
+120	(Laughter)
+121	Well, except they've been pre-warned now, and they'll know you're making it up.
+125	And then one of two things will happen.
+127	They'll either discover their long-lost cousin in the other corner of the room
+129	and run over and talk to them.
+131	Or they'll suddenly become parched and/or hungry -- and often both --
+134	and sprint off for a drink and some food.
+136	And you'll be left in peace to talk to the person you really want to talk to.
+140	It's one of the challenges in our profession to try and explain what we do.
+143	We're not top on people's lists for dinner party guests and conversations and so on.
+148	And it's something I've never really found a good way of doing.
+150	But my wife -- who was then my girlfriend --
+153	managed it much better than I've ever been able to.
+156	Many years ago, when we first started going out, she was working for the BBC in Britain,
+159	and I was, at that stage, working in America.
+161	I was coming back to visit her.
+163	"She told this to one of her colleagues, who said, ""Well, what does your boyfriend do?"""
+169	Sarah thought quite hard about the things I'd explained --
+171	and she concentrated, in those days, on listening.
+175	(Laughter)
+178	Don't tell her I said that.
+180	And she was thinking about the work I did developing mathematical models
+184	for understanding evolution and modern genetics.
+187	"So when her colleague said, ""What does he do?"""
+190	"She paused and said, ""He models things."""
+194	(Laughter)
+195	Well, her colleague suddenly got much more interested than I had any right to expect
+199	"and went on and said, ""What does he model?"""
+202	"Well, Sarah thought a little bit more about my work and said, ""Genes."""
+205	(Laughter)
+209	"""He models genes."""
+211	That is my first love, and that's what I'll tell you a little bit about.
+215	What I want to do more generally is to get you thinking about
+219	the place of uncertainty and randomness and chance in our world,
+222	and how we react to that, and how well we do or don't think about it.
+227	So you've had a pretty easy time up till now --
+229	a few laughs, and all that kind of thing -- in the talks to date.
+231	You've got to think, and I'm going to ask you some questions.
+234	So here's the scene for the first question I'm going to ask you.
+236	Can you imagine tossing a coin successively?
+239	And for some reason -- which shall remain rather vague --
+242	we're interested in a particular pattern.
+244	Here's one -- a head, followed by a tail, followed by a tail.
+247	So suppose we toss a coin repeatedly.
+250	Then the pattern, head-tail-tail, that we've suddenly become fixated with happens here.
+255	And you can count: one, two, three, four, five, six, seven, eight, nine, 10 --
+259	it happens after the 10th toss.
+261	So you might think there are more interesting things to do, but humor me for the moment.
+264	Imagine this half of the audience each get out coins, and they toss them
+268	until they first see the pattern head-tail-tail.
+271	The first time they do it, maybe it happens after the 10th toss, as here.
+273	The second time, maybe it's after the fourth toss.
+275	The next time, after the 15th toss.
+277	So you do that lots and lots of times, and you average those numbers.
+280	That's what I want this side to think about.
+283	The other half of the audience doesn't like head-tail-tail --
+285	they think, for deep cultural reasons, that's boring --
+288	and they're much more interested in a different pattern -- head-tail-head.
+291	So, on this side, you get out your coins, and you toss and toss and toss.
+294	And you count the number of times until the pattern head-tail-head appears
+297	and you average them. OK?
+300	So on this side, you've got a number --
+302	you've done it lots of times, so you get it accurately --
+304	which is the average number of tosses until head-tail-tail.
+307	On this side, you've got a number -- the average number of tosses until head-tail-head.
+311	So here's a deep mathematical fact --
+313	if you've got two numbers, one of three things must be true.
+316	Either they're the same, or this one's bigger than this one,
+319	or this one's bigger than that one.
+320	So what's going on here?
+323	So you've all got to think about this, and you've all got to vote --
+325	and we're not moving on.
+326	And I don't want to end up in the two-minute silence
+328	to give you more time to think about it, until everyone's expressed a view. OK.
+332	So what you want to do is compare the average number of tosses until we first see
+336	head-tail-head with the average number of tosses until we first see head-tail-tail.
+341	Who thinks that A is true --
+343	that, on average, it'll take longer to see head-tail-head than head-tail-tail?
+347	Who thinks that B is true -- that on average, they're the same?
+351	Who thinks that C is true -- that, on average, it'll take less time
+353	to see head-tail-head than head-tail-tail?
+357	OK, who hasn't voted yet? Because that's really naughty -- I said you had to.
+360	(Laughter)
+362	OK. So most people think B is true.
+365	And you might be relieved to know even rather distinguished mathematicians think that.
+368	It's not. A is true here.
+372	It takes longer, on average.
+374	In fact, the average number of tosses till head-tail-head is 10
+376	and the average number of tosses until head-tail-tail is eight.
+381	How could that be?
+384	Anything different about the two patterns?
+390	There is. Head-tail-head overlaps itself.
+395	If you went head-tail-head-tail-head, you can cunningly get two occurrences
+399	of the pattern in only five tosses.
+402	You can't do that with head-tail-tail.
+404	That turns out to be important.
+406	There are two ways of thinking about this.
+408	I'll give you one of them.
+410	So imagine -- let's suppose we're doing it.
+412	On this side -- remember, you're excited about head-tail-tail;
+414	you're excited about head-tail-head.
+416	We start tossing a coin, and we get a head --
+419	and you start sitting on the edge of your seat
+420	because something great and wonderful, or awesome, might be about to happen.
+425	The next toss is a tail -- you get really excited.
+427	The champagne's on ice just next to you; you've got the glasses chilled to celebrate.
+431	You're waiting with bated breath for the final toss.
+433	And if it comes down a head, that's great.
+435	You're done, and you celebrate.
+437	If it's a tail -- well, rather disappointedly, you put the glasses away
+439	and put the champagne back.
+441	And you keep tossing, to wait for the next head, to get excited.
+445	On this side, there's a different experience.
+447	It's the same for the first two parts of the sequence.
+450	You're a little bit excited with the first head --
+452	you get rather more excited with the next tail.
+454	Then you toss the coin.
+456	If it's a tail, you crack open the champagne.
+459	If it's a head you're disappointed,
+461	but you're still a third of the way to your pattern again.
+464	And that's an informal way of presenting it -- that's why there's a difference.
+468	Another way of thinking about it --
+470	if we tossed a coin eight million times,
+472	then we'd expect a million head-tail-heads
+474	and a million head-tail-tails -- but the head-tail-heads could occur in clumps.
+481	So if you want to put a million things down amongst eight million positions
+483	and you can have some of them overlapping, the clumps will be further apart.
+488	It's another way of getting the intuition.
+490	What's the point I want to make?
+492	It's a very, very simple example, an easily stated question in probability,
+496	which every -- you're in good company -- everybody gets wrong.
+499	This is my little diversion into my real passion, which is genetics.
+503	There's a connection between head-tail-heads and head-tail-tails in genetics,
+506	and it's the following.
+509	When you toss a coin, you get a sequence of heads and tails.
+512	When you look at DNA, there's a sequence of not two things -- heads and tails --
+515	but four letters -- As, Gs, Cs and Ts.
+518	And there are little chemical scissors, called restriction enzymes
+521	which cut DNA whenever they see particular patterns.
+523	And they're an enormously useful tool in modern molecular biology.
+528	"And instead of asking the question, ""How long until I see a head-tail-head?"" --"
+531	"you can ask, ""How big will the chunks be when I use a restriction enzyme"
+534	which cuts whenever it sees G-A-A-G, for example?
+538	"How long will those chunks be?"""
+540	That's a rather trivial connection between probability and genetics.
+545	There's a much deeper connection, which I don't have time to go into
+548	and that is that modern genetics is a really exciting area of science.
+551	And we'll hear some talks later in the conference specifically about that.
+555	But it turns out that unlocking the secrets in the information generated by modern
+559	experimental technologies, a key part of that has to do with fairly sophisticated --
+564	you'll be relieved to know that I do something useful in my day job,
+567	rather more sophisticated than the head-tail-head story --
+569	but quite sophisticated computer modelings and mathematical modelings
+573	and modern statistical techniques.
+575	And I will give you two little snippets -- two examples --
+578	of projects we're involved in in my group in Oxford,
+581	both of which I think are rather exciting.
+583	You know about the Human Genome Project.
+585	That was a project which aimed to read one copy of the human genome.
+591	The natural thing to do after you've done that --
+593	and that's what this project, the International HapMap Project,
+595	which is a collaboration between labs in five or six different countries.
+600	Think of the Human Genome Project as learning what we've got in common,
+604	and the HapMap Project is trying to understand
+606	where there are differences between different people.
+608	Why do we care about that?
+610	Well, there are lots of reasons.
+612	The most pressing one is that we want to understand how some differences
+616	make some people susceptible to one disease -- type-2 diabetes, for example --
+620	and other differences make people more susceptible to heart disease,
+625	or stroke, or autism and so on.
+627	That's one big project.
+629	There's a second big project,
+631	recently funded by the Wellcome Trust in this country,
+633	involving very large studies --
+635	thousands of individuals, with each of eight different diseases,
+638	common diseases like type-1 and type-2 diabetes, and coronary heart disease,
+642	bipolar disease and so on -- to try and understand the genetics.
+646	To try and understand what it is about genetic differences that causes the diseases.
+649	Why do we want to do that?
+651	Because we understand very little about most human diseases.
+654	We don't know what causes them.
+656	And if we can get in at the bottom and understand the genetics,
+658	we'll have a window on the way the disease works,
+661	and a whole new way about thinking about disease therapies
+663	and preventative treatment and so on.
+666	So that's, as I said, the little diversion on my main love.
+669	Back to some of the more mundane issues of thinking about uncertainty.
+674	Here's another quiz for you --
+676	now suppose we've got a test for a disease
+678	which isn't infallible, but it's pretty good.
+680	It gets it right 99 percent of the time.
+683	And I take one of you, or I take someone off the street,
+686	and I test them for the disease in question.
+688	Let's suppose there's a test for HIV -- the virus that causes AIDS --
+692	and the test says the person has the disease.
+695	What's the chance that they do?
+698	The test gets it right 99 percent of the time.
+700	So a natural answer is 99 percent.
+704	Who likes that answer?
+706	Come on -- everyone's got to get involved.
+707	Don't think you don't trust me anymore.
+709	(Laughter)
+710	Well, you're right to be a bit skeptical, because that's not the answer.
+713	That's what you might think.
+715	It's not the answer, and it's not because it's only part of the story.
+718	It actually depends on how common or how rare the disease is.
+721	So let me try and illustrate that.
+723	Here's a little caricature of a million individuals.
+727	So let's think about a disease that affects --
+730	it's pretty rare, it affects one person in 10,000.
+732	Amongst these million individuals, most of them are healthy
+735	and some of them will have the disease.
+737	And in fact, if this is the prevalence of the disease,
+740	about 100 will have the disease and the rest won't.
+743	So now suppose we test them all.
+745	What happens?
+747	Well, amongst the 100 who do have the disease,
+749	the test will get it right 99 percent of the time, and 99 will test positive.
+754	Amongst all these other people who don't have the disease,
+756	the test will get it right 99 percent of the time.
+759	It'll only get it wrong one percent of the time.
+761	But there are so many of them that there'll be an enormous number of false positives.
+765	Put that another way --
+767	of all of them who test positive -- so here they are, the individuals involved --
+772	less than one in 100 actually have the disease.
+777	So even though we think the test is accurate, the important part of the story is
+781	there's another bit of information we need.
+784	Here's the key intuition.
+787	What we have to do, once we know the test is positive,
+790	is to weigh up the plausibility, or the likelihood, of two competing explanations.
+796	Each of those explanations has a likely bit and an unlikely bit.
+799	One explanation is that the person doesn't have the disease --
+802	that's overwhelmingly likely, if you pick someone at random --
+805	but the test gets it wrong, which is unlikely.
+809	The other explanation is that the person does have the disease -- that's unlikely --
+812	but the test gets it right, which is likely.
+815	And the number we end up with --
+817	that number which is a little bit less than one in 100 --
+820	is to do with how likely one of those explanations is relative to the other.
+826	Each of them taken together is unlikely.
+829	Here's a more topical example of exactly the same thing.
+832	Those of you in Britain will know about what's become rather a celebrated case
+836	of a woman called Sally Clark, who had two babies who died suddenly.
+841	"And initially, it was thought that they died of what's known informally as ""cot death,"""
+845	"and more formally as ""Sudden Infant Death Syndrome."""
+848	For various reasons, she was later charged with murder.
+850	And at the trial, her trial, a very distinguished pediatrician gave evidence
+854	that the chance of two cot deaths, innocent deaths, in a family like hers --
+859	which was professional and non-smoking -- was one in 73 million.
+866	To cut a long story short, she was convicted at the time.
+869	Later, and fairly recently, acquitted on appeal -- in fact, on the second appeal.
+874	And just to set it in context, you can imagine how awful it is for someone
+878	to have lost one child, and then two, if they're innocent,
+881	to be convicted of murdering them.
+883	To be put through the stress of the trial, convicted of murdering them --
+885	and to spend time in a women's prison, where all the other prisoners
+888	think you killed your children -- is a really awful thing to happen to someone.
+893	And it happened in large part here because the expert got the statistics
+898	horribly wrong, in two different ways.
+901	So where did he get the one in 73 million number?
+905	He looked at some research, which said the chance of one cot death in a family
+908	like Sally Clark's is about one in 8,500.
+913	"So he said, ""I'll assume that if you have one cot death in a family,"
+917	"the chance of a second child dying from cot death aren't changed."""
+921	So that's what statisticians would call an assumption of independence.
+924	"It's like saying, ""If you toss a coin and get a head the first time,"
+926	"that won't affect the chance of getting a head the second time."""
+929	So if you toss a coin twice, the chance of getting a head twice are a half --
+934	that's the chance the first time -- times a half -- the chance a second time.
+937	"So he said, ""Here,"
+939	I'll assume that these events are independent.
+943	When you multiply 8,500 together twice,
+945	"you get about 73 million."""
+947	And none of this was stated to the court as an assumption
+949	or presented to the jury that way.
+952	Unfortunately here -- and, really, regrettably --
+955	first of all, in a situation like this you'd have to verify it empirically.
+959	And secondly, it's palpably false.
+962	There are lots and lots of things that we don't know about sudden infant deaths.
+967	It might well be that there are environmental factors that we're not aware of,
+970	and it's pretty likely to be the case that there are
+972	genetic factors we're not aware of.
+974	So if a family suffers from one cot death, you'd put them in a high-risk group.
+977	They've probably got these environmental risk factors
+979	and/or genetic risk factors we don't know about.
+982	And to argue, then, that the chance of a second death is as if you didn't know
+985	that information is really silly.
+988	It's worse than silly -- it's really bad science.
+992	Nonetheless, that's how it was presented, and at trial nobody even argued it.
+997	That's the first problem.
+999	The second problem is, what does the number of one in 73 million mean?
+1003	So after Sally Clark was convicted --
+1005	you can imagine, it made rather a splash in the press --
+1009	one of the journalists from one of Britain's more reputable newspapers wrote that
+1016	what the expert had said was,
+1018	"""The chance that she was innocent was one in 73 million."""
+1023	Now, that's a logical error.
+1025	It's exactly the same logical error as the logical error of thinking that
+1028	after the disease test, which is 99 percent accurate,
+1030	the chance of having the disease is 99 percent.
+1034	In the disease example, we had to bear in mind two things,
+1038	one of which was the possibility that the test got it right or not.
+1042	And the other one was the chance, a priori, that the person had the disease or not.
+1046	It's exactly the same in this context.
+1049	There are two things involved -- two parts to the explanation.
+1053	We want to know how likely, or relatively how likely, two different explanations are.
+1057	One of them is that Sally Clark was innocent --
+1060	which is, a priori, overwhelmingly likely --
+1062	most mothers don't kill their children.
+1065	And the second part of the explanation
+1067	is that she suffered an incredibly unlikely event.
+1070	Not as unlikely as one in 73 million, but nonetheless rather unlikely.
+1074	The other explanation is that she was guilty.
+1076	Now, we probably think a priori that's unlikely.
+1078	And we certainly should think in the context of a criminal trial
+1081	that that's unlikely, because of the presumption of innocence.
+1084	And then if she were trying to kill the children, she succeeded.
+1088	So the chance that she's innocent isn't one in 73 million.
+1092	We don't know what it is.
+1094	It has to do with weighing up the strength of the other evidence against her
+1098	and the statistical evidence.
+1100	We know the children died.
+1102	What matters is how likely or unlikely, relative to each other,
+1106	the two explanations are.
+1108	And they're both implausible.
+1111	There's a situation where errors in statistics had really profound
+1115	and really unfortunate consequences.
+1118	In fact, there are two other women who were convicted on the basis of the
+1120	evidence of this pediatrician, who have subsequently been released on appeal.
+1124	Many cases were reviewed.
+1126	And it's particularly topical because he's currently facing a disrepute charge
+1130	at Britain's General Medical Council.
+1133	So just to conclude -- what are the take-home messages from this?
+1137	Well, we know that randomness and uncertainty and chance
+1141	are very much a part of our everyday life.
+1144	It's also true -- and, although, you, as a collective, are very special in many ways,
+1149	you're completely typical in not getting the examples I gave right.
+1153	It's very well documented that people get things wrong.
+1156	They make errors of logic in reasoning with uncertainty.
+1160	We can cope with the subtleties of language brilliantly --
+1162	and there are interesting evolutionary questions about how we got here.
+1165	We are not good at reasoning with uncertainty.
+1168	That's an issue in our everyday lives.
+1170	As you've heard from many of the talks, statistics underpins an enormous amount
+1173	of research in science -- in social science, in medicine
+1176	and indeed, quite a lot of industry.
+1178	All of quality control, which has had a major impact on industrial processing,
+1182	is underpinned by statistics.
+1184	It's something we're bad at doing.
+1186	At the very least, we should recognize that, and we tend not to.
+1189	To go back to the legal context, at the Sally Clark trial
+1193	all of the lawyers just accepted what the expert said.
+1197	So if a pediatrician had come out and said to a jury,
+1199	"""I know how to build bridges. I've built one down the road."
+1202	"Please drive your car home over it,"""
+1204	"they would have said, ""Well, pediatricians don't know how to build bridges."
+1206	"That's what engineers do."""
+1208	On the other hand, he came out and effectively said, or implied,
+1211	"""I know how to reason with uncertainty. I know how to do statistics."""
+1214	"And everyone said, ""Well, that's fine. He's an expert."""
+1217	So we need to understand where our competence is and isn't.
+1220	Exactly the same kinds of issues arose in the early days of DNA profiling,
+1224	when scientists, and lawyers and in some cases judges,
+1228	routinely misrepresented evidence.
+1232	Usually -- one hopes -- innocently, but misrepresented evidence.
+1235	"Forensic scientists said, ""The chance that this guy's innocent is one in three million."""
+1240	Even if you believe the number, just like the 73 million to one,
+1242	that's not what it meant.
+1244	And there have been celebrated appeal cases
+1246	in Britain and elsewhere because of that.
+1248	And just to finish in the context of the legal system.
+1251	"It's all very well to say, ""Let's do our best to present the evidence."""
+1255	But more and more, in cases of DNA profiling -- this is another one --
+1258	we expect juries, who are ordinary people --
+1261	and it's documented they're very bad at this --
+1263	we expect juries to be able to cope with the sorts of reasoning that goes on.
+1267	In other spheres of life, if people argued -- well, except possibly for politics --
+1272	but in other spheres of life, if people argued illogically,
+1274	we'd say that's not a good thing.
+1276	We sort of expect it of politicians and don't hope for much more.
+1280	In the case of uncertainty, we get it wrong all the time --
+1283	and at the very least, we should be aware of that,
+1285	and ideally, we might try and do something about it.
+1287	Thanks very much.

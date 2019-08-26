@@ -1,0 +1,322 @@
+startsecond	text
+12.575	In my early days as a graduate student,
+14.614	I went on a snorkeling trip
+14.614	off the coast of the Bahamas.
+18.609	I'd actually never swum
+18.609	in the ocean before,
+21.582	so it was a bit terrifying.
+23.836	What I remember the most is,
+23.836	as I put my head in the water
+26.86	and I was trying really hard
+26.86	to breathe through the snorkel,
+31.134	this huge group
+31.134	of striped yellow and black fish
+36.524	came straight at me ...
+38.637	and I just froze.
+40.795	And then, as if it had
+40.795	suddenly changed its mind,
+44.432	came towards me
+44.432	and then swerved to the right
+46.893	and went right around me.
+48.74	It was absolutely mesmerizing.
+50.29	Maybe many of you
+50.29	have had this experience.
+53.059	Of course, there's the color
+53.059	and the beauty of it,
+56.505	but there was also
+56.505	just the sheer oneness of it,
+59.457	as if it wasn't hundreds of fish
+61.824	but a single entity
+61.824	with a single collective mind
+64.983	that was making decisions.
+67.486	When I look back, I think that experience
+67.486	really ended up determining
+71.192	what I've worked on for most of my career.
+75.977	I'm a computer scientist,
+77.281	and the field that I work in
+77.281	is artificial intelligence.
+80.459	And a key theme in AI
+82	is being able to understand intelligence
+82	by creating our own computational systems
+86.467	that display intelligence
+86.467	the way we see it in nature.
+90.287	Now, most popular views of AI, of course,
+90.287	come from science fiction and the movies,
+94.749	and I'm personally a big Star Wars fan.
+98.321	But that tends to be a very human-centric
+98.321	view of intelligence.
+102.964	When you think of a fish school,
+105.195	or when I think of a flock of starlings,
+108.172	that feels like a really different
+108.172	kind of intelligence.
+112.765	For starters, any one fish is just so tiny
+116.702	compared to the sheer size
+116.702	of the collective,
+119.613	so it seems that any one individual
+122.747	would have a really limited
+122.747	and myopic view of what's going on,
+125.764	and intelligence
+125.764	isn't really about the individual
+128.122	but somehow a property
+128.122	of the group itself.
+131.938	Secondly, and the thing
+131.938	that I still find most remarkable,
+135.193	is that we know that there are no leaders
+135.193	supervising this fish school.
+140.983	Instead, this incredible
+140.983	collective mind behavior
+144.508	is emerging purely from the interactions
+144.508	of one fish and another.
+149.064	Somehow, there are these interactions
+149.064	or rules of engagement
+153.056	between neighboring fish
+154.835	that make it all work out.
+157.556	So the question for AI then becomes,
+160.231	what are those rules of engagement
+160.231	that lead to this kind of intelligence,
+164.413	and of course, can we create our own?
+166.819	And that's the primary thing
+166.819	that I work on with my team in my lab.
+170.763	We work on it through theory,
+172.424	looking at abstract rule systems
+174.796	and thinking about
+174.796	the mathematics behind it.
+177.717	We also do it through biology,
+177.717	working closely with experimentalists.
+182.399	But mostly, we do it through robotics,
+184.376	where we try to create
+184.376	our own collective systems
+188.304	that can do the kinds of things
+188.304	that we see in nature,
+191.035	or at least try to.
+193.727	One of our first robotic quests
+193.727	along this line
+196.555	was to create our very own colony
+196.555	of a thousand robots.
+200.96	So very simple robots,
+202.318	but they could be programmed
+202.318	to exhibit collective intelligence,
+205.945	and that's what we were able to do.
+208.014	So this is what a single robot looks like.
+210.07	It's quite small,
+210.07	about the size of a quarter,
+212.617	and you can program how it moves,
+214.951	but it can also wirelessly
+214.951	communicate with other robots,
+218.391	and it can measure distances from them.
+220.582	And so now we can start to program
+220.582	exactly an interaction,
+224.082	a rule of engagement between neighbors.
+226.533	And once we have this system,
+228.451	we can start to program many
+228.451	different kinds of rules of engagement
+231.891	that you would see in nature.
+233.421	So for example,
+233.421	spontaneous synchronization,
+236.421	how audiences are clapping
+236.421	and suddenly start all clapping together,
+241.683	the fireflies flashing together.
+246.739	We can program rules
+246.739	for pattern formation,
+249.454	how cells in a tissue
+251.264	determine what role
+251.264	they're going to take on
+253.39	and set the patterns of our bodies.
+256.865	We can program rules for migration,
+258.978	and in this way, we're really learning
+258.978	from nature's rules.
+262.415	But we can also take it a step further.
+265.086	We can actually take these rules
+265.086	that we've learned from nature
+268.102	and combine them and create
+268.102	entirely new collective behaviors
+271.92	of our very own.
+273.78	So for example,
+275.282	imagine that you had
+275.282	two different kinds of rules.
+278.194	So your first rule is a motion rule
+280.337	where a moving robot can move
+280.337	around other stationary robots.
+284.702	And your second rule is a pattern rule
+286.537	where a robot takes on a color
+286.537	based on its two nearest neighbors.
+290.499	So if I start with a blob of robots
+290.499	in a little pattern seed,
+293.968	it turns out that these two rules
+293.968	are sufficient for the group
+296.898	to be able to self-assemble
+296.898	a simple line pattern.
+300.934	And if I have more
+300.934	complicated pattern rules,
+303.502	and I design error correction rules,
+305.843	we can actually create really,
+305.843	really complicated self assemblies,
+308.964	and here's what that looks like.
+311.694	So here, you're going to see
+311.694	a thousand robots
+314.703	that are working together
+314.703	to self-assemble the letter K.
+318.189	The K is on its side.
+320.043	And the important thing
+320.043	is that no one is in charge.
+322.798	So any single robot is only talking
+322.798	to a small number of robots nearby it,
+327.647	and it's using its motion rule
+327.647	to move around the half-built structure
+331.608	just looking for a place to fit in
+331.608	based on its pattern rules.
+335.614	And even though no robot
+335.614	is doing anything perfectly,
+340.036	the rules are such that we can get
+340.036	the collective to do its goal
+343.72	robustly together.
+345.853	And the illusion becomes
+345.853	almost so perfect, you know --
+348.859	you just start to not even notice
+348.859	that they're individual robots at all,
+352.299	and it becomes a single entity,
+354.006	kind of like the school of fish.
+359.833	So these are robots and rules
+359.833	in two dimensions,
+362.596	but we can also think about robots
+362.596	and rules in three dimensions.
+365.931	So what if we could create robots
+365.931	that could build together?
+370.396	And here, we can take inspiration
+370.396	from social insects.
+374.009	So if you think about
+374.009	mound-building termites
+376.693	or you think about army ants,
+378.769	they create incredible,
+378.769	complex nest structures out of mud
+383.046	and even out of their own bodies.
+386.422	And like the system I showed you before,
+388.666	these insects actually
+388.666	also have pattern rules
+391.66	that help them determine what to build,
+393.722	but the pattern can be made
+393.722	out of other insects,
+396.048	or it could be made out of mud.
+398.998	And we can use that same idea
+398.998	to create rules for robots.
+404.041	So here, you're going to see
+404.041	some simulated robots.
+407.226	So the simulated robot has a motion rule,
+409.733	which is how it traverses
+409.733	through the structure,
+412.09	looking for a place to fit in,
+414.111	and it has pattern rules
+414.111	where it looks at groups of blocks
+417.135	to decide whether to place a block.
+420.464	And with the right motion rules
+420.464	and the right pattern rules,
+423.551	we can actually get the robots
+423.551	to build whatever we want.
+428.017	And of course, everybody wants
+428.017	their own tower.
+431.17	(Laughter)
+433.82	So once we have these rules,
+435.528	we can start to create the robot bodies
+435.528	that go with these rules.
+438.718	So here, you see a robot
+438.718	that can climb over blocks,
+442.051	but it can also lift and move these blocks
+444.756	and it can start to edit
+444.756	the very structure that it's on.
+448.437	But with these rules,
+449.609	this is really only one kind of robot body
+449.609	that you could imagine.
+453.112	You could imagine
+453.112	many different kinds of robot bodies.
+455.715	So if you think about robots
+455.715	that maybe could move sandbags
+460.349	and could help build levees,
+462.922	or we could think of robots
+462.922	that built out of soft materials
+467.247	and worked together
+467.247	to shore up a collapsed building --
+470.915	so just the same kind of rules
+470.915	in different kinds of bodies.
+476.03	Or if, like my group, you are completely
+476.03	obsessed with army ants,
+480.277	then maybe one day we can make robots
+480.277	that can climb over literally anything
+484.675	including other members of their tribe,
+486.873	and self-assemble things
+486.873	out of their own bodies.
+489.957	Once you understand the rules,
+491.662	just many different kinds
+491.662	of robot visions become possible.
+498.612	And coming back to the snorkeling trip,
+500.87	we actually understand a great deal
+500.87	about the rules that fish schools use.
+506.589	So if we can invent
+506.589	the bodies to go with that,
+509.449	then maybe there is a future
+510.901	where I and my group will get to snorkel
+510.901	with a fish school of our own creation.
+520.67	Each of these systems that I showed you
+522.823	brings us closer to having
+522.823	the mathematical and the conceptual tools
+527.124	to create our own versions
+527.124	of collective power,
+530.529	and this can enable many different kinds
+530.529	of future applications,
+533.554	whether you think about robots
+533.554	that build flood barriers
+536.742	or you think about robotic bee colonies
+536.742	that could pollinate crops
+541.063	or underwater schools of robots
+541.063	that monitor coral reefs,
+544.611	or if we reach for the stars
+544.611	and we thinking about programming
+547.738	constellations of satellites.
+549.968	In each of these systems,
+551.604	being able to understand
+551.604	how to design the rules of engagement
+555.175	and being able to create
+555.175	good collective behavior
+557.713	becomes a key to realizing these visions.
+562.562	So, so far I've talked about
+562.562	rules for insects and for fish
+566.693	and for robots,
+569.086	but what about the rules that apply
+569.086	to our own human collective?
+572.686	And the last thought
+572.686	that I'd like to leave you with
+575.14	is that science is of course itself
+576.845	an incredible manifestation
+576.845	of collective intelligence,
+580.353	but unlike the beautiful
+580.353	fish schools that I study,
+583.695	I feel we still have a much longer
+583.695	evolutionary path to walk.
+588.566	So in addition to working on improving
+588.566	the science of robot collectives,
+593.194	I also work on creating robots
+593.194	and thinking about rules
+596.495	that will improve
+596.495	our own scientific collective.
+600.018	There's this saying that I love:
+601.71	who does science
+601.71	determines what science gets done.
+606.059	Imagine a society
+609.024	where we had rules of engagement
+610.699	where every child grew up believing
+610.699	that they could stand here
+614.026	and be a technologist of the future,
+616.472	or where every adult
+617.997	believed that they had the ability
+617.997	not just to understand but to change
+622.14	how science and technology
+622.14	impacts their everyday lives.
+626.64	What would that society look like?
+630.206	I believe that we can do that.
+631.738	I believe that we can choose our rules,
+634.053	and we engineer not just robots
+635.834	but we can engineer
+635.834	our own human collective,
+638.454	and if we do and when we do,
+638.454	it will be beautiful.
+642.312	Thank you.
+643.487	(Applause)

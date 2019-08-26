@@ -1,0 +1,789 @@
+startsecond	text
+25.476	I do two things:
+26.651	I design mobile computers
+26.651	and I study brains.
+28.793	Today's talk is about brains
+28.793	and -- (Audience member cheers)
+31.747	Yay! I have a brain fan out there.
+33.588	(Laughter)
+36.759	If I could have my first slide,
+38.338	you'll see the title of my talk
+38.338	and my two affiliations.
+41.211	So what I'm going to talk about is why
+41.211	we don't have a good brain theory,
+44.703	why it is important
+44.703	that we should develop one
+47.004	and what we can do about it.
+48.511	I'll try to do all that in 20 minutes.
+50.359	I have two affiliations.
+51.534	Most of you know me
+51.534	from my Palm and Handspring days,
+54.09	but I also run a nonprofit
+54.09	scientific research institute
+56.797	called the Redwood Neuroscience
+56.797	Institute in Menlo Park.
+59.453	We study theoretical neuroscience
+59.453	and how the neocortex works.
+62.865	I'm going to talk all about that.
+64.487	I have one slide on my other life,
+64.487	the computer life,
+67.256	and that's this slide here.
+68.581	These are some of the products
+68.581	I've worked on over the last 20 years,
+71.873	starting from the very original laptop
+73.739	to some of the first tablet computers
+75.55	and so on, ending up
+75.55	most recently with the Treo,
+77.872	and we're continuing to do this.
+79.428	I've done this because
+79.428	I believe mobile computing
+81.753	is the future of personal computing,
+83.501	and I'm trying to make
+83.501	the world a little bit better
+85.979	by working on these things.
+87.299	But this was, I admit, all an accident.
+89.197	I really didn't want to do
+89.197	any of these products.
+91.529	Very early in my career
+92.935	I decided I was not going to be
+92.935	in the computer industry.
+95.649	Before that, I just have to tell you
+97.394	about this picture of Graffiti
+97.394	I picked off the web the other day.
+100.526	I was looking for a picture for Graffiti
+100.526	that'll text input language.
+103.803	I found a website dedicated to teachers
+103.803	who want to make script-writing things
+107.516	across the top of their blackboard,
+109.214	and they had added Graffiti to it,
+109.214	and I'm sorry about that.
+112.071	(Laughter)
+114.342	So what happened was,
+115.666	when I was young and got out
+115.666	of engineering school at Cornell in '79,
+120.589	I went to work for Intel
+120.589	and was in the computer industry,
+123.8	and three months into that,
+123.8	I fell in love with something else.
+127.226	"I said, ""I made"
+127.226	"the wrong career choice here,"""
+130.294	and I fell in love with brains.
+132.557	This is not a real brain.
+134.114	This is a picture of one, a line drawing.
+136.857	And I don't remember
+136.857	exactly how it happened,
+139	but I have one recollection,
+139	which was pretty strong in my mind.
+142.539	In September of 1979,
+144.173	Scientific American came out
+144.173	with a single-topic issue about the brain.
+147.561	It was one of their best issues ever.
+149.523	They talked about the neuron,
+149.523	development, disease, vision
+152.494	and all the things you might want
+152.494	to know about brains.
+155.114	It was really quite impressive.
+156.64	One might've had the impression
+156.64	we knew a lot about brains.
+159.436	But the last article in that issue
+159.436	was written by Francis Crick of DNA fame.
+163.655	Today is, I think, the 50th anniversary
+163.655	of the discovery of DNA.
+166.703	And he wrote a story basically saying,
+166.703	this is all well and good,
+169.802	but you know, we don't know
+169.802	diddly squat about brains,
+172.569	and no one has a clue how they work,
+174.332	so don't believe what anyone tells you.
+176.222	This is a quote
+176.222	from that article, he says:
+178.411	"""What is conspicuously lacking"" --"
+178.411	he's a very proper British gentleman --
+182.728	"""What is conspicuously lacking"
+182.728	is a broad framework of ideas
+185.582	in which to interpret
+185.582	"these different approaches."""
+187.958	"I thought the word ""framework"" was great."
+189.95	He didn't say we didn't have a theory.
+191.791	He says we don't even know
+191.791	how to begin to think about it.
+194.54	We don't even have a framework.
+196.056	We are in the pre-paradigm days,
+196.056	if you want to use Thomas Kuhn.
+199.13	So I fell in love with this.
+200.493	I said, look: We have all this knowledge
+200.493	about brains -- how hard can it be?
+204.092	It's something we can work on
+204.092	in my lifetime; I could make a difference.
+207.554	So I tried to get out of the computer
+207.554	business, into the brain business.
+211.197	First, I went to MIT,
+211.197	the AI lab was there.
+213.225	I said, I want to build
+213.225	intelligent machines too,
+215.644	but I want to study how brains work first.
+218.185	"And they said, ""Oh, you"
+218.185	don't need to do that.
+220.515	You're just going to program
+220.515	computers, that's all.
+222.929	I said, you really ought to study brains.
+224.916	"They said, ""No, you're wrong."""
+226.372	"I said, ""No, you're wrong,"""
+226.372	and I didn't get in.
+228.642	(Laughter)
+229.744	I was a little disappointed --
+229.744	pretty young --
+231.923	but I went back again a few years later,
+233.883	this time in California,
+233.883	and I went to Berkeley.
+236.266	And I said, I'll go
+236.266	in from the biological side.
+238.72	So I got in the PhD program in biophysics.
+241.833	I was like, I'm studying brains now.
+241.833	Well, I want to study theory.
+245.267	"They said, ""You can't"
+245.267	study theory about brains.
+247.56	You can't get funded for that.
+249.579	And as a graduate student,
+249.579	"you can't do that."""
+251.758	So I said, oh my gosh.
+253	I was depressed; I said, but I can
+253	make a difference in this field.
+256.179	I went back in the computer industry
+258.211	and said, I'll have to work
+258.211	here for a while.
+260.34	That's when I designed
+260.34	all those computer products.
+262.757	(Laughter)
+264.082	I said, I want to do this
+264.082	for four years, make some money,
+267	I was having a family,
+267	and I would mature a bit,
+271	and maybe the business
+271	of neuroscience would mature a bit.
+273.84	Well, it took longer than four years.
+273.84	It's been about 16 years.
+276.865	But I'm doing it now,
+276.865	and I'm going to tell you about it.
+279.605	So why should we have a good brain theory?
+281.915	Well, there's lots of reasons
+281.915	people do science.
+285.041	The most basic one is,
+285.041	people like to know things.
+287.982	We're curious, and we go out
+287.982	and get knowledge.
+290.201	Why do we study ants? It's interesting.
+292.091	Maybe we'll learn something useful,
+292.091	but it's interesting and fascinating.
+295.581	But sometimes a science
+295.581	has other attributes
+297.662	which makes it really interesting.
+299.515	Sometimes a science will tell
+299.515	something about ourselves;
+302.166	it'll tell us who we are.
+303.414	Evolution did this
+303.414	and Copernicus did this,
+306.19	where we have a new
+306.19	understanding of who we are.
+308.548	And after all, we are our brains.
+308.548	My brain is talking to your brain.
+312	Our bodies are hanging along for the ride,
+314.054	but my brain is talking to your brain.
+315.903	And if we want to understand
+315.903	who we are and how we feel and perceive,
+319.175	we need to understand brains.
+320.59	Another thing is sometimes science leads
+320.59	to big societal benefits, technologies,
+324.398	or businesses or whatever.
+325.713	This is one, too, because
+325.713	when we understand how brains work,
+328.615	we'll be able to build
+328.615	intelligent machines.
+330.703	That's a good thing on the whole,
+332.425	with tremendous benefits to society,
+334.307	just like a fundamental technology.
+336	So why don't we have
+336	a good theory of brains?
+338.874	People have been working
+338.874	on it for 100 years.
+341.066	Let's first take a look
+341.066	at what normal science looks like.
+343.809	This is normal science.
+345.02	Normal science is a nice balance
+345.02	between theory and experimentalists.
+349.118	The theorist guy says,
+349.118	"""I think this is what's going on,"""
+351.833	"the experimentalist says, ""You're wrong."""
+353.818	It goes back and forth,
+353.818	this works in physics, this in geology.
+356.846	But if this is normal science,
+356.846	what does neuroscience look like?
+359.879	This is what neuroscience looks like.
+361.698	We have this mountain of data,
+363.164	which is anatomy, physiology and behavior.
+365.258	You can't imagine how much detail
+365.258	we know about brains.
+368.476	There were 28,000 people who went
+368.476	to the neuroscience conference this year,
+372.092	and every one of them
+372.092	is doing research in brains.
+374.479	A lot of data, but no theory.
+376.197	There's a little wimpy box on top there.
+378.221	And theory has not played a role
+378.221	in any sort of grand way
+381.627	in the neurosciences.
+383.08	And it's a real shame.
+384.344	Now, why has this come about?
+385.759	If you ask neuroscientists
+385.759	why is this the state of affairs,
+388.771	first, they'll admit it.
+390.041	But if you ask them, they say,
+391.55	there's various reasons
+391.55	we don't have a good brain theory.
+394.306	Some say we still don't have enough data,
+396.299	we need more information,
+396.299	there's all these things we don't know.
+399.382	Well, I just told you there's data
+399.382	coming out of your ears.
+402.247	We have so much information,
+402.247	we don't even know how to organize it.
+405.435	What good is more going to do?
+406.897	Maybe we'll be lucky and discover
+406.897	some magic thing, but I don't think so.
+410.369	This is a symptom of the fact
+410.369	that we just don't have a theory.
+413.366	We don't need more data,
+413.366	we need a good theory.
+416	Another one is sometimes people say,
+417.822	"""Brains are so complex,"
+417.822	"it'll take another 50 years."""
+421	I even think Chris said something
+421	like this yesterday, something like,
+424.378	it's one of the most complicated
+424.378	things in the universe.
+427.029	That's not true -- you're more
+427.029	complicated than your brain.
+429.843	You've got a brain.
+431.018	And although the brain
+431.018	looks very complicated,
+433.192	things look complicated
+433.192	until you understand them.
+435.552	That's always been the case.
+436.911	So we can say, my neocortex,
+436.911	the part of the brain I'm interested in,
+440.178	has 30 billion cells.
+441.354	But, you know what?
+441.354	It's very, very regular.
+443.81	In fact, it looks like it's the same thing
+443.81	repeated over and over again.
+447.228	It's not as complex as it looks.
+447.228	That's not the issue.
+449.788	Some people say,
+449.788	brains can't understand brains.
+452.099	Very Zen-like. Woo.
+454.111	(Laughter)
+456.323	You know, it sounds good, but why?
+456.323	I mean, what's the point?
+459.206	It's just a bunch of cells.
+459.206	You understand your liver.
+461.799	It's got a lot of cells in it too, right?
+463.8	So, you know, I don't think
+463.8	there's anything to that.
+466.318	And finally, some people say,
+468.454	"""I don't feel like a bunch"
+468.454	of cells -- I'm conscious.
+471.461	I've got this experience,
+471.461	I'm in the world.
+473.554	"I can't be just a bunch of cells."""
+475.488	Well, people used to believe
+475.488	there was a life force to be living,
+478.735	and we now know
+478.735	that's really not true at all.
+481.168	And there's really no evidence,
+483.09	other than that people just disbelieve
+483.09	that cells can do what they do.
+486.488	So some people have fallen
+486.488	into the pit of metaphysical dualism,
+489.553	some really smart people, too,
+489.553	but we can reject all that.
+492.307	(Laughter)
+495.226	No, there's something else,
+496.991	something really fundamental, and it is:
+499	another reason why we don't have
+499	a good brain theory
+501.475	is because we have an intuitive,
+501.475	strongly held but incorrect assumption
+507.034	that has prevented us
+507.034	from seeing the answer.
+509.17	There's something we believe that just,
+509.17	it's obvious, but it's wrong.
+512.982	Now, there's a history of this in science
+512.982	and before I tell you what it is,
+516.572	I'll tell you about the history
+516.572	of it in science.
+518.895	Look at other scientific revolutions --
+520.829	the solar system, that's Copernicus,
+522.732	Darwin's evolution,
+522.732	and tectonic plates, that's Wegener.
+526.059	They all have a lot in common
+526.059	with brain science.
+528.378	First, they had a lot
+528.378	of unexplained data. A lot of it.
+531.068	But it got more manageable
+531.068	once they had a theory.
+533.886	The best minds were stumped --
+533.886	really smart people.
+536.717	We're not smarter now than they were then;
+538.745	it just turns out it's really
+538.745	hard to think of things,
+541.296	but once you've thought of them,
+541.296	it's easy to understand.
+543.996	My daughters understood
+543.996	these three theories,
+546.126	in their basic framework, in kindergarten.
+548.668	It's not that hard --
+548.668	here's the apple, here's the orange,
+551.958	the Earth goes around, that kind of stuff.
+554	Another thing is the answer
+554	was there all along,
+556.61	but we kind of ignored it
+556.61	because of this obvious thing.
+559.413	It was an intuitive,
+559.413	strongly held belief that was wrong.
+562.287	In the case of the solar system,
+564.001	the idea that the Earth is spinning,
+565.785	the surface is going
+565.785	a thousand miles an hour,
+568	and it's going through the solar system
+568	at a million miles an hour --
+571.273	this is lunacy; we all know
+571.273	the Earth isn't moving.
+573.773	Do you feel like you're moving
+573.773	a thousand miles an hour?
+576.674	If you said Earth was spinning
+576.674	around in space and was huge --
+579.617	they would lock you up,
+579.617	that's what they did back then.
+582.232	So it was intuitive and obvious.
+582.232	Now, what about evolution?
+585.531	Evolution, same thing.
+586.709	We taught our kids the Bible says
+586.709	God created all these species,
+589.813	cats are cats; dogs are dogs;
+589.813	people are people; plants are plants;
+592.98	they don't change.
+594.245	Noah put them on the ark
+594.245	in that order, blah, blah.
+596.918	The fact is, if you believe in evolution,
+596.918	we all have a common ancestor.
+600.337	We all have a common ancestor
+600.337	with the plant in the lobby!
+603.643	This is what evolution tells us.
+603.643	And it's true. It's kind of unbelievable.
+607.353	And the same thing about tectonic plates.
+609.934	All the mountains and the continents
+611.68	are kind of floating around
+611.68	on top of the Earth.
+614.048	It doesn't make any sense.
+615.318	So what is the intuitive,
+615.318	but incorrect assumption,
+619.943	that's kept us from understanding brains?
+621.934	I'll tell you. It'll seem obvious
+621.934	that it's correct. That's the point.
+625.251	Then I'll make an argument why
+625.251	you're incorrect on the other assumption.
+628.709	The intuitive but obvious thing is:
+630.415	somehow, intelligence
+630.415	is defined by behavior;
+632.753	we're intelligent
+632.753	because of how we do things
+635.127	and how we behave intelligently.
+636.723	And I'm going to tell you that's wrong.
+638.626	Intelligence is defined by prediction.
+640.781	I'm going to work you
+640.781	through this in a few slides,
+643.22	and give you an example
+643.22	of what this means.
+645.338	Here's a system.
+646.663	Engineers and scientists
+646.663	like to look at systems like this.
+649.595	They say, we have a thing in a box.
+649.595	We have its inputs and outputs.
+652.782	The AI people said, the thing in the box
+652.782	is a programmable computer,
+656.046	because it's equivalent to a brain.
+657.749	We'll feed it some inputs and get it
+657.749	to do something, have some behavior.
+661.279	Alan Turing defined the Turing test,
+661.279	which essentially says,
+664.125	we'll know if something's intelligent
+664.125	if it behaves identical to a human --
+667.702	a behavioral metric
+667.702	of what intelligence is
+669.832	that has stuck in our minds
+669.832	for a long time.
+672	Reality, though --
+672	I call it real intelligence.
+674.416	Real intelligence
+674.416	is built on something else.
+676.615	We experience the world
+676.615	through a sequence of patterns,
+679.853	and we store them, and we recall them.
+682.026	When we recall them,
+682.026	we match them up against reality,
+684.595	and we're making predictions all the time.
+686.87	It's an internal metric;
+686.87	there's an internal metric about us,
+689.852	saying, do we understand the world,
+689.852	am I making predictions, and so on.
+693.218	You're all being intelligent now,
+693.218	but you're not doing anything.
+696.244	Maybe you're scratching yourself,
+696.244	but you're not doing anything.
+699.27	But you're being intelligent;
+699.27	you're understanding what I'm saying.
+702.45	Because you're intelligent
+702.45	and you speak English,
+704.769	you know the word at the end of this
+706.544	sentence.
+707.727	The word came to you;
+707.727	you make these predictions all the time.
+710.903	What I'm saying is,
+712.626	the internal prediction
+712.626	is the output in the neocortex,
+715.281	and somehow, prediction
+715.281	leads to intelligent behavior.
+717.846	Here's how that happens:
+719.021	Let's start with a non-intelligent brain.
+721	I'll argue a non-intelligent brain,
+721	we'll call it an old brain.
+724.033	And we'll say it's
+724.033	a non-mammal, like a reptile,
+726.928	say, an alligator; we have an alligator.
+728.937	And the alligator has
+728.937	some very sophisticated senses.
+732.332	It's got good eyes and ears
+732.332	and touch senses and so on,
+735.562	a mouth and a nose.
+737.055	It has very complex behavior.
+739.07	It can run and hide. It has fears
+739.07	and emotions. It can eat you.
+743	It can attack.
+743	It can do all kinds of stuff.
+747.193	But we don't consider
+747.193	the alligator very intelligent,
+750.073	not in a human sort of way.
+751.773	But it has all this complex
+751.773	behavior already.
+754.51	Now in evolution, what happened?
+756.335	First thing that happened
+756.335	in evolution with mammals
+758.744	is we started to develop a thing
+758.744	called the neocortex.
+761.299	I'm going to represent the neocortex
+761.299	by this box on top of the old brain.
+765.116	"Neocortex means ""new layer."""
+765.116	It's a new layer on top of your brain.
+768.493	It's the wrinkly thing
+768.493	on the top of your head
+770.86	that got wrinkly because it got shoved
+770.86	in there and doesn't fit.
+773.968	(Laughter)
+775	Literally, it's about the size
+775	of a table napkin
+777.266	and doesn't fit, so it's wrinkly.
+778.864	Now, look at how I've drawn this.
+780.633	The old brain is still there.
+782.043	You still have that alligator brain.
+782.043	You do. It's your emotional brain.
+785.722	It's all those gut reactions you have.
+788.476	On top of it, we have this memory system
+788.476	called the neocortex.
+791.77	And the memory system is sitting
+791.77	over the sensory part of the brain.
+796.088	So as the sensory input
+796.088	comes in and feeds from the old brain,
+799.167	it also goes up into the neocortex.
+801.345	And the neocortex is just memorizing.
+803.282	It's sitting there saying, I'm going
+803.282	to memorize all the things going on:
+806.867	where I've been, people I've seen,
+806.867	things I've heard, and so on.
+809.91	And in the future, when it sees
+809.91	something similar to that again,
+813.296	in a similar environment,
+813.296	or the exact same environment,
+815.955	it'll start playing it back:
+815.955	"""Oh, I've been here before,"""
+819.534	and when you were here before,
+819.534	this happened next.
+821.922	It allows you to predict the future.
+823.672	It literally feeds back
+823.672	the signals into your brain;
+827.092	they'll let you see
+827.092	what's going to happen next,
+829.381	will let you hear the word
+829.381	"""sentence"" before I said it."
+832	And it's this feeding
+832	back into the old brain
+835.209	that will allow you to make
+835.209	more intelligent decisions.
+837.81	This is the most important slide
+837.81	of my talk, so I'll dwell on it a little.
+841.323	And all the time you say,
+841.323	"""Oh, I can predict things,"""
+844.922	so if you're a rat and you go
+844.922	through a maze, and you learn the maze,
+848.306	next time you're in one,
+848.306	you have the same behavior.
+850.769	But suddenly, you're smarter;
+850.769	"you say, ""I recognize this maze,"
+853.784	I know which way to go; I've been here
+853.784	"before; I can envision the future."""
+857.35	That's what it's doing.
+858.542	This is true for all mammals --
+861.406	in humans, it got a lot worse.
+863.461	Humans actually developed
+863.461	the front of the neocortex,
+866.072	called the anterior part of the neocortex.
+868.317	And nature did a little trick.
+869.779	It copied the posterior,
+869.779	the back part, which is sensory,
+872.49	and put it in the front.
+873.665	Humans uniquely have
+873.665	the same mechanism on the front,
+876.169	but we use it for motor control.
+877.747	So we're now able to do very sophisticated
+877.747	motor planning, things like that.
+881.352	I don't have time to explain,
+881.352	but to understand how a brain works,
+884.502	you have to understand how the first part
+884.502	of the mammalian neocortex works,
+888.063	how it is we store patterns
+888.063	and make predictions.
+890.38	Let me give you
+890.38	a few examples of predictions.
+892.592	"I already said the word ""sentence."""
+894.292	In music, if you've heard a song before,
+897.522	when you hear it, the next note
+897.522	pops into your head already --
+900.455	you anticipate it.
+901.63	With an album, at the end of a song,
+901.63	the next song pops into your head.
+905.008	It happens all the time,
+905.008	you make predictions.
+907.337	I have this thing called
+907.337	"the ""altered door"" thought experiment."
+910.4	It says, you have a door at home;
+913.253	when you're here, I'm changing it --
+915.032	I've got a guy back at your house
+915.032	right now, moving the door around,
+918.252	moving your doorknob over two inches.
+920.045	When you go home tonight, you'll put
+920.045	your hand out, reach for the doorknob,
+923.653	notice it's in the wrong spot
+925.191	"and go, ""Whoa, something happened."""
+926.902	It may take a second,
+926.902	but something happened.
+929.027	I can change your doorknob
+929.027	in other ways --
+931.054	make it larger, smaller, change
+931.054	its brass to silver, make it a lever,
+934.319	I can change the door;
+934.319	put colors on, put windows in.
+936.919	I can change a thousand things
+936.919	about your door
+939.094	and in the two seconds
+939.094	you take to open it,
+941.126	you'll notice something has changed.
+942.872	Now, the engineering approach,
+942.872	the AI approach to this,
+945.48	is to build a door database
+945.48	with all the door attributes.
+948.179	And as you go up to the door,
+948.179	we check them off one at time:
+951.022	door, door, color ...
+952.392	We don't do that.
+952.392	Your brain doesn't do that.
+954.516	Your brain is making
+954.516	constant predictions all the time
+957.08	about what will happen
+957.08	in your environment.
+959.138	As I put my hand on this table,
+959.138	I expect to feel it stop.
+961.908	When I walk, every step,
+961.908	if I missed it by an eighth of an inch,
+964.951	I'll know something has changed.
+966.508	You're constantly making predictions
+966.508	about your environment.
+969.352	I'll talk about vision, briefly.
+970.969	This is a picture of a woman.
+972.376	When we look at people, our eyes saccade
+972.376	over two to three times a second.
+975.89	We're not aware of it,
+975.89	but our eyes are always moving.
+978.443	When we look at a face, we typically
+978.443	go from eye to eye to nose to mouth.
+981.902	When your eye moves from eye to eye,
+983.795	if there was something
+983.795	else there like a nose,
+985.977	you'd see a nose where an eye
+985.977	"is supposed to be and go, ""Oh, shit!"""
+989.547	(Laughter)
+990.967	"""There's something wrong"
+990.967	"about this person."""
+993.1	That's because you're making a prediction.
+995.129	It's not like you just look over and say,
+995.129	"""What am I seeing? A nose? OK."""
+998.592	No, you have an expectation
+998.592	of what you're going to see.
+1001.25	Every single moment.
+1002.425	And finally, let's think
+1002.425	about how we test intelligence.
+1005.078	We test it by prediction:
+1005.078	What is the next word in this ...?
+1008.183	This is to this as this is to this.
+1008.183	What is the next number in this sentence?
+1011.834	Here's three visions of an object.
+1011.834	What's the fourth one?
+1014.548	That's how we test it.
+1014.548	It's all about prediction.
+1017.573	So what is the recipe for brain theory?
+1020.219	First of all, we have to have
+1020.219	the right framework.
+1022.609	And the framework is a memory framework,
+1024.546	not a computational or behavior framework,
+1026.594	it's a memory framework.
+1027.781	How do you store and recall
+1027.781	these sequences of patterns?
+1030.428	It's spatiotemporal patterns.
+1031.894	Then, if in that framework,
+1031.894	you take a bunch of theoreticians --
+1034.927	biologists generally
+1034.927	are not good theoreticians.
+1037.197	Not always, but generally, there's not
+1037.197	a good history of theory in biology.
+1040.75	I've found the best people
+1040.75	to work with are physicists,
+1043.348	engineers and mathematicians,
+1044.755	who tend to think algorithmically.
+1046.475	Then they have to learn
+1046.475	the anatomy and the physiology.
+1049.763	You have to make these theories
+1049.763	very realistic in anatomical terms.
+1054.283	Anyone who tells you their theory
+1054.283	about how the brain works
+1057.072	and doesn't tell you exactly
+1057.072	how it's working
+1059.193	and how the wiring works --
+1060.52	it's not a theory.
+1061.811	And that's what we do
+1061.811	at the Redwood Neuroscience Institute.
+1064.668	I'd love to tell you we're making
+1064.668	fantastic progress in this thing,
+1068	and I expect to be back on this stage
+1068	sometime in the not too distant future,
+1071.686	to tell you about it.
+1072.874	I'm really excited;
+1072.874	this is not going to take 50 years.
+1075.492	What will brain theory look like?
+1077.094	First of all, it's going
+1077.094	to be about memory.
+1079.173	Not like computer memory --
+1079.173	not at all like computer memory.
+1082.019	It's very different.
+1083.194	It's a memory of very
+1083.194	high-dimensional patterns,
+1085.475	like the things that come from your eyes.
+1087.461	It's also memory of sequences:
+1088.922	you cannot learn or recall anything
+1088.922	outside of a sequence.
+1091.676	A song must be heard
+1091.676	in sequence over time,
+1094.537	and you must play it back
+1094.537	in sequence over time.
+1096.912	And these sequences
+1096.912	are auto-associatively recalled,
+1099.385	so if I see something, I hear something,
+1099.385	it reminds me of it,
+1102.282	and it plays back automatically.
+1103.839	It's an automatic playback.
+1105.157	And prediction of future inputs
+1105.157	is the desired output.
+1107.729	And as I said, the theory
+1107.729	must be biologically accurate,
+1110.373	it must be testable
+1110.373	and you must be able to build it.
+1112.881	If you don't build it,
+1112.881	you don't understand it.
+1115.116	One more slide.
+1116.672	What is this going to result in?
+1119.005	Are we going to really build
+1119.005	intelligent machines?
+1121.377	Absolutely. And it's going to be
+1121.377	different than people think.
+1125.508	No doubt that it's going
+1125.508	to happen, in my mind.
+1127.924	First of all, we're going to build
+1127.924	this stuff out of silicon.
+1131.064	The same techniques we use to build
+1131.064	silicon computer memories,
+1134	we can use here.
+1135.175	But they're very different
+1135.175	types of memories.
+1137.308	And we'll attach
+1137.308	these memories to sensors,
+1139.355	and the sensors will experience
+1139.355	real-live, real-world data,
+1142.156	and learn about their environment.
+1143.932	Now, it's very unlikely the first things
+1143.932	you'll see are like robots.
+1147.401	Not that robots aren't useful;
+1147.401	people can build robots.
+1150	But the robotics part is the hardest part.
+1150	That's old brain. That's really hard.
+1153.791	The new brain is easier
+1153.791	than the old brain.
+1155.822	So first we'll do things
+1155.822	that don't require a lot of robotics.
+1158.928	So you're not going to see C-3PO.
+1161.131	You're going to see things
+1161.131	more like intelligent cars
+1163.64	that really understand
+1163.64	what traffic is, what driving is
+1166.472	and have learned that cars
+1166.472	with the blinkers on for half a minute
+1169.774	probably aren't going to turn.
+1171.372	(Laughter)
+1172.687	We can also do intelligent
+1172.687	security systems.
+1174.775	Anytime we're basically using our brain
+1174.775	but not doing a lot of mechanics --
+1178.372	those are the things
+1178.372	that will happen first.
+1180.455	But ultimately, the world's the limit.
+1182.299	I don't know how this will turn out.
+1184.055	I know a lot of people who invented
+1184.055	the microprocessor.
+1186.67	And if you talk to them,
+1188.858	they knew what they were doing
+1188.858	was really significant,
+1191.457	but they didn't really know
+1191.457	what was going to happen.
+1193.981	They couldn't anticipate
+1193.981	cell phones and the Internet
+1196.773	and all this kind of stuff.
+1198.532	They just knew like,
+1198.532	"""We're going to build calculators"
+1201.177	and traffic-light controllers.
+1202.641	"But it's going to be big!"""
+1203.964	In the same way, brain science
+1203.964	and these memories
+1206.329	are going to be a very
+1206.329	fundamental technology,
+1208.578	and it will lead to unbelievable changes
+1208.578	in the next 100 years.
+1212.044	And I'm most excited about
+1212.044	how we're going to use them in science.
+1215.473	So I think that's all my time -- I'm over,
+1218.334	and I'm going to end my talk right there.

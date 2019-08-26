@@ -1,0 +1,563 @@
+startsecond	text
+12.8	So, I lead a team at Google
+12.8	that works on machine intelligence;
+15.948	in other words, the engineering discipline
+15.948	of making computers and devices
+20.622	able to do some of the things
+20.622	that brains do.
+23.439	And this makes us
+23.439	interested in real brains
+26.562	and neuroscience as well,
+27.875	and especially interested
+27.875	in the things that our brains do
+32.071	that are still far superior
+32.071	to the performance of computers.
+37.209	Historically, one of those areas
+37.209	has been perception,
+40.842	the process by which things
+40.842	out there in the world --
+43.905	sounds and images --
+45.513	can turn into concepts in the mind.
+48.235	This is essential for our own brains,
+50.776	and it's also pretty useful on a computer.
+53.636	The machine perception algorithms,
+53.636	for example, that our team makes,
+57.01	are what enable your pictures
+57.01	on Google Photos to become searchable,
+60.908	based on what's in them.
+63.594	The flip side of perception is creativity:
+67.111	turning a concept into something
+67.111	out there into the world.
+70.173	So over the past year,
+70.173	our work on machine perception
+73.752	has also unexpectedly connected
+73.752	with the world of machine creativity
+78.635	and machine art.
+80.556	I think Michelangelo
+80.556	had a penetrating insight
+83.864	into to this dual relationship
+83.864	between perception and creativity.
+88.023	This is a famous quote of his:
+90.053	"""Every block of stone"
+90.053	has a statue inside of it,
+94.036	and the job of the sculptor
+94.036	"is to discover it."""
+98.029	So I think that what
+98.029	Michelangelo was getting at
+101.269	is that we create by perceiving,
+104.473	and that perception itself
+104.473	is an act of imagination
+107.52	and is the stuff of creativity.
+110.691	The organ that does all the thinking
+110.691	and perceiving and imagining,
+114.64	of course, is the brain.
+117.089	And I'd like to begin
+117.089	with a brief bit of history
+119.658	about what we know about brains.
+122.496	Because unlike, say,
+122.496	the heart or the intestines,
+124.966	you really can't say very much
+124.966	about a brain by just looking at it,
+128.134	at least with the naked eye.
+129.983	The early anatomists who looked at brains
+132.423	gave the superficial structures
+132.423	of this thing all kinds of fanciful names,
+136.254	"like hippocampus, meaning ""little shrimp."""
+138.711	But of course that sort of thing
+138.711	doesn't tell us very much
+141.499	about what's actually going on inside.
+144.78	The first person who, I think, really
+144.78	developed some kind of insight
+148.417	into what was going on in the brain
+150.371	was the great Spanish neuroanatomist,
+150.371	Santiago Ramón y Cajal,
+154.315	in the 19th century,
+155.883	who used microscopy and special stains
+159.662	that could selectively fill in
+159.662	or render in very high contrast
+163.856	the individual cells in the brain,
+165.888	in order to start to understand
+165.888	their morphologies.
+169.972	And these are the kinds of drawings
+169.972	that he made of neurons
+172.887	in the 19th century.
+174.12	This is from a bird brain.
+176.028	And you see this incredible variety
+176.028	of different sorts of cells,
+179.109	even the cellular theory itself
+179.109	was quite new at this point.
+182.568	And these structures,
+183.87	these cells that have these arborizations,
+186.153	these branches that can go
+186.153	very, very long distances --
+188.785	this was very novel at the time.
+190.779	They're reminiscent, of course, of wires.
+193.706	That might have been obvious
+193.706	to some people in the 19th century;
+197.187	the revolutions of wiring and electricity
+197.187	were just getting underway.
+201.964	But in many ways,
+203.166	these microanatomical drawings
+203.166	of Ramón y Cajal's, like this one,
+206.503	they're still in some ways unsurpassed.
+208.859	We're still more than a century later,
+210.737	trying to finish the job
+210.737	that Ramón y Cajal started.
+213.586	These are raw data from our collaborators
+216.744	at the Max Planck Institute
+216.744	of Neuroscience.
+219.649	And what our collaborators have done
+221.463	is to image little pieces of brain tissue.
+226.488	The entire sample here
+226.488	is about one cubic millimeter in size,
+229.838	and I'm showing you a very,
+229.838	very small piece of it here.
+232.483	That bar on the left is about one micron.
+234.853	The structures you see are mitochondria
+237.286	that are the size of bacteria.
+239.354	And these are consecutive slices
+240.929	through this very, very
+240.929	tiny block of tissue.
+244.101	Just for comparison's sake,
+246.528	the diameter of an average strand
+246.528	of hair is about 100 microns.
+250.344	So we're looking at something
+250.344	much, much smaller
+252.642	than a single strand of hair.
+254.064	And from these kinds of serial
+254.064	electron microscopy slices,
+258.119	one can start to make reconstructions
+258.119	in 3D of neurons that look like these.
+263.151	So these are sort of in the same
+263.151	style as Ramón y Cajal.
+266.332	Only a few neurons lit up,
+267.848	because otherwise we wouldn't
+267.848	be able to see anything here.
+270.653	It would be so crowded,
+271.989	so full of structure,
+273.343	of wiring all connecting
+273.343	one neuron to another.
+277.293	So Ramón y Cajal was a little bit
+277.293	ahead of his time,
+280.121	and progress on understanding the brain
+282.7	proceeded slowly
+282.7	over the next few decades.
+285.455	But we knew that neurons used electricity,
+288.332	and by World War II, our technology
+288.332	was advanced enough
+291.292	to start doing real electrical
+291.292	experiments on live neurons
+294.122	to better understand how they worked.
+296.631	This was the very same time
+296.631	when computers were being invented,
+301.011	very much based on the idea
+301.011	of modeling the brain --
+304.135	"of ""intelligent machinery,"""
+304.135	as Alan Turing called it,
+307.244	one of the fathers of computer science.
+309.923	Warren McCulloch and Walter Pitts
+309.923	looked at Ramón y Cajal's drawing
+314.579	of visual cortex,
+315.92	which I'm showing here.
+317.506	This is the cortex that processes
+317.506	imagery that comes from the eye.
+322.424	And for them, this looked
+322.424	like a circuit diagram.
+326.353	So there are a lot of details
+326.353	in McCulloch and Pitts's circuit diagram
+330.212	that are not quite right.
+331.588	But this basic idea
+332.847	that visual cortex works like a series
+332.847	of computational elements
+336.863	that pass information
+336.863	one to the next in a cascade,
+339.633	is essentially correct.
+341.259	Let's talk for a moment
+343.633	about what a model for processing
+343.633	visual information would need to do.
+348.228	The basic task of perception
+350.993	is to take an image like this one and say,
+355.211	"""That's a bird,"""
+356.411	which is a very simple thing
+356.411	for us to do with our brains.
+359.309	But you should all understand
+359.309	that for a computer,
+362.754	this was pretty much impossible
+362.754	just a few years ago.
+365.865	The classical computing paradigm
+367.805	is not one in which
+367.805	this task is easy to do.
+371.366	So what's going on between the pixels,
+373.942	between the image of the bird
+373.942	"and the word ""bird,"""
+377.994	is essentially a set of neurons
+377.994	connected to each other
+380.832	in a neural network,
+382.011	as I'm diagramming here.
+383.258	This neural network could be biological,
+383.258	inside our visual cortices,
+386.554	or, nowadays, we start
+386.554	to have the capability
+388.74	to model such neural networks
+388.74	on the computer.
+391.834	And I'll show you what
+391.834	that actually looks like.
+394.211	So the pixels you can think
+394.211	about as a first layer of neurons,
+397.651	and that's, in fact,
+397.651	how it works in the eye --
+399.914	that's the neurons in the retina.
+401.601	And those feed forward
+403.125	into one layer after another layer,
+403.125	after another layer of neurons,
+406.552	all connected by synapses
+406.552	of different weights.
+409.609	The behavior of this network
+410.968	is characterized by the strengths
+410.968	of all of those synapses.
+414.276	Those characterize the computational
+414.276	properties of this network.
+417.588	And at the end of the day,
+419.082	you have a neuron
+419.082	or a small group of neurons
+421.553	"that light up, saying, ""bird."""
+423.824	Now I'm going to represent
+423.824	those three things --
+426.98	the input pixels and the synapses
+426.98	in the neural network,
+431.7	and bird, the output --
+433.309	by three variables: x, w and y.
+436.853	There are maybe a million or so x's --
+438.688	a million pixels in that image.
+440.665	There are billions or trillions of w's,
+443.135	which represent the weights of all
+443.135	these synapses in the neural network.
+446.58	And there's a very small number of y's,
+448.479	of outputs that that network has.
+450.361	"""Bird"" is only four letters, right?"
+453.088	So let's pretend that this
+453.088	is just a simple formula,
+456.538	"x ""x"" w = y."
+458.725	I'm putting the times in scare quotes
+460.785	because what's really
+460.785	going on there, of course,
+463.089	is a very complicated series
+463.089	of mathematical operations.
+467.172	That's one equation.
+468.417	There are three variables.
+470.113	And we all know
+470.113	that if you have one equation,
+472.863	you can solve one variable
+472.863	by knowing the other two things.
+477.158	So the problem of inference,
+480.562	that is, figuring out
+480.562	that the picture of a bird is a bird,
+483.459	is this one:
+484.757	it's where y is the unknown
+484.757	and w and x are known.
+488.24	You know the neural network,
+488.24	you know the pixels.
+490.723	As you can see, that's actually
+490.723	a relatively straightforward problem.
+494.074	You multiply two times three
+494.074	and you're done.
+496.862	I'll show you an artificial neural network
+499.009	that we've built recently,
+499.009	doing exactly that.
+501.634	This is running in real time
+501.634	on a mobile phone,
+504.518	and that's, of course,
+504.518	amazing in its own right,
+507.855	that mobile phones can do so many
+507.855	billions and trillions of operations
+511.347	per second.
+512.619	What you're looking at is a phone
+514.258	looking at one after another
+514.258	picture of a bird,
+517.829	and actually not only saying,
+517.829	"""Yes, it's a bird,"""
+520.568	but identifying the species of bird
+520.568	with a network of this sort.
+524.89	So in that picture,
+526.74	the x and the w are known,
+526.74	and the y is the unknown.
+530.566	I'm glossing over the very
+530.566	difficult part, of course,
+533.098	which is how on earth
+533.098	do we figure out the w,
+536.983	the brain that can do such a thing?
+539.194	How would we ever learn such a model?
+541.418	So this process of learning,
+541.418	of solving for w,
+544.675	if we were doing this
+544.675	with the simple equation
+547.346	in which we think about these as numbers,
+549.37	we know exactly how to do that: 6 = 2 x w,
+552.081	well, we divide by two and we're done.
+556.001	The problem is with this operator.
+558.823	So, division --
+559.998	we've used division because
+559.998	it's the inverse to multiplication,
+563.143	but as I've just said,
+564.607	the multiplication is a bit of a lie here.
+567.08	This is a very, very complicated,
+567.08	very non-linear operation;
+570.43	it has no inverse.
+572.158	So we have to figure out a way
+572.158	to solve the equation
+575.332	without a division operator.
+577.38	And the way to do that
+577.38	is fairly straightforward.
+579.747	You just say, let's play
+579.747	a little algebra trick,
+582.442	and move the six over
+582.442	to the right-hand side of the equation.
+585.372	Now, we're still using multiplication.
+587.675	And that zero -- let's think
+587.675	about it as an error.
+591.279	In other words, if we've solved
+591.279	for w the right way,
+593.818	then the error will be zero.
+595.498	And if we haven't gotten it quite right,
+597.46	the error will be greater than zero.
+599.233	So now we can just take guesses
+599.233	to minimize the error,
+602.623	and that's the sort of thing
+602.623	computers are very good at.
+605.334	So you've taken an initial guess:
+606.951	what if w = 0?
+608.131	Well, then the error is 6.
+609.395	What if w = 1? The error is 4.
+610.865	And then the computer can
+610.865	sort of play Marco Polo,
+613.256	and drive down the error close to zero.
+615.647	As it does that, it's getting
+615.647	successive approximations to w.
+619.045	Typically, it never quite gets there,
+619.045	but after about a dozen steps,
+622.725	we're up to w = 2.999,
+622.725	which is close enough.
+628.302	And this is the learning process.
+630.14	So remember that what's been going on here
+632.894	is that we've been taking
+632.894	a lot of known x's and known y's
+637.296	and solving for the w in the middle
+637.296	through an iterative process.
+640.774	It's exactly the same way
+640.774	that we do our own learning.
+644.354	We have many, many images as babies
+646.608	"and we get told, ""This is a bird;"
+646.608	"this is not a bird."""
+649.714	And over time, through iteration,
+651.836	we solve for w, we solve
+651.836	for those neural connections.
+655.46	So now, we've held
+655.46	x and w fixed to solve for y;
+659.57	that's everyday, fast perception.
+661.441	We figure out how we can solve for w,
+663.228	that's learning, which is a lot harder,
+665.155	because we need to do error minimization,
+667.164	using a lot of training examples.
+668.875	And about a year ago,
+668.875	Alex Mordvintsev, on our team,
+672.086	decided to experiment
+672.086	with what happens if we try solving for x,
+675.66	given a known w and a known y.
+678.124	In other words,
+679.299	you know that it's a bird,
+680.675	and you already have your neural network
+680.675	that you've trained on birds,
+684.002	but what is the picture of a bird?
+687.034	It turns out that by using exactly
+687.034	the same error-minimization procedure,
+692.082	one can do that with the network
+692.082	trained to recognize birds,
+695.536	and the result turns out to be ...
+702.4	a picture of birds.
+704.814	So this is a picture of birds
+704.814	generated entirely by a neural network
+708.575	that was trained to recognize birds,
+710.425	just by solving for x
+710.425	rather than solving for y,
+713.987	and doing that iteratively.
+715.732	Here's another fun example.
+717.603	This was a work made
+717.603	by Mike Tyka in our group,
+721.064	"which he calls ""Animal Parade."""
+723.396	It reminds me a little bit
+723.396	of William Kentridge's artworks,
+726.296	in which he makes sketches, rubs them out,
+728.809	makes sketches, rubs them out,
+730.293	and creates a movie this way.
+731.715	In this case,
+732.89	what Mike is doing is varying y
+732.89	over the space of different animals,
+736.191	in a network designed
+736.191	to recognize and distinguish
+738.597	different animals from each other.
+740.431	And you get this strange, Escher-like
+740.431	morph from one animal to another.
+746.221	Here he and Alex together
+746.221	have tried reducing
+750.859	the y's to a space of only two dimensions,
+753.642	thereby making a map
+753.642	out of the space of all things
+757.104	recognized by this network.
+758.847	Doing this kind of synthesis
+760.894	or generation of imagery
+760.894	over that entire surface,
+763.3	varying y over the surface,
+763.3	you make a kind of map --
+766.17	a visual map of all the things
+766.17	the network knows how to recognize.
+769.335	The animals are all here;
+769.335	"""armadillo"" is right in that spot."
+772.919	You can do this with other kinds
+772.919	of networks as well.
+775.422	This is a network designed
+775.422	to recognize faces,
+778.32	to distinguish one face from another.
+780.344	And here, we're putting
+780.344	"in a y that says, ""me,"""
+783.617	my own face parameters.
+785.216	And when this thing solves for x,
+786.946	it generates this rather crazy,
+789.588	kind of cubist, surreal,
+789.588	psychedelic picture of me
+794.04	from multiple points of view at once.
+795.87	The reason it looks like
+795.87	multiple points of view at once
+798.628	is because that network is designed
+798.628	to get rid of the ambiguity
+802.339	of a face being in one pose
+802.339	or another pose,
+804.839	being looked at with one kind of lighting,
+804.839	another kind of lighting.
+808.239	So when you do
+808.239	this sort of reconstruction,
+810.348	if you don't use some sort of guide image
+812.676	or guide statistics,
+813.911	then you'll get a sort of confusion
+813.911	of different points of view,
+817.7	because it's ambiguous.
+819.786	This is what happens if Alex uses
+819.786	his own face as a guide image
+824.033	during that optimization process
+824.033	to reconstruct my own face.
+828.284	So you can see it's not perfect.
+830.636	There's still quite a lot of work to do
+832.534	on how we optimize
+832.534	that optimization process.
+835.011	But you start to get something
+835.011	more like a coherent face,
+837.862	rendered using my own face as a guide.
+840.892	You don't have to start
+840.892	with a blank canvas
+843.417	or with white noise.
+844.597	When you're solving for x,
+845.925	you can begin with an x,
+845.925	that is itself already some other image.
+849.838	That's what this little demonstration is.
+852.418	This is a network
+852.418	that is designed to categorize
+856.564	all sorts of different objects --
+856.564	man-made structures, animals ...
+859.707	Here we're starting
+859.707	with just a picture of clouds,
+862.324	and as we optimize,
+864.019	basically, this network is figuring out
+864.019	what it sees in the clouds.
+868.931	And the more time
+868.931	you spend looking at this,
+871.275	the more things you also
+871.275	will see in the clouds.
+875.004	You could also use the face network
+875.004	to hallucinate into this,
+878.403	and you get some pretty crazy stuff.
+880.239	(Laughter)
+882.401	Or, Mike has done some other experiments
+885.169	in which he takes that cloud image,
+889.098	hallucinates, zooms, hallucinates,
+889.098	zooms hallucinates, zooms.
+892.629	And in this way,
+893.804	you can get a sort of fugue state
+893.804	of the network, I suppose,
+897.503	or a sort of free association,
+901.207	in which the network
+901.207	is eating its own tail.
+903.458	So every image is now the basis for,
+906.903	"""What do I think I see next?"
+908.348	What do I think I see next?
+908.348	"What do I think I see next?"""
+911.487	I showed this for the first time in public
+914.447	to a group at a lecture in Seattle
+914.447	"called ""Higher Education"" --"
+919.908	this was right after
+919.908	marijuana was legalized.
+922.369	(Laughter)
+926.627	So I'd like to finish up quickly
+928.755	by just noting that this technology
+928.755	is not constrained.
+933.034	I've shown you purely visual examples
+933.034	because they're really fun to look at.
+936.723	It's not a purely visual technology.
+939.198	Our artist collaborator, Ross Goodwin,
+941.215	has done experiments involving
+941.215	a camera that takes a picture,
+944.91	and then a computer in his backpack
+944.91	writes a poem using neural networks,
+949.168	based on the contents of the image.
+951.136	And that poetry neural network
+951.136	has been trained
+954.107	on a large corpus of 20th-century poetry.
+956.365	And the poetry is, you know,
+957.888	I think, kind of not bad, actually.
+959.826	(Laughter)
+961.234	In closing,
+962.417	I think that per Michelangelo,
+964.573	I think he was right;
+965.831	perception and creativity
+965.831	are very intimately connected.
+969.611	What we've just seen are neural networks
+972.269	that are entirely trained to discriminate,
+974.596	or to recognize different
+974.596	things in the world,
+976.862	able to be run in reverse, to generate.
+980.047	One of the things that suggests to me
+981.854	is not only that
+981.854	Michelangelo really did see
+984.276	the sculpture in the blocks of stone,
+986.752	but that any creature,
+986.752	any being, any alien
+990.414	that is able to do
+990.414	perceptual acts of that sort
+994.095	is also able to create
+995.494	because it's exactly the same
+995.494	machinery that's used in both cases.
+998.742	Also, I think that perception
+998.742	and creativity are by no means
+1003.298	uniquely human.
+1004.532	We start to have computer models
+1004.532	that can do exactly these sorts of things.
+1008.264	And that ought to be unsurprising;
+1008.264	the brain is computational.
+1011.616	And finally,
+1013.297	computing began as an exercise
+1013.297	in designing intelligent machinery.
+1017.989	It was very much modeled after the idea
+1020.475	of how could we make machines intelligent.
+1023.512	And we finally are starting to fulfill now
+1025.698	some of the promises
+1025.698	of those early pioneers,
+1028.128	of Turing and von Neumann
+1029.865	and McCulloch and Pitts.
+1032.154	And I think that computing
+1032.154	is not just about accounting
+1036.276	or playing Candy Crush or something.
+1038.447	From the beginning,
+1038.447	we modeled them after our minds.
+1041.049	And they give us both the ability
+1041.049	to understand our own minds better
+1044.342	and to extend them.
+1046.627	Thank you very much.
+1047.818	(Applause)

@@ -1,0 +1,362 @@
+startsecond	text
+13.28	In my lab, we build
+13.28	autonomous aerial robots
+16.96	like the one you see flying here.
+20.72	Unlike the commercially available drones
+20.72	that you can buy today,
+24.44	this robot doesn't have any GPS on board.
+28.16	So without GPS,
+29.4	it's hard for robots like this
+29.4	to determine their position.
+34.24	This robot uses onboard sensors,
+34.24	cameras and laser scanners,
+39	to scan the environment.
+40.72	It detects features from the environment,
+43.8	and it determines where it is
+43.8	relative to those features,
+46.56	using a method of triangulation.
+48.72	And then it can assemble
+48.72	all these features into a map,
+52.2	like you see behind me.
+53.96	And this map then allows the robot
+53.96	to understand where the obstacles are
+57.92	and navigate in a collision-free manner.
+61.16	What I want to show you next
+63.28	is a set of experiments
+63.28	we did inside our laboratory,
+66.52	where this robot was able
+66.52	to go for longer distances.
+70.4	So here you'll see, on the top right,
+70.4	what the robot sees with the camera.
+75.44	And on the main screen --
+76.68	and of course this is sped up
+76.68	by a factor of four --
+79.16	on the main screen you'll see
+79.16	the map that it's building.
+81.851	So this is a high-resolution map
+81.851	of the corridor around our laboratory.
+86.16	And in a minute
+86.16	you'll see it enter our lab,
+88.52	which is recognizable
+88.52	by the clutter that you see.
+91.4	(Laughter)
+92.44	But the main point I want to convey to you
+94.472	is that these robots are capable
+94.472	of building high-resolution maps
+98.08	at five centimeters resolution,
+100.6	allowing somebody who is outside the lab,
+100.6	or outside the building
+104.8	to deploy these
+104.8	without actually going inside,
+108.04	and trying to infer
+108.04	what happens inside the building.
+112.4	Now there's one problem
+112.4	with robots like this.
+115.6	The first problem is it's pretty big.
+118.12	Because it's big, it's heavy.
+120.64	And these robots consume
+120.64	about 100 watts per pound.
+124.36	And this makes for
+124.36	a very short mission life.
+128	The second problem
+129.48	is that these robots have onboard sensors
+129.48	that end up being very expensive --
+133.4	a laser scanner, a camera
+133.4	and the processors.
+137.28	That drives up the cost of this robot.
+141.44	So we asked ourselves a question:
+144.12	what consumer product
+144.12	can you buy in an electronics store
+147.92	that is inexpensive, that's lightweight,
+147.92	that has sensing onboard and computation?
+156.08	And we invented the flying phone.
+158.76	(Laughter)
+160.72	So this robot uses a Samsung Galaxy
+160.72	smartphone that you can buy off the shelf,
+166.92	and all you need is an app that you
+166.92	can download from our app store.
+170.96	And you can see this robot
+170.96	"reading the letters, ""TED"" in this case,"
+175.2	looking at the corners
+175.2	"of the ""T"" and the ""E"""
+178.16	and then triangulating off of that,
+178.16	flying autonomously.
+182.72	That joystick is just there
+182.72	to make sure if the robot goes crazy,
+186	Giuseppe can kill it.
+187.44	(Laughter)
+190.92	In addition to building
+190.92	these small robots,
+194.76	we also experiment with aggressive
+194.76	behaviors, like you see here.
+199.92	So this robot is now traveling
+199.92	at two to three meters per second,
+205.24	pitching and rolling aggressively
+205.24	as it changes direction.
+208.76	The main point is we can have
+208.76	smaller robots that can go faster
+213.04	and then travel in these
+213.04	very unstructured environments.
+217.12	And in this next video,
+219.2	just like you see this bird, an eagle,
+219.2	gracefully coordinating its wings,
+225.12	its eyes and feet
+225.12	to grab prey out of the water,
+229.44	our robot can go fishing, too.
+231.36	(Laughter)
+232.88	In this case, this is a Philly cheesesteak
+232.88	hoagie that it's grabbing out of thin air.
+236.96	(Laughter)
+239.68	So you can see this robot
+239.68	going at about three meters per second,
+243	which is faster than walking speed,
+243	coordinating its arms, its claws
+248.16	and its flight with split-second timing
+248.16	to achieve this maneuver.
+254.12	In another experiment,
+255.36	I want to show you
+255.36	how the robot adapts its flight
+259.04	to control its suspended payload,
+261.44	whose length is actually larger
+261.44	than the width of the window.
+265.68	So in order to accomplish this,
+267.4	it actually has to pitch
+267.4	and adjust the altitude
+271.12	and swing the payload through.
+278.92	But of course we want
+278.92	to make these even smaller,
+281.24	and we're inspired
+281.24	in particular by honeybees.
+284.28	So if you look at honeybees,
+284.28	and this is a slowed down video,
+287.56	they're so small,
+287.56	the inertia is so lightweight --
+291.96	(Laughter)
+293.16	that they don't care --
+293.16	they bounce off my hand, for example.
+296.72	This is a little robot
+296.72	that mimics the honeybee behavior.
+300.6	And smaller is better,
+301.84	because along with the small size
+301.84	you get lower inertia.
+305.4	Along with lower inertia --
+306.96	(Robot buzzing, laughter)
+309.84	along with lower inertia,
+309.84	you're resistant to collisions.
+312.68	And that makes you more robust.
+315.8	So just like these honeybees,
+315.8	we build small robots.
+318.48	And this particular one
+318.48	is only 25 grams in weight.
+321.88	It consumes only six watts of power.
+324.44	And it can travel
+324.44	up to six meters per second.
+327	So if I normalize that to its size,
+329.36	it's like a Boeing 787 traveling
+329.36	ten times the speed of sound.
+336	(Laughter)
+338.12	And I want to show you an example.
+340.84	This is probably the first planned mid-air
+340.84	collision, at one-twentieth normal speed.
+346.12	These are going at a relative speed
+346.12	of two meters per second,
+349.002	and this illustrates the basic principle.
+352.2	The two-gram carbon fiber cage around it
+352.2	prevents the propellers from entangling,
+357.2	but essentially the collision is absorbed
+357.2	and the robot responds to the collisions.
+362.52	And so small also means safe.
+365.4	In my lab, as we developed these robots,
+367.44	we start off with these big robots
+369.084	and then now we're down
+369.084	to these small robots.
+371.92	And if you plot a histogram
+371.92	of the number of Band-Aids we've ordered
+375.4	in the past, that sort of tailed off now.
+378	Because these robots are really safe.
+380.76	The small size has some disadvantages,
+383.24	and nature has found a number of ways
+383.24	to compensate for these disadvantages.
+387.96	The basic idea is they aggregate
+387.96	to form large groups, or swarms.
+392.32	So, similarly, in our lab,
+392.32	we try to create artificial robot swarms.
+396.32	And this is quite challenging
+397.725	because now you have to think
+397.725	about networks of robots.
+401.36	And within each robot,
+402.68	you have to think about the interplay
+402.68	of sensing, communication, computation --
+408.32	and this network then becomes
+408.32	quite difficult to control and manage.
+414.16	So from nature we take away
+414.16	three organizing principles
+417.48	that essentially allow us
+417.48	to develop our algorithms.
+421.64	The first idea is that robots
+421.64	need to be aware of their neighbors.
+426.2	They need to be able to sense
+426.2	and communicate with their neighbors.
+430.04	So this video illustrates the basic idea.
+432.72	You have four robots --
+434.04	one of the robots has actually been
+434.04	hijacked by a human operator, literally.
+439.217	But because the robots
+439.217	interact with each other,
+441.48	they sense their neighbors,
+443.16	they essentially follow.
+444.48	And here there's a single person
+444.48	able to lead this network of followers.
+452	So again, it's not because all the robots
+452	know where they're supposed to go.
+457.08	It's because they're just reacting
+457.08	to the positions of their neighbors.
+463.72	(Laughter)
+468.28	So the next experiment illustrates
+468.28	the second organizing principle.
+474.92	And this principle has to do
+474.92	with the principle of anonymity.
+479.4	Here the key idea is that
+483.72	the robots are agnostic
+483.72	to the identities of their neighbors.
+488.44	They're asked to form a circular shape,
+491.08	and no matter how many robots
+491.08	you introduce into the formation,
+494.4	or how many robots you pull out,
+497	each robot is simply
+497	reacting to its neighbor.
+500.16	It's aware of the fact that it needs
+500.16	to form the circular shape,
+505.16	but collaborating with its neighbors
+506.96	it forms the shape
+506.96	without central coordination.
+511.52	Now if you put these ideas together,
+513.96	the third idea is that we
+513.96	essentially give these robots
+517.88	mathematical descriptions
+517.88	of the shape they need to execute.
+522.2	And these shapes can be varying
+522.2	as a function of time,
+525.72	and you'll see these robots
+525.72	start from a circular formation,
+530.24	change into a rectangular formation,
+530.24	stretch into a straight line,
+533.52	back into an ellipse.
+534.919	And they do this with the same
+534.919	kind of split-second coordination
+538.56	that you see in natural swarms, in nature.
+543.08	So why work with swarms?
+545.24	Let me tell you about two applications
+545.24	that we are very interested in.
+550.16	The first one has to do with agriculture,
+552.56	which is probably the biggest problem
+552.56	that we're facing worldwide.
+556.76	As you well know,
+558.04	one in every seven persons
+558.04	in this earth is malnourished.
+561.92	Most of the land that we can cultivate
+561.92	has already been cultivated.
+565.96	And the efficiency of most systems
+565.96	in the world is improving,
+569.2	but our production system
+569.2	efficiency is actually declining.
+573.08	And that's mostly because of water
+573.08	shortage, crop diseases, climate change
+577.32	and a couple of other things.
+579.36	So what can robots do?
+581.2	Well, we adopt an approach that's
+581.2	called Precision Farming in the community.
+585.84	And the basic idea is that we fly
+585.84	aerial robots through orchards,
+591.24	and then we build
+591.24	precision models of individual plants.
+594.829	So just like personalized medicine,
+596.52	while you might imagine wanting
+596.52	to treat every patient individually,
+601.36	what we'd like to do is build
+601.36	models of individual plants
+605.08	and then tell the farmer
+605.08	what kind of inputs every plant needs --
+609.24	the inputs in this case being water,
+609.24	fertilizer and pesticide.
+614.64	Here you'll see robots
+614.64	traveling through an apple orchard,
+618.28	and in a minute you'll see
+618.28	two of its companions
+620.56	doing the same thing on the left side.
+622.8	And what they're doing is essentially
+622.8	building a map of the orchard.
+626.48	Within the map is a map
+626.48	of every plant in this orchard.
+629.32	(Robot buzzing)
+631	Let's see what those maps look like.
+632.92	In the next video, you'll see the cameras
+632.92	that are being used on this robot.
+637.24	On the top-left is essentially
+637.24	a standard color camera.
+641.64	On the left-center is an infrared camera.
+644.96	And on the bottom-left
+644.96	is a thermal camera.
+648.76	And on the main panel, you're seeing
+648.76	a three-dimensional reconstruction
+652.12	of every tree in the orchard
+652.12	as the sensors fly right past the trees.
+659.64	Armed with information like this,
+659.64	we can do several things.
+664.2	The first and possibly the most important
+664.2	thing we can do is very simple:
+668.48	count the number of fruits on every tree.
+671.52	By doing this, you tell the farmer
+671.52	how many fruits she has in every tree
+676.08	and allow her to estimate
+676.08	the yield in the orchard,
+680.36	optimizing the production
+680.36	chain downstream.
+683.64	The second thing we can do
+685.28	is take models of plants, construct
+685.28	three-dimensional reconstructions,
+689.8	and from that estimate the canopy size,
+692.36	and then correlate the canopy size
+692.36	to the amount of leaf area on every plant.
+696.16	And this is called the leaf area index.
+698.36	So if you know this leaf area index,
+700.32	you essentially have a measure of how much
+700.32	photosynthesis is possible in every plant,
+705.8	which again tells you
+705.8	how healthy each plant is.
+709.52	By combining visual
+709.52	and infrared information,
+713.76	we can also compute indices such as NDVI.
+717.08	And in this particular case,
+717.08	you can essentially see
+719.92	there are some crops that are
+719.92	not doing as well as other crops.
+722.96	This is easily discernible from imagery,
+727.04	not just visual imagery but combining
+729.28	both visual imagery and infrared imagery.
+732.08	And then lastly,
+733.44	one thing we're interested in doing is
+733.44	detecting the early onset of chlorosis --
+737.48	and this is an orange tree --
+739	which is essentially seen
+739	by yellowing of leaves.
+741.88	But robots flying overhead
+741.88	can easily spot this autonomously
+745.8	and then report to the farmer
+745.8	that he or she has a problem
+748.76	in this section of the orchard.
+750.8	Systems like this can really help,
+753.52	and we're projecting yields
+753.52	that can improve by about ten percent
+759.36	and, more importantly, decrease
+759.36	the amount of inputs such as water
+762.6	by 25 percent by using
+762.6	aerial robot swarms.
+767.2	Lastly, I want you to applaud
+767.2	the people who actually create the future,
+772.96	Yash Mulgaonkar, Sikang Liu
+772.96	and Giuseppe Loianno,
+777.92	who are responsible for the three
+777.92	demonstrations that you saw.
+781.44	Thank you.
+782.64	(Applause)

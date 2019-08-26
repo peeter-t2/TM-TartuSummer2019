@@ -1,0 +1,538 @@
+startsecond	text
+12.831	The technology likely to have
+12.831	the greatest impact
+16.301	on the next few decades
+18.071	has arrived.
+19.744	And it's not social media.
+22.265	It's not big data.
+23.686	It's not robotics.
+25.217	It's not even AI.
+27.033	You'll be surprised to learn
+29.423	that it's the underlying technology
+29.423	of digital currencies like Bitcoin.
+34.159	It's called the blockchain. Blockchain.
+38.337	Now, it's not the most sonorous
+38.337	word in the world,
+42.294	but I believe that this is now
+44.734	the next generation of the internet,
+47.299	and that it holds vast promise
+47.299	for every business, every society
+51.898	and for all of you, individually.
+54.367	You know, for the past few decades,
+54.367	we've had the internet of information.
+59.066	And when I send you an email
+59.066	or a PowerPoint file or something,
+63.311	I'm actually not sending you the original,
+65.409	I'm sending you a copy.
+67.222	And that's great.
+68.763	This is democratized information.
+72.441	But when it comes to assets --
+75.223	things like money,
+77.592	financial assets like stocks and bonds,
+80.071	loyalty points, intellectual property,
+83.53	music, art, a vote,
+86.982	carbon credit and other assets --
+89.611	sending you a copy is a really bad idea.
+92.247	If I send you 100 dollars,
+94.066	it's really important
+94.066	that I don't still have the money --
+97.127	(Laughter)
+98.158	and that I can't send it to you.
+100.54	This has been called
+100.54	"the ""double-spend"" problem"
+102.901	by cryptographers for a long time.
+105.469	So today, we rely entirely
+105.469	on big intermediaries --
+110.762	middlemen like banks, government,
+113.039	big social media companies,
+113.039	credit card companies and so on --
+116.627	to establish trust in our economy.
+119.779	And these intermediaries perform
+119.779	all the business and transaction logic
+124.897	of every kind of commerce,
+126.317	from authentication,
+126.317	identification of people,
+129.002	through to clearing, settling
+129.002	and record keeping.
+133.583	And overall, they do a pretty good job.
+135.528	But there are growing problems.
+137.942	To begin, they're centralized.
+139.498	That means they can be hacked,
+139.498	and increasingly are --
+142.49	JP Morgan, the US Federal Government,
+145.073	LinkedIn, Home Depot and others
+146.888	found that out the hard way.
+148.874	They exclude billions of people
+148.874	from the global economy,
+152.412	for example, people
+152.412	who don't have enough money
+154.689	to have a bank account.
+156.624	They slow things down.
+158.936	It can take a second for an email
+158.936	to go around the world,
+162.53	but it can take days or weeks
+164.978	for money to move through
+164.978	the banking system across a city.
+168.134	And they take a big piece of the action --
+	to another country.
+174.022	They capture our data,
+175.687	and that means we can't monetize it
+177.663	or use it to better manage our lives.
+180.441	Our privacy is being undermined.
+183.202	And the biggest problem is that overall,
+186.005	they've appropriated the largesse
+186.005	of the digital age asymmetrically:
+191.91	we have wealth creation,
+191.91	but we have growing social inequality.
+197.105	So what if there were not only
+197.105	an internet of information,
+201.471	what if there were an internet of value --
+204.517	some kind of vast, global,
+204.517	distributed ledger
+208.669	running on millions of computers
+210.831	and available to everybody.
+212.939	And where every kind of asset,
+212.939	from money to music,
+216.814	could be stored, moved, transacted,
+216.814	exchanged and managed,
+222.542	all without powerful intermediaries?
+225.507	What if there were
+225.507	a native medium for value?
+230.256	Well, in 2008, the financial
+230.256	industry crashed
+234.938	and, perhaps propitiously,
+237.546	an anonymous person or persons
+237.546	named Satoshi Nakamoto
+243.325	created a paper where he developed
+243.325	a protocol for a digital cash
+250.335	that used an underlying
+250.335	cryptocurrency called Bitcoin.
+254.421	And this cryptocurrency enabled people
+254.421	to establish trust and do transactions
+260.263	without a third party.
+261.978	And this seemingly simple act
+261.978	set off a spark
+265.738	that ignited the world,
+267.909	that has everyone excited
+267.909	or terrified or otherwise interested
+273.076	in many places.
+274.64	Now, don't be confused about Bitcoin --
+276.734	Bitcoin is an asset; it goes up and down,
+279.933	and that should be of interest
+279.933	to you if you're a speculator.
+283.525	More broadly, it's a cryptocurrency.
+285.954	It's not a fiat currency
+285.954	controlled by a nation-state.
+289.327	And that's of greater interest.
+291.412	But the real pony here
+291.412	is the underlying technology.
+294.65	It's called blockchain.
+297.649	So for the first time now
+297.649	in human history,
+301.116	people everywhere can trust each other
+303.618	and transact peer to peer.
+307.001	And trust is established,
+307.001	not by some big institution,
+311.265	but by collaboration, by cryptography
+314.345	and by some clever code.
+316.502	And because trust is native
+316.502	to the technology,
+320.08	"I call this, ""The Trust Protocol."""
+322.896	Now, you're probably wondering:
+322.896	How does this thing work?
+325.674	Fair enough.
+328.29	Assets -- digital assets like money
+328.29	to music and everything in between --
+333.469	are not stored in a central place,
+335.159	but they're distributed
+335.159	across a global ledger,
+337.879	using the highest level of cryptography.
+340.945	And when a transaction is conducted,
+343.612	it's posted globally,
+345.714	across millions and millions of computers.
+349.508	And out there, around the world,
+351.376	"is a group of people called ""miners."""
+353.694	These are not young people,
+353.694	they're Bitcoin miners.
+357.21	They have massive computing power
+357.21	at their fingertips --
+	than all of Google worldwide.
+365.598	These miners do a lot of work.
+368.122	And every 10 minutes,
+369.519	kind of like the heartbeat of a network,
+371.83	a block gets created
+374.059	that has all the transactions
+374.059	from the previous 10 minutes.
+377.714	Then the miners get to work,
+377.714	trying to solve some tough problems.
+382.873	And they compete:
+384.219	the first miner to find out the truth
+384.219	and to validate the block,
+388.554	is rewarded in digital currency,
+390.939	in the case of the Bitcoin
+390.939	blockchain, with Bitcoin.
+394.171	And then -- this is the key part --
+396.355	that block is linked to the previous block
+398.836	and the previous block
+400.169	to create a chain of blocks.
+403.441	And every one is time-stamped,
+404.904	kind of like with a digital waxed seal.
+407.434	So if I wanted to go and hack a block
+409.805	and, say, pay you and you
+409.805	with the same money,
+414.394	I'd have to hack that block,
+415.941	plus all the preceding blocks,
+417.395	the entire history of commerce
+417.395	on that blockchain,
+420.813	not just on one computer
+420.813	but across millions of computers,
+424.328	simultaneously,
+426.131	all using the highest
+426.131	levels of encryption,
+429.49	in the light of the most powerful
+429.49	computing resource in the world
+432.604	that's watching me.
+433.876	Tough to do.
+435.51	This is infinitely more secure
+437.736	than the computer systems
+437.736	that we have today.
+440.119	Blockchain. That's how it works.
+443.402	So the Bitcoin blockchain is just one.
+445.607	There are many.
+446.782	The Ethereum blockchain was developed
+446.782	by a Canadian named Vitalik Buterin.
+451.7	He's [22] years old,
+453.954	and this blockchain
+453.954	has some extraordinary capabilities.
+458.196	One of them is that you can
+458.196	build smart contracts.
+461.303	It's kind of what it sounds like.
+463.295	It's a contract that self-executes,
+465.882	and the contract handles the enforcement,
+465.882	the management, performance
+470.773	and payment -- the contract kind of has
+470.773	a bank account, too, in a sense --
+475.058	of agreements between people.
+477.718	And today, on the Ethereum blockchain,
+480.456	there are projects underway
+480.456	to do everything
+482.767	from create a new replacement
+482.767	for the stock market
+485.953	to create a new model of democracy,
+487.8	where politicians
+487.8	are accountable to citizens.
+490.927	(Applause)
+494.411	So to understand what a radical change
+494.411	this is going to bring,
+498.514	let's look at one industry,
+498.514	financial services.
+501.249	Recognize this?
+503.061	Rube Goldberg machine.
+505	It's a ridiculously complicated machine
+505	that does something really simple,
+508.705	like crack an egg or shut a door.
+511.593	Well, it kind of reminds me
+511.593	of the financial services industry,
+515.449	honestly.
+516.639	I mean, you tap your card
+516.639	in the corner store,
+519.568	and a bitstream goes through
+519.568	a dozen companies,
+522.843	each with their own computer system,
+525.23	some of them being 1970s mainframes
+527.559	older than many
+527.559	of the people in this room,
+530.375	and three days later, a settlement occurs.
+533.74	Well, with a blockchain
+533.74	financial industry,
+537.288	there would be no settlement,
+538.715	because the payment and the settlement
+538.715	is the same activity,
+541.597	it's just a change in the ledger.
+544.04	So Wall Street and all around the world,
+546.324	the financial industry
+546.324	is in a big upheaval about this,
+549.611	wondering, can we be replaced,
+551.786	or how do we embrace
+551.786	this technology for success?
+555.349	Now, why should you care?
+558.32	Well, let me describe some applications.
+561.748	Prosperity.
+563.44	The first era of the internet,
+565.472	the internet of information,
+566.837	brought us wealth
+566.837	but not shared prosperity,
+570.324	because social inequality is growing.
+572.802	And this is at the heart
+572.802	of all of the anger and extremism
+576.809	and protectionism and xenophobia and worse
+580.433	that we're seeing growing
+580.433	in the world today,
+583.039	Brexit being the most recent case.
+586.868	So could we develop some new approaches
+586.868	to this problem of inequality?
+592.635	Because the only approach today
+592.635	is to redistribute wealth,
+596.408	tax people and spread it around more.
+598.612	Could we pre-distribute wealth?
+601.686	Could we change the way that wealth
+601.686	gets created in the first place
+604.906	by democratizing wealth creation,
+607.1	engaging more people in the economy,
+609.517	and then ensuring that they got
+609.517	fair compensation?
+613.158	Let me describe five ways
+613.158	that this can be done.
+616.597	Number one:
+618.047	Did you know that 70 percent
+618.047	of the people in the world who have land
+623.3	have a tenuous title to it?
+625.863	So, you've got a little farm in Honduras,
+625.863	some dictator comes to power,
+629.279	"he says, ""I know you've got a piece"
+629.279	of paper that says you own your farm,
+632.895	but the government computer
+632.895	"says my friend owns your farm."""
+636.967	This happened on a mass scale in Honduras,
+639.169	and this problem exists everywhere.
+642.214	Hernando de Soto, the great
+642.214	Latin American economist,
+645.013	says this is the number one
+645.013	issue in the world
+647.181	in terms of economic mobility,
+648.799	more important than having a bank account,
+650.964	because if you don't have
+650.964	a valid title to your land,
+653.621	you can't borrow against it,
+655.201	and you can't plan for the future.
+657.969	So today, companies
+657.969	are working with governments
+661.333	to put land titles on a blockchain.
+663.8	And once it's there, this is immutable.
+666.718	You can't hack it.
+668.313	This creates the conditions for prosperity
+671.492	for potentially billions of people.
+674.505	Secondly:
+676.295	a lot of writers talk about Uber
+678.553	and Airbnb and TaskRabbit
+678.553	and Lyft and so on
+681.912	as part of the sharing economy.
+684.232	This is a very powerful idea,
+685.92	that peers can come together
+685.92	and create and share wealth.
+689.71	My view is that ...
+691.729	these companies are not really sharing.
+695.748	In fact, they're successful
+695.748	precisely because they don't share.
+699.879	They aggregate services together,
+699.879	and they sell them.
+703.71	What if, rather than Airbnb
+703.71	being a $25 billion corporation,
+708.666	there was a distributed application
+708.666	on a blockchain, we'll call it B-Airbnb,
+714.196	and it was essentially owned
+714.196	by all of the people
+718.254	who have a room to rent.
+720.574	And when someone wants to rent a room,
+723.169	they go onto the blockchain
+723.169	database and all the criteria,
+727.335	they sift through, it helps
+727.335	them find the right room,
+729.866	and then the blockchain helps
+729.866	with the contracting,
+732.659	it identifies the party,
+734.555	it handles the payments
+735.937	just through digital payments --
+735.937	they're built into the system.
+739.207	And it even handles reputation,
+740.762	because if she rates a room
+740.762	as a five-star room,
+744.978	that room is there,
+746.218	and it's rated, and it's immutable.
+749.043	So, the big sharing-economy
+749.043	disruptors in Silicon Valley
+754.542	could be disrupted,
+756.096	and this would be good for prosperity.
+758.361	Number three:
+760.403	the biggest flow of funds
+760.403	from the developed world
+762.998	to the developing world
+764.308	is not corporate investment,
+766.594	and it's not even foreign aid.
+769.605	It's remittances.
+772.329	This is the global diaspora;
+774.288	people have left their ancestral lands,
+776.669	and they're sending money back
+776.669	to their families at home.
+780.582	This is 600 billion dollars a year,
+780.582	and it's growing,
+783.729	and these people are getting ripped off.
+786.555	Analie Domingo is a housekeeper.
+789.864	She lives in Toronto,
+791.793	and every month she goes
+791.793	to the Western Union office
+796.581	with some cash
+798.144	to send her remittances
+798.144	to her mom in Manila.
+801.835	It costs her around 10 percent;
+803.752	the money takes four to seven
+803.752	days to get there;
+806.016	her mom never knows
+806.016	when it's going to arrive.
+808.204	It takes five hours
+808.204	out of her week to do this.
+811.571	Six months ago,
+812.747	Analie Domingo used
+812.747	a blockchain application called Abra.
+817.771	And from her mobile device,
+817.771	she sent 300 bucks.
+820.408	It went directly
+820.408	to her mom's mobile device
+822.912	without going through an intermediary.
+825.346	And then her mom
+825.346	looked at her mobile device --
+827.762	it's kind of like an Uber interface,
+827.762	"there's Abra ""tellers"" moving around."
+831.575	She clicks on a teller
+831.575	that's a five-star teller,
+834.337	who's seven minutes away.
+836.266	The guy shows up at the door,
+836.266	gives her Filipino pesos,
+839.37	she puts them in her wallet.
+841.365	The whole thing took minutes,
+843.145	and it cost her two percent.
+846.269	This is a big opportunity for prosperity.
+849.637	Number four: the most powerful asset
+849.637	of the digital age is data.
+854.279	And data is really a new asset class,
+857.966	maybe bigger than previous asset classes,
+860.269	like land under the agrarian economy,
+863.254	or an industrial plant,
+864.931	or even money.
+866.54	And all of you -- we -- create this data.
+869.574	We create this asset,
+871.38	and we leave this trail
+871.38	of digital crumbs behind us
+874.119	as we go throughout life.
+875.973	And these crumbs are collected
+875.973	into a mirror image of you,
+878.817	the virtual you.
+880.481	And the virtual you may know
+880.481	more about you than you do,
+883.176	because you can't remember
+883.176	what you bought a year ago,
+885.831	or said a year ago,
+885.831	or your exact location a year ago.
+888.494	And the virtual you is not owned by you --
+891.295	that's the big problem.
+893.419	So today, there are companies working
+896.021	to create an identity in a black box,
+899.682	the virtual you owned by you.
+901.853	And this black box moves around with you
+905.182	as you travel throughout the world,
+907.196	and it's very, very stingy.
+909.29	It only gives away
+909.29	the shred of information
+912.369	that's required to do something.
+913.94	A lot of transactions,
+915.253	the seller doesn't even need
+915.253	to know who you are.
+917.75	They just need to know that they got paid.
+920.741	And then this avatar
+920.741	is sweeping up all of this data
+924.714	and enabling you to monetize it.
+928.061	And this is a wonderful thing,
+929.873	because it can also help us
+929.873	protect our privacy,
+933.088	and privacy is the foundation
+933.088	of a free society.
+936.924	Let's get this asset that we create
+938.914	back under our control,
+940.715	where we can own our own identity
+942.747	and manage it responsibly.
+945.817	Finally --
+946.998	(Applause)
+952.335	Finally, number five:
+953.855	there are a whole number
+953.855	of creators of content
+957.141	who don't receive fair compensation,
+959.372	because the system
+959.372	for intellectual property is broken.
+962.488	It was broken by the first era
+962.488	of the internet.
+965.624	Take music.
+967.734	Musicians are left with crumbs
+967.734	at the end of the whole food chain.
+970.888	You know, if you were a songwriter,
+975.752	it got a million singles,
+978.038	you could get royalties
+978.038	of around 45,000 dollars.
+981.583	Today, you're a songwriter,
+981.583	you write a hit song,
+983.923	it gets a million streams,
+985.4	you don't get 45k,
+987.194	you get 36 dollars,
+989.805	enough to buy a nice pizza.
+992.721	So Imogen Heap,
+994.123	the Grammy-winning singer-songwriter,
+996.531	is now putting music
+996.531	on a blockchain ecosystem.
+1000.526	"She calls it ""Mycelia."""
+1002.399	And the music has
+1002.399	a smart contract surrounding it.
+1006.529	And the music protects
+1006.529	her intellectual property rights.
+1010.076	You want to listen to the song?
+1011.613	It's free, or maybe a few micro-cents
+1011.613	that flow into a digital account.
+1014.994	You want to put the song
+1014.994	in your movie, that's different,
+1017.716	and the IP rights are all specified.
+1019.499	You want to make a ringtone?
+1019.499	That's different.
+1022.23	She describes that the song
+1022.23	becomes a business.
+1025.463	It's out there on this platform
+1025.463	marketing itself,
+1028.296	protecting the rights of the author,
+1030.287	and because the song has a payment system
+1032.466	in the sense of bank account,
+1033.952	all the money flows back to the artist,
+1036.324	and they control the industry,
+1038.583	rather than these powerful intermediaries.
+1041.757	Now, this is --
+1042.932	(Applause)
+1047.604	This is not just songwriters,
+1049.325	it's any creator of content,
+1050.848	like art,
+1052.339	like inventions,
+1054.831	scientific discoveries, journalists.
+1057.816	There are all kinds of people
+1057.816	who don't get fair compensation,
+1060.853	and with blockchains,
+1062.347	they're going to be able
+1062.347	to make it rain on the blockchain.
+1066.133	And that's a wonderful thing.
+1068.775	So, these are five opportunities
+1073.392	out of a dozen
+1074.69	to solve one problem, prosperity,
+1077.015	which is one of countless problems
+1080.087	that blockchains are applicable to.
+1083.036	Now, technology doesn't create
+1083.036	prosperity, of course -- people do.
+1087.507	But my case to you is that, once again,
+1091.905	the technology genie
+1091.905	has escaped from the bottle,
+1095.366	and it was summoned
+1095.366	by an unknown person or persons
+1098.602	at this uncertain time in human history,
+1102.216	and it's giving us
+1102.216	another kick at the can,
+1105.511	another opportunity to rewrite
+1105.511	the economic power grid
+1110.652	and the old order of things,
+1112.4	and solve some of the world's most
+1112.4	difficult problems,
+1117.272	if we will it.
+1119.915	Thank you.
+1121.131	(Applause)

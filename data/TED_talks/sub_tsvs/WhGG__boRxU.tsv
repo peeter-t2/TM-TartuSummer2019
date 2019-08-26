@@ -1,0 +1,385 @@
+startsecond	text
+12.16	So, people argue vigorously about the definition of life.
+15.16	They ask if it should have reproduction in it, or metabolism, or evolution.
+20.16	And I don't know the answer to that, so I'm not going to tell you.
+22.16	I will say that life involves computation.
+25.16	So this is a computer program.
+27.16	Booted up in a cell, the program would execute,
+30.16	and it could result in this person;
+33.16	or with a small change, it could result in this person;
+36.16	or another small change, this person;
+38.16	or with a larger change, this dog,
+41.16	or this tree, or this whale.
+43.16	So now, if you take this metaphor
+45.16	[of] genome as program seriously,
+47.16	you have to consider that Chris Anderson
+49.16	is a computer-fabricated artifact, as is Jim Watson,
+52.16	Craig Venter, as are all of us.
+55.16	And in convincing yourself that this metaphor is true,
+57.16	there are lots of similarities between genetic programs
+59.16	and computer programs that could help to convince you.
+62.16	But one, to me, that's most compelling
+64.16	is the peculiar sensitivity to small changes
+67.16	that can make large changes in biological development -- the output.
+70.16	A small mutation can take a two-wing fly
+72.16	and make it a four-wing fly.
+73.16	Or it could take a fly and put legs where its antennae should be.
+77.16	"Or if you're familiar with ""The Princess Bride,"""
+79.16	it could create a six-fingered man.
+81.16	Now, a hallmark of computer programs
+83.16	is just this kind of sensitivity to small changes.
+86.16	If your bank account's one dollar, and you flip a single bit,
+88.16	you could end up with a thousand dollars.
+90.16	So these small changes are things that I think
+93.16	that -- they indicate to us that a complicated computation
+95.16	in development is underlying these amplified, large changes.
+99.16	So now, all of this indicates that there are molecular programs underlying biology,
+105.16	and it shows the power of molecular programs -- biology does.
+109.16	And what I want to do is write molecular programs,
+111.16	potentially to build technology.
+113.16	And there are a lot of people doing this,
+114.16	a lot of synthetic biologists doing this, like Craig Venter.
+117.16	And they concentrate on using cells.
+119.16	They're cell-oriented.
+121.16	So my friends, molecular programmers, and I
+123.16	have a sort of biomolecule-centric approach.
+125.16	We're interested in using DNA, RNA and protein,
+128.16	and building new languages for building things from the bottom up,
+131.16	using biomolecules,
+132.16	potentially having nothing to do with biology.
+135.16	So, these are all the machines in a cell.
+139.16	There's a camera.
+141.16	There's the solar panels of the cell,
+142.16	some switches that turn your genes on and off,
+144.16	the girders of the cell, motors that move your muscles.
+147.16	My little group of molecular programmers
+149.16	are trying to refashion all of these parts from DNA.
+153.16	We're not DNA zealots, but DNA is the cheapest,
+155.16	easiest to understand and easy to program material to do this.
+158.16	And as other things become easier to use --
+160.16	maybe protein -- we'll work with those.
+163.16	If we succeed, what will molecular programming look like?
+165.16	You're going to sit in front of your computer.
+167.16	You're going to design something like a cell phone,
+169.16	and in a high-level language, you'll describe that cell phone.
+171.16	Then you're going to have a compiler
+173.16	that's going to take that description
+174.16	and it's going to turn it into actual molecules
+176.16	that can be sent to a synthesizer
+178.16	and that synthesizer will pack those molecules into a seed.
+181.16	And what happens if you water and feed that seed appropriately,
+184.16	is it will do a developmental computation,
+186.16	a molecular computation, and it'll build an electronic computer.
+189.16	And if I haven't revealed my prejudices already,
+192.16	I think that life has been about molecular computers
+194.16	building electrochemical computers,
+196.16	building electronic computers,
+198.16	which together with electrochemical computers
+200.16	will build new molecular computers,
+202.16	which will build new electronic computers, and so forth.
+205.16	And if you buy all of this,
+206.16	and you think life is about computation, as I do,
+208.16	then you look at big questions through the eyes of a computer scientist.
+211.16	So one big question is, how does a baby know when to stop growing?
+215.16	And for molecular programming,
+217.16	the question is how does your cell phone know when to stop growing?
+219.16	(Laughter)
+220.16	Or how does a computer program know when to stop running?
+223.16	Or more to the point, how do you know if a program will ever stop?
+226.16	There are other questions like this, too.
+228.16	One of them is Craig Venter's question.
+230.16	Turns out I think he's actually a computer scientist.
+232.16	He asked, how big is the minimal genome
+235.16	that will give me a functioning microorganism?
+237.16	How few genes can I use?
+239.16	This is exactly analogous to the question,
+241.16	what's the smallest program I can write
+242.16	that will act exactly like Microsoft Word?
+244.16	(Laughter)
+245.16	And just as he's writing, you know, bacteria that will be smaller,
+249.16	he's writing genomes that will work,
+250.16	we could write smaller programs
+252.16	that would do what Microsoft Word does.
+254.16	But for molecular programming, our question is,
+256.16	how many molecules do we need to put in that seed to get a cell phone?
+260.16	What's the smallest number we can get away with?
+262.16	Now, these are big questions in computer science.
+264.16	These are all complexity questions,
+266.16	and computer science tells us that these are very hard questions.
+268.16	Almost -- many of them are impossible.
+270.16	But for some tasks, we can start to answer them.
+273.16	So, I'm going to start asking those questions
+274.16	for the DNA structures I'm going to talk about next.
+277.16	So, this is normal DNA, what you think of as normal DNA.
+280.16	It's double-stranded, it's a double helix,
+282.16	has the As, Ts, Cs and Gs that pair to hold the strands together.
+285.16	And I'm going to draw it like this sometimes,
+287.16	just so I don't scare you.
+289.16	We want to look at individual strands and not think about the double helix.
+292.16	When we synthesize it, it comes single-stranded,
+295.16	so we can take the blue strand in one tube
+298.16	and make an orange strand in the other tube,
+300.16	and they're floppy when they're single-stranded.
+302.16	You mix them together and they make a rigid double helix.
+305.16	Now for the last 25 years,
+307.16	Ned Seeman and a bunch of his descendants
+309.16	have worked very hard and made beautiful three-dimensional structures
+312.16	using this kind of reaction of DNA strands coming together.
+315.16	But a lot of their approaches, though elegant, take a long time.
+318.16	They can take a couple of years, or it can be difficult to design.
+321.16	So I came up with a new method a couple of years ago
+324.16	I call DNA origami
+325.16	that's so easy you could do it at home in your kitchen
+327.16	and design the stuff on a laptop.
+329.16	But to do it, you need a long, single strand of DNA,
+332.16	which is technically very difficult to get.
+334.16	So, you can go to a natural source.
+336.16	You can look in this computer-fabricated artifact,
+338.16	and he's got a double-stranded genome -- that's no good.
+340.16	You look in his intestines. There are billions of bacteria.
+343.16	They're no good either.
+345.16	Double strand again, but inside them, they're infected with a virus
+347.16	that has a nice, long, single-stranded genome
+350.16	that we can fold like a piece of paper.
+352.16	And here's how we do it.
+353.16	This is part of that genome.
+354.16	We add a bunch of short, synthetic DNAs that I call staples.
+357.16	Each one has a left half that binds the long strand in one place,
+361.16	and a right half that binds it in a different place,
+364.16	and brings the long strand together like this.
+367.16	The net action of many of these on that long strand
+369.16	is to fold it into something like a rectangle.
+371.16	Now, we can't actually take a movie of this process,
+373.16	but Shawn Douglas at Harvard
+375.16	has made a nice visualization for us
+377.16	that begins with a long strand and has some short strands in it.
+381.16	And what happens is that we mix these strands together.
+385.16	We heat them up, we add a little bit of salt,
+387.16	we heat them up to almost boiling and cool them down,
+389.16	and as we cool them down,
+390.16	the short strands bind the long strands
+392.16	and start to form structure.
+394.16	And you can see a little bit of double helix forming there.
+398.16	When you look at DNA origami,
+400.16	you can see that what it really is,
+403.16	even though you think it's complicated,
+404.16	is a bunch of double helices that are parallel to each other,
+407.16	and they're held together
+409.16	by places where short strands go along one helix
+411.16	and then jump to another one.
+413.16	So there's a strand that goes like this, goes along one helix and binds --
+416.16	it jumps to another helix and comes back.
+418.16	That holds the long strand like this.
+420.16	Now, to show that we could make any shape or pattern
+423.16	that we wanted, I tried to make this shape.
+426.16	I wanted to fold DNA into something that goes up over the eye,
+428.16	down the nose, up the nose, around the forehead,
+431.16	back down and end in a little loop like this.
+434.16	And so, I thought, if this could work, anything could work.
+437.16	So I had the computer program design the short staples to do this.
+440.16	I ordered them; they came by FedEx.
+442.16	I mixed them up, heated them, cooled them down,
+444.16	and I got 50 billion little smiley faces
+448.16	floating around in a single drop of water.
+450.16	And each one of these is just
+452.16	one-thousandth the width of a human hair, OK?
+456.16	So, they're all floating around in solution, and to look at them,
+459.16	you have to get them on a surface where they stick.
+461.16	So, you pour them out onto a surface
+463.16	and they start to stick to that surface,
+465.16	and we take a picture using an atomic-force microscope.
+467.16	It's got a needle, like a record needle,
+469.16	that goes back and forth over the surface,
+471.16	bumps up and down, and feels the height of the first surface.
+474.16	It feels the DNA origami.
+476.16	There's the atomic-force microscope working
+479.16	and you can see that the landing's a little rough.
+480.16	When you zoom in, they've got, you know,
+482.16	weak jaws that flip over their heads
+483.16	and some of their noses get punched out, but it's pretty good.
+486.16	You can zoom in and even see the extra little loop,
+488.16	this little nano-goatee.
+490.16	Now, what's great about this is anybody can do this.
+493.16	And so, I got this in the mail about a year after I did this, unsolicited.
+497.16	Anyone know what this is? What is it?
+500.16	It's China, right?
+502.16	So, what happened is, a graduate student in China,
+504.16	Lulu Qian, did a great job.
+506.16	She wrote all her own software
+508.16	to design and built this DNA origami,
+510.16	a beautiful rendition of China, which even has Taiwan,
+513.16	and you can see it's sort of on the world's shortest leash, right?
+516.16	(Laughter)
+519.16	So, this works really well
+521.16	and you can make patterns as well as shapes, OK?
+524.16	And you can make a map of the Americas and spell DNA with DNA.
+527.16	And what's really neat about it --
+530.16	well, actually, this all looks like nano-artwork,
+532.16	but it turns out that nano-artwork
+533.16	is just what you need to make nano-circuits.
+535.16	So, you can put circuit components on the staples,
+537.16	like a light bulb and a light switch.
+539.16	Let the thing assemble, and you'll get some kind of a circuit.
+542.16	And then you can maybe wash the DNA away and have the circuit left over.
+545.16	So, this is what some colleagues of mine at Caltech did.
+547.16	They took a DNA origami, organized some carbon nano-tubes,
+550.16	made a little switch, you see here, wired it up,
+552.16	tested it and showed that it is indeed a switch.
+555.16	Now, this is just a single switch
+557.16	and you need half a billion for a computer, so we have a long way to go.
+561.16	But this is very promising
+563.16	because the origami can organize parts just one-tenth the size
+568.16	of those in a normal computer.
+569.16	So it's very promising for making small computers.
+572.16	Now, I want to get back to that compiler.
+575.16	The DNA origami is a proof that that compiler actually works.
+579.16	So, you start with something in the computer.
+581.16	You get a high-level description of the computer program,
+584.16	a high-level description of the origami.
+586.16	You can compile it to molecules, send it to a synthesizer,
+589.16	and it actually works.
+590.16	And it turns out that a company has made a nice program
+594.16	that's much better than my code, which was kind of ugly,
+596.16	and will allow us to do this in a nice,
+597.16	visual, computer-aided design way.
+600.16	So, now you can say, all right,
+601.16	why isn't DNA origami the end of the story?
+603.16	You have your molecular compiler, you can do whatever you want.
+605.16	The fact is that it does not scale.
+608.16	So if you want to build a human from DNA origami,
+611.16	the problem is, you need a long strand
+613.16	that's 10 trillion trillion bases long.
+616.16	That's three light years' worth of DNA,
+618.16	so we're not going to do this.
+620.16	We're going to turn to another technology,
+622.16	called algorithmic self-assembly of tiles.
+624.16	It was started by Erik Winfree,
+626.16	and what it does,
+627.16	it has tiles that are a hundredth the size of a DNA origami.
+631.16	You zoom in, there are just four DNA strands
+634.16	and they have little single-stranded bits on them
+636.16	that can bind to other tiles, if they match.
+638.16	And we like to draw these tiles as little squares.
+642.16	And if you look at their sticky ends, these little DNA bits,
+644.16	you can see that they actually form a checkerboard pattern.
+647.16	So, these tiles would make a complicated, self-assembling checkerboard.
+650.16	And the point of this, if you didn't catch that,
+652.16	is that tiles are a kind of molecular program
+655.16	and they can output patterns.
+658.16	And a really amazing part of this is
+660.16	that any computer program can be translated
+662.16	into one of these tile programs -- specifically, counting.
+665.16	So, you can come up with a set of tiles
+668.16	that when they come together, form a little binary counter
+671.16	rather than a checkerboard.
+673.16	So you can read off binary numbers five, six and seven.
+676.16	And in order to get these kinds of computations started right,
+679.16	you need some kind of input, a kind of seed.
+681.16	You can use DNA origami for that.
+683.16	You can encode the number 32
+685.16	in the right-hand side of a DNA origami,
+687.16	and when you add those tiles that count,
+689.16	they will start to count -- they will read that 32
+692.16	and they'll stop at 32.
+694.16	So, what we've done is we've figured out a way
+697.16	to have a molecular program know when to stop going.
+700.16	It knows when to stop growing because it can count.
+702.16	It knows how big it is.
+704.16	So, that answers that sort of first question I was talking about.
+707.16	It doesn't tell us how babies do it, however.
+710.16	So now, we can use this counting to try and get at much bigger things
+714.16	than DNA origami could otherwise.
+715.16	Here's the DNA origami, and what we can do
+718.16	is we can write 32 on both edges of the DNA origami,
+721.16	and we can now use our watering can
+723.16	and water with tiles, and we can start growing tiles off of that
+727.16	and create a square.
+729.16	The counter serves as a template
+732.16	to fill in a square in the middle of this thing.
+734.16	So, what we've done is we've succeeded
+735.16	in making something much bigger than a DNA origami
+738.16	by combining DNA origami with tiles.
+741.16	And the neat thing about it is, is that it's also reprogrammable.
+744.16	You can just change a couple of the DNA strands in this binary representation
+748.16	and you'll get 96 rather than 32.
+751.16	And if you do that, the origami's the same size,
+754.16	but the resulting square that you get is three times bigger.
+759.16	So, this sort of recapitulates
+760.16	what I was telling you about development.
+762.16	You have a very sensitive computer program
+765.16	where small changes -- single, tiny, little mutations --
+768.16	can take something that made one size square
+770.16	and make something very much bigger.
+774.16	Now, this -- using counting to compute
+777.16	and build these kinds of things
+779.16	by this kind of developmental process
+781.16	is something that also has bearing on Craig Venter's question.
+785.16	So, you can ask, how many DNA strands are required
+787.16	to build a square of a given size?
+789.16	If we wanted to make a square of size 10, 100 or 1,000,
+794.16	if we used DNA origami alone,
+796.16	we would require a number of DNA strands that's the square
+799.16	of the size of that square;
+801.16	so we'd need 100, 10,000 or a million DNA strands.
+803.16	That's really not affordable.
+805.16	But if we use a little computation --
+807.16	we use origami, plus some tiles that count --
+811.16	then we can get away with using 100, 200 or 300 DNA strands.
+814.16	And so we can exponentially reduce the number of DNA strands we use,
+819.16	if we use counting, if we use a little bit of computation.
+822.16	And so computation is some very powerful way
+825.16	to reduce the number of molecules you need to build something,
+828.16	to reduce the size of the genome that you're building.
+831.16	And finally, I'm going to get back to that sort of crazy idea
+834.16	about computers building computers.
+836.16	If you look at the square that you build with the origami
+839.16	and some counters growing off it,
+841.16	the pattern that it has is exactly the pattern that you need
+844.16	to make a memory.
+845.16	So if you affix some wires and switches to those tiles --
+848.16	rather than to the staple strands, you affix them to the tiles --
+851.16	then they'll self-assemble the somewhat complicated circuits,
+854.16	the demultiplexer circuits, that you need to address this memory.
+857.16	So you can actually make a complicated circuit
+859.16	using a little bit of computation.
+861.16	It's a molecular computer building an electronic computer.
+864.16	Now, you ask me, how far have we gotten down this path?
+867.16	Experimentally, this is what we've done in the last year.
+870.16	Here is a DNA origami rectangle,
+873.16	and here are some tiles growing from it.
+875.16	And you can see how they count.
+877.16	One, two, three, four, five, six, nine, 10, 11, 12, 17.
+889.16	So it's got some errors, but at least it counts up.
+893.16	(Laughter)
+894.16	So, it turns out we actually had this idea nine years ago,
+897.16	and that's about the time constant for how long it takes
+900.16	to do these kinds of things, so I think we made a lot of progress.
+902.16	We've got ideas about how to fix these errors.
+904.16	And I think in the next five or 10 years,
+906.16	we'll make the kind of squares that I described
+908.16	and maybe even get to some of those self-assembled circuits.
+911.16	So now, what do I want you to take away from this talk?
+915.16	I want you to remember that
+917.16	to create life's very diverse and complex forms,
+921.16	life uses computation to do that.
+923.16	And the computations that it uses, they're molecular computations,
+927.16	and in order to understand this and get a better handle on it,
+929.16	as Feynman said, you know,
+931.16	we need to build something to understand it.
+933.16	And so we are going to use molecules and refashion this thing,
+937.16	rebuild everything from the bottom up,
+939.16	using DNA in ways that nature never intended,
+942.16	using DNA origami,
+944.16	and DNA origami to seed this algorithmic self-assembly.
+947.16	You know, so this is all very cool,
+950.16	but what I'd like you to take from the talk,
+951.16	hopefully from some of those big questions,
+953.16	is that this molecular programming isn't just about making gadgets.
+956.16	It's not just making about --
+958.16	it's making self-assembled cell phones and circuits.
+960.16	What it's really about is taking computer science
+962.16	and looking at big questions in a new light,
+965.16	asking new versions of those big questions
+967.16	and trying to understand how biology
+969.16	can make such amazing things. Thank you.
+972.16	(Applause)

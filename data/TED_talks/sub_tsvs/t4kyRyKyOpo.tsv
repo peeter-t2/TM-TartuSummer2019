@@ -1,0 +1,657 @@
+startsecond	text
+12.88	It used to be that if you wanted
+12.88	to get a computer to do something new,
+16.893	you would have to program it.
+18.447	Now, programming, for those of you here
+18.447	that haven't done it yourself,
+21.858	requires laying out in excruciating detail
+25.36	every single step that you want
+25.36	the computer to do
+28.727	in order to achieve your goal.
+31.089	Now, if you want to do something
+31.089	that you don't know how to do yourself,
+34.585	then this is going
+34.585	to be a great challenge.
+36.648	So this was the challenge faced
+36.648	by this man, Arthur Samuel.
+40.131	In 1956, he wanted to get this computer
+44.208	to be able to beat him at checkers.
+46.548	How can you write a program,
+48.588	lay out in excruciating detail,
+48.588	how to be better than you at checkers?
+52.394	So he came up with an idea:
+54.116	he had the computer play
+54.116	against itself thousands of times
+57.84	and learn how to play checkers.
+60.364	And indeed it worked,
+60.364	and in fact, by 1962,
+63.544	this computer had beaten
+63.544	the Connecticut state champion.
+67.561	So Arthur Samuel was
+67.561	the father of machine learning,
+70.534	and I have a great debt to him,
+72.251	because I am a machine
+72.251	learning practitioner.
+75.014	I was the president of Kaggle,
+76.479	a community of over 200,000
+76.479	machine learning practictioners.
+79.867	Kaggle puts up competitions
+81.925	to try and get them to solve
+81.925	previously unsolved problems,
+85.633	and it's been successful 
+85.633	hundreds of times.
+89.47	So from this vantage point,
+89.47	I was able to find out
+91.94	a lot about what machine learning
+91.94	can do in the past, can do today,
+95.89	and what it could do in the future.
+98.252	Perhaps the first big success of 
+98.252	machine learning commercially was Google.
+102.675	Google showed that it is
+102.675	possible to find information
+105.784	by using a computer algorithm,
+107.536	and this algorithm is based
+107.536	on machine learning.
+110.437	Since that time, there have been many
+110.437	commercial successes of machine learning.
+114.323	Companies like Amazon and Netflix
+116.16	use machine learning to suggest
+116.16	products that you might like to buy,
+119.876	movies that you might like to watch.
+121.896	Sometimes, it's almost creepy.
+123.703	Companies like LinkedIn and Facebook
+125.657	sometimes will tell you about
+125.657	who your friends might be
+128.251	and you have no idea how it did it,
+130.228	and this is because it's using
+130.228	the power of machine learning.
+133.195	These are algorithms that have
+133.195	learned how to do this from data
+136.152	rather than being programmed by hand.
+139.399	This is also how IBM was successful
+141.877	in getting Watson to beat
+141.877	"the two world champions at ""Jeopardy,"""
+145.739	answering incredibly subtle
+145.739	and complex questions like this one.
+148.964	"[""The ancient 'Lion of Nimrud' went missing"
+148.964	from this city's national museum in 2003 
+148.964	"(along with a lot of other stuff)""]"
+151.799	This is also why we are now able
+151.799	to see the first self-driving cars.
+155.034	If you want to be able to tell
+155.034	the difference between, say,
+157.856	a tree and a pedestrian,
+157.856	well, that's pretty important.
+160.488	We don't know how to write
+160.488	those programs by hand,
+163.075	but with machine learning,
+163.075	this is now possible.
+166.072	And in fact, this car has driven 
+166.072	over a million miles
+168.68	without any accidents on regular roads.
+172.196	So we now know that computers can learn,
+176.11	and computers can learn to do things
+178.01	that we actually sometimes
+178.01	don't know how to do ourselves,
+180.848	or maybe can do them better than us.
+183.733	One of the most amazing examples
+183.733	I've seen of machine learning
+187.928	happened on a project that I ran at Kaggle
+190.32	where a team run by a guy
+190.32	called Geoffrey Hinton
+193.911	from the University of Toronto
+195.463	won a competition for
+195.463	automatic drug discovery.
+198.14	Now, what was extraordinary here
+198.14	is not just that they beat
+200.987	all of the algorithms developed by Merck
+200.987	or the international academic community,
+205	but nobody on the team had any background
+205	in chemistry or biology or life sciences,
+210.061	and they did it in two weeks.
+212.23	How did they do this?
+214.421	They used an extraordinary algorithm
+214.421	called deep learning.
+217.342	So important was this that in fact
+217.342	the success was covered
+220.291	in The New York Times in a front page
+220.291	article a few weeks later.
+223.412	This is Geoffrey Hinton
+223.412	here on the left-hand side.
+226.147	Deep learning is an algorithm
+226.147	inspired by how the human brain works,
+230.488	and as a result it's an algorithm
+232.3	which has no theoretical limitations
+232.3	on what it can do.
+236.141	The more data you give it and the more
+236.141	computation time you give it,
+238.964	the better it gets.
+240.276	The New York Times also
+240.276	showed in this article
+242.615	another extraordinary
+242.615	result of deep learning
+244.857	which I'm going to show you now.
+247.569	It shows that computers 
+247.569	can listen and understand.
+252.51	(Video) Richard Rashid: Now, the last step
+255.221	that I want to be able
+255.221	to take in this process
+258.246	is to actually speak to you in Chinese.
+262.961	Now the key thing there is,
+265.596	we've been able to take a large amount 
+265.596	of information from many Chinese speakers
+270.598	and produce a text-to-speech system
+273.128	that takes Chinese text
+273.128	and converts it into Chinese language,
+277.801	and then we've taken
+277.801	an hour or so of my own voice
+281.929	and we've used that to modulate
+283.82	the standard text-to-speech system
+283.82	so that it would sound like me.
+288.364	Again, the result's not perfect.
+290.904	There are in fact quite a few errors.
+293.552	(In Chinese)
+296.036	(Applause)
+301.446	There's much work to be done in this area.
+305.022	(In Chinese)
+308.667	(Applause)
+313.345	Jeremy Howard: Well, that was at
+313.345	a machine learning conference in China.
+316.744	It's not often, actually,
+316.744	at academic conferences
+319.114	that you do hear spontaneous applause,
+321.011	although of course sometimes
+321.011	at TEDx conferences, feel free.
+324.687	Everything you saw there
+324.687	was happening with deep learning.
+327.482	(Applause) Thank you.
+329.007	The transcription in English
+329.007	was deep learning.
+331.289	The translation to Chinese and the text
+331.289	in the top right, deep learning,
+334.701	and the construction of the voice
+334.701	was deep learning as well.
+338.008	So deep learning is
+338.008	this extraordinary thing.
+341.242	It's a single algorithm that
+341.242	can seem to do almost anything,
+344.341	and I discovered that a year earlier,
+344.341	it had also learned to see.
+347.452	In this obscure competition from Germany
+349.628	called the German Traffic Sign 
+349.628	Recognition Benchmark,
+352.225	deep learning had learned
+352.225	to recognize traffic signs like this one.
+355.618	Not only could it
+355.618	recognize the traffic signs
+357.712	better than any other algorithm,
+359.47	the leaderboard actually showed
+359.47	it was better than people,
+362.189	about twice as good as people.
+364.041	So by 2011, we had the first example
+366.037	of computers that can see
+366.037	better than people.
+369.442	Since that time, a lot has happened.
+371.491	In 2012, Google announced that
+371.491	they had a deep learning algorithm
+375.005	watch YouTube videos
+376.42	and crunched the data
+376.42	on 16,000 computers for a month,
+379.857	and the computer independently learned
+379.857	about concepts such as people and cats
+384.218	just by watching the videos.
+386.027	This is much like the way
+386.027	that humans learn.
+388.379	Humans don't learn
+388.379	by being told what they see,
+391.119	but by learning for themselves
+391.119	what these things are.
+394.45	Also in 2012, Geoffrey Hinton,
+394.45	who we saw earlier,
+397.819	won the very popular ImageNet competition,
+400.677	looking to try to figure out 
+400.677	from one and a half million images
+404.818	what they're pictures of.
+406.256	As of 2014, we're now down
+406.256	to a six percent error rate
+409.789	in image recognition.
+411.242	This is better than people, again.
+413.268	So machines really are doing
+413.268	an extraordinarily good job of this,
+417.037	and it is now being used in industry.
+419.306	For example, Google announced last year
+422.348	that they had mapped every single
+422.348	location in France in two hours,
+426.933	and the way they did it was
+426.933	that they fed street view images
+430.38	into a deep learning algorithm
+430.38	to recognize and read street numbers.
+434.699	Imagine how long
+434.699	it would have taken before:
+436.919	dozens of people, many years.
+440.274	This is also happening in China.
+442.185	Baidu is kind of 
+442.185	the Chinese Google, I guess,
+446.221	and what you see here in the top left
+448.504	is an example of a picture that I uploaded
+448.504	to Baidu's deep learning system,
+452.478	and underneath you can see that the system
+452.478	has understood what that picture is
+456.247	and found similar images.
+458.483	The similar images actually
+458.483	have similar backgrounds,
+461.219	similar directions of the faces,
+462.877	even some with their tongue out.
+464.665	This is not clearly looking
+464.665	at the text of a web page.
+467.695	All I uploaded was an image.
+469.107	So we now have computers which
+469.107	really understand what they see
+473.128	and can therefore search databases
+474.752	of hundreds of millions
+474.752	of images in real time.
+478.306	So what does it mean
+478.306	now that computers can see?
+481.536	Well, it's not just 
+481.536	that computers can see.
+483.553	In fact, deep learning
+483.553	has done more than that.
+485.622	Complex, nuanced sentences like this one
+488.57	are now understandable
+488.57	with deep learning algorithms.
+491.394	As you can see here,
+492.697	this Stanford-based system
+492.697	showing the red dot at the top
+495.465	has figured out that this sentence
+495.465	is expressing negative sentiment.
+499.384	Deep learning now in fact
+499.384	is near human performance
+502.802	at understanding what sentences are about
+502.802	and what it is saying about those things.
+507.923	Also, deep learning has
+507.923	been used to read Chinese,
+510.651	again at about native
+510.651	Chinese speaker level.
+513.807	This algorithm developed
+513.807	out of Switzerland
+515.975	by people, none of whom speak
+515.975	or understand any Chinese.
+519.331	As I say, using deep learning
+521.382	is about the best system
+521.382	in the world for this,
+523.601	even compared to native
+523.601	human understanding.
+528.718	This is a system that we
+528.718	put together at my company
+531.682	which shows putting
+531.682	all this stuff together.
+533.728	These are pictures which
+533.728	have no text attached,
+536.189	and as I'm typing in here sentences,
+538.541	in real time it's understanding
+538.541	these pictures
+541.51	and figuring out what they're about
+543.189	and finding pictures that are similar
+543.189	to the text that I'm writing.
+546.352	So you can see, it's actually
+546.352	understanding my sentences
+549.108	and actually understanding these pictures.
+551.332	I know that you've seen
+551.332	something like this on Google,
+553.891	where you can type in things
+553.891	and it will show you pictures,
+556.666	but actually what it's doing is it's
+556.666	searching the webpage for the text.
+560.09	This is very different from actually
+560.09	understanding the images.
+563.091	This is something that computers
+563.091	have only been able to do
+565.843	for the first time in the last few months.
+569.091	So we can see now that computers
+569.091	can not only see but they can also read,
+573.182	and, of course, we've shown that they
+573.182	can understand what they hear.
+576.947	Perhaps not surprising now that
+576.947	I'm going to tell you they can write.
+580.389	Here is some text that I generated
+580.389	using a deep learning algorithm yesterday.
+585.172	And here is some text that an algorithm
+585.172	out of Stanford generated.
+589.096	Each of these sentences was generated
+590.86	by a deep learning algorithm
+590.86	to describe each of those pictures.
+595.109	This algorithm before has never seen
+595.109	a man in a black shirt playing a guitar.
+599.581	It's seen a man before,
+599.581	it's seen black before,
+601.801	it's seen a guitar before,
+603.4	but it has independently generated
+603.4	this novel description of this picture.
+607.694	We're still not quite at human
+607.694	performance here, but we're close.
+611.196	In tests, humans prefer
+611.196	the computer-generated caption
+615.264	one out of four times.
+616.791	Now this system is now only two weeks old,
+618.855	so probably within the next year,
+620.701	the computer algorithm will be
+620.701	well past human performance
+623.502	at the rate things are going.
+625.364	So computers can also write.
+628.413	So we put all this together and it leads
+628.413	to very exciting opportunities.
+631.888	For example, in medicine,
+633.38	a team in Boston announced
+633.38	that they had discovered
+635.905	dozens of new clinically relevant features
+638.854	of tumors which help doctors
+638.854	make a prognosis of a cancer.
+644.22	Very similarly, in Stanford,
+646.516	a group there announced that,
+646.516	looking at tissues under magnification,
+650.179	they've developed 
+650.179	a machine learning-based system
+652.56	which in fact is better
+652.56	than human pathologists
+655.142	at predicting survival rates
+655.142	for cancer sufferers.
+659.519	In both of these cases, not only
+659.519	were the predictions more accurate,
+662.764	but they generated new insightful science.
+665.276	In the radiology case,
+666.781	they were new clinical indicators
+666.781	that humans can understand.
+669.876	In this pathology case,
+671.668	the computer system actually discovered
+671.668	that the cells around the cancer
+676.168	are as important as
+676.168	the cancer cells themselves
+679.508	in making a diagnosis.
+681.26	This is the opposite of what pathologists
+681.26	had been taught for decades.
+686.621	In each of those two cases,
+686.621	they were systems developed
+689.913	by a combination of medical experts
+689.913	and machine learning experts,
+693.534	but as of last year,
+693.534	we're now beyond that too.
+696.275	This is an example of
+696.275	identifying cancerous areas
+699.824	of human tissue under a microscope.
+702.354	The system being shown here
+702.354	can identify those areas more accurately,
+706.967	or about as accurately,
+706.967	as human pathologists,
+709.742	but was built entirely with deep learning
+709.742	using no medical expertise
+713.134	by people who have
+713.134	no background in the field.
+716.73	Similarly, here, this neuron segmentation.
+719.285	We can now segment neurons
+719.285	about as accurately as humans can,
+722.953	but this system was developed
+722.953	with deep learning
+725.67	using people with no previous 
+725.67	background in medicine.
+728.921	So myself, as somebody with
+728.921	no previous background in medicine,
+732.148	I seem to be entirely well qualified
+732.148	to start a new medical company,
+735.875	which I did.
+738.021	I was kind of terrified of doing it,
+739.761	but the theory seemed to suggest
+739.761	that it ought to be possible
+742.65	to do very useful medicine
+742.65	using just these data analytic techniques.
+748.142	And thankfully, the feedback
+748.142	has been fantastic,
+750.622	not just from the media
+750.622	but from the medical community,
+752.978	who have been very supportive.
+755.322	The theory is that we can take
+755.322	the middle part of the medical process
+759.471	and turn that into data analysis
+759.471	as much as possible,
+762.364	leaving doctors to do
+762.364	what they're best at.
+765.429	I want to give you an example.
+767.031	It now takes us about 15 minutes
+767.031	to generate a new medical diagnostic test
+771.975	and I'll show you that in real time now,
+773.929	but I've compressed it down to 
+773.929	three minutes by cutting some pieces out.
+777.416	Rather than showing you
+777.416	creating a medical diagnostic test,
+780.477	I'm going to show you 
+780.477	a diagnostic test of car images,
+783.846	because that's something
+783.846	we can all understand.
+786.068	So here we're starting with 
+786.068	about 1.5 million car images,
+789.269	and I want to create something
+789.269	that can split them into the angle
+792.475	of the photo that's being taken.
+794.698	So these images are entirely unlabeled,
+794.698	so I have to start from scratch.
+798.586	With our deep learning algorithm,
+800.451	it can automatically identify
+800.451	areas of structure in these images.
+804.158	So the nice thing is that the human
+804.158	and the computer can now work together.
+807.778	So the human, as you can see here,
+809.956	is telling the computer
+809.956	about areas of interest
+812.631	which it wants the computer then
+812.631	to try and use to improve its algorithm.
+817.281	Now, these deep learning systems actually
+817.281	are in 16,000-dimensional space,
+821.577	so you can see here the computer
+821.577	rotating this through that space,
+825.009	trying to find new areas of structure.
+827.001	And when it does so successfully,
+828.782	the human who is driving it can then
+828.782	point out the areas that are interesting.
+832.786	So here, the computer has
+832.786	successfully found areas,
+835.208	for example, angles.
+837.77	So as we go through this process,
+839.376	we're gradually telling
+839.376	the computer more and more
+841.716	about the kinds of structures
+841.716	we're looking for.
+844.144	You can imagine in a diagnostic test
+845.916	this would be a pathologist identifying
+845.916	areas of pathosis, for example,
+849.266	or a radiologist indicating
+849.266	potentially troublesome nodules.
+854.292	And sometimes it can be
+854.292	difficult for the algorithm.
+856.851	In this case, it got kind of confused.
+858.815	The fronts and the backs
+858.815	of the cars are all mixed up.
+861.365	So here we have to be a bit more careful,
+863.437	manually selecting these fronts
+863.437	as opposed to the backs,
+866.669	then telling the computer
+866.669	that this is a type of group
+872.175	that we're interested in.
+873.523	So we do that for a while,
+873.523	we skip over a little bit,
+876.2	and then we train the
+876.2	machine learning algorithm
+878.446	based on these couple of hundred things,
+880.42	and we hope that it's gotten a lot better.
+882.445	You can see, it's now started to fade
+882.445	some of these pictures out,
+885.518	showing us that it already is recognizing
+885.518	how to understand some of these itself.
+890.226	We can then use this concept
+890.226	of similar images,
+893.128	and using similar images, you can now see,
+895.222	the computer at this point is able to
+895.222	entirely find just the fronts of cars.
+899.241	So at this point, the human
+899.241	can tell the computer,
+902.189	okay, yes, you've done
+902.189	a good job of that.
+905.652	Sometimes, of course, even at this point
+907.837	it's still difficult
+907.837	to separate out groups.
+911.511	In this case, even after we let the
+911.511	computer try to rotate this for a while,
+915.399	we still find that the left sides
+915.399	and the right sides pictures
+918.744	are all mixed up together.
+920.222	So we can again give
+920.222	the computer some hints,
+922.362	and we say, okay, try and find
+922.362	a projection that separates out
+925.338	the left sides and the right sides
+925.338	as much as possible
+927.945	using this deep learning algorithm.
+930.067	And giving it that hint --
+930.067	ah, okay, it's been successful.
+933.009	It's managed to find a way
+933.009	of thinking about these objects
+935.891	that's separated out these together.
+938.271	So you get the idea here.
+940.709	This is a case not where the human
+940.709	is being replaced by a computer,
+948.906	but where they're working together.
+951.546	What we're doing here is we're replacing
+951.546	something that used to take a team
+955.096	of five or six people about seven years
+957.098	and replacing it with something
+957.098	that takes 15 minutes
+959.703	for one person acting alone.
+962.208	So this process takes about
+962.208	four or five iterations.
+966.158	You can see we now have 62 percent
+968.017	of our 1.5 million images 
+968.017	classified correctly.
+970.976	And at this point, we
+970.976	can start to quite quickly
+973.448	grab whole big sections,
+974.745	check through them to make sure
+974.745	that there's no mistakes.
+977.664	Where there are mistakes, we can
+977.664	let the computer know about them.
+981.616	And using this kind of process
+981.616	for each of the different groups,
+984.661	we are now up to
+984.661	an 80 percent success rate
+987.148	in classifying the 1.5 million images.
+989.563	And at this point, it's just a case
+991.641	of finding the small number
+991.641	that aren't classified correctly,
+995.22	and trying to understand why.
+998.108	And using that approach,
+999.851	by 15 minutes we get
+999.851	to 97 percent classification rates.
+1003.972	So this kind of technique
+1003.972	could allow us to fix a major problem,
+1008.578	which is that there's a lack
+1008.578	of medical expertise in the world.
+1011.614	The World Economic Forum says
+1011.614	that there's between a 10x and a 20x
+1015.103	shortage of physicians
+1015.103	in the developing world,
+1017.727	and it would take about 300 years
+1019.84	to train enough people
+1019.84	to fix that problem.
+1022.734	So imagine if we can help
+1022.734	enhance their efficiency
+1025.619	using these deep learning approaches?
+1028.458	So I'm very excited
+1028.458	about the opportunities.
+1030.69	I'm also concerned about the problems.
+1033.279	The problem here is that
+1033.279	every area in blue on this map
+1036.403	is somewhere where services
+1036.403	are over 80 percent of employment.
+1040.172	What are services?
+1041.959	These are services.
+1043.473	These are also the exact things that
+1043.473	computers have just learned how to do.
+1047.627	So 80 percent of the world's employment
+1047.627	in the developed world
+1051.431	is stuff that computers 
+1051.431	have just learned how to do.
+1053.963	What does that mean?
+1055.403	Well, it'll be fine.
+1055.403	They'll be replaced by other jobs.
+1057.986	For example, there will be
+1057.986	more jobs for data scientists.
+1060.693	Well, not really.
+1061.51	It doesn't take data scientists 
+1061.51	very long to build these things.
+1064.628	For example, these four algorithms
+1064.628	were all built by the same guy.
+1067.88	So if you think, oh, 
+1067.88	it's all happened before,
+1070.318	we've seen the results in the past
+1070.318	of when new things come along
+1074.126	and they get replaced by new jobs,
+1076.378	what are these new jobs going to be?
+1078.494	It's very hard for us to estimate this,
+1080.365	because human performance
+1080.365	grows at this gradual rate,
+1083.104	but we now have a system, deep learning,
+1085.666	that we know actually grows
+1085.666	in capability exponentially.
+1088.893	And we're here.
+1090.498	So currently, we see the things around us
+1092.559	"and we say, ""Oh, computers"
+1092.559	"are still pretty dumb."" Right?"
+1095.235	But in five years' time,
+1095.235	computers will be off this chart.
+1098.664	So we need to be starting to think
+1098.664	about this capability right now.
+1102.529	We have seen this once before, of course.
+1104.579	In the Industrial Revolution,
+1105.966	we saw a step change
+1105.966	in capability thanks to engines.
+1109.667	The thing is, though,
+1109.667	that after a while, things flattened out.
+1112.805	There was social disruption,
+1114.507	but once engines were used 
+1114.507	to generate power in all the situations,
+1117.946	things really settled down.
+1120.3	The Machine Learning Revolution
+1121.773	is going to be very different
+1121.773	from the Industrial Revolution,
+1124.682	because the Machine Learning Revolution,
+1124.682	it never settles down.
+1127.632	The better computers get
+1127.632	at intellectual activities,
+1130.614	the more they can build better computers
+1130.614	to be better at intellectual capabilities,
+1134.862	so this is going to be a kind of change
+1136.77	that the world has actually
+1136.77	never experienced before,
+1139.248	so your previous understanding
+1139.248	of what's possible is different.
+1142.974	This is already impacting us.
+1144.754	In the last 25 years,
+1144.754	as capital productivity has increased,
+1148.4	labor productivity has been flat,
+1148.4	in fact even a little bit down.
+1153.408	So I want us to start
+1153.408	having this discussion now.
+1156.149	I know that when I often tell people
+1156.149	about this situation,
+1159.176	people can be quite dismissive.
+1160.666	Well, computers can't really think,
+1162.339	they don't emote,
+1162.339	they don't understand poetry,
+1165.367	we don't really understand how they work.
+1167.888	So what?
+1169.374	Computers right now can do the things
+1171.178	that humans spend most
+1171.178	of their time being paid to do,
+1173.897	so now's the time to start thinking
+1175.628	about how we're going to adjust our
+1175.628	social structures and economic structures
+1180.015	to be aware of this new reality.
+1181.855	Thank you.
+1183.388	(Applause)

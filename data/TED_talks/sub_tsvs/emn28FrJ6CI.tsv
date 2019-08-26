@@ -1,0 +1,163 @@
+startsecond	text
+12.16	We look around the media, as we see on the news from Iraq,
+15.16	Afghanistan, Sierra Leone,
+18.16	and the conflict seems incomprehensible to us.
+22.16	And that's certainly how it seemed to me when I started this project.
+26.16	But as a physicist,
+28.16	I thought, well if you give me some data,
+31.16	I could maybe understand this. You know, give us a go.
+33.16	So as a naive New Zealander
+35.16	I thought, well I'll go to the Pentagon.
+37.16	Can you get me some information?
+39.16	(Laughter)
+42.16	No. So I had to think a little harder.
+46.16	And I was watching the news one night in Oxford.
+49.16	And I looked down at the chattering heads on my channel of choice.
+52.16	And I saw that there was information there.
+54.16	There was data within the streams of news that we consume.
+57.16	All this noise around us actually has information.
+61.16	So what I started thinking was,
+63.16	perhaps there is something like open source intelligence here.
+66.16	If we can get enough of these streams of information together,
+69.16	we can perhaps start to understand the war.
+72.16	So this is exactly what I did. We started bringing a team together,
+75.16	an interdisciplinary team of scientists,
+77.16	of economists, mathematicians.
+80.16	We brought these guys together and we started to try and solve this.
+83.16	We did it in three steps.
+85.16	The first step we did was to collect. We did 130 different sources of information --
+89.16	from NGO reports to newspapers and cable news.
+92.16	We brought this raw data in and we filtered it.
+95.16	We extracted the key bits on information to build the database.
+98.16	That database contained
+100.16	the timing of attacks,
+102.16	the location, the size and the weapons used.
+104.16	It's all in the streams of information we consume daily,
+107.16	we just have to know how to pull it out.
+109.16	And once we had this we could start doing some cool stuff.
+111.16	What if we were to look at the distribution of the sizes of attacks?
+114.16	What would that tell us?
+116.16	So we started doing this. And you can see here
+118.16	on the horizontal axis
+120.16	you've got the number of people killed in an attack
+122.16	or the size of the attack.
+124.16	And on the vertical axis you've got the number of attacks.
+127.16	So we plot data for sample on this.
+129.16	You see some sort of random distribution --
+131.16	perhaps 67 attacks, one person was killed,
+134.16	or 47 attacks where seven people were killed.
+137.16	We did this exact same thing for Iraq.
+139.16	And we didn't know, for Iraq what we were going to find.
+142.16	It turns out what we found was pretty surprising.
+146.16	You take all of the conflict,
+148.16	all of the chaos, all of the noise,
+150.16	and out of that
+152.16	comes this precise mathematical distribution
+154.16	of the way attacks are ordered in this conflict.
+157.16	This blew our mind.
+159.16	Why should a conflict like Iraq have this
+163.16	as its fundamental signature?
+165.16	Why should there be order in war?
+167.16	We didn't really understand that.
+169.16	We thought maybe there is something special about Iraq.
+173.16	So we looked at a few more conflicts.
+175.16	We looked at Colombia, we looked at Afghanistan,
+177.16	and we looked at Senegal.
+179.16	And the same pattern emerged in each conflict.
+181.16	This wasn't supposed to happen.
+183.16	These are different wars, with different religious factions,
+186.16	different political factions, and different socioeconomic problems.
+189.16	And yet the fundamental patterns underlying them
+193.16	are the same.
+196.16	So we went a little wider.
+198.16	We looked around the world at all the data we could get our hands on.
+201.16	From Peru to Indonesia,
+204.16	we studied this same pattern again.
+206.16	And we found that not only
+209.16	were the distributions these straight lines,
+211.16	but the slope of these lines, they clustered around
+213.16	this value of alpha equals 2.5.
+216.16	And we could generate an equation
+218.16	that could predict the likelihood of an attack.
+221.16	What we're saying here
+223.16	is the probability of an attack killing X number of people
+227.16	in a country like Iraq
+229.16	is equal to a constant, times the size of that attack,
+232.16	raised to the power of negative alpha.
+235.16	And negative alpha is the slope of that line I showed you before.
+241.16	So what?
+243.16	This is data, statistics. What does it tell us about these conflicts?
+246.16	That was a challenge we had to face as physicists.
+249.16	How do we explain this?
+252.16	And what we really found was that alpha,
+254.16	if we think about it, is the organizational
+256.16	structure of the insurgency.
+259.16	Alpha is the distribution of the sizes of attacks,
+262.16	which is really the distribution
+264.16	of the group strength carrying out the attacks.
+266.16	So we look at a process of group dynamics:
+268.16	coalescence and fragmentation,
+271.16	groups coming together, groups breaking apart.
+273.16	And we start running the numbers on this. Can we simulate it?
+276.16	Can we create the kind of patterns that we're seeing
+279.16	in places like Iraq?
+282.16	Turns out we kind of do a reasonable job.
+284.16	We can run these simulations.
+286.16	We can recreate this using a process of group dynamics
+289.16	to explain the patterns that we see
+291.16	all around the conflicts around the world.
+296.16	So what's going on?
+298.16	Why should these different -- seemingly different conflicts
+301.16	have the same patterns?
+303.16	Now what I believe is going on is that
+306.16	the insurgent forces, they evolve over time. They adapt.
+310.16	And it turns out there is only one solution
+312.16	to fight a much stronger enemy.
+314.16	And if you don't find that solution as an insurgent force,
+317.16	you don't exist.
+319.16	So every insurgent force that is ongoing,
+321.16	every conflict that is ongoing,
+323.16	it's going to look something like this.
+325.16	And that is what we think is happening.
+328.16	Taking it forward, how do we change it?
+330.16	How do we end a war like Iraq?
+332.16	What does it look like?
+334.16	Alpha is the structure. It's got a stable state at 2.5.
+337.16	This is what wars look like when they continue.
+341.16	We've got to change that.
+343.16	We can push it up:
+345.16	the forces become more fragmented;
+347.16	there is more of them, but they are weaker.
+351.16	Or we push it down:
+353.16	they're more robust; there is less groups;
+355.16	but perhaps you can sit and talk to them.
+359.16	So this graph here, I'm going to show you now.
+361.16	No one has seen this before. This is literally
+364.16	stuff that we've come through last week.
+366.16	And we see the evolution of Alpha through time.
+370.16	We see it start. And we see it grow up to the stable state
+373.16	the wars around the world look like.
+375.16	And it stays there through the invasion of Fallujah
+378.16	until the Samarra bombings in the
+380.16	Iraqi elections of '06.
+383.16	And the system gets perturbed. It moves upwards
+385.16	to a fragmented state.
+387.16	This is when the surge happens.
+389.16	And depending on who you ask,
+391.16	the surge was supposed to push it up even further.
+394.16	The opposite happened.
+396.16	The groups became stronger.
+398.16	They became more robust.
+400.16	And so I'm thinking, right, great, it's going to keep going down.
+403.16	We can talk to them. We can get a solution. The opposite happened.
+406.16	It's moved up again. The groups are more fragmented.
+409.16	And this tells me one of two things.
+411.16	Either we're back where we started
+414.16	and the surge has had no effect;
+416.16	or finally the groups have been fragmented to the extent
+420.16	that we can start to think about maybe moving out.
+424.16	I don't know what the answer is to that.
+426.16	But I know that we should be looking at the structure of the insurgency
+429.16	to answer that question.
+431.16	Thank you.
+433.16	(Applause)

@@ -1,0 +1,319 @@
+startsecond	text
+12.949	(Rainforest noises)
+21.68	In the summer of 2011,
+21.68	as a tourist,
+25.167	I visited the rainforests of Borneo
+25.167	for the very first time,
+29.593	and as you might imagine,
+31.641	it was the overwhelming sounds
+31.641	of the forest that struck me the most.
+36.911	There's this constant cacophony of noise.
+39.721	Some things actually do stick out.
+42.136	For example, this here is a big bird,
+42.136	a rhinoceros hornbill.
+46.562	This buzzing is a cicada.
+51.434	This is a family of gibbons.
+54.047	It's actually singing to each other
+54.047	over a great distance.
+59.341	The place where this was recorded
+59.341	was in fact a gibbon reserve,
+62.334	which is why you can hear so many of them,
+64.372	but in fact the most important noise that 
+64.372	was coming out of the forest that time
+69.302	was one that I didn't notice,
+70.834	and in fact nobody there
+70.834	had actually noticed it.
+74.373	So, as I said, this was a gibbon reserve.
+76.361	They spend most of their time
+76.361	rehabilitating gibbons,
+79.17	but they also have
+79.17	to spend a lot of their time
+81.731	protecting their area from illegal logging
+81.731	that takes place on the side.
+85.423	And so if we take the sound of the forest
+87.466	and we actually turn down the gibbons,
+87.466	the insects, and the rest,
+91.023	in the background, the entire time,
+91.023	in recordings you heard,
+94.689	was the sound of a chainsaw
+94.689	at great distance.
+98.403	They had three full-time guards
+98.403	who were posted around this sanctuary
+102.397	whose job was in fact
+102.397	to guard against illegal logging,
+106.599	and one day, we went walking,
+106.599	again as tourists, out into the forest,
+110.058	and within five minutes' walk,
+112.311	we stumbled upon somebody
+112.311	who was just sawing a tree down,
+115.69	five minutes' walk, a few hundred meters
+115.69	from the ranger station.
+118.951	They hadn't been able
+118.951	to hear the chainsaws,
+121.009	because as you heard,
+121.009	the forest is very, very loud.
+124.826	It struck me as quite unacceptable
+124.826	that in this modern time,
+128.745	just a few hundred meters away 
+128.745	from a ranger station in a sanctuary,
+133.217	that in fact nobody could hear it when
+133.217	someone who has a chainsaw gets fired up.
+137.022	It sounds impossible,
+137.022	but in fact, it was quite true.
+141.689	So how do we stop illegal logging?
+143.523	It's really tempting, as an engineer,
+143.523	always to come up with a high-tech,
+146.952	super-crazy high-tech solution,
+148.713	but in fact, you're in the rainforest.
+150.663	It has to be simple,
+150.663	it has to be scalable,
+153.04	and so what we also noticed
+153.04	while were there was that
+156.048	everything we needed was already there.
+158.374	We could build a system
+158.374	that would allow us to stop this
+161.125	using what's already there.
+163.407	Who was there? What was 
+163.407	already in the forest?
+165.639	Well, we had people.
+166.787	We had this group there that was 
+166.787	dedicated, three full-time guards,
+170.072	that was dedicated to go and stop it,
+171.846	but they just needed to know
+171.846	what was happening out in the forest.
+174.96	The real surprise, this is the big one,
+176.853	was that there was connectivity
+176.853	out in the forest.
+179.236	There was cell phone service
+179.236	way out in the middle of nowhere.
+182.15	We're talking hundreds of kilometers
+182.15	from the nearest road,
+185.081	there's certainly no electricity,
+185.081	but they had very good cell phone service,
+188.653	these people in the towns
+188.653	were on Facebook all the time,
+191.276	they're surfing the web on their phones,
+193.226	and this sort of got me thinking
+193.226	that in fact it would be possible
+196.335	to use the sounds of the forest,
+198.494	pick up the sounds 
+198.494	of chainsaws programmatically,
+200.886	because people can't hear them,
+202.534	and send an alert.
+204.221	But you have to have a device
+204.221	to go up in the trees.
+206.803	So if we can use some device
+206.803	to listen to the sounds of the forest,
+210.454	connect to the cell phone
+210.454	network that's there,
+212.687	and send an alert to people on the ground,
+214.721	perhaps we could have a solution
+214.721	to this issue for them.
+218.271	But let's take a moment
+218.271	to talk about saving the rainforest,
+221.551	because it's something that we've
+221.551	definitely all heard about forever.
+225.393	People in my generation
+225.393	have heard about saving the rainforest
+228.312	since we were kids,
+230.212	and it seems that the message
+230.212	has never changed:
+232.46	We've got to save the rainforest,
+232.46	it's super urgent,
+234.982	this many football fields
+234.982	have been destroyed yesterday.
+237.688	and yet here we are today,
+237.688	about half of the rainforest remains,
+240.992	and we have potentially more urgent 
+240.992	problems like climate change.
+245.319	But in fact, this is the little-known fact
+245.319	that I didn't realize at the time:
+249.228	Deforestation accounts 
+249.228	for more greenhouse gas
+252.189	than all of the world's planes,
+252.189	trains, cars, trucks and ships combined.
+256.229	It's the second highest contributor
+256.229	to climate change.
+258.945	Also, according to Interpol,
+261.778	as much as 90 percent of the logging
+261.778	that takes place in the rainforest
+265.307	is illegal logging,
+265.307	like the illegal logging that we saw.
+269.088	So if we can help people in the forest
+269.088	enforce the rules that are there,
+273.132	then in fact we could eat heavily
+273.132	into this 17 percent
+277.056	and potentially have a major impact
+277.056	in the short term.
+279.667	It might just be the cheapest,
+279.667	fastest way to fight climate change.
+284.832	And so here's the system that we imagine.
+286.83	It looks super high tech.
+288.024	The moment a sound of a chainsaw
+288.024	is heard in the forest,
+290.657	the device picks up the sound
+290.657	of the chainsaw,
+292.829	it sends an alert through the standard
+292.829	GSM network that's already there
+296.436	to a ranger in the field
+298.523	who can in fact show up in real time
+298.523	and stop the logging.
+301.34	It's no more about going out
+301.34	and finding a tree that's been cut.
+305.249	It's not about seeing 
+305.249	a tree from a satellite
+307.425	in an area that's been clear cut,
+309.061	it's about real-time intervention.
+311.669	So I said it was the cheapest
+311.669	and fastest way to do it,
+314.39	but in fact, actually, as you saw,
+314.39	they weren't able to do it,
+317.315	so it may not be so cheap and fast.
+319.199	But if the devices in the trees
+319.199	were actually cell phones,
+322.635	it could be pretty cheap.
+324.191	Cell phones are thrown away
+324.191	by the hundreds of millions every year,
+328.478	hundreds of millions in the U.S. alone,
+330.599	not counting the rest of the world,
+330.599	which of course we should do,
+333.78	but in fact, cell phones are great.
+336.311	They're full of sensors.
+337.644	They can listen
+337.644	to the sounds of the forest.
+339.796	We do have to protect them.
+341.178	We have to put them in this box
+341.178	that you see here,
+343.585	and we do have to power them.
+345.152	Powering them is one of the greater
+345.152	engineering challenges
+347.915	that we had to deal with,
+349.215	because powering a cell phone
+349.215	under a tree canopy,
+351.967	any sort of solar power
+351.967	under a tree canopy,
+354.219	was an as-yet-unsolved problem,
+356.029	and that's this unique
+356.029	solar panel design that you see here,
+358.886	which in fact is built also from recycled
+358.886	byproducts of an industrial process.
+363.205	These are strips that are cut down.
+365.829	So this is me putting it all together
+369.335	in my parents' garage, actually.
+371.216	Thanks very much to them
+371.216	for allowing me to do that.
+373.793	As you can see,
+373.793	this is a device up in a tree.
+378.149	What you can see from here, perhaps,
+378.149	is that they are pretty well obscured
+381.734	up in the tree canopy at a distance.
+383.536	That's important, because although
+383.536	they are able to hear chainsaw noises
+387.013	up to a kilometer in the distance,
+388.783	allowing them to cover
+388.783	about three square kilometers,
+391.303	if someone were to take them,
+391.303	it would make the area unprotected.
+395.281	So does it actually work?
+398.034	Well, to test it,
+398.034	we took it back to Indonesia,
+401.006	not the same place, but another place,
+403.119	to another gibbon reserve
+404.79	that was threatened daily
+404.79	by illegal logging.
+408.505	On the very second day, it picked up
+408.505	illegal chainsaw noises.
+412.424	We were able to get a real-time alert.
+414.623	I got an email on my phone.
+415.97	Actually, we had just climbed the tree.
+415.97	Everyone had just gotten back down.
+419.686	All these guys are smoking cigarettes,
+421.926	and then I get an email,
+421.926	and they all quiet down,
+424.783	and in fact you can hear the chainsaw
+426.887	really, really faint in the background,
+428.816	but no one had noticed it 
+428.816	until that moment.
+431.121	And so then we took off
+431.121	to actually stop these loggers.
+434.395	I was pretty nervous.
+435.904	This is the moment where we've actually
+435.904	arrived close to where the loggers are.
+440.13	This is the moment where you can see
+440.13	where I'm actually regretting
+443.244	perhaps the entire endeavor.
+445.245	I'm not really sure what's on
+445.245	the other side of this hill.
+447.988	That guy's much braver than I am.
+449.951	But he went, so I had to go, walking up,
+454.131	and in fact, he made it over the hill,
+456.29	and interrupted the loggers in the act.
+459.527	For them, it was such a surprise --
+461.189	they had never, ever
+461.189	been interrupted before --
+463.569	that it was such an impressive
+463.569	event for them,
+465.734	that we've heard from our partners
+465.734	they have not been back since.
+468.85	They were, in fact, great guys.
+470.342	They showed us how
+470.342	the entire operation works,
+472.522	and what they really convinced us
+472.522	on the spot was that
+475.096	if you can show up
+475.096	in real time and stop people,
+477.341	it's enough of a deterrent
+477.341	they won't come back.
+481.529	So --
+483.085	Thank you. (Applause)
+489.586	Word of this spread, possibly
+489.586	because we told a lot of people,
+493.44	and in fact, then some really
+493.44	amazing stuff started to happen.
+496.877	People from around the world
+496.877	started to send us emails, phone calls.
+500.546	What we saw was that people
+500.546	throughout Asia,
+502.635	people throughout Africa,
+502.635	people throughout South America,
+505.377	they told us that they could use it too,
+507.288	and what's most important,
+508.568	what we'd found that
+508.568	we thought might be exceptional,
+511.066	in the forest there was
+511.066	pretty good cell phone service.
+513.648	That was not exceptional, we were told,
+515.525	and that particularly is on the periphery
+515.525	of the forests that are most under threat.
+519.468	And then something 
+519.468	really amazing happened,
+521.768	which was that people started sending us
+521.768	their own old cell phones.
+525.251	So in fact what we have now is a system
+527.201	where we can use people on the ground,
+527.201	people who are already there,
+530.544	who can both improve
+530.544	and use the existing connectivity,
+533.609	and we're using old cell phones
+533.609	that are being sent to us
+536.286	by people from around the world
+537.779	that want their phones to be doing 
+537.779	something else in their afterlife,
+541.072	so to speak.
+541.826	And if the rest of the device
+541.826	can be completely recycled,
+544.755	then we believe it's
+544.755	an entirely upcycled device.
+547.471	So again, this didn't come
+547.471	because of any sort of high-tech solution.
+551.125	It just came from using
+551.125	what's already there,
+553.438	and I'm thoroughly convinced
+553.438	that if it's not phones,
+556.294	that there's always
+556.294	going to be enough there
+558.663	that you can build similar solutions
+560.474	that can be very effective
+560.474	in new contexts.
+562.54	Thank you very much.
+564.676	(Applause)

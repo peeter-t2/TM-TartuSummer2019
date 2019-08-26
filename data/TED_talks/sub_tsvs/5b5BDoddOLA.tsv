@@ -1,0 +1,456 @@
+startsecond	text
+12.657	(Video) Nicholas Negroponte: 
+12.657	Can we switch to the video disc,
+15.111	which is in play mode?
+17.234	I'm really interested in how you put people and computers together.
+22.464	We will be using the TV screens or their equivalents
+25.834	for electronic books of the future.
+30.208	(Music, crosstalk)
+50.117	Very interested in touch-sensitive displays,
+52.369	high-tech, high-touch, not having
+52.369	to pick up your fingers to use them.
+56.696	There is another way where computers
+58.496	touch people: wearing, physically wearing.
+68.646	Suddenly on September 11th,
+70.667	the world got bigger.
+73.304	NN: Thank you. (Applause)
+76.289	Thank you.
+78.348	When I was asked to do this,
+80.456	I was also asked to look at all 14 TED Talks
+84.652	that I had given,
+86.362	chronologically.
+88.16	The first one was actually two hours.
+90.434	The second one was an hour,
+91.89	and then they became half hours,
+93.439	and all I noticed was my bald spot getting bigger.
+97.375	(Laughter)
+98.995	Imagine seeing your life, 30 years of it, go by,
+103.163	and it was, to say the least,
+106.57	for me, quite a shocking experience.
+110.943	So what I'm going to do in my time
+112.536	is try and share with you what happened
+114.08	during the 30 years,
+115.882	and then also make a prediction,
+118.4	and then tell you a little bit
+120.461	about what I'm doing next.
+123.115	And I put on a slide
+126.066	where TED 1 happened in my life.
+130.126	And it's rather important
+132.04	because I had done 15 years of research before it,
+136.1	so I had a backlog, so it was easy.
+138.528	It's not that I was Fidel Castro
+140.288	and I could talk for two hours,
+142.121	or Bucky Fuller.
+143.443	I had 15 years of stuff,
+145.358	and the Media Lab was about to start.
+147.83	So that was easy.
+149.63	But there are a couple of things
+152.294	about that period
+153.982	and about what happened that are
+156.035	really quite important.
+157.89	One is that
+160.446	it was a period when computers
+163.342	weren't yet for people.
+165.979	And the other thing that sort of happened
+169.124	during that time is that
+172.195	we were considered sissy computer scientists.
+175.577	We weren't considered the real thing.
+177.14	So what I'm going to show you is, in retrospect,
+181.139	a lot more interesting and a lot more accepted
+183.647	than it was at the time.
+185.713	So I'm going to characterize the years
+188.267	and I'm even going to go back
+190.1	to some very early work of mine,
+192.204	and this was the kind of stuff I was doing in the '60s:
+195.09	very direct manipulation,
+197.277	very influenced as I studied architecture
+199.932	by the architect Moshe Safdie,
+202.019	and you can see that we even built robotic things
+204.781	that could build habitat-like structures.
+207.537	And this for me was
+209.224	not yet the Media Lab,
+211.14	but was the beginning of what I'll call
+213.957	sensory computing,
+215.476	and I pick fingers
+217.348	partly because everybody thought it was ridiculous.
+221.55	Papers were published
+223.705	about how stupid it was to use fingers.
+227.957	Three reasons: One was they were low-resolution.
+230.775	The other is your hand would occlude
+232.704	what you wanted to see,
+234.145	and the third, which was the winner,
+235.903	was that your fingers would get the screen dirty,
+239.559	and hence, fingers would never be
+241.885	a device that you'd use.
+243.673	And this was a device we built in the '70s,
+246.722	which has never even been picked up.
+248.593	It's not just touch sensitive,
+250.034	it's pressure sensitive.
+252.212	(Video) Voice: Put a yellow circle there.
+254.189	NN: Later work, and again this was before TED 1 —
+257.633	(Video) Voice: Move that west of the diamond.
+260.436	Create a large green circle there.
+263.648	Man: Aw, shit.
+265.977	NN: — was to sort of do interface concurrently,
+269.407	so when you talked and you pointed
+271.215	and you had, if you will,
+274.402	multiple channels.
+275.961	Entebbe happened.
+281.515	taken to Entebbe,
+283.013	and the Israelis not only did an extraordinary rescue,
+288.07	they did it partly because they had practiced
+290.033	on a physical model of the airport,
+292.528	because they had built the airport,
+293.684	so they built a model in the desert,
+295.417	and when they arrived at Entebbe,
+297.133	they knew where to go because
+297.133	they had actually been there.
+300.053	The U.S. government asked some of us, '76,
+303.305	if we could replicate that computationally,
+306.08	and of course somebody like myself says yes.
+308.269	Immediately, you get a contract,
+310.295	Department of Defense,
+311.78	and we built this truck and this rig.
+314.468	We did sort of a simulation,
+316.988	because you had video discs,
+318.814	and again, this is '76.
+321.142	And then many years later,
+323.839	you get this truck,
+325.308	and so you have Google Maps.
+328.266	Still people thought,
+329.786	no, that was not serious computer science,
+333.806	and it was a man named Jerry Wiesner,
+335.865	who happened to be the president of MIT,
+338.272	who did think it was computer science.
+340.62	And one of the keys for anybody
+343.257	who wants to start something in life:
+346.641	Make sure your president is part of it.
+349.91	So when I was doing the Media Lab,
+352.93	it was like having a gorilla in the front seat.
+356.087	If you were stopped for speeding
+358.272	and the officer looked in the window
+360.512	and saw who was in the passenger seat,
+362.521	"then, ""Oh, continue on, sir."""
+364.483	And so we were able,
+366.168	and this is a cute, actually, device, parenthetically.
+369.961	This was a lenticular photograph of Jerry Wiesner
+373.01	where the only thing that changed in the photograph
+375.373	were the lips.
+376.716	So when you oscillated that little piece
+379.692	of lenticular sheet with his photograph,
+382.922	it would be in lip sync
+384.935	with zero bandwidth.
+387.174	It was a zero-bandwidth teleconferencing system
+389.885	at the time.
+391.727	So this was the Media Lab's —
+395.708	this is what we said we'd do,
+397.401	that the world of computers, publishing,
+399.976	and so on would come together.
+402.664	Again, not generally accepted,
+404.768	but very much part of TED in the early days.
+409.74	And this is really where we were headed.
+412.946	And that created the Media Lab.
+414.633	One of the things about age
+418.884	is that I can tell you with great confidence,
+423.151	I've been to the future.
+425.615	I've been there, actually, many times.
+428.899	And the reason I say that is,
+430.407	how many times in my life have I said,
+432.848	"""Oh, in 10 years, this will happen,"""
+434.625	and then 10 years comes.
+436.673	"And then you say, ""Oh, in"
+436.673	"five years, this will happen."""
+438.431	And then five years comes.
+440.115	So I say this a little bit with having felt
+443.873	that I'd been there a number of times,
+446.21	and one of the things that is most quoted
+449.85	that I've ever said
+450.999	is that computing is not about computers,
+453.382	and that didn't quite get enough traction,
+456.938	and then it started to.
+458.457	It started to because people caught on
+462.152	that the medium wasn't the message.
+465.29	And the reason I show this car
+467.935	in actually a rather ugly slide
+470.263	is just again to tell you the kind of story
+472.767	that characterized a little bit of my life.
+475.595	This is a student of mine
+477.609	"who had done a Ph.D. called ""Backseat Driver."""
+481.16	It was in the early days of GPS,
+483.242	the car knew where it was,
+484.808	and it would give audio instructions
+486.723	to the driver, when to turn right, 
+486.723	when to turn left and so on.
+490.15	Turns out, there are a lot of things
+491.761	in those instructions that back in that period
+494.796	were pretty challenging,
+496.046	like what does it mean, take the next right?
+499.274	Well, if you're coming up on a street,
+501.174	the next right's probably the one after,
+503.357	and there are lots of issues,
+504.588	and the student did a wonderful thesis,
+506.833	"and the MIT patent office said ""Don't patent it."
+511.68	It'll never be accepted.
+513.62	The liabilities are too large.
+515.93	There will be insurance issues.
+517.321	"Don't patent it."""
+518.965	So we didn't,
+520.058	but it shows you how people, again, at times,
+523.696	don't really look at what's happening.
+527.895	Some work, and I'll just go
+527.895	through these very quickly,
+530.79	a lot of sensory stuff.
+532.395	You might recognize a young Yo-Yo Ma
+534.87	and tracking his body for playing
+538.84	the cello or the hypercello.
+541.188	These fellows literally walked 
+541.188	around like that at the time.
+545.165	It's now a little bit more discreet
+547.8	and more commonplace.
+549.841	And then there are at least three heroes
+552.11	I want to quickly mention.
+553.239	Marvin Minsky, who taught me a lot
+555.717	about common sense,
+557.104	and I will talk briefly about Muriel Cooper,
+560.545	who was very important to Ricky Wurman
+563.163	and to TED, and in fact, when she got onstage,
+566.898	she said, the first thing she said was,
+568.845	"""I introduced Ricky to Nicky."""
+570.999	And nobody calls me Nicky
+572.699	and nobody calls Richard Ricky,
+574.458	so nobody knew who she was talking about.
+577.86	And then, of course, Seymour Papert,
+580.257	who is the person who said,
+581.762	"""You can't think about thinking"
+583.177	"unless you think about thinking about something."""
+585.592	And that's actually — you can unpack that later.
+591.255	It's a pretty profound statement.
+595.361	I'm showing some slides
+597.101	that were from TED 2,
+599.187	a little silly as slides, perhaps.
+602.929	Then I felt television really was about displays.
+608.273	Again, now we're past TED 1,
+611.336	but just around the time of TED 2,
+614.362	and what I'd like to mention here is,
+616.511	even though you could imagine
+618.626	intelligence in the device,
+620.68	I look today at some of the work
+622.112	being done about the Internet of Things,
+624.55	and I think it's kind of tragically pathetic,
+627.49	because what has happened is people take
+629.92	the oven panel and put it on your cell phone,
+633.418	or the door key onto your cell phone,
+635.207	just taking it and bringing it to you,
+637.38	and in fact that's actually what you don't want.
+640.101	You want to put a chicken in the oven,
+642.159	"and the oven says, ""Aha, it's a chicken,"""
+644.487	and it cooks the chicken.
+645.636	"""Oh, it's cooking the chicken for Nicholas,"
+647.402	"and he likes it this way and that way."""
+649.236	So the intelligence, instead of being in the device,
+652.289	we have started today
+653.998	to move it back onto the cell phone
+656.11	or closer to the user,
+658.48	not a particularly enlightened view
+660.668	of the Internet of Things.
+663.409	Television, again, television what I said today,
+666.873	that was back in 1990,
+669.495	and the television of tomorrow
+670.965	would look something like that.
+673.288	Again, people, but they laughed cynically,
+676.832	they didn't laugh with much appreciation.
+682.083	Telecommunications in the 1990s,
+684.733	George Gilder decided that he would call this diagram
+690.433	the Negroponte switch.
+692.862	I'm probably much less famous than George,
+694.868	so when he called it the Negroponte switch, it stuck,
+698.475	but the idea of things that came in the ground
+701.14	would go in the air and stuff in the air
+702.855	would go into the ground
+704.314	has played itself out.
+706.199	That is the original slide from that year,
+710.944	and it has worked in lockstep obedience.
+714.319	We started Wired magazine.
+716.486	Some people, I remember we shared
+720.222	the reception desk periodically,
+722.944	and some parent called up irate that his son
+727.002	had given up Sports Illustrated
+729.231	to subscribe for Wired,
+731.11	"and he said, ""Are you some"
+731.11	"porno magazine or something?"""
+734.307	and couldn't understand why his son
+736.891	would be interested in Wired, at any rate.
+740.79	I will go through this a little quicker.
+743.394	This is my favorite, 1995,
+746.893	back page of Newsweek magazine.
+749.93	Okay. Read it. (Laughter)
+751.899	"[""Nicholas Negroponte, director of the MIT Media Lab, predicts that we'll soon buy books and newspapers straight over the Internet. Uh, sure."""
+751.899	—Clifford Stoll, Newsweek, 1995]
+753.8	You must admit that gives you,
+755.445	at least it gives me pleasure
+757.672	when somebody says how dead wrong you are.
+761.43	"""Being Digital"" came out."
+763.576	For me, it gave me an opportunity
+766.217	to be more in the trade press
+768.419	and get this out to the public,
+771.69	and it also allowed us to build the new Media Lab,
+774.705	which if you haven't been to, visit,
+776.638	because it's a beautiful piece of architecture
+779.657	aside from being a wonderful place to work.
+782.482	So these are the things we were saying in those TEDs.
+785.177	[Today, multimedia is a desktop or living room experience, because the apparatus is so clunky. This will change dramatically with small, bright, thin, high-resolution displays. — 1995]
+786.744	We came to them.
+788.236	I looked forward to it every year.
+790.228	It was the party that Ricky Wurman never had
+793.28	in the sense that he invited many of his old friends,
+796.189	including myself.
+797.848	And then something for me changed
+800.24	pretty profoundly.
+801.709	I became more involved with computers and learning
+805.662	and influenced by Seymour,
+808.124	but particularly looking at learning
+810.739	as something that is best approximated
+814.649	by computer programming.
+816.403	When you write a computer program,
+818.417	you've got to not just list things out
+821.212	and sort of take an algorithm
+822.94	and translate it into a set of instructions,
+825.816	but when there's a bug, and all programs have bugs,
+828.499	you've got to de-bug it.
+830.208	You've got to go in, change it,
+832.198	and then re-execute,
+833.82	and you iterate,
+835.624	and that iteration is really
+838.531	a very, very good approximation of learning.
+841.434	So that led to my own work with Seymour
+845.101	in places like Cambodia
+847.459	and the starting of One Laptop per Child.
+850.363	Enough TED Talks on One Laptop per Child,
+853.177	so I'll go through it very fast,
+854.938	but it did give us the chance
+858.863	to do something at a relatively large scale
+862.369	in the area of learning, development and computing.
+866.362	Very few people know that One Laptop per Child
+869.179	was a $1 billion project,
+871.814	and it was, at least over the seven years I ran it,
+874.461	but even more important, the World Bank
+876.607	contributed zero, USAID zero.
+879.722	It was mostly the countries
+879.722	using their own treasuries,
+883.877	which is very interesting,
+885.48	at least to me it was very interesting
+886.836	in terms of what I plan to do next.
+889.98	So these are the various places it happened.
+893.005	I then tried an experiment,
+895.907	and the experiment happened in Ethiopia.
+900.188	And here's the experiment.
+902.83	The experiment is,
+904.461	can learning happen where there are no schools.
+908.241	And we dropped off tablets
+910.771	with no instructions
+913.014	and let the children figure it out.
+916.287	And in a short period of time,
+919.934	they not only
+922.032	turned them on and were using 50 apps per child
+925.104	within five days,
+927.206	"they were singing ""ABC"" songs within two weeks,"
+930.14	but they hacked Android within six months.
+934.033	And so that seemed sufficiently interesting.
+937.551	This is perhaps the best picture I have.
+940.11	The kid on your right
+944.261	has sort of nominated himself as teacher.
+946.736	Look at the kid on the left, and so on.
+949.256	There are no adults involved in this at all.
+952.406	So I said, well can we do this
+953.83	at a larger scale?
+955.427	And what is it that's missing?
+957.908	The kids are giving a press conference at this point,
+960.177	and sort of writing in the dirt.
+962.862	And the answer is, what is missing?
+966.307	And I'm going to skip over my prediction, actually,
+968.843	because I'm running out of time,
+970.371	and here's the question, is what's going to happen?
+974.339	I think the challenge
+975.826	is to connect the last billion people,
+978.454	and connecting the last billion
+981.105	is very different than connecting the next billion,
+984.502	and the reason it's different
+985.896	is that the next billion
+987.76	are sort of low-hanging fruit,
+989.71	but the last billion are rural.
+993.077	Being rural and being poor
+996.829	are very different.
+997.961	Poverty tends to be created by our society,
+1001.594	and the people in that community are not poor
+1007.044	in the same way at all.
+1008.953	They may be primitive,
+1010.358	but the way to approach it and to connect them,
+1014.402	the history of One Laptop per Child,
+1016.933	and the experiment in Ethiopia,
+1020.589	lead me to believe that we can in fact
+1023.864	do this in a very short period of time.
+1026.665	And so my plan,
+1028.506	and unfortunately I haven't been able
+1030.74	to get my partners at this point
+1033.608	to let me announce them,
+1034.899	but is to do this with a stationary satellite.
+1039.806	There are many reasons
+1042.265	that stationary satellites aren't the best things,
+1046.78	but there are a lot of reasons why they are,
+1049.717	and for two billion dollars,
+1052.812	you can connect a lot more than 100 million people,
+1056.496	but the reason I picked two,
+1059.157	and I will leave this as my last slide,
+1062.54	is two billion dollars
+1064.324	is what we were spending
+1067.243	in Afghanistan
+1069.336	every week.
+1071.248	So surely if we can connect
+1074.555	Africa and the last billion people
+1077.255	for numbers like that,
+1078.809	we should be doing it.
+1080.122	Thank you very much.
+1082.419	(Applause)
+1085.948	Chris Anderson: Stay up there. Stay up there.
+1090.278	NN: You're going to give me extra time?
+1092.308	CA: No. That was wickedly clever, wickedly clever.
+1094.67	You gamed it beautifully.
+1096.535	Nicholas, what is your prediction?
+1099.165	(Laughter)
+1101.191	NN: Thank you for asking.
+1103.627	I'll tell you what my prediction is,
+1106.4	and my prediction, and this is a prediction,
+1109.1	because it'll be 30 years. I won't be here.
+1111.762	But one of the things about learning how to read,
+1116.49	we have been doing a lot of consuming
+1119.339	of information going through our eyes,
+1121.624	and so that may be a very inefficient channel.
+1124.7	So my prediction is that we are 
+1124.7	going to ingest information
+1129.785	You're going to swallow a pill and know English.
+1132.982	You're going to swallow a
+1132.982	pill and know Shakespeare.
+1135.674	And the way to do it is through the bloodstream.
+1138.283	So once it's in your bloodstream,
+1140.14	it basically goes through it and gets into the brain,
+1142.358	and when it knows that it's in the brain
+1144.54	in the different pieces,
+1145.862	it deposits it in the right places.
+1148.487	So it's ingesting.
+1149.819	CA: Have you been hanging out
+1149.819	with Ray Kurzweil by any chance?
+1152.339	NN: No, but I've been hanging
+1152.339	around with Ed Boyden
+1155.552	and hanging around with one of the speakers
+1157.397	who is here, Hugh Herr,
+1159.21	and there are a number of people.
+1161.107	This isn't quite as far-fetched,
+1162.504	so 30 years from now.
+1165.449	CA: We will check it out.
+1167.191	We're going to be back and we're going
+1167.191	to play this clip 30 years from now,
+1169.493	and then all eat the red pill.
+1172.524	Well thank you for that.
+1174.709	Nicholas Negroponte.
+1176.153	NN: Thank you.
+1177.501	(Applause)

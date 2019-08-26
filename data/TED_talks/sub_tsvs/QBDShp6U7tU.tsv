@@ -1,0 +1,310 @@
+startsecond	text
+13.057	Einstein said that
+14.497	"""I never think about the future —"
+14.497	"it comes soon enough."""
+17.954	And he was right, of course.
+19.655	So today, I'm here to ask you to think of
+22.199	how the future is happening now.
+25.059	Over the past 200 years, the world has experienced
+27.822	two major waves of innovation.
+29.752	First, the Industrial Revolution
+31.981	brought us machines and factories, railways,
+34.502	electricity, air travel,
+36.832	and our lives have never been the same.
+39.152	Then the Internet revolution
+41.578	brought us computing power, data networks,
+44.811	unprecedented access
+47.146	to information and communication,
+49.499	and our lives have never been the same.
+52.774	Now we are experiencing
+54.387	another metamorphic change:
+56.151	the industrial Internet.
+58.338	It brings together intelligent machines,
+61.313	advanced analytics,
+62.853	and the creativity of people at work.
+65.219	It's the marriage of minds and machines.
+68.419	And our lives will never be the same.
+70.975	In my current role, I see up close
+73.968	how technology is beginning to transform
+76.801	industrial sectors that play a huge role
+79.332	in our economy and in our lives:
+81.725	energy, aviation, transportation, health care.
+86.412	For an economist, this is highly unusual,
+88.703	and it's extremely exciting,
+90.242	because this is a transformation
+92.131	as powerful as the Industrial Revolution and more,
+96.153	and before the Industrial Revolution,
+97.612	there was no economic growth to speak of.
+100.562	So what is this industrial Internet?
+103.917	Industrial machines are being equipped
+105.78	with a growing number of electronic sensors
+108.04	that allow them to see, hear, feel
+111.489	a lot more than ever before,
+113.195	generating prodigious amounts of data.
+116.266	Increasingly sophisticated analytics
+118.233	then sift through the data,
+120.074	providing insights that allow us
+122.83	to operate the machines in entirely new ways,
+125.864	a lot more efficiently.
+127.77	And not just individual machines,
+129.759	but fleets of locomotives, airplanes,
+132.544	entire systems like power grids, hospitals.
+135.716	It is asset optimization and system optimization.
+139.942	Of course, electronic sensors
+141.952	have been around for some time,
+143.657	but something has changed:
+145.569	a sharp decline in the cost of sensors
+148.42	and, thanks to advances in cloud computing,
+150.897	a rapid decrease in the cost of storing
+153.913	and processing data.
+156.28	So we are moving to a world
+157.99	where the machines we work with
+159.783	are not just intelligent; they are brilliant.
+164.024	They are self-aware, they are predictive,
+166.782	reactive and social.
+170.141	It's jet engines, locomotives, gas turbines,
+174.099	medical devices, communicating seamlessly
+176.88	with each other and with us.
+179.205	It's a world where information itself
+181.209	becomes intelligent and comes to us
+183.396	automatically when we need it
+185.325	without having to look for it.
+188.523	We are beginning to deploy
+190.05	throughout the industrial system
+192.505	embedded virtualization,
+194.55	multi-core processor technology,
+196.752	advanced cloud-based communications,
+200.192	a new software-defined machine infrastructure
+202.934	which allows machine functionality
+205.678	to become virtualized in software,
+208.252	decoupling machine software from hardware,
+211.414	and allowing us to remotely and automatically
+215.021	monitor, manage and upgrade industrial assets.
+220.345	Why does any of this matter at all?
+223.479	Well first of all, it's already allowing us
+225.95	to shift towards preventive,
+228.151	condition-based maintenance,
+230.029	which means fixing machines
+231.991	just before they break,
+234.279	without wasting time
+236.295	servicing them on a fixed schedule.
+238.623	And this, in turn, is pushing us towards
+242.26	zero unplanned downtime,
+244.115	which means there will be no more power outages,
+246.98	no more flight delays.
+249.02	So let me give you a few examples
+250.664	of how these brilliant machines work,
+252.543	and some of the examples may seem trivial,
+254.841	some are clearly more profound,
+256.837	but all of them are going to
+256.837	have a very powerful impact.
+260.962	Let's start with aviation.
+262.916	Today, 10 percent of all flights
+265.184	cancellations and delays
+267.302	are due to unscheduled maintenance events.
+270.003	Something goes wrong unexpectedly.
+272.035	This results in eight billion dollars in costs
+275.231	for the airline industry globally every year,
+277.643	not to mention the impact on all of us:
+279.945	stress, inconvenience,
+282.03	missed meetings as we sit helplessly
+284.925	in an airport terminal.
+286.834	So how can the industrial Internet help here?
+290.252	We've developed a preventive maintenance system
+292.887	which can be installed on any aircraft.
+294.877	It's self-learning and able to predict issues
+298.128	that a human operator would miss.
+301.084	The aircraft, while in flight,
+303.438	will communicate with technicians on the ground.
+305.788	By the time it lands, they will already know
+307.748	if anything needs to be serviced.
+310.234	Just in the U.S., a system like this can prevent
+313.85	over 60,000 delays and cancellations every year,
+317.557	helping seven million passengers
+319.519	get to their destinations on time.
+322.055	Or take healthcare.
+323.708	Today, nurses spend an average
+325.439	of 21 minutes per shift
+328.082	looking for medical equipment.
+329.775	That seems trivial, but it's less time spent
+334.158	caring for patients.
+336.867	St. Luke's Medical Center in Houston, Texas,
+339.741	which has deployed industrial Internet technology
+342.668	to electronically monitor and connect
+344.733	patients, staff and medical equipment,
+347.932	has reduced bed turnaround times
+350.242	by nearly one hour.
+351.977	If you need surgery, one hour matters.
+354.787	It means more patients can be treated,
+357.114	more lives can be saved.
+359.104	Another medical center, in Washington state,
+362.068	is piloting an application that allows
+363.956	medical images from city scanners and MRIs
+367.049	to be analyzed in the cloud,
+369.164	developing better analytics
+371.801	at a lower cost.
+374.362	Imagine a patient
+375.986	who has suffered a severe trauma,
+377.42	and needs the attention of several specialists:
+380.175	a neurologist, a cardiologist,
+381.984	an orthopedic surgeon.
+383.595	If all of them can have instantaneous
+383.595	and simultaneous access
+386.921	to scans and images as they are taken,
+389.707	they will be able to deliver better healthcare faster.
+394.405	So all of this translates into better health outcomes,
+397.483	but it can also deliver substantial economic benefits.
+400.923	Just a one-percent reduction in existing inefficiencies
+404.409	could yield savings of over 60 billion dollars
+407.915	to the healthcare industry worldwide,
+410.712	and that is just a drop in the sea
+413.071	compared to what we need to do to make healthcare
+415.807	affordable on a sustainable basis.
+418.228	Similar advances are happening in energy,
+420.486	including renewable energy.
+422.966	Wind farms equipped with new
+422.966	remote monitorings and diagnostics
+427.659	that allow wind turbines to talk to each other
+430.254	and adjust the pitch of their
+430.254	blades in a coordinated way,
+434.103	depending on how the wind is blowing,
+436.222	can now produce electricity at a cost
+438.198	of less than five cents per kilowatt/hour.
+441.376	Ten years ago, that cost was 30 cents,
+443.393	six times as much.
+445.345	The list goes on, and it will grow fast,
+448.249	because industrial data are
+448.249	now growing exponentially.
+450.95	By 2020, they will account for over 50 percent
+453.802	of all digital information.
+456.03	But this is not just about data, so let me switch gears
+459.209	and tell you how this is impacting already
+462.05	the jobs we do every day,
+463.493	because this new wave of innovation
+465.214	is bringing about new tools and applications
+468.33	that will allow us to collaborate
+470.846	in a smarter and faster way,
+472.416	making our jobs not just more efficient
+475.549	but more rewarding.
+477.338	Imagine a field engineer arriving at the wind farm
+480.242	with a handheld device telling her
+481.928	which turbines need servicing.
+484.226	She already has all the spare parts,
+485.704	because the problems were diagnosed in advanced.
+488.246	And if she faces an unexpected issue,
+490.72	the same handheld device will allow her to
+493.323	communicate with colleagues at the service center,
+495.831	let them see what she sees,
+497.931	transmit data that they can run through diagnostics,
+500.686	and they can stream videos that will guide her,
+502.983	step by step, through whatever complex procedure
+505.351	is needed to get the machines back up and running.
+507.813	And their interaction gets documented
+509.829	and stored in a searchable database.
+514.246	Let's stop and think about this for a minute,
+516.001	because this is a very important point.
+517.722	This new wave of innovation is fundamentally
+519.948	changing the way we work.
+522.427	And I know that many of you will be concerned 
+522.427	about the impact that innovation might have on jobs.
+527.627	Unemployment is already high,
+529.124	and there is always a fear 
+529.124	that innovation will destroy jobs.
+532.36	And innovation is disruptive.
+534.491	But let me stress two things here.
+536.944	First, we've already lived through
+538.875	mechanization of agriculture,
+538.875	automation of industry,
+541.638	and employment has gone up,
+543.663	because innovation is fundamentally about growth.
+545.956	It makes products more affordable.
+547.849	It creates new demand, new jobs.
+550.509	Second, there is a concern that in the future,
+553.091	there will only be room for engineers,
+555.247	data scientists, and other highly-specialized workers.
+558.267	And believe me, as an economist, I am also scared.
+561.836	But think about it:
+563.555	Just as a child can easily figure out
+566.174	how to operate an iPad,
+567.93	so a new generation of mobile and intuitive
+570.055	industrial applications will make life easier
+572.779	for workers of all skill levels.
+575.198	The worker of the future will be more like Iron Man
+578.4	"than the Charlie Chaplin of ""Modern Times."""
+581.526	And to be sure, new high-skilled jobs will be created:
+584.57	mechanical digital engineers who understand
+586.446	both the machines and the data;
+588.578	managers who understand their industry
+590.861	and the analytics and can reorganize the business
+593.722	to take full advantage of the technology.
+596.844	But now let's take a step back.
+599.16	Let's look at the big picture.
+601.204	There are people who argue that today's innovation
+603.627	is all about social media and silly games,
+605.976	with nowhere near the transformational power
+607.866	of the Industrial Revolution.
+609.945	They say that all the growth-enhancing innovations
+612.7	are behind us.
+614.126	And every time I hear this, I can't help thinking that
+617.44	even back in the Stone Age,
+619.408	there must have been a group of cavemen
+621.697	sitting around a fire one day
+623.576	looking very grumpy,
+625.102	and looking disapprovingly
+625.102	at another group of cavemen
+627.828	rolling a stone wheel up and down a hill,
+629.997	and saying to each other,
+631.806	"""Yeah, this wheel thing,"
+634.087	cool toy, sure, but compared to fire,
+636.878	it will have no impact.
+638.994	"The big discoveries are all behind us."""
+641.318	(Laughter)
+643.205	This technological revolution
+644.753	is as inspiring and transformational
+647.281	as anything we have ever seen.
+649.294	Human creativity and innovation
+649.294	have always propelled us forward.
+652.684	They've created jobs.
+654.131	They've raised living standards.
+655.52	They've made our lives
+657.323	healthier and more rewarding.
+659.383	And the new wave of innovation
+660.626	which is beginning to sweep through industry
+662.976	is no different.
+664.598	In the U.S. alone, the industrial Internet
+666.614	could raise average income by 25 to 40 percent
+670.554	over the next 15 years,
+672.246	boosting growth to rates we
+672.246	haven't seen in a long time,
+674.915	and adding between 10 and 15
+674.915	trillion dollars to global GDP.
+678.859	That is the size of the entire U.S. economy today.
+683.112	But this is not a foregone conclusion.
+685.623	We are just at the beginning of this transformation,
+687.618	and there will be barriers to break,
+689.474	obstacles to overcome.
+691.16	We will need to invest in the new technologies.
+693.701	We will need to adapt organizations
+693.701	and managerial practices.
+697.41	We will need a robust cybersecurity approach
+700.304	that protects sensitive information
+700.304	and intellectual property
+704.047	and safeguards critical infrastructure
+704.047	from cyberattacks.
+707.287	And the education system will need to evolve
+709.524	to ensure students are equipped with the right skills.
+712.732	It's not going to be easy,
+714.467	but it is going to be worth it.
+717.114	The economic challenges facing us are hard,
+720.662	but when I walk the factory floor,
+722.758	and I see how humans and brilliant machines
+725.346	are becoming interconnected,
+727.064	and I see the difference this makes
+729.138	in a hospital, in an airport,
+731.704	in a power generation plant, I'm not just optimistic,
+734.385	I'm enthusiastic.
+735.993	This new technological revolution is upon us.
+739.447	So think about the future —
+739.447	it will be here soon enough.
+742.641	Thank you.
+745.326	(Applause)

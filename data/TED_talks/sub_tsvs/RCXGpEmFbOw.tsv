@@ -1,0 +1,219 @@
+startsecond	text
+12.92	What started as a platform for hobbyists
+14.92	is poised to become
+14.92	a multibillion-dollar industry.
+17.88	Inspection, environmental monitoring,
+17.88	photography and film and journalism:
+21.96	these are some of the potential
+21.96	applications for commercial drones,
+25.16	and their enablers
+25.16	are the capabilities being developed
+27.8	at research facilities around the world.
+29.76	For example, before aerial
+29.76	package delivery
+32.4	entered our social consciousness,
+34.24	an autonomous fleet of flying machines
+34.24	built a six-meter-tall tower
+38.24	composed of 1,500 bricks
+40.2	in front of a live audience
+40.2	at the FRAC Centre in France,
+43.16	and several years ago,
+43.16	they started to fly with ropes.
+45.76	By tethering flying machines,
+47.2	they can achieve high speeds
+47.2	and accelerations in very tight spaces.
+51	They can also autonomously build
+51	tensile structures.
+54.12	Skills learned include how to carry loads,
+56.56	how to cope with disturbances,
+58.04	and in general, how to interact
+58.04	with the physical world.
+61.16	Today we want to show you some
+61.16	new projects that we've been working on.
+64.52	Their aim is to push the boundary
+64.52	of what can be achieved
+67.48	with autonomous flight.
+69.04	Now, for a system to function
+69.04	autonomously,
+71.52	it must collectively know the location
+71.52	of its mobile objects in space.
+76	Back at our lab at ETH Zurich,
+77.92	we often use external cameras
+77.92	to locate objects,
+80.8	which then allows us to focus our efforts
+82.8	on the rapid development
+82.8	of highly dynamic tasks.
+85.48	For the demos you will see today, however,
+87.56	we will use new localization technology
+87.56	developed by Verity Studios,
+90.88	a spin-off from our lab.
+92.52	There are no external cameras.
+94.16	Each flying machine uses onboard sensors
+94.16	to determine its location in space
+99.24	and onboard computation
+99.24	to determine what its actions should be.
+103.28	The only external commands
+103.28	are high-level ones
+105.48	"such as ""take off"" and ""land."""
+130.56	This is a so-called tail-sitter.
+132.48	It's an aircraft that tries
+132.48	to have its cake and eat it.
+135.96	Like other fixed-wing aircraft,
+135.96	it is efficient in forward flight,
+139.24	much more so than helicopters
+139.24	and variations thereof.
+142.479	Unlike most other
+142.479	fixed-wing aircraft, however,
+144.92	it is capable of hovering,
+146.44	which has huge advantages
+146.44	for takeoff, landing
+149.6	and general versatility.
+151.48	There is no free lunch, unfortunately.
+153.6	One of the limitations with tail-sitters
+155.56	is that they're susceptible
+155.56	to disturbances such as wind gusts.
+158.56	We're developing new control
+158.56	architectures and algorithms
+161.28	that address this limitation.
+170.56	The idea is for the aircraft to recover
+172.84	no matter what state it finds itself in,
+183.4	and through practice,
+183.4	improve its performance over time.
+195.6	(Applause)
+202	OK.
+213.48	When doing research,
+214.72	we often ask ourselves
+214.72	fundamental abstract questions
+217.72	that try to get at the heart of a matter.
+221.24	For example, one such question would be,
+223.48	what is the minimum number of moving parts
+223.48	needed for controlled flight?
+227.52	Now, there are practical reasons
+229.12	why you may want to know
+229.12	the answer to such a question.
+231.76	Helicopters, for example,
+233.04	are affectionately known
+233.04	as machines with a thousand moving parts
+236.92	all conspiring to do you bodily harm.
+240.64	It turns out that decades ago,
+242.52	skilled pilots were able to fly
+242.52	remote-controlled aircraft
+245.72	that had only two moving parts:
+247.64	a propeller and a tail rudder.
+250	We recently discovered
+250	that it could be done with just one.
+253.6	This is the monospinner,
+254.88	the world's mechanically simplest
+254.88	controllable flying machine,
+258.16	invented just a few months ago.
+259.96	It has only one moving part, a propeller.
+263.12	It has no flaps, no hinges, no ailerons,
+266.72	no other actuators,
+266.72	no other control surfaces,
+269.279	just a simple propeller.
+271.32	Even though it's mechanically simple,
+273.399	there's a lot going on
+273.399	in its little electronic brain
+275.92	to allow it to fly in a stable fashion
+275.92	and to move anywhere it wants in space.
+280.16	Even so, it doesn't yet have
+281.64	the sophisticated algorithms
+281.64	of the tail-sitter,
+284	which means that in order
+284	to get it to fly,
+286.024	I have to throw it just right.
+288.8	And because the probability
+288.8	of me throwing it just right is very low,
+292.84	given everybody watching me,
+294.76	what we're going to do instead
+296.24	is show you a video
+296.24	that we shot last night.
+298.44	(Laughter)
+310.32	(Applause)
+323.08	If the monospinner
+323.08	is an exercise in frugality,
+326.84	this machine here, the omnicopter,
+326.84	with its eight propellers,
+330.32	is an exercise in excess.
+332.92	What can you do with all this surplus?
+335.08	The thing to notice
+335.08	is that it is highly symmetric.
+337.92	As a result, it is ambivalent
+337.92	to orientation.
+340.8	This gives it an extraordinary capability.
+343.52	It can move anywhere it wants in space
+345.76	irrespective of where it is facing
+348.52	and even of how it is rotating.
+351.04	It has its own complexities,
+352.44	mainly having to do
+352.44	with the interacting flows
+355.12	from its eight propellers.
+356.68	Some of this can be modeled,
+356.68	while the rest can be learned on the fly.
+360.56	Let's take a look.
+404.76	(Applause)
+412.72	If flying machines are going
+412.72	to enter part of our daily lives,
+415.649	they will need to become
+415.649	extremely safe and reliable.
+418.76	This machine over here
+420.16	is actually two separate
+420.16	two-propeller flying machines.
+423.32	This one wants to spin clockwise.
+425.08	This other one wants
+425.08	to spin counterclockwise.
+427.6	When you put them together,
+428.96	they behave like one
+428.96	high-performance quadrocopter.
+443.64	If anything goes wrong, however --
+445.32	a motor fails, a propeller fails,
+445.32	electronics, even a battery pack --
+449.8	the machine can still fly,
+449.8	albeit in a degraded fashion.
+453.16	We're going to demonstrate this to you now
+453.16	by disabling one of its halves.
+476.24	(Applause)
+483.32	This last demonstration
+484.68	is an exploration of synthetic swarms.
+487.56	The large number of autonomous,
+487.56	coordinated entities
+490.56	offers a new palette
+490.56	for aesthetic expression.
+493.32	We've taken commercially available
+493.32	micro quadcopters,
+496.32	each weighing less
+496.32	than a slice of bread, by the way,
+498.84	and outfitted them
+498.84	with our localization technology
+501.28	and custom algorithms.
+502.88	Because each unit
+502.88	knows where it is in space
+505	and is self-controlled,
+506.4	there is really no limit to their number.
+535.84	(Applause)
+559.36	(Applause)
+618.04	(Applause)
+635.96	Hopefully, these demonstrations
+635.96	will motivate you to dream up
+639.08	new revolutionary roles
+639.08	for flying machines.
+642.56	That ultrasafe one over there for example
+644.68	has aspirations to become
+644.68	a flying lampshade on Broadway.
+647.72	(Laughter)
+649.8	The reality is that it is
+649.8	difficult to predict
+652	the impact of nascent technology.
+654.12	And for folks like us, the real reward
+654.12	is the journey and the act of creation.
+659	It's a continual reminder
+660.44	of how wonderful and magical
+660.44	the universe we live in is,
+663.84	that it allows creative, clever creatures
+666.8	to sculpt it in such spectacular ways.
+669.8	The fact that this technology
+671.6	has such huge commercial
+671.6	and economic potential
+675.04	is just icing on the cake.
+676.48	Thank you.
+677.72	(Applause)

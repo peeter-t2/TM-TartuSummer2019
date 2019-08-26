@@ -1,0 +1,497 @@
+startsecond	text
+12.54	Hi, I'm an engineer
+13.98	and I make robots.
+15.98	Now, of course you all know
+15.98	what a robot is, right?
+19.5	If you don't, you'd probably go to Google,
+21.7	and you'd ask Google what a robot is.
+23.58	So let's do that.
+25.46	We'll go to Google
+25.46	and this is what we get.
+28.22	Now, you can see here there are
+28.22	lots of different types of robots,
+31.42	but they're predominantly
+31.42	humanoid in structure.
+35.18	And they look pretty conventional
+36.86	because they've got plastic,
+36.86	they've got metal,
+39.34	they've got motors and gears and so on.
+41.66	Some of them look quite friendly,
+43.3	and you could go up
+43.3	and you could hug them.
+45.38	Some of them not so friendly,
+46.82	they look like they're
+46.82	"straight out of ""Terminator,"""
+49.3	in fact they may well be
+49.3	"straight out of ""Terminator."""
+51.86	You can do lots of really cool
+51.86	things with these robots --
+54.62	you can do really exciting stuff.
+56.26	But I'd like to look
+56.26	at different kinds of robots --
+59.22	I want to make different kinds of robots.
+61.22	And I take inspiration
+61.22	from the things that don't look like us,
+64.66	but look like these.
+66.5	So these are natural biological organisms
+69.1	and they do some
+69.1	really cool things that we can't,
+71.7	and current robots can't either.
+74.22	They do all sorts of great things
+74.22	like moving around on the floor;
+77.42	they go into our gardens
+77.42	and they eat our crops;
+79.7	they climb trees;
+80.98	they go in water, they come out of water;
+83.22	they trap insects and digest them.
+85.82	So they do really interesting things.
+87.66	They live, they breathe, they die,
+91.06	they eat things from the environment.
+92.9	Our current robots don't really do that.
+95.5	Now, wouldn't it be great
+96.74	if you could use some of those
+96.74	characteristics in future robots
+100.42	so that you could solve
+100.42	some really interesting problems?
+103.14	I'm going to look at a couple of problems
+103.14	now in the environment
+106.22	where we can use
+106.22	the skills and the technologies
+108.98	derived from these animals
+111.02	and from the plants,
+112.58	and we can use them
+112.58	to solve those problems.
+114.7	Let's have a look
+114.7	at two environmental problems.
+117.78	They're both of our making --
+119.22	this is man interacting
+119.22	with the environment
+121.7	and doing some rather unpleasant things.
+124.1	The first one is to do
+124.1	with the pressure of population.
+128.26	Such is the pressure
+128.26	of population around the world
+130.7	that agriculture and farming is required
+130.7	to produce more and more crops.
+134.86	Now, to do that,
+136.1	farmers put more and more
+136.1	chemicals onto the land.
+138.5	They put on fertilizers,
+138.5	nitrates, pesticides --
+141.66	all sorts of things
+141.66	that encourage the growth of the crops,
+145.06	but there are some negative impacts.
+147.22	One of the negative impacts is
+147.22	if you put lots of fertilizer on the land,
+150.7	not all of it goes into the crops.
+153.14	Lots of it stays in the soil,
+155.74	and then when it rains,
+157.22	these chemicals go into the water table.
+159.74	And in the water table,
+161.02	then they go into streams,
+161.02	into lakes, into rivers
+164.54	and into the sea.
+166.22	Now, if you put all
+166.22	of these chemicals, these nitrates,
+168.86	into those kinds of environments,
+170.5	there are organisms in those environments
+170.5	that will be affected by that --
+174.3	algae, for example.
+175.94	Algae loves nitrates, it loves fertilizer,
+178.5	so it will take in all these chemicals,
+180.62	and if the conditions are right,
+180.62	it will mass produce.
+183.58	It will produce masses
+183.58	and masses of new algae.
+185.86	That's called a bloom.
+187.42	The trouble is that
+187.42	when algae reproduces like this,
+190.62	it starves the water of oxygen.
+193.3	As soon as you do that,
+194.58	the other organisms
+194.58	in the water can't survive.
+197.9	So, what do we do?
+199.94	We try to produce a robot
+199.94	that will eat the algae,
+203.98	consume it and make it safe.
+205.86	So that's the first problem.
+207.78	The second problem is also of our making,
+210.3	and it's to do with oil pollution.
+212.62	Now, oil comes out
+212.62	of the engines that we use,
+216.38	the boats that we use.
+217.74	Sometimes tankers
+217.74	flush their oil tanks into the sea,
+220.82	so oil is released into the sea that way.
+223.1	Wouldn't it be nice
+223.1	if we could treat that in some way
+225.7	using robots that could eat the pollution
+225.7	the oil fields have produced?
+230.98	So that's what we do.
+232.62	We make robots that will eat pollution.
+235.7	To actually make the robot,
+237.06	we take inspiration from two organisms.
+240.1	On the right there
+240.1	you see the basking shark.
+242.26	The basking shark is a massive shark.
+244.82	It's noncarnivorous,
+244.82	so you can swim with it,
+247.42	as you can see.
+248.9	And the basking shark opens its mouth,
+250.78	and it swims through the water,
+250.78	collecting plankton.
+254.7	As it does that, it digests the food,
+256.94	and then it uses that energy
+256.94	in its body to keep moving.
+261.22	So, could we make a robot like that --
+263.1	like the basking shark
+263.1	that chugs through the water
+265.66	and eats up pollution?
+267.98	Well, let's see if we can do that.
+269.74	But also, we take the inspiration
+269.74	from other organisms.
+272.82	I've got a picture here
+272.82	of a water boatman,
+274.9	and the water boatman is really cute.
+276.74	When it's swimming in the water,
+278.34	it uses its paddle-like legs
+278.34	to push itself forward.
+281.42	So we take those two organisms
+283.46	and we combine them together
+283.46	to make a new kind of robot.
+287.14	In fact, because we're using
+287.14	the water boatman as inspiration,
+290.34	and our robot sits on top of the water,
+293.14	and it rows,
+294.42	"we call it the ""Row-bot."""
+296.66	So a Row-bot is a robot that rows.
+300.54	OK. So what does it look like?
+303.26	Here's some pictures of the Row-bot,
+305.02	and you'll see,
+306.26	it doesn't look anything like the robots
+306.26	we saw right at the beginning.
+309.62	Google is wrong;
+309.62	robots don't look like that,
+311.78	they look like this.
+313.02	So I've got the Row-bot here.
+314.82	I'll just hold it up for you.
+316.26	It gives you a sense of the scale,
+317.94	and it doesn't look
+317.94	anything like the others.
+320.1	OK, so it's made out of plastic,
+321.74	and we'll have a look now
+321.74	at the components
+323.82	that make up the Row-bot --
+325.16	what makes it really special.
+327.58	The Row-bot is made up of three parts,
+330.42	and those three parts are really
+330.42	like the parts of any organism.
+333.74	It's got a brain,
+335.42	it's got a body
+336.82	and it's got a stomach.
+339.14	It needs the stomach to create the energy.
+341.58	Any Row-bot will have
+341.58	those three components,
+343.82	and any organism
+343.82	will have those three components,
+346.22	so let's go through them one at a time.
+348.14	It has a body,
+349.42	and its body is made out of plastic,
+351.22	and it sits on top of the water.
+353.46	And it's got flippers on the side here --
+356.42	paddles that help it move,
+357.94	just like the water boatman.
+360.02	It's got a plastic body,
+361.38	but it's got a soft rubber mouth here,
+364.26	and a mouth here --
+364.26	it's got two mouths.
+366.18	Why does it have two mouths?
+367.62	One is to let the food go in
+369.46	and the other is to let the food go out.
+371.42	So you can see really
+371.42	it's got a mouth and a derriere,
+374.94	or a --
+376.18	(Laughter)
+377.22	something where the stuff comes out,
+378.98	which is just like a real organism.
+380.7	So it's starting to look
+380.7	like that basking shark.
+383.54	So that's the body.
+384.94	The second component might be the stomach.
+388.1	We need to get the energy into the robot
+388.1	and we need to treat the pollution,
+392.02	so the pollution goes in,
+393.58	and it will do something.
+395.1	It's got a cell in the middle here
+395.1	called a microbial fuel cell.
+398.7	I'll put this down,
+398.7	and I'll lift up the fuel cell.
+402.02	Here. So instead of having batteries,
+403.9	instead of having
+403.9	a conventional power system,
+406.1	it's got one of these.
+407.38	This is its stomach.
+408.66	And it really is a stomach
+409.94	because you can put energy in this side
+409.94	in the form of pollution,
+413.38	and it creates electricity.
+415.06	So what is it?
+416.3	It's called a microbial fuel cell.
+417.98	It's a little bit
+417.98	like a chemical fuel cell,
+420.1	which you might have
+420.1	come across in school,
+422.14	or you might've seen in the news.
+423.78	Chemical fuel cells
+423.78	take hydrogen and oxygen,
+425.94	and they can combine them together
+425.94	and you get electricity.
+428.78	That's well-established technology;
+428.78	it was in the Apollo space missions.
+432.22	That's from 40, 50 years ago.
+434.26	This is slightly newer.
+435.54	This is a microbial fuel cell.
+437.02	It's the same principle:
+438.3	it's got oxygen on one side,
+439.74	but instead of having
+439.74	hydrogen on the other,
+441.86	it's got some soup,
+443.18	and inside that soup
+443.18	there are living microbes.
+446.02	Now, if you take some organic material --
+448.74	could be some waste products, some food,
+451.1	maybe a bit of your sandwich --
+452.62	you put it in there,
+452.62	the microbes will eat that food,
+455.46	and they will turn it into electricity.
+458.22	Not only that, but if you select
+458.22	the right kind of microbes,
+461.74	you can use the microbial fuel cell
+461.74	to treat some of the pollution.
+466.22	If you choose the right microbes,
+467.86	the microbes will eat the algae.
+470.5	If you use other kinds of microbes,
+472.86	they will eat petroleum
+472.86	spirits and crude oil.
+476.78	So you can see
+476.78	how this stomach could be used
+479.5	to not only treat the pollution
+482.78	but also to generate electricity
+482.78	from the pollution.
+486.22	So the robot will move
+486.22	through the environment,
+489.02	taking food into its stomach,
+491.14	digest the food, create electricity,
+493.66	use that electricity
+493.66	to move through the environment
+496.18	and keep doing this.
+497.42	OK, so let's see what happens
+497.42	when we run the Row-bot --
+500.98	when it does some rowing.
+502.38	Here we've got a couple of videos,
+504.06	the first thing you'll see --
+504.06	hopefully you can see here
+506.74	is the mouth open.
+508.06	The front mouth and the bottom mouth open,
+511.1	and it will stay opened enough,
+512.66	then the robot will start to row forward.
+514.7	It moves through the water
+515.98	so that food goes in
+515.98	as the waste products go out.
+519.1	Once it's moved enough,
+520.38	it stops and then it closes the mouth --
+523.34	slowly closes the mouths --
+525.78	and then it will sit there,
+527.46	and it will digest the food.
+529.82	Of course these microbial fuel cells,
+532.54	they contain microbes.
+533.82	What you really want is lots of energy
+535.7	coming out of those microbes
+535.7	as quickly as possible.
+538.34	But we can't force the microbes
+539.94	and they generate a small amount
+539.94	of electricity per second.
+542.98	They generate milliwatts, or microwatts.
+546.26	Let's put that into context.
+548.14	Your mobile phone for example,
+549.7	one of these modern ones,
+551.1	if you use it, it takes about one watt.
+553.34	So that's a thousand or a million times
+553.34	as much energy that that uses
+557.18	compared to the microbial fuel cell.
+559.82	How can we cope with that?
+561.42	Well, when the Row-bot
+561.42	has done its digestion,
+564.3	when it's taken the food in,
+565.78	it will sit there and it will wait
+565.78	until it has consumed all that food.
+569.34	That could take some hours,
+569.34	it could take some days.
+572.58	A typical cycle for the Row-bot
+572.58	looks like this:
+576.3	you open your mouth,
+577.58	you move,
+578.86	you close your mouth
+580.14	and you sit there for a while waiting.
+582.02	Once you digest your food,
+583.42	then you can go about
+583.42	doing the same thing again.
+586.26	But you know what, that looks
+586.26	like a real organism, doesn't it?
+589.26	It looks like the kind of thing we do.
+591.14	Saturday night,
+591.14	we go out, open our mouths,
+593.22	fill our stomachs,
+594.78	sit in front of the telly and digest.
+597.74	When we've had enough,
+597.74	we do the same thing again.
+600.14	OK, if we're lucky with this cycle,
+603.02	at the end of the cycle
+603.02	we'll have enough energy left over
+606.58	for us to be able to do something else.
+608.74	We could send a message, for example.
+610.78	We could send a message saying,
+612.3	"""This is how much pollution"
+612.3	"I've eaten recently,"""
+614.66	"or, ""This is the kind of stuff"
+614.66	"that I've encountered,"""
+617.26	"or, ""This is where I am."""
+619.62	That ability to send a message
+619.62	"saying, ""This is where I am,"""
+622.9	is really, really important.
+624.86	If you think about the oil slicks
+624.86	that we saw before,
+627.38	or those massive algal blooms,
+628.86	what you really want to do
+628.86	is put your Row-bot out there,
+631.58	and it eats up all of those pollutions,
+633.58	and then you have to go collect them.
+635.78	Why?
+637.02	Because these Row-bots at the moment,
+638.86	this Row-bot I've got here,
+640.22	it contains motors, it contains wires,
+642.1	it contains components
+642.1	which themselves are not biodegradable.
+645.58	Current Row-bots contain
+645.58	things like toxic batteries.
+648.34	You can't leave those in the environment,
+650.34	so you need to track them,
+651.86	and then when they've finished
+651.86	their job of work,
+654.22	you need to collect them.
+655.5	That limits the number
+655.5	of Row-bots you can use.
+657.86	If, on the other hand,
+659.14	you have robot a little bit
+659.14	like a biological organism,
+662.3	when it comes to the end of its life,
+664.42	it dies and it degrades to nothing.
+666.9	So wouldn't it be nice if these robots,
+669.26	instead of being like this,
+669.26	made out of plastic,
+671.523	were made out of other materials,
+673.14	which when you throw them out there,
+674.9	they biodegrade to nothing?
+676.26	That changes the way
+676.26	in which we use robots.
+678.38	Instead of putting 10 or 100
+678.38	out into the environment,
+681.78	having to track them,
+683.06	and then when they die,
+684.42	collect them,
+685.66	you could put a thousand,
+687.38	a million, a billion robots
+687.38	into the environment.
+690.14	Just spread them around.
+691.98	You know that at the end of their lives,
+691.98	they're going to degrade to nothing.
+695.62	You don't need to worry about them.
+697.34	So that changes the way
+697.34	in which you think about robots
+699.98	and the way you deploy them.
+701.38	Then the question is: Can you do this?
+703.26	Well, yes, we have shown
+703.26	that you can do this.
+705.46	You can make robots
+705.46	which are biodegradable.
+707.58	What's really interesting
+707.58	is you can use household materials
+710.46	to make these biodegradable robots.
+712.18	I'll show you some;
+712.18	you might be surprised.
+714.78	You can make a robot out of jelly.
+717.7	Instead of having a motor,
+717.7	which we have at the moment,
+720.5	you can make things
+720.5	called artificial muscles.
+722.98	Artificial muscles are smart materials,
+725.3	you apply electricity to them,
+726.78	and they contract,
+726.78	or they bend or they twist.
+728.98	They look like real muscles.
+731.22	So instead of having a motor,
+731.22	you have these artificial muscles.
+734.244	And you can make
+734.244	artificial muscles out of jelly.
+737.1	If you take some jelly and some salts,
+739.06	and do a bit of jiggery-pokery,
+740.66	you can make an artificial muscle.
+742.46	We've also shown you can make
+742.46	the microbial fuel cell's stomach
+746.06	out of paper.
+747.5	So you could make the whole
+747.5	robot out of biodegradable materials.
+751.3	You throw them out there,
+751.3	and they degrade to nothing.
+755.42	Well, this is really, really exciting.
+757.3	It's going to totally change the way
+757.3	in which we think about robots,
+760.515	but also it allows you
+760.515	to be really creative
+762.78	in the way in which you think
+762.78	about what you can do with these robots.
+766.14	I'll give you an example.
+767.42	If you can use jelly to make a robot --
+770.02	now, we eat jelly, right?
+771.94	So, why not make something like this?
+774.46	A robot gummy bear.
+776.94	Here, I've got some I prepared earlier.
+779.74	There we go. I've got a packet --
+782.38	and I've got a lemon-flavored one.
+785.42	I'll take this gummy bear --
+785.42	he's not robotic, OK?
+788.18	We have to pretend.
+789.42	And what you do with one of these
+789.42	is you put it in your mouth --
+792.46	the lemon's quite nice.
+794.54	Try not to chew it too much,
+794.54	it's a robot, it may not like it.
+798.66	And then you swallow it.
+800.9	And then it goes into your stomach.
+802.62	And when it's inside your stomach,
+802.62	it moves, it thinks, it twists, it bends,
+806.46	it does something.
+807.7	It could go further down
+807.7	into your intestines,
+809.9	find out whether you've got
+809.9	some ulcer or cancer,
+812.26	maybe do an injection,
+812.26	something like that.
+814.38	You know that once
+814.38	it's done its job of work,
+817.26	it could be consumed by your stomach,
+819.5	or if you don't want that,
+821.22	it could go straight through you,
+822.86	into the toilet,
+824.1	and be degraded safely in the environment.
+826.34	So this changes the way, again,
+826.34	in which we think about robots.
+830.54	So, we started off looking
+830.54	at robots that would eat pollution,
+834.86	and then we're looking
+834.86	at robots which we can eat.
+837.54	I hope this gives you some idea
+839.22	of the kinds of things
+839.22	we can do with future robots.
+843.38	Thank you very much for your attention.
+845.3	(Applause)

@@ -1,0 +1,546 @@
+startsecond	text
+12.371	Steve Ramirez: My first
+12.371	year of grad school,
+14.491	I found myself in my bedroom
+15.931	eating lots of Ben &amp; Jerry's
+18.231	watching some trashy TV
+19.915	and maybe, maybe listening
+19.915	to Taylor Swift.
+23.142	I had just gone through a breakup.
+24.883	(Laughter)
+26.33	So for the longest time, all I would do
+28.526	is recall the memory of this
+28.526	person over and over again,
+32.342	wishing that I could get
+32.342	rid of that gut-wrenching,
+34.835	"visceral ""blah"" feeling."
+37.368	Now, as it turns out,
+37.368	I'm a neuroscientist,
+39.651	so I knew that the memory of that person
+42.053	and the awful, emotional undertones
+42.053	that color in that memory,
+45.193	are largely mediated
+45.193	by separate brain systems.
+47.827	And so I thought, what if we could
+47.827	go into the brain
+50.328	and edit out that nauseating feeling
+52.282	but while keeping the memory
+52.282	of that person intact?
+55.252	Then I realized, maybe
+55.252	that's a little bit lofty for now.
+57.943	So what if we could start
+57.943	off by going into the brain
+60.456	and just finding a single
+60.456	memory to begin with?
+63.089	Could we jump-start
+63.089	that memory back to life,
+65.603	maybe even play with the contents
+65.603	of that memory?
+69.471	All that said, there is one person
+69.471	in the entire world right now
+71.7	that I really hope is not
+71.7	watching this talk.
+73.867	(Laughter)
+77.696	So there is a catch. There is a catch.
+80.985	These ideas probably remind
+80.985	"you of ""Total Recall,"""
+83.773	"""Eternal Sunshine of the Spotless Mind,"""
+85.747	"or of ""Inception."""
+87.05	But the movie stars that we work with
+88.836	are the celebrities of the lab.
+90.569	Xu Liu: Test mice.
+92.469	(Laughter)
+93.597	As neuroscientists, we work
+93.597	in the lab with mice
+96.751	trying to understand how memory works.
+100.161	And today, we hope
+100.161	to convince you that now
+102.73	we are actually able to activate
+102.73	a memory in the brain
+105.946	at the speed of light.
+108.116	To do this, there's only two simple
+108.116	steps to follow.
+111.222	First, you find and label
+111.222	a memory in the brain,
+114.732	and then you activate it with a switch.
+118.362	As simple as that.
+119.807	(Laughter)
+121.629	SR: Are you convinced?
+123.474	So, turns out finding a memory
+123.474	in the brain isn't all that easy.
+127.195	XL: Indeed. This is way more
+127.195	difficult than, let's say,
+129.998	finding a needle in a haystack,
+132.402	because at least, you know,
+132.402	the needle is still something
+135.141	you can physically put your fingers on.
+137.491	But memory is not.
+139.468	And also, there's way
+139.468	more cells in your brain
+142.506	than the number of straws
+142.506	in a typical haystack.
+147.572	So yeah, this task does
+147.572	seem to be daunting.
+150.451	But luckily, we got help
+150.451	from the brain itself.
+154.13	It turned out that all we need
+154.13	to do is basically
+156.585	to let the brain form a memory,
+158.578	and then the brain will tell
+158.578	us which cells are involved
+162.408	in that particular memory.
+164.174	SR: So what was going on in my brain
+166.531	while I was recalling the memory of an ex?
+168.625	If you were to just completely
+168.625	ignore human ethics for a second
+171.027	and slice up my brain right now,
+172.695	you would see that there
+172.695	was an amazing number
+174.91	of brain regions that were active
+174.91	while recalling that memory.
+177.891	Now one brain region
+177.891	that would be robustly active
+180.803	in particular is called the hippocampus,
+182.81	which for decades has
+182.81	been implicated in processing
+185.265	the kinds of memories
+185.265	that we hold near and dear,
+187.681	which also makes it
+187.681	an ideal target to go into
+190.255	and to try and find and maybe
+190.255	reactivate a memory.
+193.04	XL: When you zoom in into the hippocampus,
+195.434	of course you will see lots of cells,
+197.782	but we are able to find
+197.782	which cells are involved
+200.813	in a particular memory,
+202.289	because whenever a cell is active,
+204.907	like when it's forming a memory,
+206.455	it will also leave a footprint
+206.455	that will later allow us to know
+210.128	these cells are recently active.
+212.83	SR: So the same way
+212.83	that building lights at night
+215.188	let you know that somebody's probably
+215.188	working there at any given moment,
+218.641	in a very real sense, there
+218.641	are biological sensors
+221.226	within a cell that are turned on
+223.18	only when that cell was just working.
+225.315	They're sort of biological
+225.315	windows that light up
+227.625	to let us know that that cell
+227.625	was just active.
+229.84	XL: So we clipped part of this sensor,
+231.998	and attached that to a switch
+231.998	to control the cells,
+235.145	and we packed this switch
+235.145	into an engineered virus
+239.045	and injected that into the brain
+239.045	of the mice.
+241.633	So whenever a memory is being formed,
+244.267	any active cells for that memory
+246.615	will also have this switch installed.
+249.357	SR: So here is what the hippocampus
+249.357	looks like
+251.572	after forming a fear memory, for example.
+253.822	The sea of blue that you see here
+255.962	are densely packed brain cells,
+257.914	but the green brain cells,
+259.459	the green brain cells
+259.459	are the ones that are holding on
+262.055	to a specific fear memory.
+263.398	So you are looking at the crystallization
+265.377	of the fleeting formation of fear.
+267.764	You're actually looking
+267.764	at the cross-section of a memory right now.
+271.261	XL: Now, for the switch
+271.261	we have been talking about,
+273.714	ideally, the switch has
+273.714	to act really fast.
+276.639	It shouldn't take minutes
+276.639	or hours to work.
+279.218	It should act at the speed
+279.218	of the brain, in milliseconds.
+283.482	SR: So what do you think, Xu?
+284.912	Could we use, let's say,
+284.912	pharmacological drugs
+287.514	to activate or inactivate brain cells?
+289.352	XL: Nah. Drugs are pretty messy.
+289.352	They spread everywhere.
+293.415	And also it takes them
+293.415	forever to act on cells.
+296.423	So it will not allow us
+296.423	to control a memory in real time.
+300.072	So Steve, how about let's zap
+300.072	the brain with electricity?
+304.366	SR: So electricity is pretty fast,
+306.671	but we probably wouldn't
+306.671	be able to target it
+308.41	to just the specific cells
+308.41	that hold onto a memory,
+310.863	and we'd probably fry the brain.
+312.642	XL: Oh. That's true.
+312.642	So it looks like, hmm,
+315.837	indeed we need to find a better way
+318.448	to impact the brain at the speed of light.
+321.743	SR: So it just so happens that light
+321.743	travels at the speed of light.
+326.829	So maybe we could activate
+326.829	or inactive memories
+330.312	by just using light --
+331.809	XL: That's pretty fast.
+333.164	SR: -- and because normally brain cells
+335.049	don't respond to pulses of light,
+336.645	so those that would respond
+336.645	to pulses of light
+338.603	are those that contain
+338.603	a light-sensitive switch.
+341.059	Now to do that, first we need
+341.059	to trick brain cells
+343.005	to respond to laser beams.
+344.467	XL: Yep. You heard it right.
+345.537	We are trying to shoot
+345.537	lasers into the brain.
+347.704	(Laughter)
+349.414	SR: And the technique that lets
+349.414	us do that is optogenetics.
+352.738	Optogenetics gave us this
+352.738	light switch that we can use
+356.02	to turn brain cells on or off,
+357.528	and the name of that switch
+357.528	is channelrhodopsin,
+360.045	seen here as these green dots
+360.045	attached to this brain cell.
+362.582	You can think of channelrhodopsin
+362.582	as a sort of light-sensitive switch
+365.892	that can be artificially
+365.892	installed in brain cells
+368.508	so that now we can use that switch
+370.422	to activate or inactivate the brain
+370.422	cell simply by clicking it,
+373.446	and in this case we click
+373.446	it on with pulses of light.
+375.994	XL: So we attach this light-sensitive
+375.994	switch of channelrhodopsin
+379.689	to the sensor we've been talking about
+381.897	and inject this into the brain.
+384.352	So whenever a memory is being formed,
+387.563	any active cell for that particular memory
+389.79	will also have this light-sensitive
+389.79	switch installed in it
+393.274	so that we can control these cells
+395.675	by the flipping of a laser
+395.675	just like this one you see.
+399.939	SR: So let's put all of this
+399.939	to the test now.
+402.803	What we can do is we can take our mice
+404.938	and then we can put them in a box
+404.938	that looks exactly like this box here,
+407.866	and then we can give them
+407.866	a very mild foot shock
+410.206	so that they form a fear
+410.206	memory of this box.
+412.278	They learn that something
+412.278	bad happened here.
+414.361	Now with our system,
+414.361	the cells that are active
+416.703	in the hippocampus
+416.703	in the making of this memory,
+419.493	only those cells will now
+419.493	contain channelrhodopsin.
+422.376	XL: When you are as small as a mouse,
+425.393	it feels as if the whole
+425.393	world is trying to get you.
+428.988	So your best response of defense
+430.736	is trying to be undetected.
+433.218	Whenever a mouse is in fear,
+435.251	it will show this very typical behavior
+437.133	by staying at one corner of the box,
+438.902	trying to not move any part of its body,
+441.664	and this posture is called freezing.
+444.959	So if a mouse remembers that something
+444.959	bad happened in this box,
+449.253	and when we put them
+449.253	back into the same box,
+451.876	it will basically show freezing
+453.68	because it doesn't want to be detected
+455.965	by any potential threats in this box.
+458.66	SR: So you can think of freezing as,
+460.015	you're walking down the street
+460.015	minding your own business,
+462.23	and then out of nowhere
+462.23	you almost run into
+464.302	an ex-girlfriend or ex-boyfriend,
+466.147	and now those terrifying two seconds
+468.281	"where you start thinking, ""What do I do?"
+468.281	Do I say hi?
+470.157	Do I shake their hand? Do
+470.157	I turn around and run away?
+471.525	Do I sit here and pretend
+471.525	"like I don't exist?"""
+473.554	Those kinds of fleeting thoughts
+473.554	that physically incapacitate you,
+476.738	that temporarily give you
+476.738	that deer-in-headlights look.
+479.484	XL: However, if you put the mouse
+479.484	in a completely different
+482.775	new box, like the next one,
+485.936	it will not be afraid of this box
+488.083	because there's no reason that it
+488.083	will be afraid of this new environment.
+492.812	But what if we put
+492.812	the mouse in this new box
+495.992	but at the same time,
+495.992	we activate the fear memory
+499.603	using lasers just like we did before?
+502.282	Are we going to bring back the fear memory
+505.136	for the first box into this
+505.136	completely new environment?
+509.133	SR: All right,
+509.133	and here's the million-dollar experiment.
+511.868	Now to bring back to life
+511.868	the memory of that day,
+514.781	I remember that the Red Sox had just won,
+516.964	it was a green spring day,
+518.873	perfect for going up and down the river
+520.755	and then maybe going to the North End
+523.024	to get some cannolis, #justsaying.
+525.183	Now Xu and I, on the other hand,
+528.285	were in a completely windowless black room
+531.115	not making any ocular movement
+531.115	that even remotely resembles an eye blink
+534.775	because our eyes were fixed
+534.775	onto a computer screen.
+537.242	We were looking at this mouse
+537.242	here trying to activate a memory
+540.219	for the first time using our technique.
+542.102	XL: And this is what we saw.
+544.369	When we first put the mouse into this box,
+546.571	it's exploring, sniffing
+546.571	around, walking around,
+549.684	minding its own business,
+551.373	because actually by nature,
+553.074	mice are pretty curious animals.
+555.053	They want to know, what's going
+555.053	on in this new box?
+557.675	It's interesting.
+559.206	But the moment we turned
+559.206	on the laser, like you see now,
+562.657	all of a sudden the mouse
+562.657	entered this freezing mode.
+565.689	It stayed here and tried not
+565.689	to move any part of its body.
+570.12	Clearly it's freezing.
+571.748	So indeed, it looks
+571.748	like we are able to bring back
+574.331	the fear memory for the first box
+576.395	in this completely new environment.
+579.762	While watching this, Steve and I
+581.874	are as shocked as the mouse itself.
+584.007	(Laughter)
+585.269	So after the experiment,
+585.269	the two of us just left the room
+588.576	without saying anything.
+590.329	After a kind of long,
+590.329	awkward period of time,
+593.725	Steve broke the silence.
+595.937	"SR: ""Did that just work?"""
+598.278	"XL: ""Yes,"" I said. ""Indeed it worked!"""
+601.252	We're really excited about this.
+603.369	And then we published our findings
+605.993	in the journal Nature.
+607.689	Ever since the publication of our work,
+610.16	we've been receiving numerous comments
+612.575	from all over the Internet.
+614.7	Maybe we can take a look at some of those.
+618.45	"[""OMGGGGG FINALLY... so much more to come, virtual reality, neural manipulation, visual dream emulation..."
+618.45	"neural coding, 'writing and re-writing of memories', mental illnesses. Ahhh the future is awesome""]"
+620.907	SR: So the first thing
+620.907	that you'll notice is that people
+622.907	have really strong opinions
+622.907	about this kind of work.
+625.81	Now I happen to completely
+625.81	agree with the optimism
+628.364	of this first quote,
+629.18	because on a scale
+629.18	of zero to Morgan Freeman's voice,
+631.988	it happens to be
+631.988	one of the most evocative accolades
+634.489	that I've heard come our way.
+636.039	(Laughter)
+637.857	But as you'll see, it's not
+637.857	the only opinion that's out there.
+639.808	"[""This scares the hell out of me... What if they could do that easily"
+639.808	"in humans in a couple of years?! OH MY GOD WE'RE DOOMED""]"
+641.372	XL: Indeed, if we take
+641.372	a look at the second one,
+643.682	I think we can all agree that it's, meh,
+645.789	probably not as positive.
+647.772	But this also reminds us that,
+649.957	although we are still working with mice,
+652.143	it's probably a good idea
+652.143	to start thinking and discussing
+655.66	about the possible ethical ramifications
+658.651	of memory control.
+660.599	SR: Now, in the spirit of the third quote,
+662.799	we want to tell you about a recent
+662.799	project that we've been
+664.773	working on in lab that we've called
+664.773	Project Inception.
+667.369	"[""They should make a movie about this. Where they plant ideas into peoples minds,"
+667.369	"so they can control them for their own personal gain. We'll call it: Inception.""]"
+670.612	So we reasoned that now
+670.612	that we can reactivate a memory,
+674.178	what if we do so but then begin
+674.178	to tinker with that memory?
+677.13	Could we possibly even turn
+677.13	it into a false memory?
+680.163	XL: So all memory
+680.163	is sophisticated and dynamic,
+684.262	but if just for simplicity,
+684.262	let's imagine memory
+687.241	as a movie clip.
+688.643	So far what we've told you
+688.643	is basically we can control
+691.313	"this ""play"" button of the clip"
+693.244	so that we can play this video
+693.244	clip any time, anywhere.
+697.829	But is there a possibility
+697.829	that we can actually get
+700.36	inside the brain and edit this movie clip
+703.22	so that we can make it
+703.22	different from the original?
+706.116	Yes we can.
+708.294	Turned out that all we need
+708.294	to do is basically
+710.509	reactivate a memory using
+710.509	lasers just like we did before,
+714.699	but at the same time,
+714.699	if we present new information
+718.138	and allow this new information
+718.138	to incorporate into this old memory,
+722.112	this will change the memory.
+724.55	It's sort of like making a remix tape.
+728.213	SR: So how do we do this?
+731.071	Rather than finding a fear
+731.071	memory in the brain,
+733.028	we can start by taking our animals,
+734.744	and let's say we put them in a blue
+734.744	box like this blue box here
+737.721	and we find the brain cells
+737.721	that represent that blue box
+740.368	and we trick them to respond
+740.368	to pulses of light
+742.631	exactly like we had said before.
+744.365	Now the next day, we can take
+744.365	our animals and place them
+746.489	in a red box that they've never
+746.489	experienced before.
+749.188	We can shoot light
+749.188	into the brain to reactivate
+751.451	the memory of the blue box.
+753.323	So what would happen here
+753.323	if, while the animal
+755.067	is recalling the memory of the blue box,
+756.996	we gave it a couple of mild foot shocks?
+759.604	So here we're trying to artificially
+759.604	make an association
+762.297	between the memory of the blue box
+764.212	and the foot shocks themselves.
+765.715	We're just trying to connect the two.
+767.501	So to test if we had done so,
+769.037	we can take our animals once again
+770.365	and place them back in the blue box.
+772.311	Again, we had just reactivated
+772.311	the memory of the blue box
+775.05	while the animal got a couple
+775.05	of mild foot shocks,
+777.455	and now the animal suddenly freezes.
+779.586	It's as though it's recalling being
+779.586	mildly shocked in this environment
+782.944	even though that never actually happened.
+785.79	So it formed a false memory,
+787.652	because it's falsely
+787.652	fearing an environment
+789.724	where, technically speaking,
+791.082	nothing bad actually happened to it.
+793.266	XL: So, so far we are only talking about
+795.719	"this light-controlled ""on"" switch."
+798.085	In fact, we also have
+798.085	"a light-controlled ""off"" switch,"
+801.373	and it's very easy to imagine that
+803.453	by installing this
+803.453	"light-controlled ""off"" switch,"
+805.931	we can also turn off a memory,
+805.931	any time, anywhere.
+811.519	So everything
+811.519	we've been talking about today
+813.733	is based on this philosophically
+813.733	charged principle of neuroscience
+818.41	that the mind, with its seemingly
+818.41	mysterious properties,
+822.528	is actually made of physical
+822.528	stuff that we can tinker with.
+826.173	SR: And for me personally,
+827.648	I see a world where we can reactivate
+829.434	any kind of memory that we'd like.
+831.345	I also see a world where we can
+831.345	erase unwanted memories.
+834.643	Now, I even see a world
+834.643	where editing memories
+836.81	is something of a reality,
+838.118	because we're living in a time
+838.118	where it's possible
+839.823	to pluck questions from the tree
+839.823	of science fiction
+842.276	and to ground them
+842.276	in experimental reality.
+844.468	XL: Nowadays, people in the lab
+846.351	and people in other
+846.351	groups all over the world
+848.737	are using similar methods
+848.737	to activate or edit memories,
+852.554	whether that's old or new,
+852.554	positive or negative,
+856.395	all sorts of memories so
+856.395	that we can understand
+859.067	how memory works.
+860.931	SR: For example, one group in our lab
+862.715	was able to find the brain cells
+862.715	that make up a fear memory
+865.353	and converted them into a pleasurable
+865.353	memory, just like that.
+868.128	That's exactly what I mean about editing
+868.128	these kinds of processes.
+871.295	Now one dude in lab
+871.295	was even able to reactivate
+873.558	memories of female mice in male mice,
+875.503	which rumor has it
+875.503	is a pleasurable experience.
+878.498	XL: Indeed, we are living
+878.498	in a very exciting moment
+882.615	where science doesn't have
+882.615	any arbitrary speed limits
+886.42	but is only bound by our own imagination.
+889.607	SR: And finally, what do
+889.607	we make of all this?
+891.774	How do we push this technology forward?
+893.725	These are the questions
+893.725	that should not remain
+895.94	just inside the lab,
+897.237	and so one goal of today's talk
+897.237	was to bring everybody
+899.833	up to speed with the kind
+899.833	of stuff that's possible
+902.238	in modern neuroscience,
+903.512	but now, just as importantly,
+905.022	to actively engage everybody
+905.022	in this conversation.
+908.354	So let's think together as a team
+908.354	about what this all means
+911.14	and where we can and should go from here,
+913.157	because Xu and I think we all have
+915.255	some really big decisions ahead of us.
+917.791	Thank you. XL: Thank you.
+918.916	(Applause)

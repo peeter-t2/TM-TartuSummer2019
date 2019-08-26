@@ -1,0 +1,406 @@
+startsecond	text
+16.246	I'm a process engineer, I know all about
+16.246	boilers and incinerators
+20.544	and fabric filters, and cyclones,
+20.544	and things like that.
+24.226	But I also have Marfan syndrome.
+26.282	This is an inherited disorder.
+28.181	And in 1992, I participated
+28.181	in a genetic study,
+32.376	and found to my horror,
+32.376	as you can see from the slide,
+35.834	that my ascending aorta
+35.834	was not in the normal range,
+39.635	the green line at the bottom.
+41.255	Everyone in here will be between 3.2-3.6,
+44.162	and I was already up at 4.4.
+46.726	And as you can see,
+46.726	my aorta dilated progressively,
+50.936	and I got closer and closer to the point
+50.936	where surgery was going to be necessary.
+55.976	The surgery on offer was pretty gruesome.
+59.217	Anesthetize you, open your chest,
+61.827	put you on an artificial
+61.827	heart and lung machine,
+64.7	drop your body temperature
+64.7	to about 18 centigrade,
+67.893	stop your heart, cut the aorta out,
+70.581	replace it with a plastic valve
+70.581	and a plastic aorta.
+74.333	And most importantly, commit you
+74.333	to a lifetime of anticoagulation therapy.
+79.364	Normally, warfarin.
+81.216	The thought of the surgery
+81.216	was not attractive.
+83.854	The thought of the warfarin
+83.854	was really quite frightening.
+88.295	So I said to myself,
+89.585	"""I'm an engineer, I'm in R&amp;D,"
+89.585	"this is just a plumbing problem."""
+93.04	"""I can do this, I can change this."""
+95.07	So I set out to change the entire
+95.07	treatment for aortic dilation.
+101.919	The project aim is really quite simple.
+105.856	The only real problem
+105.856	with the ascending aorta
+108.781	in people with Marfan syndrome
+110.366	is that it lacks some tensile strength.
+113.252	So, the possibility exists
+113.252	to simply externally wrap the pipe,
+118.875	and it would remain stable
+118.875	and operate quite happily.
+122.433	If your high-pressure hose pipe
+122.433	or hydraulic line bulges a little,
+127.128	you just wrap some tape around it,
+127.128	it really is that simple.
+130.652	In concept, though not in execution.
+134.498	The great advantage
+134.498	of an external support, for me,
+137.612	was that I could retain
+137.612	all of my own bits,
+140.325	all of my own endothelium and valves,
+142.641	and not need any anticoagulation therapy.
+147.001	So, where do we start?
+148.307	This is a sagittal slice through me.
+151.311	In the middle, you can see
+151.311	that little structure squeezing out,
+155.853	that's the left ventricle,
+157.364	pushing blood out
+157.364	through the aortic valve.
+160.209	You can see two of the leaflets
+160.209	of the aortic valve working there.
+163.4	Up into the ascending aorta.
+165.27	And it's that part, the ascending aorta,
+169.248	which dilates and ultimately bursts,
+169.248	which of course is fatal.
+174.57	We started by organizing image acquisition
+177.764	from magnetic resonance
+177.764	and CT imaging machines,
+182.848	from which to make a model
+182.848	of the patient's aorta.
+189.281	This is a model of my aorta.
+191.504	I've got a real one in my pocket,
+193.371	if anyone would like to look at it,
+193.371	and play with it.
+195.875	(Laughter)
+196.908	You can see it's quite
+196.908	a complex structure.
+198.997	It has a funny tri-lobal shape
+198.997	at the bottom,
+201.566	which contains the aortic valve.
+203.585	It then comes back into a round form,
+205.567	and then tapers and curves off.
+208.668	It's quite a difficult structure
+208.668	to produce.
+213.012	This is a sort of CAD model of me,
+214.825	and this is one of the later CAD models.
+216.765	We went through an iterative process
+216.765	of producing better and better models.
+221.025	When we produced that model,
+223.94	we turned it into a solid,
+223.94	plastic model, as you can see,
+228.239	using a rapid prototyping technique,
+228.239	another engineering technique.
+232.72	We then used that former
+234.06	to manufacture a perfectly bespoke
+234.06	porous textile mesh,
+238.731	which takes the shape of the former
+238.731	and perfectly fits the aorta.
+242.932	So this is absolutely personalized
+242.932	medicine at its best, really.
+247.224	Every patient we do
+247.224	has an absolutely bespoke implant.
+252.757	Once you've made it,
+252.757	the installation is quite easy.
+255.834	John Pepper, bless his heart,
+255.834	professor of cardiothoracic surgery.
+261.154	Never done it before in his life,
+261.154	he put the first one in, didn't like it,
+264.656	he put the second one in.
+266.047	Happy, away I went.
+267.345	Four and a half hours on the table,
+267.345	and everything was done.
+270.179	So the surgical implantation
+270.179	was actually the easiest part.
+274.005	If you compare our new treatment
+274.005	to the existing alternative,
+277.217	the composite aortic root graft,
+279.008	there are one or two startling comparisons
+281.387	which I'm sure will be
+281.387	clear to all of you.
+284.735	Two hours to install one of our devices,
+287.033	compared to 6 hours
+287.033	for the existing treatment.
+291.444	As I said, the existing treatment
+291.444	requires the heart-lung bypass machine,
+294.949	and it requires a total body cooling.
+296.765	We don't need any of that.
+296.765	We work on a beating heart.
+299.468	He opens you up,
+300.783	he accesses the aorta
+300.783	while your heart is beating,
+303.243	all at the right temperature.
+304.729	No breaking into your circulatory system.
+306.907	So it really is great.
+308.42	But for me, absolutely the best point is,
+311.783	there is no anticoagulation
+311.783	therapy required.
+314.671	I don't take any drugs at all,
+316.386	other than recreational ones
+316.386	that I would choose to take.
+319.147	(Laughter)
+320.524	And in fact, if you speak to people
+320.524	who are on long-term warfarin,
+323.78	it is a serious compromise
+323.78	to your quality of life,
+326.708	and even worse, it inevitably
+326.708	foreshortens your life.
+331.246	Likewise, if you have
+331.246	the artificial valve option,
+333.771	you're committed to antibiotic therapy
+335.605	whenever you have
+335.605	any intrusive medical treatment,
+338.696	even trips to the dentist
+338.696	require that you take antibiotics,
+341.653	in case you get an internal
+341.653	infection on the valve.
+344.512	Again, I don't have any of that,
+344.512	so I'm entirely free,
+347.531	my artery is fixed.
+349.452	I haven't got to worry about it,
+349.452	which is a rebirth for me.
+355.486	Back to the theme of the presentation,
+355.486	multidisciplinary research,
+358.607	how on earth does a process engineer
+358.607	used to working with boilers
+361.758	end up producing a medical device
+361.758	which transforms his own life?
+365.759	Well, the answer to that is,
+365.759	a multidisciplinary team.
+368.907	This is a list of the core team,
+371.643	and you can see there aren't only two
+371.643	principal technical disciplines there,
+376.89	medicine and engineering,
+378.182	but also, there are various specialists
+378.182	from within those two disciplines.
+382.739	John Pepper was the cardiac surgeon
+382.739	who did all the actual work on me.
+387.643	But everyone else had to contribute
+387.643	one way or another.
+390.987	Raad Mohiaddin, a medical radiologist.
+392.821	We had to get good-quality images
+392.821	from which to make the CAD model.
+396.894	Warren Thornton, who still does
+396.894	all our CAD models for us,
+399.741	had to write a bespoke piece of CAD code
+402.749	to produce this model from this
+402.749	really rather difficult input data set.
+409.861	There are some barriers to this, though,
+409.861	there are some problems.
+413.042	Jargon is a big one.
+414.319	I would think no one in this room
+414.319	understands the first four jargon points.
+419.905	The engineers amongst you will recognize
+419.905	"""rapid prototyping"" and ""CAD."""
+423.375	The medics amongst you, if there are any,
+423.375	will recognize the first two,
+426.733	but there will be nobody else here
+426.733	that understands all those four words.
+430.39	Taking the jargon out was very important
+432.434	to ensure that everyone in the team
+432.434	understood exactly what was meant
+436.615	when a particular phrase was used.
+439.289	Our disciplinary conventions
+439.289	were funny as well.
+441.845	We took a lot of horizontal slice
+441.845	images through me,
+444.904	produced those slices and used them
+444.904	to build a CAD model.
+448.842	And the very first CAD model we made,
+450.727	the surgeons were playing with it
+450.727	and couldn't quite figure it out.
+455.49	And then we realized that it was actually
+455.49	a mirror image of the real aorta.
+459.379	And it was a mirror image
+459.379	because in the real world,
+462.86	we always look down on plans,
+464.695	plans of houses, or streets, or maps.
+467.268	In the medical world,
+467.268	they look up at plans.
+470.449	So the horizontal images
+470.449	were all in inversion.
+473.951	So, one needs to be careful
+473.951	with disciplinary conventions.
+476.69	Everyone needs to understand
+476.69	what is assumed and what is not.
+482.092	Institutional barriers were
+482.092	another serious headache in the project.
+486.211	The Brompton Hospital was taken over
+488.324	by the Imperial College
+488.324	School of Medicine.
+490.614	And there are some seriously bad
+490.614	relationship problems
+494.281	between the two organizations.
+495.762	I was working with the Imperial
+495.762	and the Brompton,
+498.096	and this generated some serious
+498.096	problems for the project.
+500.791	Really, problems that shouldn't exist.
+503.847	Research &amp; Ethics Committee.
+505.27	If you want to do anything new in surgery,
+507.294	you have to get a license
+507.294	from your local Research &amp; Ethics.
+510.307	I'm sure it's the same in Poland.
+512.156	There will be some form of equivalent
+512.156	which licenses new types of surgery.
+517.608	We didn't only have the bureaucratic
+517.608	problems associated with that,
+520.775	we also had professional jealousies.
+522.886	There were people
+522.886	on the Research &amp; Ethics committee
+525.339	who really didn't want to see
+525.339	John Pepper succeed again.
+528.092	Because he is so successful.
+529.967	And they made extra problems for us.
+533.701	Bureaucratic problems.
+535.674	Ultimately, when you have a new treatment,
+538.352	you have to have a guidance note
+538.352	for all the hospitals in the country.
+542.393	In the UK, we have the National Institute
+542.393	and Clinical Excellence.
+546.037	You have an equivalent
+546.037	in Poland, no doubt.
+548.061	And we had to get past the NICE problem.
+551.37	We now have a great clinical
+551.37	guidance, out on the net.
+554.156	So any other hospitals interested
+554.156	can come along, read the NICE report,
+558.82	get in touch with us,
+558.82	and then get doing it themselves.
+564.026	Funding barriers, another big area
+564.026	to be concerned with.
+570.424	A big problem with understanding
+570.424	one of those perspectives.
+573.258	When we first approached one of the big,
+573.258	charitable UK organizations
+577.545	that fund this kind of stuff,
+579.082	we essentially gave them
+579.082	an engineering proposal.
+581.511	They didn't understand it,
+581.511	they were doctors, next to God,
+584.331	it must be rubbish, they binned it.
+586.205	So in the end, I went after
+586.205	private investors, just gave up on it.
+589.465	Most R&amp;D is going to be
+589.465	institutionally funded,
+592.719	by the Polish Academy of Sciences
+595.103	or the Engineering and Physical Sciences
+595.103	Research Council, or whatever.
+598.792	And you need to get past those people.
+601.009	Jargon is a huge problem
+601.009	when you try to work across disciplines,
+604.16	because in an engineering world,
+604.16	we all understand CAD and RP.
+607.831	Not in the medical world.
+610.009	I suppose the funding bureaucrats
+610.009	ultimately have to get their act together.
+613.605	They've really got to start
+613.605	talking to each other,
+615.981	and exercise a bit of imagination,
+615.981	if that's not too much to ask.
+619.361	(Laughter)
+620.596	Which it probably is.
+622.509	(Laughter)
+623.848	I've coined the phrase
+623.848	"""obstructive conservatism."""
+626.232	So many people in the medical world
+626.232	don't want to change.
+629.838	Particularly when some jumped-up engineer
+629.838	has come along with the answer.
+633.378	They don't want to change.
+634.789	They simply want to do
+634.789	whatever they've done before.
+637.242	And in fact, many surgeons
+637.242	in the UK are still waiting
+640.565	for one of our patients
+640.565	to have some sort of an episode,
+643.718	so that they could say,
+643.718	"""Told you that was no good."""
+646.397	We've actually got 30 patients.
+648.657	At seven and a half years,
+650.507	we've got 90 post-op
+650.507	patient years between us,
+652.696	and we haven't had a single problem.
+654.496	And still, there are people
+654.496	in the UK saying,
+656.658	"""That external aortic root,"
+656.658	"it will never work, you know."""
+659.787	It really is a problem.
+662.216	I'm sure everyone in this room
+662.216	has come across arrogance
+665.043	amongst medics, doctors,
+665.043	surgeons, at some point.
+668.835	The middle point is simply the way
+668.835	that the doctors protect themselves.
+673.223	"""Well, of course,"
+673.223	"I'm looking after my patient."""
+675.598	I think it's not good, but that's my view.
+679.999	Egos, of course, again a huge problem.
+682.122	If you work in a multidisciplinary team,
+684.084	you've got to give your guys
+684.084	the benefit of the doubt,
+686.913	you've got to express support for them.
+688.813	Tom Treasure, professor
+688.813	of cardiothoracic surgery.
+692.303	Incredible guy.
+693.548	Dead easy to give him respect.
+695.062	Him giving me respect? Slightly different.
+697.851	(Laughter)
+699.327	That's all the bad news.
+700.682	The good news is,
+700.682	the benefits are stonkingly huge.
+704.927	Translate that one! I bet they can't.
+707.06	(Laughter)
+708.728	When you have a group of people
+708.728	with different professional training,
+711.991	a different professional experience,
+713.916	they not only have a different
+713.916	knowledge base,
+716.089	but also a different perspective
+716.089	on everything.
+718.334	And if you can bring them together,
+720.059	and get them talking
+720.059	and understanding each other,
+722.895	the results can be spectacular.
+725.527	You can find really novel solutions
+725.527	that have never been looked at before,
+730.642	very quickly and easily.
+732.388	You can short-cut huge amounts of work
+735.681	simply by using the extended
+735.681	knowledge base you have.
+739.31	And as a result,
+739.31	it's an entirely different use
+744.106	of the technology
+744.106	and the knowledge around you.
+747.168	The result of all this is that you can get
+747.168	incredibly quick progress
+751.307	on incredibly small budgets.
+753.8	I'm so embarrassed at how cheap
+753.8	it was to get from my idea
+757.697	to me being implanted
+759.055	that I'm not prepared
+759.055	to tell you what it cost,
+761.339	because I suspect there are
+761.339	absolutely standard surgical treatments,
+765.628	probably in the USA,
+766.998	which cost more for a one-off patient
+771.814	than the cost of us getting from
+771.814	my dream to my reality.
+776.715	That's all I want to say,
+776.715	and I've got three minutes left.
+779.501	So, Ewa's going to like me.
+781.399	If you have any questions,
+781.399	please come up and talk to me later on,
+784.519	it would be a pleasure to speak with you.
+786.652	Many thanks.
+787.684	(Applause)

@@ -1,0 +1,474 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.648	As it turns out, when tens of millions
+15.648	of people are unemployed
+19.252	or underemployed,
+20.81	there's a fair amount of interest
+20.81	in what technology might be doing
+24	to the labor force.
+25.186	And as I look at the conversation,
+27.099	it strikes me that it's focused
+27.099	on exactly the right topic,
+30.803	and at the same time,
+30.803	it's missing the point entirely.
+33.652	The topic that it's focused on,
+35.217	the question is whether or not all these
+35.217	digital technologies are affecting
+39.724	people's ability to earn a living,
+41.765	or, to say it a little bit different way,
+43.774	are the droids taking our jobs?
+45.887	And there's some evidence that they are.
+47.848	The Great Recession ended
+47.848	when American GDP resumed
+51.917	its kind of slow, steady march upward,
+54.808	and some other economic indicators
+54.808	also started to rebound,
+58.102	and they got kind of healthy
+58.102	kind of quickly.
+60.419	Corporate profits are quite high;
+62.61	in fact, if you include bank profits,
+64.53	they're higher than they've ever been.
+66.545	And business investment
+66.545	in gear -- in equipment
+70.056	and hardware and software --
+70.056	is at an all-time high.
+72.924	So the businesses are getting
+72.924	out their checkbooks.
+76.263	What they're not really doing is hiring.
+78.661	So this red line
+79.836	is the employment-to-population ratio,
+82.398	in other words, the percentage
+82.398	of working-age people in America
+86.551	who have work.
+87.961	And we see that it cratered
+87.961	during the Great Recession,
+91.091	and it hasn't started
+91.091	to bounce back at all.
+94.012	But the story is not
+94.012	just a recession story.
+96.955	The decade that we've
+96.955	just been through had
+99.059	relatively anemic job growth
+99.059	all throughout,
+102.296	especially when we compare it
+102.296	to other decades,
+104.943	and the 2000s are the only time
+104.943	we have on record
+107.997	where there were fewer people working
+107.997	at the end of the decade
+111.553	than at the beginning.
+112.979	This is not what you want to see.
+114.984	When you graph the number
+114.984	of potential employees
+118.391	versus the number of jobs in the country,
+120.971	you see the gap gets bigger
+120.971	and bigger over time,
+124.845	and then, during the Great Recession,
+124.845	it opened up in a huge way.
+128.179	I did some quick calculations.
+129.663	I took the last 20 years of GDP growth
+132.119	and the last 20 years
+132.119	of labor-productivity growth
+135.415	and used those in a fairly
+135.415	straightforward way
+138.157	to try to project how many jobs
+138.157	the economy was going to need
+141.204	to keep growing,
+142.531	and this is the line that I came up with.
+144.68	Is that good or bad?
+146.446	This is the government's projection
+148.381	for the working-age
+148.381	population going forward.
+151.741	So if these predictions are accurate,
+151.741	that gap is not going to close.
+156.863	The problem is, I don't think
+156.863	these projections are accurate.
+159.913	In particular, I think my projection
+159.913	is way too optimistic,
+163.416	because when I did it,
+164.887	I was assuming that the future
+164.887	was kind of going to look like the past,
+169.129	with labor productivity growth,
+170.822	and that's actually not what I believe.
+172.717	Because when I look around,
+174.09	I think that we ain't seen nothing yet
+176.334	when it comes to technology's
+176.334	impact on the labor force.
+179.962	Just in the past couple years,
+179.962	we've seen digital tools
+183.957	display skills and abilities
+183.957	that they never, ever had before,
+188.214	and that kind of eat deeply
+188.214	into what we human beings
+191.748	do for a living.
+193.054	Let me give you a couple examples.
+195.004	Throughout all of history,
+196.28	if you wanted something translated
+196.28	from one language into another,
+199.854	you had to involve a human being.
+201.93	Now we have multi-language, instantaneous,
+205.082	automatic translation services
+205.082	available for free
+209.526	via many of our devices,
+209.526	all the way down to smartphones.
+212.693	And if any of us have used these,
+214.513	we know that they're not perfect,
+214.513	but they're decent.
+218.54	Throughout all of history,
+218.54	if you wanted something written,
+221.536	a report or an article,
+221.536	you had to involve a person.
+225.418	Not anymore.
+226.595	This is an article that appeared
+226.595	in Forbes online a while back,
+229.592	about Apple's earnings.
+230.792	It was written by an algorithm.
+232.98	And it's not decent -- it's perfect.
+237.009	A lot of people look at this and they say,
+239.062	"""OK, but those are very"
+239.062	specific, narrow tasks,
+241.391	and most knowledge workers
+241.391	are actually generalists.
+244.326	And what they do is sit on top of a very
+244.326	large body of expertise and knowledge
+248.542	and they use that to react on the fly
+248.542	to kind of unpredictable demands,
+252.363	"and that's very, very hard to automate."""
+255.063	One of the most impressive
+255.063	knowledge workers in recent memory
+257.992	is a guy named Ken Jennings.
+259.537	He won the quiz show
+259.537	"""Jeopardy!"" 74 times in a row."
+264.87	Took home three million dollars.
+267.084	That's Ken on the right,
+267.084	getting beat three-to-one
+270.879	by Watson, the Jeopardy-playing
+270.879	supercomputer from IBM.
+275.902	So when we look at what technology can do
+275.902	to general knowledge workers,
+279.441	I start to think there might not be
+279.441	something so special
+282.543	about this idea of a generalist,
+284.335	particularly when we start doing things
+284.335	like hooking Siri up to Watson,
+288.689	and having technologies
+288.689	that can understand what we're saying
+291.982	and repeat speech back to us.
+293.99	Now, Siri is far from perfect,
+293.99	and we can make fun of her flaws,
+297.917	but we should also keep in mind
+299.44	that if technologies like Siri and Watson
+299.44	improve along a Moore's law trajectory,
+304.828	which they will,
+306.374	in six years, they're not going to be two
+306.374	times better or four times better,
+309.988	they'll be 16 times better
+309.988	than they are right now.
+313.482	So I start to think a lot of knowledge
+313.482	work is going to be affected by this.
+317.352	And digital technologies are not
+317.352	just impacting knowledge work,
+321.112	they're starting to flex their muscles
+321.112	in the physical world as well.
+324.875	I had the chance a little while back
+324.875	to ride in the Google autonomous car,
+328.624	which is as cool as it sounds.
+330.925	(Laughter)
+333.137	And I will vouch that it handled
+333.137	the stop-and-go traffic on US 101
+337.582	very smoothly.
+338.859	There are about three and a half million
+338.859	people who drive trucks for a living
+342.534	in the United States;
+343.709	I think some of them are going
+343.709	to be affected by this technology.
+346.801	And right now, humanoid robots
+346.801	are still incredibly primitive.
+349.925	They can't do very much.
+351.906	But they're getting better quite quickly
+353.902	and DARPA, which is the investment arm
+353.902	of the Defense Department,
+357.463	is trying to accelerate their trajectory.
+359.464	So, in short, yeah, the droids
+359.464	are coming for our jobs.
+365.105	In the short term, we can
+365.105	stimulate job growth
+368.021	by encouraging entrepreneurship
+370.182	and by investing in infrastructure,
+372.12	because the robots today
+372.12	still aren't very good at fixing bridges.
+375.682	But in the not-too-long-term,
+377.604	I think within the lifetimes
+377.604	of most of the people in this room,
+381.53	we're going to transition into an economy
+381.53	that is very productive,
+385.102	but that just doesn't need
+385.102	a lot of human workers.
+388.02	And managing that transition
+388.02	is going to be the greatest challenge
+391.156	that our society faces.
+392.718	Voltaire summarized why; he said,
+394.692	"""Work saves us from three great evils:"
+394.692	"boredom, vice and need."""
+400.43	But despite this challenge --
+402.511	personally, I'm still
+402.511	a huge digital optimist,
+405.447	and I am supremely confident
+407.675	that the digital technologies
+407.675	that we're developing now
+410.287	are going to take us
+410.287	into a Utopian future,
+412.961	not a dystopian future.
+414.697	And to explain why,
+415.872	I want to pose a ridiculously
+415.872	broad question.
+418.475	I want to ask:
+419.65	what have been the most important
+419.65	developments in human history?
+423.02	Now, I want to share some
+423.02	of the answers that I've gotten
+426.005	in response to this question.
+427.426	It's a wonderful question to ask
+427.426	and start an endless debate about,
+430.618	because some people are going to bring up
+432.616	systems of philosophy
+432.616	in both the West and the East
+435.94	that have changed how a lot
+435.94	of people think about the world.
+439.187	And then other people will say,
+440.704	"""No, actually, the big stories,"
+440.704	the big developments
+443.189	are the founding
+443.189	of the world's major religions,
+445.796	which have changed civilizations
+445.796	and have changed and influenced
+449.046	how countless people
+449.046	"are living their lives."""
+451.664	And then some other folk will say,
+453.385	"""Actually, what changes civilizations,"
+455.799	what modifies them and what changes
+455.799	people's lives are empires,
+460.608	so the great developments in human history
+463.037	"are stories of conquest and of war."""
+465.823	And then some cheery soul
+465.823	usually always pipes up and says,
+468.628	"""Hey, don't forget about plagues!"""
+470.334	(Laughter)
+474.267	There are some optimistic
+474.267	answers to this question,
+476.814	so some people will bring up
+476.814	the Age of Exploration
+479.252	and the opening up of the world.
+480.821	Others will talk about intellectual
+480.821	achievements in disciplines like math
+484.623	that have helped us get
+484.623	a better handle on the world,
+487.141	and other folk will talk about periods
+487.141	when there was a deep flourishing
+490.605	of the arts and sciences.
+492.234	So this debate will go on and on.
+493.845	It's an endless debate
+495.33	and there's no conclusive,
+495.33	single answer to it.
+498.587	But if you're a geek like me,
+500.128	"you say, ""Well, what do the data say?"""
+502.833	And you start to do things
+504.189	like graph things
+504.189	that we might be interested in --
+506.897	the total worldwide
+506.897	population, for example,
+510	or some measure of social development
+512.389	or the state of advancement of a society.
+514.901	And you start to plot the data,
+514.901	because, by this approach,
+519.048	the big stories, the big
+519.048	developments in human history,
+521.677	are the ones that will bend
+521.677	these curves a lot.
+524.211	So when you do this
+524.211	and when you plot the data,
+526.455	you pretty quickly come
+526.455	to some weird conclusions.
+529.171	You conclude, actually,
+530.591	that none of these things
+530.591	have mattered very much.
+533.178	(Laughter)
+537.24	They haven't done
+537.24	a darn thing to the curves.
+540.617	There has been one story,
+540.617	one development in human history
+545.331	that bent the curve,
+545.331	bent it just about 90 degrees,
+548.564	and it is a technology story.
+551.223	The steam engine and the other
+551.223	associated technologies
+554.017	of the Industrial Revolution
+556.072	changed the world and influenced
+556.072	human history so much,
+559.372	that in the words
+559.372	of the historian Ian Morris,
+561.798	"""... they made mockery out of all"
+561.798	"that had come before."""
+565.613	And they did this by infinitely
+565.613	multiplying the power of our muscles,
+569.164	overcoming the limitations of our muscles.
+571.582	Now, what we're in the middle of now
+574.104	is overcoming the limitations
+574.104	of our individual brains
+577.161	and infinitely multiplying
+577.161	our mental power.
+580.096	How can this not be as big a deal
+583.297	as overcoming the limitations
+583.297	of our muscles?
+586.025	So at the risk of repeating
+586.025	myself a little bit,
+588.909	when I look at what's going on
+588.909	with digital technology these days,
+592.686	we are not anywhere near
+592.686	through with this journey.
+595.82	And when I look at what is happening
+595.82	to our economies and our societies,
+599.35	my single conclusion is that
+599.35	we ain't seen nothing yet.
+602.463	The best days are really ahead.
+604.213	Let me give you a couple examples.
+606.238	Economies don't run on energy.
+608.635	They don't run on capital,
+608.635	they don't run on labor.
+611.698	Economies run on ideas.
+614.127	So the work of innovation,
+614.127	the work of coming up with new ideas,
+617.492	is some of the most powerful, most
+617.492	fundamental work that we can do
+621.214	in an economy.
+622.389	And this is kind of how
+622.389	we used to do innovation.
+625.531	We'd find a bunch of fairly
+625.531	similar-looking people ...
+628.531	(Laughter)
+632.051	We'd take them out of elite institutions,
+634.068	we'd put them into other
+634.068	elite institutions
+636.171	and we'd wait for the innovation.
+637.781	Now --
+638.974	(Laughter)
+641.427	as a white guy who spent
+641.427	his whole career at MIT and Harvard,
+644.939	I've got no problem with this.
+646.989	(Laughter)
+650.605	But some other people do,
+651.836	and they've kind of crashed the party
+653.645	and loosened up
+653.645	the dress code of innovation.
+655.814	(Laughter)
+656.87	So here are the winners of a Topcoder
+656.87	programming challenge,
+660.094	and I assure you that nobody cares
+662.81	where these kids grew up,
+662.81	where they went to school,
+666.59	or what they look like.
+668.114	All anyone cares about is the quality
+668.114	of the work, the quality of the ideas.
+671.981	And over and over again,
+671.981	we see this happening
+674.241	in the technology-facilitated world.
+676.789	The work of innovation
+676.789	is becoming more open,
+679.31	more inclusive, more transparent
+679.31	and more merit-based,
+682.983	and that's going to continue no matter
+682.983	what MIT and Harvard think of it,
+686.705	and I couldn't be happier
+686.705	about that development.
+689.609	I hear once in a while,
+689.609	"""OK, I'll grant you that,"
+692.088	but technology is still a tool
+692.088	for the rich world,
+695.131	and what's not happening,
+696.554	these digital tools are not
+696.554	improving the lives
+699.189	"of people at the bottom of the pyramid."""
+701.362	And I want to say to that
+701.362	very clearly: nonsense.
+704.052	The bottom of the pyramid is benefiting
+704.052	hugely from technology.
+707.569	The economist Robert Jensen
+707.569	did this wonderful study a while back
+711.153	where he watched, in great detail,
+713.11	what happened to the fishing
+713.11	villages of Kerala, India,
+716.752	when they got mobile phones
+716.752	for the very first time.
+719.657	And when you write for the Quarterly
+719.657	Journal of Economics,
+722.49	you have to use very dry
+722.49	and very circumspect language.
+725.396	But when I read his paper,
+726.682	I kind of feel Jensen
+726.682	is trying to scream at us
+728.913	"and say, ""Look, this was a big deal."
+731.261	Prices stabilized, so people
+731.261	could plan their economic lives.
+734.936	Waste was not reduced --
+734.936	it was eliminated.
+739.007	And the lives of both
+739.007	the buyers and the sellers
+741.272	"in these villages measurably improved."""
+744.073	Now, what I don't think
+744.073	is that Jensen got extremely lucky
+747.887	and happened to land
+747.887	in the one set of villages
+750.122	where technology made things better.
+752.455	What happened instead
+752.455	is he very carefully documented
+755.126	what happens over and over again
+755.126	when technology comes for the first time
+759.229	to an environment and a community:
+761.19	the lives of people, the welfares
+761.19	of people, improve dramatically.
+765.051	So as I look around at all the evidence
+766.956	and I think about the room
+766.956	that we have ahead of us,
+769.417	I become a huge digital optimist
+771.269	and I start to think that this wonderful
+771.269	statement from the physicist Freeman Dyson
+775.869	is actually not hyperbole.
+777.631	This is an accurate assessment
+777.631	of what's going on.
+780.164	Our technologies are great gifts,
+782.886	and we, right now,
+782.886	have the great good fortune
+785.957	to be living at a time when
+785.957	digital technology is flourishing,
+789.711	when it is broadening and deepening
+789.711	and becoming more profound
+793.13	all around the world.
+794.432	So, yeah, the droids are taking our jobs,
+797.731	but focusing on that fact
+797.731	misses the point entirely.
+801.326	The point is that then we
+801.326	are freed up to do other things,
+804.85	and what we're going to do,
+804.85	I am very confident,
+807.161	what we're going to do is reduce poverty
+809.701	and drudgery and misery around the world.
+812.194	I'm very confident we're going to learn
+812.194	to live more lightly on the planet,
+816.223	and I am extremely confident
+816.223	that what we're going to do
+819.672	with our new digital tools
+821.071	is going to be so profound
+821.071	and so beneficial
+824.087	that it's going to make a mockery
+824.087	out of everything that came before.
+827.595	I'm going to leave the last word
+829.175	to a guy who had a front-row seat
+829.175	for digital progress,
+831.853	our old friend Ken Jennings.
+833.449	I'm with him; I'm going to echo his words:
+835.716	"""I, for one, welcome our new"
+835.716	"computer overlords."""
+838.656	(Laughter)
+839.761	Thanks very much.
+841.269	(Applause)

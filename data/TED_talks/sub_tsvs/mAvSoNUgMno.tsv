@@ -1,0 +1,210 @@
+startsecond	text
+12.984	My job at Twitter
+14.275	is to ensure user trust,
+16.253	protect user rights and keep users safe,
+19.09	both from each other
+20.35	and, at times, from themselves.
+24.249	Let's talk about what scale looks like at Twitter.
+28.524	Back in January 2009,
+31.394	we saw more than two million new tweets each day
+34.725	on the platform.
+36.489	January 2014, more than 500 million.
+42.397	We were seeing two million tweets
+44.889	in less than six minutes.
+47.065	That's a 24,900-percent increase.
+54.049	Now, the vast majority of activity on Twitter
+57.302	puts no one in harm's way.
+58.805	There's no risk involved.
+60.74	My job is to root out and prevent activity that might.
+66.493	Sounds straightforward, right?
+68.466	You might even think it'd be easy,
+69.618	given that I just said the vast majority
+71.788	of activity on Twitter puts no one in harm's way.
+75.598	Why spend so much time
+77.767	searching for potential calamities
+80.51	in innocuous activities?
+83.41	Given the scale that Twitter is at,
+86.35	a one-in-a-million chance happens
+93.583	It's the same for other companies
+95.028	dealing at this sort of scale.
+96.499	For us, edge cases,
+98.207	those rare situations that are unlikely to occur,
+101.832	are more like norms.
+104.454	Say 99.999 percent of tweets
+108.396	pose no risk to anyone.
+110.284	There's no threat involved.
+111.35	Maybe people are documenting travel landmarks
+114.304	like Australia's Heart Reef,
+116.267	or tweeting about a concert they're attending,
+119.188	or sharing pictures of cute baby animals.
+123.935	After you take out that 99.999 percent,
+128.444	that tiny percentage of tweets remaining
+131.973	works out to roughly
+137.837	The sheer scale of what we're dealing with
+140.293	makes for a challenge.
+142.605	You know what else makes my role
+143.783	particularly challenging?
+146.89	People do weird things.
+152.013	(Laughter)
+153.842	And I have to figure out what they're doing,
+156.233	why, and whether or not there's risk involved,
+158.482	often without much in terms of context
+160.65	or background.
+162.497	I'm going to show you some examples
+164.574	that I've run into during my time at Twitter --
+166.579	these are all real examples —
+168.199	of situations that at first seemed cut and dried,
+170.852	but the truth of the matter was something
+172.495	altogether different.
+174.045	The details have been changed
+176.022	to protect the innocent
+177.279	and sometimes the guilty.
+180.512	We'll start off easy.
+183.517	"[""Yo bitch""]"
+185.31	If you saw a Tweet that only said this,
+188.538	you might think to yourself,
+190.232	"""That looks like abuse."""
+191.885	After all, why would you
+191.885	want to receive the message,
+194.992	"""Yo, bitch."""
+197.21	Now, I try to stay relatively hip
+201.873	to the latest trends and memes,
+204.385	"so I knew that ""yo, bitch"""
+207.089	was also often a common greeting between friends,
+210.243	"as well as being a popular ""Breaking Bad"" reference."
+214.505	I will admit that I did not expect
+216.992	to encounter a fourth use case.
+219.833	It turns out it is also used on Twitter
+222.937	when people are role-playing as dogs.
+225.999	(Laughter)
+231.278	And in fact, in that case,
+232.944	it's not only not abusive,
+234.553	it's technically just an accurate greeting.
+237.692	(Laughter)
+240.581	So okay, determining whether or not
+242.652	something is abusive without context,
+244.5	definitely hard.
+246.092	Let's look at spam.
+248.809	Here's an example of an account engaged
+250.769	in classic spammer behavior,
+252.437	sending the exact same message
+253.996	to thousands of people.
+255.8	While this is a mockup I put
+255.8	together using my account,
+258.593	we see accounts doing this all the time.
+261.594	Seems pretty straightforward.
+263.573	We should just automatically suspend accounts
+265.626	engaging in this kind of behavior.
+268.933	Turns out there's some exceptions to that rule.
+272.143	Turns out that that message
+272.143	could also be a notification
+275.026	you signed up for that the International
+275.026	Space Station is passing overhead
+278.915	because you wanted to go outside
+280.761	and see if you could see it.
+282.709	You're not going to get that chance
+283.934	if we mistakenly suspend the account
+285.781	thinking it's spam.
+288.047	Okay. Let's make the stakes higher.
+291.573	Back to my account,
+293.489	again exhibiting classic behavior.
+296.994	This time it's sending the same message and link.
+299.637	This is often indicative of 
+299.637	something called phishing,
+302.411	somebody trying to steal another
+302.411	person's account information
+305.589	by directing them to another website.
+307.792	That's pretty clearly not a good thing.
+311.986	We want to, and do, suspend accounts
+313.916	engaging in that kind of behavior.
+316.54	So why are the stakes higher for this?
+319.787	Well, this could also be a bystander at a rally
+322.786	who managed to record a video
+324.696	of a police officer beating a non-violent protester
+327.966	who's trying to let the world know what's happening.
+330.941	We don't want to gamble
+332.584	on potentially silencing that crucial speech
+335.101	by classifying it as spam and suspending it.
+338.03	That means we evaluate hundreds of parameters
+340.909	when looking at account behaviors,
+342.597	and even then, we can still get it wrong
+344.613	and have to reevaluate.
+346.849	Now, given the sorts of challenges I'm up against,
+350.557	it's crucial that I not only predict
+353.253	but also design protections for the unexpected.
+357.037	And that's not just an issue for me,
+359.379	or for Twitter, it's an issue for you.
+361.466	It's an issue for anybody who's building or creating
+363.872	something that you think is going to be amazing
+365.797	and will let people do awesome things.
+368.586	So what do I do?
+371.452	I pause and I think,
+374.77	how could all of this
+376.865	go horribly wrong?
+380.658	I visualize catastrophe.
+385.111	And that's hard. There's a sort of
+387.574	inherent cognitive dissonance in doing that,
+390.422	like when you're writing your wedding vows
+392.234	at the same time as your prenuptial agreement.
+394.88	(Laughter)
+396.576	But you still have to do it,
+398.949	particularly if you're marrying 
+403.395	"What do I mean by ""visualize catastrophe?"""
+406.492	I try to think of how something as
+409.254	benign and innocuous as a picture of a cat
+412.482	could lead to death,
+413.586	and what to do to prevent that.
+415.912	Which happens to be my next example.
+418.295	This is my cat, Eli.
+421.405	We wanted to give users the ability
+423.386	to add photos to their tweets.
+425.459	A picture is worth a thousand words.
+427.056	You only get 140 characters.
+429.065	You add a photo to your tweet,
+430.265	look at how much more content you've got now.
+433.303	There's all sorts of great things you can do
+434.98	by adding a photo to a tweet.
+436.987	My job isn't to think of those.
+439.267	It's to think of what could go wrong.
+442.014	How could this picture
+443.906	lead to my death?
+447.445	Well, here's one possibility.
+450.605	There's more in that picture than just a cat.
+453.691	There's geodata.
+455.783	When you take a picture with your smartphone
+457.995	or digital camera,
+459.294	there's a lot of additional information
+460.948	saved along in that image.
+462.564	In fact, this image also contains
+464.496	the equivalent of this,
+466.301	more specifically, this.
+469.38	Sure, it's not likely that someone's going to try
+471.336	to track me down and do me harm
+473.621	based upon image data associated
+475.405	with a picture I took of my cat,
+477.353	but I start by assuming the worst will happen.
+481.004	That's why, when we launched photos on Twitter,
+483.342	we made the decision to strip that geodata out.
+487.163	(Applause)
+493.01	If I start by assuming the worst
+495.623	and work backwards,
+496.57	I can make sure that the protections we build
+499.123	work for both expected
+500.891	and unexpected use cases.
+502.969	Given that I spend my days and nights
+505.914	imagining the worst that could happen,
+508.455	it wouldn't be surprising if 
+508.455	my worldview was gloomy.
+512.712	(Laughter)
+514.495	It's not.
+515.912	The vast majority of interactions I see --
+519.788	and I see a lot, believe me -- are positive,
+523.689	people reaching out to help
+525.613	or to connect or share information with each other.
+529.061	It's just that for those of us dealing with scale,
+532.384	for those of us tasked with keeping people safe,
+536.184	we have to assume the worst will happen,
+538.73	because for us, a one-in-a-million chance
+542.957	is pretty good odds.
+545.706	Thank you.
+547.57	(Applause)

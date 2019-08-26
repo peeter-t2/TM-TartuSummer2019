@@ -1,0 +1,472 @@
+startsecond	text
+0	Translator: Morton Bast
+0	Reviewer: Thu-Huong Ha
+12.539	I know this is going to sound strange,
+15.382	but I think robots can inspire us
+15.382	to be better humans.
+21.245	See, I grew up in Bethlehem, Pennsylvania,
+24.363	the home of Bethlehem Steel.
+26.991	My father was an engineer,
+29.127	and when I was growing up,
+29.127	he would teach me how things worked.
+33.47	We would build projects together,
+35.588	like model rockets and slot cars.
+38.732	Here's the go-kart that we built together.
+42.208	That's me behind the wheel,
+43.976	with my sister and my best
+43.976	friend at the time.
+47.875	And one day,
+49.825	he came home, when I was
+49.825	about 10 years old,
+52.932	and at the dinner table, he announced
+55.582	that for our next project, 
+55.582	we were going to build ...
+59.318	a robot.
+61.604	A robot.
+63.12	Now, I was thrilled about this,
+65.207	because at school,
+65.207	there was a bully named Kevin,
+69.033	and he was picking on me,
+70.946	because I was the only
+70.946	Jewish kid in class.
+73.91	So I couldn't wait to get
+73.91	started to work on this,
+76.307	so I could introduce Kevin to my robot.
+78.941	(Laughter)
+79.995	(Robot noises)
+89.552	(Laughter)
+90.968	But that wasn't the kind of robot
+90.968	my dad had in mind.
+94.841	(Laughter)
+95.933	See, he owned a chromium-plating company,
+99.589	and they had to move heavy steel parts
+99.589	between tanks of chemicals.
+105.486	And so he needed
+105.486	an industrial robot like this,
+108.883	that could basically do the heavy lifting.
+111.684	But my dad didn't get
+111.684	the kind of robot he wanted, either.
+115.87	He and I worked on it for several years,
+118.324	but it was the 1970s, and the technology
+118.324	that was available to amateurs
+123.093	just wasn't there yet.
+125.992	So Dad continued to do
+125.992	this kind of work by hand.
+129.595	And a few years later,
+131.73	he was diagnosed with cancer.
+135.822	You see,
+137.416	what the robot we were trying
+137.416	to build was telling him
+140.036	was not about doing the heavy lifting.
+142.216	It was a warning
+143.391	about his exposure to the toxic chemicals.
+147.184	He didn't recognize that at the time,
+149.501	and he contracted leukemia.
+151.827	And he died at the age of 45.
+155.354	I was devastated by this.
+157.703	And I never forgot the robot
+157.703	that he and I tried to build.
+162.195	When I was at college, I decided
+162.195	to study engineering, like him.
+167.081	And I went to Carnegie Mellon,
+167.081	and I earned my PhD in robotics.
+171.653	I've been studying robots ever since.
+174.721	So what I'd like to tell you about
+174.721	are four robot projects,
+179.34	and how they've inspired me
+179.34	to be a better human.
+186.206	By 1993, I was a young professor at USC,
+191.844	and I was just building up
+191.844	my own robotics lab,
+194.686	and this was the year
+194.686	the World Wide Web came out.
+198.487	And I remember my students
+198.487	were the ones who told me about it,
+201.496	and we would -- we were just amazed.
+203.837	We started playing with this,
+203.837	and that afternoon,
+207.244	we realized that we could use
+207.244	this new, universal interface
+211.546	to allow anyone in the world
+211.546	to operate the robot in our lab.
+217.339	So, rather than have it fight
+217.339	or do industrial work,
+222.413	we decided to build a planter,
+224.967	put the robot into the center of it,
+226.942	and we called it the Telegarden.
+229.736	And we had put a camera
+229.736	in the gripper of the hand of the robot,
+234.277	and we wrote some
+234.277	special scripts and software,
+237.232	so that anyone in the world could come in,
+239.29	and by clicking on the screen,
+241.098	they could move the robot around
+241.098	and visit the garden.
+245.416	But we also set up some other software
+249.291	that lets you participate
+249.291	and help us water the garden, remotely.
+253.643	And if you watered it a few times,
+255.956	we'd give you your own seed to plant.
+259.167	Now, this was an engineering project,
+262.667	and we published some papers
+262.667	on the system design of it,
+266.803	but we also thought of it
+266.803	as an art installation.
+270.638	It was invited, after the first year,
+272.811	by the Ars Electronica Museum in Austria,
+275.855	to have it installed in their lobby.
+279.558	And I'm happy to say, it remained
+279.558	online there, 24 hours a day,
+283.569	for almost nine years.
+286.369	That robot was operated by more people
+290.168	than any other robot in history.
+293.303	Now, one day,
+294.954	I got a call out of the blue
+294.954	from a student,
+299.211	who asked a very simple
+299.211	but profound question.
+304.361	"He said, ""Is the robot real?"""
+308.599	Now, everyone else had assumed it was,
+310.909	and we knew it was,
+310.909	because we were working with it.
+313.449	But I knew what he meant,
+314.871	because it would be possible
+316.337	to take a bunch of pictures
+316.337	of flowers in a garden
+319.146	and then, basically, index them
+319.146	in a computer system,
+322.809	such that it would appear
+322.809	that there was a real robot,
+325.46	when there wasn't.
+327.088	And the more I thought about it,
+328.636	I couldn't think of a good answer
+328.636	for how he could tell the difference.
+332.628	This was right about the time
+332.628	that I was offered a position
+335.449	here at Berkeley.
+336.774	And when I got here,
+338.443	I looked up Hubert Dreyfus,
+340.829	who's a world-renowned
+340.829	professor of philosophy,
+344.582	And I talked with him
+344.582	about this and he said,
+347.336	"""This is one of the oldest"
+347.336	and most central problems in philosophy.
+351.462	It goes back to the Skeptics
+351.462	and up through Descartes.
+355.503	It's the issue of epistemology,
+358.709	the study of how do we know
+358.709	"that something is true."""
+362.625	So he and I started working together,
+364.649	and we coined a new term:
+364.649	"""telepistemology,"""
+368.757	the study of knowledge at a distance.
+371.303	We invited leading artists,
+371.303	engineers and philosophers
+375.818	to write essays about this,
+377.161	and the results are collected
+377.161	in this book from MIT Press.
+381.959	So thanks to this student,
+384.079	who questioned what everyone else
+384.079	had assumed to be true,
+387.422	this project taught me
+387.422	an important lesson about life,
+391.423	which is to always question assumptions.
+395.807	Now, the second project
+395.807	I'll tell you about
+398.007	grew out of the Telegarden.
+400.023	As it was operating, my students
+400.023	and I were very interested
+402.868	in how people were interacting
+402.868	with each other,
+405.233	and what they were doing with the garden.
+407.314	So we started thinking:
+408.489	what if the robot could leave the garden
+410.481	and go out into some other
+410.481	interesting environment?
+413.319	Like, for example,
+413.319	what if it could go to a dinner party
+416.084	at the White House?
+417.569	(Laughter)
+420.401	So, because we were interested
+420.401	more in the system design
+423.994	and the user interface
+423.994	than in the hardware,
+426.961	we decided that,
+428.136	rather than have a robot replace
+428.136	the human to go to the party,
+432.647	we'd have a human replace the robot.
+435.679	We called it the Tele-Actor.
+437.978	We got a human,
+440.01	someone who's very
+440.01	outgoing and gregarious,
+443.142	and she was outfitted with a helmet
+443.142	with various equipment,
+447.421	cameras and microphones,
+448.729	and then a backpack with wireless
+448.729	Internet connection.
+452.882	And the idea was that she could go
+455.05	into a remote and interesting environment,
+457.524	and then over the Internet,
+459.565	people could experience
+459.565	what she was experiencing.
+462.736	So they could see what she was seeing,
+465.731	but then, more importantly,
+465.731	they could participate,
+469.038	by interacting with each other
+469.038	and coming up with ideas
+473.812	about what she should do next
+473.812	and where she should go,
+477.805	and then conveying those
+477.805	to the Tele-Actor.
+481.069	So we got a chance to take the Tele-Actor
+483.514	to the Webby Awards in San Francisco.
+487.129	And that year, Sam Donaldson was the host.
+492.29	Just before the curtain went
+492.29	up, I had about 30 seconds
+495.004	to explain to Mr. Donaldson
+495.004	what we were going to do.
+500.119	"And I said, ""The Tele-Actor"
+500.119	is going to be joining you onstage.
+503.66	This is a new experimental project,
+506.038	and people are watching her
+506.038	on their screens,
+508.657	there's cameras involved
+508.657	and there's microphones
+511.972	and she's got an earbud in her ear,
+513.782	and people over the network
+513.782	are giving her advice
+516.123	"about what to do next."""
+517.305	"And he said, ""Wait a second."
+519.806	"That's what I do."""
+521.003	(Laughter)
+526.004	So he loved the concept,
+527.9	and when the Tele-Actor walked onstage,
+527.9	she walked right up to him,
+532.177	and she gave him a big kiss
+532.177	right on the lips.
+534.66	(Laughter)
+536.636	We were totally surprised --
+536.636	we had no idea that would happen.
+539.582	And he was great, he just gave her
+539.582	a big hug in return,
+542.224	and it worked out great.
+543.905	But that night, as we were packing up,
+545.969	I asked the Tele-Actor,
+545.969	how did the Tele-Directors decide
+550.548	that they would give
+550.548	a kiss to Sam Donaldson?
+555.135	And she said they hadn't.
+557.274	She said, when she was
+557.274	just about to walk onstage,
+559.916	the Tele-Directors still were trying
+559.916	to agree on what to do,
+562.914	and so she just walked onstage
+562.914	and did what felt most natural.
+566.038	(Laughter)
+570.576	So, the success
+570.576	of the Tele-Actor that night
+573.692	was due to the fact
+573.692	that she was a wonderful actor.
+577.969	She knew when to trust her instincts.
+580.422	And so that project taught me
+580.422	another lesson about life,
+584.375	which is that, when in doubt, improvise.
+588.046	(Laughter)
+590.664	Now, the third project
+590.664	grew out of my experience
+595.607	when my father was in the hospital.
+599.284	He was undergoing a treatment --
+599.284	chemotherapy treatments --
+602.661	and there's a related treatment
+602.661	called brachytherapy,
+606.955	where tiny, radioactive seeds
+606.955	are placed into the body
+610.767	to treat cancerous tumors.
+613.572	And the way it's done,
+613.572	as you can see here,
+615.867	is that surgeons
+615.867	insert needles into the body
+620.258	to deliver the seeds.
+621.974	And all these needles
+621.974	are inserted in parallel.
+626.445	So it's very common that some
+626.445	of the needles penetrate sensitive organs.
+632.635	And as a result, the needles damage
+632.635	these organs, cause damage,
+639.632	which leads to trauma and side effects.
+642.581	So my students and I wondered:
+644.249	what if we could modify the system,
+648.795	so that the needles
+648.795	could come in at different angles?
+652.395	So we simulated this;
+654.262	we developed some optimization
+654.262	algorithms and we simulated this.
+657.731	And we were able to show
+658.906	that we are able to avoid
+658.906	the delicate organs,
+661.492	and yet still achieve the coverage
+661.492	of the tumors with the radiation.
+667.313	So now, we're working with doctors at UCSF
+670.811	and engineers at Johns Hopkins,
+673.102	and we're building a robot
+673.102	that has a number of --
+677.088	it's a specialized design
+677.088	with different joints
+679.711	that can allow the needles to come in
+679.711	at an infinite variety of angles.
+684.483	And as you can see here,
+684.483	they can avoid delicate organs
+688.229	and still reach the targets
+688.229	they're aiming for.
+692.019	So, by questioning this assumption
+692.019	that all the needles have to be parallel,
+697.028	this project also taught me
+697.028	an important lesson:
+700.114	When in doubt, when your path
+700.114	is blocked, pivot.
+705.797	And the last project
+705.797	also has to do with medical robotics.
+710.187	And this is something
+710.187	that's grown out of a system
+713.781	called the da Vinci surgical robot.
+717.866	And this is a commercially
+717.866	available device.
+720.334	It's being used in over 2,000
+720.334	hospitals around the world.
+724.013	The idea is it allows the surgeon
+724.013	to operate comfortably
+728.41	in his own coordinate frame.
+732.762	Many of the subtasks in surgery are very
+732.762	routine and tedious, like suturing,
+738.555	and currently, all of these are performed
+740.846	under the specific and immediate
+740.846	control of the surgeon.
+745.374	So the surgeon becomes fatigued over time.
+748.086	And we've been wondering,
+749.546	what if we could program the robot
+749.546	to perform some of these subtasks,
+753.941	and thereby free the surgeon
+755.346	to focus on the more complicated
+755.346	parts of the surgery,
+758.605	and also cut down on the time
+758.605	that the surgery would take
+761.429	if we could get the robot
+761.429	to do them a little bit faster?
+764.958	Now, it's hard to program a robot
+764.958	to do delicate things like this.
+768.943	But it turns out my colleague
+768.943	Pieter Abbeel, who's here at Berkeley,
+773.173	has developed a new set of techniques
+773.173	for teaching robots from example.
+779.17	So he's gotten robots to fly helicopters,
+781.937	do incredibly interesting,
+781.937	beautiful acrobatics,
+785.215	by watching human experts fly them.
+788.152	So we got one of these robots.
+790.082	We started working with Pieter
+790.082	and his students.
+792.646	And we asked a surgeon
+792.646	to perform a task --
+798.761	with the robot.
+799.936	So what we're doing is asking
+799.936	the surgeon to perform the task,
+802.985	and we record the motions of the robot.
+805.045	So here's an example.
+806.495	I'll use tracing out
+806.495	a figure eight as an example.
+810.17	So here's what it looks like
+810.17	when the robot --
+813.828	this is what the robot's path
+813.828	looks like, those three examples.
+816.92	Now, those are much better
+816.92	than what a novice like me could do,
+821.08	but they're still jerky and imprecise.
+823.798	So we record all these examples, the data,
+826.763	and then go through a sequence of steps.
+830.278	First, we use a technique
+830.278	called dynamic time warping
+833.428	from speech recognition.
+834.942	And this allows us to temporally
+834.942	align all of the examples.
+838.918	And then we apply Kalman filtering,
+838.918	a technique from control theory,
+844.144	that allows us to statistically
+844.144	analyze all the noise
+847.137	and extract the desired
+847.137	trajectory that underlies them.
+853.283	Now we take those human demonstrations --
+855.857	they're all noisy and imperfect --
+857.556	and we extract from them
+857.556	an inferred task trajectory
+860.178	and control sequence for the robot.
+863.181	We then execute that on the robot,
+865.521	we observe what happens,
+867.57	then we adjust the controls,
+868.951	using a sequence of techniques
+868.951	called iterative learning.
+873.129	Then what we do is we increase
+873.129	the velocity a little bit.
+877.244	We observe the results,
+877.244	adjust the controls again,
+881.34	and observe what happens.
+883.136	And we go through this several rounds.
+885.327	And here's the result.
+886.968	That's the inferred task trajectory,
+888.73	and here's the robot
+888.73	moving at the speed of the human.
+891.975	Here's four times the speed of the human.
+894.477	Here's seven times.
+897.004	And here's the robot operating
+897.004	at 10 times the speed of the human.
+902.762	So we're able to get a robot
+902.762	to perform a delicate task
+905.687	like a surgical subtask,
+909.081	at 10 times the speed of a human.
+912.185	So this project also,
+914.469	because of its involved
+914.469	practicing and learning,
+917.018	doing something over and over again,
+918.804	this project also has a lesson, which is:
+921.405	if you want to do something well,
+925.084	there's no substitute
+925.084	for practice, practice, practice.
+933.186	So these are four of the lessons
+933.186	that I've learned from robots
+936.697	over the years.
+939.312	And the field of robotics
+939.312	has gotten much better over time.
+946.319	Nowadays, high school students
+946.319	can build robots,
+948.619	like the industrial robot
+948.619	my dad and I tried to build.
+952.675	But, it's very -- now ...
+955.954	And now, I have a daughter,
+959.857	named Odessa.
+961.673	She's eight years old.
+963.682	And she likes robots, too.
+965.97	Maybe it runs in the family.
+967.39	(Laughter)
+968.654	I wish she could meet my dad.
+972.303	And now I get to teach her
+972.303	how things work,
+975.067	and we get to build projects together.
+977.321	And I wonder what kind of lessons
+977.321	she'll learn from them.
+982.147	Robots are the most human of our machines.
+986.983	They can't solve all
+986.983	of the world's problems,
+989.961	but I think they have something
+989.961	important to teach us.
+994.276	I invite all of you
+996.301	to think about the innovations
+996.301	that you're interested in,
+1000.712	the machines that you wish for.
+1003.66	And think about
+1003.66	what they might be telling you.
+1007.211	Because I have a hunch that many
+1007.211	of our technological innovations,
+1010.98	the devices we dream about,
+1014.166	can inspire us to be better humans.
+1017.984	Thank you.
+1019.159	(Applause)

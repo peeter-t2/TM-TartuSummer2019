@@ -1,0 +1,1150 @@
+startsecond	text
+12.34	Chris Anderson:
+12.34	Elon, hey, welcome back to TED.
+15.38	It's great to have you here.
+16.78	Elon Musk: Thanks for having me.
+18.38	CA: So, in the next half hour or so,
+21.26	we're going to spend some time
+23.1	exploring your vision for what
+23.1	an exciting future might look like,
+27.02	which I guess makes
+27.02	the first question a little ironic:
+31.14	Why are you boring?
+32.9	EM: Yeah.
+34.14	I ask myself that frequently.
+39.06	We're trying to dig a hole under LA,
+43.22	and this is to create the beginning
+46.42	of what will hopefully
+46.42	be a 3D network of tunnels
+51.34	to alleviate congestion.
+53.58	So right now, one of the most
+53.58	soul-destroying things is traffic.
+59.14	It affects people
+59.14	in every part of the world.
+62.02	It takes away so much of your life.
+65.86	It's horrible.
+67.86	It's particularly horrible in LA.
+69.5	(Laughter)
+72.18	CA: I think you've brought with you
+74.14	the first visualization
+74.14	that's been shown of this.
+76.62	Can I show this?
+77.98	EM: Yeah, absolutely.
+77.98	So this is the first time --
+80.7	Just to show what we're talking about.
+82.58	So a couple of key things
+82.58	that are important
+84.74	in having a 3D tunnel network.
+88.66	First of all, you have to be able
+90.3	to integrate the entrance
+90.3	and exit of the tunnel
+92.58	seamlessly into the fabric of the city.
+94.66	So by having an elevator,
+98.34	sort of a car skate,
+98.34	that's on an elevator,
+103.14	you can integrate the entrance
+103.14	and exits to the tunnel network
+107.1	just by using two parking spaces.
+110.66	And then the car gets on a skate.
+112.78	There's no speed limit here,
+114.18	so we're designing this to be able
+114.18	to operate at 200 kilometers an hour.
+119.22	CA: How much?
+120.46	EM: 200 kilometers an hour,
+120.46	or about 130 miles per hour.
+124.62	So you should be able
+124.62	to get from, say, Westwood to LAX
+130.86	in six minutes -- five, six minutes.
+133.14	(Applause)
+137.5	CA: So possibly, initially done,
+139.1	it's like on a sort
+139.1	of toll road-type basis.
+141.42	EM: Yeah.
+142.66	CA: Which, I guess,
+142.66	alleviates some traffic
+144.74	from the surface streets as well.
+146.46	EM: So, I don't know
+146.46	if people noticed it in the video,
+149.1	but there's no real limit
+149.1	to how many levels of tunnel you can have.
+154.26	You can go much further deep
+154.26	than you can go up.
+157.1	The deepest mines are much deeper
+157.1	than the tallest buildings are tall,
+161.3	so you can alleviate any arbitrary
+161.3	level of urban congestion
+166.58	with a 3D tunnel network.
+167.9	This is a very important point.
+169.46	So a key rebuttal to the tunnels
+169.46	is that if you add one layer of tunnels,
+175.86	that will simply alleviate congestion,
+175.86	it will get used up,
+178.66	and then you'll be back where you started,
+178.66	back with congestion.
+181.98	But you can go to any
+181.98	arbitrary number of tunnels,
+184.42	any number of levels.
+185.78	CA: But people -- seen traditionally,
+185.78	it's incredibly expensive to dig,
+189.34	and that would block this idea.
+191.14	EM: Yeah.
+192.86	Well, they're right.
+194.1	To give you an example,
+194.1	the LA subway extension,
+197.9	which is -- I think it's
+197.9	a two-and-a-half mile extension
+201.58	that was just completed
+201.58	for two billion dollars.
+203.843	So it's roughly a billion dollars a mile
+203.843	to do the subway extension in LA.
+209.26	And this is not the highest
+209.26	utility subway in the world.
+213.26	So yeah, it's quite difficult
+213.26	to dig tunnels normally.
+217.78	I think we need to have
+217.78	at least a tenfold improvement
+220.98	in the cost per mile of tunneling.
+223.98	CA: And how could you achieve that?
+228.06	EM: Actually, if you just do two things,
+230.14	you can get to approximately
+230.14	an order of magnitude improvement,
+233.5	and I think you can go beyond that.
+235.7	So the first thing to do
+235.7	is to cut the tunnel diameter
+239.98	by a factor of two or more.
+241.62	So a single road lane tunnel
+241.62	according to regulations
+245.62	has to be 26 feet,
+245.62	maybe 28 feet in diameter
+248.5	to allow for crashes
+248.5	and emergency vehicles
+251.7	and sufficient ventilation
+251.7	for combustion engine cars.
+255.98	But if you shrink that diameter
+255.98	to what we're attempting,
+259.58	which is 12 feet, which is plenty
+259.58	to get an electric skate through,
+263.26	you drop the diameter by a factor of two
+266.5	and the cross-sectional area
+266.5	by a factor of four,
+270.42	and the tunneling cost scales
+270.42	with the cross-sectional area.
+273.3	So that's roughly a half-order
+273.3	of magnitude improvement right there.
+276.54	Then tunneling machines currently tunnel
+276.54	for half the time, then they stop,
+281.46	and then the rest of the time
+281.46	is putting in reinforcements
+284.66	for the tunnel wall.
+285.98	So if you design the machine instead
+288.22	to do continuous
+288.22	tunneling and reinforcing,
+290.58	that will give you
+290.58	a factor of two improvement.
+292.82	Combine that and that's a factor of eight.
+295.06	Also these machines are far from being
+295.06	at their power or thermal limits,
+299.74	so you can jack up the power
+299.74	to the machine substantially.
+302.82	I think you can get
+302.82	at least a factor of two,
+304.98	maybe a factor of four or five
+304.98	improvement on top of that.
+309.18	So I think there's a fairly
+309.18	straightforward series of steps
+313.42	to get somewhere in excess
+313.42	of an order of magnitude improvement
+316.42	in the cost per mile,
+318.18	and our target actually is --
+321.14	we've got a pet snail called Gary,
+323.98	this is from Gary the snail
+323.98	"from ""South Park,"""
+326.54	"I mean, sorry, ""SpongeBob SquarePants."""
+329.5	(Laughter)
+331.1	So Gary is capable of --
+335.54	currently he's capable
+335.54	of going 14 times faster
+339.66	than a tunnel-boring machine.
+341.46	(Laughter)
+344.26	CA: You want to beat Gary.
+346.06	EM: We want to beat Gary.
+347.38	(Laughter)
+348.94	He's not a patient little fellow,
+351.18	and that will be victory.
+354.3	Victory is beating the snail.
+357.1	CA: But a lot of people imagining,
+357.1	dreaming about future cities,
+360.18	they imagine that actually
+360.18	the solution is flying cars, drones, etc.
+364.1	You go aboveground.
+366.34	Why isn't that a better solution?
+368.18	You save all that tunneling cost.
+370.18	EM: Right. I'm in favor of flying things.
+372.42	Obviously, I do rockets,
+372.42	so I like things that fly.
+376.3	This is not some inherent bias
+376.3	against flying things,
+379.26	but there is a challenge with flying cars
+382.34	in that they'll be quite noisy,
+385.66	the wind force generated
+385.66	will be very high.
+391.82	Let's just say that if something's
+391.82	flying over your head,
+394.54	a whole bunch of flying cars
+394.54	going all over the place,
+398.26	that is not an anxiety-reducing situation.
+402.9	(Laughter)
+405.02	You don't think to yourself,
+405.02	"""Well, I feel better about today."""
+410.34	You're thinking,
+410.34	"""Did they service their hubcap,"
+412.98	or is it going to come off
+412.98	"and guillotine me?"""
+415.9	Things like that.
+420.14	CA: So you've got this vision
+421.74	of future cities with these rich,
+421.74	3D networks of tunnels underneath.
+427.06	Is there a tie-in here with Hyperloop?
+429.1	Could you apply these tunnels
+429.1	to use for this Hyperloop idea
+432.66	you released a few years ago.
+434.66	EM: Yeah, so we've been
+434.66	sort of puttering around
+437.9	with the Hyperloop stuff for a while.
+440.54	We built a Hyperloop test track
+440.54	adjacent to SpaceX,
+444.38	just for a student competition,
+446.54	to encourage innovative
+446.54	ideas in transport.
+449.58	And it actually ends up being
+449.58	the biggest vacuum chamber in the world
+454.62	after the Large Hadron Collider,
+457.62	by volume.
+461.14	So it was quite fun to do that,
+461.14	but it was kind of a hobby thing,
+466.62	and then we think we might --
+470.34	so we've built a little pusher car
+470.34	to push the student pods,
+476.26	but we're going to try seeing
+476.26	how fast we can make the pusher go
+480.22	if it's not pushing something.
+482.54	So we're cautiously optimistic
+484.9	we'll be able to be faster
+484.9	than the world's fastest bullet train
+489.94	even in a .8-mile stretch.
+492.22	CA: Whoa. Good brakes.
+494.78	EM: Yeah, I mean, it's -- yeah.
+497.06	It's either going to smash
+497.06	into tiny pieces or go quite fast.
+501.7	CA: But you can picture,
+501.7	then, a Hyperloop in a tunnel
+505.3	running quite long distances.
+507.14	EM: Exactly.
+508.86	And looking at tunneling technology,
+510.66	it turns out that
+510.66	in order to make a tunnel,
+513.22	you have to --
+516.14	In order to seal against the water table,
+518.54	you've got to typically design
+518.54	a tunnel wall to be good
+523.22	to about five or six atmospheres.
+526.979	So to go to vacuum is only one atmosphere,
+530.02	or near-vacuum.
+531.46	So actually, it sort of turns out
+531.46	that automatically,
+535.9	if you build a tunnel that is good enough
+535.9	to resist the water table,
+539.9	it is automatically
+539.9	capable of holding vacuum.
+542.34	CA: Huh.
+543.98	EM: So, yeah.
+545.54	CA: And so you could actually picture,
+547.42	what kind of length tunnel
+547.42	is in Elon's future to running Hyperloop?
+553.14	EM: I think there's no real length limit.
+556.38	You could dig as much as you want.
+559.42	I think if you were to do something
+561.66	like a DC-to-New York Hyperloop,
+566.86	I think you'd probably want
+566.86	to go underground the entire way
+569.74	because it's a high-density area.
+571.38	You're going under
+571.38	a lot of buildings and houses,
+575.46	and if you go deep enough,
+577.02	you cannot detect the tunnel.
+579.42	Sometimes people think,
+579.42	well, it's going to be pretty annoying
+582.38	to have a tunnel dug under my house.
+584.26	Like, if that tunnel is dug
+585.62	more than about three or four
+585.62	tunnel diameters beneath your house,
+588.82	you will not be able
+588.82	to detect it being dug at all.
+592.7	In fact, if you're able
+592.7	to detect the tunnel being dug,
+599.42	whatever device you are using,
+601.06	you can get a lot of money
+601.06	for that device from the Israeli military,
+604.35	who is trying to detect
+604.35	tunnels from Hamas,
+607.456	and from the US Customs and Border patrol
+607.456	that try and detect drug tunnels.
+612.26	So the reality is
+615.5	that earth is incredibly good
+615.5	at absorbing vibrations,
+619.38	and once the tunnel depth
+619.38	is below a certain level,
+622.38	it is undetectable.
+624.38	Maybe if you have a very sensitive
+624.38	seismic instrument,
+626.98	you might be able to detect it.
+629.1	CA: So you've started
+629.1	a new company to do this
+631.5	called The Boring Company.
+633.22	Very nice. Very funny.
+635.18	(Laughter)
+636.58	EM: What's funny about that?
+638.1	(Laughter)
+640.74	CA: How much of your time is this?
+643.42	EM: It's maybe ...
+647.5	two or three percent.
+649.26	CA: You've bought a hobby.
+650.58	This is what an Elon Musk
+650.58	hobby looks like.
+653.34	(Laughter)
+654.38	EM: I mean, it really is, like --
+656.86	This is basically interns
+656.86	and people doing it part time.
+663.14	We bought some second-hand machinery.
+667.86	It's kind of puttering along,
+667.86	but it's making good progress, so --
+671.82	CA: So an even bigger part of your time
+673.74	is being spent on electrifying
+673.74	cars and transport through Tesla.
+679.26	Is one of the motivations
+679.26	for the tunneling project
+681.86	the realization that actually,
+684.42	in a world where cars are electric
+684.42	and where they're self-driving,
+687.86	there may end up being
+687.86	more cars on the roads
+691.42	on any given hour than there are now?
+693.82	EM: Yeah, exactly.
+697.86	A lot of people think
+697.86	that when you make cars autonomous,
+702.18	they'll be able to go faster
+702.18	and that will alleviate congestion.
+706.82	And to some degree that will be true,
+708.74	but once you have shared autonomy
+708.74	where it's much cheaper to go by car
+713.82	and you can go point to point,
+716.78	the affordability of going in a car
+716.78	will be better than that of a bus.
+721.94	Like, it will cost less than a bus ticket.
+724.18	So the amount of driving that will occur
+724.18	will be much greater with shared autonomy,
+729.26	and actually traffic will get far worse.
+732.14	CA: You started Tesla
+732.14	with the goal of persuading the world
+736.42	that electrification
+736.42	was the future of cars,
+739.58	and a few years ago,
+739.58	people were laughing at you.
+741.98	Now, not so much.
+744.46	EM: OK.
+745.7	(Laughter)
+747.66	I don't know. I don't know.
+749.9	CA: But isn't it true that pretty much
+749.9	every auto manufacturer
+753.34	has announced
+753.34	serious electrification plans
+756.38	for the short- to medium-term future?
+759.82	EM: Yeah. Yeah.
+763.1	I think almost every automaker
+763.1	has some electric vehicle program.
+768.1	They vary in seriousness.
+769.38	Some are very serious
+769.38	about transitioning entirely to electric,
+773.7	and some are just dabbling in it.
+777.1	And some, amazingly,
+777.1	are still pursuing fuel cells,
+779.54	but I think that won't last much longer.
+781.7	CA: But isn't there a sense, though, Elon,
+783.78	where you can now just declare victory
+783.78	"and say, you know, ""We did it."""
+787.5	Let the world electrify,
+787.5	and you go on and focus on other stuff?
+793.34	EM: Yeah.
+796.14	I intend to stay with Tesla
+796.14	as far into the future as I can imagine,
+800.74	and there are a lot of exciting
+800.74	things that we have coming.
+805.42	Obviously the Model 3 is coming soon.
+807.62	We'll be unveiling the Tesla Semi truck.
+811.94	CA: OK, we're going to come to this.
+813.9	So Model 3, it's supposed
+813.9	to be coming in July-ish.
+818.9	EM: Yeah, it's looking quite good
+818.9	for starting production in July.
+823.46	CA: Wow.
+824.86	One of the things
+824.86	that people are so excited about
+827.26	is the fact that it's got autopilot.
+830.5	And you put out this video a while back
+832.86	showing what that technology
+832.86	would look like.
+838.22	EM: Yeah.
+839.46	CA: There's obviously autopilot
+839.46	in Model S right now.
+841.99	What are we seeing here?
+843.38	EM: Yeah, so this is using
+843.38	only cameras and GPS.
+849.42	So there's no LIDAR
+849.42	or radar being used here.
+851.94	This is just using passive optical,
+851.94	which is essentially what a person uses.
+857.02	The whole road system
+857.02	is meant to be navigated
+859.54	with passive optical, or cameras,
+863.62	and so once you solve cameras
+866.98	or vision,
+869.54	then autonomy is solved.
+871.06	If you don't solve vision,
+871.06	it's not solved.
+873.94	So that's why our focus is
+873.94	so heavily on having a vision neural net
+879.98	that's very effective for road conditions.
+883.22	CA: Right. Many other people
+883.22	are going the LIDAR route.
+885.86	You want cameras plus radar is most of it.
+888.74	EM: You can absolutely
+888.74	be superhuman with just cameras.
+892.14	Like, you can probably do it
+892.14	ten times better than humans would,
+895.18	just cameras.
+896.46	CA: So the new cars being sold right now
+896.46	have eight cameras in them.
+900.94	They can't yet do what that showed.
+905.3	When will they be able to?
+908.26	EM: I think we're still on track
+908.26	for being able to go cross-country
+914.02	from LA to New York by the end
+914.02	of the year, fully autonomous.
+918.22	CA: OK, so by the end
+918.22	of the year, you're saying,
+922.02	someone's going to sit in a Tesla
+922.02	without touching the steering wheel,
+926.02	"tap in ""New York,"" off it goes."
+928.54	EM: Yeah.
+929.78	CA: Won't ever have to touch the wheel --
+929.78	by the end of 2017.
+934.1	EM: Yeah. Essentially,
+934.1	November or December of this year,
+938.74	we should be able to go all the way
+938.74	from a parking lot in California
+943.18	to a parking lot in New York,
+944.86	no controls touched at any point
+944.86	during the entire journey.
+948.62	(Applause)
+950.66	CA: Amazing.
+951.9	But part of that is possible
+953.34	because you've already got a fleet
+953.34	of Teslas driving all these roads.
+956.78	You're accumulating a huge amount
+956.78	of data of that national road system.
+963.26	EM: Yes, but the thing
+963.26	that will be interesting
+965.94	is that I'm actually fairly confident
+965.94	it will be able to do that route
+972.78	even if you change the route dynamically.
+976.66	So, it's fairly easy --
+979.86	If you say I'm going to be really good
+979.86	at one specific route, that's one thing,
+983.62	but it should be able to go,
+983.62	really be very good,
+988.78	certainly once you enter a highway,
+990.54	to go anywhere on the highway system
+993.34	in a given country.
+995.86	So it's not sort of limited
+995.86	to LA to New York.
+998.18	We could change it
+998.18	and make it Seattle-Florida,
+1001.66	that day, in real time.
+1004.22	So you were going from LA to New York.
+1006.38	Now go from LA to Toronto.
+1010.14	CA: So leaving aside
+1010.14	regulation for a second,
+1012.9	in terms of the technology alone,
+1015.7	the time when someone
+1015.7	will be able to buy one of your cars
+1019.54	and literally just take the hands
+1019.54	off the wheel and go to sleep
+1023.38	and wake up and find that they've arrived,
+1025.46	how far away is that, to do that safely?
+1027.42	EM: I think that's about two years.
+1029.7	So the real trick of it
+1029.7	is not how do you make it work
+1033.1	say 99.9 percent of the time,
+1036.06	because, like, if a car crashes
+1036.06	one in a thousand times,
+1040.179	then you're probably still not going
+1040.179	to be comfortable falling asleep.
+1047.34	You shouldn't be, certainly.
+1048.9	(Laughter)
+1051.86	It's never going to be perfect.
+1054.78	No system is going to be perfect,
+1056.54	but if you say it's perhaps --
+1060.34	the car is unlikely to crash
+1062.78	in a hundred lifetimes,
+1062.78	or a thousand lifetimes,
+1066.26	then people are like, OK, wow,
+1066.26	if I were to live a thousand lives,
+1070.18	I would still most likely
+1070.18	never experience a crash,
+1072.82	then that's probably OK.
+1074.22	CA: To sleep.
+1075.46	I guess the big concern of yours
+1075.46	is that people may actually
+1078.34	get seduced too early
+1078.34	to think that this is safe,
+1080.65	and that you'll have some horrible
+1080.65	incident happen that puts things back.
+1085.22	EM: Well, I think that the autonomy system
+1085.22	is likely to at least mitigate the crash,
+1091.26	except in rare circumstances.
+1094.1	The thing to appreciate
+1094.1	about vehicle safety
+1096.42	is this is probabilistic.
+1100.74	I mean, there's some chance that any time
+1100.74	a human driver gets in a car,
+1104.22	that they will have an accident
+1104.22	that is their fault.
+1107.18	It's never zero.
+1109.26	So really the key threshold for autonomy
+1113.66	is how much better does autonomy
+1113.66	need to be than a person
+1118.1	before you can rely on it?
+1119.5	CA: But once you get
+1119.5	literally safe hands-off driving,
+1122.94	the power to disrupt
+1122.94	the whole industry seems massive,
+1125.78	because at that point you've spoken
+1125.78	of people being able to buy a car,
+1130.18	drops you off at work,
+1130.18	and then you let it go
+1132.34	and provide a sort of Uber-like
+1132.34	service to other people,
+1136.34	earn you money,
+1137.58	maybe even cover the cost
+1137.58	of your lease of that car,
+1140.06	so you can kind of get a car for free.
+1141.94	Is that really likely?
+1143.22	EM: Yeah. Absolutely
+1143.22	this is what will happen.
+1146.1	So there will be a shared autonomy fleet
+1148.1	where you buy your car
+1149.38	and you can choose
+1149.38	to use that car exclusively,
+1152.82	you could choose to have it be used
+1152.82	only by friends and family,
+1156.54	only by other drivers
+1156.54	who are rated five star,
+1161.62	you can choose to share it sometimes
+1161.62	but not other times.
+1167.94	That's 100 percent what will occur.
+1171.26	It's just a question of when.
+1173.78	CA: Wow.
+1175.02	So you mentioned the Semi
+1177.26	and I think you're planning
+1177.26	to announce this in September,
+1180.02	but I'm curious whether there's
+1180.02	anything you could show us today?
+1183.14	EM: I will show you
+1183.14	a teaser shot of the truck.
+1187.02	(Laughter)
+1189.54	It's alive.
+1191.5	CA: OK.
+1192.74	EM: That's definitely a case
+1192.74	where we want to be cautious
+1195.46	about the autonomy features.
+1198.18	Yeah.
+1199.42	(Laughter)
+1201.06	CA: We can't see that much of it,
+1202.7	but it doesn't look like
+1202.7	just a little friendly neighborhood truck.
+1205.94	It looks kind of badass.
+1207.22	What sort of semi is this?
+1210.98	EM: So this is a heavy duty,
+1210.98	long-range semitruck.
+1215.58	So it's the highest weight capability
+1219.86	and with long range.
+1222.94	So essentially it's meant to alleviate
+1222.94	the heavy-duty trucking loads.
+1229.1	And this is something which
+1229.1	people do not today think is possible.
+1234.42	They think the truck doesn't have enough
+1234.42	power or it doesn't have enough range,
+1238.18	and then with the Tesla Semi
+1240.74	we want to show that no, an electric truck
+1243.42	actually can out-torque any diesel semi.
+1249.46	And if you had a tug-of-war competition,
+1253.62	the Tesla Semi
+1253.62	will tug the diesel semi uphill.
+1258.7	(Laughter)
+1260.98	(Applause)
+1262.86	CA: That's pretty cool.
+1262.86	And short term, these aren't driverless.
+1265.9	These are going to be trucks
+1265.9	that truck drivers want to drive.
+1270.3	EM: Yes. So what will be
+1270.3	really fun about this
+1272.94	is you have a flat torque RPM curve
+1272.94	with an electric motor,
+1278.34	whereas with a diesel motor or any kind
+1278.34	of internal combustion engine car,
+1281.86	you've got a torque RPM curve
+1281.86	that looks like a hill.
+1285.66	So this will be a very spry truck.
+1288.62	You can drive this
+1288.62	around like a sports car.
+1291.5	There's no gears.
+1291.5	It's, like, single speed.
+1293.9	CA: There's a great movie
+1293.9	to be made here somewhere.
+1296.38	I don't know what it is
+1296.38	and I don't know that it ends well,
+1299.18	but it's a great movie.
+1300.42	(Laughter)
+1301.46	EM: It's quite bizarre test-driving.
+1304.22	When I was driving the test prototype
+1304.22	for the first truck.
+1308.26	It's really weird,
+1308.26	because you're driving around
+1310.54	and you're just so nimble,
+1310.54	and you're in this giant truck.
+1313.66	CA: Wait, you've
+1313.66	already driven a prototype?
+1317.18	EM: Yeah, I drove it
+1317.18	around the parking lot,
+1319.3	and I was like, this is crazy.
+1320.78	CA: Wow. This is no vaporware.
+1322.98	EM: It's just like,
+1322.98	driving this giant truck
+1325.1	and making these mad maneuvers.
+1327.1	CA: This is cool.
+1327.1	OK, from a really badass picture
+1329.58	to a kind of less badass picture.
+1332.22	This is just a cute house
+1332.22	"from ""Desperate Housewives"" or something."
+1335.58	What on earth is going on here?
+1338.66	EM: Well, this illustrates
+1338.66	the picture of the future
+1341.14	that I think is how things will evolve.
+1344.14	You've got an electric car
+1344.14	in the driveway.
+1346.5	If you look in between
+1346.5	the electric car and the house,
+1350.26	there are actually three Powerwalls
+1350.26	stacked up against the side of the house,
+1354.14	and then that house roof is a solar roof.
+1356.98	So that's an actual solar glass roof.
+1359.1	CA: OK.
+1360.34	EM: That's a picture of a real --
+1360.34	well, admittedly, it's a real fake house.
+1364.62	That's a real fake house.
+1366.3	(Laughter)
+1369.42	CA: So these roof tiles,
+1371.3	some of them have in them
+1371.3	basically solar power, the ability to --
+1377.46	EM: Yeah. Solar glass tiles
+1379.18	where you can adjust
+1379.18	the texture and the color
+1384.3	to a very fine-grained level,
+1386.3	and then there's
+1386.3	sort of microlouvers in the glass,
+1391.9	such that when you're looking
+1391.9	at the roof from street level
+1395.38	or close to street level,
+1397.1	all the tiles look the same
+1399.5	whether there is a solar cell
+1399.5	behind it or not.
+1405.82	So you have an even color
+1409.26	from the ground level.
+1412.78	If you were to look at it
+1412.78	from a helicopter,
+1414.9	you would be actually able
+1414.9	to look through and see
+1417.3	that some of the glass tiles have
+1417.3	a solar cell behind them and some do not.
+1421.34	You can't tell from street level.
+1422.98	CA: You put them in the ones
+1422.98	that are likely to see a lot of sun,
+1426.06	and that makes these roofs
+1426.06	super affordable, right?
+1428.46	They're not that much more expensive
+1428.46	than just tiling the roof.
+1431.46	EM: Yeah.
+1433.66	We're very confident
+1433.66	that the cost of the roof
+1437.66	plus the cost of electricity --
+1441.74	A solar glass roof will be less
+1441.74	than the cost of a normal roof
+1444.7	plus the cost of electricity.
+1446.14	So in other words,
+1447.42	this will be economically a no-brainer,
+1451.78	we think it will look great,
+1453.5	and it will last --
+1455.66	We thought about having
+1455.66	the warranty be infinity,
+1458.74	but then people thought,
+1459.98	well, that might sound
+1459.98	like were just talking rubbish,
+1462.58	but actually this is toughened glass.
+1468.22	Well after the house has collapsed
+1471.14	and there's nothing there,
+1473.06	the glass tiles will still be there.
+1476.62	(Applause)
+1478.22	CA: I mean, this is cool.
+1479.98	So you're rolling this out
+1479.98	in a couple week's time, I think,
+1482.86	with four different roofing types.
+1485.42	EM: Yeah, we're starting off
+1485.42	with two, two initially,
+1487.98	and the second two
+1487.98	will be introduced early next year.
+1491.18	CA: And what's the scale of ambition here?
+1493.26	How many houses do you believe
+1493.26	could end up having this type of roofing?
+1499.58	EM: I think eventually
+1502.38	almost all houses will have a solar roof.
+1507.7	The thing is to consider
+1507.7	the time scale here
+1511.26	to be probably on the order
+1513.74	of 40 or 50 years.
+1516.94	So on average, a roof
+1516.94	is replaced every 20 to 25 years.
+1523.22	But you don't start replacing
+1523.22	all roofs immediately.
+1526.58	But eventually,
+1526.58	if you say were to fast-forward
+1529.94	to say 15 years from now,
+1533.42	it will be unusual to have a roof
+1533.42	that does not have solar.
+1537.66	CA: Is there a mental model thing
+1537.66	that people don't get here
+1540.54	that because of the shift in the cost,
+1540.54	the economics of solar power,
+1544.98	most houses actually have
+1544.98	enough sunlight on their roof
+1549.1	pretty much to power all of their needs.
+1551.18	If you could capture the power,
+1553.1	it could pretty much
+1553.1	power all their needs.
+1555.18	You could go off-grid, kind of.
+1556.74	EM: It depends on where you are
+1558.3	and what the house size is
+1558.3	relative to the roof area,
+1561.58	but it's a fair statement to say
+1563.46	that most houses in the US
+1563.46	have enough roof area
+1568.3	to power all the needs of the house.
+1571.62	CA: So the key to the economics
+1574.82	of the cars, the Semi, of these houses
+1578.86	is the falling price
+1578.86	of lithium-ion batteries,
+1582.78	which you've made a huge bet on as Tesla.
+1585.3	In many ways, that's almost
+1585.3	the core competency.
+1587.58	And you've decided
+1589.86	that to really, like, own that competency,
+1595.1	you just have to build
+1595.1	the world's largest manufacturing plant
+1598.58	to double the world's supply
+1598.58	of lithium-ion batteries,
+1601.74	with this guy. What is this?
+1604.06	EM: Yeah, so that's the Gigafactory,
+1607.54	progress so far on the Gigafactory.
+1610.26	Eventually, you can sort of roughly see
+1612.18	that there's sort of
+1612.18	a diamond shape overall,
+1615.14	and when it's fully done,
+1615.14	it'll look like a giant diamond,
+1619.78	or that's the idea behind it,
+1622.02	and it's aligned on true north.
+1623.54	It's a small detail.
+1625.3	CA: And capable of producing, eventually,
+1629.22	like a hundred gigawatt hours
+1629.22	of batteries a year.
+1632.42	EM: A hundred gigawatt hours.
+1632.42	We think probably more, but yeah.
+1635.42	CA: And they're actually
+1635.42	being produced right now.
+1637.82	EM: They're in production already.
+1637.82	CA: You guys put out this video.
+1641.02	I mean, is that speeded up?
+1642.38	EM: That's the slowed down version.
+1644.1	(Laughter)
+1645.9	CA: How fast does it actually go?
+1648.26	EM: Well, when it's running at full speed,
+1651.1	you can't actually see the cells
+1651.1	without a strobe light.
+1655.06	It's just blur.
+1656.36	(Laughter)
+1659.82	CA: One of your core ideas, Elon,
+1659.82	about what makes an exciting future
+1663.42	is a future where we no longer
+1663.42	feel guilty about energy.
+1667.3	Help us picture this.
+1668.74	How many Gigafactories, if you like,
+1668.74	does it take to get us there?
+1673.78	EM: It's about a hundred, roughly.
+1675.54	It's not 10, it's not a thousand.
+1677.3	Most likely a hundred.
+1679.86	CA: See, I find this amazing.
+1681.54	You can picture what it would take
+1685.54	to move the world
+1685.54	off this vast fossil fuel thing.
+1688.82	It's like you're building one,
+1691.42	it costs five billion dollars,
+1694.3	or whatever, five to 10 billion dollars.
+1696.46	Like, it's kind of cool
+1696.46	that you can picture that project.
+1700.1	And you're planning to do, at Tesla --
+1700.1	announce another two this year.
+1705.3	EM: I think we'll announce locations
+1708.18	for somewhere between two
+1708.18	and four Gigafactories later this year.
+1711.94	Yeah, probably four.
+1713.86	CA: Whoa.
+1715.5	(Applause)
+1718.14	No more teasing from you for here?
+1722.22	Like -- where, continent?
+1727.3	You can say no.
+1729.26	EM: We need to address a global market.
+1733.06	CA: OK.
+1734.3	(Laughter)
+1735.66	This is cool.
+1739.3	I think we should talk for --
+1744.38	Actually, double mark it.
+1746.02	I'm going to ask you one question
+1746.02	about politics, only one.
+1750.14	I'm kind of sick of politics,
+1750.14	but I do want to ask you this.
+1753.42	You're on a body now
+1753.42	giving advice to a guy --
+1759.78	EM: Who?
+1761.02	CA: Who has said he doesn't
+1761.02	really believe in climate change,
+1763.94	and there's a lot of people out there
+1763.94	who think you shouldn't be doing that.
+1768.3	They'd like you to walk away from that.
+1770.22	What would you say to them?
+1772.54	EM: Well, I think that first of all,
+1776.18	I'm just on two advisory councils
+1778.74	where the format consists
+1778.74	of going around the room
+1781.58	and asking people's opinion on things,
+1784.5	and so there's like a meeting
+1784.5	every month or two.
+1789.38	That's the sum total of my contribution.
+1792.62	But I think to the degree
+1792.62	that there are people in the room
+1795.42	who are arguing in favor
+1795.42	of doing something about climate change,
+1800.18	or social issues,
+1806.34	I've used the meetings I've had thus far
+1809.58	to argue in favor of immigration
+1809.58	and in favor of climate change.
+1814.46	(Applause)
+1816.42	And if I hadn't done that,
+1818.54	that wasn't on the agenda before.
+1821.38	So maybe nothing will happen,
+1821.38	but at least the words were said.
+1826.5	CA: OK.
+1827.74	(Applause)
+1831.62	So let's talk SpaceX and Mars.
+1835.18	Last time you were here,
+1836.66	you spoke about what seemed like
+1836.66	a kind of incredibly ambitious dream
+1840.38	to develop rockets
+1840.38	that were actually reusable.
+1844.7	And you've only gone and done it.
+1846.86	EM: Finally. It took a long time.
+1848.5	CA: Talk us through this.
+1848.5	What are we looking at here?
+1851.1	EM: So this is one of our rocket boosters
+1853.26	coming back from
+1853.26	very high and fast in space.
+1857.86	So just delivered the upper stage
+1861.14	at high velocity.
+1863.26	I think this might have been
+1863.26	at sort of Mach 7 or so,
+1867.14	delivery of the upper stage.
+1870.7	(Applause)
+1873.66	CA: So that was a sped-up --
+1875.18	EM: That was the slowed down version.
+1877.02	(Laughter)
+1878.38	CA: I thought that was
+1878.38	the sped-up version.
+1880.9	But I mean, that's amazing,
+1882.26	and several of these failed
+1883.62	before you finally
+1883.62	figured out how to do it,
+1886.58	but now you've done this,
+1886.58	what, five or six times?
+1889.5	EM: We're at eight or nine.
+1891.82	CA: And for the first time,
+1893.46	you've actually reflown
+1893.46	one of the rockets that landed.
+1896.62	EM: Yeah, so we landed the rocket booster
+1899.42	and then prepped it for flight again
+1899.42	and flew it again,
+1902.06	so it's the first reflight
+1902.06	of an orbital booster
+1907.26	where that reflight is relevant.
+1909.26	So it's important to appreciate
+1909.26	that reusability is only relevant
+1912.46	if it is rapid and complete.
+1917.22	So like an aircraft or a car,
+1920.5	the reusability is rapid and complete.
+1922.9	You do not send your aircraft
+1922.9	to Boeing in-between flights.
+1927.98	CA: Right. So this is allowing you
+1927.98	to dream of this really ambitious idea
+1932.82	of sending many, many, many people to Mars
+1936.02	in, what, 10 or 20 years time, I guess.
+1938.46	EM: Yeah.
+1939.86	CA: And you've designed
+1939.86	this outrageous rocket to do it.
+1943.3	Help us understand
+1943.3	the scale of this thing.
+1945.74	EM: Well, visually
+1945.74	you can see that's a person.
+1952.5	Yeah, and that's the vehicle.
+1954.34	(Laughter)
+1956.02	CA: So if that was a skyscraper,
+1957.78	that's like, did I read that,
+1957.78	a 40-story skyscraper?
+1961.14	EM: Probably a little more, yeah.
+1964.18	The thrust level of this is really --
+1970.18	This configuration is about four times
+1970.18	the thrust of the Saturn V moon rocket.
+1976.26	CA: Four times the thrust of the biggest
+1976.26	rocket humanity ever created before.
+1981.14	EM: Yeah. Yeah.
+1984.46	CA: As one does.
+1984.46	EM: Yeah.
+1985.94	(Laughter)
+1988.94	In units of 747, a 747 is only about
+1988.94	a quarter of a million pounds of thrust,
+1994.94	so for every 10 million pounds of thrust,
+1998.06	there's 40 747s.
+1999.78	So this would be the thrust equivalent
+1999.78	of 120 747s, with all engines blazing.
+2006.06	CA: And so even with a machine
+2006.06	designed to escape Earth's gravity,
+2010.3	I think you told me last time
+2011.74	this thing could actually
+2011.74	take a fully loaded 747,
+2015.02	people, cargo, everything,
+2017.38	into orbit.
+2018.66	EM: Exactly. This can take
+2018.66	a fully loaded 747 with maximum fuel,
+2023.82	maximum passengers,
+2023.82	maximum cargo on the 747 --
+2028.34	this can take it as cargo.
+2031.9	CA: So based on this,
+2033.66	you presented recently
+2033.66	this Interplanetary Transport System
+2038.5	which is visualized this way.
+2041.9	This is a scene you picture in, what,
+2046.7	People walking into this rocket.
+2049.3	EM: I'm hopeful it's sort of
+2049.3	an eight- to 10-year time frame.
+2053.9	Aspirationally, that's our target.
+2056.3	Our internal targets
+2056.3	are more aggressive, but I think --
+2059.34	(Laughter)
+2063.42	CA: OK.
+2064.66	EM: While vehicle seems quite large
+2066.82	and is large by comparison
+2066.82	with other rockets,
+2069.019	I think the future spacecraft
+2073.019	will make this look like a rowboat.
+2078.14	The future spaceships
+2078.14	will be truly enormous.
+2082.86	CA: Why, Elon?
+2085.059	Why do we need to build a city on Mars
+2089.22	with a million people
+2089.22	on it in your lifetime,
+2092.3	which I think is kind of
+2092.3	what you've said you'd love to do?
+2096.3	EM: I think it's important to have
+2100.94	a future that is inspiring and appealing.
+2103.7	I just think there have to be reasons
+2106.499	that you get up in the morning
+2106.499	and you want to live.
+2109.46	Like, why do you want to live?
+2110.94	What's the point? What inspires you?
+2112.7	What do you love about the future?
+2114.58	And if we're not out there,
+2116.1	if the future does not include
+2116.1	being out there among the stars
+2120.14	and being a multiplanet species,
+2121.86	I find that it's incredibly depressing
+2124.38	if that's not the future
+2124.38	that we're going to have.
+2127.74	(Applause)
+2131.94	CA: People want to position this
+2131.94	as an either or,
+2134.3	that there are so many desperate things
+2134.3	happening on the planet now
+2138.02	from climate to poverty
+2138.02	to, you know, you pick your issue.
+2142.3	And this feels like a distraction.
+2144.86	You shouldn't be thinking about this.
+2146.7	You should be solving what's here and now.
+2148.9	And to be fair, you've done
+2148.9	a fair old bit to actually do that
+2151.86	with your work on sustainable energy.
+2154.7	But why not just do that?
+2159.18	EM: I think there's --
+2164.66	I look at the future
+2164.66	from the standpoint of probabilities.
+2169.1	It's like a branching
+2169.1	stream of probabilities,
+2173.3	and there are actions that we can take
+2173.3	that affect those probabilities
+2179.74	or that accelerate one thing
+2179.74	or slow down another thing.
+2183.82	I may introduce something new
+2183.82	to the probability stream.
+2190.66	Sustainable energy
+2190.66	will happen no matter what.
+2192.86	If there was no Tesla,
+2192.86	if Tesla never existed,
+2195.38	it would have to happen out of necessity.
+2198.26	It's tautological.
+2199.86	If you don't have sustainable energy,
+2199.86	it means you have unsustainable energy.
+2203.54	Eventually you will run out,
+2205.18	and the laws of economics
+2205.18	will drive civilization
+2211.02	towards sustainable energy,
+2212.7	inevitably.
+2213.94	The fundamental value
+2213.94	of a company like Tesla
+2216.94	is the degree to which it accelerates
+2216.94	the advent of sustainable energy,
+2221.38	faster than it would otherwise occur.
+2224.94	So when I think, like,
+2226.18	what is the fundamental good
+2226.18	of a company like Tesla,
+2228.94	I would say, hopefully,
+2230.66	if it accelerated that by a decade,
+2230.66	potentially more than a decade,
+2236.3	that would be quite a good thing to occur.
+2238.46	That's what I consider to be
+2240.1	the fundamental
+2240.1	aspirational good of Tesla.
+2245.3	Then there's becoming a multiplanet
+2245.3	species and space-faring civilization.
+2251.66	This is not inevitable.
+2253.62	It's very important to appreciate
+2253.62	this is not inevitable.
+2256.34	The sustainable energy future
+2256.34	I think is largely inevitable,
+2259.46	but being a space-faring civilization
+2259.46	is definitely not inevitable.
+2264.22	If you look at the progress in space,
+2268.42	in 1969 you were able
+2268.42	to send somebody to the moon.
+2274.66	Then we had the Space Shuttle.
+2277.58	The Space Shuttle could only
+2277.58	take people to low Earth orbit.
+2281.02	Then the Space Shuttle retired,
+2282.58	and the United States
+2282.58	could take no one to orbit.
+2286.14	So that's the trend.
+2287.42	The trend is like down to nothing.
+2291.38	People are mistaken when they think
+2293.78	that technology
+2293.78	just automatically improves.
+2295.9	It does not automatically improve.
+2297.82	It only improves if a lot of people
+2297.82	work very hard to make it better,
+2302.5	and actually it will, I think,
+2302.5	by itself degrade, actually.
+2308.3	You look at great civilizations
+2308.3	like Ancient Egypt,
+2310.74	and they were able to make the pyramids,
+2312.7	and they forgot how to do that.
+2314.54	And then the Romans,
+2314.54	they built these incredible aqueducts.
+2317.38	They forgot how to do it.
+2320.54	CA: Elon, it almost seems,
+2320.54	listening to you
+2322.62	and looking at the different
+2322.62	things you've done,
+2324.9	that you've got this unique
+2324.9	double motivation on everything
+2327.7	that I find so interesting.
+2331.54	One is this desire to work
+2331.54	for humanity's long-term good.
+2336.14	The other is the desire
+2336.14	to do something exciting.
+2338.5	And often it feels like you feel
+2338.5	like you need the one to drive the other.
+2343.22	With Tesla, you want
+2343.22	to have sustainable energy,
+2346.34	so you made these super sexy,
+2346.34	exciting cars to do it.
+2350.9	Solar energy, we need to get there,
+2352.62	so we need to make these beautiful roofs.
+2354.597	We haven't even spoken
+2354.597	about your newest thing,
+2356.82	which we don't have time to do,
+2358.38	but you want to save humanity from bad AI,
+2360.74	and so you're going to create
+2360.74	this really cool brain-machine interface
+2364.06	to give us all infinite memory
+2364.06	and telepathy and so forth.
+2367.94	And on Mars, it feels
+2367.94	like what you're saying is,
+2370.66	yeah, we need to save humanity
+2374.38	and have a backup plan,
+2375.78	but also we need to inspire humanity,
+2379.06	and this is a way to inspire.
+2385.5	EM: I think the value
+2385.5	of beauty and inspiration
+2389.3	is very much underrated,
+2391.3	no question.
+2392.9	But I want to be clear.
+2394.18	I'm not trying to be anyone's savior.
+2396.02	That is not the --
+2398.06	I'm just trying to think about the future
+2401.86	and not be sad.
+2404.22	(Applause)
+2406.34	CA: Beautiful statement.
+2410.02	I think everyone here would agree
+2411.62	that it is not --
+2413.62	None of this is going
+2413.62	to happen inevitably.
+2415.7	The fact that in your mind,
+2415.7	you dream this stuff,
+2419.38	you dream stuff that no one else
+2419.38	would dare dream,
+2421.98	or no one else
+2421.98	would be capable of dreaming
+2424.66	at the level of complexity that you do.
+2428.34	The fact that you do that, Elon Musk,
+2428.34	is a really remarkable thing.
+2431.54	Thank you for helping us all
+2431.54	to dream a bit bigger.
+2434.26	EM: But you'll tell me if it ever
+2434.26	starts getting genuinely insane, right?
+2437.78	(Laughter)
+2440.3	CA: Thank you, Elon Musk.
+2440.3	That was really, really fantastic.
+2443.42	That was really fantastic.
+2444.86	(Applause)

@@ -1,0 +1,110 @@
+startsecond	text
+13.683	This is a work in process,
+16.617	based on some comments
+16.617	that were made at TED two years ago
+21.176	about the need for the storage of vaccine.
+24.849	(Video): [On this planet
+26.493	1.6 billion people
+29.032	don't have access to electricity
+31.021	refrigeration
+35.18	or stored fuels
+38.16	this is a problem
+41.619	it impacts:
+44.425	the spread of disease
+47.671	the storage of food and medicine
+49.503	and the quality of life.
+53.43	So here's the plan ...
+53.43	inexpensive refrigeration
+55.719	that doesn't use electricity,
+55.719	propane, gas, kerosene or consumables
+61.159	time for some thermodynamics
+63.675	And the story of the Intermittent
+63.675	Absorption Refrigerator]
+66.421	Adam Grosser: So 29 years ago,
+66.421	I had this thermo teacher
+69.071	who talked about absorption
+69.071	and refrigeration, one of those things
+72.198	that stuck in my head, a lot
+72.198	like the Stirling engine:
+74.75	it was cool, but you didn't know
+74.75	what to do with it.
+77.225	It was invented in 1858,
+77.225	by this guy Ferdinand Carré,
+79.799	but he couldn't actually build
+79.799	anything with it
+82.088	because of the tools at the time.
+83.733	This crazy Canadian named Powel Crosley
+83.733	commercialized this thing
+87.997	called the IcyBall, in 1928.
+90.021	It was a really neat idea,
+90.021	and I'll get to why it didn't work,
+93.086	but here's how it works.
+94.284	There's two spheres
+94.284	and they're separated in distance.
+96.884	One has a working fluid,
+96.884	water and ammonia,
+99.264	and the other is a condenser.
+100.876	You heat up one side, the hot side.
+102.865	The ammonia evaporates
+102.865	and it recondenses in the other side.
+105.908	You let it cool to room temperature,
+108.47	and then, as the ammonia reevaporates
+108.47	and combines with the water
+111.657	back on the erstwhile hot side,
+113.284	it creates a powerful cooling effect.
+115.577	So it was a great idea
+115.577	that didn't work at all.
+118.018	They blew up.
+119.236	(Laughter)
+120.795	Because you're using ammonia,
+120.795	you get hugely high pressures
+123.606	if you heated them wrong;
+124.897	it topped 400 psi.
+126.676	The ammonia was toxic,
+126.676	it sprayed everywhere.
+128.84	But it was kind of an interesting thought.
+131.036	So the great thing about 2006,
+133.492	there's a lot of really great
+133.492	computational work you can do.
+136.371	So we got the whole thermodynamics
+136.371	department at Stanford involved --
+140.47	a lot of computational fluid dynamics.
+142.324	We proved that most of the ammonia
+142.324	refrigeration tables are wrong.
+146.283	We found some nontoxic refrigerants
+148.36	that worked at very low vapor pressures.
+150.962	We brought in a team from the UK --
+152.675	a lot of great refrigeration people,
+152.675	it turns out, in the UK --
+155.674	and built a test rig,
+155.674	and proved that, in fact,
+157.978	we could make a low-pressure,
+157.978	nontoxic refrigerator.
+161.245	So this is the way it works.
+162.617	You put it on a cooking fire.
+164.053	Most people have
+164.053	cooking fires in the world,
+166.187	whether it's camel dung or wood.
+167.765	It heats up for about 30 minutes,
+167.765	cools for an hour.
+171.57	You put it into a container
+171.57	and it will refrigerate for 24 hours.
+175.273	It looks like this.
+176.519	This is the fifth prototype,
+176.519	it's not quite done.
+179.36	It weighs about eight pounds,
+179.36	and this is the way it works.
+182.368	You put it into a 15-liter vessel,
+182.368	about three gallons,
+185.974	and it'll cool it down
+185.974	to just above freezing --
+188.47	three degrees above freezing --
+189.972	for 24 hours in a 30 degree C environment.
+193.036	It's really cheap.
+194.247	We think we can build these
+194.247	in high volumes for about 25 dollars,
+197.347	in low volumes for about 40 dollars.
+199.102	And we think we can make refrigeration
+199.102	something that everybody can have.
+202.596	Thank you.
+203.796	(Applause)

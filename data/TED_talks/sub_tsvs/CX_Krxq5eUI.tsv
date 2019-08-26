@@ -1,0 +1,176 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+16.985	Hi. I'm here to talk about congestion,
+19.902	namely road congestion.
+21.256	Road congestion is a pervasive phenomenon.
+23.517	It exists in basically all of the cities all around the world,
+26.377	which is a little bit surprising when you think about it.
+28.325	I mean, think about how different cities are, actually.
+31.288	I mean, you have the typical European cities,
+33.05	with a dense urban core, good public transportation
+36.042	mostly, not a lot of road capacity.
+38.497	But then, on the other hand, you have the American cities.
+40.946	It's moving by itself, okay.
+43.737	Anyway, the American cities:
+46.743	lots of roads dispersed over large areas,
+49.671	almost no public transportation.
+51.13	And then you have the emerging world cities,
+53.34	with a mixed variety of vehicles,
+54.866	mixed land-use patterns, also rather dispersed
+57.408	but often with a very dense urban core.
+60.007	And traffic planners all around the world have tried
+62.409	lots of different measures: dense cities or dispersed cities,
+66.063	lots of roads or lots of public transport
+68.614	or lots of bike lanes or more information,
+71.4	or lots of different things, but nothing seems to work.
+75.194	But all of these attempts have one thing in common.
+78.197	They're basically attempts at figuring out
+80.548	what people should do instead of rush hour car driving.
+83.875	They're essentially, to a point, attempts at planning
+86.987	what other people should do, planning their life for them.
+90.189	Now, planning a complex social system
+92.641	is a very hard thing to do, and let me tell you a story.
+95.716	Back in 1989, when the Berlin Wall fell,
+98.443	an urban planner in London got a phone call
+101.065	from a colleague in Moscow saying, basically,
+103.615	"""Hi, this is Vladimir. I'd like to know,"
+106.133	"who's in charge of London's bread supply?"""
+109.155	And the urban planner in London goes,
+110.808	"""What do you mean, who's in charge of London's —"
+112.778	"I mean, no one is in charge."""
+114.049	"""Oh, but surely someone must be in charge."
+115.931	"I mean, it's a very complicated system. Someone must control all of this."""
+119.587	"""No. No. No one is in charge."
+122.693	I mean, it basically -- I haven't really thought of it.
+125.294	"It basically organizes itself."""
+127.883	It organizes itself.
+130.46	That's an example of a complex social system
+133.303	which has the ability of self-organizing,
+136.031	and this is a very deep insight.
+138.619	When you try to solve really complex social problems,
+141.932	the right thing to do is most of the time
+143.648	to create the incentives.
+145.239	You don't plan the details,
+147.183	and people will figure out what to do,
+149.803	how to adapt to this new framework.
+151.663	And let's now look at how we can use this insight
+155.154	to combat road congestion.
+156.79	This is a map of Stockholm, my hometown.
+159.022	Now, Stockholm is a medium-sized city, roughly two million people,
+162.663	but Stockholm also has lots of water and lots of water
+165.452	means lots of bridges -- narrow bridges, old bridges --
+168.729	which means lots of road congestion.
+171.764	And these red dots show the most congested parts,
+175.404	which are the bridges that lead into the inner city.
+177.981	And then someone came up with the idea that,
+180.507	apart from good public transport,
+182.344	apart from spending money on roads,
+184.945	let's try to charge drivers one or two euros at these bottlenecks.
+189.16	Now, one or two euros, that isn't really a lot of money,
+192.084	I mean compared to parking charges and running costs, etc.,
+194.741	so you would probably expect that car drivers
+197.459	wouldn't really react to this fairly small charge.
+199.897	You would be wrong.
+201.197	One or two euros was enough to make 20 percent of cars
+205.225	disappear from rush hours.
+207.609	Now, 20 percent, well, that's a fairly huge figure, you might think,
+211.16	but you've still got 80 percent left of the problem, right?
+213.367	Because you still have 80 percent of the traffic.
+215.236	Now, that's also wrong, because traffic happens to be
+218.503	a nonlinear phenomenon, meaning that
+221.195	once you reach above a certain capacity threshold
+224.336	then congestion starts to increase really, really rapidly.
+227.504	But fortunately, it also works the other way around.
+229.964	If you can reduce traffic even somewhat, then congestion
+233.295	will go down much faster than you might think.
+236.924	Now, congestion charges were introduced in Stockholm
+239.815	on January 3, 2006, and the first picture here is a picture
+244.419	of Stockholm, one of the typical streets, January 2.
+248.402	The first day with the congestion charges looked like this.
+252.215	This is what happens when you take away
+257.2	You really reduce congestion quite substantially.
+259.91	But, well, as I said, I mean, car drivers adapt, right?
+263.568	So after a while they would all come back because they
+266.07	have sort of gotten used to charges.
+268.018	Wrong again. It's now six and a half years ago
+271.694	since the congestion charges were introduced in Stockholm,
+273.677	and we basically have the same low traffic levels still.
+277.666	But you see, there's an interesting gap here in the time series
+279.937	in 2007.
+281.4	Well, the thing is that, the congestion charges,
+283.789	they were introduced first as a trial, so they were introduced
+286.885	in January and then abolished again at the end of July,
+290.854	followed by a referendum, and then they were reintroduced
+293.448	again in 2007, which of course was a wonderful scientific opportunity.
+297.648	I mean, this was a really fun experiment to start with,
+301.785	and we actually got to do it twice.
+303.566	And personally, I would like to do this every once a year or so,
+305.675	but they won't let me do that.
+307.163	But it was fun anyway.
+309.348	So, we followed up. What happened?
+312.733	This is the last day with the congestion charges, July 31,
+316.599	and you see the same street but now it's summer,
+318.377	and summer in Stockholm is a very nice
+320.121	and light time of the year,
+322.371	and the first day without the congestion charges
+325.214	looked like this.
+326.581	All the cars were back again, and you even have to admire
+329.244	the car drivers. They adapt so extremely quickly.
+332.154	The first day they all came back.
+334.401	And this effect hanged on. So 2007 figures looked like this.
+339.751	Now these traffic figures are really exciting
+342.082	and a little bit surprising and very useful to know,
+344.733	but I would say that the most surprising slide here
+347.492	I'm going to show you today is not this one. It's this one.
+351.522	This shows public support for congestion pricing of Stockholm,
+354.853	and you see that when congestion pricing were introduced
+357.522	in the beginning of Spring 2006, people were fiercely against it.
+361.839	Seventy percent of the population didn't want this.
+364.867	But what happened when the congestion charges
+366.515	were there is not what you would expect, that people hated it more and more.
+369.976	No, on the contrary, they changed, up to a point
+373.129	where we now have 70 percent support for keeping the charges,
+376.83	meaning that -- I mean, let me repeat that:
+381.478	want to keep a price for something that used to be free.
+385.471	Okay. So why can that be? Why is that?
+389.097	Well, think about it this way. Who changed?
+392.097	I mean, the 20 percent of the car drivers that disappeared,
+394.723	surely they must be discontent in a way.
+396.668	And where did they go? If we can understand this,
+399.002	then maybe we can figure out how people can be so happy with this.
+403.132	Well, so we did this huge interview survey
+405.534	with lots of travel services, and tried to figure out
+407.369	who changed, and where did they go?
+409.124	And it turned out that they don't know themselves. (Laughter)
+413.538	For some reason, the car drivers are --
+418.386	they are confident they actually drive the same way that they used to do.
+421.882	And why is that? It's because that travel patterns
+424.138	are much less stable than you might think.
+426.537	Each day, people make new decisions, and people change
+429.368	and the world changes around them, and each day
+431.793	all of these decisions are sort of nudged ever so slightly
+435.046	away from rush hour car driving
+437.013	in a way that people don't even notice.
+439.597	They're not even aware of this themselves.
+441.642	And the other question, who changed their mind?
+444.443	Who changed their opinion, and why?
+446.409	So we did another interview survey, tried to figure out
+448.935	why people changed their mind, and what type of group changed their minds?
+453.311	And after analyzing the answers, it turned out that
+456.204	more than half of them believe that they haven't changed their minds.
+460.089	They're actually confident that they have
+462.376	liked congestion pricing all along.
+465.065	Which means that we are now in a position
+466.784	where we have reduced traffic across this toll cordon
+469.777	with 20 percent, and reduced congestion by enormous numbers,
+472.988	and people aren't even aware that they have changed,
+476.535	and they honestly believe that they have liked this all along.
+480.446	This is the power of nudges when trying to solve
+483.92	complex social problems, and when you do that,
+486.552	you shouldn't try to tell people how to adapt.
+490.182	You should just nudge them in the right direction.
+492.369	And if you do it right,
+494.091	people will actually embrace the change,
+496.143	and if you do it right, people will actually even like it.
+499.205	Thank you. (Applause)

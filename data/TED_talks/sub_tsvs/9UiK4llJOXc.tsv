@@ -1,0 +1,433 @@
+startsecond	text
+0	Translator: Bob Prottas
+0	Reviewer: Nhu PHAM
+12	I want to talk to you about,
+15.561	or share with you, a
+15.561	breakthrough new approach
+19.122	for managing items of
+19.122	inventory inside of a warehouse.
+22.464	We're talking about a pick,
+22.464	pack and ship setting here.
+25.022	So as a hint,
+27.845	this solution involves
+27.845	hundreds of mobile robots,
+31.998	sometimes thousands
+31.998	of mobile robots,
+34.422	moving around a warehouse.
+34.422	And I'll get to the solution.
+37.02	But for a moment, just think
+38.24	about the last time that
+38.24	you ordered something online.
+40.766	You were sitting
+40.766	on your couch
+42.83	and you decided that you
+42.83	absolutely had to have this red t-shirt.
+46.89	So — click! — you put it
+46.89	into your shopping cart.
+49.186	And then you decided
+49.186	that green pair of pants
+51.084	looks pretty good too — click!
+52.982	And maybe a blue
+52.982	pair of shoes — click!
+54.882	So at this point you've
+54.882	assembled your order.
+56.932	You didn't stop to think 
+56.932	for a moment that
+58.7	that might not be a great outfit.
+60.468	But you hit
+60.468	"""submit order."""
+62.238	And two days later, this package
+62.238	shows up on your doorstep.
+66.412	And you open the box and you're
+66.412	like, wow, there's my goo.
+69.366	Did you ever stop to think about
+69.366	how those items of inventory
+72.327	actually found their way inside
+72.327	that box in the warehouse?
+76.54	So I'm here to tell you 
+76.54	it's that guy right there.
+80.358	So deep in the
+80.358	middle of that picture,
+83.978	you see a classic
+83.978	pick-pack worker
+86.493	in a distribution or
+86.493	order fulfillments setting.
+89.718	Classically these pick workers will 
+89.718	spend 60 or 70 percent of their day
+93.6	wandering around
+93.6	the warehouse.
+95.512	They'll often walk
+95.512	as much as 5 or 10 miles
+98.223	in pursuit of
+98.223	those items of inventory.
+100.884	Not only is this an
+100.884	unproductive way to fill orders,
+105.305	it also turns out to be an
+105.305	unfulfilling way to fill orders.
+109.362	So let me tell you where I
+109.362	first bumped into this problem.
+112.993	I was out in the Bay area 
+112.993	in '99, 2000, the dot com boom.
+117.047	I worked for a fabulously
+117.047	spectacular flame-out called Webvan.
+121.109	(Laughter)
+122.93	This company raised hundreds of
+122.93	millions of dollars with the notion that
+125.66	we will deliver
+125.66	grocery orders online.
+128.442	And it really came down to the fact
+128.442	that we couldn't do it cost effectively.
+132.615	Turns out e-commerce was something
+132.615	that was very hard and very costly.
+136.577	In this particular instance we were trying
+136.577	to assemble 30 items of inventory
+140.828	into a few totes, onto a van
+140.828	to deliver to the home.
+144.8	And when you think about it,
+144.8	it was costing us 30 dollars.
+148.6	Imagine, we had an
+151.686	that was costing us one dollar to
+151.686	pick and pack into that tote.
+155.362	And that's before we actually
+155.362	tried to deliver it to the home.
+158.57	So long story short,
+158.57	during my one year at Webvan,
+161.357	what I realized by talking to 
+161.357	all the material-handling providers
+164.593	was that there was no solution designed
+164.593	specifically to solve each base picking.
+169.231	Red item, green, blue, getting
+169.231	those three things in a box.
+173.254	So we said, there's just
+173.254	got to be a better way to do this.
+176.239	Existing material handling
+176.239	was set up to pump
+178.766	pallets and cases of
+178.766	goo to retail stores.
+182.533	Of course Webvan went out of business,
+182.533	and about a year and a half later,
+186.33	I was still noodling on this problem.
+186.33	It was still nagging at me.
+189.91	And I started
+189.91	thinking about it again.
+191.778	And I said, let me just focus briefly
+191.778	on what I wanted as a pick worker,
+196.905	or my vision for
+196.905	how it should work.
+199.236	(Laughter)
+200.65	I said, let's focus
+200.65	on the problem.
+202.572	I have an order here and what
+202.572	I want to do is I want to put
+206.427	red, green and blue
+206.427	in this box right here.
+208.647	What I need is a system where I put out
+208.647	my hand and — poof! —
+211.499	the product shows up 
+211.499	and I pack it into the order,
+214.022	and now we're thinking,
+215.715	this would be a very operator-centric
+215.715	approach to solving the problem.
+219.729	This is what I need. What technology
+219.729	is available to solve this problem?
+223.956	But as you can see, orders can come
+223.956	and go, products can come and go.
+227.897	It allows us to focus on making the
+227.897	pick worker the center of the problem,
+232.58	and providing them the tools to make
+232.58	them as productive as possible.
+237.204	So how did I
+237.204	arrive at this notion?
+239.304	Well, actually it came from
+239.304	a brainstorming exercise,
+242.837	probably a technique
+242.837	that many of you use,
+245.677	It's this notion of
+245.677	testing your ideas.
+247.833	Take a blank sheet, of course,
+249.563	but then test your ideas
+249.563	at the limits — infinity, zero.
+253.593	In this particular case, we
+253.593	challenged ourselves with the idea:
+256.775	What if we had to build a
+256.775	distribution center in China,
+259.751	where it's a very,
+259.751	very low-cost market?
+262.365	And say, labor is cheap,
+262.365	land is cheap.
+265.578	And we said specifically,
+267.224	"""What if it was zero dollars"
+267.224	an hour for direct labor
+270.23	and we could build a million-
+270.23	"square-foot distribution center?"""
+272.946	So naturally that
+272.946	led to ideas that said,
+275.021	"""Let's put lots of people"
+275.021	"in the warehouse."""
+276.829	"And I said, ""Hold on,"
+276.829	zero dollars per hour,
+279.374	what I would do is 'hire'
+	warehouse every morning at 8 a.m.,
+286.358	walk into the warehouse and
+286.358	pick up one item of inventory
+289.477	and then just stand there.
+291.21	So you hold Captain Crunch,
+291.21	you hold the Mountain Dew,
+293.749	you hold the Diet Coke.
+295.172	If I need it, I'll call you,
+295.172	otherwise just stand there.
+297.428	But when I need Diet Coke and I call it,
+297.428	you guys talk amongst yourselves.
+300.815	Diet Coke walks up to the front —
+300.815	"pick it, put it in the tote, away it goes."""
+304.936	Wow, what if the products
+304.936	could walk and talk on their own?
+309.588	That's a very interesting,
+309.588	very powerful way
+311.926	that we could potentially
+311.926	organize this warehouse.
+314.52	So of course,
+314.52	labor isn't free,
+316.868	on that practical
+316.868	versus awesome spectrum.
+320.176	(Laughter)
+321.866	So we said mobile shelving —
+321.866	We'll put them on mobile shelving.
+324.983	We'll use mobile robots and
+324.983	we'll move the inventory around.
+329.776	And so we got underway on that and
+329.776	then I'm sitting on my couch in 2008.
+334.194	Did any of you see the Beijing
+334.194	Olympics, the opening ceremonies?
+338.013	I about fell out of my
+338.013	couch when I saw this.
+341.054	I'm like, that was the idea!
+342.527	(Laughter and Applause)
+347.026	We'll put thousands of people on
+347.026	the warehouse floor, the stadium floor.
+350.917	But interestingly enough, this
+350.917	actually relates to the idea
+354.952	in that these guys were creating some
+354.952	incredibly powerful, impressive digital art,
+360.364	all without computers,
+360.364	I'm told,
+362.44	it was all peer-to-peer
+362.44	coordination and communication.
+364.886	You stand up,
+364.886	I'll squat down.
+366.462	And they made
+366.462	some fabulous art.
+368.107	It speaks to the
+368.107	power of emergence
+370.795	in systems when you let things
+370.795	start to talk with each other.
+374.763	So that was a little
+374.763	bit of the journey.
+378.541	So of course, now what became
+378.541	the practical reality of this idea?
+382.579	Here is a warehouse.
+384.385	It's a pick, pack and ship center
+384.385	that has about 10,000 different SKUs.
+388.161	We'll call them red pens,
+388.161	green pens, yellow Post-It Notes.
+392.298	We send the little orange robots
+392.298	out to pick up the blue shelving pods.
+395.677	And we deliver them
+395.677	to the side of the building.
+397.845	So all the pick workers now
+397.845	get to stay on the perimeter.
+400.981	And the game here is
+400.981	to pick up the shelves,
+403.323	take them down the highway and
+403.323	deliver them straight to the pick worker.
+406.647	This pick worker's life
+406.647	is completely different.
+408.784	Rather than wandering around
+408.784	the warehouse, she gets to stay still
+412.201	in a pick station like this
+413.789	and every product in the
+413.789	building can now come to her.
+417.787	So the process
+417.787	is very productive.
+421.065	Reach in, pick an item,
+421.065	scan the bar code, pack it out.
+425.26	By the time
+425.26	you turn around,
+426.909	there's another product there
+426.909	ready to be picked and packed.
+429.948	So what we've done is take
+429.948	out all of the non-value added
+432.958	walking, searching,
+432.958	wasting, waited time,
+435.642	and we've developed a very 
+435.642	high-fidelity way to pick these orders,
+439.92	where you point at it with
+439.92	a laser, scan the UPC barcode,
+444.084	and then indicate with a light
+444.084	which box it needs to go into.
+447.278	So more productive, more
+447.278	accurate and, it turns out,
+450.764	it's a more interesting office
+450.764	environment for these pick workers.
+455.07	They actually complete
+455.07	the whole order.
+457.507	So they do red, green and blue,
+457.507	not just a part of the order.
+460.034	And they feel a little bit more
+460.034	in control of their environment.
+463.648	So the side effects
+463.648	of this approach
+466.846	are what really surprised us.
+468.414	We knew it was going 
+468.414	to be more productive.
+469.992	But we didn't realize just how
+469.992	pervasive this way of thinking
+474.062	extended to other
+474.062	functions in the warehouse.
+479.292	But what effectively this approach
+479.292	is doing inside of the DC
+484.124	is turning it into a massively
+484.124	parallel processing engine.
+488.588	So this is again a
+488.588	cross-fertilization of ideas.
+491.211	Here's a warehouse
+491.211	and we're thinking about
+493.15	parallel processing
+493.15	supercomputer architectures.
+496.669	The notion here is that you have
+	the right side of the screen
+501.863	that are now all independent
+501.863	autonomous pick workers.
+506.111	If the worker in station three decides
+506.111	to leave and go to the bathroom,
+510.015	it has no impact on the
+510.015	productivity of the other nine workers.
+513.499	Contrast that, for a moment, with the
+513.499	traditional method of using a conveyor.
+517.869	When one person
+517.869	passes the order to you,
+519.928	you put something in
+519.928	and pass it downstream.
+522.427	Everyone has to be in place
+522.427	for that serial process to work.
+525.544	This becomes a more robust
+525.544	way to think about the warehouse.
+528.721	And then underneath the hoods gets
+528.721	interesting in that we're tracking
+533.265	the popularity
+533.265	of the products.
+535.003	And we're using dynamic
+535.003	and adaptive algorithms
+537.827	to tune the floor
+537.827	of the warehouse.
+542.281	So what you see here potentially
+542.281	the week leading up to Valentine's Day.
+547.165	All that pink chalky candy has
+547.165	moved to the front of the building
+551.008	and is now being picked into a
+551.008	lot of orders in those pick stations.
+554.901	Come in two days after Valentine's Day,
+554.901	and that candy, the leftover candy,
+559.064	has all drifted to the
+559.064	back of the warehouse
+561.337	and is occupying the cooler
+561.337	zone on the thermal map there.
+565.63	One other side effect of this
+565.63	approach using the parallel processing
+569.113	is these things can
+569.113	scale to ginormous.
+572.108	(Laughter)
+573.635	So whether you're doing
+573.635	two pick stations, 20 pick stations,
+576.369	or 200 pick stations, the
+576.369	path planning algorithms
+579.642	and all of the inventory
+579.642	algorithms just work.
+582.185	In this example you
+582.185	see that the inventory
+586.541	has now occupied all the
+586.541	perimeter of the building
+588.867	because that's where
+588.867	the pick stations were.
+591.213	They sorted it
+591.213	out for themselves.
+593.231	So I'll conclude with
+593.231	just one final video
+595.518	that shows how
+595.518	this comes to bear
+598.502	on the pick worker's actual
+598.502	day in the life of.
+602.096	So as we mentioned, the process is
+602.096	to move inventory along the highway
+606.432	and then find your way
+606.432	into these pick stations.
+609.084	And our software in the background
+611.555	understands what's going on 
+611.555	in each station,
+614.306	we direct the pods
+614.306	across the highway
+616.917	and we're attempting to
+616.917	get into a queuing system
+619.631	to present the work
+619.631	to the pick worker.
+622.515	What's interesting is we can even
+622.515	adapt the speed of the pick workers.
+625.76	The faster pickers get more pods
+625.76	and the slower pickers get few.
+629.686	But this pick worker now is
+629.686	literally having that experience
+632.824	that we described before.
+634.677	She puts out her hand.
+634.677	The product jumps into it.
+637.221	Or she has to reach in and get it.
+639.426	She scans it and 
+639.426	she puts it in the bucket.
+641.871	And all of the rest of the technology
+641.871	is kind of behind the scenes.
+645.667	So she gets to now focus on the
+645.667	picking and packing portion of her job.
+649.528	Never has any idle time,
+649.528	never has to leave her mat.
+652.802	And actually we think
+652.802	not only a more productive
+656.942	and more accurate
+656.942	way to fill orders.
+660.212	We think it's a more
+660.212	fulfilling way to fill orders.
+663.622	The reason we can say
+663.622	that, though, is that workers
+666.83	in a lot of these
+666.83	buildings now compete
+668.972	for the privilege of working
+668.972	in the Kiva zone that day.
+672.154	And sometimes we'll catch
+672.154	them on testimonial videos
+674.817	saying such things as,
+676.934	they have more energy after the
+676.934	day to play with their grandchildren,
+681.18	"or in one case a guy said, ""the"
+681.18	Kiva zone is so stress-free
+685.776	that I've actually stopped taking
+685.776	"my blood pressure medication."""
+688.891	(Laughter)
+690.725	That was at a pharmaceutical distributor,
+690.725	so they told us not to use that video.
+694.724	(Laughter)
+698.292	So what I wanted to leave you
+698.292	with today is the notion that
+701.316	when you let things start
+701.316	to think and walk
+704.171	and talk on their own, interesting
+704.171	processes and productivities can emerge.
+709.462	And now I think next time
+709.462	you go to your front step
+712.403	and pick up that box that
+712.403	you just ordered online,
+714.914	you break it open and
+714.914	the goo is in there,
+717.138	you'll have some wonderment
+717.138	as to whether a robot
+719.891	assisted in the picking
+719.891	and packing of that order.
+722.484	Thank you.
+724.163	(Applause)

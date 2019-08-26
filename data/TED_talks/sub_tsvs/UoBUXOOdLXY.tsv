@@ -1,0 +1,388 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.285	So a few weeks ago, a friend
+17.982	of mine gave this toy car to his
+20.236	8-year-old son.
+21.847	But instead of going into a store and buying one,
+24.668	like we do normally, he went to this
+27.463	website and he downloaded
+29.378	a file, and then he printed it
+31.547	on this printer.
+33.402	So this idea that you can
+35.381	manufacture objects
+37.328	digitally using these machines
+38.891	is something that The Economist magazine
+40.569	defined as the Third Industrial Revolution.
+43.199	Actually, I argue that there is another revolution
+47.042	going on, and it's the one that has to do with
+49.64	open-source hardware and the maker's movement,
+52.168	because the printer that my friend used
+55.927	to print the toy is actually open-source.
+58.544	So you go to the same website, you can download all the files
+62.037	that you need in order to make that printer:
+65.794	the construction files, the hardware, the software,
+69.306	all the instruction is there.
+72.115	And also this is part of a large
+74.235	community where there are thousands of people
+76.835	around the world that are actually
+78.795	making these kinds of printers,
+80.338	and there's a lot of innovation
+81.81	happening because it's all open-source.
+83.724	You don't need anybody's permission to create something great.
+87.612	And that space is like
+89.973	the personal computer in 1976,
+92.769	like the Apples with the other companies are fighting,
+95.127	and we will see in a few years,
+97.508	there will be the Apple of this kind of market come out.
+100.641	Well, there's also another interesting thing.
+104.444	I said the electronics are open-source, because at the heart
+106.408	of this printer there is something I'm really attached to:
+109.389	these Arduino boards, the motherboard that sort of
+112.34	powers this printer, is a project
+114.547	I've been working on for the past seven years.
+116.97	It's an open-source project.
+118.531	I worked with these friends of mine that I have here.
+121.552	So the five of us, two Americans, two Italians
+124.206	and a Spaniard, we — (Laughter)
+127.187	You know, it's a worldwide project. (Laughter)
+130.262	So we came together in this
+132.131	design institute called the Interaction Design Institute
+134.754	Ivrea, which was teaching
+136.903	interaction design, this idea that you can take
+139.201	design from the simple shape
+141.752	of an object and you can move it
+143.529	forward to design the way you interact with things.
+145.581	Well, when you design an object that's supposed to interact
+148.473	with a human being, if you make a foam model
+150.281	of a mobile phone, it doesn't make any sense.
+153.104	You have to have something that
+154.61	actually interacts with people.
+157.117	So, we worked on Arduino and
+160.236	a lot of other projects there to
+162.052	create platforms that would be
+163.953	simple for our students to use,
+166.137	so that our students could just build things that worked,
+168.598	but they don't have five years to become an electronics engineer. We have one month.
+172.656	So how do I make something that even a kid can use?
+175.311	And actually, with Arduino,
+178.212	we have kids like Sylvia that you see here,
+180.635	that actually make projects with Arduino.
+182.507	I have 11-year-old kids stop me and show me
+185.115	stuff they built for Arduino that's really
+187.934	scary to see the capabilities
+189.675	that kids have when you give them the tools.
+192.098	So let's look at what happens when you make a tool
+195.078	that anybody can just pick up and build something quickly,
+197.925	so one of the examples that I like to sort of
+199.793	kick off this discussion is this
+201.707	example of this cat feeder.
+203.437	The gentleman who made this project had two cats.
+206.004	One was sick and the other one
+207.738	was healthy, so he had to make
+210.116	sure they ate the proper food.
+211.804	So he made this thing that recognizes the cat
+213.963	from a chip mounted inside
+216.1	on the collar of the cat, and opens the door
+218.82	and the cat can eat the food.
+220.564	This is made by recycling an old CD player
+222.354	that you can get from an old computer,
+224.567	some cardboard, tape, couple of sensors, a few blinking LEDs,
+228.023	and then suddenly you have a tool. You build something
+230.811	that you cannot find on the market.
+232.748	"And I like this phrase: ""Scratch your own itch."""
+235.512	If you have an idea, you just go and you make it.
+238.107	This is the equivalent of sketching on paper
+240.056	done with electronics.
+242.628	So one of the features that I
+244.376	think is important about our work
+246.204	is that our hardware, on top of
+248.976	being made with love in Italy —
+251.166	as you can see from the
+252.919	back of the circuit — (Laughter)
+254.948	is that it's open,
+256.788	so we publish all the design
+258.756	files for the circuit online,
+260.484	so you can download it and
+262.467	you can actually use it to
+264.307	make something, or to modify, to learn.
+266.94	You know, when I was learning about programming,
+268.209	I learned by looking at other people's code,
+270.086	or looking at other people's circuits in magazines.
+273.515	And this is a good way to learn,
+275.731	by looking at other people's work.
+277.972	So the different elements of the project are all open,
+280.564	so the hardware is released
+282.267	with a Creative Commons license.
+284.331	So, you know, I like this idea that hardware becomes
+286.357	like a piece of culture that you share
+288.496	and you build upon, like it was
+290.455	a song or a poem with Creative Commons.
+294.092	Or, the software is GPL, so it's open-source as well.
+296.768	The documentation and the hands-on teaching
+300.195	methodology is also open-source and released as the Creative Commons.
+303.778	Just the name is protected so
+305.781	that we can make sure that we can tell people
+308.527	what is Arduino and what isn't.
+311.167	Now, Arduino itself is made of
+312.839	a lot of different open-source components
+315.079	that maybe individually are hard to use for
+317.83	a 12-year-old kid, so Arduino
+319.937	wraps everything together into
+321.79	a mashup of open-source technologies
+324.056	where we try to give them the
+325.928	best user experience to get something done quickly.
+328.135	So you have situations like this,
+331.006	where some people in Chile
+332.944	decided to make their own boards instead of buying them,
+335.742	to organize a workshop and
+337.667	to save money. Or there are
+340.767	companies that make their own
+342.712	variations of Arduino that fit
+344.481	in a certain market, and there's
+346.232	probably, maybe like a 150 of them
+348.945	or something at the moment.
+350.737	This one is made by a company
+352.625	called Adafruit, which is run by
+354.569	this woman called Limor Fried,
+356.881	also known as Ladyada, who is
+358.488	one of the heroes of the open-source hardware movement
+361.209	and the maker movement.
+362.743	So, this idea that you have a new, sort of
+365.697	turbo-charged DIY community
+368.481	that believes in open-source,
+370.161	in collaboration, collaborates
+372.361	online, collaborates in different spaces.
+374.802	There is this magazine called Make that sort of gathered
+377.924	all these people and sort of put them together
+379.464	as a community, and you see
+381.896	a very technical project explained in a
+383.924	very simple language, beautifully typeset.
+386.781	Or you have websites,
+388.349	like this one, like Instructables,
+390.61	where people actually teach each other about anything.
+392.614	So this one is about Arduino projects,
+394.359	the page you see on the screen, but effectively here you can
+397.92	learn how to make a cake and everything else.
+400.498	So let's look at some projects.
+403.298	So this one is a quadcopter.
+404.914	It's a small model helicopter.
+406.629	In a way, it's a toy, no?
+408.899	And so this one was military technology
+411.192	a few years ago, and now it's
+413.113	open-source, easy to use, you can buy it online.
+415.755	DIY Drones is the community; they do this thing called ArduCopter.
+419.673	But then somebody actually launched this start-up called
+422.686	Matternet, where they figured out that you could
+424.879	use this to actually transport
+427.177	things from one village to another in Africa,
+429.61	and the fact that this was easy to find,
+431.178	open-source, easy to hack, enabled them
+433.79	to prototype their company really quickly.
+435.928	Or, other projects. Matt Richardson: I'm getting a little sick
+438.617	of hearing about the same people on TV over and over and over
+441.873	again, so I decided to do something about it.
+445.083	This Arduino project,
+446.497	which I call the Enough Already, will mute the TV anytime
+449.872	any of these over-exposed
+451.847	personalities is mentioned. (Laughter)
+453.079	I'll show you how I made it. (Applause)
+457.927	MB: Check this out.
+459.751	MR: Our producers caught up with Kim Kardashian earlier
+461.708	today to find out what she was planning on wearing to her —
+464.611	MB: Eh? (Laughter)
+466.002	MR: It should do a pretty good
+467.904	job of protecting our ears from having to hear about the details
+469.571	of Kim Kardashian's wedding.
+471.367	MB: Okay. So, you know, again, what is interesting here
+475.924	is that Matt found this module
+478.894	that lets Arduino process
+481.126	TV signals, he found some code
+483.015	written by somebody else that generates infrared signals for the TV,
+485.844	put it together and then created this great project.
+488.194	It's also used, Arduino's used,
+490.246	in serious places like, you know, the Large Hadron Collider.
+493.146	There's some Arduino balls collecting data and sort of
+495.855	measuring some parameters.
+497.655	Or it's used for —
+499.974	(Music)
+510.686	So this is a musical interface
+513.127	built by a student from Italy,
+515.246	and he's now turning this into
+517.366	a product. Because it was a
+519.224	student project becoming a product.
+521.455	Or it can be used to make an assistive device.
+523.399	This is a glove that understands
+525.389	the sign language and transforms
+527.536	the gestures you make into sounds
+529.735	and writes the words that you're signing on a display
+533.051	And again, this is made of all different parts you can find
+534.397	on all the websites that sell Arduino-compatible parts,
+537.346	and you assemble it into a project.
+539.43	Or this is a project from the ITP part of NYU,
+542.751	where they met with this boy
+544.478	who has a severe disability, cannot play with the PS3,
+547.496	so they built this device that
+549.439	allows the kid to play baseball
+551.886	although he has limited
+553.783	movement capability.
+556.159	Or you can find it in arts projects.
+558.309	So this is the txtBomber.
+560.624	So you put a message into this device
+562.261	and then you roll it on the wall, and it basically
+565.104	has all these solenoids
+567.006	pressing the buttons on spray cans,
+568.798	so you just pull it over a wall
+570.434	and it just writes on the wall
+572.161	all the political messages.
+574.623	So, yeah. (Applause)
+577.254	Then we have this plant here.
+579.294	This is called Botanicalls,
+581.184	because there's an Arduino ball with a Wi-Fi module
+584.379	in the plant, and it's measuring
+586.98	the well-being of the plant,
+588.495	and it's creating a Twitter account
+590.485	where you can actually interact with the plant. (Laughter)
+594.014	So, you know, this plant
+595.944	"will start to say, ""This is really hot,"" or"
+598.423	"there's a lot of, you know, ""I need water right now."" (Laughter)"
+602.494	So it just gives a personality to your plant.
+605.917	Or this is something that twitters when the
+608.584	baby inside the belly of a
+610.55	pregnant woman kicks. (Laughter)
+613.158	Or this is a 14-year-old kid in
+614.749	Chile who made a system that
+616.869	detects earthquakes and publishes on Twitter.
+619.193	He has 280,000 followers.
+621.681	He's 14 and he anticipated
+623.825	a governmental project by one year. (Applause)
+627.464	Or again, another project where,
+631.205	by analyzing the Twitter feed
+632.951	of a family, you can basically
+634.887	"point where they are, like in the ""Harry Potter"" movie."
+637.629	So you can find out everything about this project on the website.
+640.445	Or somebody made a chair that twitters when somebody farts. (Laughter)
+645.126	It's interesting how, in 2009,
+648.209	Gizmodo basically defined,
+650.591	said that this project actually gives a meaning to Twitter,
+653.354	so it was — a lot changed in between. (Laughter)
+656.615	So very serious project.
+658.059	When the Fukushima disaster happened,
+660.266	a bunch of people in Japan, they realized that the information
+663.268	that the government was giving wasn't really open
+665.823	and really reliable, so they built
+667.573	this Geiger counter, plus Arduino, plus network
+670.349	interface. They made 100
+672.281	of them and gave them to people around Japan, and essentially
+675.859	the data that they gathered gets published on this website
+678.119	called Cosm, another website
+680.268	they built, so you can actually get reliable real-time
+683.909	information from the field,
+685.734	and you can get unbiased information.
+689.341	Or this machine here, it's from
+691.224	the DIY bio movement,
+693.664	and it's one of the steps that you need in order to process DNA,
+695.988	and again, it's completely open-source from the ground up.
+699.366	Or you have students in developing countries making
+702.76	replicas of scientific instruments that cost
+705.749	a lot of money to make.
+707.66	Actually they just build them themselves for a lot less
+710.25	using Arduino and a few parts.
+711.483	This is a pH probe.
+713.379	Or you get kids, like these kids, they're from Spain.
+716.777	They learned how to program and to make robots when they
+719.641	were probably, like, 11, and then they started to use Arduino
+722.31	to make these robots that play football. They became
+724.303	world champions by making an Arduino-based robot.
+727.145	And so when we had to make
+729.021	our own educational robot, we just went to them and said,
+731.833	"you know, ""You design it, because you know exactly"
+734.181	"what is needed to make a great robot that excites kids."""
+737.911	Not me. I'm an old guy.
+739.587	What am I supposed to excite, huh? (Laughter)
+742.123	But as I — in terms of educational assets. (Laughter)
+746.058	There's also companies like Google
+747.956	that are using the technology
+749.907	to create interfaces between
+752.781	mobile phones, tablets and the real world.
+756.174	So the Accessory Development Kit
+757.194	from Google is open-source
+759.246	and based on Arduino, as opposed
+760.628	to the one from Apple which is
+762.285	closed-source, NDA, sign your
+764.789	life to Apple. Here you are.
+767.354	There's a giant maze, and Joey's sitting there, and the
+769.934	maze is moving when you tilt the tablet.
+774.118	Also, I come from Italy, and the design is important
+777.09	in Italy, and yet very conservative.
+779.437	So we worked with a design
+780.854	studio called Habits, in Milan,
+783.02	to make this mirror, which is completely open-source.
+785.708	This doubles also as an iPod speaker.
+788.893	So the idea is that the hardware, the software,
+792.53	the design of the object, the fabrication,
+793.998	everything about this project is open-source
+796.483	and you can make it yourself.
+798.353	So we want other designers to pick this up and learn how
+800.707	to make great devices, to learn
+803.318	how to make interactive products
+804.996	by starting from something real.
+807.765	But when you have this idea,
+810.166	you know, what happens to all these ideas?
+812.079	There's, like, thousands of ideas that I —
+813.957	You know, it would take seven hours for me to do
+816.117	all the presentations.
+817.997	I will not take all the seven hours. Thank you.
+821.045	But let's start from this example:
+823.061	So, the group of people
+824.989	that started this company called Pebble, they prototyped
+827.4	a watch that communicates via Bluetooth with your phone,
+831.092	and you can display information
+832.628	on it. And they prototyped with
+834.9	an old LCD screen from a Nokia
+836.845	mobile phone and an Arduino.
+839.253	And then, when they had a final
+841.086	project, they actually went to Kickstarter
+843.494	and they were asking for 100,000 dollars to make
+846.113	a few of them to sell.
+847.968	They got 10 million dollars.
+850.039	They got a completely
+851.574	fully funded start-up, and they don't have to,
+854.287	you know, get VCs involved or anything,
+856.139	just excite the people with their great project.
+859.007	The last project I want to show you is this:
+861.291	It's called ArduSat. It's currently on Kickstarter,
+865.029	so if you want to contribute, please do it.
+867.336	It's a satellite that goes into space, which is probably
+870.146	the least open-source thing you can imagine,
+872.068	and it contains an Arduino
+874.119	connected to a bunch of sensors. So if you know how to use Arduino,
+877.229	you can actually upload your experiments
+879.685	into this satellite and run them.
+881.876	So imagine, if you as a high school can have the satellite
+884.512	for a week and do satellite
+886.861	space experiments like that.
+889.513	So, as I said, there's
+892.269	lots of examples, and I'm going to stop here. And I just
+893.828	want to thank the Arduino community
+896.344	for being the best, and just
+898.014	every day making lots of projects.
+900.206	Thank you. (Applause)
+903.67	(Applause)
+905.997	And thanks to the community.
+908.484	Chris Anderson: Massimo,
+910.457	you told me earlier today that you had no idea, of course,
+913.062	that it would take off like this.
+914.534	MB: No.
+915.323	CA: I mean, how must you feel when you read this stuff and you
+917.119	see what you've unlocked?
+919.62	MB: Well, it's the work of a lot of people, so we as a community
+922.439	are enabling people to make
+924.233	great stuff, and I just feel overwhelmed.
+926.735	It's just, it's difficult to describe this.
+928.904	Every morning, I wake up and I look at all the stuff that
+930.918	Google Alerts sends me, and it's
+933.104	just amazing. It's just
+934.639	going into every field that you can imagine.
+937.312	CA: Thank you so much. (Applause)
+939.304	(Applause)

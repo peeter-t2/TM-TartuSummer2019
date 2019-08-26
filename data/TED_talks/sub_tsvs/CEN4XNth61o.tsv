@@ -1,0 +1,368 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.536	I want to talk to you today about something
+17.481	the open-source programming world can teach democracy,
+20.496	but before that, a little preamble.
+22.131	Let's start here.
+23.951	This is Martha Payne. Martha's a 9-year-old Scot
+27.346	who lives in the Council of Argyll and Bute.
+29.367	A couple months ago, Payne started a food blog
+32.06	called NeverSeconds, and she would take her camera
+34.933	with her every day to school to document
+37.213	her school lunches.
+39.227	Can you spot the vegetable? (Laughter)
+41.116	And, as sometimes happens,
+44.87	this blog acquired first dozens of readers,
+47.46	and then hundreds of readers,
+49.14	and then thousands of readers, as people tuned in
+51.726	to watch her rate her school lunches,
+53.394	including on my favorite category,
+54.919	"""Pieces of hair found in food."" (Laughter)"
+58.511	This was a zero day. That's good.
+61.982	And then two weeks ago yesterday, she posted this.
+65.176	"A post that read: ""Goodbye."""
+67.087	"And she said, ""I'm very sorry to tell you this, but"
+70.301	my head teacher pulled me out of class today and told me
+73.045	I'm not allowed to take pictures in the lunch room anymore.
+76.041	I really enjoyed doing this.
+77.767	"Thank you for reading. Goodbye."""
+80.997	You can guess what happened next, right? (Laughter)
+86.175	The outrage was so swift, so voluminous, so unanimous,
+92.093	that the Council of Argyll and Bute reversed themselves
+95.039	"the same day and said, ""We would,"
+96.325	"we would never censor a nine-year-old."" (Laughter)"
+98.491	Except, of course, this morning. (Laughter)
+100.968	And this brings up the question,
+105.381	what made them think they could get away
+107.595	with something like that? (Laughter)
+109.645	And the answer is, all of human history prior to now.
+114.362	(Laughter) So,
+117.91	what happens when a medium suddenly puts
+121.835	a lot of new ideas into circulation?
+125.539	Now, this isn't just a contemporaneous question.
+127.644	This is something we've faced several times
+129.644	over the last few centuries.
+131	When the telegraph came along, it was clear
+132.985	that it was going to globalize the news industry.
+135.203	What would this lead to?
+136.692	Well, obviously, it would lead to world peace.
+140.256	The television, a medium that allowed us not just to hear
+143.066	but see, literally see, what was going on
+145.833	elsewhere in the world, what would this lead to?
+148.15	World peace. (Laughter)
+150.39	The telephone?
+151.347	You guessed it: world peace.
+153.942	Sorry for the spoiler alert, but no world peace. Not yet.
+158.916	Even the printing press, even the printing press
+161.395	was assumed to be a tool that was going to enforce
+164.524	Catholic intellectual hegemony across Europe.
+168.177	Instead, what we got was Martin Luther's 95 Theses,
+170.661	the Protestant Reformation, and, you know,
+172.681	the Thirty Years' War. All right,
+175.039	so what all of these predictions of world peace got right
+179.27	is that when a lot of new ideas suddenly
+181.801	come into circulation, it changes society.
+184.727	What they got exactly wrong was what happens next.
+188.259	The more ideas there are in circulation,
+190.808	the more ideas there are for any individual to disagree with.
+195.516	More media always means more arguing.
+200.289	That's what happens when the media's space expands.
+203.209	And yet, when we look back on the printing press
+206.112	in the early years, we like what happened.
+209.491	We are a pro-printing press society.
+212.735	So how do we square those two things,
+214.705	that it leads to more arguing, but we think it was good?
+217.461	And the answer, I think, can be found in things like this.
+220.06	"This is the cover of ""Philosophical Transactions,"""
+223.345	the first scientific journal ever published in English
+225.967	in the middle of the 1600s,
+227.849	and it was created by a group of people who had been
+229.676	"calling themselves ""The Invisible College,"""
+231.313	a group of natural philosophers who only later
+233.517	would call themselves scientists,
+236.122	and they wanted to improve the way
+239.666	natural philosophers argued with each other,
+242.323	and they needed to do two things for this.
+244.313	They needed openness. They needed to create a norm
+246.797	which said, when you do an experiment,
+248.656	you have to publish not just your claims,
+251.341	but how you did the experiment.
+252.767	If you don't tell us how you did it, we won't trust you.
+255.564	But the other thing they needed was speed.
+257.924	They had to quickly synchronize what
+260.229	other natural philosophers knew. Otherwise,
+262.683	you couldn't get the right kind of argument going.
+265.54	The printing press was clearly the right medium for this,
+268.49	but the book was the wrong tool. It was too slow.
+271.076	And so they invented the scientific journal
+273.938	as a way of synchronizing the argument
+276.724	across the community of natural scientists.
+279.278	The scientific revolution wasn't created by the printing press.
+282.776	It was created by scientists,
+284.922	but it couldn't have been created if they didn't have
+286.781	a printing press as a tool.
+288.951	So what about us? What about our generation,
+291.191	and our media revolution, the Internet?
+293.194	Well, predictions of world peace? Check. (Laughter)
+297.313	More arguing? Gold star on that one. (Laughter)
+305.896	(Laughter)
+307.207	I mean, YouTube is just a gold mine. (Laughter)
+311.554	Better arguing? That's the question.
+315.649	So I study social media, which means,
+317.693	to a first approximation, I watch people argue.
+320.304	And if I had to pick a group that I think is
+324.411	our Invisible College, is our generation's collection of people
+328.204	trying to take these tools and to press it into service,
+331.363	not for more arguments, but for better arguments,
+334.144	I'd pick the open-source programmers.
+336.539	Programming is a three-way relationship
+338.801	between a programmer, some source code,
+341.085	and the computer it's meant to run on, but computers
+343.699	are such famously inflexible interpreters of instructions
+348.401	that it's extraordinarily difficult to write out a set
+352.424	of instructions that the computer knows how to execute,
+355.462	and that's if one person is writing it.
+357.328	Once you get more than one person writing it,
+359.427	it's very easy for any two programmers to overwrite
+362.511	each other's work if they're working on the same file,
+365.172	or to send incompatible instructions
+367.354	that simply causes the computer to choke,
+369.795	and this problem grows larger
+372.754	the more programmers are involved.
+375.523	To a first approximation, the problem of managing
+378.87	a large software project is the problem
+381.596	of keeping this social chaos at bay.
+385.252	Now, for decades there has been a canonical solution
+387.727	to this problem, which is to use something called
+389.381	"a ""version control system,"""
+391.361	and a version control system does what is says on the tin.
+393.57	It provides a canonical copy of the software
+396.964	on a server somewhere.
+398.516	The only programmers who can change it are people
+401.422	who've specifically been given permission to access it,
+404.953	and they're only allowed to access the sub-section of it
+408.72	that they have permission to change.
+411.15	And when people draw diagrams of version control systems,
+414.335	the diagrams always look something like this.
+416.7	All right. They look like org charts.
+419.578	And you don't have to squint very hard
+420.985	to see the political ramifications of a system like this.
+424.45	This is feudalism: one owner, many workers.
+428.926	Now, that's fine for the commercial software industry.
+432.25	It really is Microsoft's Office. It's Adobe's Photoshop.
+437.64	The corporation owns the software.
+440.472	The programmers come and go.
+442.786	But there was one programmer who decided
+446.159	that this wasn't the way to work.
+449.147	This is Linus Torvalds.
+450.409	Torvalds is the most famous open-source programmer,
+452.561	created Linux, obviously, and Torvalds looked at the way
+457.862	the open-source movement had been dealing with this problem.
+461.374	Open-source software, the core promise of the open-source license,
+465.998	is that everybody should have access to all the source code
+469.744	all the time, but of course, this creates
+472.997	the very threat of chaos you have to forestall
+476.304	in order to get anything working.
+477.882	So most open-source projects just held their noses
+480.364	and adopted the feudal management systems.
+483.044	"But Torvalds said, ""No, I'm not going to do that."""
+485.552	His point of view on this was very clear.
+489.117	When you adopt a tool, you also adopt
+491.65	the management philosophy embedded in that tool,
+495.239	and he wasn't going to adopt anything that didn't work
+498.375	the way the Linux community worked.
+500.684	And to give you a sense of how enormous
+503.216	a decision like this was, this is a map
+506.884	of the internal dependencies within Linux,
+510.373	within the Linux operating system, which sub-parts
+512.98	of the program rely on which other sub-parts to get going.
+517.425	This is a tremendously complicated process.
+521.003	This is a tremendously complicated program,
+523.795	and yet, for years, Torvalds ran this
+526.46	not with automated tools but out of his email box.
+530.364	People would literally mail him changes
+532.837	that they'd agreed on, and he would merge them by hand.
+536.956	And then, 15 years after looking at Linux and figuring out
+541.702	"how the community worked, he said, ""I think I know"
+544.512	"how to write a version control system for free people."""
+548.679	"And he called it ""Git."" Git is distributed version control."
+554.574	It has two big differences
+557.598	with traditional version control systems.
+559.661	The first is that it lives up to the philosophical promise
+562.808	of open-source. Everybody who works on a project
+566.094	has access to all of the source code all of the time.
+569.765	And when people draw diagrams of Git workflow,
+572.439	they use drawings that look like this.
+575.376	And you don't have to understand what the circles
+577.694	and boxes and arrows mean to see that this is a far more
+581.373	complicated way of working than is supported
+584.468	by ordinary version control systems.
+587.189	But this is also the thing that brings the chaos back,
+591.498	and this is Git's second big innovation.
+594.548	This is a screenshot from GitHub, the premier Git hosting service,
+598.544	and every time a programmer uses Git
+601.894	to make any important change at all,
+605.055	creating a new file, modifying an existing one,
+608.364	merging two files, Git creates this kind of signature.
+613.038	This long string of numbers and letters here
+616.181	is a unique identifier tied to every single change,
+621.256	but without any central coordination.
+624.113	Every Git system generates this number the same way,
+628.602	which means this is a signature tied directly
+631.944	and unforgeably to a particular change.
+635.094	This has the following effect:
+637.03	A programmer in Edinburgh and a programmer in Entebbe
+640.708	can both get the same -- a copy of the same piece of software.
+644.41	Each of them can make changes and they can merge them
+648.236	after the fact even if they didn't know
+651.171	of each other's existence beforehand.
+654.13	This is cooperation without coordination.
+657.629	This is the big change.
+660.565	Now, I tell you all of this not to convince you that it's great
+665.775	that open-source programmers now have a tool
+669.472	that supports their philosophical way of working,
+672.565	although I think that is great.
+674.669	I tell you all of this because of what I think it means
+677.437	for the way communities come together.
+679.631	Once Git allowed for cooperation without coordination,
+685.95	you start to see communities form
+688.89	that are enormously large and complex.
+693.142	This is a graph of the Ruby community.
+695.421	It's an open-source programming language,
+696.95	and all of the interconnections between the people --
+699.948	this is now not a software graph, but a people graph,
+702.347	all of the interconnections among the people
+704.449	working on that project —
+706.792	and this doesn't look like an org chart.
+709.782	This looks like a dis-org chart, and yet,
+713.202	out of this community, but using these tools,
+715.81	they can now create something together.
+718.096	So there are two good reasons to think that
+722.461	this kind of technique can be applied
+726.634	to democracies in general and in particular to the law.
+731.167	When you make the claim, in fact,
+733.025	that something on the Internet is going to be good
+735.983	for democracy, you often get this reaction.
+738.424	(Music) (Laughter)
+744.348	Which is, are you talking about the thing
+746.874	with the singing cats? Like, is that the thing
+749.285	you think is going to be good for society?
+751.914	To which I have to say, here's the thing
+754.049	with the singing cats. That always happens.
+757.41	And I don't just mean that always happens with the Internet,
+759.143	I mean that always happens with media, full stop.
+761.723	It did not take long after the rise
+763.763	of the commercial printing press before someone
+766.439	figured out that erotic novels were a good idea. (Laughter)
+769.752	You don't have to have an economic incentive to sell books
+772.794	"very long before someone says, ""Hey, you know what I bet"
+775.815	"people would pay for?"" (Laughter)"
+777.983	It took people another 150 years to even think
+781.533	of the scientific journal, right? So -- (Laughter) (Applause)
+788.293	So the harnessing by the Invisible College
+791.331	of the printing press to create the scientific journal
+793.716	was phenomenally important, but it didn't happen big,
+796.627	and it didn't happen quick, and it didn't happen fast, so
+799.386	if you're going to look for where the change is happening,
+802.684	you have to look on the margins.
+804.7	So, the law is also dependency-related.
+810.164	This is a graph of the U.S. Tax Code,
+813.573	and the dependencies of one law on other laws
+816.653	for the overall effect.
+819.051	So there's that as a site for source code management.
+822.483	But there's also the fact that law is another place
+824.385	where there are many opinions in circulation,
+826.659	but they need to be resolved to one canonical copy,
+830.167	and when you go onto GitHub, and you look around,
+832.744	there are millions and millions of projects,
+834.813	almost all of which are source code,
+836.167	but if you look around the edges, you can see people
+838.852	experimenting with the political ramifications
+841.061	of a system like that.
+842.674	Someone put up all the Wikileaked cables
+844.484	from the State Department, along with software used
+846.749	to interpret them, including my favorite use ever
+849.938	of the Cablegate cables, which is a tool for detecting
+852.309	naturally occurring haiku in State Department prose.
+855.324	(Laughter)
+861.22	Right. (Laughter)
+864.292	The New York Senate has put up something called
+867.091	Open Legislation, also hosting it on GitHub,
+869.498	again for all of the reasons of updating and fluidity.
+871.884	You can go and pick your Senator and then you can see
+874.55	a list of bills they have sponsored.
+876.585	Someone going by Divegeek has put up the Utah code,
+880.217	the laws of the state of Utah, and they've put it up there
+882.982	not just to distribute the code,
+884.431	but with the very interesting possibility that this could
+887.629	be used to further the development of legislation.
+892.184	Somebody put up a tool during the copyright debate
+896.023	"last year in the Senate, saying, ""It's strange that Hollywood"
+900.209	has more access to Canadian legislators
+903.333	than Canadian citizens do. Why don't we use GitHub
+907.149	"to show them what a citizen-developed bill might look like?"""
+911.625	And it includes this very evocative screenshot.
+915.377	"This is a called a ""diff,"" this thing on the right here."
+918.355	This shows you, for text that many people are editing,
+921.325	when a change was made, who made it,
+923.526	and what the change is.
+924.529	The stuff in red is the stuff that got deleted.
+925.984	The stuff in green is the stuff that got added.
+928.676	Programmers take this capability for granted.
+931.458	No democracy anywhere in the world offers this feature
+934.383	to its citizens for either legislation or for budgets,
+938.198	even though those are the things done
+940.728	with our consent and with our money.
+943.867	Now, I would love to tell you that the fact
+947.105	that the open-source programmers have worked out
+950.277	a collaborative method that is large scale, distributed,
+953.948	cheap, and in sync with the ideals of democracy, I would love
+957.413	to tell you that because those tools are in place,
+959.584	the innovation is inevitable. But it's not.
+963.915	Part of the problem, of course, is just a lack of information.
+966.908	Somebody put a question up on Quora saying,
+968.811	"""Why is it that lawmakers don't use"
+970.903	"distributed version control?"""
+972.31	This, graphically, was the answer. (Laughter)
+975.931	(Laughter) (Applause)
+978.022	And that is indeed part of the problem, but only part.
+983.044	The bigger problem, of course, is power.
+986.221	The people experimenting with participation don't have
+989.391	legislative power, and the people who have legislative
+991.96	power are not experimenting with participation.
+995.923	They are experimenting with openness.
+997.468	There's no democracy worth the name that doesn't have
+999.328	a transparency move, but transparency is openness
+1002.256	in only one direction, and being given a dashboard
+1006.161	without a steering wheel has never been the core promise
+1009.331	a democracy makes to its citizens.
+1012.742	So consider this.
+1015.092	The thing that got Martha Payne's opinions
+1017.678	out into the public was a piece of technology,
+1021.369	but the thing that kept them there was political will.
+1025.003	It was the expectation of the citizens
+1027.277	that she would not be censored.
+1030.812	That's now the state we're in with these collaboration tools.
+1036.14	We have them. We've seen them. They work.
+1040.147	Can we use them?
+1041.198	Can we apply the techniques that worked here to this?
+1046.324	"T.S. Eliot once said, ""One of the most momentous things"
+1050.041	that can happen to a culture
+1052.121	"is that they acquire a new form of prose."""
+1055.764	I think that's wrong, but -- (Laughter)
+1058.012	I think it's right for argumentation. Right?
+1061.671	A momentous thing that can happen to a culture
+1065.026	is they can acquire a new style of arguing:
+1067.84	trial by jury, voting, peer review, now this. Right?
+1074.556	A new form of arguing has been invented in our lifetimes,
+1077.625	in the last decade, in fact.
+1079.512	It's large, it's distributed, it's low-cost,
+1083.565	and it's compatible with the ideals of democracy.
+1086.864	The question for us now is, are we going to let
+1088.85	the programmers keep it to themselves?
+1090.376	Or are we going to try and take it and press it into service
+1092.425	for society at large?
+1094.577	Thank you for listening. (Applause)
+1097.177	(Applause)
+1101.315	Thank you. Thank you. (Applause)

@@ -1,0 +1,486 @@
+startsecond	text
+12.535	I am a computer science and engineering
+12.535	professor here at Carnegie Mellon,
+15.98	and my research focuses on
+15.98	usable privacy and security,
+20.228	and so my friends like to give me examples
+22.996	of their frustrations with computing systems,
+25.198	especially frustrations related to
+28.552	unusable privacy and security.
+32.664	So passwords are something that I hear a lot about.
+35.375	A lot of people are frustrated with passwords,
+38.255	and it's bad enough
+39.949	when you have to have one really good password
+42.593	that you can remember
+44.415	but nobody else is going to be able to guess.
+47.309	But what do you do when you have accounts
+48.946	on a hundred different systems
+50.754	and you're supposed to have a unique password
+53.03	for each of these systems?
+56.067	It's tough.
+58.251	At Carnegie Mellon, they used to make it
+60.01	actually pretty easy for us
+61.309	to remember our passwords.
+63.046	The password requirement up through 2009
+65.449	was just that you had to have a password
+67.828	with at least one character.
+70.039	Pretty easy. But then they changed things,
+72.927	and at the end of 2009, they announced
+75.597	that we were going to have a new policy,
+77.973	and this new policy required
+79.836	passwords that were at least eight characters long,
+82.517	with an uppercase letter, lowercase letter,
+84.292	a digit, a symbol,
+85.58	you couldn't use the same
+85.58	character more than three times,
+88.218	and it wasn't allowed to be in a dictionary.
+90.652	Now, when they implemented this new policy,
+92.834	a lot of people, my colleagues and friends,
+95.144	"came up to me and they said, ""Wow,"
+96.998	now that's really unusable.
+98.51	Why are they doing this to us,
+99.703	"and why didn't you stop them?"""
+101.414	"And I said, ""Well, you know what?"
+102.77	"They didn't ask me."""
+104.278	But I got curious, and I decided to go talk
+107.743	to the people in charge of our computer systems
+109.68	and find out what led them to introduce
+112.511	this new policy,
+114.359	and they said that the university
+115.943	had joined a consortium of universities,
+118.309	and one of the requirements of membership
+120.943	was that we had to have stronger passwords
+123.191	that complied with some new requirements,
+125.463	and these requirements were that our passwords
+127.567	had to have a lot of entropy.
+129.171	Now entropy is a complicated term,
+131.449	but basically it measures the strength of passwords.
+134.247	But the thing is, there isn't actually
+136.226	a standard measure of entropy.
+138.175	Now, the National Institute
+138.175	of Standards and Technology
+140.574	has a set of guidelines
+142.127	which have some rules of thumb
+144.695	for measuring entropy,
+146.135	but they don't have anything too specific,
+149.03	and the reason they only have rules of thumb
+151.367	is it turns out they don't actually have any good data
+154.503	on passwords.
+156.023	In fact, their report states,
+158.335	"""Unfortunately, we do not have much data"
+160.663	on the passwords users
+160.663	choose under particular rules.
+163.505	NIST would like to obtain more data
+165.838	on the passwords users actually choose,
+168.3	but system administrators
+168.3	are understandably reluctant
+170.763	"to reveal password data to others."""
+173.703	So this is a problem, but our research group
+176.8	looked at it as an opportunity.
+178.94	"We said, ""Well, there's a need"
+178.94	for good password data.
+182.04	Maybe we can collect some good password data
+184.188	and actually advance the state of the art here.
+186.892	So the first thing we did is,
+188.564	we got a bag of candy bars
+190.12	and we walked around campus
+191.206	and talked to students, faculty and staff,
+194.004	and asked them for information
+195.534	about their passwords.
+197.086	"Now we didn't say, ""Give us your password."""
+200.09	No, we just asked them about their password.
+202.751	How long is it? Does it have a digit?
+204.229	Does it have a symbol?
+205.297	And were you annoyed at having to create
+207.342	a new one last week?
+210.086	So we got results from 470 students,
+213.292	faculty and staff,
+214.263	and indeed we confirmed that the new policy
+216.777	was very annoying,
+218.23	but we also found that people said
+220.022	they felt more secure with these new passwords.
+223.152	We found that most people knew
+225.458	they were not supposed to
+225.458	write their password down,
+227.61	and only 13 percent of them did,
+230.001	but disturbingly, 80 percent of people
+232.417	said they were reusing their password.
+234.541	Now, this is actually more dangerous
+236.337	than writing your password down,
+238.359	because it makes you much
+238.359	more susceptible to attackers.
+241.92	So if you have to, write your passwords down,
+245.038	but don't reuse them.
+246.837	We also found some interesting things
+248.588	about the symbols people use in passwords.
+251.549	So CMU allows 32 possible symbols,
+254.348	but as you can see, there's only a small number
+256.781	that most people are using,
+258.583	so we're not actually getting very much strength
+261.524	from the symbols in our passwords.
+263.99	So this was a really interesting study,
+266.701	and now we had data from 470 people,
+269.165	but in the scheme of things,
+270.47	that's really not very much password data,
+273.05	and so we looked around to see
+274.495	where could we find additional password data?
+277.055	So it turns out there are a lot of people
+279.231	going around stealing passwords,
+281.433	and they often go and post these passwords
+283.91	on the Internet.
+285.247	So we were able to get access
+286.92	to some of these stolen password sets.
+290.89	This is still not really ideal for research, though,
+293.218	because it's not entirely clear
+295.255	where all of these passwords came from,
+297.439	or exactly what policies were in effect
+299.681	when people created these passwords.
+301.789	So we wanted to find some better source of data.
+305.341	So we decided that one thing we could do
+306.975	is we could do a study and have people
+309.104	actually create passwords for our study.
+312.344	So we used a service called
+312.344	Amazon Mechanical Turk,
+315.165	and this is a service where you can post
+317.499	a small job online that takes a minute,
+319.803	a few minutes, an hour,
+321.303	and pay people, a penny, ten cents, a few dollars,
+323.887	to do a task for you,
+325.233	and then you pay them through Amazon.com.
+327.355	So we paid people about 50 cents
+329.649	to create a password following our rules
+332.245	and answering a survey,
+333.655	and then we paid them again to come back
+336.18	two days later and log in
+338.251	using their password and answering another survey.
+340.825	So we did this, and we collected 5,000 passwords,
+345.289	and we gave people a bunch of different policies
+347.984	to create passwords with.
+349.492	So some people had a pretty easy policy,
+351.402	we call it Basic8,
+352.941	and here the only rule was that your password
+355.087	had to have at least eight characters.
+358.503	Then some people had a much harder policy,
+360.754	and this was very similar to the CMU policy,
+363.291	that it had to have eight characters
+365.225	including uppercase, lowercase, digit, symbol,
+367.601	and pass a dictionary check.
+369.99	And one of the other policies we tried,
+371.325	and there were a whole bunch more,
+372.595	but one of the ones we tried was called Basic16,
+374.835	and the only requirement here
+377.467	was that your password had
+377.467	to have at least 16 characters.
+380.62	All right, so now we had 5,000 passwords,
+383.078	and so we had much more detailed information.
+386.641	Again we see that there's only a small number
+389.2	of symbols that people are actually using
+391.115	in their passwords.
+393.001	We also wanted to get an idea of how strong
+395.6	the passwords were that people were creating,
+398.371	but as you may recall, there isn't a good measure
+400.991	of password strength.
+402.745	So what we decided to do was to see
+405.057	how long it would take to crack these passwords
+407.427	using the best cracking tools
+408.841	that the bad guys are using,
+410.649	or that we could find information about
+412.665	in the research literature.
+414.202	So to give you an idea of how bad guys
+416.96	go about cracking passwords,
+419.13	they will steal a password file
+421.081	that will have all of the passwords
+423.234	in kind of a scrambled form, called a hash,
+426.123	and so what they'll do is they'll make a guess
+428.685	as to what a password is,
+430.397	run it through a hashing function,
+432.294	and see whether it matches
+434.059	the passwords they have on
+434.059	their stolen password list.
+438.009	So a dumb attacker will try every password in order.
+441.114	They'll start with AAAAA and move on to AAAAB,
+444.682	and this is going to take a really long time
+447.1	before they get any passwords
+448.626	that people are really likely to actually have.
+451.323	A smart attacker, on the other hand,
+453.506	does something much more clever.
+454.892	They look at the passwords
+456.718	that are known to be popular
+458.518	from these stolen password sets,
+460.245	and they guess those first.
+461.434	"So they're going to start by guessing ""password,"""
+463.568	"and then they'll guess ""I love you,"" and ""monkey,"""
+466.319	"and ""12345678,"""
+468.902	because these are the passwords
+470.214	that are most likely for people to have.
+472.119	In fact, some of you probably have these passwords.
+477.191	So what we found
+478.489	by running all of these 5,000 passwords we collected
+481.895	through these tests to see how strong they were,
+486.001	we found that the long passwords
+488.753	were actually pretty strong,
+490.033	and the complex passwords were pretty strong too.
+493.295	However, when we looked at the survey data,
+495.737	we saw that people were really frustrated
+498.761	by the very complex passwords,
+501.1	and the long passwords were a lot more usable,
+503.73	and in some cases, they were actually
+505.055	even stronger than the complex passwords.
+507.963	So this suggests that,
+509.132	instead of telling people that they need
+510.835	to put all these symbols and numbers
+512.357	and crazy things into their passwords,
+515.199	we might be better off just telling people
+517.221	to have long passwords.
+519.873	Now here's the problem, though:
+521.665	Some people had long passwords
+523.92	that actually weren't very strong.
+525.475	You can make long passwords
+527.472	that are still the sort of thing
+529.028	that an attacker could easily guess.
+530.77	So we need to do more than
+530.77	just say long passwords.
+534.135	There has to be some additional requirements,
+536.071	and some of our ongoing research is looking at
+539.04	what additional requirements we should add
+541.479	to make for stronger passwords
+543.583	that also are going to be easy for people
+545.895	to remember and type.
+548.593	Another approach to getting people to have
+550.719	stronger passwords is to use a password meter.
+552.976	Here are some examples.
+554.361	You may have seen these on the Internet
+555.762	when you were creating passwords.
+558.819	We decided to do a study to find out
+561.067	whether these password meters actually work.
+563.954	Do they actually help people
+565.375	have stronger passwords,
+566.828	and if so, which ones are better?
+568.914	So we tested password meters that were
+571.421	different sizes, shapes, colors,
+573.519	different words next to them,
+574.935	and we even tested one that was a dancing bunny.
+578.21	As you type a better password,
+579.792	the bunny dances faster and faster.
+582.331	So this was pretty fun.
+584.86	What we found
+586.427	was that password meters do work.
+589.999	(Laughter)
+591.8	Most of the password meters were actually effective,
+595.133	and the dancing bunny was very effective too,
+597.654	but the password meters that were the most effective
+600.535	were the ones that made you work harder
+602.89	before they gave you that thumbs up and said
+604.87	you were doing a good job,
+606.247	and in fact we found that most
+607.759	of the password meters on the Internet today
+610.04	are too soft.
+610.992	They tell you you're doing a good job too early,
+613.195	and if they would just wait a little bit
+615.124	before giving you that positive feedback,
+617.173	you probably would have better passwords.
+620.333	Now another approach to better passwords, perhaps,
+624.18	is to use pass phrases instead of passwords.
+627.07	So this was an xkcd cartoon 
+627.07	from a couple of years ago,
+630.488	and the cartoonist suggests
+632.162	that we should all use pass phrases,
+634.358	and if you look at the second row of this cartoon,
+637.528	you can see the cartoonist is suggesting
+639.385	"that the pass phrase ""correct horse battery staple"""
+642.826	would be a very strong pass phrase
+645.307	and something really easy to remember.
+647.223	He says, in fact, you've already remembered it.
+650.02	And so we decided to do a research study
+652.17	to find out whether this was true or not.
+654.762	In fact, everybody who I talk to,
+656.537	who I mention I'm doing password research,
+658.579	they point out this cartoon.
+659.979	"""Oh, have you seen it? That xkcd."
+661.553	"Correct horse battery staple."""
+663.155	So we did the research study to see
+664.961	what would actually happen.
+667.32	So in our study, we used Mechanical Turk again,
+670.38	and we had the computer pick the random words
+674.547	in the pass phrase.
+675.647	Now the reason we did this
+676.8	is that humans are not very good
+678.386	at picking random words.
+679.77	If we asked a human to do it,
+681.032	they would pick things that were not very random.
+684.03	So we tried a few different conditions.
+686.062	In one condition, the computer picked
+688.152	from a dictionary of the very common words
+690.368	in the English language,
+691.73	and so you'd get pass phrases like
+693.494	"""try there three come."""
+695.418	And we looked at that, and we said,
+697.15	"""Well, that doesn't really seem very memorable."""
+700.2	So then we tried picking words
+702.44	that came from specific parts of speech,
+704.961	so how about noun-verb-adjective-noun.
+707.143	That comes up with something
+707.143	that's sort of sentence-like.
+709.72	So you can get a pass phrase like
+711.79	"""plan builds sure power"""
+713.098	"or ""end determines red drug."""
+715.884	And these seemed a little bit more memorable,
+718.56	and maybe people would like those a little bit better.
+721.382	We wanted to compare them with passwords,
+723.954	and so we had the computer
+723.954	pick random passwords,
+727.15	and these were nice and short, but as you can see,
+729.14	they don't really look very memorable.
+731.946	And then we decided to try something called
+733.342	a pronounceable password.
+734.988	So here the computer picks random syllables
+737.233	and puts them together
+738.367	so you have something sort of pronounceable,
+740.842	"like ""tufritvi"" and ""vadasabi."""
+743.444	That one kind of rolls off your tongue.
+745.591	So these were random passwords that were
+747.807	generated by our computer.
+750.551	So what we found in this study was that, surprisingly,
+753.529	pass phrases were not actually all that good.
+757.297	People were not really better at remembering
+760.09	the pass phrases than these random passwords,
+763.043	and because the pass phrases are longer,
+765.797	they took longer to type
+767.023	and people made more errors while typing them in.
+770.033	So it's not really a clear win for pass phrases.
+773.26	Sorry, all of you xkcd fans.
+776.605	On the other hand, we did find
+778.497	that pronounceable passwords
+780.301	worked surprisingly well,
+781.772	and so we actually are doing some more research
+784.19	to see if we can make that
+784.19	approach work even better.
+787.385	So one of the problems
+789.197	with some of the studies that we've done
+790.82	is that because they're all done
+792.503	using Mechanical Turk,
+794.093	these are not people's real passwords.
+795.905	They're the passwords that they created
+798.01	or the computer created for them for our study.
+800.505	And we wanted to know whether people
+802.073	would actually behave the same way
+804.385	with their real passwords.
+806.612	So we talked to the information
+806.612	security office at Carnegie Mellon
+810.293	and asked them if we could
+810.293	have everybody's real passwords.
+814.096	Not surprisingly, they were a little bit reluctant
+815.85	to share them with us,
+817.4	but we were actually able to work out
+819.21	a system with them
+820.25	where they put all of the real passwords
+822.359	for 25,000 CMU students, faculty and staff,
+825.45	into a locked computer in a locked room,
+827.898	not connected to the Internet,
+829.292	and they ran code on it that we wrote
+831.14	to analyze these passwords.
+833.292	They audited our code.
+834.618	They ran the code.
+835.93	And so we never actually saw
+837.668	anybody's password.
+840.485	We got some interesting results,
+842	and those of you Tepper students in the back
+843.696	will be very interested in this.
+846.571	So we found that the passwords created
+850.302	by people affiliated with the
+850.302	school of computer science
+852.46	were actually 1.8 times stronger
+854.784	than those affiliated with the business school.
+858.522	We have lots of other really interesting
+860.562	demographic information as well.
+862.8	The other interesting thing that we found
+864.646	is that when we compared
+864.646	the Carnegie Mellon passwords
+867.086	to the Mechanical Turk-generated passwords,
+869.369	there was actually a lot of similarities,
+871.988	and so this helped validate our research method
+873.936	and show that actually, collecting passwords
+876.446	using these Mechanical Turk studies
+878.254	is actually a valid way to study passwords.
+881.042	So that was good news.
+883.327	Okay, I want to close by talking about
+885.741	some insights I gained while on sabbatical
+887.809	last year in the Carnegie Mellon art school.
+891.01	One of the things that I did
+892.291	is I made a number of quilts,
+893.815	and I made this quilt here.
+895.363	"It's called ""Security Blanket."""
+897.262	(Laughter)
+899.693	And this quilt has the 1,000
+902.788	most frequent passwords stolen
+905.116	from the RockYou website.
+907.687	And the size of the passwords is proportional
+909.748	to how frequently they appeared
+911.649	in the stolen dataset.
+913.897	And what I did is I created this word cloud,
+916.529	and I went through all 1,000 words,
+918.661	and I categorized them into
+920.456	loose thematic categories.
+922.836	And it was, in some cases,
+924.739	it was kind of difficult to figure out
+926.777	what category they should be in,
+928.532	and then I color-coded them.
+930.431	So here are some examples of the difficulty.
+933.05	"So ""justin."""
+934.231	Is that the name of the user,
+936.06	their boyfriend, their son?
+937.382	Maybe they're a Justin Bieber fan.
+940.27	"Or ""princess."""
+942.495	Is that a nickname?
+944.13	Are they Disney princess fans?
+945.725	Or maybe that's the name of their cat.
+949.419	"""Iloveyou"" appears many times"
+951.074	in many different languages.
+952.619	There's a lot of love in these passwords.
+956.354	If you look carefully, you'll see there's also
+958.034	some profanity,
+960.301	but it was really interesting to me to see
+962.251	that there's a lot more love than hate
+964.558	in these passwords.
+966.85	And there are animals,
+968.34	a lot of animals,
+969.7	"and ""monkey"" is the most common animal"
+972.004	and the 14th most popular password overall.
+975.679	And this was really curious to me,
+977.91	"and I wondered, ""Why are monkeys so popular?"""
+980.433	And so in our last password study,
+983.785	any time we detected somebody
+985.471	"creating a password with the word ""monkey"" in it,"
+988.12	we asked them why they had
+988.12	a monkey in their password.
+991.15	And what we found out --
+993.06	we found 17 people so far, I think,
+995.163	"who have the word ""monkey"" --"
+996.446	We found out about a third of them said
+998.258	"they have a pet named ""monkey"""
+999.998	"or a friend whose nickname is ""monkey,"""
+1002.289	and about a third of them said
+1003.949	that they just like monkeys
+1005.482	and monkeys are really cute.
+1007.12	And that guy is really cute.
+1010.759	So it seems that at the end of the day,
+1014.167	when we make passwords,
+1015.95	we either make something that's really easy
+1017.924	to type, a common pattern,
+1020.933	or things that remind us of the word password
+1023.419	or the account that we've created the password for,
+1026.731	or whatever.
+1029.348	Or we think about things that make us happy,
+1031.99	and we create our password
+1033.294	based on things that make us happy.
+1035.532	And while this makes typing
+1038.395	and remembering your password more fun,
+1041.265	it also makes it a lot easier
+1043.072	to guess your password.
+1044.578	So I know a lot of these TED Talks
+1046.326	are inspirational
+1047.96	and they make you think about nice, happy things,
+1050.421	but when you're creating your password,
+1052.318	try to think about something else.
+1054.309	Thank you.
+1055.416	(Applause)

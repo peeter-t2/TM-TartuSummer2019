@@ -1,0 +1,391 @@
+startsecond	text
+12.16	In this rather long sort of marathon presentation,
+16.16	I've tried to break it up into three parts:
+18.16	the first being a whole lot of examples on how it can be
+23.16	a little bit more pleasurable to deal with a computer
+27.16	and really address the qualities of the human interface.
+30.16	And these will be some simple design qualities
+33.16	and they will also be some qualities of, if you will,
+36.16	the intelligence of interaction.
+38.16	Then the second part will really just be examples of new technologies --
+42.16	new media falling very much into that mold.
+46.16	Again, I will go through them as fast as possible.
+49.16	And then the last one will be some examples
+52.16	I've been able to collect, which I think
+56.16	illustrate this at least as best I can, in the world of entertainment.
+62.16	People have this belief -- and I share most of it --
+68.16	that we will be using the TV screens or their equivalents
+72.16	for electronic books of the future. But then you think,
+75.16	"""My God! What a terrible image you get when you look at still pictures on TV."""
+80.16	Well, it doesn't have to be terrible.
+82.16	And that is a slide taken from a TV set
+86.16	and it was pre-processed to be very sympathetic to the TV medium,
+90.16	and it absolutely looks beautiful.
+93.16	Well, what's happened? How did people get into this mess?
+99.16	Where you are now, all of a sudden,
+101.16	sitting in front of personal computers
+103.16	and video text -- teletext systems,
+107.16	and somewhat horrified by what you see on the screen?
+110.16	Well, you have to remember that TV was designed
+113.16	to be looked at eight times the distance of the diagonal.
+116.16	So you get a 13-inch, 19-inch, whatever, TV,
+121.16	and then you should multiply that by eight
+123.16	and that's the distance you should sit away from the TV set.
+126.16	Now we've put people 18 inches in front of a TV,
+131.16	and all the artifacts that none of the original designers expected to be seen,
+136.16	all of a sudden, are staring you in the face:
+138.16	the shadow mask, the scan lines, all of that.
+141.16	And they can be treated very easily;
+143.16	there are actually ways of getting rid of them,
+146.16	there are actually ways of just making absolutely beautiful pictures.
+152.16	I'm talking here a little bit about display technologies.
+155.16	Let me talk about how you might input information.
+158.16	And my favorite example is always fingers.
+162.16	I'm very interested in touch-sensitive displays.
+164.16	High-tech, high-touch. Isn't that what some of you said?
+168.16	It's certainly a very important medium for input,
+175.16	and a lot of people think that fingers are a very low-resolution
+178.16	sort of stylus for inputting to a display.
+182.16	In fact, they're not: it's really a very, very high-resolution input medium --
+186.16	you have to just do it twice, you have to touch the screen
+189.16	and then rotate your finger slightly --
+192.16	and you can move a cursor with great accuracy.
+195.16	And so when you see on the market these systems
+197.16	that have just a few light emitting diodes on the side and are very low resolution,
+202.16	it's nice that they exist because it still is better than nothing.
+206.16	But it, in some sense, misses the point:
+208.16	namely, that fingers are a very, very high-resolution input medium.
+214.16	Now, what are some of the other advantages?
+216.16	Well, the one advantage is that you don't have to pick them up,
+220.16	and people don't realize how important that is --
+224.16	not having to pick up your fingers to use them. (Laughter)
+227.16	When you think for a second of the mouse on Macintosh --
+234.16	and I will not criticize the mouse too much --
+238.16	when you're typing -- what you have -- you want to now put something --
+242.16	first of all, you've got to find the mouse.
+244.16	You have to probably stop. Maybe not come to a grinding halt,
+249.16	but you've got to sort of find that mouse. Then you find the mouse,
+252.16	and you're going to have to wiggle it a little bit
+254.16	to see where the cursor is on the screen.
+256.16	And then when you finally see where it is,
+258.16	then you've got to move it to get the cursor over there,
+260.16	"and then -- ""Bang"" -- you've got to hit a button or do whatever."
+263.16	That's four separate steps versus typing and then touching
+266.16	and typing and just doing it all in one motion --
+271.16	or one-and-a-half, depending on how you want to count.
+275.16	Again, what I'm trying to do is just illustrate
+277.16	the kinds of problems that I think face the designers
+281.16	of new computer systems and entertainment systems
+284.16	and educational systems
+287.16	from the perspective of the quality of that interface.
+290.16	And another advantage, of course, of using fingers is you have 10 of them.
+295.16	And we have never known how to do this technically,
+298.16	so this slide is a fake slide.
+300.16	We never succeeded in using ten fingers,
+303.16	but there are certain things you can do, obviously,
+306.16	with more than one-finger input, which is rather fascinating.
+311.16	What we did stumble across was something ...
+314.16	Again, which is typical of the computer field,
+317.16	is when you have a bug that you can't get rid of you turn it into a feature.
+322.16	And maybe ... (Laughter)
+324.16	maybe a mouse is a new kind of bug.
+328.16	But the bug in our case was in touch-sensitive displays:
+332.16	we wanted to be able to draw -- you know, rub your finger
+336.16	across the screen to input continuous points --
+339.16	and there was just too much friction
+341.16	created between your finger and the glass --
+343.16	if glass was the substrate, which it usually is.
+347.16	So we found that that actually was a feature
+350.16	in the sense you could build a pressure-sensitive display.
+353.16	And when you touch it with your finger,
+355.16	you can actually, then, introduce all the forces on the face of that screen,
+360.16	and that actually has a certain amount of value.
+364.16	Let me see if I can load another disc
+366.16	and show you, quickly, an example.
+375.16	Now, imagine a screen, which is not only touch-sensitive now,
+378.16	it's pressure-sensitive.
+380.16	And it's pressure-sensitive to the forces both in the plane of the screen --
+384.16	X, Y, and Z at least in one direction;
+386.16	we couldn't figure out how to come in the other direction.
+390.16	But let me get rid of the slide,
+394.16	and let's see if this comes on.
+401.16	OK. So there is the pressure-sensitive display in operation.
+405.16	The person's just, if you will, pushing on the screen to make a curve.
+410.16	But this is the interesting part.
+412.16	I want to stop it for a second
+416.16	because the movie is very badly made.
+420.16	And the particular display was built about six years ago,
+423.16	and when we moved from one room to another room,
+425.16	a rather large person sat on it and it got destroyed.
+429.16	So all we have is this record. (Laughter)
+432.16	But imagine that screen having lots of objects on it
+440.16	and the person has touched an object --
+443.16	one of N -- like he did there, and then pushed on it.
+448.16	Now, imagine a program
+450.16	where some of those objects are physically heavy and some are light:
+454.16	one is an anvil on a fuzzy rug
+458.16	and the other one is a ping-pong ball on a sheet of glass.
+462.16	And when you touch it, you have to really push very hard
+466.16	to move that anvil across the screen,
+468.16	and yet you touch the ping-pong ball very lightly
+471.16	and it just scoots across the screen.
+473.16	And what you can do -- oops, I didn't mean to do that --
+478.16	what you can do is actually feed back to the user
+482.16	the feeling of the physical properties.
+485.16	So again, they don't have to be weight;
+488.16	they could be a general trying to move troops,
+491.16	and he's got to move an aircraft carrier versus a little boat.
+495.16	In fact, they funded it for that very reason.
+498.16	(Laughter)
+502.16	The whole notion, then, is one that at the interface
+508.16	there are physical properties in that transducer --
+512.16	in this case it's pressure and touches --
+514.16	that allow you to present things to the user that you could never present before.
+518.16	So it's not simply looking at the quality or, if you will, the luxury of that interface,
+523.16	but it's actually looking at the idea
+525.16	of presenting things that previously couldn't be presented before.
+528.16	I want to move on to another example,
+532.16	which is one of a different sort, where we're trying to use computer
+538.16	and video disc technology now to come up with a new kind of book.
+543.16	Here, the idea is that you're going to take this book,
+548.16	if you will, and it's going to come alive.
+550.16	You're going to sort of breathe life into it.
+553.16	We are so used to doing monologues.
+557.16	Filmmakers, for example, are the experts in monologue making:
+561.16	you make a film and it has a well-formed beginning, middle and end,
+564.16	and in some sense the art of it is that.
+567.16	"And you then say, ""There's an opportunity"
+571.16	"for making conversational movies."" Well, what does that mean?"
+575.16	And it sort of nibbles at the core of the whole profession
+581.16	and all the assumptions of that medium.
+583.16	So, book writing is the same thing.
+586.16	What I'll show you very quickly is a new kind of book
+589.16	where it is mixed now with ... all sorts of things live in there,
+593.16	but you have to keep a few things in mind.
+596.16	One is that this book knows about itself.
+601.16	Each frame of the movie has information about itself.
+607.16	So it knows, or at least there is computer-readable information
+612.16	in the medium itself. It's just not a static movie frame.
+616.16	That's one thing. The other is that you have to realize
+618.16	that it is a random access medium,
+621.16	and you can, in fact, branch and expand and elaborate and shrink.
+624.16	And here -- again, my favorite example -- is the cookbook,
+628.16	"the ""Larousse Gastronomique."""
+631.16	And I think I use the example all too often,
+634.16	but it's a great one because there is a classic ending in that little
+639.16	encyclopedia-style cookbook that tells you how to do something like penguin,
+646.16	"and you get to the end of the recipe and it says, ""Cook until done."""
+650.16	Now, that would be, if you will, the top green track,
+655.16	which doesn't mean too much. But you might have to elaborate for me
+659.16	or for somebody who isn't an expert, and say,
+661.16	"""Cook at 380 degrees for 45 minutes."""
+663.16	And then for a real beginner, you would go down even further
+666.16	"and elaborate more -- say, ""Open the oven, preheat, wait for the light to go out,"
+670.16	open the door, don't leave it open too long,
+673.16	"put the penguin in and shut the door ..."" (Laughter) whatever."
+676.16	And that's a much more elaborate one than you dribble back.
+679.16	That's one kind of use of random access.
+684.16	And the other is where you want to explain the same thing in different ways.
+692.16	If you're in a classroom situation and somebody asks a question,
+696.16	the last thing you do is repeat what you just said.
+699.16	You try and think of a different way of saying the same thing,
+703.16	or if you know the particular student and that student's cognitive style,
+708.16	then you might say it in a way that you think
+710.16	would have a good impedance match with that student.
+713.16	There are all sorts of techniques you will use --
+715.16	and again, this is a different kind of branching.
+719.16	So, what I will show you is ... it's a rather boring book,
+725.16	but I'm afraid sometimes you have to do boring books
+728.16	because your sponsors aren't necessarily interested in fiction
+733.16	and entertainment. And this is a book on how to repair a transmission.
+739.16	Now, I don't even know what vintage the transmission is,
+742.16	but let me just show you very quickly some of it, and we'll move on.
+753.16	(Video) Narrator: And continue to get descriptions for each of these chapters.
+756.16	Nicholas Negroponte: Now, this is his table of contents.
+758.16	Just a picture of the transmission, and as you rub your finger across the transmission
+762.16	it highlights the various parts.
+765.16	Narrator: When I find a chapter that I want to see,
+767.16	I just touch the text and the system will format pages for me to read.
+779.16	The words or phrases that are lit up in red are glossary words,
+785.16	so I can get a different definition by just touching the word,
+788.16	and the definition appears, superimposed over the illustration.
+813.16	NN: This is about the oil pan, or the oil filter and all that.
+824.16	This is relatively important because it sets the page ...
+828.16	Narrator: This is another example of a page with glossary words
+833.16	highlighted in red.
+837.16	I can get a definition of these words just by touching them,
+840.16	and the definition will appear in the illustration corner.
+848.16	I can get back to the illustration, but in this case it's not a single frame,
+853.16	but it's actually a movie of someone coming into the frame and doing the repair
+856.16	that's described in the text.
+859.16	The two-headed slider is a speed control that allows me to watch the movie
+863.16	at various speeds, in forward or reverse.
+866.16	And the movie is displayed as a full frame movie.
+871.16	I can go back to the beginning ... and play the movie at full speed.
+889.16	Here's another step-by-step procedure, only in this case --
+891.16	NN: Okay, this movie is ... Everybody's heard of sound-sync movies --
+895.16	this is text-sync movies, so as the movie plays, the text gets highlighted.
+900.16	We highlight the text as we go through the movie.
+904.16	Repairman: ... Not too far out. Front poles, preferably.
+908.16	Don't loosen them too far. If you loosen them too far, you'll have a big mess.
+914.16	NN: I suspect that some of you might not even understand that language.
+918.16	(Laughter)
+923.16	OK. I'm at the third and last part of this,
+928.16	which I said I would make an attempt to at least give you some examples
+932.16	that may be more directly related to the world of entertainment.
+936.16	And of course, good education has got to be good entertainment,
+941.16	so my first example will be drawn from a very recent experiment
+948.16	that we've been doing -- in this case, in Senegal --
+951.16	where we have tried to use personal computers
+956.16	as a pedagogical medium. But not as teaching machines at all;
+961.16	the whole notion is to use this as an instrument
+965.16	where there is a complete reversal of roles --
+968.16	the child is, if you will, the teacher and the machine is the student --
+972.16	and the art of computer programming is a vehicle that sort of
+974.16	approximates thinking about thinking.
+977.16	But teaching kids programming per se is utterly irrelevant.
+982.16	And there are just a few slides I want to go through,
+985.16	but there's a story I'd like to tell. And that was when,
+991.16	before we did this in any developing countries --
+993.16	we're doing it, in fact, in three developing countries right now:
+995.16	Pakistan, Colombia and Senegal --
+997.16	we did it in some pretty rough areas of New York City.
+1002.16	And one child, whose name I've forgotten, was about seven or eight years old,
+1007.16	absolutely considered mentally handicapped --
+1012.16	couldn't read, didn't even make it in the lowest section of the school's classes --
+1020.16	and was pretty much not in school, though physically there.
+1023.16	"But did hang around the, quote, ""computer room,"""
+1026.16	where there were quite a few computers,
+1028.16	and learned this particular language called Logo --
+1032.16	and learned it with great ease and found it a lot of fun,
+1035.16	it was very interesting. And one day, by chance,
+1040.16	some visitors from the NIE came by in their double-breasted suits
+1046.16	looking at this setup, and none of the children who were normally there,
+1051.16	except for this one child, were there.
+1055.16	"He was, and he said, ""Let me show you how this works,"""
+1058.16	and they got an absolutely ingenuous, wonderful description of Logo.
+1063.16	And the child was just zipping right through it, showing them all sorts of things
+1067.16	until they asked him how to do something which he couldn't explain
+1071.16	and so he flipped through the manual, found the explanation
+1074.16	and typed the command and got it to do what they asked.
+1076.16	They were delighted, and by the time it was time to go see the principal,
+1080.16	whom they'd actually come to see -- not the computer room --
+1083.16	they went upstairs and they said,
+1084.16	"""This is absolutely remarkable!"
+1086.16	That child was very articulate and showed us
+1090.16	and even dealt with the things he couldn't do automatically
+1094.16	"with that manual. It was just absolutely fantastic."""
+1098.16	"The principal said, ""There's a dreadful mistake,"
+1101.16	because that child can't read.
+1103.16	And you obviously have been hoodwinked
+1105.16	"or you've talked about somebody else."""
+1108.16	And they all got up and they all went downstairs
+1110.16	and the child was still there. And they did something very intelligent:
+1114.16	"they asked the child, ""Can you read?"""
+1118.16	"And the child said, ""No, I can't."""
+1121.16	"And then they said, ""But wait a minute. You"
+1123.16	"just looked through that manual and you found ... """
+1126.16	"and he said, ""Oh, but that's not reading."""
+1129.16	"And so they said, ""Well, what's reading then?"""
+1131.16	"He says, ""Well, reading is this junk they give me in little books to read."
+1135.16	It's absolutely irrelevant, (Laughter) and I get nothing for it.
+1142.16	"But here, with a little bit of effort I get a lot of return."""
+1146.16	And it really meant something to the child.
+1148.16	The child read beautifully, it turned out,
+1150.16	and was really very competent. So it actually meant something.
+1154.16	And that story has many other anecdotes that are similar,
+1159.16	but wow. The key to the future of computers in education is right there,
+1166.16	and it is: when does it mean something to a child?
+1169.16	There is a myth, and it truly is a myth:
+1172.16	we believe -- and I'm sure a lot of you believe in this room --
+1175.16	that it is harder to read and write than it is to learn how to speak.
+1180.16	"And it's not, but we think speech -- ""My God, little children pick it up somehow,"
+1186.16	and by the age of two they're doing a mediocre job,
+1188.16	and by three and four they're speaking reasonably well.
+1191.16	And yet you've got to go to school to learn how to read,
+1193.16	and you have to sit in a classroom and somebody has to teach you.
+1196.16	"Hence, it must be harder."" Well, it's not harder."
+1199.16	What the truth is is that speaking has great value to a child;
+1206.16	the child can get a great deal by talking to you.
+1209.16	Reading and writing is utterly useless.
+1211.16	There is no reason for a child to read and write except blind faith,
+1216.16	and that it's going to help you. (Laughter)
+1219.16	So what happens is you go to school and people say,
+1222.16	"""Just believe me, you're going to like it."
+1225.16	"You're going to like reading,"" and just read and read."
+1228.16	On the other hand, you give a kid -- a three-year-old kid -- a computer
+1232.16	and they type a little command and -- Poof! -- something happens.
+1235.16	And all of a sudden ... You may not call that reading and writing,
+1238.16	but a certain bit of typing and reading stuff on the screen
+1241.16	has a huge payoff, and it's a lot of fun.
+1244.16	And in fact, it's a powerful educational instrument.
+1248.16	Well, in Senegal we found that this was the traditional classroom:
+1258.16	This student was one of our first students,
+1261.16	and it's the girl on the left leaning with her chalkboard,
+1265.16	and she came ... within two days --
+1268.16	I want to show you the program she wrote,
+1270.16	and remember her hairstyle. And that is the program she made.
+1276.16	That's what meant something to her, is doing the hair pattern,
+1280.16	and actually did it within two days -- an hour each day --
+1285.16	and found it was, to her,
+1287.16	absolutely the most meaningful piece ...
+1290.16	But rooted in that, little did she know how much knowledge
+1294.16	she was acquiring about geometry
+1296.16	and just math and logic and all the rest.
+1299.16	And again, I could talk for three hours about this subject.
+1302.16	I will come to my last example and then quit.
+1310.16	And my last example -- as some of my former colleagues,
+1316.16	whom I see in the room, can imagine what it will be.
+1319.16	Yes, it is. It's our work -- that was a while ago,
+1322.16	and it still is my favorite project -- of teleconferencing.
+1326.16	And the reason it remains a favorite project
+1328.16	is that we were asked to do a teleconferencing system
+1335.16	where you had the following situation:
+1337.16	you had five people at five different sites -- they were known people --
+1342.16	and you had to have these people in teleconference,
+1347.16	such that each one was utterly convinced
+1350.16	that the other four were physically present.
+1354.16	Now, that is sufficiently
+1358.16	zany that we would, obviously, jump to the bait, and we did.
+1363.16	And the fact that we knew the people --
+1366.16	we had to take a page out of the history of Walt Disney --
+1369.16	we actually went so far as to build CRTs
+1372.16	in the shapes of the people's faces.
+1375.16	So if I wanted to call my friend Peter Sprague on the phone,
+1380.16	my secretary would get his head out and bring it and set it on the desk,
+1383.16	(Laughter)
+1384.16	and that would be the TV used for the occasion.
+1389.16	And it's uncanny: there's no way I can explain to you
+1392.16	the amount of eye contact you get with that physical face
+1396.16	projected on a 3D CRT of that sort.
+1400.16	The next thing that we had to do is to persuade them
+1403.16	that there needed to be spatial correspondence, which is straightforward,
+1407.16	but again, it's something that didn't fall naturally
+1409.16	out of a telecommunications or computing style of thinking;
+1412.16	it was a very, if you will, architectural or spatial concept.
+1416.16	And that was to recognize that when you sit around the table,
+1419.16	the actual location of the people becomes rather important.
+1424.16	And when somebody gets up, in fact, to go answer a phone
+1427.16	or use a bathroom or something, the empty seat becomes,
+1430.16	if you will, that person. And you point frequently to the empty seat
+1433.16	"and you say, ""He or she wouldn't agree,"""
+1436.16	and the empty chair is that person and the spatiality is crucial.
+1442.16	"So we said, ""Well, these will be on round tables"
+1445.16	and the order around the table had to be the same,
+1448.16	so that at my site, I would be, if you will, real
+1451.16	and then at each other's site you'd have these plastic heads.
+1456.16	And the plastic heads, sometimes you want to project them.
+1460.16	And there are a number of schemes, which I don't want to dwell on,
+1463.16	but this is the one that we finally used
+1465.16	where we projected onto rear screen material
+1469.16	that was molded in the face -- literally in the face of the person.
+1473.16	And I'll show you one more slide, where this is actually made
+1477.16	from something called a solid photograph and is the screen.
+1481.16	Now, we track, on the person's head, the head motions --
+1484.16	so we transmit with a video the head positions --
+1488.16	and so this head moves in about two axes.
+1495.16	So if I, all of a sudden, turn to the person to my left
+1500.16	and start talking to that person, then at the person to my right's site,
+1505.16	he'll see these two plastic heads talking to each other.
+1508.16	And then if that person interrupts, then those two heads may turn.
+1513.16	And it really is reconstructing, quite accurately, teleconferencing.

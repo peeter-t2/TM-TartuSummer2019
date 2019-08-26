@@ -1,0 +1,313 @@
+startsecond	text
+12.557	In the space that used
+12.557	to house one transistor,
+16.259	we can now fit one billion.
+19.636	That made it so that a computer
+19.636	the size of an entire room
+23.557	now fits in your pocket.
+26.17	You might say the future is small.
+29.611	As an engineer,
+30.842	I'm inspired by this miniaturization
+30.842	revolution in computers.
+34.851	As a physician,
+36.223	I wonder whether we could use it
+36.223	to reduce the number of lives lost
+41.97	due to one of the fastest-growing
+41.97	diseases on Earth:
+46.101	cancer.
+47.543	Now when I say that,
+48.822	what most people hear me say
+48.822	is that we're working on curing cancer.
+52.624	And we are.
+53.911	But it turns out
+55.086	that there's an incredible
+55.086	opportunity to save lives
+57.911	through the early detection
+57.911	and prevention of cancer.
+61.785	Worldwide, over two-thirds of deaths
+61.785	due to cancer are fully preventable
+67.188	using methods that we already
+67.188	have in hand today.
+70.406	Things like vaccination, timely screening
+73.329	and of course, stopping smoking.
+76.316	But even with the best tools
+76.316	and technologies that we have today,
+79.933	some tumors can't be detected
+82.02	until 10 years after
+82.02	they've started growing,
+85.714	when they are 50 million
+85.714	cancer cells strong.
+90.178	What if we had better technologies
+91.881	to detect some of these more
+91.881	deadly cancers sooner,
+95.011	when they could be removed,
+96.337	when they were just getting started?
+98.562	Let me tell you about how
+98.562	miniaturization might get us there.
+103.14	This is a microscope in a typical lab
+105.452	that a pathologist would use
+105.452	for looking at a tissue specimen,
+109.032	like a biopsy or a pap smear.
+111.927	This $7,000 microscope
+114.019	would be used by somebody
+114.019	with years of specialized training
+117.299	to spot cancer cells.
+120.126	This is an image from a colleague
+120.126	of mine at Rice University,
+123.196	Rebecca Richards-Kortum.
+124.798	What she and her team have done
+124.798	is miniaturize that whole microscope
+128.649	into this $10 part,
+130.648	and it fits on the end
+130.648	of an optical fiber.
+133.923	Now what that means is instead
+133.923	of taking a sample from a patient
+137.581	and sending it to the microscope,
+139.254	you can bring the microscope
+139.254	to the patient.
+142.26	And then, instead of requiring
+142.26	a specialist to look at the images,
+146.643	you can train the computer to score
+146.643	normal versus cancerous cells.
+152.084	Now this is important,
+153.278	because what they found
+153.278	working in rural communities,
+156.339	is that even when they have
+156.339	a mobile screening van
+159.602	that can go out into the community
+159.602	and perform exams
+162.459	and collect samples
+163.888	and send them to the central
+163.888	hospital for analysis,
+167.128	that days later,
+168.496	women get a call
+168.496	with an abnormal test result
+171.187	and they're asked to come in.
+172.828	Fully half of them don't turn up
+172.828	because they can't afford the trip.
+177.721	With the integrated microscope
+177.721	and computer analysis,
+181.169	Rebecca and her colleagues
+181.169	have been able to create a van
+184.021	that has both a diagnostic setup
+184.021	and a treatment setup.
+187.831	And what that means
+187.831	is that they can do a diagnosis
+190.569	and perform therapy on the spot,
+193.28	so no one is lost to follow up.
+195.831	That's just one example of how
+195.831	miniaturization can save lives.
+200.148	Now as engineers,
+201.325	we think of this
+201.325	as straight-up miniaturization.
+204.094	You took a big thing
+204.094	and you made it little.
+206.555	But what I told you before about computers
+208.83	was that they transformed our lives
+211.1	when they became small enough
+211.1	for us to take them everywhere.
+215.785	So what is the transformational
+215.785	equivalent like that in medicine?
+220.5	Well, what if you had a detector
+223.66	that was so small that it could
+223.66	circulate in your body,
+227.946	find the tumor all by itself
+230.383	and send a signal to the outside world?
+233.079	It sounds a little bit
+233.079	like science fiction.
+235.18	But actually, nanotechnology
+235.18	allows us to do just that.
+239.415	Nanotechnology allows us to shrink
+239.415	the parts that make up the detector
+244.32	from the width of a human hair,
+246.181	which is 100 microns,
+247.865	to a thousand times smaller,
+250.444	which is 100 nanometers.
+252.37	And that has profound implications.
+255.583	It turns out that materials
+255.583	actually change their properties
+259.25	at the nanoscale.
+261.279	You take a common material like gold,
+263.801	and you grind it into dust,
+263.801	into gold nanoparticles,
+267.146	and it changes from looking
+267.146	gold to looking red.
+271.082	If you take a more exotic material
+271.082	like cadmium selenide --
+274.919	forms a big, black crystal --
+277.117	if you make nanocrystals
+277.117	out of this material
+279.742	and you put it in a liquid,
+281.339	and you shine light on it,
+283.187	they glow.
+284.377	And they glow blue, green,
+284.377	yellow, orange, red,
+290.032	depending only on their size.
+292.887	It's wild! Can you imagine an object
+292.887	like that in the macro world?
+296.914	It would be like all the denim jeans
+296.914	in your closet are all made of cotton,
+303.509	but they are different colors
+303.509	depending only on their size.
+308.212	(Laughter)
+310.982	So as a physician,
+312.53	what's just as interesting to me
+314.778	is that it's not just
+314.778	the color of materials
+317.102	that changes at the nanoscale;
+319.057	the way they travel
+319.057	in your body also changes.
+323.137	And this is the kind of observation
+323.137	that we're going to use
+325.96	to make a better cancer detector.
+328.158	So let me show you what I mean.
+330.686	This is a blood vessel in the body.
+332.907	Surrounding the blood vessel is a tumor.
+335.683	We're going to inject nanoparticles
+335.683	into the blood vessel
+338.748	and watch how they travel
+338.748	from the bloodstream into the tumor.
+343.464	Now it turns out that the blood vessels
+343.464	of many tumors are leaky,
+347.84	and so nanoparticles can leak out
+347.84	from the bloodstream into the tumor.
+352.628	Whether they leak out
+352.628	depends on their size.
+356.129	So in this image,
+357.303	the smaller, hundred-nanometer,
+357.303	blue nanoparticles are leaking out,
+361.698	and the larger, 500-nanometer,
+361.698	red nanoparticles
+365.118	are stuck in the bloodstream.
+366.919	So that means as an engineer,
+369.046	depending on how big
+369.046	or small I make a material,
+373.062	I can change where it goes in your body.
+377.249	In my lab, we recently made
+377.249	a cancer nanodetector
+381.915	that is so small that it could travel
+381.915	into the body and look for tumors.
+387.477	We designed it to listen
+387.477	for tumor invasion:
+391.593	the orchestra of chemical signals
+391.593	that tumors need to make to spread.
+396.932	For a tumor to break out
+396.932	of the tissue that it's born in,
+399.858	it has to make chemicals called enzymes
+402.598	to chew through
+402.598	the scaffolding of tissues.
+405.763	We designed these nanoparticles
+405.763	to be activated by these enzymes.
+411.034	One enzyme can activate a thousand
+411.034	of these chemical reactions in an hour.
+417.462	Now in engineering, we call
+417.462	that one-to-a-thousand ratio
+421.044	a form of amplification,
+422.633	and it makes something ultrasensitive.
+424.829	So we've made an ultrasensitive
+424.829	cancer detector.
+429.22	OK, but how do I get this activated
+429.22	signal to the outside world,
+434.144	where I can act on it?
+435.906	For this, we're going to use
+435.906	one more piece of nanoscale biology,
+439.482	and that has to do with the kidney.
+441.659	The kidney is a filter.
+443.996	Its job is to filter out the blood
+443.996	and put waste into the urine.
+449.197	It turns out that what the kidney filters
+451.883	is also dependent on size.
+454.901	So in this image, what you can see
+456.865	is that everything smaller
+456.865	than five nanometers
+459.898	is going from the blood,
+459.898	through the kidney, into the urine,
+464.027	and everything else
+464.027	that's bigger is retained.
+467.176	OK, so if I make a 100-nanometer
+467.176	cancer detector,
+472.147	I inject it in the bloodstream,
+474.643	it can leak into the tumor
+474.643	where it's activated by tumor enzymes
+480.097	to release a small signal
+482.477	that is small enough to be
+482.477	filtered out of the kidney
+485.723	and put into the urine,
+487.925	I have a signal in the outside world
+487.925	that I can detect.
+492.588	OK, but there's one more problem.
+494.664	This is a tiny little signal,
+496.434	so how do I detect it?
+498.73	Well, the signal is just a molecule.
+500.989	They're molecules
+500.989	that we designed as engineers.
+503.68	They're completely synthetic,
+503.68	and we can design them
+506.882	so they are compatible
+506.882	with our tool of choice.
+510.145	If we want to use a really
+510.145	sensitive, fancy instrument
+513.611	called a mass spectrometer,
+515.599	then we make a molecule
+515.599	with a unique mass.
+518.671	Or maybe we want make something
+518.671	that's more inexpensive and portable.
+522.394	Then we make molecules
+522.394	that we can trap on paper,
+526.201	like a pregnancy test.
+527.929	In fact, there's a whole
+527.929	world of paper tests
+530.579	that are becoming available
+530.579	in a field called paper diagnostics.
+535.711	Alright, where are we going with this?
+538.724	What I'm going to tell you next,
+540.317	as a lifelong researcher,
+542.167	represents a dream of mine.
+544.396	I can't say that's it's a promise;
+546.513	it's a dream.
+548.029	But I think we all have to have dreams
+548.029	to keep us pushing forward,
+551.64	even -- and maybe especially --
+551.64	cancer researchers.
+555.601	I'm going to tell you what I hope
+555.601	will happen with my technology,
+559.124	that my team and I will put
+559.124	our hearts and souls
+563.239	into making a reality.
+565.289	OK, here goes.
+567.011	I dream that one day,
+570.39	instead of going into
+570.39	an expensive screening facility
+573.669	to get a colonoscopy,
+575.198	or a mammogram,
+576.545	or a pap smear,
+578.585	that you could get a shot,
+580.328	wait an hour,
+582.012	and do a urine test on a paper strip.
+585.653	I imagine that this could even happen
+588.484	without the need for steady electricity,
+591.171	or a medical professional in the room.
+593.799	Maybe they could be far away
+595.32	and connected only by the image
+595.32	on a smartphone.
+598.854	Now I know this sounds like a dream,
+600.613	but in the lab we already
+600.613	have this working in mice,
+603.756	where it works better
+603.756	than existing methods
+605.859	for the detection of lung,
+605.859	colon and ovarian cancer.
+610.603	And I hope that what this means
+612.861	is that one day we can
+612.861	detect tumors in patients
+618.061	sooner than 10 years
+618.061	after they've started growing,
+621.378	in all walks of life,
+623.387	all around the globe,
+625.26	and that this would lead
+625.26	to earlier treatments,
+628.019	and that we could save more lives
+628.019	than we can today,
+631.641	with early detection.
+633.686	Thank you.
+634.892	(Applause)

@@ -1,0 +1,302 @@
+startsecond	text
+13.8	When I was a kid,
+13.8	my parents would tell me,
+16.64	"""You can make a mess,"
+16.64	"but you have to clean up after yourself."""
+20.44	So freedom came with responsibility.
+23.8	But my imagination would take me
+23.8	to all these wonderful places,
+27.4	where everything was possible.
+29.52	So I grew up in a bubble of innocence --
+32.44	or a bubble of ignorance, I should say,
+34.8	because adults would lie to us
+34.8	to protect us from the ugly truth.
+39.92	And growing up, I found out
+39.92	that adults make a mess,
+43.52	and they're not very good
+43.52	at cleaning up after themselves.
+47.36	Fast forward, I am an adult now,
+49.52	and I teach citizen science and invention
+49.52	at the Hong Kong Harbour School.
+54.52	And it doesn't take too long
+55.88	before my students walk on a beach
+55.88	and stumble upon piles of trash.
+60.12	So as good citizens,
+60.12	we clean up the beaches --
+62.8	and no, he is not drinking alcohol,
+62.8	and if he is, I did not give it to him.
+67.88	(Laughter)
+69.96	And so it's sad to say,
+71.2	but today more than 80 percent 
+71.2	of the oceans have plastic in them.
+75	It's a horrifying fact.
+76.8	And in past decades,
+78.2	we've been taking those big ships out
+78.2	and those big nets,
+81.68	and we collect those plastic bits
+81.68	that we look at under a microscope,
+85.04	and we sort them,
+86.28	and then we put this data onto a map.
+88.44	But that takes forever,
+88.44	it's very expensive,
+90.8	and so it's quite risky
+90.8	to take those big boats out.
+93.96	So with my students, ages six to 15,
+96.92	we've been dreaming
+96.92	of inventing a better way.
+99.16	So we've transformed our tiny
+99.16	Hong Kong classroom into a workshop.
+103.6	And so we started building
+103.6	this small workbench,
+106.28	with different heights,
+106.28	so even really short kids can participate.
+109.48	And let me tell you, kids with power tools
+109.48	are awesome and safe.
+113.68	(Laughter)
+115.04	Not really.
+116.96	And so, back to plastic.
+118.2	We collect this plastic and we grind it
+118.2	to the size we find it in the ocean,
+121.84	which is very small
+121.84	because it breaks down.
+124.04	And so this is how we work.
+125.44	I let the imaginations
+125.44	of my students run wild.
+128.6	And my job is to try to collect
+128.6	the best of each kid's idea
+132.88	and try to combine it into something
+132.88	that hopefully would work.
+137.92	And so we have agreed
+137.92	that instead of collecting plastic bits,
+141.08	we are going to collect only the data.
+143.08	So we're going to get an image
+143.08	of the plastic with a robot --
+146.08	so robots, kids get very excited.
+148.48	And the next thing we do --
+148.48	"we do what we call ""rapid prototyping."""
+151.647	We are so rapid at prototyping
+153.36	that the lunch is still in the lunchbox
+153.36	when we're hacking it.
+156.56	(Laughter)
+157.88	And we hack table lamps and webcams,
+157.88	into plumbing fixtures
+162.16	and we assemble that into a floating robot
+162.16	that will be slowly moving through water
+167.32	and through the plastic
+167.32	that we have there --
+169.44	and this is the image
+169.44	that we get in the robot.
+171.655	So we see the plastic pieces
+171.655	floating slowly through the sensor,
+175.4	and the computer on board
+175.4	will process this image,
+178.72	and measure the size of each particle,
+180.84	so we have a rough estimate
+180.84	of how much plastic there is in the water.
+185.52	So we documented
+185.52	this invention step by step
+188.56	on a website for inventors
+188.56	called Instructables,
+191.96	in the hope that somebody
+191.96	would make it even better.
+195.838	What was really cool about this project
+195.838	was that the students saw a local problem,
+199.72	and boom -- they are trying
+199.72	to immediately address it.
+202.411	[I can investigate my local problem]
+204.76	But my students in Hong Kong
+204.76	are hyperconnected kids.
+208	And they watch the news,
+208	they watch the Internet,
+210.32	and they came across this image.
+213.84	This was a child, probably under 10,
+213.84	cleaning up an oil spill bare-handed,
+218.6	in the Sundarbans, which is the world's
+218.6	largest mangrove forest in Bangladesh.
+223.12	So they were very shocked,
+225.6	because this is the water they drink,
+225.6	this is the water they bathe in,
+228.92	this is the water they fish in --
+228.92	this is the place where they live.
+232.32	And also you can see the water is brown,
+232.32	the mud is brown and oil is brown,
+236.24	so when everything is mixed up,
+237.741	it's really hard to see
+237.741	what's in the water.
+240.24	But, there's a technology
+240.24	that's rather simple,
+242.52	that's called spectrometry,
+244.08	that allows you see what's in the water.
+246.009	So we built a rough prototype
+246.009	of a spectrometer,
+249.08	and you can shine light
+249.08	through different substances
+252.04	that produce different spectrums,
+254.48	so that can help you
+254.48	identify what's in the water.
+258.36	So we packed this prototype of a sensor,
+261.28	and we shipped it to Bangladesh.
+263.989	So what was cool about this project
+265.68	was that beyond addressing
+265.68	a local problem,
+268.839	or looking at a local problem,
+270.293	my students used their empathy
+270.293	and their sense of being creative
+274.24	to help, remotely, other kids.
+276.52	[I can investigate a remote problem]
+278.259	So I was very compelled
+278.259	by doing the second experiments,
+280.903	and I wanted to take it even further --
+283.44	maybe addressing an even harder problem,
+283.44	and it's also closer to my heart.
+288.56	So I'm half Japanese and half French,
+291.2	and maybe you remember in 2011
+291.2	there was a massive earthquake in Japan.
+297.12	It was so violent that it triggered
+297.12	several giant waves --
+300.96	they are called tsunami --
+302.4	and those tsunami destroyed many cities
+302.4	on the eastern coast of Japan.
+310.68	More than 14,000 people
+310.68	died in an instant.
+315.6	Also, it damaged the nuclear
+315.6	power plant of Fukushima,
+319.36	the nuclear power plant just by the water.
+322.48	And today, I read the reports
+324.92	and an average of 300 tons
+328	are leaking from the nuclear power plant
+328	into the Pacific Ocean.
+331.6	And today the whole Pacific Ocean
+331.6	has traces of contamination of cesium-137.
+338	If you go outside on the West Coast,
+338	you can measure Fukushima everywhere.
+342.44	But if you look at the map,
+342.44	it can look like most of the radioactivity
+345.76	has been washed away
+345.76	from the Japanese coast,
+347.88	and most of it is now --
+347.88	it looks like it's safe, it's blue.
+350.72	Well, reality is a bit
+350.72	more complicated than this.
+354.16	So I've been going to Fukushima
+354.16	every year since the accident,
+357.84	and I measure independently
+357.84	and with other scientists,
+360.4	on land, in the river --
+362.28	and this time we wanted to take the kids.
+365.04	So of course we didn't take the kids,
+365.04	the parents wouldn't allow that to happen.
+368.84	(Laughter)
+370.2	But every night we would report
+370.2	"to ""Mission Control"" --"
+374.16	different masks they're wearing.
+376.36	It could look like they didn't take
+376.36	the work seriously, but they really did
+380.76	because they're going to have to live
+380.76	with radioactivity their whole life.
+385.64	And so what we did with them
+387.72	is that we'd discuss the data
+387.72	we collected that day,
+390.36	and talk about where
+390.36	we should be going next --
+392.575	strategy, itinerary, etc...
+394.72	And to do this, we built
+394.72	a very rough topographical map
+398.36	of the region around
+398.36	the nuclear power plant.
+401.24	And so we built the elevation map,
+403.28	we sprinkled pigments to represent
+403.28	real-time data for radioactivity,
+407.92	and we sprayed water
+407.92	to simulate the rainfall.
+412.28	And with this we could see
+412.28	that the radioactive dust
+415.28	was washing from the top of the mountain
+415.28	into the river system,
+418.36	and leaking into the ocean.
+419.92	So it was a rough estimate.
+422.68	But with this in mind,
+422.68	we organized this expedition,
+425.64	which was the closest civilians have been
+425.64	to the nuclear power plant.
+429.28	We are sailing 1.5 kilometers away
+429.28	from the nuclear power plant,
+433.64	and with the help of the local fisherman,
+435.617	we are collecting sediment from the seabed
+437.88	with a custom sediment sampler
+437.88	we've invented and built.
+441.36	We pack the sediment into small bags,
+444.64	we then dispatch them
+444.64	to hundreds of small bags
+446.92	that we send to different universities,
+448.88	and we produce the map
+448.88	of the seabed radioactivity,
+451.88	especially in estuaries
+451.88	where the fish will reproduce,
+454.44	and I will hope that we will have improved
+456.52	the safety of the local fishermen
+456.52	and of your favorite sushi.
+459.64	(Laughter)
+460.96	You can see a progression here --
+462.56	we've gone from a local problem
+462.56	to a remote problem to a global problem.
+467.12	And it's been super exciting
+467.12	to work at these different scales,
+470.097	with also very simple,
+470.097	open-source technologies.
+473.68	But at the same time,
+473.68	it's been increasingly frustrating
+477.04	because we have only started to measure
+477.04	the damage that we have done.
+480.76	We haven't even started
+480.76	to try to solve the problems.
+485.64	And so I wonder
+485.64	if we should just take a leap
+488.44	and try to invent better ways
+488.44	to do all these things.
+493.52	And so the classroom
+493.52	started to feel a little bit small,
+497.12	so we found an industrial
+497.12	site in Hong Kong,
+499.84	and we turned it into
+499.84	the largest mega-space
+503.12	focused on social
+503.12	and environmental impact.
+506.32	It's in central Hong Kong,
+507.64	and it's a place we can work
+507.64	with wood, metal, chemistry,
+510.88	a bit of biology, a bit of optics,
+512.53	basically you can build
+512.53	pretty much everything there.
+515.047	And its a place where
+515.047	adults and kids can play together.
+518.04	It's a place where
+518.04	kids' dreams can come true,
+521.64	with the help of adults,
+523	and where adults can be kids again.
+524.84	Student: Acceleration! Acceleration!
+528	Cesar Harada: We're asking
+528	questions such as,
+530.159	can we invent the future of mobility
+530.159	with renewable energy?
+533	For example.
+535.32	Or, can we help the mobility
+535.32	of the aging population
+539.64	by transforming very standard wheelchairs
+539.64	into cool, electric vehicles?
+545.24	So plastic, oil and radioactivity
+545.24	are horrible, horrible legacies,
+551.8	but the very worst legacy
+551.8	that we can leave our children is lies.
+556.76	We can no longer afford
+556.76	to shield the kids from the ugly truth
+562	because we need their imagination
+562	to invent the solutions.
+566.72	So citizen scientists, makers, dreamers --
+571.72	we must prepare the next generation
+574.44	that cares about
+574.44	the environment and people,
+577.52	and that can actually
+577.52	do something about it.
+580.2	Thank you.
+581.44	(Applause)

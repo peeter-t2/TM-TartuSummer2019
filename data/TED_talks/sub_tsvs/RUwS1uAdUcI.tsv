@@ -1,0 +1,597 @@
+startsecond	text
+25.626	About 10 years ago, I took on the task
+25.626	to teach global development
+30.005	to Swedish undergraduate students.
+32.052	That was after having spent about 20 years
+34.996	together with African institutions
+34.996	studying hunger in Africa,
+38.53	so I was sort of expected
+38.53	to know a little about the world.
+42.473	And I started in our medical university,
+42.473	Karolinska Institute,
+46	an undergraduate course
+46	called Global Health.
+49.394	But when you get that opportunity,
+49.394	you get a little nervous.
+52.4	I thought, these students coming to us
+54.299	actually have the highest grade
+54.299	you can get in Swedish college systems --
+57.835	so I thought, maybe they know everything
+57.835	I'm going to teach them about.
+61.276	So I did a pre-test when they came.
+63	And one of the questions
+63	from which I learned a lot was this one:
+66.732	"""Which country has the highest"
+66.732	"child mortality of these five pairs?"""
+71.821	I put them together,
+71.821	so that in each pair of country,
+74.634	one has twice the child
+74.634	mortality of the other.
+78.453	And this means that
+78.453	it's much bigger a difference
+82.722	than the uncertainty of the data.
+84.417	I won't put you at a test here,
+84.417	but it's Turkey,
+86.756	which is highest there, Poland,
+86.756	Russia, Pakistan and South Africa.
+91	And these were the results
+91	of the Swedish students.
+93.68	I did it so I got the confidence interval,
+93.68	which is pretty narrow, and I got happy,
+97.609	of course: a 1.8 right answer
+97.609	out of five possible.
+100.424	That means that there was a place
+100.424	for a professor of international health
+104	and for my course.
+105.131	(Laughter)
+106.273	But one late night,
+106.273	when I was compiling the report,
+110	I really realized my discovery.
+112.856	I have shown that Swedish top students
+115.987	know statistically significantly less
+115.987	about the world than the chimpanzees.
+121	(Laughter)
+123	Because the chimpanzee
+123	would score half right
+126.254	if I gave them two bananas
+126.254	with Sri Lanka and Turkey.
+129.137	They would be right half of the cases.
+129.137	But the students are not there.
+132.583	The problem for me was not ignorance;
+132.583	it was preconceived ideas.
+136.822	I did also an unethical study
+139.583	of the professors
+139.583	of the Karolinska Institute,
+141.83	that hands out
+141.83	the Nobel Prize in Medicine,
+144.215	and they are on par
+144.215	with the chimpanzee there.
+146.43	(Laughter)
+149.478	This is where I realized that
+149.478	there was really a need to communicate,
+153.685	because the data
+153.685	of what's happening in the world
+156.611	and the child health
+156.611	of every country is very well aware.
+159.806	We did this software
+159.806	which displays it like this:
+162.75	every bubble here is a country.
+164.555	This country over here is China.
+169.596	This is India.
+170.621	The size of the bubble is the population,
+172.909	and on this axis here,
+172.909	I put fertility rate.
+176.714	Because my students, what they said
+179	when they looked upon the world,
+179	and I asked them,
+181.833	"""What do you really"
+181.833	"think about the world?"""
+184.203	Well, I first discovered
+184.203	that the textbook was Tintin, mainly.
+187.769	(Laughter)
+188.942	"And they said, ""The world"
+188.942	is still 'we' and 'them.'
+191.481	And 'we' is Western world
+191.481	"and 'them' is Third World."""
+195.328	"""And what do you mean"
+195.328	"with Western world?"" I said."
+197.915	"""Well, that's long life and small family,"
+199.916	and Third World is short life
+199.916	"and large family."""
+203.058	So this is what I could display here.
+205.46	I put fertility rate here:
+205.46	number of children per woman:
+208.86	one, two, three, four,
+208.86	up to about eight children per woman.
+212	We have very good data
+212	since 1962 -- 1960 about --
+216.369	on the size of families in all countries.
+218.426	The error margin is narrow.
+219.825	Here, I put life expectancy at birth,
+221.696	from 30 years in some countries
+221.696	up to about 70 years.
+225	And 1962, there was really
+225	a group of countries here
+228	that was industrialized countries,
+231.277	and they had small families
+231.277	and long lives.
+233.625	And these were the developing countries:
+235.663	they had large families
+235.663	and they had relatively short lives.
+238.765	Now, what has happened since 1962?
+238.765	We want to see the change.
+242.668	Are the students right?
+242.668	Is it still two types of countries?
+245.629	Or have these developing countries
+245.629	got smaller families and they live here?
+249.212	Or have they got longer lives
+249.212	and live up there?
+251.711	Let's see. We stopped the world then.
+253.576	This is all U.N. statistics
+253.576	that have been available.
+256.086	Here we go. Can you see there?
+257.611	It's China there, moving against
+257.611	better health there, improving there.
+260.922	All the green Latin American countries
+260.922	are moving towards smaller families.
+264.591	Your yellow ones here
+264.591	are the Arabic countries,
+267.037	and they get longer life,
+267.037	but not larger families.
+270.962	The Africans are the green here.
+270.962	They still remain here.
+273.608	This is India; Indonesia
+273.608	is moving on pretty fast.
+276.01	(Laughter)
+277.063	In the '80s here, you have Bangladesh
+277.063	still among the African countries.
+280.522	But now, Bangladesh --
+280.522	it's a miracle that happens in the '80s:
+283.499	the imams start to promote
+283.499	family planning.
+286	They move up into that corner.
+287.863	And in the '90s, we have
+287.863	the terrible HIV epidemic
+291.088	that takes down the life expectancy
+291.088	of the African countries
+294.718	and all the rest of them
+294.718	move up into the corner,
+298	where we have long lives and small family,
+298	and we have a completely new world.
+302.938	(Applause)
+313.879	(Applause ends)
+315	Let me make a comparison directly
+317.404	between the United States
+317.404	of America and Vietnam.
+322.538	America had small families and long life;
+325.173	Vietnam had large families
+325.173	and short lives.
+328.323	And this is what happens:
+330.015	the data during the war indicate
+330.015	that even with all the death,
+335	there was an improvement
+335	of life expectancy.
+337.177	By the end of the year,
+337.177	the family planning started in Vietnam;
+340.165	they went for smaller families.
+341.756	And the United States up there
+341.756	is getting for longer life,
+344.671	keeping family size.
+345.802	And in the '80s now,
+345.802	they give up Communist planning
+348.862	and they go for market economy,
+350.845	and it moves faster even than social life.
+352.87	And today, we have in Vietnam
+355.175	the same life expectancy
+355.175	and the same family size
+359.87	here in Vietnam, 2003,
+362.969	as in United States, 1974,
+362.969	by the end of the war.
+367.562	If we don't look in the data,
+370.833	I think we all underestimate
+370.833	the tremendous change in Asia,
+374	which was in social change
+374	before we saw the economical change.
+378.793	Let's move over to another way here
+378.793	in which we could display
+383	the distribution
+383	in the world of the income.
+386.901	This is the world distribution
+386.901	of income of people.
+391.499	One dollar, 10 dollars
+391.499	or 100 dollars per day.
+396.071	There's no gap between rich
+396.071	and poor any longer. This is a myth.
+399.436	There's a little hump here.
+402.119	But there are people all the way.
+404	And if we look where the income ends up,
+408	this is 100 percent
+408	the world's annual income.
+412.346	And the richest 20 percent,
+414.833	they take out of that about 74 percent.
+418.731	And the poorest 20 percent,
+418.731	they take about two percent.
+423.906	And this shows that the concept
+423.906	of developing countries
+426.839	is extremely doubtful.
+428.218	We think about aid,
+430	like these people here giving aid
+430	to these people here.
+433.972	But in the middle, we have
+433.972	most of the world population,
+436.634	and they have now
+439.749	We heard it in other forms.
+439.749	And who are these?
+443.543	Where are the different countries?
+443.543	I can show you Africa.
+447.968	This is Africa.
+452.81	This is OECD.
+454.847	The rich country.
+454.847	The country club of the U.N.
+457.454	And they are over here on this side.
+457.454	Quite an overlap between Africa and OECD.
+462.894	And this is Latin America.
+464.266	It has everything on this Earth,
+464.266	from the poorest to the richest
+467.645	in Latin America.
+468.917	And on top of that,
+468.917	we can put East Europe,
+471.959	we can put East Asia,
+471.959	and we put South Asia.
+475.372	And how did it look like
+475.372	if we go back in time,
+478.526	to about 1970?
+480.453	Then there was more of a hump.
+484.154	And we have most who lived
+484.154	in absolute poverty were Asians.
+487.586	The problem in the world
+487.586	was the poverty in Asia.
+490.802	And if I now let the world move forward,
+494	you will see that
+494	while population increases,
+496.774	there are hundreds of millions
+496.774	in Asia getting out of poverty
+499.867	and some others getting into poverty,
+502.1	and this is the pattern we have today.
+504.025	And the best projection
+504.025	from the World Bank
+506.12	is that this will happen,
+507.878	and we will not have a divided world.
+509.93	We'll have most people in the middle.
+511.849	Of course it's a logarithmic scale here,
+513.778	but our concept of economy
+513.778	is growth with percent.
+517.321	We look upon it as a possibility
+517.321	of percentile increase.
+522.393	If I change this, and take GDP per capita
+522.393	instead of family income,
+527.344	and I turn these individual data
+531.094	into regional data
+531.094	of gross domestic product,
+534.16	and I take the regions down here,
+536.485	the size of the bubble
+536.485	is still the population.
+538.748	And you have the OECD there,
+538.748	and you have sub-Saharan Africa there,
+541.97	and we take off the Arab states there,
+544	coming both from Africa and from Asia,
+544	and we put them separately,
+548	and we can expand this axis,
+548	and I can give it a new dimension here,
+553	by adding the social values
+553	there, child survival.
+556.386	Now I have money on that axis,
+558.574	and I have the possibility
+558.574	of children to survive there.
+561.291	In some countries, 99.7% of children
+561.291	survive to five years of age;
+565.461	others, only 70.
+567.21	And here, it seems,
+567.21	there is a gap between OECD,
+570.309	Latin America, East Europe, East Asia,
+573.578	Arab states, South Asia
+573.578	and sub-Saharan Africa.
+577.494	The linearity is very strong
+577.494	between child survival and money.
+582.396	But let me split sub-Saharan Africa.
+585.444	Health is there
+585.444	and better health is up there.
+590.689	I can go here and I can split
+590.689	sub-Saharan Africa into its countries.
+595	And when it burst,
+596.601	the size of its country bubble
+596.601	is the size of the population.
+600.271	Sierra Leone down there.
+600.271	Mauritius is up there.
+602.835	Mauritius was the first country
+604.926	to get away with trade barriers,
+604.926	and they could sell their sugar --
+608.351	they could sell their textiles --
+609.963	on equal terms as the people
+609.963	in Europe and North America.
+613.627	There's a huge difference between Africa.
+613.627	And Ghana is here in the middle.
+617.128	In Sierra Leone, humanitarian aid.
+620	Here in Uganda, development aid.
+623.95	Here, time to invest;
+623.95	there, you can go for a holiday.
+626.498	It's a tremendous variation within Africa
+629.885	which we rarely often make
+629.885	-- that it's equal everything.
+633	I can split South Asia here.
+633	India's the big bubble in the middle.
+637	But a huge difference
+637	between Afghanistan and Sri Lanka.
+641.486	I can split Arab states. How are they?
+643.664	Same climate, same culture,
+643.664	same religion -- huge difference.
+647.824	Even between neighbors.
+649.181	Yemen, civil war.
+650.521	United Arab Emirates, money,
+650.521	which was quite equally and well used.
+654.888	Not as the myth is.
+656.397	And that includes all the children
+656.397	of the foreign workers
+659.594	who are in the country.
+662.284	Data is often better than you think.
+662.284	Many people say data is bad.
+666	There is an uncertainty margin,
+666	but we can see the difference here:
+669.167	Cambodia, Singapore.
+670.553	The differences are much bigger
+670.553	than the weakness of the data.
+673.548	East Europe: Soviet economy
+673.548	for a long time,
+678.219	but they come out after 10 years
+678.219	very, very differently.
+681.455	And there is Latin America.
+684.101	Today, we don't have to go to Cuba
+685.846	to find a healthy country
+685.846	in Latin America.
+687.934	Chile will have a lower child mortality
+687.934	than Cuba within some few years from now.
+692.592	Here, we have high-income
+692.592	countries in the OECD.
+695.671	And we get the whole pattern
+695.671	here of the world,
+699.404	which is more or less like this.
+701.474	And if we look at it, how the world looks,
+706.617	in 1960, it starts to move.
+710	This is Mao Tse-tung.
+710	He brought health to China.
+712.593	And then he died.
+713.751	And then Deng Xiaoping came
+713.751	and brought money to China,
+716.482	and brought them
+716.482	into the mainstream again.
+718.56	And we have seen how countries
+718.56	move in different directions like this,
+722.742	so it's sort of difficult to get
+722.742	an example country
+728.131	which shows the pattern of the world.
+730.84	But I would like to bring you back
+730.84	to about here, at 1960.
+738.083	I would like to compare
+741.397	South Korea, which is this one,
+741.397	with Brazil, which is this one.
+749.187	The label went away for me here.
+750.992	And I would like to compare Uganda,
+750.992	which is there.
+754.691	And I can run it forward, like this.
+759.413	And you can see how South Korea is making
+759.413	a very, very fast advancement,
+766.404	whereas Brazil is much slower.
+769	And if we move back again, here,
+769	and we put on trails on them, like this,
+775.358	you can see again
+775.358	that the speed of development
+779	is very, very different,
+781.838	and the countries are moving more or less
+781.838	in the same rate as money and health,
+788.563	but it seems you can move much faster
+790.461	if you are healthy first
+790.461	than if you are wealthy first.
+794	And to show that, you can put
+794	on the way of United Arab Emirates.
+798	They came from here, a mineral country.
+800.88	They cached all the oil;
+800.88	they got all the money;
+803.229	but health cannot be bought
+803.229	at the supermarket.
+806.516	You have to invest in health.
+806.516	You have to get kids into schooling.
+809.636	You have to train health staff.
+809.636	You have to educate the population.
+812.803	And Sheikh Zayed did that
+812.803	in a fairly good way.
+815.281	In spite of falling oil prices,
+815.281	he brought this country up here.
+819	So we've got a much more mainstream
+819	appearance of the world,
+823	where all countries tend
+823	to use their money
+825.551	better than they used in the past.
+828.755	Now, this is, more or less, if you look
+828.755	at the average data of the countries --
+835.751	they are like this.
+837.423	Now that's dangerous, to use average data,
+840.789	because there is such
+840.789	a lot of difference within countries.
+844.584	So if I go and look here,
+844.584	we can see that Uganda today
+851.027	is where South Korea was in 1960.
+854	If I split Uganda, there's quite
+854	a difference within Uganda.
+857.69	These are the quintiles of Uganda.
+859.892	The richest 20 percent
+859.892	of Ugandans are there.
+862.1	The poorest are down there.
+863.509	If I split South Africa, it's like this.
+866.409	And if I go down and look at Niger,
+869.176	where there was such
+869.176	a terrible famine, lastly, it's like this.
+873.844	The 20 percent poorest
+873.844	of Niger is out here,
+876.762	and the 20 percent richest
+876.762	of South Africa is there,
+879.555	and yet we tend to discuss
+881.597	on what solutions
+881.597	there should be in Africa.
+884	Everything in this world exists in Africa.
+886.591	And you can't discuss
+886.591	universal access to HIV [medicine]
+889.89	for that quintile up here
+889.89	with the same strategy as down here.
+894.286	The improvement of the world
+894.286	must be highly contextualized,
+897.848	and it's not relevant to have it
+897.848	on regional level.
+901.802	We must be much more detailed.
+904.07	We find that students get
+904.07	very excited when they can use this.
+907.42	And even more, policy makers
+907.42	and the corporate sectors
+911.062	would like to see
+911.062	how the world is changing.
+914.747	Now, why doesn't this take place?
+916.459	Why are we not using the data we have?
+918.973	We have data in the United Nations,
+918.973	in the national statistical agencies
+922.807	and in universities and other
+922.807	non-governmental organizations.
+926	Because the data is hidden
+926	down in the databases.
+928.358	And the public is there,
+928.358	and the Internet is there,
+931.315	but we have still not used it effectively.
+933.499	All that information
+933.499	we saw changing in the world
+936	does not include
+936	publicly-funded statistics.
+939.163	There are some web pages
+939.163	like this, you know,
+941.341	but they take some nourishment
+941.341	down from the databases,
+946	but people put prices on them,
+946	stupid passwords and boring statistics.
+951	(Laughter)
+952.413	And this won't work.
+953.612	(Applause)
+956.439	So what is needed? We have the databases.
+958.885	It's not the new database you need.
+960.686	We have wonderful design tools,
+960.686	and more and more are added up here.
+964.436	So we started a nonprofit venture
+967.331	which, linking data to design,
+967.331	we called Gapminder,
+971.726	from the London Underground,
+973.103	"where they warn you, ""mind the gap."""
+974.904	So we thought Gapminder was appropriate.
+976.868	And we started to write software
+976.868	which could link the data like this.
+981.248	And it wasn't that difficult.
+982.819	It took some person years,
+982.819	and we have produced animations.
+986.394	You can take a data set and put it there.
+988.751	We are liberating U.N. data,
+988.751	some few U.N. organization.
+993	Some countries accept that
+993	their databases can go out on the world,
+997.524	but what we really need is,
+997.524	of course, a search function.
+1000.619	A search function where we can copy
+1000.619	the data up to a searchable format
+1005	and get it out in the world.
+1006.756	And what do we hear when we go around?
+1009.151	I've done anthropology
+1009.151	on the main statistical units.
+1012.182	"Everyone says, ""It's impossible."
+1012.182	This can't be done.
+1015.326	Our information is so peculiar in detail,
+1017.86	so that cannot be searched
+1017.86	as others can be searched.
+1020.988	We cannot give the data
+1020.988	free to the students,
+1023.367	"free to the entrepreneurs of the world."""
+1026.256	But this is what we would
+1026.256	like to see, isn't it?
+1029.175	The publicly-funded data is down here.
+1031.623	And we would like flowers
+1031.623	to grow out on the Net.
+1034.682	And one of the crucial points
+1034.682	is to make them searchable,
+1037.873	and then people can use the different
+1037.873	design tool to animate it there.
+1042.141	And I have pretty good news for you.
+1044.605	I have good news that the present,
+1046.823	new Head of U.N. Statistics,
+1046.823	he doesn't say it's impossible.
+1050	"He only says, ""We can't do it."""
+1052.772	(Laughter)
+1056	And that's a quite clever guy, huh?
+1058	(Laughter)
+1060	So we can see a lot happening
+1060	in data in the coming years.
+1064	We will be able to look at income
+1064	distributions in completely new ways.
+1068.684	This is the income distribution
+1068.684	of China, 1970.
+1074	This is the income distribution
+1074	of the United States, 1970.
+1078.82	Almost no overlap.
+1081.893	And what has happened?
+1083.673	What has happened is this:
+1085.375	that China is growing,
+1085.375	it's not so equal any longer,
+1088.371	and it's appearing here,
+1088.371	overlooking the United States.
+1092	Almost like a ghost, isn't it?
+1094.682	(Laughter)
+1096	It's pretty scary.
+1097.611	(Laughter)
+1102.762	But I think it's very important
+1102.762	to have all this information.
+1106.596	We need really to see it.
+1109.233	And instead of looking at this,
+1112	I would like to end up by showing
+1112	the Internet users per 1,000.
+1117.672	In this software, we access
+1117.672	about 500 variables
+1120.578	from all the countries quite easily.
+1123.003	It takes some time to change for this,
+1126	but on the axises, you can quite easily
+1126	get any variable you would like to have.
+1131.879	And the thing would be
+1131.879	to get up the databases free,
+1136.41	to get them searchable,
+1136.41	and with a second click,
+1139	to get them into the graphic formats,
+1139	where you can instantly understand them.
+1144	Now, statisticians don't like it,
+1146.126	because they say
+1146.126	that this will not show the reality;
+1153.118	we have to have statistical,
+1153.118	analytical methods.
+1156.863	But this is hypothesis-generating.
+1159	I end now with the world.
+1162.021	There, the Internet is coming.
+1163.53	The number of Internet users
+1163.53	are going up like this.
+1166.037	This is the GDP per capita.
+1168.03	And it's a new technology coming in,
+1168.03	but then amazingly,
+1171.539	how well it fits to the economy
+1171.539	of the countries.
+1175.282	That's why the $100 computer
+1175.282	will be so important.
+1178.763	But it's a nice tendency.
+1180.192	It's as if the world
+1180.192	is flattening off, isn't it?
+1183.12	These countries are lifting more
+1183.12	than the economy
+1185.549	and will be very interesting
+1185.549	to follow this over the year,
+1188.358	as I would like you to be able to do
+1188.358	with all the publicly funded data.
+1191.743	Thank you very much.
+1193	(Applause)

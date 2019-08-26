@@ -1,0 +1,315 @@
+startsecond	text
+0	Translator: Carolina Casado Parras
+12.631	Why do people deliberately
+12.631	destroy cultural heritage?
+18.209	By doing so,
+19.545	do they believe
+19.545	they're erasing our history?
+23.163	Our cultural memory?
+26.39	It's true that we are losing
+26.39	cultural heritage to erosion
+31.091	and natural disasters,
+32.924	but this is something
+32.924	that is simply difficult to avoid.
+36.696	I'm here to show you today
+36.696	how we can use pictures --
+40.826	your pictures --
+42.708	to reclaim the history that is being lost
+45.852	using innovative technology
+48.099	and the effort of volunteers.
+52.002	In the early 20th century,
+54.047	archaeologists discovered
+54.047	hundreds of statues and artifacts
+58.059	at the ancient city of Hatra,
+59.817	in northern Iraq.
+61.796	Statues like this one
+61.796	were found in fragments,
+65.601	some of them missing their heads or arms,
+68.762	yet the clothing that they are wearing
+71.299	and their pose
+72.769	can still tell us their story.
+76.059	For example,
+77.233	we believe that by wearing
+77.233	a knee-length tunic
+80.991	and open bare feet,
+82.515	this was representative of a priest.
+85.782	However, with a closer look
+85.782	at this particular piece,
+89.627	we can see that this tunic being worn
+89.627	was elaborately decorated,
+94.073	which has led many researchers to believe
+96.919	this was actually a statue of a king
+96.919	performing his religious functions.
+102.946	When the Mosul Cultural Museum
+102.946	opened in 1952 in northern Iraq,
+109.041	this statue, as well as others,
+111.312	were placed there to preserve them
+111.312	for future generations.
+116.085	Following the US-led invasion
+116.085	of Iraq in 2003,
+120.048	a few statues and artifacts
+120.048	were relocated to Baghdad,
+123.937	but this statue remained.
+127.266	Then in February of last year,
+127.266	a video was released,
+131.05	and it instantly went viral.
+133.895	Maybe some of you remember seeing it.
+136.19	Here's a short clip.
+137.747	(Video) (Singing in Arabic)
+163.393	(Singing ends)
+165.927	Not a very pleasant sight, right?
+169.499	Did you notice anything
+169.499	familiar in the video?
+173.372	There it is.
+174.899	There is that very statue,
+177.595	as it was toppled over,
+179.362	breaking into pieces.
+181.796	When Matthew Vincent and I saw this video,
+184.681	we were shocked.
+186.879	Since we are archaeologists
+186.879	using innovative technology
+190.331	for digital preservation,
+192.145	an idea sprung to mind.
+194.322	Maybe we can crowdsource the images
+194.322	that were taken of these artifacts
+199.159	before they were destroyed,
+200.998	to create digital reconstructions.
+203.585	If we can do that,
+204.759	maybe we can put them
+204.759	into a virtual museum
+206.874	to tell that story.
+211.85	And so two weeks after we saw this video,
+215.378	we started the project
+215.378	called Project Mosul.
+220.148	Remember the pictures of the statue
+220.148	I showed you before?
+223.291	This is actually the crowdsourced
+223.291	reconstruction of it
+227.692	before it was destroyed.
+230.596	Now, many of you may be wondering,
+232.743	how exactly does this work?
+234.786	Well, the key to this technology
+234.786	is called photogrammetry,
+238.185	and it was invented here, in Germany.
+241.71	It is the technology that allows us
+241.71	to use two-dimensional images
+245.14	taken of the same object
+245.14	from different angles
+248.113	to create a 3D model.
+251.089	I know you may be thinking
+251.089	this sounds like magic -- but it's not.
+255.312	Let me show you how it works.
+256.867	Here are two crowdsourced images
+256.867	of the same statue.
+260.748	What the computer can do
+262.167	is it can detect similar features
+262.167	between the photographs --
+266.406	similar features of the object.
+269.389	Then, by using multiple photos,
+272.389	in this case, it can begin
+272.389	to reconstruct the object in 3D.
+276.635	In this case,
+277.809	you have the position of the cameras
+277.809	when each image was taken,
+281.265	shown in blue.
+284.102	Now, this is a partial
+284.102	reconstruction, I admit,
+287.54	but why would I say partial?
+289.437	Well, simply because the statue
+289.437	was positioned against a wall.
+294.691	We don't have photographs
+294.691	taken of it from the back.
+298.159	If I wanted to complete a full
+298.159	digital reconstruction of this statue,
+303.135	I would need a proper camera,
+304.868	tripods, proper lighting,
+306.637	but we simply can't do that
+306.637	with crowdsourced images.
+309.969	Think about it:
+311.143	How many of you, when you visit a museum,
+313.4	take photographs
+313.4	of all parts of the statue,
+315.665	even the back side of it?
+318.226	Well, maybe if some of you find
+318.226	Michelangelo's David interesting,
+321.847	I guess --
+323.022	(Laughter)
+324.988	But the thing is,
+326.501	if we can find more images of this object,
+329.665	we can improve the 3D model.
+332.953	When we started the project,
+335.151	we started it with
+335.151	the Mosul Museum in mind.
+337.324	We figured we may get a few images,
+339.015	some people interested,
+340.285	make one or two virtual reconstructions,
+342.788	but we had no idea that we had sparked
+342.788	something that would grow so quickly.
+348.096	Before we knew it,
+349.673	we realized it was obvious:
+351.728	we could apply this same idea
+351.728	to lost heritage anywhere.
+356.379	And so, we decided to change
+356.379	the name of the project to Rekrei.
+361.827	Then, in the summer of last year,
+364.371	"""The Economist"" magazine's media lab"
+364.371	reached out to us.
+368.493	They asked us,
+369.691	"""Hey, would you like us"
+369.691	to build a virtual museum
+372.482	to put the reconstructions back inside,
+374.371	"to tell the story?"""
+376.018	Can you imagine us saying no?
+377.812	Of course not.
+379.137	We said yes!
+380.312	We were so excited.
+381.493	This was exactly
+381.493	the initial dream of that project.
+385.482	And so now,
+386.693	any of you can experience
+386.693	RecoVR Mosul on your phone,
+390.331	using Google Cardboard
+391.648	or a tablet or even YouTube 360.
+394.864	Here is a screenshot
+394.864	from the virtual museum.
+398.344	And there it is ...
+400.131	the partial reconstruction of the statue,
+402.653	as well as the Lion of Mosul,
+405.544	the first reconstruction
+405.544	completed by our project.
+409.359	Although the video doesn't explicitly show
+409.359	the Lion of Mosul being destroyed,
+414.173	we have many other examples
+414.173	of large artifacts being destroyed
+418.33	that were simply too large
+418.33	to have been stolen.
+421.992	For example,
+423.379	the Gate of Nimrud in northern Iraq.
+426.477	This is a digital
+426.477	reconstruction from before,
+429.36	and this is actually
+429.36	during the destruction.
+433.226	Or the Lion of Al-Lāt, in Palmyra, Syria:
+436.87	before ...
+438.721	and after.
+441.366	Although virtual reconstructions
+441.366	are primarily the main focus
+444.66	of our project,
+445.866	some people have been asking the question:
+448.354	Can we print them in 3D?
+452.375	We believe 3D printing
+452.375	doesn't offer a straightforward solution
+456.656	to lost heritage.
+458.158	Once an object is destroyed,
+460.131	it's gone.
+461.872	But 3D printing does offer
+461.872	an addition to tell that story.
+467.559	For example, I can show you here ...
+473.48	There is the statue from Hatra
+476.418	and the Lion of Mosul.
+478.262	(Applause)
+485.69	Thank you.
+486.864	Now, if you look closely,
+488.392	you'll notice that there are some parts
+488.392	that have been printed in color,
+492.923	and some parts that are in white or gray.
+496.535	This part was added
+496.535	simply to hold the statues up.
+500.654	This works the same way
+500.654	if you visit a museum,
+503.105	and a statue is found in fragments;
+505.41	it's put together
+505.41	for the people to see it.
+507.704	This makes sense, right?
+510.341	However, we're much more interested
+512.118	in what virtual reality
+512.118	has to offer for lost heritage.
+516.24	Here is an example
+516.24	of one of the tower tombs
+518.765	that was destroyed in Palmyra.
+520.664	Using Sketchfab's online viewer,
+522.642	we can show that we have reconstructed
+522.642	three parts of the exterior of the tomb,
+528.321	but we also have photos of the inside,
+530.25	so we're beginning to create
+530.25	a reconstruction of the wall
+532.943	and the ceiling.
+534.601	Archaeologists worked there
+534.601	for many, many years,
+537.532	so we also have architectural
+537.532	drawing plans of this lost heritage.
+544.159	Unfortunately, we are not only losing
+544.159	cultural heritage to areas of conflict
+550.565	and at war --
+551.74	we're also losing it to natural disasters.
+554.698	This is a 3D model
+554.698	of Durbar Square in Kathmandu,
+558.592	before the earthquake
+558.592	that occurred last April ...
+562.117	and this is after.
+564.383	You may be thinking,
+566.005	you didn't create these 3D models
+566.005	with only tourist photographs,
+569.698	and that's true.
+571.113	But what this represents
+572.613	is the ability for large, public
+572.613	organizations and private industry
+576.383	to come together
+576.383	for initiatives like ours.
+581.579	And so one of the major challenges
+581.579	of our project, really,
+584.691	is to find photographs that were taken
+584.691	before something happens, right?
+589.44	Well, the internet is basically a database
+589.44	with millions of images, right?
+595.488	Exactly.
+596.863	So we have begun to develop a tool
+600.322	that allows us to extract images
+600.322	from websites like Flickr,
+604.268	based on their geotags,
+605.79	to complete reconstructions.
+608.216	Because we're not only losing cultural
+608.216	heritage to natural disasters and in war,
+615.003	but we're also losing it
+615.003	to something else.
+619.597	Any idea, just looking
+619.597	at these two pictures?
+623.469	Maybe it's a little difficult to remember,
+626.133	but only a few weeks ago,
+628.577	this was the example of human
+628.577	destruction by human stupidity.
+633.769	Because a tourist in Lisbon
+633.769	wanted to climb onto this statue
+639.102	and take a selfie with it --
+640.491	(Laughter)
+641.516	and pulled it down with him.
+643.416	So we're already finding photographs
+645.429	to complete a digital
+645.429	reconstruction of this.
+648.794	We need to remember
+650.104	that the destruction of cultural heritage
+650.104	isn't a recent phenomenon.
+655.484	In the 16th century,
+656.826	European priests and explorers burned
+656.826	thousands of Maya books in the Americas,
+663.328	of which we only have a handful left.
+667.264	Fast-forward to 2001,
+669.019	when the Taliban blew up
+669.019	the Bamiyan Buddhas in Afghanistan.
+673.574	You see,
+675.333	cultural heritage
+675.333	is about our shared global history.
+680.64	It helps us connect
+680.64	with our ancestors and their stories,
+684.405	but we're losing pieces of it
+684.405	every day to natural disasters
+688.7	and in areas of conflict.
+691.934	Of course, the loss of human life
+691.934	is the most heartbreaking loss ...
+697.562	but cultural heritage offers us a way
+697.562	to preserve the memory of the people
+703.422	for future generations.
+706.149	We need your help to reclaim
+706.149	the history that is being lost.
+711.172	Will you join us?
+713.219	(Applause)

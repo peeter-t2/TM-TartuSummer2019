@@ -1,0 +1,86 @@
+startsecond	text
+15.26	Cholera was reported in Haiti
+17.26	for the first time in over 50 years
+19.26	last October.
+21.26	There was no way to predict
+23.26	how far it would spread through water supplies
+26.26	and how bad the situation would get.
+29.26	And not knowing where help was needed
+31.26	always ensured that help was in short supply
+34.26	in the areas that needed it most.
+37.26	We've gotten good at predicting and preparing for storms
+40.26	before they take innocent lives
+42.26	and cause irreversible damage,
+44.26	but we still can't do that with water,
+46.26	and here's why.
+48.26	Right now, if you want to test water in the field,
+50.26	you need a trained technician,
+52.26	expensive equipment like this,
+54.26	and you have to wait about a day
+56.26	for chemical reactions to take place and provide results.
+59.26	It's too slow
+61.26	to get a picture of conditions on the ground
+63.26	before they change,
+65.26	too expensive to implement
+67.26	in all the places that require testing.
+69.26	And it ignores the fact that, in the meanwhile,
+71.26	people still need to drink water.
+73.26	Most of the information that we collected on the cholera outbreak
+76.26	didn't come from testing water;
+78.26	it came from forms like this,
+80.26	which documented all the people
+82.26	we failed to help.
+84.26	Countless lives have been saved
+86.26	by canaries in coalmines --
+88.26	a simple and invaluable way
+90.26	for miners to know whether they're safe.
+92.26	I've been inspired by that simplicity as I've been working on this problem
+95.26	with some of the most hardworking and brilliant people I've ever known.
+98.26	We think there's a simpler solution to this problem --
+100.26	one that can be used
+102.26	by people who face conditions like this everyday.
+104.26	It's in its early stages,
+106.26	but this is what it looks like right now.
+109.26	We call it the Water Canary.
+111.26	It's a fast, cheap device
+114.26	that answers an important question:
+116.26	Is this water contaminated?
+118.26	It doesn't require any special training.
+121.26	And instead of waiting for chemical reactions to take place,
+124.26	it uses light.
+126.26	That means there's no waiting
+128.26	for chemical reactions to take place,
+130.26	no need to use reagents that can run out
+132.26	and no need to be an expert
+134.26	to get actionable information.
+137.26	To test water, you simply insert a sample
+139.26	and, within seconds,
+141.26	it either displays a red light, indicating contaminated water,
+144.26	or a green light, indicating the sample is safe.
+146.26	This will make it possible
+148.26	for anyone to collect life-saving information
+151.26	and to monitor water quality conditions as they unfold.
+154.26	We're also, on top of that,
+157.26	integrating wireless networking
+160.26	into an affordable device
+162.26	with GPS and GSM.
+164.26	What that means is that each reading can be automatically transmitted to servers
+167.26	to be mapped in real time.
+169.26	With enough users,
+171.26	maps like this will make it possible
+173.26	to take preventive action,
+175.26	containing hazards before they turn into emergencies
+178.26	that take years to recover from.
+180.26	And then, instead of taking days
+182.26	to disseminate this information to the people who need it most,
+184.26	it can happen automatically.
+187.26	We've seen how distributed networks,
+189.26	big data and information
+191.26	can transform society.
+193.26	I think it's time for us to apply them to water.
+196.26	Our goal over the next year is to get Water Canary ready for the field
+198.26	and to open-source the hardware
+200.26	so that anyone can contribute to the development and the evaluation,
+203.26	so we can tackle this problem together.
+205.26	Thank you.
+207.26	(Applause)

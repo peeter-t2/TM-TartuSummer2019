@@ -1,0 +1,182 @@
+startsecond	text
+26	There's an ancient and universal concept
+26	that words have power,
+30	that spells exist,
+31.358	and that if we could only
+31.358	pronounce the right words,
+34.079	then -- whoosh! -- you know,
+34.079	an avalanche would come
+36.932	and wipe out the hobbits, right?
+38.961	So this is a very attractive idea,
+40.972	because we're very lazy,
+40.972	like the Sorcerer's Apprentice,
+43.623	or the world's greatest
+43.623	computer programmer.
+45.718	This idea has a lot of traction with us.
+47.652	We love the idea that words,
+47.652	when pronounced,
+49.814	are little more than pure information,
+51.656	but they evoke physical action
+51.656	in the real world
+53.939	that helps us do work.
+55.122	So, of course, with lots
+55.122	of programmable computers
+57.554	and robots around,
+58.729	this is an easy thing to picture.
+60.585	How many of you know
+60.585	what I'm talking about?
+62.674	Raise your right hand.
+63.849	How many don't know
+63.849	what I'm talking about?
+65.876	Raise your left hand.
+67.051	So that's great. So that was too easy.
+69.954	You guys have very insecure computers, OK?
+73.097	So now the thing is,
+73.097	this is a different kind of spell.
+76.749	This is a computer program
+76.749	made of zeros and ones.
+79.13	It can be pronounced on a computer,
+79.13	does something like this.
+82.012	The important thing is we can write it
+82.012	in a high-level language.
+85.046	A computer magician can write this thing.
+87.032	It can be compiled into zeros and ones
+87.032	and pronounced by a computer.
+90.27	And that's what makes computers powerful,
+92.293	these high-level languages
+92.293	that can be compiled.
+94.577	And so, I'm here to tell you,
+94.577	you don't need a computer
+97.457	to actually have a spell.
+99.375	In fact, what you can do
+99.375	at the molecular level
+101.684	is that if you encode information --
+103.682	you encode a spell
+103.682	or program as molecules --
+105.896	then physics can actually directly
+105.896	interpret that information
+109.539	and run a program.
+110.714	It's what happens in proteins.
+112.17	When this amino-acid sequence
+112.17	gets pronounced as atoms,
+114.815	these little letters
+114.815	are sticky for each other.
+117.059	It collapses into a three-dimensional
+117.059	shape that turns it into a nanomachine
+120.967	that actually cuts DNA.
+122.561	The interesting thing
+122.561	is that if you change the sequence,
+125.338	you change the three-dimensional folding.
+127.37	You get, now, a DNA stapler, instead.
+129.354	These are the kind of molecular programs
+129.354	we want to be able to write.
+132.64	The problem is, we don't know
+134.05	the machine language of proteins
+134.05	or have a compiler for proteins.
+137.203	So I've joined a growing band of people
+139.093	that try to make
+139.093	molecular spells using DNA.
+141.331	We use DNA because it's cheaper,
+141.331	it's easier to handle,
+143.959	it's something
+143.959	we understand really well --
+146.054	so well, in fact, that we think
+146.054	we can actually write
+149.161	programming languages for DNA
+149.161	and have molecular compilers.
+152.598	So then, we think we can do that.
+154.203	One of my first questions doing this was:
+157.712	How can you make an arbitrary shape
+157.712	or pattern out of DNA?
+160.507	I decided to use a type of DNA origami,
+162.742	where you take a long strand of DNA
+164.471	and fold it into whatever shape
+164.471	or pattern you might want.
+167.304	So here's a shape.
+168.491	I actually spent about a year in my home
+168.491	in my underwear, coding,
+171.875	like Linus [Torvalds],
+171.875	in that picture before.
+174.051	This program takes a shape
+174.051	and spits out 250 DNA sequences.
+177.62	These short DNA sequences
+177.62	are what are going to fold the long strand
+180.841	into this shape that we want to make.
+182.634	So you send an e-mail
+182.634	with these sequences in it
+184.905	to a company,
+186.081	and the company pronounces them
+186.081	on a DNA synthesizer,
+188.784	a machine about the size of a photocopier.
+191.298	And they take your e-mail,
+193.298	and every letter in your e-mail,
+193.298	they replace with a 30-atom cluster --
+196.683	one for each letter, A, T, C and G in DNA.
+199.113	They string them up in the right sequence,
+201.148	and then they send them
+201.148	back to you via FedEx.
+203.333	So you get 250 of these
+203.333	in the mail in little tubes.
+205.798	I mix them together,
+205.798	add a little bit of salt water,
+208.265	and then add this long strand
+208.265	I was telling you about,
+210.825	that I've stolen from a virus.
+212.309	And then what happens is,
+213.556	you heat this whole thing up
+213.556	to about boiling.
+215.734	You cool it down to room temperature,
+217.82	and as you do, those short strands
+217.82	do the following thing:
+221.006	each one of them binds
+221.006	that long strand in one place,
+224.426	and then has a second half that binds
+224.426	that long strand in a distant place,
+227.998	and brings those two parts
+227.998	of the long strand
+230.291	close together so they stick together.
+232.36	So the net effect
+232.36	of all 250 of these strands
+235.071	is to fold the long strand
+235.071	into the shape you're looking for.
+239.422	It'll approximate that shape.
+240.838	We do this for real, in the test tube.
+242.691	In each little drop of water,
+242.691	you get 50 billion of these guys.
+245.683	With a microscope,
+245.683	you can see them on a surface.
+248.022	The neat thing is if you change
+248.022	the sequence and change the spell,
+251.161	just change the sequence of the staples,
+253.116	you can make a molecule
+253.116	that looks like this.
+255.942	And, you know, he likes
+255.942	to hang out with his buddies.
+258.976	A lot of them are actually pretty good.
+260.886	If you change the spell again,
+260.886	you change the sequence again,
+263.792	you get really nice,
+266.122	If you do it again,
+267.509	you can get arbitrary patterns.
+269.744	So on a rectangle, you can paint
+269.744	patterns of North and South America,
+274.165	"or the words, ""DNA."""
+275.37	So that's DNA origami. That's one way.
+278.407	There are many ways
+278.407	of casting molecular spells using DNA.
+282.374	What we really want to do in the end
+284.14	is learn how to program self-assembly
+284.14	so we can build anything, right?
+288	We want to be able to build
+288	technological artifacts
+290.414	that are maybe good for the world.
+292.099	We want to learn how to build
+292.099	biological artifacts,
+295.054	like people and whales and trees.
+296.799	And if it's the case that we can reach
+296.799	that level of complexity,
+299.845	if our ability to program molecules
+299.845	gets to be that good,
+303.129	then that will truly be magic.
+305.889	Thank you very much.
+307.064	(Applause)

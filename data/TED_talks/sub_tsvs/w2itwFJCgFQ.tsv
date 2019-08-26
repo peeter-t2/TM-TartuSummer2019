@@ -1,0 +1,388 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+23.544	So what does it mean
+23.544	for a machine to be athletic?
+27.059	We will demonstrate the concept
+27.059	of machine athleticism
+29.908	and the research to achieve it
+31.628	with the help of these flying machines
+31.628	called quadrocopters,
+34.51	or quads, for short.
+38.291	Quads have been around for a long time.
+40.501	They're so popular these days
+40.501	because they're mechanically simple.
+44.255	By controlling
+44.255	the speeds of these four propellers,
+46.668	these machines can roll, pitch, yaw,
+49.437	and accelerate
+49.437	along their common orientation.
+52.179	On board are also a battery, a computer,
+55.401	various sensors and wireless radios.
+59.298	Quads are extremely agile,
+59.298	but this agility comes at a cost.
+63.762	They are inherently unstable,
+65.874	and they need some form
+65.874	of automatic feedback control
+68.469	in order to be able to fly.
+76.259	So, how did it just do that?
+79.497	Cameras on the ceiling and a laptop
+81.315	serve as an indoor
+81.315	global positioning system.
+84.301	It's used to locate objects in the space
+86.364	that have these reflective
+86.364	markers on them.
+88.476	This data is then sent to another laptop
+90.538	that is running estimation
+90.538	and control algorithms,
+92.92	which in turn sends commands to the quad,
+94.898	which is also running estimation
+94.898	and control algorithms.
+101.864	The bulk of our research is algorithms.
+104.13	It's the magic that brings
+104.13	these machines to life.
+108.291	So how does one design the algorithms
+108.291	that create a machine athlete?
+112.792	We use something broadly
+112.792	called model-based design.
+115.839	We first capture the physics
+117.229	with a mathematical model
+117.229	of how the machines behave.
+120.636	We then use a branch of mathematics
+120.636	called control theory
+124.61	to analyze these models
+126.291	and also to synthesize
+126.291	algorithms for controlling them.
+129.82	For example, that's how we can
+129.82	make the quad hover.
+132.868	We first captured the dynamics
+132.868	with a set of differential equations.
+136.182	We then manipulate these equations
+136.182	with the help of control theory
+139.658	to create algorithms
+139.658	that stabilize the quad.
+143.13	Let me demonstrate
+143.13	the strength of this approach.
+149.198	Suppose that we want
+149.198	this quad to not only hover
+151.855	but to also balance this pole.
+154.52	With a little bit of practice,
+156.318	it's pretty straightforward
+156.318	for a human being to do this,
+159.025	although we do have the advantage
+159.025	of having two feet on the ground
+162.24	and the use of our very versatile hands.
+164.804	It becomes a little bit more difficult
+167.566	when I only have one foot on the ground
+169.569	and when I don't use my hands.
+172.733	Notice how this pole has
+172.733	a reflective marker on top,
+175.319	which means that it can
+175.319	be located in the space.
+184.276	(Audience) Oh!
+185.367	(Applause)
+189.695	(Applause ends)
+191.387	You can notice that this quad
+191.387	is making fine adjustments
+194.052	to keep the pole balanced.
+196.417	How did we design
+196.417	the algorithms to do this?
+199.027	We added the mathematical
+199.027	model of the pole
+201.132	to that of the quad.
+202.603	Once we have a model
+202.603	of the combined quad-pole system,
+205.605	we can use control theory to create
+205.605	algorithms for controlling it.
+210.538	Here, you see that it's stable,
+212.126	and even if I give it little nudges,
+214.819	it goes back --
+217.589	to the nice, balanced position.
+220.087	We can also augment the model
+221.501	to include where we want
+221.501	the quad to be in space.
+224.428	Using this pointer,
+224.428	made out of reflective markers,
+227.395	I can point to where I want
+227.395	the quad to be in space
+229.848	a fixed distance away from me.
+239.785	(Laughter)
+247.763	The key to these acrobatic
+247.763	maneuvers is algorithms,
+250.913	designed with the help
+250.913	of mathematical models
+253.23	and control theory.
+255.246	Let's tell the quad to come back here
+257.255	and let the pole drop,
+258.943	and I will next demonstrate the importance
+261.098	of understanding physical models
+263.111	and the workings of the physical world.
+277.462	Notice how the quad lost altitude
+277.462	when I put this glass of water on it.
+281.314	Unlike the balancing pole,
+282.741	I did not include the mathematical
+282.741	model of the glass
+285.78	in the system.
+287.111	In fact, the system doesn't even know
+287.111	that the glass is there.
+290.148	Like before, I could use
+290.148	the pointer to tell the quad
+292.91	where I want it to be in space.
+297.684	(Applause)
+303.531	(Applause ends)
+305.515	Okay, you should be asking yourself,
+307.278	why doesn't the water
+307.278	fall out of the glass?
+309.888	Two facts.
+310.942	The first is that gravity acts
+310.942	on all objects in the same way.
+315.051	The second is that the propellers
+316.854	are all pointing in the same direction
+316.854	of the glass, pointing up.
+320.642	You put these two things together,
+322.313	the net result is that all side forces
+322.313	on the glass are small
+325.892	and are mainly dominated
+325.892	by aerodynamic effects,
+328.193	which at these speeds are negligible.
+335.336	And that's why you don't need
+335.336	to model the glass.
+337.694	It naturally doesn't spill,
+337.694	no matter what the quad does.
+344.5	(Audience) Oh!
+350.34	(Applause)
+355.159	(Applause ends)
+357.94	The lesson here
+359.078	is that some high-performance tasks
+359.078	are easier than others,
+363.115	and that understanding
+363.115	the physics of the problem
+365.476	tells you which ones are easy
+365.476	and which ones are hard.
+368.194	In this instance, carrying
+368.194	a glass of water is easy.
+370.728	Balancing a pole is hard.
+374.171	We've all heard stories of athletes
+374.171	performing feats while physically injured.
+378.466	Can a machine also perform
+378.466	with extreme physical damage?
+382.636	Conventional wisdom says
+384.145	that you need at least four fixed motor
+384.145	propeller pairs in order to fly,
+388.052	because there are four degrees
+388.052	of freedom to control:
+390.6	roll, pitch, yaw and acceleration.
+393.192	Hexacopters and octocopters,
+393.192	with six and eight propellers,
+396.437	can provide redundancy,
+397.92	but quadrocopters are much more popular
+399.909	because they have the minimum number
+399.909	of fixed motor propeller pairs: four.
+404.168	Or do they?
+412.827	(Audience) Oh!
+414.407	(Laughter)
+421.334	If we analyze the mathematical
+421.334	model of this machine
+424.076	with only two working propellers,
+426.252	we discover that there's
+426.252	an unconventional way to fly it.
+439.98	We relinquish control of yaw,
+441.686	but roll, pitch and acceleration
+441.686	can still be controlled
+444.756	with algorithms that exploit
+444.756	this new configuration.
+453.668	Mathematical models tell us
+453.668	exactly when and why this is possible.
+457.981	In this instance, this knowledge
+457.981	allows us to design
+460.783	novel machine architectures
+463.28	or to design clever algorithms
+463.28	that gracefully handle damage,
+466.972	just like human athletes do,
+468.696	instead of building
+468.696	machines with redundancy.
+472.688	We can't help but hold our breath
+474.369	when we watch a diver
+474.369	somersaulting into the water,
+477.068	or when a vaulter is twisting in the air,
+479.045	the ground fast approaching.
+480.576	Will the diver be able
+480.576	to pull off a rip entry?
+483.144	Will the vaulter stick the landing?
+485.292	Suppose we want this quad here
+485.292	to perform a triple flip
+488.496	and finish off at the exact same
+488.496	spot that it started.
+491.736	This maneuver is going
+491.736	to happen so quickly
+493.879	that we can't use position feedback
+493.879	to correct the motion during execution.
+497.748	There simply isn't enough time.
+499.782	Instead, what the quad can do
+499.782	is perform the maneuver blindly,
+503.476	observe how it finishes the maneuver,
+505.708	and then use that information
+505.708	to modify its behavior
+508.209	so that the next flip is better.
+510.421	Similar to the diver and the vaulter,
+512.233	it is only through repeated practice
+514.152	that the maneuver can
+514.152	be learned and executed
+516.319	to the highest standard.
+525.1	(Laughter)
+526.393	(Applause)
+531.164	Striking a moving ball
+531.164	is a necessary skill in many sports.
+535.127	How do we make a machine do
+536.643	what an athlete does
+536.643	seemingly without effort?
+549.547	(Laughter)
+556.143	(Applause)
+560.5	(Applause ends)
+562.542	This quad has a racket
+562.542	strapped onto its head
+565.192	with a sweet spot roughly the size
+565.192	of an apple, so not too large.
+569.017	The following calculations
+569.017	are made every 20 milliseconds,
+571.846	or 50 times per second.
+573.602	We first figure out where
+573.602	the ball is going.
+576.414	We then next calculate
+576.414	how the quad should hit the ball
+579.059	so that it flies
+579.059	to where it was thrown from.
+581.95	Third, a trajectory is planned
+581.95	that carries the quad
+586.406	from its current state
+586.406	to the impact point with the ball.
+589.43	Fourth, we only execute 20 milliseconds'
+589.43	worth of that strategy.
+593.366	Twenty milliseconds later,
+593.366	the whole process is repeated
+596.183	until the quad strikes the ball.
+607.29	(Applause)
+610.131	Machines can not only perform
+610.131	dynamic maneuvers on their own,
+613.578	they can do it collectively.
+615.441	These three quads are cooperatively
+615.441	carrying a sky net.
+627.589	(Applause)
+632.372	(Applause ends)
+633.985	They perform an extremely dynamic
+633.985	and collective maneuver
+638.35	to launch the ball back to me.
+640.042	Notice that, at full extension,
+640.042	these quads are vertical.
+648.486	(Applause)
+650.258	In fact, when fully extended,
+652.425	this is roughly five times greater
+652.425	than what a bungee jumper feels
+655.712	at the end of their launch.
+663.203	The algorithms to do this are very similar
+665.686	to what the single quad used
+665.686	to hit the ball back to me.
+669.07	Mathematical models are used
+669.07	to continuously re-plan
+671.934	a cooperative strategy
+676.506	Everything we have seen so far has been
+676.506	about the machines and their capabilities.
+680.789	What happens when we couple
+680.789	this machine athleticism
+683.805	with that of a human being?
+685.765	What I have in front of me
+685.765	is a commercial gesture sensor
+689.385	mainly used in gaming.
+690.694	It can recognize
+690.694	what my various body parts
+692.766	are doing in real time.
+694.71	Similar to the pointer
+694.71	that I used earlier,
+696.813	we can use this as inputs to the system.
+699.454	We now have a natural way of interacting
+701.85	with the raw athleticism
+701.85	of these quads with my gestures.
+742.715	(Applause)
+756.354	Interaction doesn't have to be virtual.
+758.394	It can be physical.
+759.989	Take this quad, for example.
+761.893	It's trying to stay
+761.893	at a fixed point in space.
+764.933	If I try to move it
+764.933	out of the way, it fights me,
+768.646	and moves back to where it wants to be.
+772.254	We can change this behavior, however.
+775.373	We can use mathematical models
+777.072	to estimate the force
+777.072	that I'm applying to the quad.
+780.205	Once we know this force,
+780.205	we can also change the laws of physics,
+783.443	as far as the quad
+783.443	is concerned, of course.
+787.942	Here, the quad is behaving
+787.942	as if it were in a viscous fluid.
+794.57	We now have an intimate way
+794.57	of interacting with a machine.
+798.593	I will use this new capability to position
+801.099	this camera-carrying quad
+801.099	to the appropriate location
+803.676	for filming the remainder
+803.676	of this demonstration.
+816.583	So we can physically interact
+816.583	with these quads
+818.99	and we can change the laws of physics.
+821.393	Let's have a little bit of fun with this.
+823.539	For what you will see next,
+824.932	these quads will initially behave
+824.932	as if they were on Pluto.
+828.906	As time goes on, gravity will be increased
+831.218	until we're all back on planet Earth,
+833.267	but I assure you we won't get there.
+835.462	Okay, here goes.
+844.897	(Laughter)
+874.778	(Laughter)
+877.858	(Applause)
+881.76	Whew!
+887.045	You're all thinking now,
+888.296	these guys are having way too much fun,
+890.271	and you're probably also asking yourself,
+892.35	why exactly are they building
+892.35	machine athletes?
+896.286	Some conjecture that the role
+896.286	of play in the animal kingdom
+899.12	is to hone skills
+899.12	and develop capabilities.
+901.69	Others think that it has
+901.69	more of a social role,
+903.929	that it's used to bind the group.
+905.603	Similarly, we use the analogy
+905.603	of sports and athleticism
+908.963	to create new algorithms for machines
+911.042	to push them to their limits.
+913.35	What impact will the speed
+913.35	of machines have on our way of life?
+916.866	Like all our past creations
+916.866	and innovations,
+919.255	they may be used to improve
+919.255	the human condition
+922.082	or they may be misused and abused.
+924.595	This is not a technical choice
+924.595	we are faced with;
+926.921	it's a social one.
+928.332	Let's make the right choice,
+929.707	the choice that brings out the best
+929.707	in the future of machines,
+932.643	just like athleticism in sports
+932.643	can bring out the best in us.
+936.38	Let me introduce you to the wizards
+936.38	behind the green curtain.
+939.479	They're the current members
+939.479	of the Flying Machine Arena research team.
+942.837	(Applause)
+947.267	Federico Augugliaro, Dario Brescianini,
+949.569	Markus Hehn, Sergei Lupashin,
+949.569	Mark Muller and Robin Ritz.
+953.018	Look out for them.
+953.018	They're destined for great things.
+955.566	Thank you.
+956.644	(Applause)

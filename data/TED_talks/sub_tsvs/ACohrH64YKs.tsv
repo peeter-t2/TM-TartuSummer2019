@@ -1,0 +1,81 @@
+startsecond	text
+16.26	Let me introduce to you Rezero.
+19.26	This little fellow was developed
+21.26	by a group of 10 undergraduate students
+23.26	at the Autonomous Systems Laboratory
+25.26	at ETH-Zurich.
+27.26	Our robot belongs to a family of robots
+29.26	called Ballbots.
+31.26	Instead of wheels, a Ballbot is balancing
+33.26	and moving on one single ball.
+35.26	The main characteristics of such a system is
+37.26	that there's one sole contact point to the ground.
+40.26	This means that the robot
+42.26	is inherently unstable.
+44.26	It's like when I am trying to stand
+46.26	on one foot.
+47.26	You might ask yourself, what's the usefulness
+49.26	of a robot that's unstable?
+51.26	Now we'll explain that in a second.
+53.26	Let me first explain how Rezero
+55.26	actually keeps his balance.
+57.26	Rezero keeps his balance by constantly
+59.26	measuring his pitch angle with a sensor.
+62.26	He then counteracts and avoids toppling over
+65.26	by turning the motors appropriately.
+67.26	This happens 160 times per second,
+69.26	and if anything fails in this process,
+71.26	Rezero would immediately fall to the ground.
+74.26	Now to move and to balance,
+76.26	Rezero needs to turn the ball.
+78.26	The ball is driven by three special wheels
+80.26	that allow Rezero to move into any direction
+83.26	and also move around his own axis
+85.26	at the same time.
+89.26	Due to his instability, Rezero is always
+91.26	in motion. Now here's the trick.
+93.26	It's indeed exactly this instability that allows
+96.26	a robot to move very [dynamically].
+98.26	Let's play a little.
+100.26	You may have wondered what happens
+102.26	if I give the robot a little push.
+107.26	In this mode, he's trying to maintain
+109.26	his position.
+112.26	For the next demo, I'd like you to introduce
+115.26	to my colleagues Michael, on the computer,
+118.26	and Thomas who's helping me onstage.
+122.26	In the next mode, Rezero is passive,
+124.26	and we can move him around.
+128.26	With almost no force I can control
+130.26	his position and his velocity.
+136.26	I can also make him spin.
+150.26	In the next mode, we can get Rezero
+152.26	to follow a person.
+155.26	He's now keeping a constant distance to Thomas.
+162.26	This works with a laser sensor
+164.26	that's mounted on top of Rezero.
+170.26	With the same method, we can also
+172.26	get him to circle a person.
+177.26	We call this the orbiting mode.
+190.26	All right, thank you, Thomas.
+192.26	(Applause)
+196.26	Now, what's the use of this technology?
+202.26	For now, it's an experiment, but let me
+204.26	show you some possible future applications.
+208.26	Rezero could be used in exhibitions or parks.
+210.26	With a screen it could inform people or show
+212.26	them around in a fun and entertaining way.
+215.26	In a hospital, this device could be used to
+217.26	carry around medical equipment.
+219.26	Due to the Ballbot system, it has a very small
+221.26	footprint and it's also easy to move around.
+224.26	And of course, who wouldn't like
+226.26	to take a ride on one of these.
+229.26	And these are more practical applications.
+231.26	But there's also a certain beauty
+233.26	within this technology.
+235.26	(Music)
+298.26	(Applause)
+299.26	Thank you.
+301.26	(Applause)
+305.26	Thank you.

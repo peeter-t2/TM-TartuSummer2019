@@ -1,0 +1,330 @@
+startsecond	text
+15.26	Good afternoon, everybody.
+17.26	I've got something to show you.
+37.26	(Laughter)
+39.26	Think about this as a pixel, a flying pixel.
+42.26	This is what we call, in our lab, sensible design.
+45.26	Let me tell you a bit about it.
+47.26	Now if you take this picture -- I'm Italian originally,
+50.26	and every boy in Italy grows up
+52.26	with this picture on the wall of his bedroom --
+54.26	but the reason I'm showing you this
+56.26	is that something very interesting
+58.26	happened in Formula 1 racing
+60.26	over the past couple of decades.
+62.26	Now some time ago,
+64.26	if you wanted to win a Formula 1 race,
+66.26	you take a budget, and you bet your budget
+68.26	on a good driver and a good car.
+71.26	And if the car and the driver were good enough, then you'd win the race.
+74.26	Now today, if you want to win the race,
+76.26	actually you need also something like this --
+79.26	something that monitors the car in real time,
+82.26	has a few thousand sensors
+84.26	collecting information from the car,
+86.26	transmitting this information into the system,
+89.26	and then processing it
+91.26	and using it in order to go back to the car with decisions
+94.26	and changing things in real time
+96.26	as information is collected.
+98.26	This is what, in engineering terms,
+100.26	you would call a real time control system.
+103.26	And basically, it's a system made of two components --
+106.26	a sensing and an actuating component.
+108.26	What is interesting today
+110.26	is that real time control systems
+112.26	are starting to enter into our lives.
+115.26	Our cities, over the past few years,
+118.26	just have been blanketed
+120.26	with networks, electronics.
+122.26	They're becoming like computers in open air.
+124.26	And, as computers in open air,
+126.26	they're starting to respond in a different way
+128.26	to be able to be sensed and to be actuated.
+131.26	If we fix cities, actually it's a big deal.
+133.26	Just as an aside, I wanted to mention,
+135.26	cities are only two percent of the Earth's crust,
+139.26	but they are 50 percent of the world's population.
+142.26	They are 75 percent of the energy consumption --
+145.26	up to 80 percent of CO2 emissions.
+148.26	So if we're able to do something with cities, that's a big deal.
+151.26	Beyond cities,
+153.26	all of this sensing and actuating
+156.26	is entering our everyday objects.
+158.26	That's from an exhibition that
+160.26	Paola Antonelli is organizing
+162.26	at MoMA later this year, during the summer.
+164.26	"It's called ""Talk to Me."""
+166.26	Well our objects, our environment
+168.26	is starting to talk back to us.
+170.26	In a certain sense, it's almost as if every atom out there
+173.26	were becoming both a sensor and an actuator.
+176.26	And that is radically changing the interaction we have as humans
+179.26	with the environment out there.
+181.26	In a certain sense,
+183.26	it's almost as if the old dream of Michelangelo ...
+186.26	you know, when Michelangelo sculpted the Moses,
+188.26	at the end it said that he took the hammer, threw it at the Moses --
+191.26	actually you can still see a small chip underneath --
+194.26	and said, shouted,
+196.26	"""Perché non parli? Why don't you talk?"""
+198.26	Well today, for the first time,
+200.26	our environment is starting to talk back to us.
+203.26	And I'll show just a few examples --
+205.26	again, with this idea of sensing our environment and actuating it.
+208.26	Let's starting with sensing.
+211.26	Well, the first project I wanted to share with you
+213.26	is actually one of the first projects by our lab.
+216.26	It was four and a half years ago in Italy.
+219.26	And what we did there
+221.26	was actually use a new type of network at the time
+223.26	that had been deployed all across the world --
+225.26	that's a cellphone network --
+227.26	and use anonymous and aggregated information from that network,
+229.26	that's collected anyway by the operator,
+231.26	in order to understand
+233.26	how the city works.
+235.26	The summer was a lucky summer -- 2006.
+238.26	It's when Italy won the soccer World Cup.
+241.26	Some of you might remember, it was Italy and France playing,
+244.26	and then Zidane at the end, the headbutt.
+246.26	And anyway, Italy won at the end.
+248.26	(Laughter)
+250.26	Now look at what happened that day
+252.26	just by monitoring activity
+254.26	happening on the network.
+256.26	Here you see the city.
+258.26	You see the Colosseum in the middle,
+261.26	the river Tiber.
+264.26	It's morning, before the match.
+266.26	You see the timeline on the top.
+268.26	Early afternoon,
+270.26	people here and there,
+272.26	making calls and moving.
+274.26	The match begins -- silence.
+277.26	France scores. Italy scores.
+280.26	Halftime, people make a quick call and go to the bathroom.
+284.26	Second half. End of normal time.
+286.26	First overtime, second.
+288.26	Zidane, the headbutt in a moment.
+291.26	Italy wins. Yeah.
+293.26	(Laughter)
+295.26	(Applause)
+298.26	Well, that night, everybody went to celebrate in the center.
+300.26	You saw the big peak.
+302.26	The following day, again everybody went to the center
+304.26	to meet the winning team
+307.26	and the prime minister at the time.
+309.26	And then everybody moved down.
+311.26	You see the image of the place called Circo Massimo,
+313.26	where, since Roman times, people go to celebrate,
+316.26	to have a big party, and you see the peak at the end of the day.
+319.26	Well, that's just one example of how we can sense the city today
+321.26	in a way that we couldn't have done
+323.26	just a few years ago.
+325.26	Another quick example about sensing:
+327.26	it's not about people,
+329.26	but about things we use and consume.
+331.26	Well today, we know everything
+333.26	about where our objects come from.
+336.26	This is a map that shows you
+338.26	all the chips that form a Mac computer, how they came together.
+341.26	But we know very little about where things go.
+344.26	So in this project,
+346.26	we actually developed some small tags
+348.26	to track trash as it moves through the system.
+351.26	So we actually started with a number of volunteers
+354.26	who helped us in Seattle,
+356.26	just over a year ago,
+358.26	to tag what they were throwing away --
+361.26	different types of things, as you can see here --
+364.26	things they would throw away anyway.
+366.26	Then we put a little chip, little tag,
+368.26	onto the trash
+370.26	and then started following it.
+372.26	Here are the results we just obtained.
+375.26	(Music)
+378.26	From Seattle ...
+386.26	after one week.
+413.26	With this information we realized
+415.26	there's a lot of inefficiencies in the system.
+417.26	We can actually do the same thing with much less energy.
+420.26	This data was not available before.
+422.26	But there's a lot of wasted transportation and convoluted things happening.
+425.26	But the other thing is that we believe
+427.26	that if we see every day
+429.26	that the cup we're throwing away, it doesn't disappear,
+431.26	it's still somewhere on the planet.
+433.26	And the plastic bottle we're throwing away every day still stays there.
+436.26	And if we show that to people,
+438.26	then we can also promote some behavioral change.
+440.26	So that was the reason for the project.
+442.26	My colleague at MIT, Assaf Biderman,
+444.26	he could tell you much more about sensing
+446.26	and many other wonderful things we can do with sensing,
+448.26	but I wanted to go to the second part we discussed at the beginning,
+451.26	and that's actuating our environment.
+453.26	And the first project
+455.26	is something we did a couple of years ago in Zaragoza, Spain.
+458.26	It started with a question by the mayor of the city,
+461.26	who came to us saying
+463.26	that Spain and Southern Europe have a beautiful tradition
+466.26	of using water in public space, in architecture.
+469.26	And the question was: How could technology, new technology,
+471.26	be added to that?
+473.26	And one of the ideas that was developed at MIT in a workshop
+476.26	was, imagine this pipe, and you've got valves,
+479.26	solenoid valves, taps,
+481.26	opening and closing.
+483.26	You create like a water curtain with pixels made of water.
+486.26	If those pixels fall,
+488.26	you can write on it,
+490.26	you can show patterns, images, text.
+492.26	And even you can approach it, and it will open up
+494.26	to let you jump through,
+496.26	as you see in this image.
+498.26	Well, we presented this to Mayor Belloch.
+500.26	He liked it very much.
+502.26	And we got a commission to design a building
+504.26	at the entrance of the expo.
+506.26	We called it Digital Water Pavilion.
+508.26	The whole building is made of water.
+513.26	There's no doors or windows,
+515.26	but when you approach it,
+517.26	it will open up to let you in.
+519.26	(Music)
+532.26	The roof also is covered with water.
+537.26	And if there's a bit of wind,
+539.26	if you want to minimize splashing, you can actually lower the roof.
+544.26	Or you could close the building,
+546.26	and the whole architecture will disappear,
+548.26	like in this case.
+550.26	You know, these days, you always get images during the winter,
+552.26	when they take the roof down,
+554.26	"of people who have been there and said, ""They demolished the building."""
+557.26	No, they didn't demolish it, just when it goes down,
+559.26	the architecture almost disappears.
+561.26	Here's the building working.
+564.26	You see the person puzzled about what was going on inside.
+567.26	And here was myself trying not to get wet,
+569.26	testing the sensors that open the water.
+572.26	Well, I should tell you now what happened one night
+574.26	when all of the sensors stopped working.
+577.26	But actually that night, it was even more fun.
+580.26	All the kids from Zaragoza came to the building,
+582.26	because the way of engaging with the building became something different.
+585.26	Not anymore a building that would open up to let you in,
+588.26	but a building that would still make cuts and holes through the water,
+591.26	and you had to jump without getting wet.
+593.26	(Video) (Crowd Noise)
+606.26	And that was, for us, was very interesting,
+608.26	because, as architects, as engineers, as designers,
+611.26	we always think about how people will use the things we design.
+614.26	But then reality's always unpredictable.
+617.26	And that's the beauty of doing things
+619.26	that are used and interact with people.
+621.26	Here is an image then of the building
+623.26	with the physical pixels, the pixels made of water,
+625.26	and then projections on them.
+628.26	And this is what led us to think about
+630.26	the following project I'll show you now.
+632.26	That's, imagine those pixels could actually start flying.
+635.26	Imagine you could have small helicopters
+637.26	that move in the air,
+639.26	and then each of them with a small pixel in changing lights --
+642.26	almost as a cloud that can move in space.
+645.26	Here is the video.
+647.26	(Music)
+653.26	So imagine one helicopter,
+656.26	like the one we saw before,
+661.26	moving with others,
+664.26	in synchrony.
+666.26	So you can have this cloud.
+675.26	You can have a kind of flexible screen or display, like this --
+679.26	a regular configuration in two dimensions.
+689.26	Or in regular, but in three dimensions,
+692.26	where the thing that changes is the light,
+694.26	not the pixels' position.
+706.26	You can play with a different type.
+708.26	Imagine your screen could just appear
+710.26	in different scales or sizes,
+713.26	different types of resolution.
+725.26	But then the whole thing can be
+727.26	just a 3D cloud of pixels
+729.26	that you can approach and move through it
+732.26	and see from many, many directions.
+735.26	Here is the real Flyfire
+737.26	control and going down to form the regular grid as before.
+741.26	When you turn on the light, actually you see this. So the same as we saw before.
+744.26	And imagine each of them then controlled by people.
+746.26	You can have each pixel
+748.26	having an input that comes from people,
+750.26	from people's movement, or so and so.
+752.26	I want to show you something here for the first time.
+755.26	We've been working with Roberto Bolle,
+757.26	one of today's top ballet dancers --
+759.26	the étoile at Metropolitan in New York
+761.26	and La Scala in Milan --
+763.26	and actually captured his movement in 3D
+765.26	in order to use it as an input for Flyfire.
+768.26	And here you can see Roberto dancing.
+773.26	You see on the left the pixels,
+775.26	the different resolutions being captured.
+777.26	It's both 3D scanning in real time
+779.26	and motion capture.
+783.26	So you can reconstruct a whole movement.
+790.26	You can go all the way through.
+796.26	But then, once we have the pixels, then you can play with them
+798.26	and play with color and movement
+801.26	and gravity and rotation.
+804.26	So we want to use this as one of the possible inputs
+806.26	for Flyfire.
+827.26	I wanted to show you the last project we are working on.
+829.26	It's something we're working on for the London Olympics.
+831.26	It's called The Cloud.
+833.26	And the idea here is, imagine, again,
+835.26	we can involve people
+837.26	in doing something and changing our environment --
+840.26	almost to impart what we call cloud raising --
+842.26	like barn raising, but with a cloud.
+844.26	Imagine you can have everybody make a small donation for one pixel.
+848.26	And I think what is remarkable
+850.26	that has happened over the past couple of years
+852.26	is that, over the past couple of decades,
+854.26	we went from the physical world to the digital one.
+857.26	This has been digitizing everything, knowledge,
+859.26	and making that accessible through the Internet.
+861.26	Now today, for the first time --
+863.26	and the Obama campaign showed us this --
+865.26	we can go from the digital world,
+867.26	from the self-organizing power of networks,
+869.26	to the physical one.
+871.26	This can be, in our case,
+873.26	we want to use it for designing and doing a symbol.
+875.26	That means something built in a city.
+877.26	But tomorrow it can be,
+879.26	in order to tackle today's pressing challenges --
+882.26	think about climate change or CO2 emissions --
+884.26	how we can go from the digital world to the physical one.
+887.26	So the idea that we can actually involve people
+889.26	in doing this thing together, collectively.
+891.26	The cloud is a cloud, again, made of pixels,
+894.26	in the same way as the real cloud
+896.26	is a cloud made of particles.
+898.26	And those particles are water,
+900.26	where our cloud is a cloud of pixels.
+902.26	It's a physical structure in London, but covered with pixels.
+905.26	You can move inside, have different types of experiences.
+907.26	You can actually see from underneath,
+909.26	sharing the main moments
+911.26	for the Olympics in 2012 and beyond,
+914.26	and really using it as a way to connect with the community.
+918.26	So both the physical cloud in the sky
+922.26	and something you can go to the top [of],
+925.26	like London's new mountaintop.
+927.26	You can enter inside it.
+929.26	And a kind of new digital beacon for the night --
+932.26	but most importantly,
+934.26	a new type of experience for anybody who will go to the top.
+937.26	Thank you.
+939.26	(Applause)

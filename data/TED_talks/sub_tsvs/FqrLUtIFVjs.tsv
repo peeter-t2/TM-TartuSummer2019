@@ -1,0 +1,360 @@
+startsecond	text
+0	Translator: Leslie Gauthier
+0	Reviewer: Camille Martínez
+12.832	Cybercrime is out of control.
+18.006	It's everywhere.
+19.395	We hear about it every single day.
+24.591	This year,
+25.829	over two billion records lost or stolen.
+31.87	And last year, 100 million of us,
+31.87	mostly Americans,
+37.529	lost our health insurance data
+37.529	to thieves -- myself included.
+44.123	What's particularly concerning about this
+44.123	is that in most cases,
+49.595	it was months before anyone even
+49.595	reported that these records were stolen.
+56.984	So if you watch the evening news,
+60.051	you would think that most of this
+60.051	is espionage or nation-state activity.
+65.813	And, well, some of it is.
+68.514	Espionage, you see, is an accepted
+68.514	international practice.
+73.613	But in this case,
+75.12	it is only a small portion
+75.12	of the problem that we're dealing with.
+81.459	How often do we hear about a breach
+84.818	"followed by, ""... it was the result"
+84.818	"of a sophisticated nation-state attack?"""
+90.481	Well, often that is companies
+90.481	not being willing to own up
+95.366	to their own lackluster
+95.366	security practices.
+98.885	There is also a widely held belief
+102.175	that by blaming an attack
+102.175	on a nation-state,
+106.05	you are putting regulators at bay --
+108.755	at least for a period of time.
+111.657	So where is all of this coming from?
+116.817	The United Nations estimates
+116.817	that 80 percent of it
+122.334	is from highly organized
+122.334	and ultrasophisticated criminal gangs.
+129.074	To date,
+130.817	this represents one of the largest
+130.817	illegal economies in the world,
+137.441	topping out at, now get this,
+145.359	Let me put that in perspective
+145.359	for all of you:
+154.423	of 160 nations,
+157.113	including Ireland, Finland,
+157.113	Denmark and Portugal,
+161.682	to name a few.
+164.113	So how does this work?
+166.141	How do these criminals operate?
+168.521	Well, let me tell you a little story.
+172.351	About a year ago,
+173.569	our security researchers were tracking
+176.903	a somewhat ordinary but sophisticated
+176.903	banking Trojan called the Dyre Wolf.
+183.745	The Dyre Wolf would get on your computer
+185.99	via you clicking on a link
+185.99	in a phishing email
+189.014	that you probably shouldn't have.
+190.99	It would then sit and wait.
+193.575	It would wait until you logged
+193.575	into your bank account.
+197.119	And when you did,
+197.119	the bad guys would reach in,
+200.486	steal your credentials,
+202.163	and then use that to steal your money.
+204.843	This sounds terrible,
+206.787	but the reality is,
+206.787	in the security industry,
+209.604	this form of attack
+209.604	is somewhat commonplace.
+215.822	However, the Dyre Wolf had
+215.822	two distinctly different personalities --
+222.479	one for these small transactions,
+224.844	but it took on an entirely
+224.844	different persona
+227.908	if you were in the business of moving
+227.908	large-scale wire transfers.
+231.747	Here's what would happen.
+233.47	You start the process
+233.47	of issuing a wire transfer,
+236.294	and up in your browser would pop
+236.294	a screen from your bank,
+239.326	indicating that there's a problem
+239.326	with your account,
+241.947	and that you need to call
+241.947	the bank immediately,
+245.162	along with the number
+245.162	to the bank's fraud department.
+248.655	So you pick up the phone and you call.
+250.849	And after going through
+250.849	the normal voice prompts,
+253.884	you're met with
+253.884	an English-speaking operator.
+256.025	"""Hello, Altoro Mutual Bank."
+256.025	"How can I help you?"""
+259.853	And you go through the process
+259.853	like you do every time you call your bank,
+263.53	of giving them your name
+263.53	and your account number,
+266.345	going through the security checks
+266.345	to verify you are who you said you are.
+271.629	Most of us may not know this,
+273.141	but in many large-scale wire transfers,
+275.394	it requires two people to sign off
+275.394	on the wire transfer,
+278.529	so the operator then asks you
+278.529	to get the second person on the line,
+281.752	and goes through the same set
+281.752	of verifications and checks.
+285.78	Sounds normal, right?
+287.729	Only one problem:
+289.195	you're not talking to the bank.
+291.044	You're talking to the criminals.
+292.654	They had built
+292.654	an English-speaking help desk,
+294.876	fake overlays to the banking website.
+296.965	And this was so flawlessly executed
+300.089	that they were moving
+300.089	between a half a million
+302.256	and a million and a half
+302.256	dollars per attempt
+305.367	into their criminal coffers.
+307.96	These criminal organizations operate
+310.599	like highly regimented,
+310.599	legitimate businesses.
+314.165	Their employees work
+314.165	Monday through Friday.
+317.129	They take the weekends off.
+318.689	How do we know this?
+320.096	We know this because
+320.096	our security researchers see
+323.253	repeated spikes of malware
+323.253	on a Friday afternoon.
+327.074	The bad guys, after a long weekend
+327.074	with the wife and kids,
+330.313	come back in to see how well things went.
+335.521	The Dark Web is where
+335.521	they spend their time.
+339.115	That is a term used to describe
+339.115	the anonymous underbelly of the internet,
+344.928	where thieves can operate with anonymity
+347.877	and without detection.
+350.029	Here they peddle their attack software
+353.08	and share information
+353.08	on new attack techniques.
+357.391	You can buy everything there,
+359.265	from a base-level attack
+359.265	to a much more advanced version.
+363.662	In fact, in many cases, you even see
+365.978	gold, silver and bronze levels of service.
+369.723	You can check references.
+371.797	You can even buy attacks
+374.381	that come with a money-back guarantee --
+377.733	(Laughter)
+378.802	if you're not successful.
+381.751	Now, these environments,
+381.751	these marketplaces --
+384.866	they look like an Amazon or an eBay.
+388.237	You see products, prices,
+388.237	ratings and reviews.
+392.217	Of course, if you're going
+392.217	to buy an attack,
+394.495	you're going to buy from a reputable
+394.495	criminal with good ratings, right?
+397.968	(Laughter)
+398.996	This isn't any different
+400.221	than checking on Yelp or TripAdvisor
+400.221	before going to a new restaurant.
+406.323	So, here is an example.
+408.44	This is an actual screenshot
+408.44	of a vendor selling malware.
+413.885	Notice they're a vendor level four,
+415.724	they have a trust level of six.
+417.589	They've had 400 positive reviews
+417.589	in the last year,
+419.948	and only two negative reviews
+419.948	in the last month.
+422.892	We even see things like licensing terms.
+426.582	Here's an example of a site you can go to
+428.61	if you want to change your identity.
+430.391	They will sell you a fake ID,
+432.272	fake passports.
+434.423	But note the legally binding terms
+434.423	for purchasing your fake ID.
+440.338	Give me a break.
+441.883	What are they going to do --
+441.883	sue you if you violate them?
+444.765	(Laughter)
+447.278	This occurred a couple of months ago.
+449.725	One of our security
+449.725	researchers was looking
+453.364	at a new Android malware application
+453.364	that we had discovered.
+458.386	It was called Bilal Bot.
+461.334	In a blog post,
+463.284	she positioned Bilal Bot
+463.284	as a new, inexpensive and beta alternative
+470.69	to the much more advanced GM Bot
+474.052	that was commonplace
+474.052	in the criminal underground.
+478.478	This review did not sit well
+478.478	with the authors of Bilal Bot.
+483.057	So they wrote her this very email,
+486.848	pleading their case
+486.848	and making the argument
+489.629	that they felt she had evaluated
+489.629	an older version.
+496.018	They asked her to please update
+496.018	her blog with more accurate information
+500.751	and even offered to do an interview
+504.187	to describe to her in detail
+506.432	how their attack software was now
+506.432	far better than the competition.
+512.185	So look,
+513.534	you don't have to like what they do,
+517.422	but you do have to respect
+517.422	the entrepreneurial nature
+522.365	of their endeavors.
+523.596	(Laughter)
+526.296	So how are we going to stop this?
+531.534	It's not like we're going to be able
+531.534	to identify who's responsible --
+537.122	remember, they operate with anonymity
+540.108	and outside the reach of the law.
+543.037	We're certainly not going to be able
+543.037	to prosecute the offenders.
+546.976	I would propose that we need
+546.976	a completely new approach.
+553.583	And that approach needs
+553.583	to be centered on the idea
+557.513	that we need to change
+557.513	the economics for the bad guys.
+562.065	And to give you a perspective
+562.065	on how this can work,
+565.19	let's think of the response we see
+565.19	to a healthcare pandemic:
+570.202	SARS, Ebola, bird flu, Zika.
+573.856	What is the top priority?
+575.801	It's knowing who is infected
+575.801	and how the disease is spreading.
+583.835	Now, governments, private institutions,
+583.835	hospitals, physicians --
+590.881	everyone responds openly and quickly.
+595.154	This is a collective and altruistic effort
+599.149	to stop the spread in its tracks
+603.073	and to inform anyone not infected
+605.974	how to protect or inoculate themselves.
+610.72	Unfortunately, this is not at all
+610.72	what we see in response to a cyber attack.
+617.67	Organizations are far more likely
+617.67	to keep information on that attack
+622.145	to themselves.
+624.902	Why?
+626.082	Because they're worried
+626.082	about competitive advantage,
+629.863	litigation
+631.458	or regulation.
+633.647	We need to effectively democratize
+633.647	threat intelligence data.
+639.795	We need to get all of these organizations
+639.795	to open up and share
+645.295	what is in their private arsenal
+645.295	of information.
+650.83	The bad guys are moving fast;
+653.648	we've got to move faster.
+656.57	And the best way to do that is to open up
+660.316	and share data on what's happening.
+663.124	Let's think about this in the construct
+663.124	of security professionals.
+667.984	Remember, they're programmed right
+667.984	into their DNA to keep secrets.
+672.984	We've got to turn
+672.984	that thinking on its head.
+676.032	We've got to get governments,
+676.032	private institutions
+679.337	and security companies
+680.804	willing to share information at speed.
+683.559	And here's why:
+685.259	because if you share the information,
+687.16	it's equivalent to inoculation.
+690.483	And if you're not sharing,
+692.054	you're actually part of the problem,
+694.179	because you're increasing the odds
+694.179	that other people could be impacted
+699.971	by the same attack techniques.
+703.806	But there's an even bigger benefit.
+707.018	By destroying criminals' devices
+707.018	closer to real time,
+711.788	we break their plans.
+715.282	We inform the people they aim to hurt
+718.546	far sooner than they had ever anticipated.
+722.34	We ruin their reputations,
+724.565	we crush their ratings and reviews.
+728.125	We make cybercrime not pay.
+732.751	We change the economics for the bad guys.
+738.135	But to do this,
+738.135	a first mover was required --
+742.131	someone to change the thinking
+742.131	in the security industry overall.
+747.887	About a year ago,
+749.181	my colleagues and I had a radical idea.
+752.444	What if IBM were to take our data --
+757.807	we had one of the largest threat
+757.807	intelligence databases in the world --
+761.819	and open it up?
+763.577	It had information not just
+763.577	on what had happened in the past,
+767.062	but what was happening in near-real time.
+769.561	What if we were to publish it all
+769.561	openly on the internet?
+774.283	As you can imagine,
+774.283	this got quite a reaction.
+776.801	First came the lawyers:
+778.189	What are the legal
+778.189	implications of doing that?
+781.205	Then came the business:
+782.564	What are the business
+782.564	implications of doing that?
+785.442	And this was also met with a good dose
+787.639	of a lot of people just asking
+787.639	if we were completely crazy.
+791.748	But there was one conversation
+791.748	that kept floating to the surface
+795.558	in every dialogue that we would have:
+798.22	the realization that if we didn't do this,
+801.791	then we were part of the problem.
+805.334	So we did something unheard of
+805.334	in the security industry.
+808.865	We started publishing.
+810.562	Over 700 terabytes of actionable
+810.562	threat intelligence data,
+814.996	including information on real-time attacks
+818.025	that can be used to stop
+818.025	cybercrime in its tracks.
+821.633	And to date,
+823.027	over 4,000 organizations
+823.027	are leveraging this data,
+827.095	including half of the Fortune 100.
+830.419	And our hope as a next step
+830.419	is to get all of those organizations
+834.46	to join us in the fight,
+836.445	and do the same thing
+838.02	and share their information
+840.132	on when and how
+840.132	they're being attacked as well.
+843.372	We all have the opportunity to stop it,
+846.414	and we already all know how.
+849.192	All we have to do is look
+849.192	to the response that we see
+853.586	in the world of health care,
+855.116	and how they respond to a pandemic.
+857.443	Simply put,
+858.846	we need to be open and collaborative.
+861.696	Thank you.
+862.871	(Applause)

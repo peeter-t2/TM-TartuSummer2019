@@ -1,0 +1,632 @@
+startsecond	text
+15.26	How many of you had to fill out a web form
+17.284	where you've been asked to read
+18.82	a distorted sequence
+18.82	of characters like this?
+20.98	How many of you found it really annoying?
+22.957	(Laughter)
+24.08	OK, outstanding. So I invented that.
+25.84	(Laughter)
+27.7	Or I was one of the people who did it.
+29.58	That thing is called a CAPTCHA.
+31.14	And it is there to make sure
+31.14	you, the entity filling out the form,
+34.3	are a human and not a computer program
+36.18	that was written to submit
+36.18	the form millions of times.
+38.78	The reason it works is because humans,
+38.78	at least non-visually-impaired humans,
+42.46	have no trouble reading
+42.46	these distorted characters,
+44.9	whereas programs can't do it as well yet.
+46.9	In the case of Ticketmaster,
+48.42	the reason you have
+48.42	to type these characters
+50.54	is to prevent scalpers
+50.54	from writing a program
+52.7	that can buy millions
+52.7	of tickets, two at a time.
+54.98	CAPTCHAs are used all over the Internet.
+56.94	And since they're used so often,
+58.54	a lot of times the sequence
+58.54	of random characters shown to the user
+61.7	is not so fortunate.
+62.94	So this is an example
+62.94	from the Yahoo registration page.
+65.62	The random characters
+65.62	that happened to be shown to the user
+68.46	were W, A, I, T,
+68.46	which, of course, spell a word.
+71.18	But the best part is the message
+73.3	that the Yahoo help desk
+73.3	got about 20 minutes later.
+75.78	[Help! I've been waiting
+75.78	for over 20 minutes and nothing happens.]
+78.94	(Laughter)
+83.82	This person thought they needed to wait.
+85.749	This, of course,
+85.749	is not as bad as this poor person.
+88.18	(Laughter)
+90.58	CAPTCHA Project is something that we did
+90.58	at Carnegie Melllon over 10 years ago,
+94.34	and it's been used everywhere.
+95.82	Let me now tell you about a project
+95.82	that we did a few years later,
+98.98	which is sort of
+98.98	the next evolution of CAPTCHA.
+101.22	This is a project that we call reCAPTCHA,
+103.22	which is something that we started
+103.22	here at Carnegie Mellon,
+106.02	then we turned it into a start-up company.
+108.052	And then about a year and a half ago,
+108.052	Google actually acquired this company.
+111.664	Let me tell you what this project started.
+113.695	This project started
+113.695	from the following realization:
+116.25	It turns out that approximately
+118.711	are typed everyday
+118.711	by people around the world.
+120.886	When I first heard this,
+120.886	I was quite proud of myself.
+123.394	I thought, look at the impact
+123.394	my research has had.
+125.759	But then I started feeling bad.
+127.267	Here's the thing:
+127.267	each time you type a CAPTCHA,
+129.497	essentially, you waste
+131.86	And if you multiply that by 200 million,
+133.82	you get that humanity is wasting
+133.82	about 500,000 hours every day
+136.86	typing these annoying CAPTCHAs.
+138.42	(Laughter)
+139.46	So then I started feeling bad.
+140.913	(Laughter)
+142.74	And then I started thinking, of course,
+142.74	we can't just get rid of CAPTCHAs,
+146.26	because the security of the web
+146.26	depends on them.
+148.54	But then I started thinking,
+148.54	can we use this effort
+150.98	for something that is good for humanity?
+152.94	So see, here's the thing.
+154.46	While you're typing a CAPTCHA,
+154.46	during those 10 seconds,
+157.1	your brain is doing something amazing.
+158.98	Your brain is doing something
+158.98	that computers cannot yet do.
+161.82	So can we get you to do useful work
+161.82	for those 10 seconds?
+164.54	Is there some humongous problem
+164.54	that we cannot yet get computers to solve,
+168.06	yet we can split
+168.06	into tiny 10-second chunks
+170.86	such that each time
+170.86	somebody solves a CAPTCHA,
+173.06	they solve a little bit of this problem?
+175.02	"And the answer to that is ""yes,"""
+175.02	and this is what we're doing now.
+178.18	Nowadays, while you're typing a CAPTCHA,
+180.14	not only are you authenticating
+180.14	yourself as a human,
+182.593	but in addition you're helping us
+182.593	to digitize books.
+185.06	Let me explain how this works.
+186.54	There's a lot of projects
+186.54	trying to digitize books.
+188.98	Google has one.
+188.98	The Internet Archive has one.
+191.14	Amazon, with the Kindle,
+191.14	is trying to digitize books.
+193.66	Basically, the way this works
+193.66	is you start with an old book.
+196.86	You've seen those things, right?
+198.46	Like a book?
+199.7	(Laughter)
+200.98	So you start with a book
+200.98	and then you scan it.
+203.54	Now, scanning a book
+204.78	is like taking a digital
+204.78	photograph of every page.
+207.18	It gives you an image for every page.
+209.02	This is an image with text
+209.02	for every page of the book.
+211.62	The next step in the process
+211.62	is that the computer needs to be able
+214.78	to decipher the words in this image.
+216.54	That's using a technology called OCR,
+216.54	for optical character recognition,
+219.98	which takes a picture of text
+221.42	and tries to figure out
+221.42	what text is in there.
+223.62	Now, the problem
+223.62	is that OCR is not perfect.
+226.3	Especially for older books
+227.74	where the ink has faded
+227.74	and the pages have turned yellow,
+230.9	OCR cannot recognize a lot of the words.
+232.86	For things that were written
+232.86	more than 50 years ago,
+235.34	the computer cannot recognize
+235.34	about 30 percent of the words.
+238.22	So now we're taking all of the words
+238.22	that the computer cannot recognize
+241.62	and we're getting people
+241.62	to read them for us
+243.9	while they're typing
+243.9	a CAPTCHA on the Internet.
+246.14	So the next time you type a CAPTCHA,
+246.14	these words that you're typing
+249.34	are actually words from books
+249.34	that are being digitized
+251.94	that the computer could not recognize.
+253.82	The reason we have
+253.82	two words nowadays instead of one
+256.3	is because one of the words
+257.74	is a word that the system
+257.74	just got out of a book,
+260.34	it didn't know what it was
+260.34	and it's going to present it to you.
+263.38	But since it doesn't know the answer,
+263.38	it cannot grade it.
+266.1	So we give you another word,
+267.5	for which the system does know the answer.
+269.524	We don't tell you which one's which
+269.524	and we say, please type both.
+272.62	And if you type the correct word
+274.219	for the one for which
+274.219	the system knows the answer,
+276.62	it assumes you are human
+277.9	and it also gets some confidence
+277.9	that you typed the other word correctly.
+281.38	And if we repeat this process
+281.38	to 10 different people
+283.86	and they agree on what the new word is,
+285.78	then we get one more word
+285.78	digitized accurately.
+288.02	So this is how the system works.
+289.62	And since we released it
+289.62	about three or four years ago,
+292.26	a lot of websites have started
+292.26	switching from the old CAPTCHA,
+295.22	where people wasted their time,
+296.78	to the new CAPTCHA where people
+296.78	are helping to digitize books.
+299.74	So every time you buy
+299.74	tickets on Ticketmaster,
+301.94	you help to digitize a book.
+303.34	Facebook: Every time
+303.34	you add a friend or poke somebody,
+305.98	you help to digitize a book.
+307.38	Twitter and about 350,000 other sites
+307.38	are all using reCAPTCHA.
+310.34	And the number of sites
+310.34	that are using reCAPTCHA is so high
+313.18	that the number of words
+313.18	we're digitizing per day is really large.
+316.34	It's about 100 million a day,
+317.78	which is the equivalent of about
+317.78	two and a half million books a year.
+321.3	And this is all being done
+321.3	one word at a time
+323.46	by just people typing
+323.46	CAPTCHAs on the Internet.
+325.7	(Applause)
+332.94	Now, of course,
+334.18	since we're doing so many words per day,
+337.54	funny things can happen.
+338.82	This is especially true
+338.82	because now we're giving people
+341.46	two randomly chosen English words
+341.46	next to each other.
+343.98	So funny things can happen.
+345.34	For example, we presented this word.
+347.1	"It's the word ""Christians"";"
+347.1	there's nothing wrong with it.
+349.86	But if you present it along
+349.86	with another randomly chosen word,
+352.82	bad things can happen.
+354.18	So we get this.
+355.42	[bad Christians]
+356.66	But it's even worse, because
+356.66	the website where we showed this
+359.58	actually happened to be called
+359.58	The Embassy of the Kingdom of God.
+362.66	(Laughter)
+364.38	Oops.
+365.62	(Laughter)
+369.5	Here's another really bad one.
+371.22	JohnEdwards.com
+372.54	[Damn liberal]
+373.78	(Laughter)
+378.3	So we keep on insulting people
+378.3	left and right everyday.
+381.14	Of course, we're not
+381.14	just insulting people.
+383.18	Here's the thing. Since we're presenting
+383.18	two randomly chosen words,
+386.38	interesting things can happen.
+387.86	So this actually has given rise
+387.86	to a really big Internet meme
+392.5	that tens of thousands of people
+392.5	have participated in,
+395.06	which is called CAPTCHA art.
+396.74	I'm sure some of you have heard about it.
+398.74	Here's how it works.
+400.02	Imagine you're using the Internet
+400.02	and you see a CAPTCHA
+402.66	that you think is somewhat peculiar,
+404.42	like this CAPTCHA.
+405.66	[invisible toaster]
+406.9	What you're supposed to do
+406.9	is you take a screenshot of it.
+409.66	Then of course, you fill out the CAPTCHA
+409.66	because you help us digitize a book.
+413.34	But first you take a screenshot
+414.86	and then you draw something
+414.86	that is related to it.
+417.26	(Laughter)
+418.98	That's how it works.
+420.22	(Laughter)
+421.58	There are tens of thousands of these.
+424.26	Some of them are very cute.
+426.356	[clenched it]
+427.593	(Laughter)
+429.46	Some of them are funnier.
+431.02	[stoned Founders]
+432.26	(Laughter)
+436.66	And some of them,
+436.66	like paleontological shvisle ...
+440.113	(Laughter)
+442.06	they contain Snoop Dogg.
+443.3	(Laughter)
+446.46	OK, so this is my favorite
+446.46	number of reCAPTCHA.
+449.06	So this is the favorite thing
+449.06	that I like about this whole project.
+452.26	This is the number of distinct people
+454.1	that have helped us digitize at least
+454.1	one word out of a book through reCAPTCHA:
+	of the world's population,
+460.94	has helped us digitize human knowledge.
+462.86	And it is numbers like these
+462.86	that motivate my research agenda.
+465.98	So the question that motivates
+465.98	my research is the following:
+469.06	If you look at humanity's
+469.06	large-scale achievements,
+471.5	these really big things
+472.74	that humanity has gotten together
+472.74	and done historically --
+475.479	like, for example,
+475.479	building the pyramids of Egypt
+477.98	or the Panama Canal
+479.58	or putting a man on the Moon --
+481.66	there is a curious fact about them,
+483.38	and it is that they were all done
+483.38	with about the same number of people.
+486.74	It's weird; they were all done
+486.74	with about 100,000 people.
+489.46	And the reason for that is because,
+489.46	before the Internet,
+492.14	coordinating more than 100,000 people,
+494.02	let alone paying them,
+494.02	was essentially impossible.
+497.06	But now with the Internet,
+497.06	I've just shown you a project
+499.74	where we've gotten 750 million people
+499.74	to help us digitize human knowledge.
+503.26	So the question
+503.26	that motivates my research is,
+505.46	if we can put a man
+505.46	on the Moon with 100,000,
+507.62	what can we do with 100 million?
+509.82	So based on this question,
+511.1	we've had a lot of different projects
+511.1	that we've been working on.
+514.18	Let me tell you about one
+514.18	that I'm most excited about.
+516.74	This is something that we've been
+516.74	semiquietly working on
+519.42	for the last year and a half or so.
+521.14	It hasn't yet been launched.
+521.14	It's called Duolingo.
+523.54	Since it hasn't been launched, shhh!
+525.3	(Laughter)
+526.98	Yeah, I can trust you'll do that.
+529.26	So this is the project.
+529.26	Here's how it started.
+531.5	It started with me posing a question
+531.5	to my graduate student, Severin Hacker.
+535.1	OK, that's Severin Hacker.
+537.299	So I posed the question
+537.299	to my graduate student.
+539.54	By the way, you did hear me correctly;
+539.54	his last name is Hacker.
+542.54	(Laughter)
+543.58	So I posed this question to him:
+543.58	How can we get 100 million people
+546.9	translating the web
+546.9	into every major language for free?
+550.5	There's a lot of things
+550.5	to say about this question.
+552.94	First of all, translating the web.
+554.62	Right now, the web
+554.62	is partitioned into multiple languages.
+557.44	A large fraction of it is in English.
+559.28	If you don't know English,
+559.28	you can't access it.
+561.52	But there's large fractions
+561.52	in other different languages,
+564.24	and if you don't know them,
+564.24	you can't access it.
+566.52	So I would like to translate
+566.52	all of the web,
+568.64	or at least most of it,
+568.64	into every major language.
+571.04	That's what I would like to do.
+572.56	Now, some of you may say,
+572.56	why can't we use computers to translate?
+577.06	Machine translation
+577.06	is starting to translate
+579.18	some sentences here and there.
+580.66	Why can't we use it to translate the web?
+582.66	The problem with that
+582.66	is it's not yet good enough
+585.02	and it probably won't be
+585.02	for the next 15 to 20 years.
+587.54	It makes a lot of mistakes.
+587.54	Even when it doesn't,
+589.9	since it makes so many mistakes,
+589.9	you don't know whether to trust it or not.
+593.5	So let me show you an example
+594.94	of something that was
+594.94	translated with a machine.
+597.22	Actually, it was a forum post.
+598.7	It was somebody who was trying
+598.7	to ask a question about JavaScript.
+601.9	It was translated
+601.9	from Japanese into English.
+604.54	So I'll just let you read.
+606.34	This person starts apologizing
+608.14	for the fact that
+608.14	it's translated with a computer.
+610.62	So the next sentence is going to be
+610.62	the preamble to the question.
+614.42	So he's just explaining something.
+616.1	Remember, it's a question
+616.1	about JavaScript.
+618.18	[At often, the goat-time
+618.18	install a error is vomit.]
+620.82	(Laughter)
+625.94	Then comes the first part of the question.
+629.5	[How many times like the wind,
+629.5	a pole, and the dragon?]
+632.46	(Laughter)
+637.14	Then comes my favorite part
+637.14	of the question.
+639.22	[This insult to father's stones?]
+641.18	(Laughter)
+645.06	And then comes the ending,
+646.38	which is my favorite part
+646.38	of the whole thing.
+648.54	[Please apologize for your stupidity.
+648.54	There are a many thank you.]
+651.7	(Laughter)
+653.9	OK, so computer translation,
+653.9	not yet good enough.
+656.86	So back to the question.
+658.14	So we need people
+658.14	to translate the whole web.
+661.14	So now the next question you may have is,
+663.14	well, why can't we just
+663.14	pay people to do this?
+665.34	We could pay professional translators
+665.34	to translate the whole web.
+668.46	We could do that.
+669.74	Unfortunately, it would be
+669.74	extremely expensive.
+671.98	For example, translating a tiny fraction
+671.98	of the whole web, Wikipedia,
+675.26	into one other language, Spanish.
+677.78	OK? Wikipedia exists in Spanish,
+679.78	but it's very small
+679.78	compared to the size of English.
+682.26	It's about 20 percent
+682.26	of the size of English.
+684.46	If we wanted to translate
+684.46	the other 80 percent into Spanish,
+687.34	it would cost at least
+689.5	and this is even at the most exploited,
+689.5	outsourcing country out there.
+693.18	So it would be very expensive.
+694.66	So what we want to do is,
+694.66	we want to get 100 million people
+697.446	translating the web
+697.446	into every major language for free.
+700.06	If this is what you want to do,
+700.06	you quickly realize
+702.5	you're going to run
+702.5	into two big hurdles, two big obstacles.
+705.46	The first one is a lack of bilinguals.
+708.78	So I don't even know
+710.98	if there exists 100 million people
+710.98	out there using the web
+713.74	who are bilingual enough
+713.74	to help us translate.
+716.06	That's a big problem.
+717.3	The other problem you're going to run into
+717.3	is a lack of motivation.
+720.5	How are we going to motivate people
+720.5	to actually translate the web for free?
+724.06	Normally, you have to pay
+724.06	people to do this.
+726.38	So how are we going to motivate them
+726.38	to do it for free?
+729.02	When we were starting to think about this,
+729.02	we were blocked by these two things.
+732.78	But then we realized, there's a way
+734.5	to solve both these problems
+734.5	with the same solution.
+736.98	To kill two birds with one stone.
+738.62	And that is to transform
+738.62	language translation
+740.78	into something that millions
+740.78	of people want to do
+743.62	and that also helps
+743.62	with the problem of lack of bilinguals,
+746.78	and that is language education.
+749.18	So it turns out that today,
+751.18	there are over 1.2 billion people
+751.18	learning a foreign language.
+755.3	People really want
+755.3	to learn a foreign language.
+757.54	And it's not just because
+757.54	they're being forced to do so in school.
+760.7	In the US alone,
+760.7	there are over five million people
+763.14	who have paid over $500
+763.14	for software to learn a new language.
+766.06	So people really want
+766.06	to learn a new language.
+768.26	So what we've been working on
+768.26	for the last year and a half
+771.02	is a new website --
+771.02	it's called Duolingo --
+773.1	where the basic idea is
+773.1	people learn a new language for free
+775.98	while simultaneously translating the web.
+778.06	And so basically,
+778.06	they're learning by doing.
+780.62	So the way this works
+781.86	is whenever you're a just a beginner,
+781.86	we give you very simple sentences.
+785.3	There's a lot of very simple
+785.3	sentences on the web.
+787.7	We give you very simple sentences
+787.7	along with what each word means.
+790.94	And as you translate them
+792.3	and as you see how other people
+792.3	translate them,
+794.54	you start learning the language.
+796.14	And as you get more advanced,
+797.58	we give you more complex
+797.58	sentences to translate.
+799.86	But at all times,
+799.86	you're learning by doing.
+801.9	Now, the crazy thing about this method
+801.9	is that it actually really works.
+805.62	People are really learning a language.
+807.5	We're mostly done building it
+807.5	and now we're testing it.
+810.14	People really can
+810.14	learn a language with it.
+812.22	And they learn it about as well
+812.22	as the leading language learning software.
+815.74	So people really do learn a language.
+817.58	And not only do they learn it as well,
+817.58	but actually it's more interesting.
+821.1	Because with Duolingo,
+821.1	people are learning with real content.
+824.02	As opposed to learning
+824.02	with made-up sentences,
+826.22	people are learning with real content,
+826.22	which is inherently interesting.
+829.58	So people really do learn a language.
+831.42	But perhaps more surprisingly,
+833.06	the translations that we get
+833.06	from people using the site,
+835.82	even though they're just beginners,
+837.62	the translations that we get
+839.02	are as accurate as those
+839.02	of professional language translators,
+841.98	which is very surprising.
+843.22	So let me show you one example.
+844.78	This is a sentence that was translated
+844.78	from German into English.
+847.82	The top is the German.
+847.82	The middle is an English translation
+850.62	that was done by a professional translator
+852.9	who we paid 20 cents a word
+852.9	for this translation.
+855.3	And the bottom is a translation
+855.3	by users of Duolingo,
+858.02	none of whom knew any German
+858.02	before they started using the site.
+861.78	If you can see, it's pretty much perfect.
+863.78	Of course, we play a trick here
+865.34	to make the translations as good
+865.34	as professional language translators.
+868.7	We combine the translations
+868.7	of multiple beginners
+871.06	to get the quality
+871.06	of a single professional translator.
+873.98	Now, even though
+873.98	we're combining the translations,
+878.54	the site actually
+878.54	can translate pretty fast.
+881.34	So let me show you,
+882.58	this is our estimates
+882.58	of how fast we could translate Wikipedia
+885.54	from English into Spanish.
+886.86	Remember, this is
+889.86	So if we wanted to translate
+889.86	Wikipedia into Spanish,
+892.34	we could do it in five weeks
+892.34	with 100,000 active users.
+895.06	And we could do it in about 80 hours
+895.06	with a million active users.
+898.14	Since all the projects
+898.14	my group has worked on so far
+900.62	have gotten millions of users,
+902.1	we're hopeful that we'll be able
+902.1	to translate extremely fast.
+905.02	Now, the thing that
+905.02	I'm most excited about with Duolingo
+908.02	is I think this provides a fair
+908.02	business model for language education.
+911.78	So here's the thing:
+913.02	The current business model
+913.02	for language education
+915.38	is the student pays,
+916.78	and in particular, the student
+916.78	pays Rosetta Stone 500 dollars.
+919.86	(Laughter)
+921.7	That's the current business model.
+923.38	The problem with this business model
+925.14	is that 95 percent of the world's
+925.14	population doesn't have 500 dollars.
+928.46	So it's extremely unfair towards the poor.
+931.26	This is totally biased towards the rich.
+933.22	Now, see, in Duolingo,
+934.86	because while you learn,
+934.86	you're actually creating value,
+938.54	you're translating stuff --
+939.9	which, for example, we could
+939.9	charge somebody for translations,
+942.86	so this is how we could monetize this.
+944.74	Since people are creating value
+944.74	while they're learning,
+947.38	they don't have to pay with their money,
+947.38	they pay with their time.
+950.5	But the magical thing here
+952.447	is that is time that would have had
+952.447	to have been spent anyways
+955.467	learning the language.
+956.7	So the nice thing about Duolingo
+958.3	is, I think, it provides
+958.3	a fair business model --
+960.66	one that doesn't discriminate
+960.66	against poor people.
+963.06	So here's the site. Thank you.
+964.54	(Applause)
+973.06	We haven't yet launched,
+975.5	but if you go there, you can sign up
+975.5	to be part of our private beta,
+978.82	which is probably going to start
+978.82	in three or four weeks.
+981.5	We haven't yet launched it.
+982.86	By the way, I'm the one talking here,
+984.7	but Duolingo is the work
+984.7	of a really awesome team,
+987.1	some of whom are here. So thank you.
+988.86	(Applause)

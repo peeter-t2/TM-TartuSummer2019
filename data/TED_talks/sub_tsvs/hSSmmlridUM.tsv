@@ -1,0 +1,499 @@
+startsecond	text
+12.739	So, I started my first job
+12.739	as a computer programmer
+16.885	in my very first year of college --
+18.865	basically, as a teenager.
+20.889	Soon after I started working,
+22.645	writing software in a company,
+24.799	a manager who worked at the company
+24.799	came down to where I was,
+28.458	and he whispered to me,
+30.229	"""Can he tell if I'm lying?"""
+33.806	There was nobody else in the room.
+37.032	"""Can who tell if you're lying?"
+37.032	"And why are we whispering?"""
+42.266	The manager pointed
+42.266	at the computer in the room.
+45.397	"""Can he tell if I'm lying?"""
+49.613	Well, that manager was having
+49.613	an affair with the receptionist.
+53.999	(Laughter)
+55.135	And I was still a teenager.
+57.447	So I whisper-shouted back to him,
+59.49	"""Yes, the computer can tell"
+59.49	"if you're lying."""
+63.138	(Laughter)
+64.968	Well, I laughed, but actually,
+64.968	the laugh's on me.
+67.915	Nowadays, there are computational systems
+71.207	that can suss out
+71.207	emotional states and even lying
+74.779	from processing human faces.
+77.248	Advertisers and even governments
+77.248	are very interested.
+82.319	I had become a computer programmer
+84.205	because I was one of those kids
+84.205	crazy about math and science.
+87.942	But somewhere along the line
+87.942	I'd learned about nuclear weapons,
+91.074	and I'd gotten really concerned
+91.074	with the ethics of science.
+94.05	I was troubled.
+95.278	However, because of family circumstances,
+97.943	I also needed to start working
+97.943	as soon as possible.
+101.265	So I thought to myself, hey,
+101.265	let me pick a technical field
+104.588	where I can get a job easily
+106.408	and where I don't have to deal
+106.408	with any troublesome questions of ethics.
+111.022	So I picked computers.
+112.575	(Laughter)
+113.703	Well, ha, ha, ha!
+113.703	All the laughs are on me.
+117.137	Nowadays, computer scientists
+117.137	are building platforms
+119.915	that control what a billion
+119.915	people see every day.
+125.052	They're developing cars
+125.052	that could decide who to run over.
+129.707	They're even building machines, weapons,
+132.944	that might kill human beings in war.
+135.253	It's ethics all the way down.
+139.183	Machine intelligence is here.
+141.823	We're now using computation
+141.823	to make all sort of decisions,
+145.321	but also new kinds of decisions.
+147.231	We're asking questions to computation
+147.231	that have no single right answers,
+152.427	that are subjective
+153.653	and open-ended and value-laden.
+156.002	We're asking questions like,
+157.784	"""Who should the company hire?"""
+160.096	"""Which update from which friend"
+160.096	"should you be shown?"""
+162.879	"""Which convict is more"
+162.879	"likely to reoffend?"""
+165.514	"""Which news item or movie"
+165.514	"should be recommended to people?"""
+168.592	Look, yes, we've been using
+168.592	computers for a while,
+171.988	but this is different.
+173.529	This is a historical twist,
+175.62	because we cannot anchor computation
+175.62	for such subjective decisions
+180.981	the way we can anchor computation
+180.981	for flying airplanes, building bridges,
+186.425	going to the moon.
+188.449	Are airplanes safer?
+188.449	Did the bridge sway and fall?
+191.732	There, we have agreed-upon,
+191.732	fairly clear benchmarks,
+196.254	and we have laws of nature to guide us.
+198.517	We have no such anchors and benchmarks
+201.935	for decisions in messy human affairs.
+205.922	To make things more complicated,
+205.922	our software is getting more powerful,
+210.183	but it's also getting less
+210.183	transparent and more complex.
+214.542	Recently, in the past decade,
+216.606	complex algorithms
+216.606	have made great strides.
+219.359	They can recognize human faces.
+221.985	They can decipher handwriting.
+224.436	They can detect credit card fraud
+226.526	and block spam
+227.739	and they can translate between languages.
+229.8	They can detect tumors in medical imaging.
+232.398	They can beat humans in chess and Go.
+235.264	Much of this progress comes
+235.264	"from a method called ""machine learning."""
+240.175	Machine learning is different
+240.175	than traditional programming,
+243.386	where you give the computer
+243.386	detailed, exact, painstaking instructions.
+247.378	It's more like you take the system
+247.378	and you feed it lots of data,
+251.584	including unstructured data,
+253.264	like the kind we generate
+253.264	in our digital lives.
+255.566	And the system learns
+255.566	by churning through this data.
+258.669	And also, crucially,
+260.219	these systems don't operate
+260.219	under a single-answer logic.
+264.623	They don't produce a simple answer;
+264.623	it's more probabilistic:
+267.606	"""This one is probably more like"
+267.606	"what you're looking for."""
+272.023	Now, the upside is:
+272.023	this method is really powerful.
+275.117	The head of Google's AI systems called it,
+277.217	"""the unreasonable effectiveness of data."""
+279.791	The downside is,
+281.738	we don't really understand
+281.738	what the system learned.
+284.833	In fact, that's its power.
+286.946	This is less like giving
+286.946	instructions to a computer;
+291.2	it's more like training
+291.2	a puppy-machine-creature
+295.288	we don't really understand or control.
+298.362	So this is our problem.
+300.427	It's a problem when this artificial
+300.427	intelligence system gets things wrong.
+304.713	It's also a problem
+304.713	when it gets things right,
+308.277	because we don't even know which is which
+308.277	when it's a subjective problem.
+311.929	We don't know what this thing is thinking.
+315.493	So, consider a hiring algorithm --
+320.123	a system used to hire people,
+320.123	using machine-learning systems.
+325.052	Such a system would have been trained
+325.052	on previous employees' data
+328.655	and instructed to find and hire
+331.27	people like the existing
+331.27	high performers in the company.
+334.814	Sounds good.
+335.991	I once attended a conference
+338.014	that brought together
+338.014	human resources managers and executives,
+341.163	high-level people,
+342.393	using such systems in hiring.
+343.976	They were super excited.
+345.646	They thought that this would make hiring
+345.646	more objective, less biased,
+350.323	and give women
+350.323	and minorities a better shot
+353.347	against biased human managers.
+355.559	And look -- human hiring is biased.
+359.099	I know.
+360.308	I mean, in one of my early jobs
+360.308	as a programmer,
+363.337	my immediate manager would sometimes
+363.337	come down to where I was
+367.229	really early in the morning
+367.229	or really late in the afternoon,
+371.006	"and she'd say, ""Zeynep,"
+371.006	"let's go to lunch!"""
+374.724	I'd be puzzled by the weird timing.
+376.915	It's 4pm. Lunch?
+379.068	I was broke, so free lunch. I always went.
+382.618	I later realized what was happening.
+384.709	My immediate managers
+384.709	had not confessed to their higher-ups
+389.279	that the programmer they hired
+389.279	for a serious job was a teen girl
+392.416	who wore jeans and sneakers to work.
+397.174	I was doing a good job,
+397.174	I just looked wrong
+399.4	and was the wrong age and gender.
+401.123	So hiring in a gender- and race-blind way
+404.493	certainly sounds good to me.
+407.031	But with these systems,
+407.031	it is more complicated, and here's why:
+410.968	Currently, computational systems
+410.968	can infer all sorts of things about you
+416.783	from your digital crumbs,
+418.679	even if you have not
+418.679	disclosed those things.
+421.506	They can infer your sexual orientation,
+424.994	your personality traits,
+426.859	your political leanings.
+428.83	They have predictive power
+428.83	with high levels of accuracy.
+433.362	Remember -- for things
+433.362	you haven't even disclosed.
+435.964	This is inference.
+437.579	I have a friend who developed
+437.579	such computational systems
+440.864	to predict the likelihood
+440.864	of clinical or postpartum depression
+444.529	from social media data.
+446.676	The results are impressive.
+448.492	Her system can predict
+448.492	the likelihood of depression
+451.873	months before the onset of any symptoms --
+455.8	months before.
+457.197	No symptoms, there's prediction.
+459.467	She hopes it will be used
+459.467	for early intervention. Great!
+464.911	But now put this in the context of hiring.
+468.027	So at this human resources
+468.027	managers conference,
+471.097	I approached a high-level manager
+471.097	in a very large company,
+475.83	"and I said to her, ""Look,"
+475.83	what if, unbeknownst to you,
+480.432	your system is weeding out people
+480.432	with high future likelihood of depression?
+487.761	They're not depressed now,
+487.761	just maybe in the future, more likely.
+491.923	What if it's weeding out women
+491.923	more likely to be pregnant
+495.353	in the next year or two
+495.353	but aren't pregnant now?
+498.844	What if it's hiring aggressive people
+498.844	"because that's your workplace culture?"""
+505.173	You can't tell this by looking
+505.173	at gender breakdowns.
+507.888	Those may be balanced.
+509.414	And since this is machine learning,
+509.414	not traditional coding,
+512.995	there is no variable there
+512.995	"labeled ""higher risk of depression,"""
+517.926	"""higher risk of pregnancy,"""
+519.783	"""aggressive guy scale."""
+521.995	Not only do you not know
+521.995	what your system is selecting on,
+525.698	you don't even know
+525.698	where to begin to look.
+528.045	It's a black box.
+529.315	It has predictive power,
+529.315	but you don't understand it.
+532.486	"""What safeguards,"" I asked, ""do you have"
+534.879	to make sure that your black box
+534.879	"isn't doing something shady?"""
+540.863	She looked at me as if I had
+540.863	just stepped on 10 puppy tails.
+544.765	(Laughter)
+546.037	She stared at me and she said,
+548.556	"""I don't want to hear"
+548.556	"another word about this."""
+553.458	And she turned around and walked away.
+556.064	Mind you -- she wasn't rude.
+557.574	It was clearly: what I don't know
+557.574	isn't my problem, go away, death stare.
+563.906	(Laughter)
+565.862	Look, such a system
+565.862	may even be less biased
+569.725	than human managers in some ways.
+571.852	And it could make monetary sense.
+574.573	But it could also lead
+576.247	to a steady but stealthy
+576.247	shutting out of the job market
+581.019	of people with higher risk of depression.
+583.753	Is this the kind of society
+583.753	we want to build,
+586.373	without even knowing we've done this,
+588.682	because we turned decision-making
+588.682	to machines we don't totally understand?
+593.265	Another problem is this:
+595.314	these systems are often trained
+595.314	on data generated by our actions,
+599.79	human imprints.
+602.188	Well, they could just be
+602.188	reflecting our biases,
+606.02	and these systems
+606.02	could be picking up on our biases
+609.637	and amplifying them
+610.974	and showing them back to us,
+612.416	while we're telling ourselves,
+613.902	"""We're just doing objective,"
+613.902	"neutral computation."""
+618.314	Researchers found that on Google,
+622.134	women are less likely than men
+622.134	to be shown job ads for high-paying jobs.
+628.463	And searching for African-American names
+631.017	is more likely to bring up ads
+631.017	suggesting criminal history,
+635.747	even when there is none.
+638.693	Such hidden biases
+638.693	and black-box algorithms
+642.266	that researchers uncover sometimes
+642.266	but sometimes we don't know,
+646.263	can have life-altering consequences.
+649.958	In Wisconsin, a defendant
+649.958	was sentenced to six years in prison
+654.141	for evading the police.
+656.824	You may not know this,
+658.034	but algorithms are increasingly used
+658.034	in parole and sentencing decisions.
+662.056	He wanted to know:
+662.056	How is this score calculated?
+665.795	It's a commercial black box.
+667.484	The company refused to have its algorithm
+667.484	be challenged in open court.
+672.396	But ProPublica, an investigative
+672.396	nonprofit, audited that very algorithm
+677.952	with what public data they could find,
+679.992	and found that its outcomes were biased
+682.332	and its predictive power
+682.332	was dismal, barely better than chance,
+685.985	and it was wrongly labeling
+685.985	black defendants as future criminals
+690.425	at twice the rate of white defendants.
+695.891	So, consider this case:
+698.103	This woman was late
+698.103	picking up her godsister
+701.979	from a school in Broward County, Florida,
+704.757	running down the street
+704.757	with a friend of hers.
+707.137	They spotted an unlocked kid's bike
+707.137	and a scooter on a porch
+711.26	and foolishly jumped on it.
+712.916	As they were speeding off,
+712.916	a woman came out and said,
+715.539	"""Hey! That's my kid's bike!"""
+717.768	They dropped it, they walked away,
+717.768	but they were arrested.
+721.086	She was wrong, she was foolish,
+721.086	but she was also just 18.
+724.747	She had a couple of juvenile misdemeanors.
+727.808	Meanwhile, that man had been arrested
+727.808	for shoplifting in Home Depot --
+	a similar petty crime.
+736.766	But he had two prior
+736.766	armed robbery convictions.
+741.955	But the algorithm scored her
+741.955	as high risk, and not him.
+746.746	Two years later, ProPublica found
+746.746	that she had not reoffended.
+750.644	It was just hard to get a job
+750.644	for her with her record.
+753.218	He, on the other hand, did reoffend
+755.318	and is now serving an eight-year
+755.318	prison term for a later crime.
+760.088	Clearly, we need to audit our black boxes
+763.481	and not have them have
+763.481	this kind of unchecked power.
+766.12	(Applause)
+770.087	Audits are great and important,
+770.087	but they don't solve all our problems.
+774.353	Take Facebook's powerful
+774.353	news feed algorithm --
+777.125	you know, the one that ranks everything
+777.125	and decides what to show you
+781.992	from all the friends and pages you follow.
+784.898	Should you be shown another baby picture?
+787.197	(Laughter)
+788.417	A sullen note from an acquaintance?
+791.449	An important but difficult news item?
+793.329	There's no right answer.
+794.835	Facebook optimizes
+794.835	for engagement on the site:
+797.518	likes, shares, comments.
+800.168	In August of 2014,
+802.888	protests broke out in Ferguson, Missouri,
+805.574	after the killing of an African-American
+805.574	teenager by a white police officer,
+810.015	under murky circumstances.
+811.974	The news of the protests was all over
+814.005	my algorithmically
+814.005	unfiltered Twitter feed,
+816.714	but nowhere on my Facebook.
+819.182	Was it my Facebook friends?
+820.94	I disabled Facebook's algorithm,
+823.472	which is hard because Facebook
+823.472	keeps wanting to make you
+826.344	come under the algorithm's control,
+828.404	and saw that my friends
+828.404	were talking about it.
+830.666	It's just that the algorithm
+830.666	wasn't showing it to me.
+833.199	I researched this and found
+833.199	this was a widespread problem.
+836.265	The story of Ferguson
+836.265	wasn't algorithm-friendly.
+840.102	"It's not ""likable."""
+841.297	"Who's going to click on ""like?"""
+843.5	It's not even easy to comment on.
+845.73	Without likes and comments,
+847.125	the algorithm was likely showing it
+847.125	to even fewer people,
+850.441	so we didn't get to see this.
+852.946	Instead, that week,
+854.198	Facebook's algorithm highlighted this,
+856.52	which is the ALS Ice Bucket Challenge.
+858.77	Worthy cause; dump ice water,
+858.77	donate to charity, fine.
+862.536	But it was super algorithm-friendly.
+865.219	The machine made this decision for us.
+867.856	A very important
+867.856	but difficult conversation
+871.377	might have been smothered,
+872.956	had Facebook been the only channel.
+876.117	Now, finally, these systems
+876.117	can also be wrong
+879.938	in ways that don't resemble human systems.
+882.698	Do you guys remember Watson,
+882.698	IBM's machine-intelligence system
+885.644	that wiped the floor
+885.644	with human contestants on Jeopardy?
+889.131	It was a great player.
+890.583	But then, for Final Jeopardy,
+890.583	Watson was asked this question:
+894.659	"""Its largest airport is named"
+894.659	for a World War II hero,
+897.615	its second-largest
+897.615	"for a World War II battle."""
+899.891	(Hums Final Jeopardy music)
+901.582	Chicago.
+902.788	The two humans got it right.
+904.697	Watson, on the other hand,
+904.697	"answered ""Toronto"" --"
+909.069	for a US city category!
+911.596	The impressive system also made an error
+914.521	that a human would never make,
+914.521	a second-grader wouldn't make.
+918.823	Our machine intelligence can fail
+921.956	in ways that don't fit
+921.956	error patterns of humans,
+925.08	in ways we won't expect
+925.08	and be prepared for.
+928.054	It'd be lousy not to get a job
+928.054	one is qualified for,
+931.716	but it would triple suck
+931.716	if it was because of stack overflow
+935.467	in some subroutine.
+936.923	(Laughter)
+938.526	In May of 2010,
+941.336	a flash crash on Wall Street
+941.336	fueled by a feedback loop
+945.404	"in Wall Street's ""sell"" algorithm"
+948.456	wiped a trillion dollars
+948.456	of value in 36 minutes.
+953.722	I don't even want to think
+953.722	"what ""error"" means"
+955.933	in the context of lethal
+955.933	autonomous weapons.
+961.894	So yes, humans have always made biases.
+965.708	Decision makers and gatekeepers,
+967.908	in courts, in news, in war ...
+971.425	they make mistakes;
+971.425	but that's exactly my point.
+974.487	We cannot escape
+974.487	these difficult questions.
+978.596	We cannot outsource
+978.596	our responsibilities to machines.
+982.676	(Applause)
+989.089	Artificial intelligence does not give us
+989.089	"a ""Get out of ethics free"" card."
+994.742	Data scientist Fred Benenson
+994.742	calls this math-washing.
+998.147	We need the opposite.
+999.56	We need to cultivate algorithm suspicion,
+999.56	scrutiny and investigation.
+1005.38	We need to make sure we have
+1005.38	algorithmic accountability,
+1008.602	auditing and meaningful transparency.
+1011.38	We need to accept
+1011.38	that bringing math and computation
+1014.638	to messy, value-laden human affairs
+1017.632	does not bring objectivity;
+1020.04	rather, the complexity of human affairs
+1020.04	invades the algorithms.
+1024.148	Yes, we can and we should use computation
+1027.659	to help us make better decisions.
+1029.697	But we have to own up
+1029.697	to our moral responsibility to judgment,
+1035.053	and use algorithms within that framework,
+1037.895	not as a means to abdicate
+1037.895	and outsource our responsibilities
+1042.854	to one another as human to human.
+1045.807	Machine intelligence is here.
+1048.44	That means we must hold on ever tighter
+1051.885	to human values and human ethics.
+1054.056	Thank you.
+1055.234	(Applause)

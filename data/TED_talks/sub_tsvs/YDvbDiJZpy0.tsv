@@ -1,0 +1,348 @@
+startsecond	text
+0	Translator: Crawford Hunt
+0	Reviewer: Brian Greene
+12.76	How many of you have used
+12.76	an electronic spreadsheet,
+15.76	like Microsoft Excel?
+18.24	Very good.
+19.52	Now, how many of you have run a business
+19.52	with a spreadsheet by hand,
+24.12	like my dad did for his small
+24.12	printing business in Philadelphia?
+28.16	A lot less.
+29.92	Well, that's the way it was done
+29.92	for hundreds of years.
+33.48	In early 1978,
+33.48	I started working on an idea
+36.52	that eventually became VisiCalc.
+39.48	And the next year it shipped
+41.16	running on something new
+41.16	called an Apple II personal computer.
+45.24	You could tell that things
+45.24	had really changed when, six years later,
+49.32	the Wall Street Journal ran an editorial
+51.52	that assumed you knew what VisiCalc was
+51.52	and maybe even were using it.
+55.76	Steve Jobs back in 1990
+59.16	"said that ""spreadsheets"
+59.16	"propelled the industry forward."""
+62.88	"""VisiCalc propelled the success of Apple"
+62.88	"more than any other single event."""
+67.44	On a more personal note,
+69.6	"Steve said, ""If VisiCalc had been written"
+69.6	for some other computer,
+72.76	you'd be interviewing
+72.76	"somebody else right now."""
+75.36	So, VisiCalc was instrumental in getting
+75.36	personal computers on business desks.
+81.76	How did it come about?
+83.68	What was it? What did I go through
+83.68	to make it be what it was?
+87.92	Well, I first learned to program
+87.92	back in 1966, when I was 15 --
+93.28	just a couple months
+93.28	after this photo was taken.
+96.2	Few high schoolers had access
+96.2	to computers in those days.
+99.56	But through luck
+99.56	and an awful lot of perseverance,
+103.08	I was able to get
+103.08	computer time around the city.
+106.2	After sleeping in the mud at Woodstock,
+106.2	I went off to MIT to go to college,
+111.52	where to make money,
+111.52	I worked on the Multics Project.
+115.32	Multics was a trailblazing
+115.32	interactive time-sharing system.
+120.36	Have you heard of the Linux
+120.36	and Unix operating systems?
+123.56	They came from Multics.
+125.32	I worked on the Multics versions
+127.64	of what are known
+127.64	as interpreted computer languages,
+131.48	that are used by people
+131.48	in noncomputer fields
+133.96	to do their calculations
+133.96	while seated at a computer terminal.
+137.56	After I graduated from MIT,
+139.84	I went to work for
+139.84	Digital Equipment Corporation.
+143.32	At DEC, I worked on software
+146.52	for the new area
+146.52	of computerized typesetting.
+149.8	I helped newspapers
+149.8	replace their reporters' typewriters
+154.16	with computer terminals.
+155.88	I'd write software
+157.12	and then I'd go out in the field
+157.12	to places like the Kansas City Star,
+160.84	where I would train users
+160.84	and get feedback.
+163.28	This was real-world experience
+165.16	that is quite different
+165.16	than what I saw in the lab at MIT.
+169.88	After that, I was project leader
+172.52	of the software for DEC's first
+172.52	word processor, again a new field.
+177.72	Like with typesetting, the important thing
+177.72	was crafting a user interface
+183.24	that was both natural and efficient
+183.24	for noncomputer people to use.
+188.36	After I was at DEC, I went
+188.36	to work for a small company
+192.36	that made microprocessor-based electronic
+192.36	cash registers for the fast-food industry.
+199.36	But I had always wanted to start
+199.36	a company with my friend Bob Frankston
+203.08	that I met on the Multics project at MIT.
+205.48	So I decided to go back to school to learn
+205.48	as much as I could about business.
+209.2	And in the fall of 1977,
+212	I entered the MBA program
+212	at Harvard Business School.
+215.84	I was one of the few
+215.84	percentage of students
+218.36	who had a background
+218.36	in computer programming.
+222.08	There's a picture of me from the yearbook
+222.08	sitting in the front row.
+225.28	(Laughter)
+226.32	Now, at Harvard,
+226.32	we learned by the case method.
+228.96	We'd do about three cases a day.
+230.92	Cases consist of up to a few dozen pages
+230.92	describing particular business situations.
+237.6	They often have exhibits,
+237.6	and exhibits often have words and numbers
+242.2	laid out in ways that make sense
+242.2	for the particular situation.
+245.84	They're usually all somewhat different.
+247.8	Here's my homework.
+249.04	Again, numbers, words,
+249.04	laid out in ways that made sense.
+252.24	Lots of calculations --
+252.24	we got really close to our calculators.
+256.72	In fact, here's my calculator.
+260.2	For Halloween, I went
+260.2	dressed up as a calculator.
+263	(Laughter)
+265.785	At the beginning of each class,
+265.785	the professor would call on somebody
+269	to present the case.
+271.079	What they would do is
+271.079	they would explain what was going on
+273.88	and then dictate information
+273.88	that the professor would transcribe
+277.64	onto the many motorized blackboards
+277.64	in the front of the class,
+280.569	and then we'd have a discussion.
+282.12	One of the really frustrating things
+282.12	is when you've done all your homework,
+286.6	you come in the next day
+286.6	only to find out that you made an error
+289.64	and all of the other numbers
+289.64	you did were wrong.
+292.2	And you couldn't participate as well.
+294	And we were marked by class participation.
+297.32	So, sitting there with 87 other people
+297.32	in the class, I got to daydream a lot.
+303.28	Most programmers in those days
+303.28	worked on mainframes,
+307.16	building things like inventory systems,
+307.16	payroll systems and bill-paying systems.
+313.52	But I had worked
+313.52	on interactive word processing
+316.04	and on-demand personal computation.
+318.16	Instead of thinking
+318.16	about paper printouts and punch cards,
+322.88	I imagined a magic blackboard
+325.68	that if you erased one number
+325.68	and wrote a new thing in,
+329.08	all of the other numbers
+329.08	would automatically change,
+331.96	like word processing with numbers.
+334.6	I imagined that my calculator
+334.6	had mouse hardware on the bottom of it
+339.24	and a head-up display,
+339.24	like in a fighter plane.
+342.72	And I could type some numbers in,
+342.72	and circle it, and press the sum button.
+346.88	And right in the middle of a negotiation
+346.88	I'd be able to get the answer.
+350.64	Now I just had to take my fantasy
+350.64	and turn it into reality.
+354.64	My father taught me about prototyping.
+357.56	He showed me mock-ups
+359.2	that he'd make to figure out
+359.2	the placement on the page
+362.56	for the things for brochures
+362.56	that he was printing.
+365.12	And he'd use it
+365.12	to get feedback from customers
+368.08	and OKs before he sent the job
+368.08	off to the presses.
+372.44	The act of making a simple, working
+372.44	version of what you're trying to build
+377.56	forces you to uncover key problems.
+380.72	And it lets you find solutions
+380.72	to those problems much less expensively.
+385.72	So I decided to build a prototype.
+388.76	I went to a video terminal connected to
+388.76	Harvard's time-sharing system
+393.36	and got to work.
+394.88	One of the first problems
+394.88	that I ran into was:
+398.16	How do you represent values in formulas?
+401.28	Let me show you what I mean.
+404	I thought that you would point somewhere,
+406.2	type in some words,
+406.2	then type in some somewhere else,
+409.32	put in some numbers and some more numbers,
+409.32	point where you want the answer.
+413.24	And then point to the first, press minus,
+413.24	point to the second,
+416.48	and get the result.
+418.36	The problem was:
+418.36	What should I put in the formula?
+421.8	It had to be something
+421.8	the computer knew what to put in.
+424.444	And if you looked at the formula,
+426.16	you needed to know
+426.16	where on the screen it referred to.
+429.84	The first thing I thought was
+429.84	the programmer way of doing it.
+432.76	The first time you pointed to somewhere,
+434.689	the computer would ask you
+434.689	to type in a unique name.
+438.76	It became pretty clear pretty fast that
+438.76	that was going to be too tedious.
+442.56	The computer had to automatically
+442.56	make up the name and put it inside.
+446.6	So I thought, why not make it be
+446.6	the order in which you create them?
+451.48	I tried that. Value 1, value 2.
+454	Pretty quickly I saw
+454	that if you had more than a few values
+456.786	you'd never remember
+456.786	on the screen where things were.
+459.32	Then I said, why not instead of
+459.32	allowing you to put values anywhere,
+464.64	I'll restrict you to a grid?
+466.72	Then when you pointed to a cell,
+468.96	the computer could put
+468.96	the row and column in as a name.
+472.64	And, if I did it like a map and put ABC
+472.64	across the top and numbers along the side,
+478.84	if you saw B7 in a formula,
+481.76	you'd know exactly
+481.76	where it was on the screen.
+484.64	And if you had to type the formula
+484.64	in yourself, you'd know what to do.
+489.44	Restricting you to a grid
+489.44	helped solve my problem.
+493.2	It also opened up new capabilities,
+493.2	like the ability to have ranges of cells.
+499.36	But it wasn't too restrictive --
+500.96	you could still put any value,
+500.96	any formula, in any cell.
+506.12	And that's the way we do it to this day,
+506.12	almost 40 years later.
+511.109	My friend Bob and I decided that we were
+511.109	going to build this product together.
+514.8	I did more work figuring out exactly
+514.8	how the program was supposed to behave.
+519.24	I wrote a reference card
+519.24	to act as documentation.
+522.52	It also helped me ensure
+522.52	that the user interface I was defining
+527.32	could be explained concisely
+527.32	and clearly to regular people.
+531.52	Bob worked in the attic of the apartment
+531.52	he rented in Arlington, Massachusetts.
+536.96	This is the inside of the attic.
+540.24	Bob bought time on the MIT Multics System
+543.04	to write computer code
+543.04	on a terminal like this.
+546.4	And then he would download test versions
+546.4	to a borrowed Apple II
+549.92	over a phone line
+549.92	using an acoustic coupler,
+553.2	and then we would test.
+554.92	For one of these tests I prepared
+554.92	for this case about the Pepsi Challenge.
+560.72	Print wasn't working yet,
+560.72	so I had to copy everything down.
+564.48	Save wasn't working,
+564.48	so every time it crashed,
+566.92	I had to type in all of the formulas
+566.92	again, over and over again.
+570.24	The next day in class, I raised my hand;
+570.24	I got called on, and I presented the case.
+574.24	I did five-year projections.
+574.24	I did all sorts of different scenarios.
+577.84	I aced the case.
+577.84	VisiCalc was already useful.
+582.16	"The professor said, ""How did you do it?"""
+585.469	Well, I didn't want to tell him
+585.469	about our secret program.
+588.16	(Laughter)
+590.2	"So I said, ""I took this and added this"
+592.08	and multiplied by this
+592.08	"and subtracted that."""
+594.2	"He said, ""Well,"
+594.2	"why didn't you use a ratio?"""
+596.32	"I said, ""Hah! A ratio --"
+596.32	"that wouldn't have been as exact!"""
+599.36	What I didn't say was,
+599.36	"""Divide isn't working yet."""
+601.96	(Laughter)
+605.08	Eventually, though,
+605.08	we did finish enough of VisiCalc
+608.96	to be able to show it to the public.
+611.44	My dad printed up a sample reference card
+613.44	that we could use as marketing material.
+616.28	In June of 1979, our publisher
+616.28	announced VisiCalc to the world,
+622.08	in a small booth at the giant National
+622.08	Computer Conference in New York City.
+626.8	The New York Times had
+626.8	a humorous article about the conference.
+631.48	"""The machines perform"
+631.48	what seem religious rites ...
+633.96	Even as the believers gather,
+635.365	the painters in the Coliseum sign room
+635.365	are adding to the pantheon,
+638.485	carefully lettering 'VISICALC'
+638.485	in giant black on yellow.
+641.68	"All hail VISICALC!"""
+643.52	(Gasp) New York Times:
+643.52	"""All hail VISICALC."""
+647.12	(Laughter)
+648.64	That was the last mention
+648.64	of the electronic spreadsheet
+652.92	in the popular business press
+652.92	for about two years.
+656.84	Most people didn't get it yet.
+659	But some did.
+660.92	In October of 1979, we shipped VisiCalc.
+665.88	It came in packaging
+665.88	that looked like this.
+668.72	And it looked like this
+668.72	running on the Apple II.
+672	And the rest, as they say, is history.
+674.36	Now, there's an awful lot
+674.36	more to this story,
+676.48	but that'll have to wait for another day.
+678.56	One thing, though, Harvard remembers.
+681.4	Here's that classroom.
+683.24	They put up a plaque
+683.24	to commemorate what happened there.
+687.64	(Applause)
+696.4	But it also serves as a reminder
+699.36	that you, too, should take
+699.36	your unique backgrounds, skills and needs
+704.88	and build prototypes to discover
+704.88	and work out the key problems,
+710.16	and through that, change the world.
+713.04	Thank you.
+714.28	(Applause)

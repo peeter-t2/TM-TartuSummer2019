@@ -1,0 +1,560 @@
+startsecond	text
+13.063	There's an old joke about a cop
+14.602	who's walking his beat
+14.602	in the middle of the night,
+16.983	and he comes across a guy
+16.983	under a street lamp
+19.11	who's looking at the ground
+19.11	and moving from side to side,
+21.825	and the cop asks him what he's doing.
+23.626	The guys says he's looking for his keys.
+25.584	So the cop takes his time
+27.047	and looks over and kind of
+27.047	makes a little matrix
+29.341	and looks for about two, three minutes.
+31.57	No keys.
+32.745	"The cop says, ""Are you sure?"
+35.141	Hey buddy, are you sure
+35.141	"you lost your keys here?"""
+37.474	And the guy says,
+37.474	"""No, actually I lost them"
+39.53	down at the other end of the street,
+41.28	"but the light is better here."""
+42.749	(Laughter)
+46.167	There's a concept that people talk
+46.167	"about nowadays called ""big data."""
+49.434	And what they're talking
+49.434	about is all of the information
+52.101	that we're generating
+52.101	through our interaction
+54.276	with and over the Internet,
+55.603	everything from Facebook and Twitter
+57.387	to music downloads, movies,
+57.387	streaming, all this kind of stuff,
+61.044	the live streaming of TED.
+62.919	And the folks who work
+62.919	with big data, for them,
+65.627	they talk about that their biggest problem
+67.655	is we have so much information.
+69.426	The biggest problem is: how do we
+69.426	organize all that information?
+73.272	I can tell you that,
+73.272	working in global health,
+75.456	that is not our biggest problem.
+78.232	Because for us, even though
+78.232	the light is better on the Internet,
+82.989	the data that would help us solve
+82.989	the problems we're trying to solve
+86.379	is not actually present on the Internet.
+88.552	So we don't know, for example,
+90.021	how many people right now
+90.021	are being affected by disasters
+93.336	or by conflict situations.
+95.329	We don't know for, really,
+95.329	basically, any of the clinics
+99.072	in the developing world,
+100.246	which ones have medicines
+100.246	and which ones don't.
+102.725	We have no idea of what
+102.725	the supply chain is for those clinics.
+106.123	We don't know -- and this is really
+106.123	amazing to me -- we don't know
+109.845	how many children were born --
+109.845	or how many children there are --
+113.639	in Bolivia or Botswana or Bhutan.
+118.047	We don't know how many kids died last week
+120.112	in any of those countries.
+121.382	We don't know the needs
+121.382	of the elderly, the mentally ill.
+124.453	For all of these different
+124.453	critically important problems
+127.692	or critically important areas
+127.692	that we want to solve problems in,
+131.016	we basically know nothing at all.
+135.834	And part of the reason
+135.834	why we don't know anything at all
+138.51	is that the information technology systems
+138.51	that we use in global health
+142.713	to find the data to solve
+142.713	these problems is what you see here.
+147.15	This is about a 5,000-year-old technology.
+149.408	Some of you may have used it before.
+151.164	It's kind of on its way out now,
+152.727	but we still use it
+152.727	for 99 percent of our stuff.
+155.19	This is a paper form.
+158.01	And what you're looking at is a paper form
+160.067	in the hand of a Ministry of Health
+160.067	nurse in Indonesia,
+163.27	who is tramping out across the countryside
+165.534	in Indonesia on, I'm sure,
+165.534	a very hot and humid day,
+169.209	and she is going to be knocking
+169.209	on thousands of doors
+171.915	over a period of weeks or months,
+174.018	knocking on the doors and saying,
+175.639	"""Excuse me, we'd like to ask"
+175.639	you some questions.
+178.541	Do you have any children?
+178.541	"Were your children vaccinated?"""
+182.223	Because the only way
+182.223	we can actually find out
+184.382	how many children were vaccinated
+184.382	in the country of Indonesia,
+187.341	what percentage were vaccinated,
+188.922	is actually not on the Internet,
+188.922	but by going out and knocking on doors,
+193.074	sometimes tens of thousands of doors.
+195.312	Sometimes it takes months to even years
+195.312	to do something like this.
+199.334	You know, a census of Indonesia
+201.475	would probably take
+201.475	two years to accomplish.
+203.593	And the problem, of course,
+203.593	with all of this
+205.689	is that, with all those paper forms --
+207.61	and I'm telling you, we have
+207.61	paper forms for every possible thing:
+210.753	We have paper forms
+210.753	for vaccination surveys.
+212.841	We have paper forms to track
+212.841	people who come into clinics.
+216.026	We have paper forms to track
+216.026	drug supplies, blood supplies --
+220.092	all these different paper forms
+220.092	for many different topics,
+223.35	they all have a single, common endpoint,
+225.69	and the common endpoint
+225.69	looks something like this.
+228.333	And what we're looking
+228.333	at here is a truckful of data.
+233.261	This is the data from a single
+233.261	vaccination coverage survey
+237.15	in a single district
+237.15	in the country of Zambia
+239.365	from a few years ago,
+239.365	that I participated in.
+241.679	The only thing anyone
+241.679	was trying to find out
+244.05	is what percentage of Zambian
+244.05	children are vaccinated,
+247.327	and this is the data,
+247.327	collected on paper over weeks,
+250.605	from a single district,
+251.812	which is something like a county
+251.812	in the United States.
+254.511	You can imagine that,
+254.511	for the entire country of Zambia,
+257.21	answering just that single question ...
+260.615	looks something like this.
+263.072	Truck after truck after truck,
+265.136	filled with stack after stack
+265.136	after stack of data.
+268.43	And what makes it even worse
+268.43	is that's just the beginning.
+271.666	Because once you've collected
+271.666	all that data,
+273.784	of course, someone --
+273.784	some unfortunate person --
+276.348	is going to have to type that
+276.348	into a computer.
+278.587	When I was a graduate student,
+280.063	I actually was that unfortunate
+280.063	person sometimes.
+282.546	I can tell you, I often wasn't
+282.546	really paying attention.
+285.585	I probably made a lot
+285.585	of mistakes when I did it
+287.876	that no one ever discovered,
+287.876	so data quality goes down.
+290.52	But eventually that data, hopefully,
+290.52	gets typed into a computer,
+293.564	and someone can begin to analyze it,
+295.319	and once they have
+295.319	an analysis and a report,
+298.215	hopefully, then you can take
+298.215	the results of that data collection
+301.263	and use it to vaccinate children better.
+303.254	Because if there's anything worse
+303.254	in the field of global public health --
+308.819	I don't know what's worse
+308.819	than allowing children on this planet
+311.825	to die of vaccine-preventable diseases --
+314.679	diseases for which
+314.679	the vaccine costs a dollar.
+317.835	And millions of children die
+317.835	of these diseases every year.
+321.211	And the fact is, millions
+321.211	is a gross estimate,
+324.209	because we don't really know
+324.209	how many kids die each year of this.
+327.73	What makes it even more frustrating
+327.73	is that the data-entry part,
+331.253	the part that I used to do
+331.253	as a grad student,
+333.467	can take sometimes six months.
+334.949	Sometimes it can take two years
+334.949	to type that information into a computer,
+338.425	And sometimes, actually not infrequently,
+340.559	it actually never happens.
+342.411	Now try and wrap your head
+342.411	around that for a second.
+344.911	You just had teams of hundreds of people.
+347.11	They went out into the field
+347.11	to answer a particular question.
+350.037	You probably spent hundreds
+350.037	of thousands of dollars
+352.457	on fuel and photocopying and per diem.
+356.072	And then for some reason, momentum is lost
+358.14	or there's no money left,
+359.557	and all of that comes to nothing,
+361.918	because no one actually types it
+361.918	into the computer at all.
+364.665	The process just stops.
+365.865	Happens all the time.
+367.813	This is what we base
+367.813	our decisions on in global health:
+370.952	little data, old data, no data.
+375.924	So back in 1995,
+377.401	I began to think about ways
+377.401	in which we could improve this process.
+380.665	Now 1995 -- obviously,
+380.665	that was quite a long time ago.
+383.357	It kind of frightens me to think
+383.357	of how long ago that was.
+386.359	The top movie of the year
+386.359	"was ""Die Hard with a Vengeance."""
+389.121	As you can see, Bruce Willis
+389.121	had a lot more hair back then.
+391.962	I was working in the Centers
+391.962	for Disease Control
+394.651	and I had a lot more
+394.651	hair back then as well.
+397.505	But to me, the most significant
+397.505	thing that I saw in 1995
+400.473	was this.
+402.151	Hard for us to imagine, but in 1995,
+404.568	this was the ultimate elite mobile device.
+408.286	It wasn't an iPhone.
+408.286	It wasn't a Galaxy phone.
+410.866	It was a PalmPilot.
+412.254	And when I saw the PalmPilot
+412.254	for the first time, I thought,
+415.806	"""Why can't we put the forms"
+415.806	on these PalmPilots?
+418.758	And go out into the field
+418.758	just carrying one PalmPilot,
+421.402	which can hold the capacity
+421.402	of tens of thousands of paper forms?
+425.191	Why don't we try to do that?
+426.642	Because if we can do that,
+427.929	if we can actually just collect
+427.929	the data electronically, digitally,
+431.762	from the very beginning,
+433.443	we can just put a shortcut right
+433.443	through that whole process
+436.743	of typing, of having somebody type
+436.743	that stuff into the computer.
+441.759	We can skip straight to the analysis
+443.623	and then straight to the use
+443.623	"of the data to actually save lives."""
+446.786	So that's what I began to do.
+449.397	Working at CDC, I began to travel
+449.397	to different programs around the world
+453.77	and to train them in using
+453.77	PalmPilots to do data collection,
+457.936	instead of using paper.
+459.338	And it actually worked great.
+461.25	It worked exactly as well
+461.25	as anybody would have predicted.
+464.326	What do you know?
+465.507	Digital data collection is actually
+465.507	more efficient than collecting on paper.
+469.143	While I was doing it, my business partner,
+471.199	Rose, who's here with her husband,
+471.199	Matthew, here in the audience,
+474.302	Rose was out doing similar stuff
+474.302	for the American Red Cross.
+477.199	The problem was,
+477.199	after a few years of doing that,
+479.609	I realized -- I had been to maybe
+479.609	six or seven programs --
+483.53	and I thought, you know,
+483.53	if I keep this up at this pace,
+486.815	over my whole career,
+487.99	maybe I'm going to go
+487.99	to maybe 20 or 30 programs.
+490.693	But the problem is, 20 or 30 programs,
+493.86	like, training 20 or 30 programs
+493.86	to use this technology,
+496.834	that is a tiny drop in the bucket.
+499.024	The demand for this, the need
+499.024	for data to run better programs
+502.988	just within health -- not to mention
+502.988	all of the other fields
+505.87	in developing countries -- is enormous.
+507.89	There are millions and millions
+507.89	and millions of programs,
+511.9	millions of clinics
+511.9	that need to track drugs,
+514.492	millions of vaccine programs.
+515.92	There are schools
+515.92	that need to track attendance.
+518.205	There are all these different things
+518.205	for us to get the data that we need to do.
+522.135	And I realized if I kept up
+522.135	the way that I was doing,
+526.778	I was basically hardly
+526.778	going to make any impact
+530.022	by the end of my career.
+531.756	And so I began to rack my brain,
+533.648	trying to think about, what
+533.648	was the process that I was doing?
+536.616	How was I training folks,
+537.922	and what were the bottlenecks
+537.922	and what were the obstacles
+541.12	to doing it faster
+541.12	and to doing it more efficiently?
+543.839	And, unfortunately, after thinking
+543.839	about this for some time,
+546.699	I identified the main obstacle.
+550.475	And the main obstacle, it turned out --
+552.42	and this is a sad realization --
+554.032	the main obstacle was me.
+556.229	So what do I mean by that?
+558.538	I had developed a process
+560.278	whereby I was the center
+560.278	of the universe of this technology.
+566.304	If you wanted to use this technology,
+566.304	you had to get in touch with me.
+569.651	That means you had to know I existed.
+571.499	Then you had to find the money
+571.499	to pay for me to fly out to your country
+574.936	and the money to pay for my hotel
+574.936	and my per diem and my daily rate.
+578.555	So you could be talking
+578.555	about 10- or 20- or 30,000 dollars,
+581.578	if I actually had the time
+581.578	or it fit my schedule
+583.896	and I wasn't on vacation.
+585.594	The point is that anything,
+587.579	any system that depends
+587.579	on a single human being
+589.966	or two or three or five human beings --
+591.893	it just doesn't scale.
+593.57	And this is a problem for which
+593.57	we need to scale this technology,
+596.793	and we need to scale it now.
+598.387	And so I began to think of ways
+598.387	in which I could basically
+601.165	take myself out of the picture.
+606.071	And, you know, I was thinking,
+607.739	"""How could I take myself"
+607.739	"out of the picture?"""
+609.867	for quite some time.
+611.51	I'd been trained that the way
+611.51	you distribute technology
+615.01	within international development
+616.59	is always consultant-based.
+618.176	It's always guys
+618.176	that look pretty much like me,
+621.201	flying from countries
+621.201	that look pretty much like this
+623.773	to other countries
+623.773	with people with darker skin.
+626.769	And you go out there,
+626.769	and you spend money on airfare
+629.255	and you spend time and you spend per diem
+632.515	and you spend for a hotel
+632.515	and all that stuff.
+634.888	As far as I knew, that was the only way
+634.888	you could distribute technology,
+638.324	and I couldn't figure out a way around it.
+640.383	But the miracle that happened --
+642.851	I'm going to call it Hotmail for short.
+645.168	You may not think of Hotmail
+645.168	as being miraculous,
+647.615	but for me it was miraculous,
+649.076	because I noticed, just as I
+649.076	was wrestling with this problem --
+652.712	I was working in sub-Saharan
+652.712	Africa, mostly, at the time --
+656.242	I noticed that every sub-Saharan
+656.242	African health worker
+658.831	that I was working with
+658.831	had a Hotmail account.
+663.389	"And it struck me, ""Wait a minute --"
+666.341	I know the Hotmail people surely didn't
+666.341	fly to the Ministry of Health in Kenya
+670.603	to train people in how to use Hotmail.
+673.382	So these guys are distributing technology,
+673.382	getting software capacity out there,
+677.654	but they're not actually
+677.654	flying around the world.
+680.006	"I need to think about this more."""
+681.602	While I was thinking about it,
+683.076	people started using even more
+683.076	things like this, just as we were.
+686.259	They started using LinkedIn and Flickr
+686.259	and Gmail and Google Maps --
+689.514	all these things.
+690.695	Of course, all of these things
+690.695	are cloud based
+693.41	and don't require any training.
+695.583	They don't require any programmers.
+697.283	They don't require consultants.
+698.81	Because the business model
+698.81	for all these businesses
+701.319	requires that something be so simple
+701.319	we can use it ourselves,
+704.28	with little or no training.
+705.598	You just have to hear about it
+705.598	and go to the website.
+708.217	And so I thought, what would happen
+708.217	if we built software
+712.437	to do what I'd been consulting in?
+714.525	Instead of training people
+714.525	how to put forms onto mobile devices,
+718.621	let's create software that lets them
+718.621	do it themselves with no training
+721.946	and without me being involved.
+723.406	And that's exactly what we did.
+724.914	So we created software called Magpi,
+724.914	which has an online form creator.
+730.159	No one has to speak to me,
+731.435	you just have to hear about it
+731.435	and go to the website.
+734.26	You can create forms,
+734.26	and once you've created the forms,
+736.942	you push them to a variety
+736.942	of common mobile phones.
+739.427	Obviously, nowadays, we've moved
+739.427	past PalmPilots to mobile phones.
+742.968	And it doesn't have to be a smartphone,
+742.968	it can be a basic phone,
+746.221	like the phone on the right,
+746.221	the basic Symbian phone
+748.735	that's very common
+748.735	in developing countries.
+750.821	And the great part about this
+750.821	is it's just like Hotmail.
+754.534	It's cloud based,
+755.709	and it doesn't require any training,
+755.709	programming, consultants.
+758.986	But there are some
+758.986	additional benefits as well.
+761.213	Now we knew when we built this system,
+763.11	the whole point of it,
+763.11	just like with the PalmPilots,
+765.689	was that you'd be able to collect the data
+768.512	and immediately upload
+768.512	the data and get your data set.
+771.134	But what we found, of course,
+771.134	since it's already on a computer,
+774.143	we can deliver instant maps
+774.143	and analysis and graphing.
+776.778	We can take a process that took two years
+778.873	and compress that
+778.873	down to the space of five minutes.
+782.222	Unbelievable improvements in efficiency.
+784.74	Cloud based, no training,
+784.74	no consultants, no me.
+789.52	And I told you that in the first few years
+791.815	of trying to do this
+791.815	the old-fashioned way,
+793.908	going out to each country,
+795.211	we probably trained about 1,000 people.
+799.871	What happened after we did this?
+801.577	In the second three years,
+803.062	we had 14,000 people find the website,
+805.236	sign up and start using it
+805.236	to collect data:
+807.373	data for disaster response,
+809.307	Canadian pig farmers
+809.307	tracking pig disease and pig herds,
+813.765	people tracking drug supplies.
+816.241	One of my favorite examples, the IRC,
+816.241	International Rescue Committee,
+819.609	they have a program
+819.609	where semi-literate midwives,
+822.846	using $10 mobile phones,
+825.273	send a text message
+825.273	using our software, once a week,
+828.598	with the number of births
+828.598	and the number of deaths,
+831.098	which gives IRC something that no one
+831.098	in global health has ever had:
+834.694	a near-real-time system
+834.694	of counting babies,
+838.24	of knowing how many kids are born,
+839.898	of knowing how many children
+839.898	there are in Sierra Leone,
+842.564	which is the country
+842.564	where this is happening,
+844.811	and knowing how many children die.
+847.394	Physicians for Human Rights --
+848.991	this is moving a little bit
+848.991	outside the health field --
+851.607	they're basically training people
+851.607	to do rape exams in Congo,
+856.414	where this is an epidemic,
+857.887	a horrible epidemic,
+859.704	and they're using our software
+859.704	to document the evidence they find,
+862.904	including photographically,
+864.902	so that they can bring
+864.902	the perpetrators to justice.
+868.956	Camfed, another charity
+868.956	based out of the UK --
+872.573	Camfed pays girls' families
+872.573	to keep them in school.
+876.165	They understand this is the most
+876.165	significant intervention they can make.
+879.664	They used to track the disbursements,
+879.664	the attendance, the grades, on paper.
+883.528	The turnaround time between a teacher
+883.528	writing down grades or attendance
+886.899	and getting that into a report
+886.899	was about two to three years.
+889.758	Now it's real time.
+890.933	And because this is such a low-cost
+890.933	system and based in the cloud,
+894.14	it costs, for the entire five countries
+894.14	that Camfed runs this in,
+898.153	with tens of thousands of girls,
+900.042	the whole cost combined
+900.042	is 10,000 dollars a year.
+903.154	That's less than I used to get
+905.139	just traveling out for two weeks
+905.139	to do a consultation.
+910.139	So I told you before that when
+910.139	we were doing it the old-fashioned way,
+913.632	I realized all of our work was really
+913.632	adding up to just a drop in the bucket --
+920.036	We've made a lot of progress,
+921.473	but I recognize that right now,
+923.053	even the work that we've done
+923.053	with 14,000 people using this
+926.441	is still a drop in the bucket.
+927.928	But something's changed,
+927.928	and I think it should be obvious.
+930.682	What's changed now is,
+932.861	instead of having a program
+932.861	in which we're scaling at such a slow rate
+936.187	that we can never reach
+936.187	all the people who need us,
+939.522	we've made it unnecessary
+939.522	for people to get reached by us.
+943.128	We've created a tool
+943.128	that lets programs keep kids in school,
+948.155	track the number of babies that are born
+948.155	and the number of babies that die,
+952.118	catch criminals and successfully
+952.118	prosecute them --
+955.919	to do all these different things
+955.919	to learn more about what's going on,
+960.365	to understand more,
+961.69	to see more ...
+963.911	and to save lives and improve lives.
+967.92	Thank you.
+969.096	(Applause)

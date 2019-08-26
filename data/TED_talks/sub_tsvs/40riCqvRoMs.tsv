@@ -1,0 +1,432 @@
+startsecond	text
+14.366	Let me show you something.
+18.104	(Video) Girl: Okay, that's a cat
+18.104	sitting in a bed.
+22.26	The boy is petting the elephant.
+26.3	Those are people
+26.3	that are going on an airplane.
+30.654	That's a big airplane.
+33.464	Fei-Fei Li: This is
+33.464	a three-year-old child
+35.67	describing what she sees
+35.67	in a series of photos.
+39.349	She might still have a lot
+39.349	to learn about this world,
+42.194	but she's already an expert
+42.194	at one very important task:
+46.743	to make sense of what she sees.
+50.229	Our society is more
+50.229	technologically advanced than ever.
+54.455	We send people to the moon,
+54.455	we make phones that talk to us
+58.084	or customize radio stations
+58.084	that can play only music we like.
+63.03	Yet, our most advanced
+63.03	machines and computers
+67.085	still struggle at this task.
+69.988	So I'm here today
+69.988	to give you a progress report
+73.447	on the latest advances
+73.447	in our research in computer vision,
+77.494	one of the most frontier
+77.494	and potentially revolutionary
+81.655	technologies in computer science.
+84.861	Yes, we have prototyped cars
+84.861	that can drive by themselves,
+89.412	but without smart vision,
+89.412	they cannot really tell the difference
+93.265	between a crumpled paper bag
+93.265	on the road, which can be run over,
+97.235	and a rock that size,
+97.235	which should be avoided.
+101.415	We have made fabulous megapixel cameras,
+104.805	but we have not delivered
+104.805	sight to the blind.
+108.42	Drones can fly over massive land,
+111.725	but don't have enough vision technology
+113.859	to help us to track
+113.859	the changes of the rainforests.
+117.32	Security cameras are everywhere,
+120.27	but they do not alert us when a child
+120.27	is drowning in a swimming pool.
+126.167	Photos and videos are becoming
+126.167	an integral part of global life.
+131.762	They're being generated at a pace
+131.762	that's far beyond what any human,
+135.849	or teams of humans, could hope to view,
+138.632	and you and I are contributing
+138.632	to that at this TED.
+142.553	Yet our most advanced software
+142.553	is still struggling at understanding
+147.785	and managing this enormous content.
+151.661	So in other words,
+151.661	collectively as a society,
+156.933	we're very much blind,
+158.679	because our smartest 
+158.679	machines are still blind.
+163.526	"""Why is this so hard?"" you may ask."
+166.452	Cameras can take pictures like this one
+169.145	by converting lights into
+169.145	a two-dimensional array of numbers
+173.139	known as pixels,
+174.789	but these are just lifeless numbers.
+177.04	They do not carry meaning in themselves.
+180.151	Just like to hear is not
+180.151	the same as to listen,
+184.494	to take pictures is not
+184.494	the same as to see,
+188.534	and by seeing,
+188.534	we really mean understanding.
+193.293	In fact, it took Mother Nature
+199.47	to do this task,
+201.443	and much of that effort
+203.324	went into developing the visual
+203.324	processing apparatus of our brains,
+208.595	not the eyes themselves.
+211.242	So vision begins with the eyes,
+213.989	but it truly takes place in the brain.
+218.287	So for 15 years now, starting
+218.287	from my Ph.D. at Caltech
+223.347	and then leading Stanford's Vision Lab,
+226.273	I've been working with my mentors,
+226.273	collaborators and students
+230.669	to teach computers to see.
+234.658	Our research field is called
+234.658	computer vision and machine learning.
+237.952	It's part of the general field
+237.952	of artificial intelligence.
+243	So ultimately, we want to teach
+243	the machines to see just like we do:
+248.493	naming objects, identifying people,
+248.493	inferring 3D geometry of things,
+253.88	understanding relations, emotions,
+253.88	actions and intentions.
+259.568	You and I weave together entire stories
+259.568	of people, places and things
+265.721	the moment we lay our gaze on them.
+268.955	The first step towards this goal
+268.955	is to teach a computer to see objects,
+274.538	the building block of the visual world.
+277.906	In its simplest terms,
+277.906	imagine this teaching process
+282.34	as showing the computers
+282.34	some training images
+285.335	of a particular object, let's say cats,
+288.656	and designing a model that learns
+288.656	from these training images.
+293.393	How hard can this be?
+295.437	After all, a cat is just
+295.437	a collection of shapes and colors,
+299.489	and this is what we did
+299.489	in the early days of object modeling.
+303.575	We'd tell the computer algorithm
+303.575	in a mathematical language
+307.197	that a cat has a round face,
+307.197	a chubby body,
+310.54	two pointy ears, and a long tail,
+312.839	and that looked all fine.
+314.859	But what about this cat?
+316.972	(Laughter)
+318.063	It's all curled up.
+319.689	Now you have to add another shape
+319.689	and viewpoint to the object model.
+324.408	But what if cats are hidden?
+327.143	What about these silly cats?
+331.112	Now you get my point.
+333.529	Even something as simple
+333.529	as a household pet
+336.896	can present an infinite number
+336.896	of variations to the object model,
+341.4	and that's just one object.
+344.573	So about eight years ago,
+347.065	a very simple and profound observation
+347.065	changed my thinking.
+353.425	No one tells a child how to see,
+356.11	especially in the early years.
+358.371	They learn this through
+358.371	real-world experiences and examples.
+363.371	If you consider a child's eyes
+366.111	as a pair of biological cameras,
+368.665	they take one picture
+368.665	about every 200 milliseconds,
+372.845	the average time an eye movement is made.
+375.979	So by age three, a child would have seen
+375.979	hundreds of millions of pictures
+381.529	of the real world.
+383.363	That's a lot of training examples.
+386.383	So instead of focusing solely
+386.383	on better and better algorithms,
+392.372	my insight was to give the algorithms
+392.372	the kind of training data
+397.644	that a child was given through experiences
+400.963	in both quantity and quality.
+404.841	Once we know this,
+406.699	we knew we needed to collect a data set
+409.67	that has far more images
+409.67	than we have ever had before,
+414.129	perhaps thousands of times more,
+416.706	and together with Professor
+416.706	Kai Li at Princeton University,
+420.817	we launched the ImageNet project in 2007.
+425.569	Luckily, we didn't have to mount
+425.569	a camera on our head
+429.407	and wait for many years.
+431.171	We went to the Internet,
+432.634	the biggest treasure trove of pictures
+432.634	that humans have ever created.
+437.07	We downloaded nearly a billion images
+440.111	and used crowdsourcing technology
+440.111	like the Amazon Mechanical Turk platform
+445.991	to help us to label these images.
+448.33	At its peak, ImageNet was one of
+448.33	the biggest employers
+453.23	of the Amazon Mechanical Turk workers:
+456.226	together, almost 50,000 workers
+460.08	from 167 countries around the world
+464.12	helped us to clean, sort and label
+468.067	nearly a billion candidate images.
+472.612	That was how much effort it took
+475.265	to capture even a fraction
+475.265	of the imagery
+479.165	a child's mind takes in
+479.165	in the early developmental years.
+484.148	In hindsight, this idea of using big data
+488.05	to train computer algorithms
+488.05	may seem obvious now,
+492.6	but back in 2007, it was not so obvious.
+496.71	We were fairly alone on this journey
+496.71	for quite a while.
+500.588	Some very friendly colleagues advised me
+500.588	to do something more useful for my tenure,
+505.591	and we were constantly struggling
+505.591	for research funding.
+509.933	Once, I even joked to my graduate students
+512.418	that I would just reopen
+512.418	my dry cleaner's shop to fund ImageNet.
+516.481	After all, that's how I funded
+516.481	my college years.
+521.242	So we carried on.
+523.098	In 2009, the ImageNet project delivered
+526.813	a database of 15 million images
+530.855	across 22,000 classes
+530.855	of objects and things
+535.66	organized by everyday English words.
+538.98	In both quantity and quality,
+541.906	this was an unprecedented scale.
+544.878	As an example, in the case of cats,
+548.339	we have more than 62,000 cats
+551.148	of all kinds of looks and poses
+555.258	and across all species
+555.258	of domestic and wild cats.
+560.481	We were thrilled
+560.481	to have put together ImageNet,
+563.825	and we wanted the whole research world
+563.825	to benefit from it,
+567.563	so in the TED fashion,
+567.563	we opened up the entire data set
+571.604	to the worldwide
+571.604	research community for free.
+576.636	(Applause)
+581.416	Now that we have the data
+581.416	to nourish our computer brain,
+585.954	we're ready to come back
+585.954	to the algorithms themselves.
+589.691	As it turned out, the wealth
+589.691	of information provided by ImageNet
+594.869	was a perfect match to a particular class
+594.869	of machine learning algorithms
+599.675	called convolutional neural network,
+602.09	pioneered by Kunihiko Fukushima,
+602.09	Geoff Hinton, and Yann LeCun
+607.338	back in the 1970s and '80s.
+610.983	Just like the brain consists
+610.983	of billions of highly connected neurons,
+616.602	a basic operating unit in a neural network
+620.456	is a neuron-like node.
+622.871	It takes input from other nodes
+625.425	and sends output to others.
+628.143	Moreover, these hundreds of thousands
+628.143	or even millions of nodes
+632.856	are organized in hierarchical layers,
+636.083	also similar to the brain.
+638.637	In a typical neural network we use
+638.637	to train our object recognition model,
+643.42	it has 24 million nodes,
+649.898	and 15 billion connections.
+652.661	That's an enormous model.
+655.076	Powered by the massive data from ImageNet
+658.977	and the modern CPUs and GPUs
+658.977	to train such a humongous model,
+664.41	the convolutional neural network
+666.779	blossomed in a way that no one expected.
+670.215	It became the winning architecture
+672.723	to generate exciting new results
+672.723	in object recognition.
+678.063	This is a computer telling us
+680.873	this picture contains a cat
+683.173	and where the cat is.
+685.076	Of course there are more things than cats,
+687.188	so here's a computer algorithm telling us
+689.626	the picture contains
+689.626	a boy and a teddy bear;
+692.9	a dog, a person, and a small kite
+692.9	in the background;
+697.266	or a picture of very busy things
+700.401	like a man, a skateboard,
+700.401	railings, a lampost, and so on.
+705.045	Sometimes, when the computer
+705.045	is not so confident about what it sees,
+711.498	we have taught it to be smart enough
+713.774	to give us a safe answer
+713.774	instead of committing too much,
+717.652	just like we would do,
+720.463	but other times our computer algorithm
+720.463	is remarkable at telling us
+725.129	what exactly the objects are,
+727.382	like the make, model, year of the cars.
+730.818	We applied this algorithm to millions
+730.818	of Google Street View images
+736.204	across hundreds of American cities,
+739.339	and we have learned something
+739.339	really interesting:
+742.265	first, it confirmed our common wisdom
+745.585	that car prices correlate very well
+748.875	with household incomes.
+751.22	But surprisingly, car prices
+751.22	also correlate well
+755.747	with crime rates in cities,
+759.007	or voting patterns by zip codes.
+764.06	So wait a minute. Is that it?
+766.266	Has the computer already matched
+766.266	or even surpassed human capabilities?
+771.419	Not so fast.
+773.557	So far, we have just taught
+773.557	the computer to see objects.
+778.48	This is like a small child
+778.48	learning to utter a few nouns.
+783.124	It's an incredible accomplishment,
+785.794	but it's only the first step.
+788.254	Soon, another developmental
+788.254	milestone will be hit,
+792.016	and children begin
+792.016	to communicate in sentences.
+795.477	So instead of saying
+795.477	this is a cat in the picture,
+799.701	you already heard the little girl
+799.701	telling us this is a cat lying on a bed.
+804.903	So to teach a computer
+804.903	to see a picture and generate sentences,
+810.498	the marriage between big data
+810.498	and machine learning algorithm
+814.446	has to take another step.
+816.721	Now, the computer has to learn
+816.721	from both pictures
+820.877	as well as natural language sentences
+823.733	generated by humans.
+827.055	Just like the brain integrates
+827.055	vision and language,
+830.908	we developed a model
+830.908	that connects parts of visual things
+836.109	like visual snippets
+838.013	with words and phrases in sentences.
+842.216	About four months ago,
+844.979	we finally tied all this together
+847.626	and produced one of the first
+847.626	computer vision models
+851.41	that is capable of generating
+851.41	a human-like sentence
+855.404	when it sees a picture for the first time.
+858.91	Now, I'm ready to show you
+858.91	what the computer says
+863.554	when it sees the picture
+865.529	that the little girl saw
+865.529	at the beginning of this talk.
+871.519	(Video) Computer: A man is standing
+871.519	next to an elephant.
+876.393	A large airplane sitting on top
+876.393	of an airport runway.
+881.057	FFL: Of course, we're still working hard
+881.057	to improve our algorithms,
+885.269	and it still has a lot to learn.
+887.865	(Applause)
+891.556	And the computer still makes mistakes.
+894.877	(Video) Computer: A cat lying
+894.877	on a bed in a blanket.
+898.268	FFL: So of course, when it sees
+898.268	too many cats,
+900.821	it thinks everything
+900.821	might look like a cat.
+905.317	(Video) Computer: A young boy
+905.317	is holding a baseball bat.
+908.181	(Laughter)
+909.946	FFL: Or, if it hasn't seen a toothbrush,
+909.946	it confuses it with a baseball bat.
+915.309	(Video) Computer: A man riding a horse
+915.309	down a street next to a building.
+918.743	(Laughter)
+920.766	FFL: We haven't taught Art 101
+920.766	to the computers.
+925.768	(Video) Computer: A zebra standing
+925.768	in a field of grass.
+928.652	FFL: And it hasn't learned to appreciate
+928.652	the stunning beauty of nature
+932.019	like you and I do.
+934.457	So it has been a long journey.
+937.289	To get from age zero to three was hard.
+941.515	The real challenge is to go
+941.515	from three to 13 and far beyond.
+947.111	Let me remind you with this picture
+947.111	of the boy and the cake again.
+951.476	So far, we have taught
+951.476	the computer to see objects
+955.54	or even tell us a simple story
+955.54	when seeing a picture.
+959.998	(Video) Computer: A person sitting
+959.998	at a table with a cake.
+963.574	FFL: But there's so much more 
+963.574	to this picture
+966.204	than just a person and a cake.
+968.474	What the computer doesn't see
+968.474	is that this is a special Italian cake
+972.941	that's only served during Easter time.
+976.158	The boy is wearing his favorite t-shirt
+979.363	given to him as a gift by his father
+979.363	after a trip to Sydney,
+983.333	and you and I can all tell how happy he is
+987.141	and what's exactly on his mind
+987.141	at that moment.
+991.214	This is my son Leo.
+994.339	On my quest for visual intelligence,
+996.963	I think of Leo constantly
+999.354	and the future world he will live in.
+1002.257	When machines can see,
+1004.278	doctors and nurses will have
+1004.278	extra pairs of tireless eyes
+1008.99	to help them to diagnose
+1008.99	and take care of patients.
+1013.082	Cars will run smarter
+1013.082	and safer on the road.
+1017.465	Robots, not just humans,
+1020.159	will help us to brave the disaster zones
+1020.159	to save the trapped and wounded.
+1025.798	We will discover new species, 
+1025.798	better materials,
+1029.594	and explore unseen frontiers
+1029.594	with the help of the machines.
+1035.113	Little by little, we're giving sight
+1035.113	to the machines.
+1039.28	First, we teach them to see.
+1042.078	Then, they help us to see better.
+1044.841	For the first time, human eyes
+1044.841	won't be the only ones
+1049.006	pondering and exploring our world.
+1051.94	We will not only use the machines
+1051.94	for their intelligence,
+1055.4	we will also collaborate with them
+1055.4	in ways that we cannot even imagine.
+1061.579	This is my quest:
+1063.74	to give computers visual intelligence
+1066.452	and to create a better future
+1066.452	for Leo and for the world.
+1071.583	Thank you.
+1073.394	(Applause)

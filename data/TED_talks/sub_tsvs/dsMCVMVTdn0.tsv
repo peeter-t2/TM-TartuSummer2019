@@ -1,0 +1,217 @@
+startsecond	text
+0	Translator: Morton Bast
+0	Reviewer: Thu-Huong Ha
+15.73	As an architect, I often ask myself,
+18.179	what is the origin of the forms that we design?
+21.019	What kind of forms could we design
+23.924	if we wouldn't work with references anymore?
+26.747	If we had no bias, if we had no preconceptions,
+30.132	what kind of forms could we design
+32.339	if we could free ourselves from
+33.939	our experience?
+36.075	If we could free ourselves from our education?
+40.809	What would these unseen forms look like?
+43.836	Would they surprise us? Would they intrigue us?
+47.547	Would they delight us?
+49.962	If so, then how can we go about creating something that is truly new?
+53.883	I propose we look to nature.
+56.275	Nature has been called the greatest architect of forms.
+60.539	And I'm not saying that we should copy nature,
+64.127	I'm not saying we should mimic biology,
+66.507	instead I propose that we can borrow nature's processes.
+69.955	We can abstract them and to create something that is new.
+74.409	Nature's main process of creation, morphogenesis,
+78.287	is the splitting of one cell into two cells.
+82.116	And these cells can either be identical,
+84.173	or they can be distinct from each other
+86.348	through asymmetric cell division.
+88.412	If we abstract this process, and simplify it as much as possible,
+92.211	then we could start with a single sheet of paper,
+94.444	one surface, and we could make a fold
+96.94	and divide the surface into two surfaces.
+99.876	We're free to choose where we make the fold.
+102.139	And by doing so, we can differentiate the surfaces.
+107.049	Through this very simple process,
+108.943	we can create an astounding variety of forms.
+112.555	Now, we can take this form and use the same process
+115.28	to generate three-dimensional structures,
+117.272	but rather than folding things by hand,
+119.68	we'll bring the structure into the computer,
+122.265	and code it as an algorithm.
+125.24	And in doing so, we can suddenly fold anything.
+128.248	We can fold a million times faster,
+130.407	we can fold in hundreds and hundreds of variations.
+133.568	And as we're seeking to make something three-dimensional,
+136.048	we start not with a single surface, but with a volume.
+139.264	A simple volume, the cube.
+140.617	If we take its surfaces and fold them
+142.337	again and again and again and again,
+144.393	then after 16 iterations, 16 steps,
+147.256	we end up with 400,000 surfaces and a shape that looks,
+151.105	for instance, like this.
+153.64	And if we change where we make the folds,
+156.352	if we change the folding ratio,
+157.993	then this cube turns into this one.
+161.416	We can change the folding ratio again to produce this shape,
+165.555	or this shape.
+167.382	So we exert control over the form
+169.005	by specifying the position of where we're making the fold,
+172.509	but essentially you're looking at a folded cube.
+177.215	And we can play with this.
+178.279	We can apply different folding ratios to different parts
+180.895	of the form to create local conditions.
+183.64	We can begin to sculpt the form.
+185.583	And because we're doing the folding on the computer,
+188.471	we are completely free of any physical constraints.
+192.167	So that means that surfaces can intersect themselves,
+195.118	they can become impossibly small.
+196.607	We can make folds that we otherwise could not make.
+200.208	Surfaces can become porous.
+202.086	They can stretch. They can tear.
+204.815	And all of this expounds the scope of forms that we can produce.
+209.45	But in each case, I didn't design the form.
+212.2	I designed the process that generated the form.
+216.801	In general, if we make a small change to the folding ratio,
+221.289	which is what you're seeing here,
+222.884	then the form changes correspondingly.
+226.657	But that's only half of the story --
+233.236	but this, the geometric equivalent of noise.
+238.132	The forms that I showed before were made actually
+240.252	through very long trial and error.
+241.9	A far more effective way to create forms, I have found,
+245.116	is to use information that is already contained in forms.
+249.004	A very simple form such as this one actually contains
+251.659	a lot of information that may not be visible to the human eye.
+255.251	So, for instance, we can plot the length of the edges.
+257.732	White surfaces have long edges, black ones have short ones.
+261.068	We can plot the planarity of the surfaces, their curvature,
+264.645	how radial they are -- all information that may not be
+268.732	instantly visible to you,
+270.679	but that we can bring out, that we can articulate,
+273.104	and that we can use to control the folding.
+276.48	So now I'm not specifying a single
+278.439	ratio anymore to fold it,
+280.615	but instead I'm establishing a rule,
+283.167	I'm establishing a link between a property of a surface
+285.603	and how that surface is folded.
+288.576	And because I've designed the process and not the form,
+291.527	I can run the process again and again and again
+293.849	to produce a whole family of forms.
+308.645	These forms look elaborate, but the process is a very minimal one.
+313.088	There is a simple input,
+314.217	it's always a cube that I start with,
+316.169	and it's a very simple operation -- it's making a fold,
+319.745	and doing this over and over again.
+323.697	So let's bring this process to architecture.
+325.977	How? And at what scale?
+327.577	I chose to design a column.
+329.305	Columns are architectural archetypes.
+332.681	They've been used throughout history to express ideals
+335.748	about beauty, about technology.
+340.823	A challenge to me was how we could express
+342.745	this new algorithmic order in a column.
+346.041	I started using four cylinders.
+349.025	Through a lot of experimentation, these cylinders
+352.801	eventually evolved into this.
+355.936	And these columns, they have information at very many scales.
+360.552	We can begin to zoom into them.
+363.07	The closer one gets, the more new features one discovers.
+366.625	Some formations are almost at the threshold of human visibility.
+370.297	And unlike traditional architecture,
+372.249	it's a single process that creates both the overall form
+375.033	and the microscopic surface detail.
+380.378	These forms are undrawable.
+383.069	An architect who's drawing them with a pen and a paper
+386.445	would probably take months,
+388.237	or it would take even a year to draw all the sections,
+390.621	all of the elevations, you can only create something like this
+392.925	through an algorithm.
+395.061	The more interesting question, perhaps, is,
+397.093	are these forms imaginable?
+399.722	Usually, an architect can somehow envision the end state
+402.357	of what he is designing.
+404.221	In this case, the process is deterministic.
+407.046	There's no randomness involved at all,
+409.405	but it's not entirely predictable.
+411.412	There's too many surfaces,
+412.988	there's too much detail, one can't see the end state.
+416.598	So this leads to a new role for the architect.
+419.812	One needs a new method to explore all of the possibilities
+423.423	that are out there.
+425.199	For one thing, one can design many variants of a form,
+428.431	in parallel, and one can cultivate them.
+430.645	And to go back to the analogy with nature,
+432.893	one can begin to think in terms of populations,
+435.389	one can talk about permutations, about generations,
+438.917	about crossing and breeding to come up with a design.
+443.78	And the architect is really, he moves into the position
+446.165	of being an orchestrator of all of these processes.
+449.597	But enough of the theory.
+451.941	At one point I simply wanted to jump inside
+454.468	this image, so to say, I bought these red and blue
+458.297	3D glasses, got up very close to the screen,
+461.233	but still that wasn't the same as being able to
+463.305	walk around and touch things.
+465.657	So there was only one possibility --
+467.56	to bring the column out of the computer.
+470.657	There's been a lot of talk now about 3D printing.
+473.577	For me, or for my purpose at this moment,
+476.536	there's still too much of an unfavorable tradeoff
+479.618	between scale, on the one hand, and resolution and speed, on the other.
+486.401	So instead, we decided to take the column,
+488.658	and we decided to build it as a layered model,
+491.097	made out of very many slices, thinly stacked over each other.
+495.225	What you're looking at here is an X-ray
+497.122	of the column that you just saw, viewed from the top.
+499.897	Unbeknownst to me at the time,
+501.897	because we had only seen the outside,
+504.273	the surfaces were continuing to fold themselves,
+506.433	to grow on the inside of the column,
+508.697	which was quite a surprising discovery.
+511.243	From this shape, we calculated a cutting line,
+514.857	and then we gave this cutting line to a laser cutter
+517.881	to produce -- and you're seeing a segment of it here --
+521.695	very many thin slices, individually cut, on top of each other.
+528.74	And this is a photo now, it's not a rendering,
+531.553	and the column that we ended up with
+533.353	after a lot of work, ended up looking remarkably like the one
+536.4	that we had designed in the computer.
+540.11	Almost all of the details, almost all of the
+542.231	surface intricacies were preserved.
+547.886	But it was very labor intensive.
+550.232	There's a huge disconnect at the moment still
+552.633	between the virtual and the physical.
+555.393	It took me several months to design the column,
+557.519	but ultimately it takes the computer about 30 seconds
+560.237	to calculate all of the 16 million faces.
+563.085	The physical model, on the other hand,
+565.046	is 2,700 layers, one millimeter thick,
+569.254	it weighs 700 kilos, it's made of sheet that can cover
+573.401	this entire auditorium.
+575.539	And the cutting path that the laser followed
+577.627	goes from here to the airport and back again.
+582.744	But it is increasingly possible.
+584.493	Machines are getting faster, it's getting less expensive,
+587.104	and there's some promising technological developments
+589.864	just on the horizon.
+591.647	These are images from the Gwangju Biennale.
+594.719	And in this case, I used ABS plastic to produce the columns,
+598.243	we used the bigger, faster machine,
+600.097	and they have a steel core inside, so they're structural,
+603.154	they can bear loads for once.
+606.13	Each column is effectively a hybrid of two columns.
+608.145	You can see a different column in the mirror,
+611.554	if there's a mirror behind the column
+613.604	that creates a sort of an optical illusion.
+616.691	So where does this leave us?
+618.522	I think this project gives us a glimpse of the unseen objects that await us
+622.99	if we as architects begin to think about designing not the object,
+626.873	but a process to generate objects.
+630.266	I've shown one simple process that was inspired by nature;
+633.539	there's countless other ones.
+636.387	In short, we have no constraints.
+639.834	Instead, we have processes in our hands right now
+643.404	that allow us to create structures at all scales
+647.985	that we couldn't even have dreamt up.
+651.017	And, if I may add, at one point we will build them.
+655.836	Thank you. (Applause)

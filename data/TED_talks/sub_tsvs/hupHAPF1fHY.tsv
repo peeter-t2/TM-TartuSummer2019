@@ -1,0 +1,462 @@
+startsecond	text
+15.26	Think about your day for a second.
+17.26	You woke up, felt fresh air on your face as you walked out the door,
+20.26	encountered new colleagues and had great discussions,
+22.26	and felt in awe when you found something new.
+24.26	But I bet there's something you didn't think about today --
+26.26	something so close to home
+28.26	that you probably don't think about it very often at all.
+30.26	And that's that all the sensations, feelings,
+32.26	decisions and actions
+34.26	are mediated by the computer in your head
+36.26	called the brain.
+38.26	Now the brain may not look like much from the outside --
+40.26	a couple pounds of pinkish-gray flesh,
+42.26	amorphous --
+44.26	but the last hundred years of neuroscience
+46.26	have allowed us to zoom in on the brain,
+48.26	and to see the intricacy of what lies within.
+50.26	And they've told us that this brain
+52.26	is an incredibly complicated circuit
+54.26	made out of hundreds of billions of cells called neurons.
+58.26	Now unlike a human-designed computer,
+61.26	where there's a fairly small number of different parts --
+63.26	we know how they work, because we humans designed them --
+66.26	the brain is made out of thousands of different kinds of cells,
+69.26	maybe tens of thousands.
+71.26	They come in different shapes; they're made out of different molecules.
+73.26	And they project and connect to different brain regions,
+76.26	and they also change different ways in different disease states.
+79.26	Let's make it concrete.
+81.26	There's a class of cells,
+83.26	a fairly small cell, an inhibitory cell, that quiets its neighbors.
+86.26	It's one of the cells that seems to be atrophied in disorders like schizophrenia.
+90.26	It's called the basket cell.
+92.26	And this cell is one of the thousands of kinds of cell
+94.26	that we are learning about.
+96.26	New ones are being discovered everyday.
+98.26	As just a second example:
+100.26	these pyramidal cells, large cells,
+102.26	they can span a significant fraction of the brain.
+104.26	They're excitatory.
+106.26	And these are some of the cells
+108.26	that might be overactive in disorders such as epilepsy.
+111.26	Every one of these cells
+113.26	is an incredible electrical device.
+116.26	They receive input from thousands of upstream partners
+118.26	and compute their own electrical outputs,
+121.26	which then, if they pass a certain threshold,
+123.26	will go to thousands of downstream partners.
+125.26	And this process, which takes just a millisecond or so,
+128.26	happens thousands of times a minute
+130.26	in every one of your 100 billion cells,
+132.26	as long as you live
+134.26	and think and feel.
+137.26	So how are we going to figure out what this circuit does?
+140.26	Ideally, we could go through the circuit
+142.26	and turn these different kinds of cell on and off
+145.26	and see whether we could figure out
+147.26	which ones contribute to certain functions
+149.26	and which ones go wrong in certain pathologies.
+151.26	If we could activate cells, we could see what powers they can unleash,
+154.26	what they can initiate and sustain.
+156.26	If we could turn them off,
+158.26	then we could try and figure out what they're necessary for.
+160.26	And that's a story I'm going to tell you about today.
+163.26	And honestly, where we've gone through over the last 11 years,
+166.26	through an attempt to find ways
+168.26	of turning circuits and cells and parts and pathways of the brain
+170.26	on and off,
+172.26	both to understand the science
+174.26	and also to confront some of the issues
+177.26	that face us all as humans.
+180.26	Now before I tell you about the technology,
+183.26	the bad news is that a significant fraction of us in this room,
+186.26	if we live long enough,
+188.26	will encounter, perhaps, a brain disorder.
+190.26	Already, a billion people
+192.26	have had some kind of brain disorder
+194.26	that incapacitates them,
+196.26	and the numbers don't do it justice though.
+198.26	These disorders -- schizophrenia, Alzheimer's,
+200.26	depression, addiction --
+202.26	they not only steal our time to live, they change who we are.
+205.26	They take our identity and change our emotions
+207.26	and change who we are as people.
+210.26	Now in the 20th century,
+213.26	there was some hope that was generated
+216.26	through the development of pharmaceuticals for treating brain disorders,
+219.26	and while many drugs have been developed
+222.26	that can alleviate symptoms of brain disorders,
+224.26	practically none of them can be considered to be cured.
+227.26	And part of that's because we're bathing the brain in the chemical.
+230.26	This elaborate circuit
+232.26	made out of thousands of different kinds of cell
+234.26	is being bathed in a substance.
+236.26	That's also why, perhaps, most of the drugs, and not all, on the market
+238.26	can present some kind of serious side effect too.
+241.26	Now some people have gotten some solace
+244.26	from electrical stimulators that are implanted in the brain.
+247.26	And for Parkinson's disease,
+249.26	Cochlear implants,
+251.26	these have indeed been able
+253.26	to bring some kind of remedy
+255.26	to people with certain kinds of disorder.
+257.26	But electricity also will go in all directions --
+259.26	the path of least resistance,
+261.26	which is where that phrase, in part, comes from.
+263.26	And it also will affect normal circuits as well as the abnormal ones that you want to fix.
+266.26	So again, we're sent back to the idea
+268.26	of ultra-precise control.
+270.26	Could we dial-in information precisely where we want it to go?
+274.26	So when I started in neuroscience 11 years ago,
+278.26	I had trained as an electrical engineer and a physicist,
+281.26	and the first thing I thought about was,
+283.26	if these neurons are electrical devices,
+285.26	all we need to do is to find some way
+287.26	of driving those electrical changes at a distance.
+289.26	If we could turn on the electricity in one cell,
+291.26	but not its neighbors,
+293.26	that would give us the tool we need to activate and shut down these different cells,
+296.26	figure out what they do and how they contribute
+298.26	to the networks in which they're embedded.
+300.26	And also it would allow us to have the ultra-precise control we need
+302.26	in order to fix the circuit computations
+305.26	that have gone awry.
+307.26	Now how are we going to do that?
+309.26	Well there are many molecules that exist in nature,
+311.26	which are able to convert light into electricity.
+314.26	You can think of them as little proteins
+316.26	that are like solar cells.
+318.26	If we can install these molecules in neurons somehow,
+321.26	then these neurons would become electrically drivable with light.
+324.26	And their neighbors, which don't have the molecule, would not.
+327.26	There's one other magic trick you need to make this all happen,
+329.26	and that's the ability to get light into the brain.
+332.26	And to do that -- the brain doesn't feel pain -- you can put --
+335.26	taking advantage of all the effort
+337.26	that's gone into the Internet and communications and so on --
+339.26	optical fibers connected to lasers
+341.26	that you can use to activate, in animal models for example,
+343.26	in pre-clinical studies,
+345.26	these neurons and to see what they do.
+347.26	So how do we do this?
+349.26	Around 2004,
+351.26	in collaboration with Gerhard Nagel and Karl Deisseroth,
+353.26	this vision came to fruition.
+355.26	There's a certain alga that swims in the wild,
+358.26	and it needs to navigate towards light
+360.26	in order to photosynthesize optimally.
+362.26	And it senses light with a little eye-spot,
+364.26	which works not unlike how our eye works.
+367.26	In its membrane, or its boundary,
+369.26	it contains little proteins
+372.26	that indeed can convert light into electricity.
+375.26	So these molecules are called channelrhodopsins.
+378.26	And each of these proteins acts just like that solar cell that I told you about.
+381.26	When blue light hits it, it opens up a little hole
+384.26	and allows charged particles to enter the eye-spot,
+386.26	and that allows this eye-spot to have an electrical signal
+388.26	just like a solar cell charging up a battery.
+391.26	So what we need to do is to take these molecules
+393.26	and somehow install them in neurons.
+395.26	And because it's a protein,
+397.26	it's encoded for in the DNA of this organism.
+400.26	So all we've got to do is take that DNA,
+402.26	put it into a gene therapy vector, like a virus,
+405.26	and put it into neurons.
+408.26	So it turned out that this was a very productive time in gene therapy,
+411.26	and lots of viruses were coming along.
+413.26	So this turned out to be very simple to do.
+415.26	And early in the morning one day in the summer of 2004,
+418.26	we gave it a try, and it worked on the first try.
+420.26	You take this DNA and you put it into a neuron.
+423.26	The neuron uses its natural protein-making machinery
+426.26	to fabricate these little light-sensitive proteins
+428.26	and install them all over the cell,
+430.26	like putting solar panels on a roof,
+432.26	and the next thing you know,
+434.26	you have a neuron which can be activated with light.
+436.26	So this is very powerful.
+438.26	One of the tricks you have to do
+440.26	is to figure out how to deliver these genes to the cells that you want
+442.26	and not all the other neighbors.
+444.26	And you can do that; you can tweak the viruses
+446.26	so they hit just some cells and not others.
+448.26	And there's other genetic tricks you can play
+450.26	in order to get light-activated cells.
+453.26	This field has now come to be known as optogenetics.
+457.26	And just as one example of the kind of thing you can do,
+459.26	you can take a complex network,
+461.26	use one of these viruses to deliver the gene
+463.26	just to one kind of cell in this dense network.
+466.26	And then when you shine light on the entire network,
+468.26	just that cell type will be activated.
+470.26	So for example, lets sort of consider that basket cell I told you about earlier --
+473.26	the one that's atrophied in schizophrenia
+475.26	and the one that is inhibitory.
+477.26	If we can deliver that gene to these cells --
+479.26	and they're not going to be altered by the expression of the gene, of course --
+482.26	and then flash blue light over the entire brain network,
+485.26	just these cells are going to be driven.
+487.26	And when the light turns off, these cells go back to normal,
+489.26	so they don't seem to be averse against that.
+492.26	Not only can you use this to study what these cells do,
+494.26	what their power is in computing in the brain,
+496.26	but you can also use this to try to figure out --
+498.26	well maybe we could jazz up the activity of these cells,
+500.26	if indeed they're atrophied.
+502.26	Now I want to tell you a couple of short stories
+504.26	about how we're using this,
+506.26	both at the scientific, clinical and pre-clinical levels.
+509.26	One of the questions we've confronted
+511.26	is, what are the signals in the brain that mediate the sensation of reward?
+514.26	Because if you could find those,
+516.26	those would be some of the signals that could drive learning.
+518.26	The brain will do more of whatever got that reward.
+520.26	And also these are signals that go awry in disorders such as addiction.
+523.26	So if we could figure out what cells they are,
+525.26	we could maybe find new targets
+527.26	for which drugs could be designed or screened against,
+529.26	or maybe places where electrodes could be put in
+531.26	for people who have very severe disability.
+534.26	So to do that, we came up with a very simple paradigm
+536.26	in collaboration with the Fiorella group,
+538.26	where one side of this little box,
+540.26	if the animal goes there, the animal gets a pulse of light
+542.26	in order to make different cells in the brain sensitive to light.
+544.26	So if these cells can mediate reward,
+546.26	the animal should go there more and more.
+548.26	And so that's what happens.
+550.26	This animal's going to go to the right-hand side and poke his nose there,
+552.26	and he gets a flash of blue light every time he does that.
+554.26	And he'll do that hundreds and hundreds of times.
+556.26	These are the dopamine neurons,
+558.26	which some of you may have heard about, in some of the pleasure centers in the brain.
+560.26	Now we've shown that a brief activation of these
+562.26	is enough, indeed, to drive learning.
+564.26	Now we can generalize the idea.
+566.26	Instead of one point in the brain,
+568.26	we can devise devices that span the brain,
+570.26	that can deliver light into three-dimensional patterns --
+572.26	arrays of optical fibers,
+574.26	each coupled to its own independent miniature light source.
+576.26	And then we can try to do things in vivo
+578.26	that have only been done to-date in a dish --
+581.26	like high-throughput screening throughout the entire brain
+583.26	for the signals that can cause certain things to happen.
+585.26	Or that could be good clinical targets
+587.26	for treating brain disorders.
+589.26	And one story I want to tell you about
+591.26	is how can we find targets for treating post-traumatic stress disorder --
+594.26	a form of uncontrolled anxiety and fear.
+597.26	And one of the things that we did
+599.26	was to adopt a very classical model of fear.
+602.26	This goes back to the Pavlovian days.
+605.26	It's called Pavlovian fear conditioning --
+607.26	where a tone ends with a brief shock.
+609.26	The shock isn't painful, but it's a little annoying.
+611.26	And over time -- in this case, a mouse,
+613.26	which is a good animal model, commonly used in such experiments --
+615.26	the animal learns to fear the tone.
+617.26	The animal will react by freezing,
+619.26	sort of like a deer in the headlights.
+621.26	Now the question is, what targets in the brain can we find
+624.26	that allow us to overcome this fear?
+626.26	So what we do is we play that tone again
+628.26	after it's been associated with fear.
+630.26	But we activate targets in the brain, different ones,
+632.26	using that optical fiber array I told you about in the previous slide,
+635.26	in order to try and figure out which targets
+637.26	can cause the brain to overcome that memory of fear.
+640.26	And so this brief video
+642.26	shows you one of these targets that we're working on now.
+644.26	This is an area in the prefrontal cortex,
+646.26	a region where we can use cognition to try to overcome aversive emotional states.
+649.26	And the animal's going to hear a tone -- and a flash of light occurred there.
+651.26	There's no audio on this, but you can see the animal's freezing.
+653.26	This tone used to mean bad news.
+655.26	And there's a little clock in the lower left-hand corner,
+657.26	so you can see the animal is about two minutes into this.
+660.26	And now this next clip
+662.26	is just eight minutes later.
+664.26	And the same tone is going to play, and the light is going to flash again.
+667.26	Okay, there it goes. Right now.
+670.26	And now you can see, just 10 minutes into the experiment,
+673.26	that we've equipped the brain by photoactivating this area
+676.26	to overcome the expression
+678.26	of this fear memory.
+680.26	Now over the last couple of years, we've gone back to the tree of life
+683.26	because we wanted to find ways to turn circuits in the brain off.
+686.26	If we could do that, this could be extremely powerful.
+689.26	If you can delete cells just for a few milliseconds or seconds,
+692.26	you can figure out what necessary role they play
+694.26	in the circuits in which they're embedded.
+696.26	And we've now surveyed organisms from all over the tree of life --
+698.26	every kingdom of life except for animals, we see slightly differently.
+701.26	And we found all sorts of molecules, they're called halorhodopsins or archaerhodopsins,
+704.26	that respond to green and yellow light.
+706.26	And they do the opposite thing of the molecule I told you about before
+708.26	with the blue light activator channelrhodopsin.
+712.26	Let's give an example of where we think this is going to go.
+715.26	Consider, for example, a condition like epilepsy,
+718.26	where the brain is overactive.
+720.26	Now if drugs fail in epileptic treatment,
+722.26	one of the strategies is to remove part of the brain.
+724.26	But that's obviously irreversible, and there could be side effects.
+726.26	What if we could just turn off that brain for a brief amount of time,
+729.26	until the seizure dies away,
+732.26	and cause the brain to be restored to its initial state --
+735.26	sort of like a dynamical system that's being coaxed down into a stable state.
+738.26	So this animation just tries to explain this concept
+741.26	where we made these cells sensitive to being turned off with light,
+743.26	and we beam light in,
+745.26	and just for the time it takes to shut down a seizure,
+747.26	we're hoping to be able to turn it off.
+749.26	And so we don't have data to show you on this front,
+751.26	but we're very excited about this.
+753.26	Now I want to close on one story,
+755.26	which we think is another possibility --
+757.26	which is that maybe these molecules, if you can do ultra-precise control,
+759.26	can be used in the brain itself
+761.26	to make a new kind of prosthetic, an optical prosthetic.
+764.26	I already told you that electrical stimulators are not uncommon.
+767.26	Seventy-five thousand people have Parkinson's deep-brain stimulators implanted.
+770.26	Maybe 100,000 people have Cochlear implants,
+772.26	which allow them to hear.
+774.26	There's another thing, which is you've got to get these genes into cells.
+777.26	And new hope in gene therapy has been developed
+780.26	because viruses like the adeno-associated virus,
+782.26	which probably most of us around this room have,
+784.26	and it doesn't have any symptoms,
+786.26	which have been used in hundreds of patients
+788.26	to deliver genes into the brain or the body.
+790.26	And so far, there have not been serious adverse events
+792.26	associated with the virus.
+794.26	There's one last elephant in the room, the proteins themselves,
+797.26	which come from algae and bacteria and fungi,
+799.26	and all over the tree of life.
+801.26	Most of us don't have fungi or algae in our brains,
+803.26	so what is our brain going to do if we put that in?
+805.26	Are the cells going to tolerate it? Will the immune system react?
+807.26	In its early days -- these have not been done on humans yet --
+809.26	but we're working on a variety of studies
+811.26	to try and examine this,
+813.26	and so far we haven't seen overt reactions of any severity
+816.26	to these molecules
+818.26	or to the illumination of the brain with light.
+821.26	So it's early days, to be upfront, but we're excited about it.
+824.26	I wanted to close with one story,
+826.26	which we think could potentially
+828.26	be a clinical application.
+830.26	Now there are many forms of blindness
+832.26	where the photoreceptors,
+834.26	our light sensors that are in the back of our eye, are gone.
+837.26	And the retina, of course, is a complex structure.
+839.26	Now let's zoom in on it here, so we can see it in more detail.
+841.26	The photoreceptor cells are shown here at the top,
+844.26	and then the signals that are detected by the photoreceptors
+846.26	are transformed by various computations
+848.26	until finally that layer of cells at the bottom, the ganglion cells,
+851.26	relay the information to the brain,
+853.26	where we see that as perception.
+855.26	In many forms of blindness, like retinitis pigmentosa,
+858.26	or macular degeneration,
+860.26	the photoreceptor cells have atrophied or been destroyed.
+863.26	Now how could you repair this?
+865.26	It's not even clear that a drug could cause this to be restored,
+868.26	because there's nothing for the drug to bind to.
+870.26	On the other hand, light can still get into the eye.
+872.26	The eye is still transparent and you can get light in.
+875.26	So what if we could just take these channelrhodopsins and other molecules
+878.26	and install them on some of these other spare cells
+880.26	and convert them into little cameras.
+882.26	And because there's so many of these cells in the eye,
+884.26	potentially, they could be very high-resolution cameras.
+887.26	So this is some work that we're doing.
+889.26	It's being led by one of our collaborators,
+891.26	Alan Horsager at USC,
+893.26	and being sought to be commercialized by a start-up company Eos Neuroscience,
+896.26	which is funded by the NIH.
+898.26	And what you see here is a mouse trying to solve a maze.
+900.26	It's a six-arm maze. And there's a bit of water in the maze
+902.26	to motivate the mouse to move, or he'll just sit there.
+904.26	And the goal, of course, of this maze
+906.26	is to get out of the water and go to a little platform
+908.26	that's under the lit top port.
+910.26	Now mice are smart, so this mouse solves the maze eventually,
+913.26	but he does a brute-force search.
+915.26	He's swimming down every avenue until he finally gets to the platform.
+918.26	So he's not using vision to do it.
+920.26	These different mice are different mutations
+922.26	that recapitulate different kinds of blindness that affect humans.
+925.26	And so we're being careful in trying to look at these different models
+928.26	so we come up with a generalized approach.
+930.26	So how are we going to solve this?
+932.26	We're going to do exactly what we outlined in the previous slide.
+934.26	We're going to take these blue light photosensors
+936.26	and install them on a layer of cells
+938.26	in the middle of the retina in the back of the eye
+941.26	and convert them into a camera --
+943.26	just like installing solar cells all over those neurons
+945.26	to make them light sensitive.
+947.26	Light is converted to electricity on them.
+949.26	So this mouse was blind a couple weeks before this experiment
+952.26	and received one dose of this photosensitive molecule in a virus.
+955.26	And now you can see, the animal can indeed avoid walls
+957.26	and go to this little platform
+959.26	and make cognitive use of its eyes again.
+962.26	And to point out the power of this:
+964.26	these animals are able to get to that platform
+966.26	just as fast as animals that have seen their entire lives.
+968.26	So this pre-clinical study, I think,
+970.26	bodes hope for the kinds of things
+972.26	we're hoping to do in the future.
+974.26	To close, I want to point out that we're also exploring
+977.26	new business models for this new field of neurotechnology.
+979.26	We're developing these tools,
+981.26	but we share them freely with hundreds of groups all over the world,
+983.26	so people can study and try to treat different disorders.
+985.26	And our hope is that, by figuring out brain circuits
+988.26	at a level of abstraction that lets us repair them and engineer them,
+991.26	we can take some of these intractable disorders that I told you about earlier,
+994.26	practically none of which are cured,
+996.26	and in the 21st century make them history.
+998.26	Thank you.
+1000.26	(Applause)
+1013.26	Juan Enriquez: So some of the stuff is a little dense.
+1016.26	(Laughter)
+1018.26	But the implications
+1020.26	of being able to control seizures or epilepsy
+1023.26	with light instead of drugs,
+1025.26	and being able to target those specifically
+1028.26	is a first step.
+1030.26	The second thing that I think I heard you say
+1032.26	is you can now control the brain in two colors,
+1035.26	like an on/off switch.
+1037.26	Ed Boyden: That's right.
+1039.26	JE: Which makes every impulse going through the brain a binary code.
+1042.26	EB: Right, yeah.
+1044.26	So with blue light, we can drive information, and it's in the form of a one.
+1047.26	And by turning things off, it's more or less a zero.
+1049.26	So our hope is to eventually build brain coprocessors
+1051.26	that work with the brain
+1053.26	so we can augment functions in people with disabilities.
+1056.26	JE: And in theory, that means that,
+1058.26	as a mouse feels, smells,
+1060.26	hears, touches,
+1062.26	you can model it out as a string of ones and zeros.
+1065.26	EB: Sure, yeah. We're hoping to use this as a way of testing
+1067.26	what neural codes can drive certain behaviors
+1069.26	and certain thoughts and certain feelings,
+1071.26	and use that to understand more about the brain.
+1074.26	JE: Does that mean that some day you could download memories
+1077.26	and maybe upload them?
+1079.26	EB: Well that's something we're starting to work on very hard.
+1081.26	We're now working on some work
+1083.26	where we're trying to tile the brain with recording elements too.
+1085.26	So we can record information and then drive information back in --
+1088.26	sort of computing what the brain needs
+1090.26	in order to augment its information processing.
+1092.26	JE: Well, that might change a couple things. Thank you. (EB: Thank you.)
+1095.26	(Applause)

@@ -1,0 +1,403 @@
+startsecond	text
+26	Sergey Brin: I want to discuss a question
+28	I know that's been pressing on many of your minds.
+30	We spoke to you last several years ago.
+33	And before I get started today,
+35	since many of you are wondering,
+38	I just wanted to get it out of the way.
+40	The answer is boxers.
+52	Now I hope all of you feel better.
+54	Do you know what this might be? Does anyone know what that is?
+57	Audience: Yes.
+58	SB: What is it?
+60	Audience: It's people logging on to Google around the world.
+62	SB: Wow, OK. I didn't really realize what it was when I first saw it.
+65	But this is what helped me see it.
+68	This is what we run at the office, that actually runs real time.
+71	Here it's slightly logged.
+73	But here you can see around the world
+75	how people are using Google.
+78	And every one of those rising dots
+80	represents probably about 20, 30 searches,
+83	or something like that.
+85	And they're labeled by color right now, by language.
+89	So you can see: here we are in the U.S.,
+91	and they're all coming up red.
+93	There we are in Monterey -- hopefully I can get it right.
+95	You can see that Japan is busy at night,
+98	right there.
+100	We have Tokyo coming in in Japanese.
+103	There's a lot of activity in China.
+105	There's a lot of activity in India.
+108	There's some in the Middle East, the little pockets.
+112	And Europe, which is right now in the middle of the day,
+115	is going really strong with a whole wide variety of languages.
+126	Now you can also see, if I turn this around here --
+134	hopefully I won't shake the world too much.
+137	But you can also see, there are places where there's not so much.
+140	Australia, because there just aren't very many people there.
+143	And this is something that we should really work on,
+146	which is Africa, which is just a few trickles,
+150	basically in South Africa and a few other urban cities.
+153	But basically, what we've noticed is these queries,
+157	which come in at thousands per second,
+159	are available everywhere there is power.
+162	And pretty much everywhere there is power, there is the Internet.
+166	And even in Antarctica -- well, at least this time of year --
+171	we from time to time will see a query rising up.
+173	And if we had it plotted correctly,
+175	I think the International Space Station would have it, too.
+186	So this is
+189	some of the challenge that we have here,
+193	is you can see that it's actually kind of hard to get the --
+202	there we go.
+204	This is how we have to move the bits around
+205	to actually get the people the answers to their questions.
+207	You can see that there's a lot of data running around.
+211	It has to go all over the world: through fibers,
+214	through satellites, through all kinds of connections.
+216	And it's pretty tricky for us to maintain the latencies
+221	as low as we try to. Hopefully your experience is good.
+225	But you can see also, once again -- so some places are much more wired
+227	than others, and you can see all the bandwidth across the U.S.,
+231	going up over to Asia, Europe in the other direction, and so forth.
+236	Now what I would like to do is just to show you
+239	what one second of this activity would look like.
+243	And if we can switch to slides --
+249	all right, here we go.
+251	So this is slowed down.
+257	This is what one second looks like.
+260	And this is what we spend a lot of our time doing,
+262	is just making sure that we can keep up
+264	with this kind of traffic load.
+270	Now, each one of those queries
+272	has an interesting life and tale of its own.
+274	I mean, it could be somebody's health,
+276	it could be somebody's career, something important to them.
+279	And it could potentially be something
+283	as important as tomato sauce,
+288	or in this case, ketchup.
+291	So this is a query that we had --
+294	I guess it's a popular band that was more popular in some parts of the world than others.
+297	You can see that it got started right here.
+300	In the U.S. and Spain, it was popular at the same time.
+303	But it didn't have quite the same pickup in the U.S.
+305	as it did in Spain.
+307	And then from Spain, it went to Italy,
+309	and then Germany got excited, and maybe right now the U.K. is enjoying it.
+313	And so I guess the U.S. finally,
+315	finally started to like it, too.
+318	And I just wanted to play it for you.
+326	Anyway, you can all enjoy it for yourselves --
+328	hopefully that search will work.
+331	As a part of --
+335	you know, part of what we want to do to grow our company
+337	is to have more searches.
+339	And what that means is we want to have
+341	more people who are healthy and educated.
+346	More animals, if they start doing searches as well.
+350	But partly, we want to make the world a better place,
+355	and so one thing that we're embarking upon is the Google Foundation,
+360	and we're in the process of setting that up.
+362	We also have a program already called Google Grants
+365	that now serves over 150 different charities around the world,
+368	and these are some of the charities that are on there.
+370	And it's something I'm very excited to be a part of.
+375	In fact, many of the organizations that are here --
+377	the Acumen Fund, I think ApproTEC we have running, I'm not sure if that one's up yet --
+383	and many of the people who have presented here are running through Google Grants.
+386	They run Google ads, and we just give them the ad credit
+389	so they can let organizations know.
+393	One of the earlier results that we got --
+395	we have a Singaporean businessman who is now sponsoring a village
+398	of 25 Vietnamese girls for their education,
+402	and that was one of the earliest results. And as I said, now there have been
+405	many, many stories that have come in,
+407	because we do have hundreds of charities in there,
+409	and the Google Foundation will be an even broader endeavor.
+414	Now does anybody know who this is?
+420	A-ha!
+421	Audience: Orkut.
+422	SB: Yes! Somebody got it.
+424	This is Orkut. Is anybody here on Orkut?
+427	Do we have any?
+429	Okay, not very many people know about it.
+430	I'll explain it in a second.
+432	This is one of our engineers.
+434	We find that they work better when they're submerged and covered with leaves.
+439	That's how we churn those products out.
+442	Orkut had a vision to create a social network.
+447	"I know all of you are thinking, ""Yet another social network."""
+449	But it was a dream of his, and we, basically,
+452	when people really want to do something, well, we generally let them.
+455	So this is what he built.
+458	We just released it in a test phase last month,
+462	and it's been taking off.
+464	This is our VP of Engineering.
+466	You can see the red hair, and I don't know if you can see the nose ring there.
+471	And these are all of his friends.
+474	So this is how -- we just deployed it --
+481	we just decided that people would send each other invitations to get into the service,
+484	and so we just had the people in our company initially send them out.
+489	And now we've grown to over 100,000 members.
+493	And they spread, actually, very quickly, even outside the U.S.
+496	You can see, even though the U.S. is still the majority here --
+499	though, by the way, search-wise, it's only about 30 percent of our traffic --
+503	but it's already going to Japan, and the U.K., and Europe,
+506	and all the rest of the countries.
+508	So it's a fun little project.
+510	There are a variety of demographics. I won't bore you with these.
+513	But it's just the kind of thing that we just try out for fun
+516	and see where it goes.
+518	And --
+520	well, I'll leave you in suspense.
+522	Larry, you can explain this one.
+524	Larry Page: Thank you, Sergey.
+527	So one of the things -- both Sergey and I
+529	went to a Montessori school,
+531	and I think, for some reason,
+534	this has been incorporated in Google.
+537	And Sergey mentioned Orkut, which is something that,
+540	you know, Orkut wanted to do in his time,
+544	"and we call this -- at Google, we've embodied this as ""the 20 percent time,"""
+547	and the idea is, for 20 percent of your time,
+550	if you're working at Google, you can do what you think is the best thing to do.
+553	And many, many things at Google have come out of that,
+557	such as Orkut and also Google News.
+560	And I think many other things in the world also have come out of this.
+564	Mendel, who was supposed to be teaching high-school students,
+567	actually, you know, discovered the laws of genetics --
+570	as a hobby, basically.
+572	So many, many useful things come out of this.
+576	And News, which I just mentioned,
+579	was started by a researcher.
+582	And he just -- he -- after 9/11, he got really interested in the news.
+585	"And he said, ""Why don't I look at the news better?"""
+590	And so he started clustering it by category,
+593	and then he started using it, and then his friends started using it.
+596	And then, besides just looking cute on a baby's bottom,
+601	we made it a Googlette,
+603	which is basically a small project at Google.
+606	So it'd be like three people, or something like that,
+609	and they would try to make a product.
+611	And we wouldn't really be sure if it's going to work or not.
+613	And in News' case, you know, they had a couple of people
+617	working on it for a while, and then more and more people
+619	started using it, and then we put it out on the Internet,
+621	and more and more people started using it.
+623	And now it's a real, full-blown project with more people on it.
+626	And this is how we keep our innovation running.
+629	I think usually, as companies get bigger,
+632	they find it really hard to have small, innovative projects.
+635	And we had this problem, too, for a while, and we said,
+638	"""Oh, we really need a new concept."""
+640	You know, the Googlettes -- that's a small project that we're not quite sure if it's going to work or not,
+644	but we hope it will, and if we do enough of them,
+647	some of them will really work and turn out, such as News.
+651	But then we had a problem because then we had over 100 projects.
+655	And I don't know about all of you,
+657	but I have trouble keeping 100 things in my head at once.
+660	And we found that if we just wrote all of them down
+664	and ordered them -- and these are kind of made up.
+667	Don't really pay attention to them.
+669	"For example, the ""Buy Iceland"" was from a media article."
+672	We would never do such a crazy thing, but --
+677	in any case, we found if we just basically wrote them all down and ordered them,
+681	that most people would actually agree what the ordering should be.
+685	And this was kind of a surprise to me, but
+687	we found that as long as you keep the 100 things in your head,
+690	which you did by writing them down,
+692	that you could do a pretty good job deciding what to do
+694	and where to put your resources.
+697	And so that's basically what we've done
+699	since we instituted that a few years ago, and I think it has really allowed us to be innovative
+703	and still stay reasonably well-organized.
+706	The other thing we discovered is that people like to work on things that are important,
+709	and so naturally,
+711	people sort of migrate to the things that are high priorities.
+717	I just wanted to highlight a couple of things
+719	that are new, or you might not know about.
+722	And the top thing, actually, is the Deskbar.
+725	So this is a new -- how many of you use the Google Toolbar?
+728	Raise your hands.
+730	How many of you use the Deskbar?
+733	All right, see? You guys should try it out.
+735	But if you go to our site and search
+737	"for ""Deskbar,"" you'll get this."
+739	And the idea is, instead of a toolbar, it's just present all the time
+741	on your screen on the bottom,
+743	and you can do searches really easily.
+746	And it's sort of like a better version of the toolbar.
+748	Thank you, Sergey.
+754	This is another example of a project that somebody at Google
+756	was really passionate about, and they just, they got going,
+759	and it's really, really a great product, and really taking off.
+762	Google Answers is something we started, which is really cool,
+766	which lets you -- for five to 100 dollars,
+769	you can type a question in,
+771	and then there's a pool of researchers
+773	that go out and research it for you, and it's guaranteed and all that,
+777	and you can get actually very good answers to things
+779	without spending all that time yourself.
+781	Froogle lets you search shopping information,
+784	and Blogger lets you publish things.
+786	But all of these -- well, these were all sort of innovative things that we did that --
+790	you know, we try many, many different things
+793	in our company.
+794	We also like to innovate in our physical space,
+796	and we noticed in meetings, you know, you have to wait a long time
+799	for projectors to turn on and off,
+802	and they're noisy, so people shut them off.
+804	And we didn't like that, so we actually,
+806	in maybe a couple of weeks, we built these little enclosures
+811	that enclosed the projectors, and so we can leave them on all the time
+813	and they're completely silent.
+816	And as a result, we were able to build some software
+818	that also lets us manage a meeting,
+820	so when you walk into a meeting room now,
+822	it lists all the meetings that are happening,
+824	you can very easily take notes, and they just get emailed automatically
+826	to all the people that were present in the meeting.
+829	And as we become more of a global company,
+832	we find these things really affect us --
+834	you know, can we work effectively with people who aren't in the room?
+837	And things like that. And simple things like this can really make a big difference.
+841	We also have a lot of engineers in those meetings,
+846	and they don't always do their laundry as much as they should.
+853	And so we found it was pretty helpful
+855	to have laundry machines, for our younger employees especially, and ...
+862	we also allow dogs and things like that,
+865	and we've had, I think, a really fun culture at our company,
+868	which helps people work and enjoy what they're doing.
+871	"This is actually our ""cult picture."""
+873	I just wanted to show quickly.
+878	We had this on our website for a while,
+880	but we found that after we put it on our website,
+883	we didn't get any job applications anymore.
+888	But anyway, every year we've taken
+890	the whole company on a ski trip.
+892	A lot of work happens in companies from people knowing each other, and informally.
+896	And I think we've done a good job encouraging that.
+900	It makes it a really fun place to work.
+902	Along with our logos, too, which I think really embody
+905	our culture when we change things.
+908	In the early days, we were actually advised
+909	we should never change our logo because
+913	we should establish our brand, you know,
+915	because, you know, you'd never want to change your logo.
+917	You want it to be consistent.
+919	"And we said, ""Well, that doesn't sound so much fun."
+921	"Why don't we try changing it every day?"""
+926	One of the things that really excites me about what we're doing now
+929	is we have this thing called AdSense,
+931	and this is a little bit foreshadowing --
+935	this is from before Dean dropped out.
+938	But the idea is, like, on a newspaper, for example,
+940	we show you relevant ads.
+942	"And this is hard to read, but this says ""Battle for New Hampshire:"
+944	"Howard Dean for President"" -- articles on Howard Dean."
+948	And these ads are generated automatically --
+951	like in this case, on the Washington Post --
+952	from the content on the site.
+954	And so we use our over 150,000 advertisers
+958	and millions of advertisements, so we pick the one
+960	that's most relevant to what you're actually looking at,
+962	much as we do on search.
+964	So the idea is we can make advertising useful,
+967	not just annoying, right?
+969	And the nice thing about this,
+971	we have a self-serve program,
+973	and many thousands of websites have signed up,
+976	and this let's them really make money. And I --
+978	you know, there's a number of people I met --
+980	I met this guy who runs a conservation site at a party,
+983	"and he said, ""You know, I wasn't making any money."
+985	I just put this thing on my site and I'm making 10,000 dollars a month.
+989	And, you know, thank you.
+991	"I don't have to do my other job now."""
+993	And I think this is really important for us, because it makes the Internet work better.
+996	It makes content get better, it makes searching work better,
+999	when people can really make their livelihood
+1001	from producing great content.
+1006	So this session is supposed to be about the future,
+1009	so I'd thought I'd talk at least briefly about it.
+1012	And the idea behind this is to do the perfect job doing search,
+1015	you really have to be smart.
+1017	Because you can type, you know, any kind of thing into Google,
+1020	and you expect an answer back, right?
+1023	But finding things is tricky, and so you really want intelligence.
+1027	And in fact, the ultimate search engine would be smart.
+1030	It would be artificial intelligence.
+1032	And so that's something we work on,
+1034	and we even have some people who are excited enough
+1036	and crazy enough to work on it now,
+1038	and that's really their goal.
+1040	So we always hope that Google will be smart,
+1042	but we're always surprised when other people think that it is.
+1045	And so I just wanted to give a funny example of this.
+1048	This is a blog from Iraq,
+1050	and it's not really what
+1052	I'm going to talk about, but I just wanted to show you an example.
+1054	Maybe, Sergey, you can highlight this.
+1056	So we decided --
+1062	actually, the highlight's right there. Oh, thank you.
+1067	"So, ""related searches,"" right there. You can't see it that well,"
+1072	but we decided we should put in this feature
+1074	"into our AdSense ads, called ""related searches."""
+1077	"And so we'd say, you know, ""Did you mean 'search for'"" -- what is this,"
+1080	"in this case, ""Saddam Hussein,"" because this blog is about Iraq --"
+1083	and you know, in addition to the ads,
+1085	and we thought this would be a great idea.
+1088	And so there is this blog
+1090	of a young person who was kind of depressed, and he said,
+1095	"""You know, I'm sleeping a lot."""
+1097	He was just kind of writing about his life.
+1099	And our algorithms -- not a person, of course,
+1102	but our algorithms, our computers --
+1104	read his blog and decided that
+1106	"the related search was, ""I am bored."""
+1108	And he read this, and he thought a person had decided
+1111	that he was boring,
+1113	and it was very unfortunate,
+1116	"and he said, ""You know, what are these, you know, bastards at Google doing?"
+1120	"Why don't they like my blog?"""
+1122	And so then we read his blog, which was getting -- you know,
+1125	sort of going from bad to worse,
+1128	"and we said the related search was, ""Retards."""
+1133	And then, you know, he got even more mad,
+1135	and he wrote -- like, started swearing and so on.
+1137	"And then we produced ""You suck."""
+1140	"And finally, it ended with ""Kiss my ass."""
+1145	And so basically, he thought he was dealing with something smart,
+1147	and of course, you know,
+1149	we just sort of wrote this program and we tried it out,
+1151	and it didn't quite work,
+1154	and we don't have this feature anymore.
+1158	So with that, maybe I can switch back to the world.
+1161	I wanted to end just by saying that
+1163	there's a couple things that really make me excited
+1165	to be involved with Google,
+1168	and one of those is that we're able to make money
+1172	largely through advertising, and one of the benefits that I didn't expect from that
+1175	was that we're able to serve everyone in the world
+1178	without worrying about, you know, places that don't have as much money.
+1183	So we don't have to worry about our products being sold,
+1186	for example, for less money in places that are poor,
+1189	and then they get re-imported into the U.S. --
+1191	for example, with the drug industry.
+1193	And I think we're really lucky to have that kind of business model
+1196	because everyone in the world has access to our search,
+1199	and I think that's a tremendous, tremendous benefit.
+1202	The other thing I wanted to mention just briefly
+1205	is that we have a tremendous ability and responsibility
+1211	to provide people the right information,
+1214	and we view ourselves like a newspaper or a magazine --
+1216	that we should provide very objective information.
+1219	And so in our search results, we never accept payment for our search results.
+1222	We accept payment for advertising,
+1225	and we mark it as such.
+1227	And that's unlike many of our competitors.
+1229	And I think decisions we're able to make like that
+1232	have a tremendous impact on the world,
+1234	and it makes me really proud to be involved with Google.
+1236	So thank you.

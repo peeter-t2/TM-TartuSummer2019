@@ -1,0 +1,168 @@
+startsecond	text
+18.33	Four years ago, on the TED stage,
+21.33	I announced a company I was working with at the time
+23.728	called Odeo.
+25.637	And because of that announcement,
+27.314	we got a big article in The New York Times,
+29.376	which led to more press, which led to more attention,
+32.653	and me deciding to become CEO of that company --
+35.33	whereas I was just an adviser --
+37.33	and raising a round of venture capital
+39.683	and ramping up hiring.
+41.33	One of the guys I hired was an engineer named Jack Dorsey,
+45.176	and a year later, when we were trying to decide which way to go with Odeo,
+49.114	Jack presented an idea he'd been tinkering around with for a number of years
+53.776	that was based around sending simple status updates to friends.
+57.33	We were also playing with SMS at the time at Odeo,
+59.576	so we kind of put two and two together,
+61.422	and in early 2006 we launched Twitter as a side project at Odeo.
+66.375	Now, it's hard to justify doing a side project
+68.853	at a startup, where focus is so critical,
+71.206	but I had actually launched Blogger as a side project
+73.545	to my previous company,
+74.868	thinking it was just a little thing we'd do on the side,
+77.33	and it ended up taking over not only the company,
+79.93	but my life for the next five or six years.
+82.33	So I learned to follow hunches
+84.667	even though you can't necessarily justify them
+86.53	or know where they're going to go.
+87.959	And that's kind of what's happened with Twitter, time after time.
+91.33	So, for those of you unfamiliar,
+93.33	Twitter is based around a very simple, seemingly trivial concept.
+96.791	You say what you're doing in 140 characters or less,
+100.006	and people who are interested in you get those updates.
+103.33	If they're really interested,
+104.776	they get the update as a text message on their cell phone.
+107.914	So, for instance, I may Twitter right now
+110.33	that I'm giving a talk at TED.
+112.405	And in my case, when I hit send,
+115.114	up to 60,000 people will receive that message in a matter of seconds.
+119.38	Now, the fundamental idea is that Twitter
+122.752	lets people share moments of their lives
+125.191	whenever they want,
+126.406	be they momentous occasions
+128.714	or mundane ones.
+132.252	It is by sharing these moments as they're happening
+135.082	that lets people feel more connected and in touch,
+138.856	despite distance, and in real time.
+141.036	This is the primary use we saw of Twitter from the beginning,
+144.008	and what got us excited.
+146.367	What we didn't anticipate was the many, many other uses
+149.852	that would evolve from this very simple system.
+152.933	One of the things we realized
+154.93	was how important Twitter could be during real-time events.
+158.212	When the wildfires broke out in San Diego,
+161.509	in October of 2007,
+163.42	people turned to Twitter to report what was happening
+165.625	and to find information from neighbors
+167.659	about what was happening around them.
+169.431	But it wasn't just individuals.
+170.736	The L.A. Times actually turned to Twitter to dispense information as well,
+174.319	and put a Twitter feed on the front page,
+176.336	and the L.A. Fire Department and Red Cross
+178.424	used it to dispense news and updates as well.
+181.52	At this event, dozens of people here are Twittering
+184.583	and thousands of people around the world are following along
+187.246	because they want to know what it feels like to be here
+189.228	and what's happening.
+190.804	Among the other interesting things that have cropped up
+193.884	are many things from businesses,
+195.933	from marketing and communications and predictable things,
+198.575	to an insanely popular Korean-barbecue taco truck
+201.812	that drives around L.A. and Twitters where it stops,
+204.068	causing a line to form around the block.
+209.084	Politicians have recently begun Twittering.
+212.13	In fact, there are 47 members of Congress
+214.22	who currently have Twitter accounts.
+215.971	And they're tweeting, in some cases,
+218.401	from behind closed-door sessions with the President.
+220.875	In this case, this guy's not liking what he's hearing.
+223.473	The President himself is our most popular Twitter user,
+226.996	although his tweets have dropped off as of late,
+230.883	while Senator McCain's have picked up.
+235.674	As have this guy's.
+238.858	Twitter was originally designed as a broadcast medium:
+242.723	you send one message and it goes out to everybody,
+244.755	and you receive the messages you're interested in.
+246.811	One of the many ways that users shaped the evolution of Twitter
+251.131	was by inventing a way to reply to a specific person
+254.812	or a specific message.
+257.118	"So, this syntax, the ""@username"" that Shaquille O'Neal's using here"
+260.287	to reply to one of his fans,
+261.991	was completely invented by users,
+263.831	and we didn't build it into the system until it already became popular
+266.864	and then we made it easier.
+268.831	This is one of the many ways that users have shaped the system.
+271.662	Another is via the API.
+273.431	We built an application-programming interface,
+275.335	which basically means that programmers can write software that interacts with Twitter.
+279.652	We currently know about over 2,000 pieces of software
+282.335	that can send Twitter updates --
+283.687	interfaces for Mac, Windows, your iPhone, your BlackBerry --
+288.175	as well as things like
+290.567	a device that lets an unborn baby Twitter when it kicks
+292.967	or a plant Twitter when it needs water.
+296.07	Probably the most important third-party development
+298.695	came from a little company in Virginia called Summize.
+301.455	Summize built a Twitter search engine.
+303.726	And they tapped into the fact
+305.536	that, if you have millions of people around the world
+307.743	talking about what they're doing and what's around them,
+310.151	you have an incredible resource to find out about any topic or event
+314.978	while it's going on.
+316.623	This really changed how we perceived Twitter.
+318.963	For instance, here's what people are saying about TED.
+323.143	This is another way that our mind was shifted,
+326.432	and Twitter wasn't what we thought it was.
+328.792	We liked this so much we actually bought the company
+331.209	and are folding it into the main product.
+333.64	This not only lets you view Twitters in different ways,
+337.024	but it introduces new use cases as well.
+339.464	One of my favorites is what happened a few months ago
+342.176	when there was a gas shortage in Atlanta.
+344.723	Some users figured out
+346.463	that they would Twitter when they found gas --
+349.476	where it was, and how much it cost --
+351.752	"and then appended the keyword ""#atlgas"""
+354.266	which let other people search for that and find gas themselves.
+357.944	And this trend of people using this communication network
+360.273	to help each other out
+361.649	goes far beyond the original idea of just keeping up with family and friends.
+365.492	It's happened more and more lately,
+368.659	whether it's raising money for homeless people
+371.145	or to dig wells in Africa
+372.881	or for a family in crisis.
+375.145	People have raised tens of thousands of dollars over Twitter
+377.969	in a matter of days on several occasions.
+382.421	It seems like when you give people easier ways to share information,
+387.498	more good things happen.
+390.066	I have no idea what will happen next with Twitter.
+394.298	I've learned to follow the hunch,
+396.362	but never assume where it will go.
+399.506	Thanks.
+401.69	(Applause)
+407.575	Chris Anderson: We're not quite done yet.
+409.346	So, look, if we could have this screen live.
+411.684	This is actually the most terrifying thing that any speaker can do
+414.052	after they've been to an event.
+415.714	It's totally intimidating.
+418.69	So, this would be the Twitter search screen.
+421.81	So we're going to just type a couple of random words into Twitter.
+425.545	"For example: ""Evan Williams."""
+430.945	"""Evan Williams, give people more good ways to share information and follow your hunch at TED."""
+435.253	"""Currently listening to Evan Williams."" ""Currently listening to Evan Williams."" ""Evan Williams --"""
+438.33	Oh.
+439.144	"""Evan Williams is just dying on stage here at TED."
+441.052	"Worst talk ever!"" (Laughter)"
+444.19	Evan Williams: Nice. Thanks.
+445.744	CA: Just kidding.
+448.114	But, literally in the eight minutes he was talking,
+450.868	there are about fifty tweets that already came on the talk.
+453.221	So he'll see every aspect of the reaction:
+455.822	the fact that Barack Obama is the biggest Twitterer,
+458.082	the fact that it came out of TED.
+459.467	I don't think there's any other way of getting instant feedback that way.
+462.421	You have build something very fascinating,
+464.698	and it looks like its best times are still ahead of it.
+467.021	So, thank you very much, Evan. EW: Thank you.
+468.729	CA: That was very interesting.

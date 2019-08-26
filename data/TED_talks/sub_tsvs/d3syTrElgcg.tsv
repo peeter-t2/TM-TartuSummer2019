@@ -1,0 +1,247 @@
+startsecond	text
+18.33	Let me share with you today an original discovery.
+23.33	But I want to tell it to you the way it really happened --
+26.33	not the way I present it in a scientific meeting,
+28.33	or the way you'd read it in a scientific paper.
+31.33	It's a story about beyond biomimetics,
+34.33	to something I'm calling biomutualism.
+37.33	I define that as an association between biology and another discipline,
+40.33	where each discipline reciprocally advances the other,
+44.33	but where the collective discoveries that emerge are beyond any single field.
+48.33	Now, in terms of biomimetics,
+50.33	as human technologies take on more of the characteristics of nature,
+53.33	nature becomes a much more useful teacher.
+56.33	Engineering can be inspired by biology
+58.33	by using its principles and analogies when they're advantageous,
+61.33	but then integrating that with the best human engineering,
+64.33	ultimately to make something actually better than nature.
+69.33	Now, being a biologist, I was very curious about this.
+72.33	These are gecko toes.
+74.33	And we wondered how they use these bizarre toes
+76.33	to climb up a wall so quickly.
+78.33	We discovered it. And what we found was
+81.33	that they have leaf-like structures on their toes,
+83.33	with millions of tiny hairs that look like a rug,
+86.33	and each of those hairs has the worst case of split-ends possible:
+89.33	about 100 to 1000 split ends that are nano-size.
+93.33	And the individual has 2 billion of these nano-size split ends.
+97.33	They don't stick by Velcro or suction or glue.
+99.33	They actually stick by intermolecular forces alone,
+102.33	van der Waals forces.
+104.33	And I'm really pleased to report to you today
+106.33	that the first synthetic self-cleaning, dry adhesive has been made.
+111.33	From the simplest version in nature, one branch,
+114.33	my engineering collaborator, Ron Fearing, at Berkeley,
+117.33	had made the first synthetic version.
+120.33	And so has my other incredible collaborator,
+122.33	Mark Cutkosky, at Stanford --
+124.33	he made much larger hairs than the gecko,
+126.33	but used the same general principles.
+129.33	And here is its first test.
+131.33	(Laughter)
+132.33	That's Kellar Autumn, my former Ph.D. student,
+134.33	professor now at Lewis and Clark,
+136.33	literally giving his first-born child up for this test.
+140.33	(Laughter)
+141.33	More recently, this happened.
+143.33	Man: This the first time someone has actually climbed with it.
+146.33	Narrator: Lynn Verinsky, a professional climber,
+148.33	who appeared to be brimming with confidence.
+150.33	Lynn Verinsky: Honestly, it's going to be perfectly safe. It will be perfectly safe.
+153.33	Man: How do you know?
+155.33	Lynn Verinsky: Because of liability insurance. (Laughter)
+157.33	Narrator: With a mattress below and attached to a safety rope,
+159.33	Lynn began her 60-foot ascent.
+162.33	Lynn made it to the top in a perfect pairing
+165.33	of Hollywood and science.
+168.33	Man: So you're the first human being to officially emulate a gecko.
+171.33	Lynn Verinsky: Ha! Wow. And what a privilege that has been.
+177.33	Robert Full: That's what she did on rough surfaces.
+179.33	But she actually used these on smooth surfaces --
+181.33	two of them -- to climb up, and pull herself up.
+183.33	And you can try this in the lobby,
+185.33	and look at the gecko-inspired material.
+189.33	Now the problem with the robots doing this
+191.33	is that they can't get unstuck,
+193.33	with the material.
+195.33	This is the gecko's solution. They actually peel their toes away
+198.33	from the surface, at high rates,
+200.33	as they run up the wall.
+202.33	Well I'm really excited today to show you
+205.33	the newest version of a robot, Stickybot,
+208.33	using a new hierarchical dry adhesive.
+211.33	Here is the actual robot.
+217.33	And here is what it does.
+225.33	And if you look,
+227.33	you can see that it uses
+230.33	the toe peeling,
+232.33	just like the gecko does.
+236.33	If we can show some of the video, you can see it climbing up the wall.
+239.33	(Applause)
+241.33	There it is.
+243.33	And now it can go on other surfaces because of the new adhesive
+246.33	that the Stanford group was able to do
+249.33	in designing this incredible robot.
+252.33	(Applause)
+255.33	Oh. One thing I want to point out is, look at Stickybot.
+258.33	You see something on it. It's not just to look like a gecko.
+262.33	It has a tail. And just when you think you've figured out nature,
+265.33	this kind of thing happens.
+267.33	The engineers told us, for the climbing robots,
+269.33	that, if they don't have a tail,
+271.33	they fall off the wall.
+273.33	So what they did was they asked us
+275.33	an important question.
+277.33	"They said, ""Well, it kind of looks like a tail."""
+281.33	Even though we put a passive bar there.
+283.33	"""Do animals use their tails when they climb up walls?"""
+286.33	What they were doing was returning the favor,
+288.33	by giving us a hypothesis to test,
+291.33	in biology, that we wouldn't have thought of.
+294.33	So of course, in reality, we were then panicked,
+297.33	being the biologists, and we should know this already.
+299.33	"We said, ""Well, what do tails do?"""
+301.33	Well we know that tails store fat, for example.
+304.33	We know that you can grab onto things with them.
+307.33	And perhaps it is most well known
+309.33	that they provide static balance.
+312.33	(Laughter)
+313.33	It can also act as a counterbalance.
+316.33	So watch this kangaroo.
+319.33	See that tail? That's incredible!
+321.33	Marc Raibert built a Uniroo hopping robot.
+325.33	And it was unstable without its tail.
+331.33	Now mostly tails limit maneuverability,
+333.33	like this human inside this dinosaur suit.
+337.33	(Laughter)
+338.33	My colleagues actually went on to test this limitation,
+342.33	by increasing the moment of inertia of a student, so they had a tail,
+346.33	and running them through and obstacle course,
+348.33	and found a decrement in performance,
+350.33	like you'd predict.
+353.33	(Laughter)
+354.33	But of course, this is a passive tail.
+357.33	And you can also have active tails.
+359.33	And when I went back to research this, I realized
+361.33	that one of the great TED moments in the past,
+363.33	from Nathan,
+365.33	we've talked about an active tail.
+367.33	Video: Myhrvold thinks tail-cracking dinosaurs
+369.33	were interested in love, not war.
+374.33	Robert Full: He talked about the tail being a whip for communication.
+377.33	It can also be used in defense.
+381.33	Pretty powerful.
+383.33	So we then went back and looked at the animal.
+385.33	And we ran it up a surface.
+387.33	But this time what we did is we put a slippery patch
+389.33	that you see in yellow there.
+391.33	And watch on the right what the animal is doing with its tail
+395.33	when it slips. This is slowed down 10 times.
+397.33	So here is normal speed.
+399.33	And watch it now slip,
+401.33	and see what it does with its tail.
+406.33	It has an active tail that functions as a fifth leg,
+408.33	and it contributes to stability.
+410.33	If you make it slip a huge amount, this is what we discovered.
+417.33	This is incredible.
+419.33	The engineers had a really good idea.
+422.33	And then of course we wondered,
+424.33	okay, they have an active tail, but let's picture them.
+426.33	They're climbing up a wall, or a tree.
+429.33	And they get to the top and let's say there's some leaves there.
+432.33	And what would happen if they climbed on the underside of that leaf,
+435.33	and there was some wind, or we shook it?
+438.33	And we did that experiment, that you see here.
+441.33	(Applause)
+442.33	And this is what we discovered.
+444.33	Now that's real time. You can't see anything.
+446.33	But there it is slowed down.
+450.33	What we discovered was the world's fastest air-righting response.
+453.33	For those of you who remember your physics, that's a zero-angular-momentum
+455.33	righting response. But it's like a cat.
+457.33	You know, cats falling. Cats do this. They twist their bodies.
+460.33	But geckos do it better.
+462.33	And they do it with their tail.
+465.33	So they do it with this active tail as they swing around.
+468.33	And then they always land in the sort of superman skydiving posture.
+474.33	Okay, now we wondered, if we were right,
+476.33	we should be able to test this in a physical model, in a robot.
+479.33	So for TED we actually built a robot,
+481.33	over there, a prototype, with the tail.
+484.33	And we're going to attempt the first air-righting response
+486.33	in a tail, with a robot.
+488.33	If we could have the lights on it.
+490.33	Okay, there it goes.
+495.33	And show the video.
+500.33	There it is.
+502.33	And it works just like it does in the animal.
+505.33	So all you need is a swing of the tail to right yourself.
+509.33	(Applause)
+511.33	Now, of course, we were normally frightened
+513.33	because the animal has no gliding adaptations,
+515.33	"so we thought, ""Oh that's okay. We'll put it in a vertical wind tunnel."
+519.33	We'll blow the air up, we'll give it a landing target, a tree trunk,
+522.33	just outside the plexi-glass enclosure, and see what it does.
+526.33	(Laughter)
+527.33	So we did. And here is what it does.
+530.33	So the wind is coming from the bottom. This is slowed down 10 times.
+535.33	It does an equilibrium glide. Highly controlled.
+539.33	This is sort of incredible. But actually it's quite beautiful,
+542.33	when you take a picture of it.
+545.33	And it's better than that, it -- just in the slide -- maneuvers in mid-air.
+550.33	And the way it does it, is it takes its tail
+552.33	and it swings it one way to yaw left, and it swings its other way to yaw right.
+556.33	So we can maneuver this way.
+558.33	And then -- we had to film this several times to believe this --
+561.33	it also does this. Watch this.
+564.33	It oscillates its tail up and down like a dolphin.
+566.33	It can actually swim through the air.
+569.33	But watch its front legs. Can you see what they are doing?
+574.33	What does that mean for the origin of flapping flight?
+577.33	Maybe it's evolved from coming down from trees,
+580.33	and trying to control a glide.
+582.33	Stay tuned for that.
+584.33	(Laughter)
+586.33	"So then we wondered, ""Can they actually maneuver with this?"""
+589.33	So there is the landing target. Could they steer towards it
+592.33	with these capabilities? Here it is in the wind tunnel.
+594.33	And it certainly looks like it.
+596.33	You can see it even better from down on top.
+599.33	Watch the animal.
+602.33	Definitely moving towards the landing target.
+604.33	Watch the whip of its tail as it does it. Look at that.
+608.33	It's unbelievable.
+610.33	So now we were really confused,
+612.33	because there are no reports of it gliding.
+614.33	"So we went, ""Oh my god, we have to go to the field,"
+616.33	"and see if it actually does this."""
+618.33	Completely opposite of the way you'd see it on a nature film, of course.
+621.33	"We wondered, ""Do they actually glide in nature?"""
+624.33	Well we went to the forests of Singapore and Southeast Asia.
+626.33	And the next video you see is the first time we've showed this.
+628.33	This is the actual video -- not staged, a real research video --
+631.33	of animal gliding down. There is a red trajectory line.
+634.33	Look at the end to see the animal.
+636.33	But then as it gets closer to the tree,
+638.33	look at the close-up. And see if you can see it land.
+642.33	So there it comes down. There is a gecko at the end of that trajectory line.
+645.33	You see it there? There? Watch it come down.
+647.33	Now watch up there and you can see the landing. Did you see it hit?
+650.33	It actually uses its tail too,
+652.33	just like we saw in the lab.
+655.33	So now we can continue this mutualism
+659.33	by suggesting that they can make an active tail.
+662.33	And here is the first active tail, in the robot,
+667.33	made by Boston Dynamics.
+670.33	So to conclude, I think we need to build biomutualisms, like I showed,
+674.33	that will increase the pace of basic discovery in their application.
+677.33	To do this though, we need to redesign education in a major way,
+680.33	to balance depth with interdisciplinary communication,
+683.33	and explicitly train people how to contribute to, and benefit from other disciplines.
+688.33	And of course you need the organisms and the environment to do it.
+692.33	That is, whether you care about security, search and rescue or health,
+695.33	we must preserve nature's designs,
+697.33	otherwise these secrets will be lost forever.
+700.33	And from what I heard from our new president,
+704.33	I'm very optimistic. Thank you.
+706.33	(Applause)

@@ -1,0 +1,199 @@
+startsecond	text
+13.343	For more than 100 years,
+15.096	the telephone companies have provided
+15.096	wiretapping assistance to governments.
+19.146	For much of this time,
+19.146	this assistance was manual.
+22.708	Surveillance took place manually
+22.708	and wires were connected by hand.
+26.85	Calls were recorded to tape.
+29.334	But as in so many other industries,
+31.502	computing has changed everything.
+33.725	The telephone companies
+33.725	built surveillance features
+36.772	into the very core of their networks.
+39.494	I want that to sink in for a second:
+41.498	Our telephones and the networks
+41.498	that carry our calls
+45.782	were wired for surveillance first.
+48.179	First and foremost.
+50.763	So what that means is that
+50.763	when you're talking to your spouse,
+54.613	your children, a colleague
+54.613	or your doctor on the telephone,
+58.959	someone could be listening.
+60.901	Now, that someone might
+60.901	be your own government;
+63.49	it could also be another government,
+63.49	a foreign intelligence service,
+67.677	or a hacker, or a criminal, or a stalker
+70.528	or any other party that breaks into
+70.528	the surveillance system,
+74.122	that hacks into the surveillance system
+74.122	of the telephone companies.
+79.834	But while the telephone companies
+79.834	have built surveillance as a priority,
+84.38	Silicon Valley companies have not.
+86.523	And increasingly,
+86.523	over the last couple years,
+89.066	Silicon Valley companies have built
+89.066	strong encryption technology
+92.752	into their communications products
+94.714	that makes surveillance
+94.714	extremely difficult.
+97.416	For example, many of you
+97.416	might have an iPhone,
+99.614	and if you use an iPhone
+99.614	to send a text message
+102.328	to other people who have an iPhone,
+104.529	those text messages
+104.529	cannot easily be wiretapped.
+107.563	And in fact, according to Apple,
+109.415	they're not able to even see
+109.415	the text messages themselves.
+112.662	Likewise, if you use FaceTime
+112.662	to make an audio call
+116.552	or a video call with one of your
+116.552	friends or loved ones,
+119.187	that, too, cannot be easily wiretapped.
+121.34	And it's not just Apple.
+123.315	WhatsApp, which is now owned by Facebook
+125.691	and used by hundreds of millions
+125.691	of people around the world,
+128.573	also has built strong
+128.573	encryption technology into its product,
+132.104	which means that people
+132.104	in the Global South can easily communicate
+135.635	without their governments,
+135.635	often authoritarian,
+138.469	wiretapping their text messages.
+141.599	So, after 100 years of being able
+141.599	to listen to any telephone call --
+146.568	anytime, anywhere --
+149.146	you might imagine that government
+149.146	officials are not very happy.
+152.301	And in fact, that's what's happening.
+154.111	Government officials are extremely mad.
+156.354	And they're not mad because
+156.354	these encryption tools are now available.
+160.253	What upsets them the most
+162.095	is that the tech companies have built
+162.095	encryption features into their products
+166.286	and turned them on by default.
+168.547	It's the default piece that matters.
+170.541	In short, the tech companies
+170.541	have democratized encryption.
+175.165	And so, government officials
+175.165	like British Prime Minister David Cameron,
+178.986	they believe that all communications --
+178.986	emails, texts, voice calls --
+183.857	all of these should be
+183.857	available to governments,
+186.469	and encryption is making that difficult.
+189.478	Now, look -- I'm extremely sympathetic
+189.478	to their point of view.
+192.886	We live in a dangerous time
+192.886	in a dangerous world,
+195.442	and there really are bad people out there.
+197.466	There are terrorists and other
+197.466	serious national security threats
+200.605	that I suspect we all want
+200.605	the FBI and the NSA to monitor.
+205.345	But those surveillance
+205.345	features come at a cost.
+209.357	The reason for that is
+210.536	that there is no such thing
+210.536	as a terrorist laptop,
+213.046	or a drug dealer's cell phone.
+214.902	We all use the same
+214.902	communications devices.
+218.577	What that means is that
+218.577	if the drug dealers' telephone calls
+222.276	or the terrorists' telephone calls
+222.276	can be intercepted,
+224.845	then so can the rest of ours, too.
+226.865	And I think we really need to ask:
+228.516	Should a billion people
+228.516	around the world be using devices
+231.667	that are wiretap friendly?
+235.407	So the scenario of hacking of surveillance
+235.407	systems that I've described --
+239.179	this is not imaginary.
+241.622	In 2009,
+242.798	the surveillance systems that Google
+242.798	and Microsoft built into their networks --
+246.869	the systems that they use to respond
+246.869	to lawful surveillance requests
+250.384	from the police --
+251.574	those systems were compromised
+251.574	by the Chinese government,
+254.266	because the Chinese government
+254.266	wanted to figure out
+256.687	which of their own agents
+256.687	the US government was monitoring.
+260.269	By the same token,
+261.564	in 2004, the surveillance system
+261.564	built into the network
+265.007	of Vodafone Greece --
+265.007	Greece's largest telephone company --
+268.205	was compromised by an unknown entity,
+270.808	and that feature,
+270.808	the surveillance feature,
+272.872	was used to wiretap
+272.872	the Greek Prime Minister
+275.174	and members of the Greek cabinet.
+277.313	The foreign government or hackers
+277.313	who did that were never caught.
+281.955	And really, this gets to the very problem
+281.955	with these surveillance features,
+285.676	or backdoors.
+286.96	When you build a backdoor
+286.96	into a communications network
+290.186	or piece of technology,
+291.511	you have no way of controlling
+291.511	who's going to go through it.
+295.243	You have no way of controlling
+296.712	whether it'll be used by your side
+296.712	or the other side,
+299.506	by good guys, or by bad guys.
+301.98	And so for that reason,
+301.98	I think that it's better
+304.523	to build networks
+304.523	to be as secure as possible.
+308.271	Yes, this means that in the future,
+310.704	encryption is going to make
+310.704	wiretapping more difficult.
+313.28	It means that the police
+313.28	are going to have a tougher time
+315.949	catching bad guys.
+317.309	But the alternative would mean
+317.309	to live in a world
+319.889	where anyone's calls or anyone's
+319.889	text messages could be surveilled
+323.544	by criminals, by stalkers
+323.544	and by foreign intelligence agencies.
+327.294	And I don't want to live
+327.294	in that kind of world.
+330.102	And so right now,
+330.102	you probably have the tools
+332.841	to thwart many kinds
+332.841	of government surveillance
+335.183	already on your phones
+335.183	and already in your pockets,
+338.19	you just might not realize how strong
+338.19	and how secure those tools are,
+341.993	or how weak the other ways
+341.993	you've used to communicate really are.
+346.737	And so, my message to you is this:
+350.11	We need to use these tools.
+352.239	We need to secure our telephone calls.
+354.567	We need to secure our text messages.
+356.95	I want you to use these tools.
+358.626	I want you to tell your loved ones,
+358.626	I want you to tell your colleagues:
+362.006	Use these encrypted communications tools.
+364.454	Don't just use them
+364.454	because they're cheap and easy,
+367.154	but use them because they're secure.
+369.182	Thank you.
+370.461	(Applause)

@@ -1,0 +1,197 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+12.349	Living in Africa is to be on the edge,
+15.543	metaphorically, and quite literally
+18.297	when you think about connectivity before 2008.
+21.929	Though many human intellectual and technological leaps
+25.641	had happened in Europe and the rest of the world,
+28.665	but Africa was sort of cut off.
+31.254	And that changed, first with ships
+33.881	when we had the Renaissance, the Scientific Revolution
+37.158	and also the Industrial Revolution.
+39.259	And now we've got the digital revolution.
+42.286	These revolutions have not been evenly distributed
+45.286	across continents and nations.
+47.619	Never have been.
+50.349	Now, this is a map of the undersea fiber optic cables
+54.114	that connect Africa to the rest of the world.
+57.018	What I find amazing is that Africa
+59.058	is transcending its geography problem.
+61.868	Africa is connecting to the rest of the world
+63.682	and within itself.
+65.518	The connectivity situation has improved greatly,
+68.794	but some barriers remain.
+70.995	It is with this context that Ushahidi came to be.
+74.683	In 2008, one of the problems that we faced
+79.219	was lack of information flow.
+81.757	There was a media blackout in 2008,
+84.053	when there was post-election violence in Kenya.
+86.429	It was a very tragic time. It was a very difficult time.
+89.253	So we came together and we created software
+92.003	called Ushahidi.
+93.569	"And Ushahidi means ""testimony"" or ""witness"" in Swahili."
+97.169	I'm very lucky to work with two amazing collaborators.
+100.339	This is David and Erik.
+102.445	I call them brothers from another mother.
+104.517	Clearly I have a German mother somewhere.
+107.529	And we worked together first with building
+110.118	and growing Ushahidi.
+111.566	And the idea of the software was to gather information
+114.565	from SMS, email and web, and put a map
+117.338	so that you could see what was happening where,
+120.253	and you could visualize that data.
+122.357	And after that initial prototype,
+124.613	we set out to make free and open-source software
+127.108	so that others do not have to start from scratch like we did.
+131.959	All the while, we also wanted to give back
+133.93	to the local tech community that helped us
+136.162	grow Ushahidi and supported us in those early days.
+139.667	And that's why we set up the iHub in Nairobi,
+142.25	an actual physical space
+144.274	where we could collaborate,
+146.74	and it is now part of an integral tech ecosystem in Kenya.
+151.297	We did that with the support of different organizations
+154.067	like the MacArthur Foundation and Omidyar Network.
+157.072	And we were able to grow this software footprint,
+160.249	and a few years later it became
+163.015	very useful software,
+165.712	and we were quite humbled when it was used in Haiti
+168.939	where citizens could indicate where they are
+172.008	and what their needs were,
+173.402	and also to deal with the fallout from the nuclear crisis
+176.699	and the tsunami in Japan.
+178.738	Now, this year the Internet turns 20,
+182.132	and Ushahidi turned five.
+184.414	Ushahidi is not only the software that we made.
+187.215	It is the team, and it's also the community
+190.272	that uses this technology in ways that we could not foresee.
+194.557	We did not imagine that there would be this many maps
+197.877	around the world.
+199.388	There are crisis maps, election maps, corruption maps,
+202.91	and even environmental monitoring crowd maps.
+206.437	We are humbled that this has roots in Kenya
+209.893	and that it has some use to people around the world
+212.609	trying to figure out the different issues that they're dealing with.
+215.96	There is more that we're doing to explore this idea
+218.831	of collective intelligence, that I, as a citizen,
+221.446	if I share the information with whatever device that I have,
+224.382	could inform you about what is going on,
+226.925	and that if you do the same, we can have a bigger picture
+229.783	of what's going on.
+231.627	I moved back to Kenya in 2011.
+233.688	Erik moved in 2010.
+235.836	Very different reality. I used to live in Chicago
+237.983	where there was abundant Internet access.
+240.133	I had never had to deal with a blackout.
+242.965	And in Kenya, it's a very different reality,
+245.849	and one thing that remains despite the leaps in progress
+248.946	and the digital revolution is the electricity problem.
+252.73	The day-to-day frustrations of dealing with this
+255.501	can be, let's just say very annoying.
+258.737	Blackouts are not fun.
+260.702	Imagine sitting down to start working, and all of a sudden
+263.615	the power goes out,
+265.295	your Internet connection goes down with it,
+267.97	so you have to figure out, okay, now, where's the modem,
+271.618	how do I switch back?
+273.607	And then, guess what? You have to deal with it again.
+276.325	Now, this is the reality of Kenya, where we live now,
+279.517	and other parts of Africa.
+281.882	The other problem that we're facing
+283.838	is that communication costs are also still a challenge.
+288.125	It costs me five Kenyan shillings,
+290.289	or .06 USD to call the U.S., Canada or China.
+296.342	Guess how much it costs to call Rwanda, Ghana, Nigeria?
+300.912	Thirty Kenyan shillings. That's six times the cost
+304.186	to connect within Africa.
+306.296	And also, when traveling within Africa,
+308.43	you've got different settings for different mobile providers.
+311.696	This is the reality that we deal with.
+314.405	So we've got a joke in Ushahidi
+317.02	"where we say, ""If it works in Africa, it'll work anywhere."""
+321.818	[Most use technology to define the function. We use function to drive the technology.]
+323.97	What if we could overcome the problem
+326.216	of unreliable Internet and electricity
+330.081	and reduce the cost of connection?
+332.106	Could we leverage the cloud?
+334.072	We've built a crowd map, we've built Ushahidi.
+335.903	Could we leverage these technologies
+338.328	to switch smartly whenever you travel from country to country?
+343.393	So we looked at the modem,
+344.691	an important part of the infrastructure of the Internet,
+347.97	and asked ourselves why
+350.481	the modems that we are using right now
+352.436	are built for a different context, where you've got
+354.66	ubiquitous internet, you've got ubiquitous electricity,
+358.615	yet we sit here in Nairobi and we do not have that luxury.
+363.652	We wanted to redesign the modem
+366.149	for the developing world, for our context,
+369.196	and for our reality.
+371.107	What if we could have connectivity with less friction?
+374.784	This is the BRCK.
+378.313	It acts as a backup to the Internet
+381.217	so that, when the power goes out,
+384.994	it fails over and connects to the nearest GSM network.
+391.142	Mobile connectivity in Africa is pervasive.
+393.983	It's actually everywhere.
+396.323	Most towns at least have a 3G connection.
+399.251	So why don't we leverage that? And that's why we built this.
+402.16	The other reason that we built this
+404.358	is when electricity goes down, this has eight hours
+406.944	of battery left, so you can continue working,
+408.958	you can continue being productive,
+411.046	and let's just say you are less stressed.
+415.268	And for rural areas, it can be
+417.598	the primary means of connection.
+419.701	The software sensibility at Ushahidi is still at play
+422.437	when we wondered how can we use the cloud
+425.496	to be more intelligent so that
+427.438	you can analyze the different networks,
+429.823	and whenever you switch on the backup,
+432.962	you pick on the fastest network,
+435.471	so we'll have multi-SIM capability
+437.87	so that you can put multiple SIMs,
+439.966	and if one network is faster, that's the one you hop on,
+443.38	and if the up time on that is not very good,
+446.729	then you hop onto the next one.
+449.144	The idea here is for you to be able to connect anywhere.
+452.881	With load balancing, this can be possible.
+455.769	The other interesting thing for us -- we like sensors --
+459.622	is this idea that you could have an on-ramp
+463.05	for the Internet of things.
+464.977	Imagine a weather station that can be attached to this.
+468.597	It's built in a modular way so that you can also attach
+471.336	a satellite module so that you could have
+473.106	Internet connectivity even in very remote areas.
+476.631	Out of adversity can come innovation,
+479.376	and how can we help the ambitious coders and makers
+483.415	in Kenya to be resilient in the face of problematic infrastructure?
+487.494	And for us, we begin with solving the problem
+489.75	in our own backyard in Kenya.
+492.694	It is not without challenge.
+495.094	Our team has basically been mules carrying components
+497.847	from the U.S. to Kenya. We've had very interesting conversations
+501.041	with customs border agents.
+502.969	"""What are you carrying?"""
+504.767	And the local financing is not
+507.537	part of the ecosystem for supporting hardware projects.
+512.888	So we put it on Kickstarter, and I'm happy to say that,
+515.607	through the support of many people,
+517.848	not only here but online,
+519.847	the BRCK has been Kickstarted,
+522.102	and now the interesting part of bringing this to market begins.
+526.192	I will close by saying that, if we solve this
+529.086	for the local market, it could be impactful
+531.646	not only for the coders in Nairobi
+534.096	but also for small business owners
+536.448	who need reliable connectivity,
+539.112	and it can reduce the cost of connecting,
+541.312	and hopefully collaboration within African countries.
+545.992	The idea is that the building blocks of the digital economy
+550.964	are connectivity and entrepreneurship.
+554.483	The BRCK is our part
+556.923	to keep Africans connected,
+559.507	and to help them drive the global digital revolution.
+563.291	Thank you.
+564.505	(Applause)

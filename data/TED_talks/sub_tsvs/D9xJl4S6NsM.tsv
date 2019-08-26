@@ -1,0 +1,292 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.89	So raise your hand if you know someone
+19.118	in your immediate family or circle of friends
+21.765	who suffers from some form of mental illness.
+25.253	Yeah. I thought so. Not surprised.
+28.037	And raise your hand if you think that
+30.332	basic research on fruit flies has anything to do
+33.157	with understanding mental illness in humans.
+37.619	Yeah. I thought so. I'm also not surprised.
+40.412	I can see I've got my work cut out for me here.
+43.732	As we heard from Dr. Insel this morning,
+46.32	psychiatric disorders like autism, depression and schizophrenia
+50.533	take a terrible toll on human suffering.
+53.408	We know much less about their treatment
+56.621	and the understanding of their basic mechanisms
+59.227	than we do about diseases of the body.
+61.846	Think about it: In 2013,
+64.489	the second decade of the millennium,
+66.444	if you're concerned about a cancer diagnosis
+68.809	and you go to your doctor, you get bone scans,
+71.328	biopsies and blood tests.
+74.256	In 2013, if you're concerned about a depression diagnosis,
+78.121	you go to your doctor, and what do you get?
+80.084	A questionnaire.
+82.071	Now, part of the reason for this is that we have
+84.5	an oversimplified and increasingly outmoded view
+88.323	of the biological basis of psychiatric disorders.
+92.21	We tend to view them --
+93.453	and the popular press aids and abets this view --
+96.298	as chemical imbalances in the brain,
+99.314	as if the brain were some kind of bag of chemical soup
+102.998	full of dopamine, serotonin and norepinephrine.
+107.198	This view is conditioned by the fact
+109.525	that many of the drugs that are prescribed to treat these disorders,
+112.931	like Prozac, act by globally changing brain chemistry,
+117.602	as if the brain were indeed a bag of chemical soup.
+121.578	But that can't be the answer,
+123.479	because these drugs actually don't work all that well.
+126.716	A lot of people won't take them, or stop taking them,
+129.892	because of their unpleasant side effects.
+132.549	These drugs have so many side effects
+134.609	because using them to treat a complex psychiatric disorder
+138.565	is a bit like trying to change your engine oil
+141.254	by opening a can and pouring it all over the engine block.
+145.367	Some of it will dribble into the right place,
+147.517	but a lot of it will do more harm than good.
+150.618	Now, an emerging view
+152.856	that you also heard about from Dr. Insel this morning,
+155.806	is that psychiatric disorders are actually
+158.376	disturbances of neural circuits that mediate
+161.85	emotion, mood and affect.
+165.369	When we think about cognition,
+167.131	we analogize the brain to a computer. That's no problem.
+170.707	Well it turns out that the computer analogy
+173.288	is just as valid for emotion.
+175.671	It's just that we don't tend to think about it that way.
+178.457	But we know much less about the circuit basis
+181.74	of psychiatric disorders
+183.639	because of the overwhelming dominance
+185.709	of this chemical imbalance hypothesis.
+189.061	Now, it's not that chemicals are not important
+192.888	in psychiatric disorders.
+194.425	It's just that they don't bathe the brain like soup.
+198.397	Rather, they're released in very specific locations
+202.046	and they act on specific synapses
+204.771	to change the flow of information in the brain.
+208.459	So if we ever really want to understand
+210.896	the biological basis of psychiatric disorders,
+213.601	we need to pinpoint these locations in the brain
+216.633	where these chemicals act.
+218.367	Otherwise, we're going to keep pouring oil all over our mental engines
+221.846	and suffering the consequences.
+224.803	Now to begin to overcome our ignorance
+227.862	of the role of brain chemistry in brain circuitry,
+231.396	it's helpful to work on what we biologists call
+234.076	"""model organisms,"""
+235.655	animals like fruit flies and laboratory mice,
+238.989	in which we can apply powerful genetic techniques
+242.414	to molecularly identify and pinpoint
+246.039	specific classes of neurons,
+247.602	as you heard about in Allan Jones's talk this morning.
+250.505	Moreover, once we can do that,
+252.966	we can actually activate specific neurons
+255.715	or we can destroy or inhibit the activity of those neurons.
+259.926	So if we inhibit a particular type of neuron,
+262.64	and we find that a behavior is blocked,
+265.105	we can conclude that those neurons
+267.319	are necessary for that behavior.
+270.283	On the other hand, if we activate a group of neurons
+272.665	and we find that that produces the behavior,
+275.479	we can conclude that those neurons are sufficient for the behavior.
+279.553	So in this way, by doing this kind of test,
+282.562	we can draw cause and effect relationships
+286.085	between the activity of specific neurons
+288.441	in particular circuits and particular behaviors,
+291.354	something that is extremely difficult, if not impossible,
+293.791	to do right now in humans.
+298.842	But can an organism like a fruit fly, which is --
+301.679	it's a great model organism
+303.879	because it's got a small brain,
+306.417	it's capable of complex and sophisticated behaviors,
+310.204	it breeds quickly, and it's cheap.
+313.354	But can an organism like this
+315.149	teach us anything about emotion-like states?
+318.992	Do these organisms even have emotion-like states,
+322.292	or are they just little digital robots?
+325.655	Charles Darwin believed that insects have emotion
+328.855	and express them in their behaviors, as he wrote
+331.405	in his 1872 monograph on the expression of the emotions in man and animals.
+336.598	And my eponymous colleague, Seymour Benzer, believed it as well.
+340.117	Seymour is the man that introduced the use of drosophila
+343.531	here at CalTech in the '60s as a model organism
+347.054	to study the connection between genes and behavior.
+350.651	Seymour recruited me to CalTech in the late 1980s.
+354.258	He was my Jedi and my rabbi while he was here,
+358.692	and Seymour taught me both to love flies
+361.08	and also to play with science.
+364.129	So how do we ask this question?
+367.245	It's one thing to believe that flies have emotion-like states,
+371.305	but how do we actually find out whether that's true or not?
+374.468	Now, in humans we often infer emotional states,
+378.418	as you'll hear later today, from facial expressions.
+382.323	However, it's a little difficult to do that in fruit flies.
+386.043	(Laughter)
+389.356	It's kind of like landing on Mars
+392.493	and looking out the window of your spaceship
+395.198	at all the little green men who are surrounding it
+397.668	"and trying to figure out, ""How do I find out"
+400.074	"if they have emotions or not?"""
+402.429	What can we do? It's not so easy.
+405.972	Well, one of the ways that we can start
+408.157	is to try to come up with some general characteristics
+412.282	or properties of emotion-like states
+416.03	such as arousal, and see if we can identify
+419.494	any fly behaviors that might exhibit some of those properties.
+424.87	So three important ones that I can think of
+427.69	are persistence, gradations in intensity, and valence.
+432.362	Persistence means long-lasting.
+434.696	We all know that the stimulus that triggers an emotion
+438.657	causes that emotion to last long after the stimulus is gone.
+443.673	Gradations of intensity means what it sounds like.
+446.763	You can dial up the intensity or dial down the intensity of an emotion.
+451.346	If you're a little bit unhappy, the corners of your mouth
+453.946	turn down and you sniffle,
+455.633	and if you're very unhappy, tears pour down your face
+458.771	and you might sob.
+460.603	Valence means good or bad, positive or negative.
+464.982	So we decided to see if flies could be provoked into showing
+469.434	the kind of behavior that you see
+471.885	by the proverbial wasp at the picnic table,
+474.695	you know, the one that keeps coming back to your hamburger
+477.38	the more vigorously you try to swat it away,
+479.909	and it seems to keep getting irritated.
+482.193	So we built a device, which we call a puff-o-mat,
+485.84	in which we could deliver little brief air puffs to fruit flies
+490.185	in these plastic tubes in our laboratory bench
+492.961	and blow them away.
+494.686	And what we found is that if we gave these flies
+497.925	in the puff-o-mat several puffs in a row,
+500.773	they became somewhat hyperactive
+503.462	and continued to run around for some time after the air puffs actually stopped
+507.897	and took a while to calm down.
+510.761	So we quantified this behavior
+512.95	using custom locomotor tracking software
+515.962	developed with my collaborator Pietro Perona,
+518.762	who's in the electrical engineering division here at CalTech.
+522.374	And what this quantification showed us is that,
+525.188	upon experiencing a train of these air puffs,
+528.412	the flies appear to enter a kind of state of hyperactivity
+532.726	which is persistent, long-lasting,
+535.324	and also appears to be graded.
+537.828	More puffs, or more intense puffs,
+540.687	make the state last for a longer period of time.
+544.6	So now we wanted to try to understand something
+546.636	about what controls the duration of this state.
+550.35	So we decided to use our puff-o-mat
+553.201	and our automated tracking software
+555.256	to screen through hundreds of lines of mutant fruit flies
+559.038	to see if we could find any that showed abnormal responses to the air puffs.
+564.117	And this is one of the great things about fruit flies.
+566.464	There are repositories where you can just pick up the phone
+569.257	and order hundreds of vials of flies of different mutants
+572.898	and screen them in your assay and then find out
+575.07	what gene is affected in the mutation.
+578.389	So doing the screen, we discovered one mutant
+581.901	that took much longer than normal to calm down
+585.375	after the air puffs,
+587.652	and when we examined the gene that was affected in this mutation,
+591.602	it turned out to encode a dopamine receptor.
+595.207	That's right -- flies, like people, have dopamine,
+598.218	and it acts on their brains and on their synapses
+600.99	through the same dopamine receptor molecules
+603.54	that you and I have.
+605.929	Dopamine plays a number of important functions in the brain,
+609.415	including in attention, arousal, reward,
+612.528	and disorders of the dopamine system have been linked
+615.941	to a number of mental disorders including drug abuse,
+619.041	Parkinson's disease, and ADHD.
+623.275	Now, in genetics, it's a little counterintuitive.
+626.065	We tend to infer the normal function of something
+629.325	by what doesn't happen when we take it away,
+633.035	by the opposite of what we see when we take it away.
+636.038	So when we take away the dopamine receptor
+639.051	and the flies take longer to calm down,
+641.608	from that we infer that the normal function of this receptor and dopamine
+645.454	is to cause the flies to calm down faster after the puff.
+649.939	And that's a bit reminiscent of ADHD,
+652.889	which has been linked to disorders of the dopamine system in humans.
+656.864	Indeed, if we increase the levels of dopamine in normal flies
+661.47	by feeding them cocaine
+663.18	after getting the appropriate DEA license
+666.152	— oh my God -- (Laughter) —
+670.152	we find indeed that these cocaine-fed flies
+673.324	calm down faster than normal flies do,
+676.366	and that's also reminiscent of ADHD,
+679.565	which is often treated with drugs like Ritalin
+681.61	that act similarly to cocaine.
+684.629	So slowly I began to realize that what started out
+687.778	as a rather playful attempt to try to annoy fruit flies
+691.427	might actually have some relevance to a human psychiatric disorder.
+695.403	Now, how far does this analogy go?
+697.629	As many of you know, individuals afflicted with ADHD
+700.751	also have learning disabilities.
+703.088	Is that true of our dopamine receptor mutant flies?
+706.654	Remarkably, the answer is yes.
+709.374	As Seymour showed back in the 1970s,
+712.002	flies, like songbirds, as you just heard,
+714.453	are capable of learning.
+716.186	You can train a fly to avoid an odor, shown here in blue,
+720.629	if you pair that odor with a shock.
+723.017	Then when you give those trained flies the chance to choose
+726.401	between a tube with the shock-paired odor and another odor,
+729.555	it avoids the tube containing the blue odor that was paired with shock.
+733.755	Well, if you do this test on dopamine receptor mutant flies,
+737.257	they don't learn. Their learning score is zero.
+739.722	They flunk out of CalTech.
+743.533	So that means that these flies have two abnormalities,
+748.281	or phenotypes, as we geneticists call them,
+751.331	that one finds in ADHD: hyperactivity and learning disability.
+756.843	Now what's the causal relationship, if anything, between these phenotypes?
+761.206	In ADHD, it's often assumed that the hyperactivity
+765.119	causes the learning disability.
+767.025	The kids can't sit still long enough to focus, so they don't learn.
+770.744	But it could equally be the case that it's the learning disabilities
+774.04	that cause the hyperactivity.
+775.912	Because the kids can't learn, they look for other things to distract their attention.
+780.382	And a final possibility is that there's no relationship at all
+783.439	between learning disabilities and hyperactivity,
+785.843	but that they are caused by a common underlying mechanism in ADHD.
+790.758	Now people have been wondering about this for a long time
+793.1	in humans, but in flies we can actually test this.
+796.588	And the way that we do this is to delve deeply into the mind
+799.672	of the fly and begin to untangle its circuitry using genetics.
+803.938	We take our dopamine receptor mutant flies
+806.4	and we genetically restore, or cure, the dopamine receptor
+810.964	by putting a good copy of the dopamine receptor gene
+814.199	back into the fly brain.
+816.25	But in each fly, we put it back only into certain neurons
+820.085	and not in others, and then we test each of these flies
+823.799	for their ability to learn and for hyperactivity.
+827.467	Remarkably, we find we can completely dissociate these two abnormalities.
+832.285	If we put a good copy of the dopamine receptor back
+834.948	in this elliptical structure called the central complex,
+837.909	the flies are no longer hyperactive, but they still can't learn.
+841.986	On the other hand, if we put the receptor back in a different structure
+844.712	called the mushroom body,
+846.23	the learning deficit is rescued, the flies learn well,
+849.315	but they're still hyperactive.
+851.145	What that tells us is that dopamine
+853.395	is not bathing the brain of these flies like soup.
+856.787	Rather, it's acting to control two different functions
+859.949	on two different circuits,
+861.583	so the reason there are two things wrong with our dopamine receptor flies
+865.487	is that the same receptor is controlling two different functions
+869.662	in two different regions of the brain.
+872.525	Whether the same thing is true in ADHD in humans
+875.587	we don't know, but these kinds of results
+877.963	should at least cause us to consider that possibility.
+881.44	So these results make me and my colleagues more convinced than ever
+885.413	that the brain is not a bag of chemical soup,
+888.825	and it's a mistake to try to treat complex psychiatric disorders
+892.352	just by changing the flavor of the soup.
+895.063	What we need to do is to use our ingenuity and our scientific knowledge
+899.28	to try to design a new generation of treatments
+901.988	that are targeted to specific neurons and specific regions of the brain
+906.276	that are affected in particular psychiatric disorders.
+909.614	If we can do that, we may be able to cure these disorders
+912.814	without the unpleasant side effects,
+914.861	putting the oil back in our mental engines,
+917.607	just where it's needed. Thank you very much.

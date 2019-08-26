@@ -1,0 +1,94 @@
+startsecond	text
+12.92	I was born and raised in Sierra Leone,
+17.126	a small and very beautiful country
+19.371	in West Africa,
+21.076	a country rich both in physical resources
+23.98	and creative talent.
+26.312	However, Sierra Leone is infamous
+28.274	for a decade-long rebel war in the '90s
+30.688	when entire villages were burnt down.
+33.778	An estimated 8,000 men, women and children
+37.99	had their arms and legs amputated during this time.
+42.256	As my family and I ran for safety
+45.24	when I was about 12 from one of those attacks,
+47.932	I resolved that I would do everything I could
+51.364	to ensure that my own children
+53.644	would not go through the 
+53.644	same experiences we had.
+57.03	They would, in fact, be part of a Sierra Leone
+59.644	where war and amputation
+62.132	were no longer a strategy for gaining power.
+66.838	As I watched people who I knew, loved ones,
+70.571	recover from this devastation,
+72.462	one thing that deeply troubled me
+75.126	was that many of the amputees in the country
+77.63	would not use their prostheses.
+79.686	The reason, I would come to find out,
+81.642	was that their prosthetic sockets
+83.977	were painful because they did not fit well.
+89.437	The prosthetic socket is the part
+91.623	in which the amputee inserts their residual limb,
+95.019	and which connects to the prosthetic ankle.
+97.299	Even in the developed world,
+99.037	it takes a period of three weeks to often years
+102.529	for a patient to get a comfortable socket, if ever.
+106.791	Prosthetists still use conventional processes
+109.673	like molding and casting
+112.029	to create single-material prosthetic sockets.
+115.747	Such sockets often leave intolerable amounts
+118.535	of pressure on the limbs of the patient,
+121.363	leaving them with pressure sores and blisters.
+125.663	It does not matter
+127.775	how powerful your prosthetic ankle is.
+130.997	If your prosthetic socket is uncomfortable,
+133.693	you will not use your leg,
+135.265	and that is just simply unacceptable in our age.
+139.145	So one day, when I met professor Hugh Herr
+141.565	about two and a half years ago,
+143.09	and he asked me if I knew 
+143.09	how to solve this problem,
+145.577	"I said, ""No, not yet,"
+147.677	"but I would love to figure it out."""
+150.287	And so, for my Ph.D. at the MIT Media Lab,
+153.577	I designed custom prosthetic sockets
+156.47	quickly and cheaply
+159.377	that are more comfortable
+161.232	than conventional prostheses.
+164.229	I used magnetic resonance imaging
+166.471	to capture the actual shape of the patient's anatomy,
+170.36	then use finite element modeling to better predict
+173.464	the internal stresses and strains
+175.407	on the normal forces,
+177.405	and then create a prosthetic socket for manufacture.
+182.018	We use a 3D printer to create
+185.432	a multi-material prosthetic socket
+189.248	which relieves pressure where needed
+191.714	on the anatomy of the patient.
+195.246	In short, we're using data
+198.177	to make novel sockets quickly and cheaply.
+201.976	In a recent trial we just wrapped up
+203.772	at the Media Lab,
+205.534	one of our patients, a U.S. veteran
+208.044	who has been an amputee for about 20 years
+210.97	and worn dozens of legs,
+214.052	said of one of our printed parts,
+218.14	"""It's so soft, it's like walking on pillows,"
+221.544	"and it's effing sexy."""
+224.48	(Laughter)
+228.198	Disability in our age
+231.474	should not prevent anyone
+233.107	from living meaningful lives.
+235.97	My hope and desire is that the tools and processes
+239.313	we develop in our research group
+241.311	can be used to bring highly functional prostheses
+244.249	to those who need them.
+246.54	For me, a place to begin healing the souls
+251.991	of those affected by war and disease
+255.88	is by creating comfortable and affordable interfaces
+259.629	for their bodies.
+261.585	Whether it's in Sierra Leone or in Boston,
+264.813	I hope this not only restores
+268.419	but indeed transforms their
+268.419	sense of human potential.
+271.68	Thank you very much.
+274.591	(Applause)

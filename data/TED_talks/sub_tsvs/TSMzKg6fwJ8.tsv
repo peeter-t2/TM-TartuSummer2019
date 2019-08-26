@@ -1,0 +1,773 @@
+startsecond	text
+18.33	Right when I was 15 was when
+18.33	I first got interested in solar energy.
+22.049	My family had moved from Fort Lee,
+22.049	New Jersey to California,
+24.93	from the snow to lots of heat,
+24.93	and gas lines.
+27.29	There was gas rationing in 1973.
+29.69	The energy crisis was in full bore.
+31.77	I started reading
+31.77	"""Popular Science"" magazine,"
+33.93	and I got really excited
+33.93	about the potential of solar energy
+36.81	to try and solve that crisis.
+38.57	I had just taken
+38.57	trigonometry in high school,
+40.73	I learned about the parabola
+42.13	and how it could concentrate
+42.13	rays of light to a single focus.
+45.05	That got me very excited.
+46.65	And I really felt
+46.65	that there would be potential
+48.89	to build some kind of thing
+48.89	that could concentrate light.
+51.61	So, I started this company
+51.61	called Solar Devices.
+54.33	And this was a company
+54.33	where I built parabolas,
+56.61	I took metal shop,
+57.89	and I remember walking into metal shop
+57.89	building parabolas and Stirling engines.
+61.65	And I was building a Stirling engine
+61.65	over on the lathe,
+64.29	and all the motorcycle guys said,
+64.29	"""You're building a bong, aren't you?"""
+67.65	"And I said, ""No, it's a Stirling engine."""
+67.65	But they didn't believe me.
+70.93	I sold the plans for this engine
+73.01	and for this dish in the back
+73.01	"of ""Popular Science"" magazine,"
+75.89	for four dollars each.
+77.33	And I earned enough money
+77.33	to pay for my first year of Caltech.
+80.29	It was a really big excitement for me
+80.29	to get into Caltech.
+83.05	And at my first year at Caltech,
+83.05	I continued the business.
+86.13	But then, in the second year of Caltech,
+86.13	they started grading.
+89.09	The whole first year was pass/fail,
+89.09	but the second year was graded.
+92.29	I wasn't able to keep up
+92.29	with the business,
+94.37	and I ended up with a 25-year detour.
+96.21	My dream had been to convert solar energy
+96.21	at a very practical cost,
+99.41	but then I had this big detour.
+100.97	First, the coursework at Caltech.
+102.61	Then, when I graduated from Caltech,
+102.61	the IBM PC came out,
+105.37	and I got addicted to the IBM PC in 1981.
+107.45	And then in 1983, Lotus 1-2-3 came out,
+109.81	and I was completely blown away
+109.81	by Lotus 1-2-3.
+112.05	I began operating my business with 1-2-3,
+112.05	began writing add-ins for 1-2-3,
+116.25	wrote a natural language
+116.25	interface to 1-2-3.
+118.61	I started an educational software company
+118.61	after I joined Lotus,
+121.61	and then I started Idealab
+121.61	so I could have a roof
+123.97	under which I could build
+123.97	multiple companies in succession.
+127.13	Much later -- in 2000, very recently --
+127.13	the new California energy crisis --
+131.534	what was purported to be
+131.534	a big energy crisis -- was coming.
+134.389	And I was trying to figure out
+135.87	if we could build something
+135.87	that would capitalize on that
+138.591	and get people backup energy,
+138.591	in case the crisis really came.
+141.5	And I started looking at how
+141.5	we could build battery backup systems
+144.635	that could give people five hours,
+147.83	or three days' worth of backup power.
+149.77	I'm glad you heard earlier today,
+149.77	batteries are unbelievably --
+152.81	lack density compared to fuel.
+155.81	So much more energy can be stored
+155.81	with fuel than with batteries.
+158.85	You'd have to fill your entire
+158.85	parking space of one garage space
+161.93	just to give yourself
+161.93	four hours of battery backup.
+164.37	And I concluded, after researching
+164.37	every other technology
+167.09	that we could deploy for storing energy --
+169.13	flywheels, different
+169.13	formulations of batteries --
+171.49	it just wasn't practical to store energy.
+173.89	So what about making energy?
+173.89	Maybe we could make energy.
+176.57	I tried to figure out --
+176.57	maybe solar's become attractive.
+179.29	It's been 25 years since I was doing this,
+181.37	let me go back and look
+181.37	at what's been happening with solar cells.
+184.53	And the price had gone down
+184.53	from 10 dollars a watt
+186.93	to about four or five dollars a watt,
+186.93	but it stabilized.
+189.61	And it needed to get much lower
+189.61	to be cost-effective.
+192.13	I studied all the new things
+192.13	that had happened in solar cells,
+195.059	and was looking for ways we could
+195.059	make solar cells more inexpensively.
+198.45	A lot of new things
+198.45	are happening to do that,
+200.85	but fundamentally, the process
+200.85	requires a tremendous amount of energy.
+204.21	Some people say it takes
+204.21	more energy to make a solar cell
+206.93	than it will give out in its entire life.
+208.93	If we reduce the amount of energy
+208.93	it takes to make the cells,
+211.85	that will become more practical.
+213.45	But right now, you pretty much
+213.45	have to take silicon,
+215.93	put it in an oven at 1600 F
+215.93	for 17 hours, to make the cells.
+219.53	A lot of people are working
+219.53	to try and reduce that,
+221.97	but I didn't have anything to contribute.
+223.97	So I tried to figure out
+223.97	what other way could we try
+226.45	to make cost-effective solar electricity.
+228.65	What if we collect the sun
+228.65	with a large reflector --
+231.13	like I had been thinking about
+231.13	in high school,
+233.33	but maybe with modern technology
+233.33	we could make it cheaper --
+236.17	concentrate it to a small converter,
+238.25	and then the conversion device
+238.25	wouldn't have to be as expensive,
+241.33	because it's much smaller,
+241.33	rather than solar cells,
+243.81	which have to cover the entire surface
+243.81	that you want to gather sun from.
+247.25	This seemed practical now,
+248.53	because a lot of new technologies
+248.53	had come in the 25 years
+251.29	since I had last looked at it.
+252.77	There was a lot
+252.77	of new manufacturing techniques,
+255.05	not to mention really cheap
+255.05	miniature motors --
+257.29	brushless motors,
+257.29	servomotors, stepper motors,
+259.49	that are used in printers and scanners.
+261.41	So, that's a breakthrough.
+262.69	Of course, inexpensive microprocessors
+264.57	and a very important breakthrough --
+264.57	genetic algorithms.
+267.49	I'll be very short on genetic algorithms.
+269.49	It's a powerful way of solving intractable
+269.49	problems using natural selection.
+273.09	You take a problem that you can't solve
+273.09	with a pure mathematical answer,
+276.53	you build an evolutionary system
+276.53	to try multiple tries at guessing,
+279.729	you add sex --
+280.97	where you take half of one solution
+280.97	and half of another
+283.61	and then make new mutations --
+285.09	and you use natural selection
+285.09	to kill off not-as-good solutions.
+288.17	Usually, with a genetic algorithm
+288.17	on a computer today,
+290.77	with a three gigahertz processor,
+292.53	you can solve many
+292.53	formerly intractable problems
+295.283	in just a matter of minutes.
+296.81	So we tried to come up with a way
+296.81	to use genetic algorithms
+299.89	to create a new type of concentrator.
+301.73	And I'll show you what we came up with.
+303.65	Traditionally,
+303.65	concentrators look like this.
+305.77	Those shapes are parabolas.
+307.13	They take all the parallel incoming rays
+307.13	and focus it to a single spot.
+310.53	They have to track the sun,
+311.85	because they have to point
+311.85	directly at the sun.
+314.09	They usually have
+314.09	a one degree acceptance angle --
+316.49	once they're more than a degree off,
+318.25	none of the sunlight rays
+318.25	will hit the focus.
+320.41	So we tried to come up
+320.41	with a non-tracking collector
+322.89	that would gather much more than
+322.89	one degree of light, with no moving parts.
+326.45	So we created a genetic algorithm
+326.45	to try this out,
+328.85	we made a model in Excel
+328.85	of a multisurface reflector,
+331.45	and an amazing thing evolved, literally,
+333.53	from trying a billion cycles,
+333.53	a billion different attempts,
+336.37	with a fitness function that defined
+336.37	how can you collect the most light,
+339.81	from the most angles,
+339.81	over a day, from the sun.
+342.05	And this is the shape that evolved.
+343.77	It's this non-tracking collector
+343.77	with these six tuba-like horns,
+347.45	and each of them collect light
+347.45	in the following way --
+350.01	if the sunlight strikes right here,
+351.73	it might bounce right to the center,
+351.73	the hot spot, directly,
+354.61	but if the sun is off axis
+354.61	and comes from the side,
+357.05	it might hit two places
+357.05	and take two bounces.
+359.49	So for direct light,
+359.49	it takes only one bounce,
+362.33	for off-axis light it might take two,
+364.25	and for extreme off-axis,
+364.25	it might take three.
+366.77	Your efficiency goes down
+366.77	with more bounces,
+368.89	because you lose about 10 percent
+368.89	with each bounce,
+371.33	but this allowed us to collect light
+371.33	from a plus or minus 25-degree angle.
+375.21	So, about two and a half hours of the day
+377.41	we could collect
+377.41	with a stationary component.
+379.77	Solar cells collect light
+379.77	for four and a half hours though.
+382.57	On an average adjusted day,
+382.57	a solar cell --
+384.85	because the sun's moving across the sky,
+386.81	the solar cell is going down
+386.81	with a sine wave function of performance
+390.09	at the off-axis angles.
+391.37	It collects about four and a half
+391.37	average hours of sunlight a day.
+394.53	So even this, although it was great
+394.53	with no moving parts --
+397.33	we could achieve high
+397.33	temperatures -- wasn't enough.
+399.81	We needed to beat solar cells.
+401.29	So we took a look at another idea.
+402.97	We looked at a way to break up a parabola
+402.97	into individual petals that would track.
+406.852	So what you see here is 12 separate petals
+409.25	that each could be controlled
+409.25	with individual microprocessors
+412.17	that would only cost a dollar.
+413.65	You can buy a two-megahertz
+413.65	microprocessor for a dollar now.
+416.69	And you can buy stepper motors
+416.69	that pretty much never wear out
+419.89	because they have no brushes,
+421.53	for a dollar.
+422.77	So we can control all 12 of these petals
+422.77	for under 50 dollars
+426.45	and what this would allow us to do
+426.45	is not have to move the focus any more,
+429.97	but only move the petals.
+431.25	The whole system would have
+431.25	a much lower profile,
+433.61	but also we could gather sunlight
+433.61	for six and a half to seven hours a day.
+437.13	Now that we have concentrated sunlight,
+439.05	what are we going to put at the center
+439.05	to convert sunlight to electricity?
+442.57	So we tried to look
+442.57	at all the different heat engines
+445.09	that have been used in history to convert
+445.09	sunlight or heat to electricity,
+449.93	And one of the great ones of all time,
+451.81	James Watt's steam engine of 1788
+451.81	was a major breakthrough.
+455.01	James Watt didn't actually invent
+455.01	the steam engine, he just refined it.
+458.37	But his refinements were incredible.
+460.13	He added new linear
+460.13	motion guides to the pistons,
+462.49	he added a condenser
+462.49	to cool the steam outside the cylinder,
+465.37	he made the engine double-acting,
+465.37	so it had double the power.
+468.29	Those were major breakthroughs.
+468.29	All of the improvements he made --
+471.45	and it's justifiable
+471.45	that our measure of energy, the watt,
+474.89	today is named after him.
+476.45	So we looked at this engine,
+476.45	and this had some potential.
+479.17	Steam engines are dangerous,
+480.57	and they had tremendous impact
+480.57	on the world --
+482.77	industrial revolution
+482.77	and ships and locomotives.
+485.05	But they're usually good to be large,
+486.89	so they're not good
+486.89	for distributed power generation.
+489.41	They're also very high-pressure,
+489.41	so they're dangerous.
+491.97	Another type of engine
+491.97	is the hot air engine.
+494.57	And the hot air engine
+494.57	also was not invented by Robert Stirling,
+497.65	but Robert Stirling came along in 1816
+497.65	and radically improved it.
+500.73	This engine, because it was
+500.73	so interesting --
+502.89	it only worked on air, no steam --
+504.57	has led to hundreds
+504.57	of creative designs over the years
+507.33	that use the Stirling engine principle.
+509.69	But after the Stirling engine,
+509.69	Otto came along,
+511.93	and also, he didn't invent
+511.93	the internal combustion engine,
+514.69	he just refined it.
+515.93	He showed it in Paris in 1867,
+515.93	and it was a major achievement
+518.85	because it brought the power density
+518.85	of the engine way up.
+521.61	You could now get a lot more power
+521.61	in a lot smaller space,
+524.37	and that allowed the engine
+524.37	to be used for mobile applications.
+527.37	So, once you have mobility,
+528.85	you're making a lot of engines
+528.85	because you've got lots of units,
+531.93	as opposed to steam ships
+531.93	or big factories,
+533.954	so this was the engine that ended up
+533.954	benefiting from mass production
+537.249	where all the other engines didn't.
+538.97	So, because it went into mass production,
+540.947	costs were reduced,
+543.53	emissions were reduced,
+543.53	tremendous production value.
+546.33	There have been hundreds of millions
+546.33	of internal combustion engines built,
+549.85	compared to thousands
+549.85	of Stirling engines built.
+552.13	And not nearly as many
+552.13	small steam engines being built anymore,
+555.13	only large ones for big operations.
+556.85	So after looking
+556.85	at these three, and 47 others,
+559.53	we concluded that the Stirling engine
+559.53	would be the best one to use.
+562.73	I want to give you a brief explanation
+562.73	of how we looked at it and how it works.
+566.65	So we tried to look
+566.65	at the Stirling engine in a new way,
+569.33	because it was practical --
+571.89	weight no longer mattered
+571.89	for our application.
+574.17	The internal combustion engine
+574.17	took off because weight mattered,
+577.29	because you were moving around.
+578.85	But if you're trying to generate
+578.85	solar energy in a static place
+581.85	the weight doesn't matter so much.
+583.53	We also discovered that efficiency
+583.53	doesn't matter so much
+586.229	if your energy source is free.
+587.71	Normally, efficiency is crucial
+589.231	because the fuel cost
+589.231	of your engine over its life
+592.191	dwarfs the cost of the engine.
+593.89	But if your fuel source is free,
+595.49	then the only thing that matters
+597.09	is the up-front
+597.09	capital cost of the engine.
+599.13	So you don't want
+599.13	to optimize for efficiency,
+601.29	you want to optimize for power per dollar.
+603.33	So using that new twist,
+603.33	with the new criteria,
+605.57	we thought we could
+605.57	relook at the Stirling engine,
+607.97	and also bring genetic algorithms in.
+609.81	Basically, Robert Stirling
+609.81	didn't have Gordon Moore before him
+612.77	to get us three gigahertz
+612.77	of processor power.
+614.93	So we took the same genetic algorithm
+616.751	that we used earlier
+616.751	to make that concentrator,
+618.992	which didn't work out for us,
+620.468	to optimize the Stirling engine,
+622.05	and make its design sizes
+622.05	and all of its dimensions
+625.29	the exact optimum
+625.29	to get the most power per dollar,
+628.41	irrespective of weight,
+628.41	irrespective of size,
+630.57	just to get the most conversion
+630.57	of solar energy,
+632.85	because the sun is free.
+634.09	And that's the process we took --
+634.09	let me show you how the engine works.
+637.45	The simplest heat engine,
+637.45	or hot air engine, of all time
+640.13	would be this -- take a box,
+640.13	a steel canister, with a piston.
+643.37	Put a flame under it, the piston moves up.
+645.69	Take it off the flame
+645.69	and pour water on it, or let it cool down,
+648.73	the piston moves down.
+649.97	That's a heat engine.
+651.21	That's the most fundamental
+651.21	heat engine you could have.
+653.85	The problem is the efficiency
+653.85	is one hundredth of one percent,
+656.93	because you're heating
+656.93	all the metal of the chamber
+659.37	and then cooling all the metal
+659.37	of the chamber each time.
+662.05	And you're only getting power from the air
+662.05	that's heating at the same time,
+665.61	but you're wasting energy
+665.61	heating and cooling the metal.
+668.29	So someone came up
+668.29	with a very clever idea.
+670.37	Instead of heating and cooling
+670.37	the whole cylinder,
+672.77	what about if you put
+672.77	a displacer inside --
+674.81	a little thing that shuttles
+674.81	the air back and forth.
+677.29	You move that up and down
+677.29	with a little bit of energy
+679.81	but now you're only shifting the air down
+679.81	to the hot end and up to the cold end.
+683.61	So, now you're not alternately heating
+683.61	and cooling the metal, just the air.
+687.81	That allows you to get the efficiency up
+689.77	from a hundredth of a percent
+689.77	to about two percent.
+692.21	And then Robert Stirling
+692.21	came along with this genius idea,
+694.97	which was, well, I'm still
+694.97	not heating the metal now,
+697.49	with this kind of engine,
+698.73	but I'm still reheating all the air.
+700.49	I'm still heating the air every time
+700.49	and cooling the air every time.
+703.73	What about if I put
+703.73	a thermal sponge in the middle,
+706.37	in the passageway between where the air
+706.37	has to move between hot and cold?
+710.29	So he made fine wires, and cracked glass,
+712.97	and all different kinds of materials
+712.97	to be a heat sponge.
+715.69	So when the air pushes up
+715.69	to go from the hot end to the cold end,
+718.77	it puts some heat into the sponge.
+720.97	And then when the air comes back
+720.97	after it's been cooled,
+723.65	it picks up that heat again.
+725.05	So you're reusing your energy
+725.05	five or six times,
+728.09	and that brings the efficiency
+728.09	up to between 30 and 40 percent.
+731.09	It's a little known, but brilliant,
+731.09	genius invention of Robert Stirling
+734.45	that takes the hot air engine
+734.45	from being somewhat impractical --
+737.49	like I found out when I made
+737.49	the real simple version in high school --
+740.85	to very potentially possible,
+742.29	once you get the efficiency up,
+743.85	if you can design this
+743.85	to be low enough cost.
+746.01	So we really set out on a path
+746.01	to try and make the lowest cost possible.
+749.45	We built a huge mathematical model
+749.45	of how a Stirling engine works.
+752.61	We applied the genetic algorithm.
+754.25	We got the results from that
+754.25	for the optimal engine.
+756.73	We built engines --
+757.97	so we built 100 different engines
+757.97	over the last two years.
+760.73	We measured each one, we readjusted
+760.73	the model to what we measured,
+763.89	and then we led that
+763.89	to the current prototype.
+766.09	It led to a very compact,
+766.09	inexpensive engine,
+768.25	and this is what the engine looks like.
+770.17	Let me show you
+770.17	what it looks like in real life.
+773.77	So this is the engine.
+773.77	It's just a small cylinder down here,
+777.49	which holds the generator
+777.49	inside and all the linkage,
+780.21	and it's the hot cap --
+780.21	the hot cylinder on the top --
+783.57	this part gets hot, this part is cool,
+785.85	and electricity comes out.
+787.81	The exact converse is also true.
+789.69	If you put electricity in,
+789.69	this will get hot and this will get cold,
+793.09	you get refrigeration.
+794.41	So it's a complete reversible cycle,
+796.25	a very efficient cycle,
+796.25	and quite a simple thing to make.
+799.25	So now you put the two things together.
+801.17	So you have the engine.
+802.41	What if you combine
+802.41	the petals and the engine in the center?
+805.29	The petals track and the engine
+805.29	gets the concentrated sunlight,
+808.29	takes that heat
+808.29	and turns it into electricity.
+810.49	This is what the first prototype
+810.49	of our system looked like
+813.25	with the petals
+813.25	and the engine in the center.
+815.41	This is being run out in the sun,
+817.05	and now I want to show you
+817.05	what the actual thing looks like.
+825.61	(Applause)
+830.97	Thank you.
+832.21	So this is a unit with the 12 petals.
+834.89	These petals cost about a dollar each --
+836.85	they're lightweight,
+836.85	injection-molded plastic, aluminized.
+839.61	The mechanism to control
+839.61	each petal is below there,
+842.297	with a microprocessor on each one.
+844.37	There are thermocouples on the engine --
+846.33	little sensors that detect the heat
+846.33	when the sunlight strikes them.
+849.53	Each petal adjusts itself separately
+849.53	to keep the highest temperature on it.
+853.41	When the sun comes out in the morning,
+853.41	the petals will seek the sun,
+856.65	find it by searching
+856.65	for the highest temperature.
+859.01	About a minute and a half or two minutes
+859.01	after the rays are striking the hot cap
+862.97	the engine will be warm enough to start
+864.89	and then the engine
+864.89	will generate electricity
+867.05	for about six and a half hours a day --
+868.97	six and a half to seven hours
+868.97	as the sun moves across the sky.
+871.93	A critical part
+871.93	that we can take advantage of
+874.09	is that we have these
+874.09	inexpensive microprocessors
+876.45	and each of these petals is autonomous,
+878.37	and each of these petals figures out
+878.37	where the sun is with no user setup.
+881.85	So you don't have to tell
+881.85	what latitude, longitude you're at,
+884.77	what your roof slope angle is,
+884.77	or what orientation.
+887.21	It doesn't really care.
+888.49	What it does is it searches
+888.49	to find the hottest spot,
+891.09	it searches again a half an hour later,
+891.09	a day later, a month later.
+895.05	It basically figures out
+895.05	where on Earth you are
+897.29	by watching the direction the sun moves,
+899.25	so you don't have to
+899.25	actually enter anything about that.
+901.93	The way the unit works is,
+903.25	when the sun comes out,
+903.25	the engine will start
+905.57	and you get power out here.
+907.13	We have AC and DC, get 12 volts DC,
+910.85	so that could be used
+910.85	for certain applications.
+913.09	We have an inverter in there,
+913.09	so you get 117 volts AC.
+915.69	And you also get hot water.
+915.69	The hot water's optional.
+918.29	You don't have to use it,
+918.29	it will cool itself.
+920.57	But you can use it
+920.57	to optionally heat hot water
+922.81	and that brings
+922.81	the efficiency up even higher
+924.97	because some of the heat
+924.97	that you'd normally be rejecting,
+927.73	you can now use as useful energy,
+927.73	whether it's for a pool or hot water.
+931.13	Let me show you a quick movie
+931.13	of what this looks like running.
+939.41	This is the first test
+939.41	where we took it outside
+941.65	and each of the petals
+941.65	were individually seeking.
+944.01	And what they do is step,
+944.01	very coarsely at first,
+946.41	and very finely afterward.
+947.69	Once they get a temperature reading
+947.69	on the thermocouple
+950.33	indicating they found the sun,
+951.81	they slow down and do a fine search.
+953.57	Then the petals will move into position,
+953.57	and the engine will start.
+956.77	We've been working on this
+956.77	for the last two years.
+959.17	We're very excited about the progress,
+959.17	we have a long way to go though.
+962.57	This is how we envision
+962.57	it would be in a residential installation:
+965.85	you'd probably have
+965.85	more than one unit on your roof.
+968.33	It could be on your roof,
+968.33	your backyard, or somewhere else.
+971.17	You don't have to have enough units
+971.17	to power your entire house,
+974.17	you just save money
+974.17	with each incremental one you add.
+976.73	So you're still using
+976.73	the grid potentially,
+978.85	in this type of application,
+978.85	to be your backup supply --
+981.53	of course, you can't use these at night,
+981.53	and you can't use these on cloudy days.
+985.33	But by reducing your energy use,
+985.33	pretty much at the peak times --
+988.77	usually when you have
+988.77	your air conditioning on,
+991.01	or other times like that --
+992.37	this generates the peak power
+992.37	at the peak usage time,
+994.89	so it's very complementary in that sense.
+996.89	This is how we would envision
+996.89	a residential application.
+999.57	We also think there's
+999.57	very big potential for energy farms,
+1002.33	especially in remote land
+1002.33	where there happens to be a lot of sun.
+1005.45	It's a really good combination
+1005.45	of those two factors.
+1007.93	It turns out there's a lot of powerful sun
+1007.93	all around the world, obviously,
+1011.49	but in special places
+1012.77	where it happens to be
+1012.77	relatively inexpensive to place these
+1015.65	and also in many more places
+1015.65	where there is high wind power.
+1018.53	So an example of that is,
+1018.53	here's the map of the United States.
+1021.93	Pretty much everywhere that's
+1021.93	not green or blue is a really ideal place,
+1025.37	but even the green or blue areas are good,
+1027.41	just not as good as the places
+1027.41	that are red, orange and yellow.
+1030.41	But the hot spot right around Las Vegas
+1030.41	and Death Valley is very good.
+1033.77	And is only affects the payback period,
+1035.874	it doesn't mean that you
+1035.874	couldn't use solar energy;
+1038.33	you could use it anywhere on Earth.
+1040.05	It just affects the payback period
+1041.73	if you're comparing
+1041.73	to grid-supplied electricity.
+1044.09	But if you don't have
+1044.09	grid-supplied electricity,
+1046.369	then the question of payback
+1046.369	is a different one entirely.
+1049.09	It's just how many watts
+1049.09	do you get per dollar,
+1051.33	and how could you benefit from that
+1051.33	to change your life in some way.
+1054.57	This is the map of the whole Earth,
+1056.68	and you can see
+1056.68	a huge swathe in the middle
+1058.761	where a large part of the population is,
+1060.723	there's tremendous chances
+1060.723	for solar energy.
+1063.3	And of course, look at Africa.
+1064.781	The potential to take advantage
+1064.781	of solar energy there is unbelievable,
+1068.102	and I'm really excited to talk more
+1068.102	about finding ways we can help with that.
+1071.783	So, in conclusion, I would say
+1071.783	my journey has shown me
+1075.529	that you can revisit
+1075.529	old ideas in a new light,
+1078.85	and sometimes ideas
+1078.85	that have been discarded in the past
+1081.57	can be practical now if you apply
+1081.57	some new technology or new twists.
+1085.13	We believe we're getting very close
+1085.13	to something practical and affordable.
+1088.65	Our short-term goal for this
+1088.65	is to be half the price of solar cells
+1091.85	and our longer-term goal
+1091.85	is to be less than a five-year payback.
+1094.93	And at less than a five-year payback,
+1094.93	this becomes very economic.
+1098.09	So you don't have to just have
+1098.09	a feel-good attitude about energy
+1101.17	to want to have one of these.
+1102.61	It just makes economic sense.
+1104.05	Right now, solar paybacks
+1104.05	are between 30 and 50 years.
+1106.65	If you get it down below five years,
+1108.41	then it's almost a no-brainer
+1108.41	because the interest to own it --
+1111.41	someone else will finance it for you
+1111.41	and you can just make money from day one.
+1115.13	So that's our real powerful goal
+1116.73	that we're really
+1116.73	shooting for in the company.
+1118.93	Two other things that I learned
+1118.93	that were very surprising to me --
+1122.09	one was how casual we are about energy.
+1127.29	I was walking from the elevator over here,
+1129.69	and even just looking
+1129.69	at the stage right now --
+1131.93	so there's probably
+1135.49	There's 10,000 watts of light
+1135.49	pouring on the stage,
+1137.93	one horsepower
+1137.93	is 746 watts, at full power.
+1141.33	So there's basically 15 horses running
+1141.33	at full speed just to keep the stage lit.
+1146.09	Not to mention the 200 horses
+1146.09	that are probably running right now
+1149.21	to keep the air-conditioning going.
+1150.93	And it's just amazing,
+1152.17	walk in the elevator,
+1152.17	and there's lights on in the elevator.
+1155.05	Of course, now I'm very sensitive at home
+1155.05	when we leave the lights on by mistake.
+1158.89	But, everywhere around us
+1158.89	we have insatiable use for energy
+1161.73	because it's so cheap.
+1163.01	And it's cheap because
+1163.01	we've been subsidized by energy
+1165.57	that's been concentrated by the sun.
+1167.33	Basically, oil is
+1167.33	solar-energy concentrate.
+1170.21	It's been pounded for a billion years
+1170.21	with a lot of energy
+1173.57	to make it have all that energy
+1173.57	contained in it.
+1175.85	And we don't have a birthright
+1177.33	to just use that up
+1177.33	as fast as we are, I think.
+1179.57	And it would be great if we could
+1179.57	make our energy usage renewable,
+1182.77	where as we're using the energy,
+1182.77	we're creating it at the same pace,
+1186.01	and I really hope we can get there.
+1187.73	Thank you very much,
+1187.73	you've been a great audience.

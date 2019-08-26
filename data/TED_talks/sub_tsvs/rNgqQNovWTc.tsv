@@ -1,0 +1,392 @@
+startsecond	text
+15.26	It's not about technology,
+17.26	it's about people and stories.
+19.26	I could show you
+21.26	what recently was on television
+23.26	as a high quality video:
+28.26	And it was the now director of the entire piece
+31.26	of the veteran's administration --
+34.26	who, himself, had lost an arm 39 years ago
+37.26	in Vietnam --
+40.26	who was adamantly opposed to these crazy devices
+42.26	that don't work.
+45.26	And it turns out that with 60 Minutes cameras rolling in the background,
+48.26	after he pretty much made his position clear on this --
+51.26	he had his hook and he had his --
+54.26	he wore this arm for less than two hours
+57.26	and was able to pour himself a drink and got quite emotional over the fact
+60.26	that, quote -- his quote --
+63.26	it's the first time he's felt like he's had an arm in 39 years.
+67.26	But that would sort of be jumping to the middle of the story,
+70.26	and I'm not going to show you that polished video.
+72.26	I'm going to, instead, in a minute or two,
+74.26	show you an early, crude video
+77.26	because I think it's
+79.26	a better way to tell a story.
+83.26	A few years ago I was visited by
+85.26	the guy that runs DARPA,
+87.26	the people that fund all the advanced technologies
+90.26	that businesses and universities probably wouldn't take the risk of doing.
+97.26	They have a particular interest in ones that will help our soldiers.
+101.26	I get this sort of unrequested -- by me anyway -- visit,
+106.26	and sitting in my conference room is a very senior surgeon
+109.26	from the military
+111.26	and the guy that runs DARPA.
+115.26	They proceed to tell me a story which comes down
+118.26	to basically the following. We have used such advanced technologies
+121.26	now and made them available
+124.26	in the most remote places that we put soldiers:
+127.26	hills of Afghanistan, Iraq ...
+131.26	They were quite proud of the fact that
+133.26	you know, before the dust clears,
+136.26	if some soldier has been hurt
+138.26	they will have collected him or her, they will have brought him back,
+141.26	they will be getting world-class triage emergency care
+144.26	faster than you and I would be getting it if we were hurt
+148.26	in a car accident in a major city in the United States.
+152.26	That's the good news.
+154.26	The bad news is if they've collected this person
+157.26	and he or she is missing an arm or leg,
+160.26	part of the face, it's probably not coming back.
+164.26	So, they started giving me the statistics on how many of these kids had lost an arm.
+168.26	And then the surgeon pointed out, with a lot of anger,
+171.26	"he said, ""Why is it? At the end of the Civil War,"
+175.26	they were shooting each other with muskets. If somebody lost an arm,
+177.26	we gave them a wooden stick with a hook on it.
+182.26	Now we've got F18s and F22s,
+185.26	and if somebody loses an arm,
+187.26	"we give them a plastic stick with a hook on it."""
+190.26	"And they basically said, ""This is unacceptable,"""
+194.26	"and then the punchline: ""So, Dean,"
+196.26	we're here because you make medical stuff.
+198.26	"You're going to give us an arm."""
+201.26	And I was waiting for the 500 pages of bureaucracy,
+204.26	paperwork and DODs.
+207.26	No, the guy says,
+210.26	"""We're going to bring a guy into this conference room,"
+214.26	and wearing the arm you're going to give us,
+217.26	he or she is going to pick up a raisin or a grape
+219.26	off this table.
+221.26	"If it's the grape, they won't break it."""
+224.26	Great he needs efferent, afferent, haptic response sensors.
+227.26	"""If it's the raisin, they won't drop it."""
+230.26	So he wants fine motor control: flex at the wrist,
+235.26	flex at the elbow, abduct and flex at the shoulder.
+239.26	Either way they were going to eat it.
+241.26	"""Oh, by the way Dean. It's going to fit on a 50th percentile female frame --"
+245.26	namely 32 inches from the long finger --
+248.26	"and weigh less than nine pounds."""
+254.26	"""And it's going to be completely self contained including all its power."""
+258.26	So, they finished that. And I, as you can tell,
+260.26	am a bashful guy.
+262.26	I told them they're nuts.
+264.26	(Laughter)
+266.26	"They've been watching too much ""Terminator."""
+268.26	(Laughter)
+270.26	Then, the surgeon says to me,
+273.26	"""Dean, you need to know"
+276.26	more than two dozen of these kids have come back
+279.26	"bilateral."""
+281.26	Now, I cannot imagine --
+283.26	I'm sorry, you may have a better
+287.26	imagination than I do --
+289.26	I can't imagine losing my arm,
+292.26	and typically at 22 years old.
+295.26	But compared to that, losing two?
+298.26	Seems like that would be an inconvenience.
+302.26	Anyway, I went home that night. I thought about it.
+305.26	I literally could not sleep
+307.26	"thinking about, ""I wonder how you'd roll over"
+309.26	"with no shoulders."""
+313.26	So, I decided we've got to do this.
+316.26	And trust me, I've got a day job, I've got a lot of day jobs.
+318.26	Most of my day job keeps me busy
+321.26	funding my fantasies like FIRST and water and power ....
+323.26	And I've got a lot of day jobs.
+326.26	But I figured I gotta do this.
+330.26	Did a little investigation,
+332.26	went down to Washington, told them
+335.26	I still think they're nuts but we're going to do it.
+340.26	And I told them I'd build them an arm.
+342.26	I told them it would probably take five years to get through the FDA,
+345.26	and probably 10 years to be reasonably functional.
+348.26	Look what it takes to make things like iPods.
+352.26	"""Great,"" he said, ""You got two years."""
+355.26	(Laughter)
+356.26	"I said, ""I'll tell you what. I'll build you an arm"
+358.26	that's under nine pounds
+360.26	that has all that capability in one year.
+362.26	"It will take the other nine to make it functional and useful."""
+366.26	We sort of agreed to disagree.
+368.26	I went back and I started putting a team together,
+370.26	the best guys I could find with a passion to do this.
+373.26	At the end of exactly one year
+376.26	we had a device with 14 degrees of freedom,
+378.26	all the sensors, all the microprocessors,
+381.26	all the stuff inside.
+383.26	I could show you it with a cosmesis on it
+385.26	that's so real it's eerie, but then you wouldn't see
+387.26	all this cool stuff.
+390.26	I then thought it would be years
+392.26	before we'd be able to make it really, really useful.
+397.26	It turned out, as I think you could see
+399.26	in Aimee's capabilities and attitudes,
+403.26	people with a desire to do something
+406.26	are quite remarkable and nature is quite adaptable.
+410.26	Anyway, with less than 10 hours of use,
+414.26	two guys -- one that's bilateral.
+418.26	He's literally, he's got no shoulder on one side,
+421.26	and he's high trans-humeral on the other.
+423.26	And that's Chuck and Randy together,
+428.26	after 10 hours -- were playing in our office.
+431.26	And we took some pretty cruddy home movies.
+435.26	At the end of the one I'm going to show, it's only about a minute
+437.26	and a couple of seconds long,
+442.26	Chuck does something that to this day I'm jealous of,
+445.26	I can't do it.
+447.26	He picks up a spoon, picks it up,
+449.26	scoops out some Shredded Wheat and milk,
+453.26	holds the spoon level
+455.26	as he translates it, moving all these joints simultaneously,
+458.26	to his mouth, and he doesn't drop any milk.
+461.26	(Laughter)
+462.26	I cannot do that.
+464.26	(Laughter)
+466.26	His wife was standing behind me.
+468.26	She's standing behind me at the time
+470.26	"and she says, ""Dean,"
+473.26	Chuck hasn't fed himself in 19 years.
+477.26	So, you've got a choice:
+479.26	"We keep the arm, or you keep Chuck."""
+481.26	(Laughter) (Applause)
+484.26	So, can we see that?
+494.26	This is Chuck showing simultaneous control
+496.26	of all the joints.
+498.26	He's punching our controls guy. The guy behind him
+500.26	is our engineer/surgeon,
+502.26	which is a convenient guy to have around.
+506.26	There's Randy, these guys are passing a rubber
+509.26	little puck between them.
+512.26	And just as in the spirit of FIRST,
+515.26	gracious professionalism, they are quite proud of this,
+517.26	so they decide to share a drink.
+520.26	This is a non-trivial thing to do, by the way.
+523.26	Imagine doing that with a wooden stick and a hook on the end of it,
+526.26	doing either of those.
+528.26	Now Chuck is doing something quite extraordinary,
+531.26	at least for my limited physical skill.
+536.26	And now he's going to do what DARPA asked me for.
+539.26	He's going to pick up a grape -- he didn't drop it,
+541.26	he didn't break it --
+544.26	and he's going to eat it.
+547.26	So, that's where we were
+549.26	at the end of about 15 months.
+551.26	(Applause)
+563.26	But, as I've learned from Richard,
+566.26	the technology, the processors, the sensors, the motors,
+571.26	is not the story.
+575.26	I hadn't dealt with this kind of problem
+578.26	or frankly, this whole segment
+581.26	of the medical world.
+583.26	I'll give you some astounding things that have happened
+586.26	as we started this.
+589.26	After we were pretty much convinced we had a good design,
+593.26	and we'd have to make all the standard engineering trade-offs you always make --
+596.26	you can always get three out of four of anything you want;
+599.26	the weight, the size, the cost, the functionality --
+602.26	I put a bunch of guys in my plane
+604.26	"and I said, ""We're flying down to Walter Reed, and we're going talk to these kids,"
+607.26	because frankly it doesn't matter whether we like this arm.
+609.26	It doesn't matter whether the
+611.26	"Department of Defense likes this arm."""
+613.26	When I told them that they weren't entirely enthusiastic,
+616.26	"but I told them, ""It really doesn't matter what their opinion is."
+619.26	There is only one opinion that matters,
+621.26	"the kids that are either going to use it or not."""
+625.26	"I told a bunch of my engineers, ""Look we're going to walk into Walter Reed,"
+628.26	and you're going to see people, lots of them,
+632.26	missing major body parts.
+634.26	They're probably going to be angry, depressed, frustrated.
+639.26	We're probably going to have to give them support, encouragement.
+642.26	But we've got to extract from them
+645.26	"enough information to make sure we're doing the right thing."""
+650.26	We walked into Walter Reed and I could not have been more wrong.
+655.26	We did see a bunch of people,
+657.26	a lot of them missing a lot of body parts,
+661.26	and parts they had left were burned;
+663.26	half a face gone, an ear burned off.
+670.26	They were sitting at a table. They were brought together for us.
+672.26	And we started asking them all questions.
+674.26	"""Look,"" I'd say to them, ""We're not quite as good as nature yet."
+677.26	I could give you fine motor control,
+680.26	or I could let you curl 40 pounds;
+682.26	I probably can't do both.
+684.26	I can give you fast control
+686.26	with low reduction ratios in these gears,
+688.26	or I can give you power;
+690.26	I can't give you both.
+692.26	And we were trying to get them to all help us
+695.26	know what to give them.
+698.26	Not only were they enthusiastic, they kept thinking
+700.26	they're there to help us.
+702.26	"""Well, would it help if I ..."""
+704.26	"""Guys, and woman,"
+707.26	you've given enough.
+709.26	We're here to help you. We need data. We need to know
+711.26	"what you need."""
+714.26	After a half an hour, maybe, there was one guy at the far end of the table
+717.26	who wasn't saying much.
+719.26	You could see he was missing an arm.
+721.26	He was leaning on his other arm.
+724.26	"I called down to the end, ""Hey, you haven't said much."
+726.26	"If we needed this or this, what would you want?"""
+729.26	"And he said, ""You know,"
+733.26	I'm the lucky guy at this table.
+735.26	I lost my right arm,
+737.26	"but I'm a lefty."""
+739.26	(Laughter)
+740.26	So, he wouldn't say much.
+742.26	He had a great spirit, like all the rest of them had great spirits.
+746.26	And he made a few comments.
+748.26	And then the meeting ended. We said goodbye to all these guys.
+751.26	And that guy pushed himself back from the table ...
+754.26	he has no legs.
+760.26	So, we left.
+763.26	And I was thinking,
+766.26	"""We didn't give them support and encouragement;"
+769.26	they gave it to us.
+772.26	"They're not finished giving yet."""
+775.26	It was astounding.
+778.26	So, we went back.
+780.26	And I started working harder, faster.
+786.26	Then we went out to Brooke Army Medical Center.
+790.26	And we saw lots of these kids, lots of them.
+794.26	And it was astounding
+796.26	how positive they are.
+800.26	So, we went back,
+803.26	and we've been working harder yet.
+805.26	We're in clinical trials,
+807.26	we've got five of them on people.
+809.26	We're screaming along.
+811.26	And I get a call and we go back
+814.26	to Washington.
+817.26	We go back to Walter Reed,
+819.26	and a kid, literally,
+825.26	was blown up.
+829.26	And they shipped him to Germany
+831.26	and 24 hours later they shipped him from Germany
+834.26	to Walter Reed.
+838.26	And he was there,
+840.26	and they said we needed to come.
+842.26	And I went down
+844.26	and they rolled him into a room.
+848.26	He's got no legs.
+850.26	He's got no arms.
+852.26	He's got a small residual limb on one side.
+855.26	Half of his face is gone,
+858.26	but they said his vision is coming back.
+861.26	He had one good eye.
+864.26	His name is Brandon Marrocco.
+867.26	And he said,
+870.26	"""I need your arms,"
+872.26	"but I need two of them."""
+875.26	"""You'll get them."""
+877.26	This kid was from Staten Island.
+880.26	"And he said, ""I had a truck,"
+882.26	before I went over there,
+884.26	and it had a stick.
+887.26	"You think I'll be able to drive it?"""
+889.26	"""Sure."""
+891.26	"And I turned around and went, ""How are we going to do this?"""
+893.26	(Laughter)
+894.26	Anyway, he was just like all the rest of them.
+898.26	He doesn't really want a lot.
+900.26	He wants to help. He told me that
+902.26	he wanted to go back
+904.26	to help his buddies.
+909.26	So, I was on my way out here.
+912.26	I was asked to stop at Texas.
+916.26	There were 3,500 people,
+918.26	the Veteran's Administration,
+920.26	U.S. ... just 3,500 at this huge event
+923.26	to help the families
+926.26	of all the kids --
+930.26	some that have died, some that are
+932.26	like Brandon --
+934.26	and they wanted me to speak.
+936.26	"I said, ""What am I going to say?"
+938.26	This is not a happy thing. Look, if this happens to you,
+940.26	I can give you ... This stuff is
+942.26	"still not as good at the original equipment."""
+947.26	"""You need to come."""
+949.26	So, I went.
+951.26	And, as I think you get the point,
+954.26	there were a lot people there recovering.
+957.26	Some further along than others.
+960.26	But universally, these people that had been through this
+963.26	had astounding attitudes,
+966.26	and just the fact that people care
+971.26	makes a huge difference to them.
+974.26	I'll shut up, except one message
+981.26	or concern I have.
+983.26	I don't think anybody does it intentionally,
+987.26	but there were people there literally talking about,
+989.26	"""Well, how much will they get?"""
+994.26	You know, this country is involved as we've all heard,
+996.26	in this great healthcare debate.
+1000.26	"""Who is entitled to what?"
+1003.26	Who is entitled to how much?
+1005.26	"Who is going to pay for it?"""
+1009.26	Those are tough questions.
+1011.26	I don't have an answer to that. Not everybody
+1013.26	can be entitled to everything simply because you were born here.
+1016.26	It's not possible. It would be nice
+1018.26	but let's be realistic.
+1020.26	They were tough questions. There's polarized groups down there.
+1022.26	I don't know the answers.
+1025.26	There are other questions that are tough.
+1027.26	"""Should we be there?"
+1029.26	How do we get out?
+1031.26	"What do we need to do?"" There's very polarized"
+1033.26	answers to that question too,
+1034.26	and I don't have any answers to that.
+1038.26	Those are political questions, economic questions,
+1040.26	strategic questions.
+1044.26	I don't have the answer. But let me give you a simple
+1047.26	concern or maybe statement, then.
+1052.26	It is an easy answer.
+1055.26	I know what these kids deserve
+1058.26	on the healthcare side.
+1061.26	I was talking to one of them,
+1064.26	and he was really liking this arm --
+1066.26	it's way, way, way better than a plastic
+1069.26	stick with a hook on it --
+1072.26	but there's nobody in this room that would rather have that
+1074.26	than the one you got.
+1078.26	"But I was saying to him, ""You know,"
+1080.26	the first airplane
+1082.26	went 100 feet in 1903.
+1085.26	Wilbur and Orville.
+1088.26	But you know what? It wouldn't have made an old pigeon jealous.
+1091.26	But now we got Eagles out there,
+1094.26	F15s, even that Bald Eagle.
+1099.26	I've never seen a bird flying around at Mach 2.
+1103.26	"I think eventually we'll make these things extraordinary."""
+1108.26	And I said to that kid,
+1110.26	"""I'll stop when your buddies"
+1113.26	are envious of your Luke arm
+1117.26	because of what it can do, and how it does it.
+1120.26	And we'll keep working. And I'm not going to stop working
+1123.26	"until we do that."""
+1126.26	And I think this country
+1129.26	ought to continue its great debate,
+1131.26	"whining and complaining, ""I'm entitled."" ""You're a victim."""
+1135.26	And whining and complaining about what our foreign policy ought to be.
+1138.26	But while we have the luxury of whining and complaining about
+1141.26	who's paying for what and how much we get,
+1144.26	the people that are out there
+1146.26	giving us that great privilege of whining and complaining,
+1148.26	I know what they deserve:
+1150.26	everything humanly possible.
+1153.26	And we ought to give it to them.
+1155.26	(Applause)

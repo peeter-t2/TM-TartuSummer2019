@@ -1,0 +1,274 @@
+startsecond	text
+12.14	Some years ago,
+13.731	I stumbled across a simple design exercise
+17.175	that helps people understand
+17.175	and solve complex problems,
+20.78	and like many of these design exercises,
+20.78	it kind of seems trivial at first,
+24.867	but under deep inspection,
+26.611	it turns out that it reveals
+26.611	unexpected truths
+29.331	about the way that we collaborate
+29.331	and make sense of things.
+32.662	The exercise has three parts
+34.264	and begins with something
+34.264	that we all know how to do,
+36.749	which is how to make toast.
+39.489	It begins with a clean sheet of paper,
+39.489	a felt marker,
+42.809	and without using any words,
+42.809	you begin to draw how to make toast.
+46.94	And most people draw something like this.
+49.118	They draw a loaf of bread, 
+49.118	which is sliced, then put into a toaster.
+52.498	The toast is then deposited for some time.
+54.744	It pops up, and then voila!
+54.744	After two minutes, toast and happiness.
+61.045	Now, over the years, I've collected
+61.045	many hundreds of drawings of these toasts,
+65.643	and some of them are very good,
+67.403	because they really illustrate
+67.403	the toast-making process quite clearly.
+70.869	And then there are some that are,
+70.869	well, not so good.
+74.166	They really suck, actually, because
+74.166	you don't know what they're trying to say.
+79.344	Under close inspection,
+81.271	some reveal some aspects of toast-making
+81.271	while hiding others.
+84.754	So there's some
+84.754	that are all about the toast,
+87.424	and all about the transformation of toast.
+90.164	And there's others
+90.164	that are all about the toaster,
+92.764	and the engineers love to draw
+92.764	the mechanics of this.
+96.094	(Laughter)
+97.504	And then there are others
+97.504	that are about people.
+99.875	It's about visualizing
+99.875	the experience that people have.
+103.723	And then there are others that are about
+103.723	the supply chain of making toast
+107.236	that goes all the way back to the store.
+109.226	It goes through the supply chain
+109.226	networks of teleportation
+112.663	and all the way back
+112.663	to the field and wheat,
+115.89	and one all actually goes
+115.89	all the way back to the Big Bang.
+118.7	So it's crazy stuff.
+120.904	But I think it's obvious
+122.757	that even though these drawings
+122.757	are really wildly different,
+126.263	they share a common quality,
+126.263	and I'm wondering if you can see it.
+129.366	Do you see it? What's common about these?
+131.743	Most drawings have nodes and links.
+135.118	So nodes represent the tangible objects
+135.118	like the toaster and people,
+140.468	and links represent
+140.468	the connections between the nodes.
+143.974	And it's the combination
+143.974	of links and nodes
+146.807	that produces a full systems model,
+148.92	and it makes our private
+148.92	mental models visible
+151.845	about how we think something works.
+154.878	So that's the value of these things.
+156.709	What's interesting about
+156.709	these systems models
+158.817	is how they reveal
+158.817	our various points of view.
+161.002	So for example, Americans
+161.002	make toast with a toaster.
+164.623	That seems obvious.
+166.144	Whereas many Europeans
+166.144	make toast with a frying pan, of course,
+170.114	and many students make toast with a fire.
+174.391	I don't really understand this.
+174.391	A lot of MBA students do this.
+177.61	So you can measure the complexity
+177.61	by counting the number of nodes,
+181.375	and the average illustration
+181.375	has between four and eight nodes.
+185.297	Less than that, the drawing seems trivial,
+188.292	but it's quick to understand,
+190.545	and more than 13, the drawing
+190.545	produces a feeling of map shock.
+195.618	It's too complex.
+197.121	So the sweet spot is between 5 and 13.
+199.664	So if you want to communicate
+199.664	something visually,
+202.294	have between five and 13 nodes
+202.294	in your diagram.
+206.021	So though we may not
+206.021	be skilled at drawing,
+208.725	the point is that we intuitively know
+208.725	how to break down complex things
+212.856	into simple things and then 
+212.856	bring them back together again.
+216.116	So this brings us to our second part of 
+216.116	the exercise,
+219.337	which is how to make toast,
+220.913	but now with sticky notes
+220.913	or with cards.
+223.713	So what happens then?
+226.041	Well, with cards, most people
+226.041	tend to draw clear, more detailed,
+229.462	and more logical nodes.
+231.74	You can see the step by step
+231.74	analysis that takes place,
+235.317	and as they build up their model,
+235.317	they move their nodes around,
+238.549	rearranging them like Lego blocks.
+241.129	Now, though this might seem trivial,
+241.129	it's actually really important.
+245.184	This rapid iteration of expressing
+245.184	and then reflecting and analyzing
+249.912	is really the only way
+249.912	in which we get clarity.
+253.263	It's the essence of the design process.
+255.911	And systems theorists do tell us
+257.62	that the ease with which
+257.62	we can change a representation
+261.182	correlates to our willingness
+261.182	to improve the model.
+265.447	So sticky note systems
+265.447	are not only more fluid,
+269.239	they generally produce
+269.239	way more nodes than static drawings.
+273.279	The drawings are much richer.
+275.01	And this brings us
+275.01	to our third part of the exercise,
+277.575	which is to draw how to make toast,
+277.575	but this time in a group.
+281.509	So what happens then?
+283.271	Well, here's what happens.
+284.883	It starts out messy,
+284.883	and then it gets really messy,
+288.5	and then it gets messier,
+290.125	but as people refine the models,
+292.052	the best nodes become more prominent,
+294.583	and with each iteration,
+294.583	the model becomes clearer
+297.16	because people build
+297.16	on top of each other's ideas.
+300.434	What emerges is a unified systems model
+303.917	that integrates the diversity
+303.917	of everyone's individual points of view,
+308.057	so that's a really different outcome
+309.977	from what usually happens 
+309.977	in meetings, isn't it?
+312.648	So these drawings can contain
+315.62	but participants don't feel map shock
+317.849	because they participate in the building
+317.849	of their models themselves.
+322.074	Now, what's also really interesting,
+322.074	that the groups spontaneously mix
+325.395	and add additional layers
+325.395	of organization to it.
+328.854	To deal with contradictions, for example,
+330.864	they add branching patterns
+330.864	and parallel patterns.
+333.684	Oh, and by the way,
+333.684	if they do it in complete silence,
+336.907	they do it much better
+336.907	and much more quickly.
+339.663	Really interesting --
+339.663	talking gets in the way.
+342.205	So here's some key lessons
+342.205	that can emerge from this.
+345.897	First, drawing helps us
+345.897	understand the situations
+348.476	as systems with nodes
+348.476	and their relationships.
+351.748	Movable cards produce
+351.748	better systems models,
+355.388	because we iterate much more fluidly.
+358.118	And then the group notes produce 
+358.118	the most comprehensive models
+361.332	because we synthesize
+361.332	several points of view.
+364.689	So that's interesting.
+366.275	When people work together
+366.275	under the right circumstances,
+369.581	group models are much better
+369.581	than individual models.
+372.692	So this approach works really great
+372.692	for drawing how to make toast,
+377.639	but what if you wanted to draw
+377.639	something more relevant or pressing,
+381.528	like your organizational vision,
+381.528	or customer experience,
+386.636	or long-term sustainability?
+388.94	There's a visual revolution
+388.94	that's taking place
+392.446	as more organizations
+392.446	are addressing their wicked problems
+395.859	by collaboratively drawing them out.
+398.645	And I'm convinced that those who see
+398.645	their world as movable nodes and links
+403.267	really have an edge.
+405.391	And the practice is really pretty simple.
+407.469	You start with a question,
+407.469	you collect the nodes,
+410.371	you refine the nodes,
+410.371	you do it over again,
+413.459	you refine and refine and refine,
+413.459	and the patterns emerge,
+418.768	and the group gets clarity
+418.768	and you answer the question.
+425.07	So this simple act of visualizing
+425.07	and doing over and over again
+431.112	produces some really remarkable outcomes.
+433.694	What's really important to know
+435.581	is that it's the conversations
+435.581	that are the important aspects,
+439.271	not just the models themselves.
+441.596	And these visual frames of reference
+443.384	can grow to several hundreds
+443.384	or even thousands of nodes.
+447.982	So, one example is from
+447.982	an organization called Rodale.
+451	Big publishing company.
+452.486	They lost a bunch of money one year,
+454.622	and their executive team for three days
+454.622	visualized their entire practice.
+458.964	And what's interesting is that
+458.964	after visualizing the entire business,
+464.886	systems upon systems,
+466.65	they reclaimed 
+469.716	and they also moved from a D rating 
+469.716	to an A rating from their customers.
+474.734	Why? Because there's
+474.734	alignment from the executive team.
+478.329	So I'm now on a mission
+478.329	to help organizations
+481.742	solve their wicked problems
+481.742	by using collaborative visualization,
+486.456	and on a site that I've produced
+486.456	called drawtoast.com,
+489.474	I've collected a bunch of best practices.
+492.678	and so you can learn
+492.678	how to run a workshop here,
+495.441	you can learn more about
+495.441	the visual language
+497.584	and the structure of links and nodes that
+497.584	you can apply to general problem-solving,
+502.5	and download examples of various templates
+505.705	for unpacking the thorny problems
+505.705	that we all face in our organizations.
+510.998	So the seemingly trivial
+510.998	design exercise of drawing toast
+514.62	helps us get clear, engaged and aligned.
+518.661	So next time you're confronted
+518.661	with an interesting challenge,
+521.609	remember what design has to teach us.
+523.943	Make your ideas visible,
+523.943	tangible, and consequential.
+527.774	It's simple, it's fun, it's powerful,
+530.932	and I believe it's an idea
+530.932	worth celebrating.
+534.082	Thank you.
+535.902	(Applause)

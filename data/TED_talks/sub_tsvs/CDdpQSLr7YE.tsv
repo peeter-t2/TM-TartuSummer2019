@@ -1,0 +1,470 @@
+startsecond	text
+12.904	Hello, everybody.
+14.333	I brought with me today a baby diaper.
+18.793	You'll see why in a second.
+20.539	Baby diapers have interesting properties.
+22.573	They can swell enormously
+22.573	when you add water to them,
+25.288	an experiment done
+25.288	by millions of kids every day.
+28.296	(Laughter)
+29.47	But the reason why
+30.988	is that they're designed
+30.988	in a very clever way.
+33.202	They're made out of a thing
+33.202	called a swellable material.
+35.861	It's a special kind of material that,
+35.861	when you add water,
+38.622	it will swell up enormously,
+40.076	maybe a thousand times in volume.
+42.266	And this is a very useful,
+42.266	industrial kind of polymer.
+45.819	But what we're trying to do
+45.819	in my group at MIT
+48.369	is to figure out if we can do
+48.369	something similar to the brain.
+51.606	Can we make it bigger,
+52.789	big enough that you
+52.789	can peer inside
+54.481	and see all the tiny building blocks,
+54.481	the biomolecules,
+57.133	how they're organized in three dimensions,
+59.308	the structure, the ground truth
+59.308	structure of the brain, if you will?
+62.817	If we could get that,
+63.999	maybe we could have a better understanding
+63.999	of how the brain is organized
+67.532	to yield thoughts and emotions
+69.215	and actions and sensations.
+70.958	Maybe we could try to pinpoint
+70.958	the exact changes in the brain
+74.397	that result in diseases,
+76.197	diseases like Alzheimer's
+76.197	and epilepsy and Parkinson's,
+79.433	for which there are few
+79.433	treatments, much less cures,
+82.035	and for which, very often,
+82.035	we don't know the cause or the origins
+85.676	and what's really causing them to occur.
+88.613	Now, our group at MIT
+90.377	is trying to take
+90.377	a different point of view
+93.087	from the way neuroscience has
+93.087	been done over the last hundred years.
+96.341	We're designers. We're inventors.
+97.944	We're trying to figure out
+97.944	how to build technologies
+100.512	that let us look at and repair the brain.
+102.992	And the reason is,
+104.167	the brain is incredibly,
+104.167	incredibly complicated.
+107.484	So what we've learned
+107.484	over the first century of neuroscience
+110.395	is that the brain is a very
+110.395	complicated network,
+112.722	made out of very specialized
+112.722	cells called neurons
+115.226	with very complex geometries,
+116.917	and electrical currents will flow
+116.917	through these complexly shaped neurons.
+121.653	Furthermore, neurons
+121.653	are connected in networks.
+124.461	They're connected by little junctions
+124.461	called synapses that exchange chemicals
+128.32	and allow the neurons
+128.32	to talk to each other.
+130.562	The density of the brain is incredible.
+132.526	In a cubic millimeter of your brain,
+134.857	there are about 100,000 of these neurons
+137.338	and maybe a billion of those connections.
+140.887	But it's worse.
+142.293	So, if you could zoom in to a neuron,
+144.622	and, of course, this is just
+144.622	our artist's rendition of it.
+147.396	What you would see are thousands
+147.396	and thousands of kinds of biomolecules,
+151.627	little nanoscale machines
+151.627	organized in complex, 3D patterns,
+156.051	and together they mediate
+156.051	those electrical pulses,
+158.703	those chemical exchanges
+158.703	that allow neurons to work together
+162.664	to generate things like thoughts
+162.664	and feelings and so forth.
+166.357	Now, we don't know how
+166.357	the neurons in the brain are organized
+170.145	to form networks,
+171.343	and we don't know how
+171.343	the biomolecules are organized
+173.867	within neurons
+175.065	to form these complex, organized machines.
+177.918	If we really want to understand this,
+179.762	we're going to need new technologies.
+181.603	But if we could get such maps,
+183.411	if we could look at the organization
+183.411	of molecules and neurons
+186.378	and neurons and networks,
+187.968	maybe we could really understand
+187.968	how the brain conducts information
+191.429	from sensory regions,
+192.62	mixes it with emotion and feeling,
+194.38	and generates our decisions and actions.
+197.131	Maybe we could pinpoint the exact set
+197.131	of molecular changes that occur
+200.944	in a brain disorder.
+202.17	And once we know how
+202.17	those molecules have changed,
+205.016	whether they've increased in number
+205.016	or changed in pattern,
+207.82	we could use those
+207.82	as targets for new drugs,
+210.783	for new ways of delivering
+210.783	energy into the brain
+213.078	in order to repair the brain
+213.078	computations that are afflicted
+216.982	in patients who suffer
+216.982	from brain disorders.
+219.793	We've all seen lots of different
+219.793	technologies over the last century
+223.06	to try to confront this.
+224.25	I think we've all seen brain scans
+226.154	taken using MRI machines.
+228.212	These, of course, have the great power
+228.212	that they are noninvasive,
+231.583	they can be used on living human subjects.
+234.407	But also, they're spatially crude.
+236.662	Each of these blobs that you see,
+236.662	or voxels, as they're called,
+239.676	can contain millions
+239.676	and millions of neurons.
+242.389	So it's not at the level of resolution
+244.263	where it can pinpoint
+244.263	the molecular changes that occur
+246.825	or the changes in the wiring
+246.825	of these networks
+249.135	that contributes to our ability
+249.135	to be conscious and powerful beings.
+253.797	At the other extreme,
+253.797	you have microscopes.
+257.002	Microscopes, of course, will use light
+257.002	to look at little tiny things.
+260.321	For centuries, they've been used
+260.321	to look at things like bacteria.
+263.42	For neuroscience,
+264.595	microscopes are actually how neurons
+264.595	were discovered in the first place,
+268.031	about 130 years ago.
+269.347	But light is fundamentally limited.
+271.689	You can't see individual molecules
+271.689	with a regular old microscope.
+275.011	You can't look at these tiny connections.
+277.187	So if we want to make our ability
+277.187	to see the brain more powerful,
+281.153	to get down to the ground truth structure,
+283.345	we're going to need to have
+283.345	even better technologies.
+287.611	My group, a couple years ago,
+287.611	started thinking:
+289.859	Why don't we do the opposite?
+291.295	If it's so darn complicated
+291.295	to zoom in to the brain,
+293.78	why can't we make the brain bigger?
+296.166	It initially started
+297.345	with two grad students in my group,
+297.345	Fei Chen and Paul Tillberg.
+300.365	Now many others in my group
+300.365	are helping with this process.
+303.109	We decided to try to figure out
+303.109	if we could take polymers,
+305.895	like the stuff in the baby diaper,
+307.548	and install it physically
+307.548	within the brain.
+309.578	If we could do it just right,
+309.578	and you add water,
+311.843	you can potentially blow the brain up
+313.702	to where you could distinguish
+313.702	those tiny biomolecules from each other.
+317.103	You would see those connections
+317.103	and get maps of the brain.
+319.997	This could potentially be quite dramatic.
+322.009	We brought a little demo here.
+325.538	We got some purified baby diaper material.
+328.137	It's much easier
+328.137	just to buy it off the Internet
+330.435	than to extract the few grains
+330.435	that actually occur in these diapers.
+333.934	I'm going to put just one teaspoon here
+336.706	of this purified polymer.
+339.27	And here we have some water.
+341.446	What we're going to do
+342.632	is see if this teaspoon
+342.632	of the baby diaper material
+345.667	can increase in size.
+348.687	You're going to see it increase in volume
+348.687	by about a thousandfold
+352.407	before your very eyes.
+361.597	I could pour much more of this in there,
+363.593	but I think you've got the idea
+365.175	that this is a very,
+365.175	very interesting molecule,
+367.701	and if can use it in the right way,
+369.637	we might be able
+369.637	to really zoom in on the brain
+371.982	in a way that you can't do
+371.982	with past technologies.
+375.227	OK. So a little bit of chemistry now.
+377.305	What's going on
+377.305	in the baby diaper polymer?
+379.771	If you could zoom in,
+381.471	it might look something like
+381.471	what you see on the screen.
+384.168	Polymers are chains of atoms
+384.168	arranged in long, thin lines.
+388.684	The chains are very tiny,
+390.075	about the width of a biomolecule,
+391.963	and these polymers are really dense.
+393.734	They're separated by distances
+395.258	that are around the size of a biomolecule.
+397.534	This is very good
+398.723	because we could potentially
+398.723	move everything apart in the brain.
+401.788	If we add water, what will happen is,
+403.66	this swellable material
+403.66	is going to absorb the water,
+406.199	the polymer chains will move
+406.199	apart from each other,
+408.623	and the entire material
+408.623	is going to become bigger.
+411.615	And because these chains are so tiny
+413.453	and spaced by biomolecular distances,
+415.682	we could potentially blow up the brain
+417.745	and make it big enough to see.
+420.02	Here's the mystery, then:
+421.284	How do we actually make
+421.284	these polymer chains inside the brain
+424.918	so we can move all the biomolecules apart?
+427.181	If we could do that,
+428.356	maybe we could get
+428.356	ground truth maps of the brain.
+430.777	We could look at the wiring.
+432.19	We can peer inside
+432.19	and see the molecules within.
+435.925	To explain this, we made some animations
+438.43	where we actually look
+438.43	at, in these artist renderings,
+441.057	what biomolecules might look
+441.057	like and how we might separate them.
+444.622	Step one: what we'd have
+444.622	to do, first of all,
+447.195	is attach every biomolecule,
+447.195	shown in brown here,
+450.608	to a little anchor, a little handle.
+452.791	We need to pull the molecules
+452.791	of the brain apart from each other,
+455.91	and to do that, we need
+455.91	to have a little handle
+458.26	that allows those polymers to bind to them
+460.569	and to exert their force.
+463.278	Now, if you just take baby diaper
+463.278	polymer and dump it on the brain,
+466.463	obviously, it's going to sit there on top.
+468.524	So we need to find a way
+468.524	to make the polymers inside.
+471.076	And this is where we're really lucky.
+472.888	It turns out, you can
+472.888	get the building blocks,
+475.1	monomers, as they're called,
+476.496	and if you let them go into the brain
+478.304	and then trigger the chemical reactions,
+480.364	you can get them to form
+480.364	those long chains,
+483.09	right there inside the brain tissue.
+485.325	They're going to wind their way
+485.325	around biomolecules
+487.746	and between biomolecules,
+488.991	forming those complex webs
+490.64	that will allow you, eventually,
+490.64	to pull apart the molecules
+493.526	from each other.
+494.725	And every time one
+494.725	of those little handles is around,
+497.803	the polymer will bind to the handle,
+497.803	and that's exactly what we need
+501.177	in order to pull the molecules
+501.177	apart from each other.
+503.732	All right, the moment of truth.
+505.449	We have to treat this specimen
+507.621	with a chemical to kind of loosen up
+507.621	all the molecules from each other,
+511.091	and then, when we add water,
+512.951	that swellable material is going
+512.951	to start absorbing the water,
+515.928	the polymer chains will move apart,
+517.655	but now, the biomolecules
+517.655	will come along for the ride.
+520.401	And much like drawing
+520.401	a picture on a balloon,
+522.589	and then you blow up the balloon,
+524.2	the image is the same,
+525.514	but the ink particles have moved
+525.514	away from each other.
+528.086	And that's what we've been able
+528.086	to do now, but in three dimensions.
+531.577	There's one last trick.
+533.6	As you can see here,
+534.842	we've color-coded
+534.842	all the biomolecules brown.
+536.975	That's because they all
+536.975	kind of look the same.
+539.169	Biomolecules are made
+539.169	out of the same atoms,
+541.298	but just in different orders.
+543.562	So we need one last thing
+545.086	in order to make them visible.
+546.805	We have to bring in little tags,
+548.408	with glowing dyes
+548.408	that will distinguish them.
+551.451	So one kind of biomolecule
+551.451	might get a blue color.
+554.148	Another kind of biomolecule
+554.148	might get a red color.
+556.523	And so forth.
+557.823	And that's the final step.
+559.399	Now we can look at something like a brain
+561.701	and look at the individual molecules,
+563.521	because we've moved them
+563.521	far apart enough from each other
+566.252	that we can tell them apart.
+567.974	So the hope here is that
+567.974	we can make the invisible visible.
+570.832	We can turn things that might seem
+570.832	small and obscure
+573.422	and blow them up
+574.597	until they're like constellations
+574.597	of information about life.
+577.798	Here's an actual video
+577.798	of what it might look like.
+580.197	We have here a little brain in a dish --
+582.592	a little piece of a brain, actually.
+584.363	We've infused the polymer in,
+585.983	and now we're adding water.
+587.474	What you'll see is that,
+587.474	right before your eyes --
+589.856	this video is sped up about sixtyfold --
+591.803	this little piece of brain tissue
+591.803	is going to grow.
+594.552	It can increase by a hundredfold
+594.552	or even more in volume.
+597.756	And the cool part is, because
+597.756	those polymers are so tiny,
+600.729	we're separating biomolecules
+600.729	evenly from each other.
+603.312	It's a smooth expansion.
+604.994	We're not losing the configuration
+604.994	of the information.
+607.705	We're just making it easier to see.
+611.333	So now we can take
+611.333	actual brain circuitry --
+613.533	here's a piece of the brain
+613.533	involved with, for example, memory --
+616.691	and we can zoom in.
+617.978	We can start to actually look at
+617.978	how circuits are configured.
+620.892	Maybe someday we could read out a memory.
+622.884	Maybe we could actually look
+622.884	at how circuits are configured
+625.687	to process emotions,
+626.863	how the actual wiring
+626.863	of our brain is organized
+629.809	in order to make us who we are.
+632.4	And of course, we can pinpoint, hopefully,
+634.471	the actual problems in the brain
+634.471	at a molecular level.
+637.654	What if we could actually
+637.654	look into cells in the brain
+640.247	and figure out, wow, here are the 17
+640.247	molecules that have altered
+643.354	in this brain tissue that has been
+643.354	undergoing epilepsy
+646.833	or changing in Parkinson's disease
+648.507	or otherwise being altered?
+650.048	If we get that systematic list
+650.048	of things that are going wrong,
+653.115	those become our therapeutic targets.
+655.338	We can build drugs that bind those.
+657.039	We can maybe aim energy
+657.039	at different parts of the brain
+659.69	in order to help people
+659.69	with Parkinson's or epilepsy
+662.401	or other conditions that affect
+662.401	over a billion people
+664.976	around the world.
+667.246	Now, something interesting
+667.246	has been happening.
+669.476	It turns out that throughout biomedicine,
+672.205	there are other problems
+672.205	that expansion might help with.
+674.895	This is an actual biopsy
+674.895	from a human breast cancer patient.
+678.505	It turns out that if you look at cancers,
+680.717	if you look at the immune system,
+682.352	if you look at aging,
+682.352	if you look at development --
+684.889	all these processes are involving
+684.889	large-scale biological systems.
+689.41	But of course, the problems begin
+689.41	with those little nanoscale molecules,
+693.458	the machines that make the cells
+693.458	and the organs in our body tick.
+697.351	So what we're trying
+697.351	to do now is to figure out
+699.597	if we can actually use this technology
+699.597	to map the building blocks of life
+703.087	in a wide variety of diseases.
+704.856	Can we actually pinpoint
+704.856	the molecular changes in a tumor
+707.776	so that we can actually
+707.776	go after it in a smart way
+710.169	and deliver drugs that might wipe out
+710.169	exactly the cells that we want to?
+714.137	You know, a lot of medicine
+714.137	is very high risk.
+716.496	Sometimes, it's even guesswork.
+718.626	My hope is we can actually turn
+718.626	what might be a high-risk moon shot
+722.525	into something that's more reliable.
+724.318	If you think about the original moon shot,
+726.397	where they actually landed on the moon,
+728.319	it was based on solid science.
+729.787	We understood gravity;
+731.414	we understood aerodynamics.
+732.779	We knew how to build rockets.
+734.198	The science risk was under control.
+736.69	It was still a great, great
+736.69	feat of engineering.
+739.467	But in medicine, we don't
+739.467	necessarily have all the laws.
+742.136	Do we have all the laws
+742.136	that are analogous to gravity,
+745.269	that are analogous to aerodynamics?
+747.637	I would argue that with technologies
+749.391	like the kinds I'm talking about today,
+751.287	maybe we can actually derive those.
+753.004	We can map the patterns
+753.004	that occur in living systems,
+755.885	and figure out how to overcome
+755.885	the diseases that plague us.
+761.499	You know, my wife and I
+761.499	have two young kids,
+763.602	and one of my hopes as a bioengineer
+763.602	is to make life better for them
+766.86	than it currently is for us.
+768.613	And my hope is, if we can
+768.613	turn biology and medicine
+772.367	from these high-risk endeavors
+772.367	that are governed by chance and luck,
+776.748	and make them things
+776.748	that we win by skill and hard work,
+780.699	then that would be a great advance.
+782.621	Thank you very much.
+783.851	(Applause)

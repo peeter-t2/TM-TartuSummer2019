@@ -1,0 +1,330 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.911	It was a Saturday afternoon in May,
+19.09	and I suddenly realized
+21.604	that the next day was Mother's Day,
+25.058	and I hadn't gotten anything for my mom,
+26.904	so I started thinking about
+28.305	what should I get my mom for Mother's Day?
+30.642	I thought, why don't I make her
+32.486	an interactive Mother's Day card
+35.535	using the Scratch software that I'd been developing
+38.243	with my research group at the MIT Media Lab?
+42.06	We developed it so that people could easily create
+45.44	their own interactive stories and games and animations,
+49.684	and then share their creations with one another.
+53.453	So I thought, this would be an opportunity to use Scratch
+57.321	to make an interactive card for my mom.
+60.221	Before making my own Mother's Day card,
+62.397	I thought I would take a look
+64.382	at the Scratch website.
+65.955	So over the last several years, kids around the world
+69.313	ages 8 and up, have shared their projects,
+72.507	and I thought, I wonder if, of those three million projects,
+75.942	whether anyone else has thought to put up Mother's Day cards.
+79.327	So in the search box I typed in
+82.321	"""Mother's Day,"""
+83.866	and I was surprised and delighted to see a list
+86.869	of dozens and dozens of Mother's Day cards
+89.573	that showed up on the Scratch website,
+92.087	many of them just in the past 24 hours
+94.405	by procrastinators just like myself.
+97.611	So I started taking a look at them. (Music)
+100.733	I saw one of them that featured a kitten
+103.189	and her mom and wishing her mom a happy Mother's Day.
+110.06	And the creator very considerately
+112.591	offered a replay for her mom.
+116.095	Another one was an interactive project where,
+118.479	"when you moved the mouse over the letters of ""Happy Mom Day,"""
+121.677	it reveals a special happy Mother's Day slogan.
+126.597	(Music) In this one, the creator told a narrative
+130.58	about how she had Googled to find out
+133.239	when Mother's Day was happening.
+136.356	(Typing) And then once she found out when Mother's Day was happening,
+140.499	she delivered a special Mother's Day greeting
+142.977	of how much she loved her mom.
+146.604	So I really enjoyed looking at these projects
+148.829	and interacting with these projects.
+150.481	In fact, I liked it so much that, instead of making my own project,
+154.322	I sent my mom links to about a dozen of these projects. (Laughter)
+159.076	And actually, she reacted exactly the way that I hoped that she would.
+162.656	She wrote back to me and she said,
+164.041	"""I'm so proud to have a son that created the software"
+167.308	"that allowed these kids to make Mother's Day cards for their mothers."""
+171.42	So my mom was happy, and that made me happy,
+175.22	but actually I was even happier for another reason.
+179.844	I was happy because these kids were using Scratch
+183.803	just in the way that we had hoped that they would.
+186.604	As they created their interactive Mother's Day cards,
+189.415	you could see that they were really
+191.696	becoming fluent with new technologies.
+195.008	What do I mean by fluent?
+196.471	I mean that they were able to start expressing themselves
+200.503	and to start expressing their ideas.
+203.28	When you become fluent with language,
+205.934	it means you can write an entry in your journal
+209.471	or tell a joke to someone or write a letter to a friend.
+213.524	And it's similar with new technologies.
+216.681	By writing, be creating these interactive Mother's Day cards,
+220.863	these kids were showing that they were really fluent
+223.393	with new technologies.
+225.066	Now maybe you won't be so surprised by this,
+227.831	because a lot of times people feel that
+230.527	young people today can do all sorts of things with technology.
+233.927	"I mean, all of us have heard young people referred to as ""digital natives."""
+238.388	But actually I'm sort of skeptical about this term.
+242.185	I'm not so sure we should be thinking of young people as digital natives.
+245.686	When you really look at it, how is it that young people
+248.239	spend most of their time using new technologies?
+251.775	You often see them in situations like this,
+255.298	or like this,
+257.492	and there's no doubt that young people
+259.01	are very comfortable and familiar browsing
+262.326	and chatting and texting and gaming.
+266.848	But that doesn't really make you fluent.
+270.047	So young people today have lots of experience
+274.006	and lots of familiarity with interacting with new technologies,
+277.801	but a lot less so of creating with new technologies
+281.206	and expressing themselves with new technologies.
+284.178	It's almost as if they can read
+286.57	but not write with new technologies.
+289.903	And I'm really interested in seeing, how can we help young people become fluent
+293.801	so they can write with new technologies?
+296.33	And that really means that they need to be able to
+299.69	write their own computer programs, or code.
+304.202	So, increasingly, people are starting to recognize
+306.914	the importance of learning to code.
+310.218	You know, in recent years, there have been
+312.82	hundreds of new organizations and websites
+315.712	that are helping young people learn to code.
+319.006	You look online, you'll see places like Codecademy
+322.597	and events like CoderDojo
+324.968	and sites like Girls Who Code,
+327.399	or Black Girls Code.
+329.093	It seems that everybody is getting into the act.
+332.201	You know, just at the beginning of this year,
+334.784	at the turn of the new year,
+336.149	New York City Mayor Michael Bloomberg
+338.809	made a New Year's resolution that he was going to learn
+341.069	to code in 2012.
+343.848	A few months later, the country of Estonia decided that
+347.016	all of its first graders should learn to code.
+350.672	And that triggered a debate in the U.K.
+353.464	about whether all the children there should learn to code.
+357.773	Now, for some of you, when you hear about this,
+360.616	it might seem sort of strange about everybody learning to code.
+364.224	When many people think of coding, they think of it
+367.374	as something that only a very narrow sub-community
+370.95	of people are going to be doing,
+373.608	and they think of coding looking like this.
+376.53	And in fact, if this is what coding is like,
+378.696	it will only be a narrow sub-community of people
+381.191	with special mathematical skills and technological background
+384.263	that can code.
+386.529	But coding doesn't have to be like this.
+389.029	Let me show you about what it's like to code in Scratch.
+393.008	So in Scratch, to code, you just snap blocks together.
+397.287	In this case, you take a move block,
+399.202	snap it into a stack,
+400.971	and the stacks of blocks control the behaviors
+403.729	of the different characters in your game or your story,
+407.247	in this case controlling the big fish.
+409.548	"After you've created your program, you can click on ""share,"""
+412.999	and then share your project with other people,
+416.075	so that they can use the project
+417.898	and start working on the project as well.
+420.872	So, of course, making a fish game isn't the only thing
+424.194	you can do with Scratch.
+425.839	Of the millions of projects on the Scratch website,
+427.819	there's everything from animated stories
+430.643	to school science projects
+433.059	to anime soap operas
+435.123	to virtual construction kits
+437.445	to recreations of classic video games
+440.158	to political opinion polls
+442.427	to trigonometry tutorials
+445.067	to interactive artwork, and, yes,
+447.987	interactive Mother's Day cards.
+450.771	So I think there's so many different ways
+453.807	that people can express themselves using this,
+457.267	to be able to take their ideas and share their ideas with the world.
+460.667	And it doesn't just stay on the screen.
+463.229	You can also code to interact with the physical world around you.
+466.996	Here's an example from Hong Kong,
+469.475	where some kids made a game
+470.882	and then built their own physical interface device
+474.163	and had a light sensor, so the light sensor
+477.055	detects the hole in the board,
+478.998	so as they move the physical saw,
+481.198	the light sensor detects the hole
+483.438	and controls the virtual saw on the screen
+486.394	and saws down the tree.
+489.174	We're going to continue to look at new ways
+491.283	of bringing together the physical world and the virtual world
+494.339	and connecting to the world around us.
+497.267	This is an example from a new version of Scratch
+499.5	that we'll be releasing in the next few months,
+503.123	and we're looking again to be able
+505.173	to push you in new directions.
+506.869	Here's an example.
+509.133	It uses the webcam.
+513.207	And as I move my hand, I can pop the balloons
+518.063	or I can move the bug.
+520.948	So it's a little bit like Microsoft Kinect,
+523.513	where you interact with gestures in the world.
+526.229	But instead of just playing someone else's game,
+528.473	you get to create the games,
+530.715	and if you see someone else's game,
+532.098	"you can just say ""see inside,"""
+534.738	and you can look at the stacks of blocks that control it.
+537.632	So there's a new block that says how much video motion there is,
+541.187	and then, if there's so much video motion,
+544.308	it will then tell the balloon to pop.
+547.687	The same way that this uses the camera
+550.071	to get information into Scratch,
+552.576	you can also use the microphone.
+555.583	Here's an example of a project using the microphone.
+559.567	So I'm going to let all of you control this game
+561.967	using your voices.
+564.213	(Crickets chirping) (Shouts) (Chomping)
+580.669	(Laughter)
+589.298	(Applause)
+598.082	As kids are creating projects like this,
+600.687	they're learning to code,
+602.952	but even more importantly, they're coding to learn.
+606.886	Because as they learn to code,
+609.175	it enables them to learn many other things,
+612.495	opens up many new opportunities for learning.
+615.367	Again, it's useful to make an analogy to reading and writing.
+619.751	When you learn to read and write, it opens up
+622.691	opportunities for you to learn so many other things.
+625.751	When you learn to read, you can then read to learn.
+629.511	And it's the same thing with coding.
+631.699	If you learn to code, you can code to learn.
+634.246	Now some of the things you can learn are sort of obvious.
+636.8	You learn more about how computers work.
+639.298	But that's just where it starts.
+641.616	When you learn to code, it opens up for you to learn
+644.211	many other things.
+646.456	Let me show you an example.
+648.802	Here's another project,
+651.072	and I saw this when I was visiting
+653.34	one of the computer clubhouses.
+655.482	These are after-school learning centers that we helped start
+658.502	that help young people from low-income communities
+661.264	learn to express themselves creatively with new technologies.
+665.343	And when I went to one of the clubhouses a couple years ago,
+668.138	I saw a 13-year-old boy who was using our Scratch software
+671.863	to create a game somewhat like this one,
+674.759	and he was very happy with his game and proud of his game,
+677.682	but also he wanted to do more.
+680.647	He wanted to keep score.
+682.951	So this was a game where the big fish eats the little fish,
+686.027	but he wanted to keep score, so that each time
+688.954	the big fish eats the little fish,
+692.332	the score would go up and it would keep track,
+694.871	and he didn't know how to do that.
+697.383	So I showed him.
+699.648	In Scratch, you can create something called a variable.
+703.225	I'll call it score.
+707.352	And that creates some new blocks for you,
+710.183	and also creates a little scoreboard that keeps track of the score,
+714.849	"so each time I click on ""change score,"" it increments the score."
+720.101	So I showed this to the clubhouse member --
+722.626	let's call him Victor -- and Victor,
+725.327	when he saw that this block would let him increment the score,
+728.129	he knew exactly what to do.
+729.945	He took the block
+732.259	and he put it into the program
+735.303	exactly where the big fish eats the little fish.
+739.496	So then, each time the big fish eats the little fish,
+744.519	he will increment the score, and the score will go up by one.
+750.514	And it's in fact working.
+752.211	And he saw this, and he was so excited,
+754.465	he reached his hand out to me,
+756.144	"and he said, ""Thank you, thank you, thank you."""
+758.693	And what went through my mind was,
+760.762	how often is it that teachers are thanked by their students
+763.804	for teaching them variables? (Laughter)
+767.207	It doesn't happen in most classrooms,
+769.688	but that's because in most classrooms, when kids learn about variables,
+772.647	they don't know why they're learning it.
+775.155	It's nothing that, really, they can make use of.
+778.026	When you learn ideas like this in Scratch,
+780.188	you can learn it in a way that's really meaningful and motivating for you,
+784.291	that you can understand the reason for learning variables,
+787.281	and we see that kids learn it more deeply
+789.323	and learn it better.
+790.738	Victor had, I'm sure, been taught about variables in schools,
+793.779	but he really didn't -- he wasn't paying attention.
+795.967	Now he had a reason for learning variables.
+798.25	So when you learn through coding, and coding to learn,
+801.324	you're learning it in a meaningful context, and that's the best way of learning things.
+806.208	So as kids like Victor are creating projects like this,
+809.663	they're learning important concepts like variables,
+812.447	but that's just the start.
+814.575	As Victor worked on this project and created the scripts,
+818.425	he was also learning about the process of design,
+821.677	how to start with the glimmer of an idea
+824.296	and turn it into a fully-fledged, functioning project
+827.202	like you see here.
+829.709	So he was learning many different core principles of design,
+833.749	about how to experiment with new ideas,
+836.991	how to take complex ideas and break them down into simpler parts,
+841.696	how to collaborate with other people on your projects,
+844.686	about how to find and fix bugs when things go wrong,
+848.137	how to keep persistent and to persevere
+851.191	in the face of frustrations when things aren't working well.
+854.596	Now those are important skills
+856.369	that aren't just relevant for coding.
+859.237	They're relevant for all sorts of different activities.
+862.064	Now, who knows if Victor is going to grow up and become
+865.232	a programmer or a professional computer scientist?
+868.156	It's probably not so likely,
+869.968	but regardless of what he does,
+871.756	he'll be able to make use of these design skills that he learned.
+875.46	Regardless of whether he grows up to be a marketing manager
+878.044	or a mechanic or a community organizer,
+881.164	that these ideas are useful for everybody.
+883.62	Again, it's useful to think about this analogy with language.
+887.542	When you become fluent with reading and writing,
+891.898	it's not something that you're doing
+894.339	just to become a professional writer.
+896.299	Very few people become professional writers.
+898.996	But it's useful for everybody to learn how to read and write.
+902.564	Again, the same thing with coding.
+904.659	Most people won't grow up to become professional
+906.881	computer scientists or programmers,
+910.1	but those skills of thinking creatively,
+912.438	reasoning systematically, working collaboratively --
+914.952	skills you develop when you code in Scratch --
+917.662	are things that people can use no matter what they're doing in their work lives.
+922.484	And it's not just about your work life.
+924.86	Coding can also enable you to
+927.58	express your ideas and feelings in your personal life.
+930.756	Let me end with just one more example.
+933.429	So this is an example that came from
+936.556	after I had sent the Mother's Day cards to my mom,
+941.024	she decided that she wanted to learn Scratch.
+944.125	So she made this project for my birthday
+947.156	and sent me a happy birthday Scratch card.
+950.732	Now this project is not going to win any prizes for design,
+954.588	and you can rest assured that my 83-year-old mom
+957.563	is not training to become a professional programmer or computer scientist.
+961.8	But working on this project enabled her
+964.772	to make a connection to someone that she cares about
+967.438	and enabled her to keep on learning new things
+970.246	and continuing to practice her creativity
+972.678	and developing new ways of expressing herself.
+975.853	So as we take a look and we see that
+980.064	Michael Bloomberg is learning to code,
+982.628	all of the children of Estonia learn to code,
+985.278	even my mom has learned to code,
+987.478	don't you think it's about time that you might be
+989.25	thinking about learning to code?
+991.162	If you're interested in giving it a try,
+993.355	I'd encourage you to go to the Scratch website.
+995.791	It's scratch.mit.edu,
+997.816	and give a try at coding.
+999.638	Thanks very much. (Applause)

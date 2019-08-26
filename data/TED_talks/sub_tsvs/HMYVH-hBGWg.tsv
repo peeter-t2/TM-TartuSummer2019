@@ -1,0 +1,191 @@
+startsecond	text
+13.16	Information technology grows in an exponential manner.
+16.16	It's not linear. And our intuition is linear.
+20.16	When we walked through the savanna a thousand years ago
+22.16	we made linear predictions where that animal would be,
+24.16	and that worked fine. It's hardwired in our brains.
+27.16	But the pace of exponential growth
+30.16	is really what describes information technologies.
+33.16	And it's not just computation.
+36.16	There is a big difference between linear and exponential growth.
+38.16	If I take 30 steps linearly -- one, two, three, four, five --
+42.16	I get to 30.
+44.16	If I take 30 steps exponentially -- two, four, eight, 16 --
+47.16	I get to a billion.
+49.16	It makes a huge difference.
+51.16	And that really describes information technology.
+53.16	When I was a student at MIT,
+55.16	we all shared one computer that took up a whole building.
+57.16	The computer in your cellphone today is a million times cheaper,
+60.16	a million times smaller,
+62.16	a thousand times more powerful.
+64.16	That's a billion-fold increase in capability per dollar
+67.16	that we've actually experienced since I was a student.
+69.16	And we're going to do it again in the next 25 years.
+72.16	Information technology progresses
+74.16	through a series of S-curves
+76.16	where each one is a different paradigm.
+78.16	"So people say, ""What's going to happen when Moore's Law comes to an end?"""
+81.16	Which will happen around 2020.
+83.16	We'll then go to the next paradigm.
+85.16	And Moore's Law was not the first paradigm
+87.16	to bring exponential growth to computing.
+89.16	The exponential growth of computing started
+91.16	decades before Gordon Moore was even born.
+93.16	And it doesn't just apply to computation.
+97.16	It's really any technology where we can measure
+99.16	the underlying information properties.
+102.16	Here we have 49 famous computers. I put them in a logarithmic graph.
+106.16	The logarithmic scale hides the scale of the increase,
+110.16	because this represents trillions-fold increase
+112.16	since the 1890 census.
+115.16	In 1950s they were shrinking vacuum tubes,
+117.16	making them smaller and smaller. They finally hit a wall;
+120.16	they couldn't shrink the vacuum tube any more and keep the vacuum.
+122.16	And that was the end of the shrinking of vacuum tubes,
+125.16	but it was not the end of the exponential growth of computing.
+128.16	We went to the fourth paradigm, transistors,
+130.16	and finally integrated circuits.
+132.16	When that comes to an end we'll go to the sixth paradigm;
+134.16	three-dimensional self-organizing molecular circuits.
+138.16	But what's even more amazing, really, than this
+141.16	fantastic scale of progress,
+143.16	is that -- look at how predictable this is.
+145.16	I mean this went through thick and thin,
+147.16	through war and peace, through boom times and recessions.
+150.16	The Great Depression made not a dent in this exponential progression.
+154.16	We'll see the same thing in the economic recession we're having now.
+158.16	At least the exponential growth of information technology capability
+161.16	will continue unabated.
+164.16	And I just updated these graphs.
+166.16	"Because I had them through 2002 in my book, ""The Singularity is Near."""
+169.16	So we updated them,
+171.16	so I could present it here, to 2007.
+174.16	"And I was asked, ""Well aren't you nervous?"
+176.16	"Maybe it kind of didn't stay on this exponential progression."""
+180.16	I was a little nervous
+182.16	because maybe the data wouldn't be right,
+184.16	but I've done this now for 30 years,
+186.16	and it has stayed on this exponential progression.
+189.16	Look at this graph here.You could buy one transistor for a dollar in 1968.
+192.16	You can buy half a billion today,
+194.16	and they are actually better, because they are faster.
+196.16	But look at how predictable this is.
+198.16	And I'd say this knowledge is over-fitting to past data.
+201.16	I've been making these forward-looking predictions for about 30 years.
+205.16	And the cost of a transistor cycle,
+207.16	which is a measure of the price performance of electronics,
+209.16	comes down about every year.
+211.16	That's a 50 percent deflation rate.
+213.16	And it's also true of other examples,
+215.16	like DNA data or brain data.
+217.16	But we more than make up for that.
+219.16	We actually ship more than twice as much
+221.16	of every form of information technology.
+223.16	We've had 18 percent growth in constant dollars
+226.16	in every form of information technology for the last half-century,
+229.16	despite the fact that you can get twice as much of it each year.
+233.16	This is a completely different example.
+235.16	This is not Moore's Law.
+237.16	The amount of DNA data
+239.16	we've sequenced has doubled every year.
+241.16	The cost has come down by half every year.
+244.16	And this has been a smooth progression
+246.16	since the beginning of the genome project.
+248.16	And halfway through the project, skeptics said,
+250.16	"""Well, this is not working out. You're halfway through the genome project"
+253.16	"and you've finished one percent of the project."""
+255.16	But that was really right on schedule.
+257.16	Because if you double one percent seven more times,
+259.16	which is exactly what happened,
+261.16	you get 100 percent. And the project was finished on time.
+264.16	Communication technologies:
+268.16	the number of bits being moved around, the size of the Internet.
+271.16	But this has progressed at an exponential pace.
+273.16	This is deeply democratizing.
+275.16	"I wrote, over 20 years ago in ""The Age of Intelligent Machines,"""
+278.16	when the Soviet Union was going strong, that it would be swept away
+281.16	by this growth of decentralized communication.
+285.16	And we will have plenty of computation as we go through the 21st century
+288.16	to do things like simulate regions of the human brain.
+292.16	But where will we get the software?
+294.16	"Some critics say, ""Oh, well software is stuck in the mud."""
+297.16	But we are learning more and more about the human brain.
+299.16	Spatial resolution of brain scanning is doubling every year.
+302.16	The amount of data we're getting about the brain is doubling every year.
+305.16	And we're showing that we can actually turn this data
+308.16	into working models and simulations of brain regions.
+311.16	There is about 20 regions of the brain that have been modeled,
+313.16	simulated and tested:
+315.16	the auditory cortex, regions of the visual cortex;
+318.16	cerebellum, where we do our skill formation;
+320.16	slices of the cerebral cortex, where we do our rational thinking.
+324.16	And all of this has fueled
+326.16	an increase, very smooth and predictable, of productivity.
+329.16	We've gone from 30 dollars to 130 dollars
+331.16	in constant dollars in the value of an average hour of human labor,
+335.16	fueled by this information technology.
+338.16	And we're all concerned about energy and the environment.
+341.16	Well this is a logarithmic graph.
+343.16	This represents a smooth doubling,
+345.16	every two years, of the amount of solar energy we're creating,
+349.16	particularly as we're now applying nanotechnology,
+351.16	a form of information technology, to solar panels.
+354.16	And we're only eight doublings away
+356.16	from it meeting 100 percent of our energy needs.
+358.16	And there is 10 thousand times more sunlight than we need.
+362.16	We ultimately will merge with this technology. It's already very close to us.
+367.16	When I was a student it was across campus, now it's in our pockets.
+370.16	What used to take up a building now fits in our pockets.
+373.16	What now fits in our pockets would fit in a blood cell in 25 years.
+376.16	And we will begin to actually deeply influence
+380.16	our health and our intelligence,
+382.16	as we get closer and closer to this technology.
+386.16	Based on that we are announcing, here at TED,
+389.16	in true TED tradition, Singularity University.
+392.16	It's a new university
+394.16	that's founded by Peter Diamandis, who is here in the audience,
+396.16	and myself.
+398.16	It's backed by NASA and Google,
+400.16	and other leaders in the high-tech and science community.
+404.16	And our goal was to assemble the leaders,
+407.16	both teachers and students,
+409.16	in these exponentially growing information technologies,
+411.16	and their application.
+413.16	But Larry Page made an impassioned speech
+415.16	at our organizing meeting,
+417.16	saying we should devote this study
+422.16	to actually addressing some of the major challenges facing humanity.
+426.16	And if we did that, then Google would back this.
+428.16	And so that's what we've done.
+430.16	The last third of the nine-week intensive summer session
+434.16	will be devoted to a group project to address
+436.16	some major challenge of humanity.
+438.16	Like for example, applying the Internet,
+440.16	which is now ubiquitous, in the rural areas of China or in Africa,
+445.16	to bringing health information
+447.16	to developing areas of the world.
+450.16	And these projects will continue past these sessions,
+453.16	using collaborative interactive communication.
+456.16	All the intellectual property that is created and taught
+460.16	will be online and available,
+462.16	and developed online in a collaborative fashion.
+465.16	Here is our founding meeting.
+467.16	But this is being announced today.
+469.16	It will be permanently headquartered in Silicon Valley,
+472.16	at the NASA Ames research center.
+474.16	There are different programs for graduate students,
+476.16	for executives at different companies.
+479.16	The first six tracks here -- artificial intelligence,
+481.16	advanced computing technologies, biotechnology, nanotechnology --
+484.16	are the different core areas of information technology.
+488.16	Then we are going to apply them to the other areas,
+490.16	like energy, ecology,
+493.16	policy law and ethics, entrepreneurship,
+495.16	so that people can bring these new technologies to the world.
+499.16	So we're very appreciative of the support we've gotten
+504.16	from both the intellectual leaders, the high-tech leaders,
+506.16	particularly Google and NASA.
+508.16	This is an exciting new venture.
+510.16	And we invite you to participate. Thank you very much.
+513.16	(Applause)

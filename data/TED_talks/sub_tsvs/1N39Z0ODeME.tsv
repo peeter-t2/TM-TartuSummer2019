@@ -1,0 +1,282 @@
+startsecond	text
+12.838	Cancer affects all of us --
+15.045	especially the ones that come
+15.045	back over and over again,
+18.436	the highly invasive
+18.436	and drug-resistant ones,
+21.456	the ones that defy medical treatment,
+23.859	even when we throw our best drugs at them.
+27.247	Engineering at the molecular level,
+30.191	working at the smallest of scales,
+32.863	can provide exciting new ways
+35.41	to fight the most aggressive
+35.41	forms of cancer.
+39.26	Cancer is a very clever disease.
+42.346	There are some forms of cancer,
+43.947	which, fortunately, we've learned
+43.947	how to address relatively well
+48.706	with known and established
+48.706	drugs and surgery.
+52.627	But there are some forms of cancer
+54.628	that don't respond to these approaches,
+56.884	and the tumor survives or comes back,
+59.536	even after an onslaught of drugs.
+62.053	We can think of these
+62.053	very aggressive forms of cancer
+66.071	as kind of supervillains in a comic book.
+69.455	They're clever, they're adaptable,
+72.184	and they're very good at staying alive.
+75.744	And, like most supervillains these days,
+78.996	their superpowers come
+78.996	from a genetic mutation.
+84.74	The genes that are modified
+84.74	inside these tumor cells
+87.706	can enable and encode for new
+87.706	and unimagined modes of survival,
+92.997	allowing the cancer cell to live through
+95.496	even our best chemotherapy treatments.
+98.789	One example is a trick
+98.789	in which a gene allows a cell,
+103.32	even as the drug approaches the cell,
+106.39	to push the drug out,
+109.85	before the drug can have any effect.
+112.047	Imagine -- the cell effectively
+112.047	spits out the drug.
+116.393	This is just one example
+116.393	of the many genetic tricks
+119.347	in the bag of our supervillain, cancer.
+121.971	All due to mutant genes.
+124.717	So, we have a supervillain
+124.717	with incredible superpowers.
+129.462	And we need a new and powerful
+129.462	mode of attack.
+133.704	Actually, we can turn off a gene.
+137.328	The key is a set of molecules
+137.328	known as siRNA.
+141.143	siRNA are short sequences of genetic code
+145.253	that guide a cell to block a certain gene.
+148.982	Each siRNA molecule
+148.982	can turn off a specific gene
+152.581	inside the cell.
+155.292	For many years since its discovery,
+157.337	scientists have been very excited
+159.311	about how we can apply
+159.311	these gene blockers in medicine.
+163.216	But, there is a problem.
+164.958	siRNA works well inside the cell.
+167.854	But if it gets exposed to the enzymes
+170.872	that reside in our bloodstream
+170.872	or our tissues,
+173.396	it degrades within seconds.
+175.769	It has to be packaged, protected
+175.769	through its journey through the body
+180.109	on its way to the final target
+180.109	inside the cancer cell.
+183.74	So, here's our strategy.
+186.468	First, we'll dose the cancer cell
+186.468	with siRNA, the gene blocker,
+190.295	and silence those survival genes,
+191.915	and then we'll whop it with a chemo drug.
+194.501	But how do we carry that out?
+196.764	Using molecular engineering,
+199.705	we can actually design a superweapon
+203.648	that can travel through the bloodstream.
+205.923	It has to be tiny enough
+205.923	to get through the bloodstream,
+208.943	it's got to be small enough
+208.943	to penetrate the tumor tissue,
+212.368	and it's got to be tiny enough
+212.368	to be taken up inside the cancer cell.
+217.049	To do this job well,
+218.675	it has to be about one one-hundredth
+218.675	the size of a human hair.
+224.224	Let's take a closer look
+224.224	at how we can build this nanoparticle.
+229.146	First, let's start
+229.146	with the nanoparticle core.
+231.567	It's a tiny capsule that contains
+231.567	the chemotherapy drug.
+236.089	This is the poison that will
+236.089	actually end the tumor cell's life.
+240.152	Around this core, we'll wrap a very thin,
+243.961	nanometers-thin blanket of siRNA.
+246.818	This is our gene blocker.
+249.093	Because siRNA is strongly
+249.093	negatively charged,
+252.706	we can protect it
+254.287	with a nice, protective layer
+254.287	of positively charged polymer.
+259.503	The two oppositely charged
+259.503	molecules stick together
+262.784	through charge attraction,
+264.244	and that provides us
+264.244	with a protective layer
+266.402	that prevents the siRNA
+266.402	from degrading in the bloodstream.
+270.106	We're almost done.
+271.43	(Laughter)
+272.914	But there is one more big obstacle
+272.914	we have to think about.
+277.016	In fact, it may be the biggest
+277.016	obstacle of all.
+279.432	How do we deploy this superweapon?
+281.43	I mean, every good weapon
+281.43	needs to be targeted,
+284.008	we have to target this superweapon
+284.008	to the supervillain cells
+288.097	that reside in the tumor.
+290.071	But our bodies have a natural
+290.071	immune-defense system:
+293.916	cells that reside in the bloodstream
+295.891	and pick out things that don't belong,
+298.26	so that it can destroy or eliminate them.
+300.583	And guess what? Our nanoparticle
+300.583	is considered a foreign object.
+305.718	We have to sneak our nanoparticle
+305.718	past the tumor defense system.
+309.841	We have to get it past this mechanism
+309.841	of getting rid of the foreign object
+316.119	by disguising it.
+317.563	So we add one more
+317.563	negatively charged layer
+321.932	around this nanoparticle,
+323.28	which serves two purposes.
+325.14	First, this outer layer is one
+325.14	of the naturally charged,
+329.132	highly hydrated polysaccharides
+329.132	that resides in our body.
+333.456	It creates a cloud of water molecules
+333.456	around the nanoparticle
+338.313	that gives us an invisibility
+338.313	cloaking effect.
+342.257	This invisibility cloak allows
+342.257	the nanoparticle
+344.998	to travel through the bloodstream
+346.628	long and far enough to reach the tumor,
+349.417	without getting eliminated by the body.
+352.121	Second, this layer contains molecules
+356.537	which bind specifically to our tumor cell.
+360.19	Once bound, the cancer cell
+360.19	takes up the nanoparticle,
+364.734	and now we have our nanoparticle
+364.734	inside the cancer cell
+369.132	and ready to deploy.
+371.304	Alright! I feel the same way. Let's go!
+373.565	(Applause)
+380.057	The siRNA is deployed first.
+384.287	It acts for hours,
+385.937	giving enough time to silence
+385.937	and block those survival genes.
+391.398	We have now disabled
+391.398	those genetic superpowers.
+395.725	What remains is a cancer cell
+395.725	with no special defenses.
+398.978	Then, the chemotherapy drug
+398.978	comes out of the core
+401.904	and destroys the tumor cell
+401.904	cleanly and efficiently.
+406.228	With sufficient gene blockers,
+408.589	we can address many
+408.589	different kinds of mutations,
+411.823	allowing the chance to sweep out tumors,
+414.208	without leaving behind any bad guys.
+416.811	So, how does our strategy work?
+421.543	We've tested these nanostructure
+421.543	particles in animals
+425.528	using a highly aggressive form
+425.528	of triple-negative breast cancer.
+429.135	This triple-negative breast cancer
+429.135	exhibits the gene
+431.714	that spits out cancer drug
+431.714	as soon as it is delivered.
+435.742	Usually, doxorubicin -- let's call
+435.742	"it ""dox"" -- is the cancer drug"
+440.937	that is the first line of treatment
+440.937	for breast cancer.
+444.178	So, we first treated our animals
+444.178	with a dox core, dox only.
+450.661	The tumor slowed their rate of growth,
+452.892	but they still grew rapidly,
+454.356	doubling in size
+454.356	over a period of two weeks.
+457.297	Then, we tried
+457.297	our combination superweapon.
+461.415	A nanolayer particle with siRNA
+461.415	against the chemo pump,
+465.851	plus, we have the dox in the core.
+468.87	And look -- we found that not only
+468.87	did the tumors stop growing,
+473.209	they actually decreased in size
+475.749	and were eliminated in some cases.
+478.188	The tumors were actually regressing.
+481.859	(Applause)
+489.82	What's great about this approach
+489.82	is that it can be personalized.
+493.652	We can add many different layers of siRNA
+496.512	to address different mutations
+496.512	and tumor defense mechanisms.
+500.094	And we can put different drugs
+500.094	into the nanoparticle core.
+503.946	As doctors learn how to test patients
+507.177	and understand certain
+507.177	tumor genetic types,
+510.975	they can help us determine which patients
+510.975	can benefit from this strategy
+514.741	and which gene blockers we can use.
+518.41	Ovarian cancer strikes
+518.41	a special chord with me.
+521.337	It is a very aggressive cancer,
+523.334	in part because it's discovered
+523.334	at very late stages,
+526.243	when it's highly advanced
+527.714	and there are a number
+527.714	of genetic mutations.
+530.566	After the first round of chemotherapy,
+533.579	this cancer comes back
+533.579	for 75 percent of patients.
+538.333	And it usually comes back
+538.333	in a drug-resistant form.
+542.215	High-grade ovarian cancer
+543.933	is one of the biggest
+543.933	supervillains out there.
+546.124	And we're now directing our superweapon
+548.06	toward its defeat.
+551.375	As a researcher,
+552.661	I usually don't get to work with patients.
+556.164	But I recently met a mother
+558.605	who is an ovarian cancer survivor,
+558.605	Mimi, and her daughter, Paige.
+564.257	I was deeply inspired
+564.257	by the optimism and strength
+568.385	that both mother and daughter displayed
+571.495	and by their story of courage and support.
+575.119	At this event, we spoke
+575.119	about the different technologies
+578.546	directed at cancer.
+580.355	And Mimi was in tears
+581.688	as she explained how learning
+581.688	about these efforts
+584.539	gives her hope for future generations,
+586.773	including her own daughter.
+589.449	This really touched me.
+591.524	It's not just about building
+591.524	really elegant science.
+595.14	It's about changing people's lives.
+598.33	It's about understanding
+598.33	the power of engineering
+601.565	on the scale of molecules.
+603.47	I know that as students like Paige
+603.47	move forward in their careers,
+607.577	they'll open new possibilities
+609.041	in addressing some of the big
+609.041	health problems in the world --
+612.455	including ovarian cancer, neurological
+612.455	disorders, infectious disease --
+618.104	just as chemical engineering has
+618.104	found a way to open doors for me,
+622.437	and has provided a way of engineering
+625.095	on the tiniest scale,
+625.095	that of molecules,
+628.651	to heal on the human scale.
+631.797	Thank you.
+632.979	(Applause)

@@ -1,0 +1,369 @@
+startsecond	text
+15.26	This is a photograph
+17.26	by the artist Michael Najjar,
+19.26	and it's real,
+21.26	in the sense that he went there to Argentina
+23.26	to take the photo.
+25.26	But it's also a fiction. There's a lot of work that went into it after that.
+28.26	And what he's done
+30.26	is he's actually reshaped, digitally,
+32.26	all of the contours of the mountains
+34.26	to follow the vicissitudes of the Dow Jones index.
+37.26	So what you see,
+39.26	that precipice, that high precipice with the valley,
+41.26	is the 2008 financial crisis.
+43.26	The photo was made
+45.26	when we were deep in the valley over there.
+47.26	I don't know where we are now.
+49.26	This is the Hang Seng index
+51.26	for Hong Kong.
+53.26	And similar topography.
+55.26	I wonder why.
+57.26	And this is art. This is metaphor.
+60.26	But I think the point is
+62.26	that this is metaphor with teeth,
+64.26	and it's with those teeth that I want to propose today
+67.26	that we rethink a little bit
+69.26	about the role of contemporary math --
+72.26	not just financial math, but math in general.
+75.26	That its transition
+77.26	from being something that we extract and derive from the world
+80.26	to something that actually starts to shape it --
+83.26	the world around us and the world inside us.
+86.26	And it's specifically algorithms,
+88.26	which are basically the math
+90.26	that computers use to decide stuff.
+93.26	They acquire the sensibility of truth
+95.26	because they repeat over and over again,
+97.26	and they ossify and calcify,
+100.26	and they become real.
+102.26	And I was thinking about this, of all places,
+105.26	on a transatlantic flight a couple of years ago,
+108.26	because I happened to be seated
+110.26	next to a Hungarian physicist about my age
+112.26	and we were talking
+114.26	about what life was like during the Cold War
+116.26	for physicists in Hungary.
+118.26	"And I said, ""So what were you doing?"""
+120.26	"And he said, ""Well we were mostly breaking stealth."""
+122.26	"And I said, ""That's a good job. That's interesting."
+124.26	"How does that work?"""
+126.26	And to understand that,
+128.26	you have to understand a little bit about how stealth works.
+131.26	And so -- this is an over-simplification --
+134.26	but basically, it's not like
+136.26	you can just pass a radar signal
+138.26	right through 156 tons of steel in the sky.
+141.26	It's not just going to disappear.
+144.26	But if you can take this big, massive thing,
+147.26	and you could turn it into
+150.26	a million little things --
+152.26	something like a flock of birds --
+154.26	well then the radar that's looking for that
+156.26	has to be able to see
+158.26	every flock of birds in the sky.
+160.26	And if you're a radar, that's a really bad job.
+164.26	"And he said, ""Yeah."" He said, ""But that's if you're a radar."
+167.26	So we didn't use a radar;
+169.26	we built a black box that was looking for electrical signals,
+172.26	electronic communication.
+175.26	And whenever we saw a flock of birds that had electronic communication,
+178.26	"we thought, 'Probably has something to do with the Americans.'"""
+181.26	"And I said, ""Yeah."
+183.26	That's good.
+185.26	So you've effectively negated
+189.26	What's your act two?
+191.26	"What do you do when you grow up?"""
+193.26	And he said,
+195.26	"""Well, financial services."""
+197.26	"And I said, ""Oh."""
+199.26	Because those had been in the news lately.
+202.26	"And I said, ""How does that work?"""
+204.26	"And he said, ""Well there's 2,000 physicists on Wall Street now,"
+206.26	"and I'm one of them."""
+208.26	"And I said, ""What's the black box for Wall Street?"""
+211.26	"And he said, ""It's funny you ask that,"
+213.26	because it's actually called black box trading.
+216.26	And it's also sometimes called algo trading,
+218.26	"algorithmic trading."""
+221.26	And algorithmic trading evolved in part
+224.26	because institutional traders have the same problems
+227.26	that the United States Air Force had,
+230.26	which is that they're moving these positions --
+233.26	whether it's Proctor &amp; Gamble or Accenture, whatever --
+235.26	they're moving a million shares of something
+237.26	through the market.
+239.26	And if they do that all at once,
+241.26	it's like playing poker and going all in right away.
+243.26	You just tip your hand.
+245.26	And so they have to find a way --
+247.26	and they use algorithms to do this --
+249.26	to break up that big thing
+251.26	into a million little transactions.
+253.26	And the magic and the horror of that
+255.26	is that the same math
+257.26	that you use to break up the big thing
+259.26	into a million little things
+261.26	can be used to find a million little things
+263.26	and sew them back together
+265.26	and figure out what's actually happening in the market.
+267.26	So if you need to have some image
+269.26	of what's happening in the stock market right now,
+272.26	what you can picture is a bunch of algorithms
+274.26	that are basically programmed to hide,
+277.26	and a bunch of algorithms that are programmed to go find them and act.
+280.26	And all of that's great, and it's fine.
+283.26	And that's 70 percent
+285.26	of the United States stock market,
+289.26	formerly known as your pension,
+292.26	your mortgage.
+295.26	And what could go wrong?
+297.26	What could go wrong
+299.26	is that a year ago,
+301.26	nine percent of the entire market just disappears in five minutes,
+304.26	and they called it the Flash Crash of 2:45.
+307.26	All of a sudden, nine percent just goes away,
+310.26	and nobody to this day
+312.26	can even agree on what happened
+314.26	because nobody ordered it, nobody asked for it.
+317.26	Nobody had any control over what was actually happening.
+320.26	All they had
+322.26	was just a monitor in front of them
+324.26	that had the numbers on it
+326.26	and just a red button
+328.26	"that said, ""Stop."""
+330.26	And that's the thing,
+332.26	is that we're writing things,
+334.26	we're writing these things that we can no longer read.
+337.26	And we've rendered something
+339.26	illegible,
+341.26	and we've lost the sense
+344.26	of what's actually happening
+346.26	in this world that we've made.
+348.26	And we're starting to make our way.
+350.26	There's a company in Boston called Nanex,
+353.26	and they use math and magic
+355.26	and I don't know what,
+357.26	and they reach into all the market data
+359.26	and they find, actually sometimes, some of these algorithms.
+362.26	And when they find them they pull them out
+365.26	and they pin them to the wall like butterflies.
+368.26	And they do what we've always done
+370.26	when confronted with huge amounts of data that we don't understand --
+373.26	which is that they give them a name
+375.26	and a story.
+377.26	So this is one that they found,
+379.26	they called the Knife,
+383.26	the Carnival,
+385.26	the Boston Shuffler,
+389.26	Twilight.
+391.26	And the gag is
+393.26	that, of course, these aren't just running through the market.
+396.26	You can find these kinds of things wherever you look,
+399.26	once you learn how to look for them.
+401.26	You can find it here: this book about flies
+404.26	that you may have been looking at on Amazon.
+406.26	You may have noticed it
+408.26	when its price started at 1.7 million dollars.
+410.26	It's out of print -- still ...
+412.26	(Laughter)
+414.26	If you had bought it at 1.7, it would have been a bargain.
+417.26	A few hours later, it had gone up
+419.26	to 23.6 million dollars,
+421.26	plus shipping and handling.
+423.26	And the question is:
+425.26	Nobody was buying or selling anything; what was happening?
+427.26	And you see this behavior on Amazon
+429.26	as surely as you see it on Wall Street.
+431.26	And when you see this kind of behavior,
+433.26	what you see is the evidence
+435.26	of algorithms in conflict,
+437.26	algorithms locked in loops with each other,
+439.26	without any human oversight,
+441.26	without any adult supervision
+444.26	"to say, ""Actually, 1.7 million is plenty."""
+447.26	(Laughter)
+450.26	And as with Amazon, so it is with Netflix.
+453.26	And so Netflix has gone through
+455.26	several different algorithms over the years.
+457.26	They started with Cinematch, and they've tried a bunch of others --
+460.26	there's Dinosaur Planet; there's Gravity.
+462.26	They're using Pragmatic Chaos now.
+464.26	Pragmatic Chaos is, like all of Netflix algorithms,
+466.26	trying to do the same thing.
+468.26	It's trying to get a grasp on you,
+470.26	on the firmware inside the human skull,
+472.26	so that it can recommend what movie
+474.26	you might want to watch next --
+476.26	which is a very, very difficult problem.
+479.26	But the difficulty of the problem
+481.26	and the fact that we don't really quite have it down,
+484.26	it doesn't take away
+486.26	from the effects Pragmatic Chaos has.
+488.26	Pragmatic Chaos, like all Netflix algorithms,
+491.26	determines, in the end,
+495.26	of what movies end up being rented.
+497.26	So one piece of code
+499.26	with one idea about you
+502.26	is responsible for 60 percent of those movies.
+505.26	But what if you could rate those movies
+507.26	before they get made?
+509.26	Wouldn't that be handy?
+511.26	Well, a few data scientists from the U.K. are in Hollywood,
+514.26	"and they have ""story algorithms"" --"
+516.26	a company called Epagogix.
+518.26	And you can run your script through there,
+521.26	and they can tell you, quantifiably,
+523.26	that that's a 30 million dollar movie
+525.26	or a 200 million dollar movie.
+527.26	And the thing is, is that this isn't Google.
+529.26	This isn't information.
+531.26	These aren't financial stats; this is culture.
+533.26	And what you see here,
+535.26	or what you don't really see normally,
+537.26	is that these are the physics of culture.
+541.26	And if these algorithms,
+543.26	like the algorithms on Wall Street,
+545.26	just crashed one day and went awry,
+548.26	how would we know?
+550.26	What would it look like?
+552.26	And they're in your house. They're in your house.
+555.26	These are two algorithms competing for your living room.
+557.26	These are two different cleaning robots
+559.26	that have very different ideas about what clean means.
+562.26	And you can see it
+564.26	if you slow it down and attach lights to them,
+567.26	and they're sort of like secret architects in your bedroom.
+570.26	And the idea that architecture itself
+573.26	is somehow subject to algorithmic optimization
+575.26	is not far-fetched.
+577.26	It's super-real and it's happening around you.
+580.26	You feel it most
+582.26	when you're in a sealed metal box,
+584.26	a new-style elevator;
+586.26	they're called destination-control elevators.
+588.26	These are the ones where you have to press what floor you're going to go to
+591.26	before you get in the elevator.
+593.26	And it uses what's called a bin-packing algorithm.
+595.26	So none of this mishegas
+597.26	of letting everybody go into whatever car they want.
+599.26	Everybody who wants to go to the 10th floor goes into car two,
+601.26	and everybody who wants to go to the third floor goes into car five.
+604.26	And the problem with that
+606.26	is that people freak out.
+608.26	People panic.
+610.26	And you see why. You see why.
+612.26	It's because the elevator
+614.26	is missing some important instrumentation, like the buttons.
+617.26	(Laughter)
+619.26	Like the things that people use.
+621.26	All it has
+623.26	is just the number that moves up or down
+626.26	"and that red button that says, ""Stop."""
+629.26	And this is what we're designing for.
+632.26	We're designing
+634.26	for this machine dialect.
+636.26	And how far can you take that? How far can you take it?
+639.26	You can take it really, really far.
+641.26	So let me take it back to Wall Street.
+645.26	Because the algorithms of Wall Street
+647.26	are dependent on one quality above all else,
+650.26	which is speed.
+652.26	And they operate on milliseconds and microseconds.
+655.26	And just to give you a sense of what microseconds are,
+657.26	it takes you 500,000 microseconds
+659.26	just to click a mouse.
+661.26	But if you're a Wall Street algorithm
+663.26	and you're five microseconds behind,
+665.26	you're a loser.
+667.26	So if you were an algorithm,
+669.26	you'd look for an architect like the one that I met in Frankfurt
+672.26	who was hollowing out a skyscraper --
+674.26	throwing out all the furniture, all the infrastructure for human use,
+677.26	and just running steel on the floors
+680.26	to get ready for the stacks of servers to go in --
+683.26	all so an algorithm
+685.26	could get close to the Internet.
+688.26	And you think of the Internet as this kind of distributed system.
+691.26	And of course, it is, but it's distributed from places.
+694.26	In New York, this is where it's distributed from:
+696.26	the Carrier Hotel
+698.26	located on Hudson Street.
+700.26	And this is really where the wires come right up into the city.
+703.26	And the reality is that the further away you are from that,
+707.26	you're a few microseconds behind every time.
+709.26	These guys down on Wall Street,
+711.26	Marco Polo and Cherokee Nation,
+713.26	they're eight microseconds
+715.26	behind all these guys
+717.26	going into the empty buildings being hollowed out
+721.26	up around the Carrier Hotel.
+723.26	And that's going to keep happening.
+726.26	We're going to keep hollowing them out,
+728.26	because you, inch for inch
+731.26	and pound for pound and dollar for dollar,
+734.26	none of you could squeeze revenue out of that space
+737.26	like the Boston Shuffler could.
+740.26	But if you zoom out,
+742.26	if you zoom out,
+744.26	you would see an 825-mile trench
+748.26	between New York City and Chicago
+750.26	that's been built over the last few years
+752.26	by a company called Spread Networks.
+755.26	This is a fiber optic cable
+757.26	that was laid between those two cities
+759.26	to just be able to traffic one signal
+765.26	just for these algorithms,
+768.26	just for the Carnival and the Knife.
+771.26	And when you think about this,
+773.26	that we're running through the United States
+775.26	with dynamite and rock saws
+778.26	so that an algorithm can close the deal
+780.26	three microseconds faster,
+783.26	all for a communications framework
+785.26	that no human will ever know,
+789.26	that's a kind of manifest destiny;
+792.26	and we'll always look for a new frontier.
+795.26	Unfortunately, we have our work cut out for us.
+798.26	This is just theoretical.
+800.26	This is some mathematicians at MIT.
+802.26	And the truth is I don't really understand
+804.26	a lot of what they're talking about.
+806.26	It involves light cones and quantum entanglement,
+809.26	and I don't really understand any of that.
+811.26	But I can read this map,
+813.26	and what this map says
+815.26	is that, if you're trying to make money on the markets where the red dots are,
+818.26	that's where people are, where the cities are,
+820.26	you're going to have to put the servers where the blue dots are
+823.26	to do that most effectively.
+825.26	And the thing that you might have noticed about those blue dots
+828.26	is that a lot of them are in the middle of the ocean.
+831.26	So that's what we'll do: we'll build bubbles or something,
+834.26	or platforms.
+836.26	We'll actually part the water
+838.26	to pull money out of the air,
+840.26	because it's a bright future
+842.26	if you're an algorithm.
+844.26	(Laughter)
+846.26	And it's not the money that's so interesting actually.
+849.26	It's what the money motivates,
+851.26	that we're actually terraforming
+853.26	the Earth itself
+855.26	with this kind of algorithmic efficiency.
+857.26	And in that light,
+859.26	you go back
+861.26	and you look at Michael Najjar's photographs,
+863.26	and you realize that they're not metaphor, they're prophecy.
+866.26	They're prophecy
+868.26	for the kind of seismic, terrestrial effects
+872.26	of the math that we're making.
+874.26	And the landscape was always made
+877.26	by this sort of weird, uneasy collaboration
+880.26	between nature and man.
+883.26	But now there's this third co-evolutionary force: algorithms --
+886.26	the Boston Shuffler, the Carnival.
+889.26	And we will have to understand those as nature,
+892.26	and in a way, they are.
+894.26	Thank you.
+896.26	(Applause)

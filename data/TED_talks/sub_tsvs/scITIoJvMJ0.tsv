@@ -1,0 +1,478 @@
+startsecond	text
+15.33	I admit that I'm a little bit nervous here
+18.33	because I'm going to say some radical things,
+21.33	about how we should think about cancer differently,
+24.33	to an audience that contains a lot of people
+26.33	who know a lot more about cancer than I do.
+30.33	But I will also contest that I'm not as nervous as I should be
+33.33	because I'm pretty sure I'm right about this.
+35.33	(Laughter)
+37.33	And that this, in fact, will be
+39.33	the way that we treat cancer in the future.
+43.33	In order to talk about cancer,
+45.33	I'm going to actually have to --
+48.33	let me get the big slide here.
+53.33	First, I'm going to try to give you a different perspective of genomics.
+56.33	I want to put it in perspective of the bigger picture
+58.33	of all the other things that are going on --
+61.33	and then talk about something you haven't heard so much about, which is proteomics.
+64.33	Having explained those,
+66.33	that will set up for what I think will be a different idea
+69.33	about how to go about treating cancer.
+71.33	So let me start with genomics.
+73.33	It is the hot topic.
+75.33	It is the place where we're learning the most.
+77.33	This is the great frontier.
+79.33	But it has its limitations.
+82.33	And in particular, you've probably all heard the analogy
+85.33	that the genome is like the blueprint of your body,
+88.33	and if that were only true, it would be great,
+90.33	but it's not.
+92.33	It's like the parts list of your body.
+94.33	It doesn't say how things are connected,
+96.33	what causes what and so on.
+99.33	So if I can make an analogy,
+101.33	let's say that you were trying to tell the difference
+103.33	between a good restaurant, a healthy restaurant
+106.33	and a sick restaurant,
+108.33	and all you had was the list of ingredients
+110.33	that they had in their larder.
+113.33	So it might be that, if you went to a French restaurant
+116.33	and you looked through it and you found
+118.33	they only had margarine and they didn't have butter,
+120.33	"you could say, ""Ah, I see what's wrong with them."
+122.33	"I can make them healthy."""
+124.33	And there probably are special cases of that.
+126.33	You could certainly tell the difference
+128.33	between a Chinese restaurant and a French restaurant
+130.33	by what they had in a larder.
+132.33	So the list of ingredients does tell you something,
+135.33	and sometimes it tells you something that's wrong.
+139.33	If they have tons of salt,
+141.33	you might guess they're using too much salt, or something like that.
+144.33	But it's limited,
+146.33	because really to know if it's a healthy restaurant,
+148.33	you need to taste the food, you need to know what goes on in the kitchen,
+151.33	you need the product of all of those ingredients.
+154.33	So if I look at a person
+156.33	and I look at a person's genome, it's the same thing.
+159.33	The part of the genome that we can read
+161.33	is the list of ingredients.
+163.33	And so indeed,
+165.33	there are times when we can find ingredients
+167.33	that [are] bad.
+169.33	Cystic fibrosis is an example of a disease
+171.33	where you just have a bad ingredient and you have a disease,
+174.33	and we can actually make a direct correspondence
+177.33	between the ingredient and the disease.
+180.33	But most things, you really have to know what's going on in the kitchen,
+183.33	because, mostly, sick people used to be healthy people --
+185.33	they have the same genome.
+187.33	So the genome really tells you much more
+189.33	about predisposition.
+191.33	So what you can tell
+193.33	is you can tell the difference between an Asian person and a European person
+195.33	by looking at their ingredients list.
+197.33	But you really for the most part can't tell the difference
+200.33	between a healthy person and a sick person --
+203.33	except in some of these special cases.
+205.33	So why all the big deal
+207.33	about genetics?
+209.33	Well first of all,
+211.33	it's because we can read it, which is fantastic.
+214.33	It is very useful in certain circumstances.
+217.33	It's also the great theoretical triumph
+220.33	of biology.
+222.33	It's the one theory
+224.33	that the biologists ever really got right.
+226.33	It's fundamental to Darwin
+228.33	and Mendel and so on.
+230.33	And so it's the one thing where they predicted a theoretical construct.
+234.33	So Mendel had this idea of a gene
+236.33	as an abstract thing,
+239.33	and Darwin built a whole theory
+241.33	that depended on them existing,
+243.33	and then Watson and Crick
+245.33	actually looked and found one.
+247.33	So this happens in physics all the time.
+249.33	You predict a black hole,
+251.33	and you look out the telescope and there it is, just like you said.
+254.33	But it rarely happens in biology.
+256.33	So this great triumph -- it's so good,
+259.33	there's almost a religious experience
+261.33	in biology.
+263.33	And Darwinian evolution
+265.33	is really the core theory.
+270.33	So the other reason it's been very popular
+272.33	is because we can measure it, it's digital.
+275.33	And in fact,
+277.33	thanks to Kary Mullis,
+279.33	you can basically measure your genome in your kitchen
+283.33	with a few extra ingredients.
+286.33	So for instance, by measuring the genome,
+289.33	we've learned a lot about how we're related to other kinds of animals
+293.33	by the closeness of our genome,
+296.33	or how we're related to each other -- the family tree,
+299.33	or the tree of life.
+301.33	There's a huge amount of information about the genetics
+304.33	just by comparing the genetic similarity.
+307.33	Now of course, in medical application,
+309.33	that is very useful
+311.33	because it's the same kind of information
+314.33	that the doctor gets from your family medical history --
+317.33	except probably,
+319.33	your genome knows much more about your medical history than you do.
+322.33	And so by reading the genome,
+324.33	we can find out much more about your family than you probably know.
+327.33	And so we can discover things
+329.33	that probably you could have found
+331.33	by looking at enough of your relatives,
+333.33	but they may be surprising.
+336.33	I did the 23andMe thing
+338.33	and was very surprised to discover that I am fat and bald.
+341.33	(Laughter)
+348.33	But sometimes you can learn much more useful things about that.
+351.33	But mostly
+354.33	what you need to know, to find out if you're sick,
+356.33	is not your predispositions,
+358.33	but it's actually what's going on in your body right now.
+361.33	So to do that, what you really need to do,
+363.33	you need to look at the things
+365.33	that the genes are producing
+367.33	and what's happening after the genetics,
+369.33	and that's what proteomics is about.
+371.33	Just like genome mixes the study of all the genes,
+374.33	proteomics is the study of all the proteins.
+377.33	And the proteins are all of the little things in your body
+379.33	that are signaling between the cells --
+382.33	actually, the machines that are operating --
+384.33	that's where the action is.
+386.33	Basically, a human body
+389.33	is a conversation going on,
+392.33	both within the cells and between the cells,
+395.33	and they're telling each other to grow and to die,
+398.33	and when you're sick,
+400.33	something's gone wrong with that conversation.
+402.33	And so the trick is --
+404.33	unfortunately, we don't have an easy way to measure these
+407.33	like we can measure the genome.
+409.33	So the problem is that measuring --
+412.33	if you try to measure all the proteins, it's a very elaborate process.
+415.33	It requires hundreds of steps,
+417.33	and it takes a long, long time.
+419.33	And it matters how much of the protein it is.
+421.33	It could be very significant that a protein changed by 10 percent,
+424.33	so it's not a nice digital thing like DNA.
+427.33	And basically our problem is somebody's in the middle
+429.33	of this very long stage,
+431.33	they pause for just a moment,
+433.33	and they leave something in an enzyme for a second,
+435.33	and all of a sudden all the measurements from then on
+437.33	don't work.
+439.33	And so then people get very inconsistent results
+441.33	when they do it this way.
+443.33	People have tried very hard to do this.
+445.33	I tried this a couple of times
+447.33	and looked at this problem and gave up on it.
+449.33	I kept getting this call from this oncologist
+451.33	named David Agus.
+453.33	And Applied Minds gets a lot of calls
+456.33	from people who want help with their problems,
+458.33	and I didn't think this was a very likely one to call back,
+461.33	so I kept on giving him to the delay list.
+464.33	And then one day,
+466.33	I get a call from John Doerr, Bill Berkman
+468.33	and Al Gore on the same day
+470.33	saying return David Agus's phone call.
+472.33	(Laughter)
+474.33	"So I was like, ""Okay. This guy's at least resourceful."""
+476.33	(Laughter)
+480.33	So we started talking,
+482.33	"and he said, ""I really need a better way to measure proteins."""
+485.33	"I'm like, ""Looked at that. Been there."
+487.33	"Not going to be easy."""
+489.33	"He's like, ""No, no. I really need it."
+491.33	I mean, I see patients dying every day
+495.33	because we don't know what's going on inside of them.
+498.33	"We have to have a window into this."""
+500.33	And he took me through
+502.33	specific examples of when he really needed it.
+505.33	And I realized, wow, this would really make a big difference,
+507.33	if we could do it,
+509.33	"and so I said, ""Well, let's look at it."""
+511.33	Applied Minds has enough play money
+513.33	that we can go and just work on something
+515.33	without getting anybody's funding or permission or anything.
+518.33	So we started playing around with this.
+520.33	And as we did it, we realized this was the basic problem --
+523.33	that taking the sip of coffee --
+525.33	that there were humans doing this complicated process
+527.33	and that what really needed to be done
+529.33	was to automate this process like an assembly line
+532.33	and build robots
+534.33	that would measure proteomics.
+536.33	And so we did that,
+538.33	and working with David,
+540.33	we made a little company called Applied Proteomics eventually,
+543.33	which makes this robotic assembly line,
+546.33	which, in a very consistent way, measures the protein.
+549.33	And I'll show you what that protein measurement looks like.
+553.33	Basically, what we do
+555.33	is we take a drop of blood
+557.33	out of a patient,
+559.33	and we sort out the proteins
+561.33	in the drop of blood
+563.33	according to how much they weigh,
+565.33	how slippery they are,
+567.33	and we arrange them in an image.
+570.33	And so we can look at literally
+572.33	hundreds of thousands of features at once
+574.33	out of that drop of blood.
+576.33	And we can take a different one tomorrow,
+578.33	and you will see your proteins tomorrow will be different --
+580.33	they'll be different after you eat or after you sleep.
+583.33	They really tell us what's going on there.
+586.33	And so this picture,
+588.33	which looks like a big smudge to you,
+590.33	is actually the thing that got me really thrilled about this
+594.33	and made me feel like we were on the right track.
+596.33	So if I zoom into that picture,
+598.33	I can just show you what it means.
+600.33	We sort out the proteins -- from left to right
+603.33	is the weight of the fragments that we're getting,
+606.33	and from top to bottom is how slippery they are.
+609.33	So we're zooming in here just to show you a little bit of it.
+612.33	And so each of these lines
+614.33	represents some signal that we're getting out of a piece of a protein.
+617.33	And you can see how the lines occur
+619.33	in these little groups of bump, bump, bump, bump, bump.
+623.33	And that's because we're measuring the weight so precisely that --
+626.33	carbon comes in different isotopes,
+628.33	so if it has an extra neutron on it,
+631.33	we actually measure it as a different chemical.
+635.33	So we're actually measuring each isotope as a different one.
+638.33	And so that gives you an idea
+641.33	of how exquisitely sensitive this is.
+643.33	So seeing this picture
+645.33	is sort of like getting to be Galileo
+647.33	and looking at the stars
+649.33	and looking through the telescope for the first time,
+651.33	"and suddenly you say, ""Wow, it's way more complicated than we thought it was."""
+654.33	But we can see that stuff out there
+656.33	and actually see features of it.
+658.33	So this is the signature out of which we're trying to get patterns.
+661.33	So what we do with this
+663.33	is, for example, we can look at two patients,
+665.33	one that responded to a drug and one that didn't respond to a drug,
+668.33	"and ask, ""What's going on differently"
+670.33	"inside of them?"""
+672.33	And so we can make these measurements precisely enough
+675.33	that we can overlay two patients and look at the differences.
+678.33	So here we have Alice in green
+680.33	and Bob in red.
+682.33	We overlay them. This is actual data.
+685.33	And you can see, mostly it overlaps and it's yellow,
+688.33	but there's some things that just Alice has
+690.33	and some things that just Bob has.
+692.33	And if we find a pattern of things
+695.33	of the responders to the drug,
+698.33	we see that in the blood,
+700.33	they have the condition
+702.33	that allows them to respond to this drug.
+704.33	We might not even know what this protein is,
+706.33	but we can see it's a marker
+708.33	for the response to the disease.
+713.33	So this already, I think,
+715.33	is tremendously useful in all kinds of medicine.
+718.33	But I think this is actually
+720.33	just the beginning
+722.33	of how we're going to treat cancer.
+724.33	So let me move to cancer.
+726.33	The thing about cancer --
+728.33	when I got into this,
+730.33	I really knew nothing about it,
+732.33	but working with David Agus,
+734.33	I started watching how cancer was actually being treated
+737.33	and went to operations where it was being cut out.
+740.33	And as I looked at it,
+742.33	to me it didn't make sense
+744.33	how we were approaching cancer,
+746.33	and in order to make sense of it,
+749.33	I had to learn where did this come from.
+752.33	We're treating cancer almost like it's an infectious disease.
+756.33	We're treating it as something that got inside of you
+758.33	that we have to kill.
+760.33	So this is the great paradigm.
+762.33	This is another case
+764.33	where a theoretical paradigm in biology really worked --
+766.33	was the germ theory of disease.
+769.33	So what doctors are mostly trained to do
+771.33	is diagnose --
+773.33	that is, put you into a category
+775.33	and apply a scientifically proven treatment
+777.33	for that diagnosis --
+779.33	and that works great for infectious diseases.
+782.33	So if we put you in the category
+784.33	of you've got syphilis, we can give you penicillin.
+787.33	We know that that works.
+789.33	If you've got malaria, we give you quinine
+791.33	or some derivative of it.
+793.33	And so that's the basic thing doctors are trained to do,
+796.33	and it's miraculous
+798.33	in the case of infectious disease --
+801.33	how well it works.
+803.33	And many people in this audience probably wouldn't be alive
+806.33	if doctors didn't do this.
+808.33	But now let's apply that
+810.33	to systems diseases like cancer.
+812.33	The problem is that, in cancer,
+814.33	there isn't something else
+816.33	that's inside of you.
+818.33	It's you; you're broken.
+820.33	That conversation inside of you
+824.33	got mixed up in some way.
+826.33	So how do we diagnose that conversation?
+828.33	Well, right now what we do is we divide it by part of the body --
+831.33	you know, where did it appear? --
+834.33	and we put you in different categories
+836.33	according to the part of the body.
+838.33	And then we do a clinical trial
+840.33	for a drug for lung cancer
+842.33	and one for prostate cancer and one for breast cancer,
+845.33	and we treat these as if they're separate diseases
+848.33	and that this way of dividing them
+850.33	had something to do with what actually went wrong.
+852.33	And of course, it really doesn't have that much to do
+854.33	with what went wrong
+856.33	because cancer is a failure of the system.
+859.33	And in fact, I think we're even wrong
+861.33	when we talk about cancer as a thing.
+864.33	I think this is the big mistake.
+866.33	I think cancer should not be a noun.
+870.33	We should talk about cancering
+872.33	as something we do, not something we have.
+875.33	And so those tumors,
+877.33	those are symptoms of cancer.
+879.33	And so your body is probably cancering all the time,
+882.33	but there are lots of systems in your body
+885.33	that keep it under control.
+887.33	And so to give you an idea
+889.33	of an analogy of what I mean
+891.33	by thinking of cancering as a verb,
+894.33	imagine we didn't know anything about plumbing,
+897.33	and the way that we talked about it,
+899.33	we'd come home and we'd find a leak in our kitchen
+902.33	"and we'd say, ""Oh, my house has water."""
+906.33	"We might divide it -- the plumber would say, ""Well, where's the water?"""
+909.33	"""Well, it's in the kitchen."" ""Oh, you must have kitchen water."""
+912.33	That's kind of the level at which it is.
+915.33	"""Kitchen water,"
+917.33	well, first of all, we'll go in there and we'll mop out a lot of it.
+919.33	And then we know that if we sprinkle Drano around the kitchen,
+922.33	that helps.
+925.33	Whereas living room water,
+927.33	"it's better to do tar on the roof."""
+929.33	And it sounds silly,
+931.33	but that's basically what we do.
+933.33	And I'm not saying you shouldn't mop up your water if you have cancer,
+936.33	but I'm saying that's not really the problem;
+939.33	that's the symptom of the problem.
+941.33	What we really need to get at
+943.33	is the process that's going on,
+945.33	and that's happening at the level
+947.33	of the proteonomic actions,
+949.33	happening at the level of why is your body not healing itself
+952.33	in the way that it normally does?
+954.33	Because normally, your body is dealing with this problem all the time.
+957.33	So your house is dealing with leaks all the time,
+960.33	but it's fixing them. It's draining them out and so on.
+964.33	So what we need
+967.33	is to have a causative model
+971.33	of what's actually going on,
+973.33	and proteomics actually gives us
+976.33	the ability to build a model like that.
+979.33	David got me invited
+981.33	to give a talk at National Cancer Institute
+983.33	and Anna Barker was there.
+987.33	And so I gave this talk
+989.33	"and said, ""Why don't you guys do this?"""
+992.33	And Anna said,
+994.33	"""Because nobody within cancer"
+997.33	would look at it this way.
+999.33	But what we're going to do, is we're going to create a program
+1002.33	for people outside the field of cancer
+1004.33	to get together with doctors
+1006.33	who really know about cancer
+1009.33	"and work out different programs of research."""
+1013.33	So David and I applied to this program
+1015.33	and created a consortium
+1017.33	at USC
+1019.33	where we've got some of the best oncologists in the world
+1022.33	and some of the best biologists in the world,
+1025.33	from Cold Spring Harbor,
+1027.33	Stanford, Austin --
+1029.33	I won't even go through and name all the places --
+1032.33	to have a research project
+1035.33	that will last for five years
+1037.33	where we're really going to try to build a model of cancer like this.
+1040.33	We're doing it in mice first,
+1042.33	and we will kill a lot of mice
+1044.33	in the process of doing this,
+1046.33	but they will die for a good cause.
+1048.33	And we will actually try to get to the point
+1051.33	where we have a predictive model
+1053.33	where we can understand,
+1055.33	when cancer happens,
+1057.33	what's actually happening in there
+1059.33	and which treatment will treat that cancer.
+1062.33	So let me just end with giving you a little picture
+1065.33	of what I think cancer treatment will be like in the future.
+1068.33	So I think eventually,
+1070.33	once we have one of these models for people,
+1072.33	which we'll get eventually --
+1074.33	I mean, our group won't get all the way there --
+1076.33	but eventually we'll have a very good computer model --
+1079.33	sort of like a global climate model for weather.
+1082.33	It has lots of different information
+1085.33	about what's the process going on in this proteomic conversation
+1088.33	on many different scales.
+1090.33	And so we will simulate
+1092.33	in that model
+1094.33	for your particular cancer --
+1097.33	and this also will be for ALS,
+1099.33	or any kind of system neurodegenerative diseases,
+1102.33	things like that --
+1104.33	we will simulate
+1106.33	specifically you,
+1108.33	not just a generic person,
+1110.33	but what's actually going on inside you.
+1112.33	And in that simulation, what we could do
+1114.33	is design for you specifically
+1116.33	a sequence of treatments,
+1118.33	and it might be very gentle treatments, very small amounts of drugs.
+1121.33	It might be things like, don't eat that day,
+1124.33	or give them a little chemotherapy,
+1126.33	maybe a little radiation.
+1128.33	Of course, we'll do surgery sometimes and so on.
+1131.33	But design a program of treatments specifically for you
+1134.33	and help your body
+1137.33	guide back to health --
+1140.33	guide your body back to health.
+1142.33	Because your body will do most of the work of fixing it
+1146.33	if we just sort of prop it up in the ways that are wrong.
+1149.33	We put it in the equivalent of splints.
+1151.33	And so your body basically has lots and lots of mechanisms
+1153.33	for fixing cancer,
+1155.33	and we just have to prop those up in the right way
+1158.33	and get them to do the job.
+1160.33	And so I believe that this will be the way
+1162.33	that cancer will be treated in the future.
+1164.33	It's going to require a lot of work,
+1166.33	a lot of research.
+1168.33	There will be many teams like our team
+1171.33	that work on this.
+1173.33	But I think eventually,
+1175.33	we will design for everybody
+1177.33	a custom treatment for cancer.
+1181.33	So thank you very much.
+1183.33	(Applause)

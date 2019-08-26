@@ -1,0 +1,649 @@
+startsecond	text
+13.841	So I thought I'd talk about identity.
+15.627	That's sort of an interesting
+15.627	enough topic to me.
+18.06	And the reason was,
+18.06	because when I was asked to do this,
+21.238	I'd just read, in one of the papers,
+21.238	I can't remember,
+24.801	something from someone at Facebook
+24.801	saying, well,
+28.204	"""we need to make everybody"
+28.204	"use their real names."""
+29.844	and then that's basically
+29.844	all the problems solved.
+32.202	And that's so wrong,
+34.147	that's such a fundamentally,
+34.147	reactionary view of identity,
+38.09	and it's going to get us
+38.09	into all sorts of trouble.
+40.495	And so what I thought I'd do
+41.853	is I'll explain four
+41.853	sort of problems about it,
+45.858	and then I'll suggest a solution,
+47.821	which hopefully you
+47.821	might find interesting.
+49.893	So just to frame the problem,
+51.944	what does authenticity mean?
+53.534	That's me, that's
+53.534	a camera phone picture of me
+58.624	looking at a painting.
+59.604	[What's the Problem?]
+60.369	That's a painting that was painted
+61.501	by a very famous forger,
+63.543	and because I'm not very good
+63.543	at presentations,
+65.806	I already can't remember the name
+65.806	that I wrote on my card.
+68.545	And he was incarcerated
+68.545	in, I think, Wakefield Prison
+72.423	for forging masterpieces by,
+72.423	I think, French Impressionists.
+75.989	And he's so good at it,
+75.989	that when he was in prison,
+79.168	everybody in prison,
+79.168	the governor and whatever,
+80.544	wanted him to paint masterpieces
+80.544	to put on the walls,
+83.391	because they were so good.
+84.683	And so that's a masterpiece,
+86.067	which is a fake of a masterpiece,
+88.066	and bonded into the canvas is a chip
+88.066	which identifies that as a real fake,
+94.729	if you see what I mean.
+96.261	(Laughter)
+97.453	So when we're talking about authenticity,
+99.696	it's a little more fractal than it appears
+99.696	and that's a good example to show it.
+105.158	I tried to pick four problems
+105.158	that will frame the issue properly.
+109.139	So the first problem, I thought,
+110.687	Chip and PIN, right?
+112.239	[Banks and legacies
+112.239	bringing down the system from within]
+113.753	[Offline solutions do not work online]
+114.625	I'm guessing everyone's got
+114.625	a chip and PIN card, right?
+117.241	So why is that a good example?
+119.007	That's the example of how
+119.007	legacy thinking about identity
+122.482	subverts the security
+122.482	of a well-constructed system.
+125.4	That chip and PIN card
+125.4	that's in your pocket
+128.191	has a little chip on it
+128.191	that cost millions of pounds to develop,
+131.433	is extremely secure,
+133.01	you can put scanning
+133.01	electron microscopes on it,
+135.273	you can try and grind it down,
+135.273	blah blah blah.
+137.449	Those chips have never been broken,
+137.449	whatever you read in the paper.
+140.938	And for a joke,
+140.938	we take that super-secure chip
+144.172	and we bond it to a trivially
+144.172	counterfeitable magnetic stripe
+147.686	and for very lazy criminals,
+147.686	we still emboss the card.
+151.308	So if you're a criminal in a hurry
+151.308	and you need to copy someone's card,
+154.815	you can just stick a piece of paper on it
+154.815	and rub a pencil over it
+157.016	just to sort of speed things up.
+158.899	And even more amusingly,
+158.899	and on my debit card too,
+161.995	we print the name and the SALT code
+161.995	and everything else on the front too.
+164.386	Why?
+167.725	There is no earthly reason why your name
+167.725	is printed on a chip and PIN card.
+171.834	And if you think about it,
+173.469	it's even more insidious and perverse
+173.469	than it seems at first.
+176.587	Because the only people that benefit
+178.401	from having the name
+178.401	on the card are criminals.
+180.975	You know what your name is, right?
+182.616	(Laughter)
+183.517	And when you go into
+183.517	a shop and buy something,
+185.769	it's a PIN, he doesn't care
+185.769	what the name is.
+188.729	The only place where you ever have
+188.729	to write your name on the back
+191.388	is in America at the moment.
+192.558	And whenever I go to America,
+193.769	and I have to pay with a mag stripe
+193.769	on the back of the card,
+195.569	I always sign it Carlos Tethers anyway,
+197.451	just as a security mechanism,
+199.259	because if a transaction
+199.259	ever gets disputed,
+201.497	and it comes back and it says Dave Birch,
+203.474	I know it must have been a criminal,
+205.213	because I would never sign it Dave Birch.
+208.048	(Laughter)
+209.738	So if you drop your card in the street,
+211.529	it means a criminal
+211.529	can pick it up and read it.
+213.301	They know the name,
+214.006	from the name they can find the address,
+215.935	and then they can go off
+215.935	and buy stuff online.
+218.35	Why do we put the name on the card?
+220.562	Because we think identity
+220.562	is something to do with names,
+224.281	and because we're rooted
+224.281	in the idea of the identity card,
+227.976	which obsesses us.
+229.092	And I know it crashed and burned
+229.092	a couple of years ago,
+231.688	but if you're someone in politics
+231.688	or the home office or whatever,
+236.243	and you think about identity,
+237.648	you can only think of identity
+237.648	in terms of cards with names on them.
+240.863	And that's very subversive
+240.863	in a modern world.
+244.009	So the second example I thought I'd use
+246.265	is chatrooms.
+248.331	[Chatrooms and Children]
+249.135	I'm very proud of that picture,
+249.135	that's my son
+251.325	playing in his band with his friends
+251.325	for the first-ever gig,
+255.401	I believe you call it, where he got paid.
+257.37	(Laughter)
+258.157	And I love that picture.
+260.035	I like the picture of him
+260.035	getting into medical school a lot better,
+262.801	(Laughter)
+263.501	I like that picture for the moment.
+265.614	Why do I use that picture?
+266.589	Because that was very interesting,
+266.589	watching that experience as an old person.
+271.678	So him and his friends,
+273.121	they get together, they booked a room,
+273.121	like a church hall,
+275.999	and they got all their friends
+275.999	who had bands,
+277.849	and they got them together,
+279.159	and they do it all on Facebook,
+280.66	and then they sell tickets,
+280.66	and the first band on the -
+284.458	"I was going to say ""menu,"""
+285.343	that's probably
+285.343	the wrong word for it, isn't it?
+287.653	The first band on the list of bands
+289.583	that appears at some
+289.583	public music performance of some kind
+294.14	gets the sales from the first 20 tickets,
+296.309	then the next band gets the next 20,
+298.129	and so on.
+299.115	They were at the bottom of the menu,
+300.451	they were like fifth,
+300.451	I thought they had no chance.
+302.569	He actually got 20 quid. Fantastic, right?
+304.831	But my point is,
+304.831	that all worked perfectly,
+306.928	except on the web.
+309.709	So they're sitting on Facebook,
+311.902	and they're sending these messages
+311.902	and arranging things
+314.768	and they don't know who anybody is, right?
+317.087	That's the big problem
+317.087	we're trying to solve.
+318.718	If only they were using the real names,
+320.685	Then you wouldn't be worried
+320.685	about them on the Internet.
+323.376	And so when he says to me,
+324.621	"""Oh, I want to go to a chatroom"
+324.621	"to talk about guitars"" or something,"
+328.987	"I'm like, ""oh, well,"
+328.987	I don't want you to go into a chatroom
+332.236	to talk about guitars, because
+332.236	they might not all be your friends,
+335.594	and some of the people
+335.594	that are in the chatroom
+337.857	might be perverts and teachers
+337.857	"and vicars."""
+341.414	(Laughter)
+343.239	I mean, they generally are,
+343.239	when you look in the paper, right?
+346.168	So I want to know who
+346.168	all the people in the chatroom are.
+349.224	So okay, you can go in the chatroom,
+350.963	but only if everybody in the chatroom
+350.963	is using their real names,
+353.987	and they submit full copies
+353.987	of their police report.
+358.352	But of course, if anybody
+358.352	in the chatroom asked for his real name,
+361.472	I'd say no.
+361.472	You can't give them your real name.
+363.714	Because what happens
+363.714	if they turn out to be perverts,
+366.414	and teachers and whatever.
+369.087	So you have this odd sort of paradox
+370.826	where I'm happy for him
+370.826	to go into this space
+373.157	if I know who everybody else is,
+375.099	but I don't want anybody else
+375.099	to know who he is.
+377.462	And so you get
+377.462	this sort of logjam around identity
+379.638	where you want full disclosure
+379.638	from everybody else,
+381.274	but not from yourself.
+382.569	And there's no progress, we get stuck.
+384.576	And so the chatroom thing
+384.576	doesn't work properly,
+386.886	and it's a very bad way
+386.886	of thinking about identity.
+391.251	So on my RSS feed,
+391.251	I saw this thing about -
+394.186	I just said something bad
+394.186	about my RSS feed, didn't I?
+396.782	I should stop saying it like that.
+398.537	For some random reason, I can't imagine,
+400.07	something about cheerleaders
+400.07	turned up in my inbox.
+402.226	And I read this story about cheerleaders,
+404.203	and it's a fascinating story.
+405.652	This happened a couple of years ago
+405.652	in the U.S.
+407.867	There were some cheerleaders
+407.867	in a team at a high school
+410.592	in the U.S., and they said mean things
+413.475	about their cheerleading coach,
+414.661	as I'm sure kids do
+414.661	about all of their teachers
+416.872	all of the time,
+418.199	and somehow the cheerleading coach
+418.199	found out about this.
+420.279	She was very upset.
+421.743	And so she went to one of the girls,
+421.743	and said,
+423.91	"""you have to give me"
+423.91	"your Facebook password."""
+426.03	I read this all the time,
+426.03	where even at some universities
+429.719	and places of education,
+430.619	kids are forced to hand over
+430.619	their Facebook passwords.
+432.348	So you've got to give them
+432.348	your Facebook password.
+435.103	She was a kid!
+435.976	What she should have said
+437.162	"is, ""my lawyer will be calling you"
+438.392	first thing in the morning.
+439.182	It's an outrageous imposition
+441.303	on my 4th Amendment right to privacy,
+443.162	and you're going to be sued
+443.947	"for all the money you've got."""
+444.542	That's what she should have said.
+445.598	But she's a kid,
+446.577	so she hands over the password.
+448.396	The teacher can't log into Facebook,
+450.446	because the school
+450.446	has blocked access to Facebook.
+453.618	So the teacher can't log into Facebook
+453.618	until she gets home.
+455.531	So the girl tells her friends,
+457.229	guess what happened?
+457.79	The teacher logged in, she knows.
+459.386	So the girls just all logged into Facebook
+459.386	on their phones,
+461.227	and deleted their profiles.
+463.094	And so when the teacher logged in,
+463.094	there was nothing there.
+465.979	My point is, those identities,
+465.979	they don't think about them the same way.
+471.631	Identity is, especially when
+471.631	you're a teenager, a fluid thing.
+475.36	You have lots of identities.
+476.965	And you can have an identity,
+476.965	you don't like it,
+479.215	because it's subverted in some way,
+479.215	or it's insecure, or it's inappropriate,
+482.811	you just delete it and get another one.
+484.893	The idea that you have an identity
+484.893	that's given to you by someone,
+488.217	the government or whatever,
+489.036	and you have to stick with that identity
+489.036	and use it in all places,
+491.155	that's absolutely wrong.
+492.863	Why would you want to really know
+492.863	who someone was on Facebook,
+495.895	unless you wanted to abuse them
+495.895	and harass them in some way?
+498.777	And it just doesn't work properly.
+501.408	And my fourth example is
+501.408	there are some cases
+503.622	where you really want to be -
+506.055	In case you're wondering,
+506.055	that's me at the G20 protest.
+509.625	I wasn't actually at the G20 protest,
+509.625	but I had a meeting at a bank
+513.301	on the day of the G20 protest,
+513.301	and I got an email from the bank
+516.734	saying please don't wear a suit,
+516.734	because it'll inflame the protesters.
+521.295	I look pretty good in a suit, frankly,
+523.069	so you can see why it would drive them
+524.759	into an anti-capitalist frenzy.
+526.26	(Laughter)
+526.795	So I thought, well, look.
+527.724	If I don't want to inflame the protesters,
+530.893	the obvious thing to do
+531.809	is go dressed as a protester.
+533.214	So I went dressed completely in black,
+535.232	you know, with a black balaclava,
+537.116	I had black gloves on,
+537.95	but I've taken them off
+537.95	to sign the visitor's book.
+539.587	(Laughter)
+540.159	I'm wearing black trousers, black boots,
+542.342	I'm dressed completely in black.
+543.748	I go into the bank at 10 o'clock,
+544.922	"go, ""Hi, I'm Dave Birch,"
+545.887	I've got a 3 o'clock
+545.887	"with so and so there."""
+547.163	Sure. They sign me in.
+548.604	There's my visitor's badge.
+551.375	(Laughter)
+552.266	So this nonsense
+553.584	about you've got to have real names
+553.584	on Facebook and whatever,
+555.638	that gets you that kind of security.
+557.873	That gets you security theater,
+557.873	where there's no actual security,
+562.392	but people are sort of playing parts
+562.392	in a play about security.
+565.73	And as long as
+565.73	everybody learns their lines,
+566.855	everyone's happy.
+568.391	But it's not real security.
+571.255	Especially because I hate banks
+571.255	more than the G20 protesters do,
+574.497	because I work for them.
+575.682	I know that things are actually worse
+575.682	than these guys think.
+578.509	(Laughter)
+581.872	But suppose I worked
+581.872	next to somebody in a bank
+586.966	who was doing something.
+596.744	Suppose I was sitting
+596.744	next to a rogue trader,
+598.934	and I want to report it
+598.934	to the boss of the bank.
+601.237	So I log on to do
+601.237	a little bit of whistleblowing.
+602.653	I send a message,
+602.653	this guy's a rogue trader.
+605.118	That message is meaningless
+606.916	if you don't know
+606.916	that I'm a trader at the bank.
+609.864	If that message just comes from anybody,
+611.793	it has zero information value.
+614.45	There's no point in sending that message.
+618.463	But if I have to prove who I am,
+621.23	I'll never send that message.
+622.635	It's just like the nurse in the hospital
+622.635	reporting the drunk surgeon.
+626.488	That message will only happen
+626.488	if I'm anonymous.
+629.409	So the system has to have ways
+629.409	of providing anonymity there,
+634.2	otherwise we don't get
+634.2	where we want to get to.
+636.463	So four issues.
+636.463	So what are we going to do about it?
+639.133	Well, what we tend to do about it
+643.82	is we think about Orwell space.
+646.208	And we try to make electronic versions
+649.354	of the identity card
+649.354	that we got rid of in 1953.
+651.661	So we think if we had a card,
+654.418	call it a Facebook login,
+655.757	which proves who you are,
+657.054	and I make you carry it all the time,
+658.945	that solves the problem.
+659.763	And of course, for all those reasons
+659.763	I've just outlined,
+661.921	it doesn't, and it might, actually,
+662.913	make some problems worse.
+663.985	The more times you're forced
+663.985	to use your real identity,
+666.808	certainly in transactional terms,
+669.048	the more likely that identity
+669.048	is to get stolen and subverted.
+671.93	The goal is to stop people
+671.93	from using identity
+674.194	in transactions which don't need identity,
+676.371	which is actually almost all transactions.
+678.88	Almost all of the transactions you do
+681.177	are not, who are you?
+682.865	They're, are you allowed to drive the car,
+684.999	are you allowed in the building,
+686.547	are you over 18,
+687.404	etcetera, etcetera.
+689.519	So my suggestion-I, like James,
+691.35	think that there should be
+691.35	a resurgence of interest in R &amp; D.
+694.511	I think this is a solvable problem.
+695.296	It's something we can do about.
+697.116	Naturally, in these circumstances,
+699.064	I turn to Doctor Who.
+700.438	Because in this,
+702.574	as in so many other walks of life,
+704.218	Doctor Who has already shown
+704.218	us the answer.
+707.171	So I should say,
+707.985	for some of our foreign visitors,
+710.316	Doctor Who is the greatest
+710.316	living scientist in England,
+714.17	(Laughter)
+715.747	and a beacon of truth and enlightenment
+715.747	to all of us.
+718.547	And this is Doctor Who
+718.547	with his psychic paper.
+722.617	Come on, you guys must have seen
+722.617	Doctor Who's psychic paper.
+724.787	You're not nerds if you say yes.
+726.787	Who's seen Doctor Who's psychic paper?
+728.923	Oh right, you were in the library
+728.923	the whole time studying I guess.
+731.353	Is that what you're going to tell us?
+733.423	Doctor Who's psychic paper
+734.685	is when you hold up the psychic paper,
+736.805	the person, in their brain,
+738.343	sees the thing that they need to see.
+740.692	So I want to show you a British passport,
+743.051	I hold up the psychic paper,
+744.077	you see a British passport.
+745.557	I want to get into a party,
+747.353	I hold up the psychic paper,
+748.96	I show you a party invitation.
+750.413	You see what you want to see.
+752.488	So what I'm saying is we need
+752.488	to make an electronic version of that,
+755.703	but with one tiny, tiny change,
+757.9	which is that it'll only show you
+757.9	the British passport
+760.496	if I've actually got one.
+761.712	It'll only show you the party invitation
+762.931	if I actually have one.
+764.328	It will only show you that I'm over 18
+764.328	if I actually am over 18.
+767.352	But nothing else.
+769.676	So you're the bouncer at the pub,
+769.676	you need to know that I'm over 18,
+774.451	instead of showing you my driving license,
+776.475	which shows you I know how to drive,
+778.316	what my name is, my address,
+778.316	all these kind of things,
+780.912	I show you my psychic paper,
+782.491	and all it tells you is
+782.491	am I over 18 or not.
+785.657	Right.
+787.093	Is that just a pipe dream?
+788.431	Of course not, otherwise
+788.431	I wouldn't be here talking to you.
+790.124	So in order to build that
+790.124	and make it work,
+793.208	I'm only going to name these things,
+793.208	I'll not go into them,
+795.979	we need a plan,
+797.156	which is we're going to build this
+798.405	as an infrastructure for everybody to use,
+800.429	to solve all of these problems.
+802.283	We're going to make a utility,
+804.331	the utility has to be universal,
+805.879	you can use it everywhere,
+806.762	I'm just giving you little flashes
+806.762	of the technology as we go along.
+809.977	That's a Japanese ATM,
+811.36	the fingerprint template
+811.36	is stored inside the mobile phone.
+814.468	So when you want to draw money out,
+815.455	you put the mobile phone on the ATM,
+816.952	and touch your finger,
+818.217	your fingerprint goes through
+818.217	to the phone,
+820.289	the phone says yes, that's whoever,
+821.98	and the ATM then gives you some money.
+824.184	It has to be a utility
+824.184	that you can use everywhere.
+827.221	It has to be absolutely convenient,
+829.007	that's me going into the pub.
+832.174	All the device on the door
+832.174	of the pub is allowed is,
+834.967	is this person over 18
+834.967	and not barred from the pub?
+838.64	And so the idea is,
+838.64	you touch your ID card to the door,
+841.97	and if I am allowed in,
+841.97	it shows my picture,
+843.929	if I'm not allowed in,
+843.929	it shows a red cross.
+845.39	It doesn't disclose any other information.
+847.005	It has to have no special gadgets.
+848.917	That can only mean one thing,
+850.552	following on from Ross's statement,
+852.243	which I agree with completely.
+853.721	If it means no special gadgets,
+854.833	it has to run on a mobile phone.
+856.207	That's the only choice we have,
+857.31	we have to make it work on mobile phones.
+859.189	There are 6.6 billion
+860.123	mobile phone subscriptions.
+861.047	My favorite statistic of all time,
+863.083	only 4 billion toothbrushes in the world.
+865.06	That means something,
+866.119	I don't know what.
+867.376	(Laughter)
+867.754	I rely on our futurologists to tell me.
+871.217	It has to be a utility
+871.217	which is extensible.
+872.927	So it has to be something
+874.212	that anybody could build on.
+875.802	Anybody should be able
+875.802	to use this infrastructure,
+877.69	you don't need permissions,
+877.69	licenses, whatever,
+880.144	anyone should be able
+880.144	to write some code to do this.
+885.176	You know what symmetry is,
+886.441	so you don't need a picture of it.
+888.788	This is how we're going to do it.
+889.952	We're going to do it using phones,
+890.986	and we're going to do it
+891.612	using mobile proximity.
+892.768	I'm going to suggest to you
+893.904	the technology to implement
+895.24	Doctor Who's psychic paper
+896.526	is already here, and if any of you
+898.17	have got one of the new
+898.17	Barclay's debit cards
+900.649	with the contactless interface on it,
+901.878	you've already got that technology.
+903.569	If you've ever been up to the big city,
+905.493	and used an Oyster card at all,
+906.994	does that ring any bells to anybody?
+909.089	The technology already exists.
+909.835	The first phones
+911.225	that have the technology built in,
+911.855	the Google Nexus, the S2,
+914.154	the Samsung Wifi 7.9,
+914.863	the first phones that have
+916.355	the technology built into them
+917.447	are already in the shops.
+918.281	So the idea that the gas man
+919.993	can turn up at my mom's door
+922.185	and he can show my mom his phone,
+924.387	and she can tap it with her phone,
+925.722	and it will come up with green
+925.722	if he really is from British Gas
+928.029	and allowed in,
+929.241	and it'll come up with red if he isn't,
+930.911	end of story.
+931.521	We have the technology to do that.
+933.371	And what's more,
+934.606	although some of those things
+934.606	sounded a bit counter-intuitive,
+936.751	like proving I'm over 18
+936.751	without proving who I am,
+939.539	the cryptography to do that
+939.539	not only exists,
+941.764	it's extremely well-known
+941.764	and well-understood.
+943.993	Digital signatures, the blinding
+943.993	of public key certificates,
+946.648	these technologies have been around
+946.648	for a while,
+948.392	we've just had no way
+948.392	of packaging them up.
+950.464	So the technology already exists.
+953.181	We know it works,
+956.869	There are a few examples
+956.869	of the technology being used
+958.617	in experimental places.
+960.287	That's London Fashion Week,
+961.615	where we built a system with O2,
+963.489	that's for the Wireless Festival
+963.489	in Hyde Park,
+966.256	you can see the persons
+967.379	walking in with their VIP band,
+969.14	it's just being checked
+969.624	by the Nokia phone
+969.624	that's reading the band.
+970.724	I'm only putting those up to show you
+972.422	these things are prosaic,
+973.651	this stuff works in these environments.
+975.533	They don't need to be special.
+976.986	So finally, I know that you can do this,
+983.789	because if you saw
+983.789	the episode of Doctor Who,
+986.693	the Easter special of Doctor Who,
+988.593	where he went to Mars in a bus,
+991.969	I should say again
+991.969	for our foreign students,
+993.531	that doesn't happen every episode.
+995.204	This was a very special case.
+996.675	So in the episode where
+996.675	he goes to Mars in a London bus,
+999.916	I can't show you the clip,
+1001.589	due to the outrageous restrictions
+1001.589	of Queen Anne-style copyright
+1004.613	by the BBC,
+1006.506	but in the episode
+1006.506	where he goes to Mars in a London bus,
+1009.245	Doctor Who is clearly shown
+1009.245	getting on to the bus
+1013.379	with the Oyster card reader
+1014.679	using his psychic paper.
+1016.247	Which proves that psychic paper
+1018.339	has an MSE interface.
+1020.054	Thank you very much.

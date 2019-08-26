@@ -1,0 +1,290 @@
+startsecond	text
+13.354	Technology has brought us so much:
+16.489	the moon landing, the Internet,
+18.508	the ability to sequence the human genome.
+21.133	But it also taps into a lot of our deepest fears,
+24.857	and about 30 years ago,
+26.713	the culture critic Neil Postman wrote a book
+29.266	"called ""Amusing Ourselves to Death,"""
+31.381	which lays this out really brilliantly.
+34.14	And here's what he said,
+35.79	comparing the dystopian visions
+38.053	of George Orwell and Aldous Huxley.
+41.626	He said, Orwell feared we would become
+44.752	a captive culture.
+47	Huxley feared we would become a trivial culture.
+50.752	Orwell feared the truth would be
+52.897	concealed from us,
+54.82	and Huxley feared we would be drowned
+57.01	in a sea of irrelevance.
+59.703	In a nutshell, it's a choice between
+61.873	Big Brother watching you
+64.473	and you watching Big Brother.
+66.969	(Laughter)
+68.9	But it doesn't have to be this way.
+70.634	We are not passive consumers
+70.634	of data and technology.
+73.97	We shape the role it plays in our lives
+76.373	and the way we make meaning from it,
+78.503	but to do that,
+80.106	we have to pay as much attention to how we think
+83.619	as how we code.
+85.649	We have to ask questions, and hard questions,
+88.747	to move past counting things
+90.616	to understanding them.
+93.218	We're constantly bombarded with stories
+95.664	about how much data there is in the world,
+98.14	but when it comes to big data
+99.72	and the challenges of interpreting it,
+102.316	size isn't everything.
+104.404	There's also the speed at which it moves,
+107.307	and the many varieties of data types,
+109.003	and here are just a few examples:
+111.501	images,
+113.699	text,
+117.706	video,
+119.801	audio.
+121.631	And what unites this disparate types of data
+124.673	is that they're created by people
+126.894	and they require context.
+129.669	Now, there's a group of data scientists
+132.114	out of the University of Illinois-Chicago,
+134.419	and they're called the Health Media Collaboratory,
+136.973	and they've been working with
+136.973	the Centers for Disease Control
+139.56	to better understand
+141.065	how people talk about quitting smoking,
+143.913	how they talk about electronic cigarettes,
+146.593	and what they can do collectively
+148.578	to help them quit.
+150.562	The interesting thing is, if you want to understand
+152.575	how people talk about smoking,
+154.791	first you have to understand
+156.692	"what they mean when they say ""smoking."""
+159.257	And on Twitter, there are four main categories:
+163.183	number one, smoking cigarettes;
+166.18	number two, smoking marijuana;
+168.987	number three, smoking ribs;
+171.63	and number four, smoking hot women.
+175.183	(Laughter)
+178.176	So then you have to think about, well,
+180.602	how do people talk about electronic cigarettes?
+182.742	And there are so many different ways
+184.767	that people do this, and you can see from the slide
+187.366	it's a complex kind of a query.
+189.976	And what it reminds us is that
+193.2	language is created by people,
+195.611	and people are messy and we're complex
+197.951	and we use metaphors and slang and jargon
+200.718	and we do this 24/7 in many, many languages,
+203.997	and then as soon as we figure it out, we change it up.
+207.221	So did these ads that the CDC put on,
+212.339	these television ads that featured a woman
+214.769	with a hole in her throat and that were very graphic
+216.79	and very disturbing,
+218.694	did they actually have an impact
+220.579	on whether people quit?
+223.25	And the Health Media Collaboratory
+223.25	respected the limits of their data,
+226.557	but they were able to conclude
+228.562	that those advertisements —
+228.562	and you may have seen them —
+231.874	that they had the effect of jolting people
+234.465	into a thought process
+236.287	that may have an impact on future behavior.
+239.954	And what I admire and 
+239.954	appreciate about this project,
+243.845	aside from the fact, including the fact
+245.334	that it's based on real human need,
+249.391	is that it's a fantastic example of courage
+252.237	in the face of a sea of irrelevance.
+256.68	And so it's not just big data that causes
+259.985	challenges of interpretation, because let's face it,
+262.586	we human beings have a very rich history
+265.18	of taking any amount of data, no matter how small,
+267.873	and screwing it up.
+269.49	So many years ago, you may remember
+273.227	that former President Ronald Reagan
+275.5	was very criticized for making a statement
+277.491	that facts are stupid things.
+280.501	And it was a slip of the tongue, let's be fair.
+283.295	He actually meant to quote John Adams' defense
+285.725	of British soldiers in the Boston Massacre trials
+288.476	that facts are stubborn things.
+291.626	But I actually think there's
+294.25	a bit of accidental wisdom in what he said,
+297.668	because facts are stubborn things,
+300.444	but sometimes they're stupid, too.
+303.367	I want to tell you a personal story
+305.255	about why this matters a lot to me.
+308.803	I need to take a breath.
+311.24	My son Isaac, when he was two,
+313.994	was diagnosed with autism,
+316.411	and he was this happy, hilarious,
+318.572	loving, affectionate little guy,
+320.607	but the metrics on his developmental evaluations,
+323.509	which looked at things like 
+323.509	the number of words —
+325.579	at that point, none —
+329.236	communicative gestures and minimal eye contact,
+333.176	put his developmental level
+335.179	at that of a nine-month-old baby.
+339.14	And the diagnosis was factually correct,
+342.1	but it didn't tell the whole story.
+345.309	And about a year and a half later,
+346.71	when he was almost four,
+348.812	I found him in front of the computer one day
+351.175	running a Google image search on women,
+356.628	"spelled ""w-i-m-e-n."""
+360.244	And I did what any obsessed parent would do,
+362.984	which is immediately started 
+362.984	"hitting the ""back"" button"
+364.885	to see what else he'd been searching for.
+368.248	And they were, in order: men,
+370.419	school, bus and computer.
+377.686	And I was stunned,
+379.756	because we didn't know that he could spell,
+381.758	much less read, and so I asked him,
+383.524	"""Isaac, how did you do this?"""
+385.717	And he looked at me very seriously and said,
+388.395	"""Typed in the box."""
+391.747	He was teaching himself to communicate,
+395.481	but we were looking in the wrong place,
+398.485	and this is what happens when assessments
+400.78	and analytics overvalue one metric —
+403.176	in this case, verbal communication —
+405.785	and undervalue others, such
+405.785	as creative problem-solving.
+411.488	Communication was hard for Isaac,
+413.795	and so he found a workaround
+415.707	to find out what he needed to know.
+418.564	And when you think about it, it makes a lot of sense,
+420.454	because forming a question
+422.535	is a really complex process,
+425.1	but he could get himself a lot of the way there
+427.622	by putting a word in a search box.
+431.714	And so this little moment
+434.65	had a really profound impact on me
+437.486	and our family
+438.795	because it helped us change our frame of reference
+441.936	for what was going on with him,
+444.144	and worry a little bit less and appreciate
+447.12	his resourcefulness more.
+449.302	Facts are stupid things.
+452.163	And they're vulnerable to misuse,
+454.56	willful or otherwise.
+456.213	I have a friend, Emily Willingham, who's a scientist,
+459.239	and she wrote a piece for Forbes not long ago
+462.04	"entitled ""The 10 Weirdest Things"
+464.02	"Ever Linked to Autism."""
+465.83	It's quite a list.
+468.835	The Internet, blamed for everything, right?
+472.367	And of course mothers, because.
+476.124	And actually, wait, there's more,
+477.711	there's a whole bunch in 
+477.711	"the ""mother"" category here."
+481.141	And you can see it's a pretty 
+481.141	rich and interesting list.
+485.956	I'm a big fan of
+488.149	being pregnant near freeways, personally.
+491.853	The final one is interesting,
+493.392	"because the term ""refrigerator mother"""
+496.395	was actually the original hypothesis
+499	for the cause of autism,
+500.431	and that meant somebody 
+500.431	who was cold and unloving.
+503.166	And at this point, you might be thinking,
+504.728	"""Okay, Susan, we get it,"
+506.385	you can take data, you can 
+506.385	"make it mean anything."""
+508.167	And this is true, it's absolutely true,
+512.87	but the challenge is that
+518.48	we have this opportunity
+520.928	to try to make meaning out of it ourselves,
+523.212	because frankly, data doesn't 
+523.212	create meaning. We do.
+528.564	So as businesspeople, as consumers,
+531.82	as patients, as citizens,
+534.359	we have a responsibility, I think,
+536.755	to spend more time
+538.949	focusing on our critical thinking skills.
+541.819	Why?
+542.897	Because at this point in our history, as we've heard
+546.075	many times over,
+547.781	we can process exabytes of data
+549.762	at lightning speed,
+551.915	and we have the potential to make bad decisions
+555.43	far more quickly, efficiently,
+557.264	and with far greater impact than we did in the past.
+562.292	Great, right?
+563.68	And so what we need to do instead
+566.71	is spend a little bit more time
+569.04	on things like the humanities
+571.786	and sociology, and the social sciences,
+575.25	rhetoric, philosophy, ethics,
+577.558	because they give us context that is so important
+580.414	for big data, and because
+582.99	they help us become better critical thinkers.
+585.408	Because after all, if I can spot
+589.615	a problem in an argument, it doesn't much matter
+592.101	whether it's expressed in words or in numbers.
+594.86	And this means
+597.579	teaching ourselves to find 
+597.579	those confirmation biases
+602	and false correlations
+603.822	and being able to spot a naked emotional appeal
+605.96	from 30 yards,
+607.622	because something that happens after something
+610.144	doesn't mean it happened 
+610.144	because of it, necessarily,
+613.226	and if you'll let me geek out on you for a second,
+615.345	the Romans called this 
+615.345	"""post hoc ergo propter hoc,"""
+619.642	after which therefore because of which.
+622.938	And it means questioning
+622.938	disciplines like demographics.
+626.695	Why? Because they're based on assumptions
+629.215	about who we all are based on our gender
+631.521	and our age and where we live
+632.983	as opposed to data on what 
+632.983	we actually think and do.
+636.461	And since we have this data,
+638.124	we need to treat it with appropriate privacy controls
+641.263	and consumer opt-in,
+644.839	and beyond that, we need to be clear
+647.832	about our hypotheses,
+649.935	the methodologies that we use,
+652.531	and our confidence in the result.
+655.335	As my high school algebra teacher used to say,
+657.809	show your math,
+659.34	because if I don't know what steps you took,
+662.781	I don't know what steps you didn't take,
+664.772	and if I don't know what questions you asked,
+667.21	I don't know what questions you didn't ask.
+670.407	And it means asking ourselves, really,
+671.93	the hardest question of all:
+673.409	Did the data really show us this,
+676.909	or does the result make us feel
+679.22	more successful and more comfortable?
+683.098	So the Health Media Collaboratory,
+685.682	at the end of their project, they were able
+687.381	to find that 87 percent of tweets
+690.789	about those very graphic and disturbing
+692.933	anti-smoking ads expressed fear,
+696.971	but did they conclude
+698.827	that they actually made people stop smoking?
+701.988	No. It's science, not magic.
+704.53	So if we are to unlock
+707.72	the power of data,
+710.582	we don't have to go blindly into
+714.03	Orwell's vision of a totalitarian future,
+717.466	or Huxley's vision of a trivial one,
+720.583	or some horrible cocktail of both.
+723.603	What we have to do
+725.982	is treat critical thinking with respect
+728.7	and be inspired by examples
+730.729	like the Health Media Collaboratory,
+733.339	and as they say in the superhero movies,
+735.667	let's use our powers for good.
+737.489	Thank you.
+739.84	(Applause)

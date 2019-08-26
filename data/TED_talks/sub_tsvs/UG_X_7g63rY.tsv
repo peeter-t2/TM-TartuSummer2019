@@ -1,0 +1,236 @@
+startsecond	text
+12.861	Hello, I'm Joy, a poet of code,
+16.019	on a mission to stop
+16.019	an unseen force that's rising,
+21.036	"a force that I called ""the coded gaze,"""
+23.916	my term for algorithmic bias.
+27.249	Algorithmic bias, like human bias,
+27.249	results in unfairness.
+31.573	However, algorithms, like viruses,
+31.573	can spread bias on a massive scale
+37.619	at a rapid pace.
+39.763	Algorithmic bias can also lead
+39.763	to exclusionary experiences
+44.174	and discriminatory practices.
+46.326	Let me show you what I mean.
+48.8	(Video) Joy Buolamwini: Hi, camera.
+48.8	I've got a face.
+51.982	Can you see my face?
+53.871	No-glasses face?
+55.521	You can see her face.
+58.057	What about my face?
+63.71	I've got a mask. Can you see my mask?
+68.294	Joy Buolamwini: So how did this happen?
+70.683	Why am I sitting in front of a computer
+73.848	in a white mask,
+75.296	trying to be detected by a cheap webcam?
+78.97	Well, when I'm not fighting the coded gaze
+81.285	as a poet of code,
+82.829	I'm a graduate student
+82.829	at the MIT Media Lab,
+86.125	and there I have the opportunity to work
+86.125	on all sorts of whimsical projects,
+91.066	including the Aspire Mirror,
+93.117	a project I did so I could project
+93.117	digital masks onto my reflection.
+98.275	So in the morning, if I wanted
+98.275	to feel powerful,
+100.649	I could put on a lion.
+102.107	If I wanted to be uplifted,
+102.107	I might have a quote.
+105.627	So I used generic
+105.627	facial recognition software
+108.64	to build the system,
+110.015	but found it was really hard to test it
+110.015	unless I wore a white mask.
+116.102	Unfortunately, I've run
+116.102	into this issue before.
+120.472	When I was an undergraduate
+120.472	at Georgia Tech studying computer science,
+124.799	I used to work on social robots,
+126.878	and one of my tasks was to get a robot
+126.878	to play peek-a-boo,
+130.679	a simple turn-taking game
+132.386	where partners cover their face
+132.386	"and then uncover it saying, ""Peek-a-boo!"""
+136.731	The problem is, peek-a-boo
+136.731	doesn't really work if I can't see you,
+141.184	and my robot couldn't see me.
+143.707	But I borrowed my roommate's face
+143.707	to get the project done,
+147.681	submitted the assignment,
+149.085	and figured, you know what,
+149.085	somebody else will solve this problem.
+153.489	Not too long after,
+155.516	I was in Hong Kong
+155.516	for an entrepreneurship competition.
+160.159	The organizers decided
+160.159	to take participants
+162.877	on a tour of local start-ups.
+165.273	One of the start-ups had a social robot,
+168.012	and they decided to do a demo.
+169.948	The demo worked on everybody
+169.948	until it got to me,
+172.952	and you can probably guess it.
+174.899	It couldn't detect my face.
+177.888	I asked the developers what was going on,
+180.423	and it turned out we had used the same
+180.423	generic facial recognition software.
+185.98	Halfway around the world,
+187.654	I learned that algorithmic bias
+187.654	can travel as quickly
+191.53	as it takes to download
+191.53	some files off of the internet.
+195.565	So what's going on?
+195.565	Why isn't my face being detected?
+198.665	Well, we have to look
+198.665	at how we give machines sight.
+202.045	Computer vision uses
+202.045	machine learning techniques
+205.478	to do facial recognition.
+207.382	So how this works is, you create
+207.382	a training set with examples of faces.
+211.303	This is a face. This is a face.
+211.303	This is not a face.
+214.145	And over time, you can teach a computer
+214.145	how to recognize other faces.
+218.688	However, if the training sets
+218.688	aren't really that diverse,
+222.701	any face that deviates too much
+222.701	from the established norm
+226.074	will be harder to detect,
+227.747	which is what was happening to me.
+229.734	But don't worry -- there's some good news.
+232.14	Training sets don't just
+232.14	materialize out of nowhere.
+234.935	We actually can create them.
+236.747	So there's an opportunity to create
+236.747	full-spectrum training sets
+240.947	that reflect a richer
+240.947	portrait of humanity.
+244.795	Now you've seen in my examples
+247.04	how social robots
+248.832	was how I found out about exclusion
+248.832	with algorithmic bias.
+253.467	But algorithmic bias can also lead
+253.467	to discriminatory practices.
+259.257	Across the US,
+260.734	police departments are starting to use
+260.734	facial recognition software
+264.956	in their crime-fighting arsenal.
+267.439	Georgetown Law published a report
+269.476	showing that one in two adults
+269.476	in the US -- that's 117 million people --
+276.263	have their faces
+276.263	in facial recognition networks.
+279.821	Police departments can currently look
+279.821	at these networks unregulated,
+284.397	using algorithms that have not
+284.397	been audited for accuracy.
+288.707	Yet we know facial recognition
+288.707	is not fail proof,
+292.595	and labeling faces consistently
+292.595	remains a challenge.
+296.798	You might have seen this on Facebook.
+298.584	My friends and I laugh all the time
+298.584	when we see other people
+301.596	mislabeled in our photos.
+304.078	But misidentifying a suspected criminal
+304.078	is no laughing matter,
+309.693	nor is breaching civil liberties.
+312.544	Machine learning is being used
+312.544	for facial recognition,
+315.773	but it's also extending beyond the realm
+315.773	of computer vision.
+321.086	"In her book, ""Weapons"
+321.086	"of Math Destruction,"""
+325.126	data scientist Cathy O'Neil
+325.126	talks about the rising new WMDs --
+331.831	widespread, mysterious
+331.831	and destructive algorithms
+336.208	that are increasingly being used
+336.208	to make decisions
+339.196	that impact more aspects of our lives.
+342.397	So who gets hired or fired?
+344.291	Do you get that loan?
+344.291	Do you get insurance?
+346.427	Are you admitted into the college
+346.427	you wanted to get into?
+349.954	Do you and I pay the same price
+349.954	for the same product
+353.487	purchased on the same platform?
+355.953	Law enforcement is also starting
+355.953	to use machine learning
+359.736	for predictive policing.
+362.049	Some judges use machine-generated
+362.049	risk scores to determine
+365.567	how long an individual
+365.567	is going to spend in prison.
+369.993	So we really have to think
+369.993	about these decisions.
+372.471	Are they fair?
+373.677	And we've seen that algorithmic bias
+376.591	doesn't necessarily always
+376.591	lead to fair outcomes.
+379.989	So what can we do about it?
+381.977	Well, we can start thinking about
+381.977	how we create more inclusive code
+385.681	and employ inclusive coding practices.
+388.695	It really starts with people.
+391.528	So who codes matters.
+393.513	Are we creating full-spectrum teams
+393.513	with diverse individuals
+397.656	who can check each other's blind spots?
+400.091	On the technical side,
+400.091	how we code matters.
+403.66	Are we factoring in fairness
+403.66	as we're developing systems?
+407.335	And finally, why we code matters.
+410.605	We've used tools of computational creation
+410.605	to unlock immense wealth.
+415.712	We now have the opportunity
+415.712	to unlock even greater equality
+420.183	if we make social change a priority
+423.137	and not an afterthought.
+425.828	And so these are the three tenets
+425.828	"that will make up the ""incoding"" movement."
+430.374	Who codes matters,
+432.05	how we code matters
+433.617	and why we code matters.
+435.664	So to go towards incoding,
+435.664	we can start thinking about
+438.787	building platforms that can identify bias
+441.975	by collecting people's experiences
+441.975	like the ones I shared,
+445.077	but also auditing existing software.
+448.171	We can also start to create
+448.171	more inclusive training sets.
+451.96	"Imagine a ""Selfies for Inclusion"" campaign"
+454.787	where you and I can help
+454.787	developers test and create
+458.466	more inclusive training sets.
+461.122	And we can also start thinking
+461.122	more conscientiously
+463.974	about the social impact
+463.974	of the technology that we're developing.
+469.389	To get the incoding movement started,
+471.806	I've launched the Algorithmic
+471.806	Justice League,
+474.677	where anyone who cares about fairness
+474.677	can help fight the coded gaze.
+480.573	On codedgaze.com, you can report bias,
+483.893	request audits, become a tester
+486.362	and join the ongoing conversation,
+489.157	#codedgaze.
+492.562	So I invite you to join me
+495.073	in creating a world where technology
+495.073	works for all of us,
+498.816	not just some of us,
+500.737	a world where we value inclusion
+500.737	and center social change.
+505.349	Thank you.
+506.548	(Applause)
+512.693	But I have one question:
+515.571	Will you join me in the fight?
+517.654	(Laughter)
+518.963	(Applause)

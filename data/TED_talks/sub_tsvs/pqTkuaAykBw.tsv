@@ -1,0 +1,413 @@
+startsecond	text
+15.26	I will start by posing a little bit of a challenge:
+19.26	the challenge of dealing with data,
+22.26	data that we have to deal with
+24.26	in medical situations.
+26.26	It's really a huge challenge for us.
+28.26	And this is our beast of burden --
+30.26	this is a Computer Tomography machine,
+32.26	a CT machine.
+34.26	It's a fantastic device.
+36.26	It uses X-rays, X-ray beams,
+38.26	that are rotating very fast around the human body.
+41.26	It takes about 30 seconds to go through the whole machine
+43.26	and is generating enormous amounts of information
+45.26	that comes out of the machine.
+47.26	So this is a fantastic machine
+49.26	that we can use
+51.26	for improving health care,
+53.26	but as I said, it's also a challenge for us.
+55.26	And the challenge is really found in this picture here.
+58.26	It's the medical data explosion
+60.26	that we're having right now.
+62.26	We're facing this problem.
+64.26	And let me step back in time.
+66.26	Let's go back a few years in time and see what happened back then.
+69.26	These machines that came out --
+71.26	they started coming in the 1970s --
+73.26	they would scan human bodies,
+75.26	and they would generate about 100 images
+77.26	of the human body.
+79.26	And I've taken the liberty, just for clarity,
+81.26	to translate that to data slices.
+84.26	That would correspond to about 50 megabytes of data,
+86.26	which is small
+88.26	when you think about the data we can handle today
+91.26	just on normal mobile devices.
+93.26	If you translate that to phone books,
+95.26	it's about one meter of phone books in the pile.
+98.26	Looking at what we're doing today
+100.26	with these machines that we have,
+102.26	we can, just in a few seconds,
+104.26	get 24,000 images out of a body,
+106.26	and that would correspond to about 20 gigabytes of data,
+109.26	or 800 phone books,
+111.26	and the pile would then be 200 meters of phone books.
+113.26	What's about to happen --
+115.26	and we're seeing this; it's beginning --
+117.26	a technology trend that's happening right now
+119.26	is that we're starting to look at time-resolved situations as well.
+122.26	So we're getting the dynamics out of the body as well.
+125.26	And just assume
+127.26	that we will be collecting data during five seconds,
+130.26	and that would correspond to one terabyte of data --
+132.26	that's 800,000 books
+134.26	and 16 kilometers of phone books.
+136.26	That's one patient, one data set.
+138.26	And this is what we have to deal with.
+140.26	So this is really the enormous challenge that we have.
+143.26	And already today -- this is 25,000 images.
+146.26	Imagine the days
+148.26	when we had radiologists doing this.
+150.26	They would put up 25,000 images,
+152.26	"they would go like this, ""25,0000, okay, okay."
+155.26	"There is the problem."""
+157.26	They can't do that anymore. That's impossible.
+159.26	So we have to do something that's a little bit more intelligent than doing this.
+163.26	So what we do is that we put all these slices together.
+165.26	Imagine that you slice your body in all these directions,
+168.26	and then you try to put the slices back together again
+171.26	into a pile of data, into a block of data.
+173.26	So this is really what we're doing.
+175.26	So this gigabyte or terabyte of data, we're putting it into this block.
+178.26	But of course, the block of data
+180.26	just contains the amount of X-ray
+182.26	that's been absorbed in each point in the human body.
+184.26	So what we need to do is to figure out a way
+186.26	of looking at the things we do want to look at
+189.26	and make things transparent that we don't want to look at.
+192.26	So transforming the data set
+194.26	into something that looks like this.
+196.26	And this is a challenge.
+198.26	This is a huge challenge for us to do that.
+201.26	Using computers, even though they're getting faster and better all the time,
+204.26	it's a challenge to deal with gigabytes of data,
+206.26	terabytes of data
+208.26	and extracting the relevant information.
+210.26	I want to look at the heart.
+212.26	I want to look at the blood vessels. I want to look at the liver.
+214.26	Maybe even find a tumor,
+216.26	in some cases.
+219.26	So this is where this little dear comes into play.
+221.26	This is my daughter.
+223.26	This is as of 9 a.m. this morning.
+225.26	She's playing a computer game.
+227.26	She's only two years old,
+229.26	and she's having a blast.
+231.26	So she's really the driving force
+234.26	behind the development of graphics-processing units.
+238.26	As long as kids are playing computer games,
+240.26	graphics is getting better and better and better.
+242.26	So please go back home, tell your kids to play more games,
+244.26	because that's what I need.
+246.26	So what's inside of this machine
+248.26	is what enables me to do the things that I'm doing
+250.26	with the medical data.
+252.26	So really what I'm doing is using these fantastic little devices.
+255.26	And you know, going back
+257.26	maybe 10 years in time
+259.26	when I got the funding
+261.26	to buy my first graphics computer --
+263.26	it was a huge machine.
+265.26	It was cabinets of processors and storage and everything.
+268.26	I paid about one million dollars for that machine.
+272.26	That machine is, today, about as fast as my iPhone.
+277.26	So every month there are new graphics cards coming out,
+279.26	and here is a few of the latest ones from the vendors --
+282.26	NVIDIA, ATI, Intel is out there as well.
+285.26	And you know, for a few hundred bucks
+287.26	you can get these things and put them into your computer,
+289.26	and you can do fantastic things with these graphics cards.
+292.26	So this is really what's enabling us
+294.26	to deal with the explosion of data in medicine,
+297.26	together with some really nifty work
+299.26	in terms of algorithms --
+301.26	compressing data,
+303.26	extracting the relevant information that people are doing research on.
+306.26	So I'm going to show you a few examples of what we can do.
+309.26	This is a data set that was captured using a CT scanner.
+312.26	You can see that this is a full data [set].
+315.26	It's a woman. You can see the hair.
+318.26	You can see the individual structures of the woman.
+321.26	You can see that there is [a] scattering of X-rays
+324.26	on the teeth, the metal in the teeth.
+326.26	That's where those artifacts are coming from.
+329.26	But fully interactively
+331.26	on standard graphics cards on a normal computer,
+334.26	I can just put in a clip plane.
+336.26	And of course all the data is inside,
+338.26	so I can start rotating, I can look at it from different angles,
+341.26	and I can see that this woman had a problem.
+344.26	She had a bleeding up in the brain,
+346.26	and that's been fixed with a little stent,
+348.26	a metal clamp that's tightening up the vessel.
+350.26	And just by changing the functions,
+352.26	then I can decide what's going to be transparent
+355.26	and what's going to be visible.
+357.26	I can look at the skull structure,
+359.26	and I can see that, okay, this is where they opened up the skull on this woman,
+362.26	and that's where they went in.
+364.26	So these are fantastic images.
+366.26	They're really high resolution,
+368.26	and they're really showing us what we can do
+370.26	with standard graphics cards today.
+373.26	Now we have really made use of this,
+375.26	and we have tried to squeeze a lot of data
+378.26	into the system.
+380.26	And one of the applications that we've been working on --
+382.26	and this has gotten a little bit of traction worldwide --
+385.26	is the application of virtual autopsies.
+387.26	So again, looking at very, very large data sets,
+389.26	and you saw those full-body scans that we can do.
+392.26	We're just pushing the body through the whole CT scanner,
+395.26	and just in a few seconds we can get a full-body data set.
+398.26	So this is from a virtual autopsy.
+400.26	And you can see how I'm gradually peeling off.
+402.26	First you saw the body bag that the body came in,
+405.26	then I'm peeling off the skin -- you can see the muscles --
+408.26	and eventually you can see the bone structure of this woman.
+411.26	Now at this point, I would also like to emphasize
+414.26	that, with the greatest respect
+416.26	for the people that I'm now going to show --
+418.26	I'm going to show you a few cases of virtual autopsies --
+420.26	so it's with great respect for the people
+422.26	that have died under violent circumstances
+424.26	that I'm showing these pictures to you.
+428.26	In the forensic case --
+430.26	and this is something
+432.26	that ... there's been approximately 400 cases so far
+434.26	just in the part of Sweden that I come from
+436.26	that has been undergoing virtual autopsies
+438.26	in the past four years.
+440.26	So this will be the typical workflow situation.
+443.26	The police will decide --
+445.26	in the evening, when there's a case coming in --
+447.26	they will decide, okay, is this a case where we need to do an autopsy?
+450.26	So in the morning, in between six and seven in the morning,
+453.26	the body is then transported inside of the body bag
+455.26	to our center
+457.26	and is being scanned through one of the CT scanners.
+459.26	And then the radiologist, together with the pathologist
+461.26	and sometimes the forensic scientist,
+463.26	looks at the data that's coming out,
+465.26	and they have a joint session.
+467.26	And then they decide what to do in the real physical autopsy after that.
+472.26	Now looking at a few cases,
+474.26	here's one of the first cases that we had.
+476.26	You can really see the details of the data set.
+479.26	It's very high-resolution,
+481.26	and it's our algorithms that allow us
+483.26	to zoom in on all the details.
+485.26	And again, it's fully interactive,
+487.26	so you can rotate and you can look at things in real time
+489.26	on these systems here.
+491.26	Without saying too much about this case,
+493.26	this is a traffic accident,
+495.26	a drunk driver hit a woman.
+497.26	And it's very, very easy to see the damages on the bone structure.
+500.26	And the cause of death is the broken neck.
+503.26	And this women also ended up under the car,
+505.26	so she's quite badly beaten up
+507.26	by this injury.
+509.26	Here's another case, a knifing.
+512.26	And this is also again showing us what we can do.
+514.26	It's very easy to look at metal artifacts
+516.26	that we can show inside of the body.
+519.26	You can also see some of the artifacts from the teeth --
+522.26	that's actually the filling of the teeth --
+524.26	but because I've set the functions to show me metal
+527.26	and make everything else transparent.
+529.26	Here's another violent case. This really didn't kill the person.
+532.26	The person was killed by stabs in the heart,
+534.26	but they just deposited the knife
+536.26	by putting it through one of the eyeballs.
+538.26	Here's another case.
+540.26	It's very interesting for us
+542.26	to be able to look at things like knife stabbings.
+544.26	Here you can see that knife went through the heart.
+547.26	It's very easy to see how air has been leaking
+549.26	from one part to another part,
+551.26	which is difficult to do in a normal, standard, physical autopsy.
+554.26	So it really, really helps
+556.26	the criminal investigation
+558.26	to establish the cause of death,
+560.26	and in some cases also directing the investigation in the right direction
+563.26	to find out who the killer really was.
+565.26	Here's another case that I think is interesting.
+567.26	Here you can see a bullet
+569.26	that has lodged just next to the spine on this person.
+572.26	And what we've done is that we've turned the bullet into a light source,
+575.26	so that bullet is actually shining,
+577.26	and it makes it really easy to find these fragments.
+580.26	During a physical autopsy,
+582.26	if you actually have to dig through the body to find these fragments,
+584.26	that's actually quite hard to do.
+588.26	One of the things that I'm really, really happy
+590.26	to be able to show you here today
+593.26	is our virtual autopsy table.
+595.26	It's a touch device that we have developed
+597.26	based on these algorithms, using standard graphics GPUs.
+600.26	It actually looks like this,
+602.26	just to give you a feeling for what it looks like.
+605.26	It really just works like a huge iPhone.
+608.26	So we've implemented
+610.26	all the gestures you can do on the table,
+613.26	and you can think of it as an enormous touch interface.
+617.26	So if you were thinking of buying an iPad,
+619.26	forget about it. This is what you want instead.
+622.26	Steve, I hope you're listening to this, all right.
+626.26	So it's a very nice little device.
+628.26	So if you have the opportunity, please try it out.
+630.26	It's really a hands-on experience.
+633.26	So it gained some traction, and we're trying to roll this out
+636.26	and trying to use it for educational purposes,
+638.26	but also, perhaps in the future,
+640.26	in a more clinical situation.
+643.26	There's a YouTube video that you can download and look at this,
+645.26	if you want to convey the information to other people
+647.26	about virtual autopsies.
+650.26	Okay, now that we're talking about touch,
+652.26	"let me move on to really ""touching"" data."
+654.26	And this is a bit of science fiction now,
+656.26	so we're moving into really the future.
+659.26	This is not really what the medical doctors are using right now,
+662.26	but I hope they will in the future.
+664.26	So what you're seeing on the left is a touch device.
+667.26	It's a little mechanical pen
+669.26	that has very, very fast step motors inside of the pen.
+672.26	And so I can generate a force feedback.
+674.26	So when I virtually touch data,
+676.26	it will generate forces in the pen, so I get a feedback.
+679.26	So in this particular situation,
+681.26	it's a scan of a living person.
+683.26	I have this pen, and I look at the data,
+686.26	and I move the pen towards the head,
+688.26	and all of a sudden I feel resistance.
+690.26	So I can feel the skin.
+692.26	If I push a little bit harder, I'll go through the skin,
+694.26	and I can feel the bone structure inside.
+697.26	If I push even harder, I'll go through the bone structure,
+699.26	especially close to the ear where the bone is very soft.
+702.26	And then I can feel the brain inside, and this will be the slushy like this.
+705.26	So this is really nice.
+707.26	And to take that even further, this is a heart.
+710.26	And this is also due to these fantastic new scanners,
+713.26	that just in 0.3 seconds,
+715.26	I can scan the whole heart,
+717.26	and I can do that with time resolution.
+719.26	So just looking at this heart,
+721.26	I can play back a video here.
+723.26	And this is Karljohan, one of my graduate students
+725.26	who's been working on this project.
+727.26	And he's sitting there in front of the Haptic device, the force feedback system,
+730.26	and he's moving his pen towards the heart,
+733.26	and the heart is now beating in front of him,
+735.26	so he can see how the heart is beating.
+737.26	He's taken the pen, and he's moving it towards the heart,
+739.26	and he's putting it on the heart,
+741.26	and then he feels the heartbeats from the real living patient.
+744.26	Then he can examine how the heart is moving.
+746.26	He can go inside, push inside of the heart,
+748.26	and really feel how the valves are moving.
+751.26	And this, I think, is really the future for heart surgeons.
+754.26	I mean it's probably the wet dream for a heart surgeon
+757.26	to be able to go inside of the patient's heart
+760.26	before you actually do surgery,
+762.26	and do that with high-quality resolution data.
+764.26	So this is really neat.
+767.26	Now we're going even further into science fiction.
+770.26	And we heard a little bit about functional MRI.
+773.26	Now this is really an interesting project.
+776.26	MRI is using magnetic fields
+778.26	and radio frequencies
+780.26	to scan the brain, or any part of the body.
+783.26	So what we're really getting out of this
+785.26	is information of the structure of the brain,
+787.26	but we can also measure the difference
+789.26	in magnetic properties of blood that's oxygenated
+792.26	and blood that's depleted of oxygen.
+795.26	That means that it's possible
+797.26	to map out the activity of the brain.
+799.26	So this is something that we've been working on.
+801.26	And you just saw Motts the research engineer, there,
+804.26	going into the MRI system,
+806.26	and he was wearing goggles.
+808.26	So he could actually see things in the goggles.
+810.26	So I could present things to him while he's in the scanner.
+813.26	And this is a little bit freaky,
+815.26	because what Motts is seeing is actually this.
+817.26	He's seeing his own brain.
+820.26	So Motts is doing something here,
+822.26	and probably he is going like this with his right hand,
+824.26	because the left side is activated
+826.26	on the motor cortex.
+828.26	And then he can see that at the same time.
+830.26	These visualizations are brand new.
+832.26	And this is something that we've been researching for a little while.
+835.26	This is another sequence of Motts' brain.
+838.26	And here we asked Motts to calculate backwards from 100.
+841.26	"So he's going ""100, 97, 94."""
+843.26	And then he's going backwards.
+845.26	And you can see how the little math processor is working up here in his brain
+848.26	and is lighting up the whole brain.
+850.26	Well this is fantastic. We can do this in real time.
+852.26	We can investigate things. We can tell him to do things.
+854.26	You can also see that his visual cortex
+856.26	is activated in the back of the head,
+858.26	because that's where he's seeing, he's seeing his own brain.
+860.26	And he's also hearing our instructions
+862.26	when we tell him to do things.
+864.26	The signal is really deep inside of the brain as well,
+866.26	and it's shining through,
+868.26	because all of the data is inside this volume.
+870.26	And in just a second here you will see --
+872.26	okay, here. Motts, now move your left foot.
+874.26	So he's going like this.
+876.26	For 20 seconds he's going like that,
+878.26	and all of a sudden it lights up up here.
+880.26	So we've got motor cortex activation up there.
+882.26	So this is really, really nice,
+884.26	and I think this is a great tool.
+886.26	And connecting also with the previous talk here,
+888.26	this is something that we could use as a tool
+890.26	to really understand
+892.26	how the neurons are working, how the brain is working,
+894.26	and we can do this with very, very high visual quality
+897.26	and very fast resolution.
+900.26	Now we're also having a bit of fun at the center.
+902.26	So this is a CAT scan -- Computer Aided Tomography.
+906.26	So this is a lion from the local zoo
+908.26	outside of Norrkoping in Kolmarden, Elsa.
+911.26	So she came to the center,
+913.26	and they sedated her
+915.26	and then put her straight into the scanner.
+917.26	And then, of course, I get the whole data set from the lion.
+920.26	And I can do very nice images like this.
+922.26	I can peel off the layer of the lion.
+924.26	I can look inside of it.
+926.26	And we've been experimenting with this.
+928.26	And I think this is a great application
+930.26	for the future of this technology,
+932.26	because there's very little known about the animal anatomy.
+935.26	What's known out there for veterinarians is kind of basic information.
+938.26	We can scan all sorts of things,
+940.26	all sorts of animals.
+942.26	The only problem is to fit it into the machine.
+945.26	So here's a bear.
+947.26	It was kind of hard to get it in.
+949.26	And the bear is a cuddly, friendly animal.
+952.26	And here it is. Here is the nose of the bear.
+955.26	And you might want to cuddle this one,
+958.26	until you change the functions and look at this.
+961.26	So be aware of the bear.
+963.26	So with that,
+965.26	I'd like to thank all the people
+967.26	who have helped me to generate these images.
+969.26	It's a huge effort that goes into doing this,
+971.26	gathering the data and developing the algorithms,
+974.26	writing all the software.
+976.26	So, some very talented people.
+979.26	My motto is always, I only hire people that are smarter than I am
+982.26	and most of these are smarter than I am.
+984.26	So thank you very much.
+986.26	(Applause)

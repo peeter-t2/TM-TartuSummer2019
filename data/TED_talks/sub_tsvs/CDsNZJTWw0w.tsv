@@ -1,0 +1,498 @@
+startsecond	text
+13.252	Looking deeply inside nature,
+15.982	through the magnifying glass of science,
+19.095	designers extract principles,
+19.095	processes and materials
+22.7	that are forming the very basis
+22.7	of design methodology.
+27.252	From synthetic constructs
+27.252	that resemble biological materials,
+32.352	to computational methods
+32.352	that emulate neural processes,
+35.743	nature is driving design.
+39.398	Design is also driving nature.
+42.128	In realms of genetics, regenerative
+42.128	medicine and synthetic biology,
+45.887	designers are growing novel technologies,
+48.616	not foreseen or anticipated by nature.
+53.14	Bionics explores the interplay
+53.14	between biology and design.
+59.107	As you can see, my legs are bionic.
+62.99	Today, I will tell human stories
+62.99	of bionic integration;
+68.538	how electromechanics attached
+68.538	to the body, and implanted inside the body
+74.261	are beginning to bridge the gap
+74.261	between disability and ability,
+78.999	between human limitation
+78.999	and human potential.
+84.681	Bionics has defined my physicality.
+88.228	In 1982, both of my legs were amputated
+90.704	due to tissue damage from frostbite,
+92.832	incurred during
+92.832	a mountain-climbing accident.
+95.95	At that time, I didn't
+95.95	view my body as broken.
+100.417	I reasoned that a human being
+100.417	"can never be ""broken."""
+105.655	Technology is broken.
+108.409	Technology is inadequate.
+111.638	This simple but powerful idea
+111.638	was a call to arms,
+116.12	to advance technology
+116.12	for the elimination of my own disability,
+120.651	and ultimately, the disability of others.
+124.46	I began by developing specialized limbs
+127.442	that allowed me to return
+127.442	to the vertical world
+129.927	of rock and ice climbing.
+131.418	I quickly realized that the artificial
+131.418	part of my body is malleable;
+136.06	able to take on any form, any function --
+140.434	a blank slate for which to create,
+143.397	perhaps, structures that could extend
+143.397	beyond biological capability.
+149.391	I made my height adjustable.
+150.765	I could be as short as five feet
+150.765	or as tall as I'd like.
+153.469	(Laughter)
+155.922	So when I was feeling bad about myself,
+159.296	insecure, I would jack my height up.
+161.157	(Laughter)
+163.062	But when I was feeling
+163.062	confident and suave,
+165.283	I would knock my height down a notch,
+165.283	just to give the competition a chance.
+169.076	(Laughter)
+171.195	(Applause)
+173.322	Narrow-edged feet allowed me
+173.322	to climb steep rock fissures,
+176.615	where the human foot cannot penetrate,
+179.241	and spiked feet enabled me
+179.241	to climb vertical ice walls,
+183.447	without ever experiencing
+183.447	muscle leg fatigue.
+187.399	Through technological innovation,
+189.613	I returned to my sport,
+189.613	stronger and better.
+192.478	Technology had eliminated my disability,
+195.085	and allowed me a new climbing prowess.
+197.451	As a young man, I imagined a future world
+197.451	where technology so advanced
+201.038	could rid the world of disability,
+202.844	a world in which neural
+202.844	implants would allow
+204.964	the visually impaired to see.
+207.026	A world in which the paralyzed
+207.026	could walk, via body exoskeletons.
+212.645	Sadly, because of
+212.645	deficiencies in technology,
+215.447	disability is rampant in the world.
+217.205	This gentleman is missing three limbs.
+219.903	As a testimony to current technology,
+219.903	he is out of the wheelchair,
+223.75	but we need to do a better job in bionics,
+223.75	to allow, one day, full rehabilitation
+229.695	for a person with this level of injury.
+233.876	At the MIT Media Lab, we've established
+233.876	the Center for Extreme Bionics.
+237.479	The mission of the center
+237.479	is to put forth fundamental science
+242.051	and technological capability
+243.911	that will allow the biomechatronic
+243.911	and regenerative repair of humans,
+247.682	across a broad range
+247.682	of brain and body disabilities.
+253.707	Today, I'm going to tell you
+253.707	how my legs function, how they work,
+257.468	as a case in point for this center.
+260.77	Now, I made sure to shave
+260.77	my legs last night,
+262.921	because I knew I'd be showing them off.
+264.892	(Laughter)
+266.365	Bionics entails the engineering
+266.365	of extreme interfaces.
+269.619	There's three extreme
+269.619	interfaces in my bionic limbs:
+272.515	mechanical, how my limbs
+272.515	are attached to my biological body;
+276.619	dynamic, how they move
+276.619	like flesh and bone;
+279.942	and electrical, how they communicate
+279.942	with my nervous system.
+282.856	I'll begin with mechanical interface.
+285.904	In the area of design,
+285.904	we still do not understand
+289.071	how to attach devices
+289.071	to the body mechanically.
+293.185	It's extraordinary to me
+293.185	that in this day and age,
+296.352	one of the most mature,
+296.352	oldest technologies
+298.701	in the human timeline, the shoe,
+298.701	still gives us blisters.
+303.121	How can this be?
+304.602	We have no idea how to attach
+304.602	things to our bodies.
+308.364	This is the beautifully
+308.364	lyrical design work
+311.293	of Professor Neri Oxman
+311.293	at the MIT Media Lab,
+313.738	showing spatially varying
+313.738	exoskeletal impedances,
+317.186	shown here by color variation
+317.186	in this 3D-printed model.
+321.811	Imagine a future where clothing
+321.811	is stiff and soft where you need it,
+326.359	when you need it, for optimal
+326.359	support and flexibility,
+329.913	without ever causing discomfort.
+332.112	My bionic limbs are attached
+332.112	to my biological body
+335.558	via synthetic skins
+335.558	with stiffness variations,
+339.644	that mirror my underlying
+339.644	tissue biomechanics.
+344.359	To achieve that mirroring, we first
+344.359	developed a mathematical model
+347.557	of my biological limb.
+349.129	To that end, we used
+349.129	imaging tools such as MRI,
+352.435	to look inside my body,
+354.023	to figure out the geometries
+354.023	and locations of various tissues.
+357.752	We also took robotic tools --
+359.163	here's a 14-actuator circle
+359.163	that goes around the biological limb.
+364.891	The actuators come in,
+364.891	find the surface of the limb,
+367.463	measure its unloaded shape,
+369.732	and then they push on the tissues
+371.407	to measure tissue compliances
+371.407	at each anatomical point.
+375.542	We combine these imaging and robotic data
+377.813	to build a mathematical description
+377.813	of my biological limb, shown on the left.
+381.479	You see a bunch of points, or nodes?
+383.257	At each node, there's a color
+383.257	that represents tissue compliance.
+386.431	We then do a mathematical transformation
+386.431	to the design of the synthetic skin,
+390.397	shown on the right.
+392.088	And we've discovered optimality is:
+394.516	where the body is stiff,
+394.516	the synthetic skin should be soft,
+397.397	where the body is soft,
+397.397	the synthetic skin is stiff,
+400.881	and this mirroring occurs
+400.881	across all tissue compliances.
+404.72	With this framework,
+404.72	we've produced bionic limbs
+407.505	that are the most comfortable
+407.505	limbs I've ever worn.
+411.077	Clearly, in the future, our clothing,
+411.077	our shoes, our braces, our prostheses,
+417.19	will no longer be designed
+417.19	and manufactured using artisan strategies,
+420.87	but rather, data-driven
+420.87	quantitative frameworks.
+424.098	In that future, our shoes
+424.098	will no longer give us blisters.
+429.04	We're also embedding
+429.04	sensing and smart materials
+431.961	into the synthetic skins.
+433.556	This is a material developed
+433.556	by SRI International, California.
+438.048	Under electrostatic effect,
+438.048	it changes stiffness.
+441.349	So under zero voltage,
+441.349	the material is compliant,
+444.698	it's floppy like paper.
+446.096	Then the button's pushed,
+446.096	a voltage is applied,
+448.588	and it becomes stiff as a board.
+450.604	(Tapping sounds)
+453.666	We embed this material
+453.666	into the synthetic skin
+456.338	that attaches my bionic limb
+456.338	to my biological body.
+459.888	When I walk here, it's no voltage.
+462.342	My interface is soft and compliant.
+464.423	The button's pushed,
+464.423	voltage is applied, and it stiffens,
+467.438	offering me a greater maneuverability
+467.438	over the bionic limb.
+470.915	We're also building exoskeletons.
+473.327	This exoskeleton becomes stiff and soft
+475.607	in just the right areas
+475.607	of the running cycle,
+478.569	to protect the biological joints
+478.569	from high impacts and degradation.
+482.847	In the future, we'll all
+482.847	be wearing exoskeletons
+485.657	in common activities, such as running.
+488.966	Next, dynamic interface.
+490.474	How do my bionic limbs
+490.474	move like flesh and bone?
+493.799	At my MIT lab, we study how humans
+493.799	with normal physiologies
+497.808	stand, walk and run.
+499.338	What are the muscles doing,
+500.753	and how are they controlled
+500.753	by the spinal cord?
+503.697	This basic science
+503.697	motivates what we build.
+506.166	We're building bionic ankles,
+506.166	knees and hips.
+508.528	We're building body parts
+508.528	from the ground up.
+511.854	The bionic limbs that I'm wearing
+511.854	are called BiOMs.
+515.041	They've been fitted
+515.041	to nearly 1,000 patients,
+	wounded U.S. soldiers.
+522.005	How does it work?
+523.187	At heel strike, under computer control,
+525.226	the system controls stiffness,
+527.226	to attenuate the shock
+527.226	of the limb hitting the ground.
+530.287	Then at mid-stance, the bionic limb
+530.287	outputs high torques and powers
+534.407	to lift the person
+534.407	into the walking stride,
+536.786	comparable to how muscles
+536.786	work in the calf region.
+541.096	This bionic propulsion is very important
+541.096	clinically to patients.
+544.85	So on the left, you see
+544.85	the bionic device worn by a lady,
+547.928	on the right, a passive device
+547.928	worn by the same lady,
+550.887	that fails to emulate
+550.887	normal muscle function,
+553.737	enabling her to do something
+553.737	everyone should be able to do:
+557.439	go up and down their steps at home.
+559.634	Bionics also allows
+559.634	for extraordinary athletic feats.
+563.149	Here's a gentleman running
+563.149	up a rocky pathway.
+567.784	This is Steve Martin --
+567.784	not the comedian --
+570.633	who lost his legs in a bomb blast
+570.633	in Afghanistan.
+574.327	We're also building exoskeletal
+574.327	structures using these same principles,
+579.218	that wrap around the biological limb.
+582.311	This gentleman does not have
+582.311	any leg condition, any disability.
+587.922	He has a normal physiology,
+589.826	so these exoskeletons are applying
+589.826	muscle-like torques and powers,
+594.419	so that his own muscles need not
+594.419	apply those torques and powers.
+599.079	This is the first exoskeleton in history
+599.079	that actually augments human walking.
+604.501	It significantly reduces metabolic cost.
+607.668	It's so profound in its augmentation,
+610.406	that when a normal, healthy person
+610.406	wears the device for 40 minutes
+613.579	and then takes it off,
+615.302	their own biological legs feel
+615.302	ridiculously heavy and awkward.
+620.039	We're beginning the age in which
+620.039	machines attached to our bodies
+623.474	will make us stronger
+623.474	and faster and more efficient.
+627.699	Moving on to electrical interface:
+629.47	How do my bionic limbs communicate
+629.47	with my nervous system?
+632.651	Across my residual limb are electrodes
+634.517	that measure the electrical
+634.517	pulse of my muscles.
+637.286	That's communicated to the bionic limb,
+639.229	so when I think about moving
+639.229	my phantom limb,
+642.306	the robot tracks those movement desires.
+646.02	This diagram shows fundamentally
+646.02	how the bionic limb is controlled.
+650.67	So we model the missing biological limb,
+653.099	and we've discovered
+653.099	what reflexes occurred,
+655.937	how the reflexes of the spinal cord
+655.937	are controlling the muscles.
+659.302	And that capability is embedded
+659.302	in the chips of the bionic limb.
+665.009	What we've done, then, is we modulate
+665.009	the sensitivity of the reflex,
+668.993	the modeled spinal reflex,
+668.993	with the neural signal,
+672.112	so when I relax my muscles
+672.112	in my residual limb,
+675.565	I get very little torque and power,
+678.436	but the more I fire my muscles,
+678.436	the more torque I get,
+681.181	and I can even run.
+684.014	And that was the first demonstration
+684.014	of a running gait under neural command.
+688.982	Feels great.
+690.158	(Applause)
+696.149	We want to go a step further.
+697.558	We want to actually close the loop
+700.629	between the human
+700.629	and the bionic external limb.
+704.407	We're doing experiments
+705.582	where we're growing nerves,
+705.582	transected nerves,
+708.075	through channels, or micro-channel arrays.
+710.129	On the other side of the channel,
+711.847	the nerve then attaches to cells,
+714.2	skin cells and muscle cells.
+716.926	In the motor channels, we can sense
+716.926	how the person wishes to move.
+721.07	That can be sent out wirelessly
+721.07	to the bionic limb,
+724.731	then [sensory information]
+724.731	on the bionic limb
+727.137	can be converted to stimulations
+727.137	in adjacent channels,
+730.662	sensory channels.
+731.918	So when this is fully developed
+731.918	and for human use,
+735.97	persons like myself will not only have
+738.63	synthetic limbs that move
+738.63	like flesh and bone,
+742.187	but actually feel like flesh and bone.
+746.187	This video shows Lisa Mallette,
+748.201	shortly after being fitted
+748.201	with two bionic limbs.
+751.471	Indeed, bionics is making
+751.471	a profound difference in people's lives.
+754.988	(Video) Lisa Mallette: Oh my God.
+759.519	LM: Oh my God, I can't believe it!
+762.678	(Video) (Laughter)
+764.145	LM: It's just like I've got a real leg!
+769.237	Woman: Now, don't start running.
+770.855	Man: Now turn around,
+770.855	and do the same thing walking up,
+773.673	but get on your heel to toe, like you
+773.673	would normally just walk on level ground.
+777.426	Try to walk right up the hill.
+781.411	LM: Oh my God.
+784.037	Man: Is it pushing you up?
+785.307	LM: Yes! I'm not even --
+785.307	I can't even describe it.
+790.286	Man: It's pushing you right up.
+792.608	Hugh Herr: Next week,
+792.608	I'm visiting the Center --
+795.18	Thank you. Thank you.
+796.356	(Applause)
+799.886	Thank you.
+801.193	Next week I'm visiting the Center
+801.193	for Medicare and Medicaid Services,
+805.042	and I'm going to try to convince CMS
+807.669	to grant appropriate
+807.669	code language and pricing,
+810.248	so this technology can be made available
+810.248	to the patients that need it.
+814.003	(Applause)
+815.05	Thank you.
+816.234	(Applause)
+819.873	It's not well appreciated,
+819.873	but over half of the world's population
+823.841	suffers from some form of cognitive,
+823.841	emotional, sensory or motor condition,
+828.632	and because of poor technology,
+828.632	too often, conditions result in disability
+833.066	and a poorer quality of life.
+835.113	Basic levels of physiological function
+835.113	should be a part of our human rights.
+840.077	Every person should have the right
+840.077	to live life without disability
+844.057	if they so choose --
+845.978	the right to live life
+845.978	without severe depression;
+848.724	the right to see a loved one,
+848.724	in the case of seeing-impaired;
+852.129	or the right to walk or to dance,
+854.042	in the case of limb paralysis
+854.042	or limb amputation.
+857.633	As a society, we can
+857.633	achieve these human rights,
+861.323	if we accept the proposition
+861.323	that humans are not disabled.
+867.794	A person can never be broken.
+870.5	Our built environment, our technologies,
+873.199	are broken and disabled.
+875.444	We the people need not
+875.444	accept our limitations,
+878.5	but can transcend disability
+878.5	through technological innovation.
+882.599	Indeed, through fundamental advances
+882.599	in bionics in this century,
+886.583	we will set the technological foundation
+886.583	for an enhanced human experience,
+890.765	and we will end disability.
+893.456	I'd like to finish up
+893.456	with one more story, a beautiful story.
+897.613	The story of Adrianne Haslet-Davis.
+900.36	Adrianne lost her left leg
+900.36	in the Boston terrorist attack.
+904.766	I met Adrianne when this photo was taken,
+904.766	at Spaulding Rehabilitation Hospital.
+908.745	Adrianne is a dancer, a ballroom dancer.
+911.245	Adrianne breathes and lives dance.
+914.366	It is her expression. It is her art form.
+916.66	Naturally, when she lost her limb
+916.66	in the Boston terrorist attack,
+920.683	she wanted to return to the dance floor.
+923.828	After meeting her
+923.828	and driving home in my car,
+926.011	I thought, I'm an MIT professor.
+926.011	I have resources.
+929.888	Let's build her a bionic limb,
+931.45	to enable her to go back
+931.45	to her life of dance.
+935.396	I brought in MIT scientists
+935.396	with expertise in prosthetics,
+938.896	robotics, machine learning
+938.896	and biomechanics,
+941.229	and over a 200-day research period,
+941.229	we studied dance.
+945.389	We brought in dancers
+945.389	with biological limbs,
+949.31	and we studied how they move,
+951.969	what forces they apply on the dance floor,
+955.166	and we took those data,
+956.717	and we put forth
+956.717	fundamental principles of dance,
+960.516	reflexive dance capability,
+962.327	and we embedded that intelligence
+962.327	into the bionic limb.
+965.992	Bionics is not only about making
+965.992	people stronger and faster.
+969.761	Our expression, our humanity
+969.761	can be embedded into electromechanics.
+975.52	It was 3.5 seconds between the bomb blasts
+975.52	in the Boston terrorist attack.
+981.733	In 3.5 seconds, the criminals and cowards
+981.733	took Adrianne off the dance floor.
+987.86	In 200 days, we put her back.
+990.495	We will not be intimidated, brought down,
+990.495	diminished, conquered or stopped
+995.492	by acts of violence.
+997.061	(Applause)
+1005.046	Ladies and gentlemen, please allow me
+1005.046	to introduce Adrianne Haslet-Davis,
+1009.372	her first performance since the attack.
+1012.38	She's dancing with Christian Lightner.
+1014.541	(Applause)
+1025.579	"(Music: ""Ring My Bell"""
+1025.579	performed by Enrique Iglesias)
+1071.267	(Applause)
+1102.17	Ladies and gentlemen,
+1102.17	members of the research team:
+1104.962	Elliott Rouse
+1106.981	and Nathan Villagaray-Carski.
+1109.776	Elliott and Nathan.
+1112.187	(Applause)

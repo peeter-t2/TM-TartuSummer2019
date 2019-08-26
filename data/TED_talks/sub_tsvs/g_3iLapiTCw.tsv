@@ -1,0 +1,305 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+12.502	Frugal Digital is essentially a small research group at C.I.D.
+17.787	where we are looking to find
+19.93	alternate visions of how to create a digitally inclusive society.
+24.47	That's what we're after.
+26.278	And we do this because we actually believe
+28.458	that silicon technology today is mostly about
+31.732	a culture of excess.
+33.484	It's about the fastest and the most efficient
+35.657	and the most dazzling gadget you can have,
+38.087	while about two-thirds of the world
+40.985	can hardly reach the most basic of this technology
+44.669	to even address fundamental needs in life,
+48.252	including health care, education
+50.42	and all these kinds of very fundamental issues.
+54.499	So before I start, I want to talk about a little anecdote,
+57.744	a little story about a man I met once in Mumbai.
+61.767	So this man, his name is Sathi Shri.
+63.954	He is an outstanding person,
+66.06	because he's a small entrepreneur.
+68.202	He runs a little shop
+69.944	in one of the back streets of Mumbai.
+71.947	He has this little 10-square-meter store,
+74.995	where so much is being done.
+77.145	It's incredible, because I couldn't believe my eyes
+79.05	when I once just happened to bump into him.
+81.533	Basically, what he does is, he has all these services
+83.658	for micro-payments and booking tickets
+86.411	and all kinds of basic things that you would go online for,
+89.744	but he does it for people offline
+91.933	and connects to the digital world.
+93.93	More importantly, he makes his money
+95.435	by selling these mobile recharge coupons, you know,
+98.028	for the prepaid subscriptions.
+100.303	But then, in the backside, he's got this little nook
+103.544	with a few of his employees
+106.117	where they can fix almost anything.
+108.701	Any cell phone, any gadget you can bring them, they can fix it.
+111.959	And it's pretty incredible because I took my iPhone there,
+115.077	"and he was like, ""Yeah, do you want an upgrade?"""
+117.246	"""Yes."" (Laughter)"
+119.564	I was a bit skeptical, but then, I decided
+121.504	to give him a Nokia instead. (Laughter)
+126.137	But what I was amazed about is this reverse engineering
+131.352	and know-how that's built into this little two meters of space.
+136.304	They have figured out everything that's required
+138.895	to dismantle, take things apart,
+140.921	rewrite the circuitry, re-flash the firmware,
+143.88	do whatever you want to with the phone,
+145.847	and they can fix anything so quickly.
+148.416	You can hand over a phone this morning
+150.416	and you can go pick it up after lunch,
+152.336	and it was quite incredible.
+154.256	But then we were wondering whether this is
+155.827	a local phenomenon, or is truly global?
+158.369	And, over time, we started understanding
+160.619	and systematically researching
+162.338	what this tinkering ecosystem is about,
+164.454	because that is something that's happening
+166.059	not just in one street corner in Mumbai.
+168.091	It's actually happening in all parts of the country.
+171.205	It's even happening in Africa, like, for example,
+173.466	in Cape Town we did extensive research on this.
+175.513	Even here in Doha I found this little nook
+178.708	where you can get alarm clocks and watches fixed,
+181.595	and it's a lot of tiny little parts. It's not easy.
+184.796	You've got to try it on your own to believe it.
+186.909	But what fuels this?
+188.463	It's this entire ecosystem of low-cost parts
+191.971	and supplies that are produced all over the world, literally,
+195.277	and then redistributed to basically service this industry,
+199.043	and you can even buy salvaged parts.
+201.214	Basically, you don't have to necessarily buy
+203.37	brand new things. You have condemned computers
+205.833	that are stripped apart,
+207.14	and you can buy salvaged components
+208.71	and things that you can reassemble in a new configuration.
+212.531	But what does this new, sort of, approach give us?
+216.012	That's the real question, because this is something
+217.932	that's been there, part of every society
+220.157	that's deprived of enough resources.
+222.523	But there's an interesting paradigm.
+224.42	There's the traditional crafts,
+225.912	and then there's the technology crafts.
+227.915	We call it the technology crafts because these are emerging.
+230.123	They're not something that's been established.
+232.195	It's not something that's institutionalized.
+234.862	It's not taught in universities.
+236.633	It's taught [by] word of mouth,
+238.356	and it's an informal education system around this.
+240.265	"So we said, ""What can we get out of this?"
+243.067	"You know, like, what are the key values that we can get out of this?"""
+245.801	The main thing is a fix-it-locally culture,
+248.146	which is fantastic because it means that your product
+250.486	or your service doesn't have to go through
+252.531	a huge bureaucratic system to get it fixed.
+255.139	It also affords us cheap fabrication, which is fantastic,
+258.218	so it means that you can do a lot more with it.
+260.25	And then, the most important thing is,
+262.564	it gives us large math for low cost.
+264.94	So it means that you can actually embed
+267.269	pretty clever algorithms and lots of other kinds
+270.794	of extendable ideas into really simple devices.
+274.452	So, what we call this is a silicon cottage industry.
+279.26	It's basically what was the system or the paradigm
+282.206	before the industrial revolution is now re-happening
+284.67	in a whole new way in small digital shops
+287.678	across the planet in most developing countries.
+290.759	So, we kind of toyed around with this idea,
+294.893	"and we said, ""What can we do with this?"
+296.571	"Can we make a little product or a service out of it?"""
+299.099	So one of the first things we did is this thing called
+301.519	a multimedia platform. We call it a lunch box.
+303.915	Basically one of the contexts that we studied was
+306.666	schools in very remote parts of India.
+310.153	So there is this amazing concept called the one-teacher school,
+313.412	which is basically a single teacher who is a multitasker
+316.114	who teaches this amazing little social setting.
+318.591	It's an informal school,
+320.128	but it's really about holistic education.
+322.287	The only thing that they don't have
+323.525	is access to resources. They don't even have a textbook
+325.919	sometimes, and they don't even have a proper curriculum.
+328.746	"So we said, ""What can we do to empower this teacher"
+332.25	"to do more?"" How to access the digital world?"
+335.062	Instead of being the sole guardian of information,
+337.624	be a facilitator to all this information.
+340.028	"So we said, ""What are the steps required to empower the teacher?"""
+343.412	How do you make this teacher into a digital gateway,
+346.067	and how do you design an inexpensive multimedia platform
+348.599	"that can be constructed locally and serviced locally?"""
+351.591	So we walked around.
+353.934	We went and scavenged the nearby markets,
+356.224	"and we tried to understand, ""What can we pick up that will make this happen?"""
+360.245	So the thing that we got
+362.772	was a little mobile phone with a little pico projector
+365.979	that comes for about 60 dollars.
+368.316	We went a bought a flashlight with a very big battery,
+370.772	and a bunch of small speakers.
+372.562	So essentially, the mobile phone gives us
+374.86	a connected multimedia platform.
+376.784	It allows us to get online and allows us to load up files
+380.269	of different formats and play them.
+382.62	The flashlight gives us this really intense, bright L.E.D.,
+385.646	and six hours worth of rechargeable battery pack,
+388.637	and the lunch box is a nice little package
+390.853	in which you can put everything inside,
+392.9	and a bunch of mini speakers to sort of
+394.463	amplify the sound large enough.
+395.881	Believe me, those little classrooms are really noisy.
+399.42	They are kids who scream at the top of their voices,
+402.013	and you really have to get above that.
+403.673	And we took it back to this little tinkering setup
+406.394	of a mobile phone repair shop,
+408.484	and then the magic happens.
+409.912	We dismantle the whole thing,
+411.293	we reassemble it in a new configuration,
+413.65	and we do this hardware mashup,
+415.828	systematically training the guy how to do this.
+418.437	Out comes this, a little lunch box -- form factor.
+421.892	(Applause)
+428.718	And we systematically field tested,
+431.736	because in the field testing we learned some
+434.104	important lessons, and we went through many iterations.
+436.621	One of the key issues was battery consumption and charging.
+439.316	Luminosity was an issue, when you have too much bright sunlight outside.
+443.294	Often the roofs are broken, so you don't have enough
+445.846	darkness in the classroom to do these things.
+448.974	We extended this idea. We tested it many times over,
+451.816	and the next version we came up with was a box
+454.394	that kind of could trickle charge on solar energy,
+456.774	but most importantly connect to a car battery,
+459.573	because a car battery is a ubiquitous source of power
+462.567	in places where there's not enough electricity
+464.774	or erratic electricity.
+466.734	And the other key thing that we did was
+468.703	make this box run off a USB key, because we realized
+471.165	that even though there was GPRS and all that on paper,
+474.519	at least, in theory, it was much more efficient
+477.094	to send the data on a little USB key by surface mail.
+480.984	It might take a few days to get there,
+482.824	but at least it gets there in high definition
+485.198	and in a reliable quality.
+487.413	So we made this box, and we tested it again
+489.695	and again and again, and we're going through
+491.23	multiple iterations to do these things.
+492.779	But it's not limited to just education.
+495.748	This kind of a technique or metrology
+497.614	can actually be applied to other kinds of areas,
+499.626	and I'm going to tell you one more little story.
+501.534	It's about this little device called a medi-meter.
+503.989	It's basically a little health care screening tool that we developed.
+507.356	In India, there is a context of these amazing people,
+510.683	the health care workers called ASHA workers.
+512.962	They are essentially foot soldiers for the health care system
+515.379	who live in the local community and are trained
+517.763	with basic tools and basic concepts of health care,
+520.331	and the main purpose is basically to inform people
+524.093	to basically, how to lead a better life, but also
+527.626	to divert or sort of make recommendations
+530.854	of what kind of health care should they approach?
+533.528	They are basically referral services, essentially.
+536.24	But the problem with that is that we realized
+538.548	after a bunch of research that they are amazing
+542.738	at referring people to the nearest clinic
+545.218	or the public health care system, but what happens at the
+548.091	public health care system is this: these incredibly long lines
+552.169	and too many people who overload the system
+554.979	simply because there's not enough doctors and facilities
+557.545	for the population that's being referred.
+559.747	So everything from a common cold
+561.866	to a serious case of malaria gets almost the same
+564.526	level of attention, and there's no priorities.
+567.57	"So we said, ""Come on, there's got to be a better way"
+569.641	"of doing this for sure."""
+571.442	"So we said, ""What can we do with the ASHA worker"
+574.019	that'll allow this ASHA worker to become an interesting filter,
+577.95	but not just a filter, a really well thought through referral
+580.465	system that allows load balancing of the network,
+583.946	and directs patients to different sources of health care
+587.885	"based on the severity or the criticalness of those situations?"""
+591.765	So the real key question was,
+593.746	how do we empower this woman?
+595.414	How do we empower her with simple tools
+597.341	that's not diagnostic but more screening in nature
+600.292	so she at least knows how to advise the patients better?
+604.072	And that'll make such a huge difference on the system,
+606.1	because the amount of waiting time and the amount of
+611.018	distances that people need to travel, often sometimes
+612.938	seven to 15 kilometers, sometimes by foot,
+615.611	to get a simple health check done, is very, very detrimental
+621.074	in the sense that it really dissuades people
+623.528	from getting access to health care.
+625.537	So if there was something that she could do,
+627.572	that would be amazing.
+628.681	So what we did was that we converted this device
+631.742	into a medical device.
+633.559	I want to demo this actually,
+634.835	because it's a very simple process.
+637.508	Bruno, do you want to join us? (Cheers)
+639.917	Come along. (Applause)
+646.119	So, what we're going to do is that
+649.044	we're going to measure a few basic parameters on you,
+652.016	including your pulse rate and the amount of oxygen
+654.871	that's there in your blood.
+656.744	So you're going to put your thumb on top of this.
+660.035	Bruno Giussani: Like this, works?
+661.809	Vinay Venkatraman: Yeah. That's right. BG: Okay.
+663.475	VV: So I'm going to start it up. I hope it works.
+667.483	(Beeps) It even beeps, because it's an alarm clock, after all.
+671.833	So ... (Laughter)
+673.845	So I take it into the start position, and then
+678.236	I press the read button. (Beeps)
+681.848	So it's taking a little reading from you. (Beeps)
+687.329	And then the pointer goes and points to three different options.
+690.107	Let's see what happens here.
+693.382	(Beeps) Oh Bruno, you can go home, actually.
+695.465	BG: Great. Good news. (Applause)
+699.301	VV: So ... (Applause)
+701.646	So the thing about this is that
+704.863	if the pointer, unfortunately, had pointed to the red spot,
+708.968	we would have to rush you to a hospital.
+710.814	Luckily, not today. And if it had pointed to the orange
+714.934	or the amber, it basically meant you had to have,
+717.763	sort of, more continuous care from the health care worker.
+720.807	So that was a very simple three-step screening process
+723.158	that could basically change the equation
+725.273	of how public health care works in so many different ways.
+728.013	BG: Thank you for the good news. VV: Yeah.
+729.91	(Applause)
+734.303	So, very briefly, I'll just explain to you how this is done,
+737.743	because that's the more interesting part.
+740.033	So essentially, the three things that are required
+742.727	to make this conversion from this guy to this guy
+747.255	is a cheap remote control for a television
+751.384	that you can almost find in every home today,
+754.295	some parts from a computer mouse, basically,
+758.009	something that you can scavenge for very low cost,
+761.872	and a few parts that have to be pre-programmed.
+764.783	Basically this is a micro-controller with a few
+767.184	extra components that can be shipped for very little cost
+769.979	across the world, and that's what is all required
+772.972	with a little bit of local tinkering talent
+775.363	to convert the device into something else.
+778.15	So we are right now doing some systematic field tests
+781.546	to basically ascertain whether something like this actually
+784.596	makes sense to the ASHA worker.
+786.163	We are going through some reference tests to compare it
+789.707	against professional equipment to see if there's a degree
+793.165	of change in efficacy and if it actually makes an impact
+795.487	in people's lives. But most importantly,
+798.095	what we are trying to do right now
+799.89	is we are trying to scale this up, because there
+802.144	are over 250,000 ASHA workers on the ground
+804.831	who are these amazing foot soldiers, and if we can
+807.568	give at least a fraction of them the access to these things,
+811.128	it just changes the way the economics of public health care
+814.086	works, and it changes the way systems actually function,
+817.097	not just on a systematic planning level,
+821.363	but also in a very grassroots, bottom-up level.
+824.548	So that's it, and we hope to do this in a big way.
+827.349	Thank you. (Applause)
+830.507	(Applause)

@@ -1,0 +1,296 @@
+startsecond	text
+13.723	Please meet Jane.
+15.644	She has a high-risk pregnancy.
+17.663	Within 24 weeks,
+19.444	she's on bed rest at the hospital,
+21.629	being monitored
+21.629	for her preterm contractions.
+25.024	She doesn't look the happiest.
+26.942	That's in part because it requires
+26.942	technicians and experts
+30.187	to apply these clunky belts on her
+30.187	to monitor her uterine contractions.
+35.55	Another reason Jane is not so happy
+35.55	is because she's worried.
+40.768	In particular, she's worried
+40.768	about what happens
+43.418	after her 10-day stay
+43.418	on bed rest at the hospital.
+47.438	What happens when she's home?
+49.532	If she were to give birth this early
+49.532	it would be devastating.
+53.874	As an African-American woman,
+55.652	she's twice as likely
+55.652	to have a premature birth
+59.376	or to have a stillbirth.
+61.551	So Jane basically has one of two options:
+64.553	stay at the hospital on bed rest,
+67.237	a prisoner to the technology
+67.237	until she gives birth,
+71.469	and then spend the rest
+71.469	of her life paying for the bill;
+74.946	or head home after her 10-day stay
+74.946	and hope for the best.
+80.198	Neither of these two options
+80.198	seems appealing.
+84.132	As I began to think
+84.132	about stories like this
+86.267	and hear about stories like this,
+88.077	I began to ask myself and imagine:
+90.194	Is there an alternative?
+91.76	Is there a way we could have
+91.76	the benefits of high-fidelity monitoring
+96.52	that we get with our trusted
+96.52	partners in the hospital
+99.343	while someone is at home
+99.343	living their daily life?
+102.832	With that in mind,
+104.351	I encouraged people in my research group
+106.322	to partner with some
+106.322	clever material scientists,
+109.854	and all of us came together
+109.854	and brainstormed.
+112.904	And after a long process,
+114.369	we came up with a vision, an idea,
+116.787	of a wearable system that perhaps
+116.787	you could wear like a piece of jewelry
+120.589	or you could apply
+120.589	to yourself like a Band-Aid.
+123.463	And after many trials and tribulations
+123.463	and years of endeavors,
+127.67	we were able to come up
+127.67	with this flexible electronic patch
+131.421	that was manufactured
+131.421	using the same processes
+133.84	that they use to build computer chips,
+136.545	except the electronics are transferred
+136.545	from a semiconductor wafer
+141.001	onto a flexible material
+141.001	that can interface with the human body.
+145.775	These systems are about
+145.775	the thickness of a human hair.
+150.006	They can measure the types
+150.006	of information that we want,
+153.948	things such as:
+155.151	bodily movement,
+156.67	bodily temperature,
+158.098	electrical rhythms of the body
+159.927	and so forth.
+161.403	We can also engineer these systems,
+163.883	so they can integrate energy sources,
+166.877	and can have wireless
+166.877	transmission capabilities.
+170.624	So as we began to build
+170.624	these types of systems,
+174.553	we began to test them on ourselves
+174.553	in our research group.
+178.915	But in addition, we began to reach out
+178.915	to some of our clinical partners
+182.303	in San Diego,
+183.482	and test these on different patients
+183.482	in different clinical conditions,
+187.206	including moms-to-be like Jane.
+190.531	Here is a picture of a pregnant woman
+190.531	in labor at our university hospital
+195.535	being monitored for her uterine
+195.535	contractions with the conventional belt.
+200.939	In addition,
+202.114	our flexible electronic patches are there.
+205.268	This picture demonstrates waveforms
+205.268	pertaining to the fetal heart rate,
+209.568	where the red corresponds
+209.568	to what was acquired
+212.509	with the conventional belts,
+214.112	and the blue corresponds to our estimates
+216.794	using our flexible electronic systems
+216.794	and our algorithms.
+220.932	At this moment,
+222.404	we gave ourselves a big mental high five.
+225.508	Some of the things we had imagined
+225.508	were beginning to come to fruition,
+228.939	and we were actually seeing this
+228.939	in a clinical context.
+232.083	But there was still a problem.
+233.974	The problem was, the way
+233.974	we manufactured these systems
+237.359	was very inefficient,
+238.84	had low yield
+240.021	and was very error-prone.
+242.105	In addition,
+243.28	as we talked to some
+243.28	of the nurses in the hospital,
+245.776	they encouraged us to make sure
+247.99	that our electronics worked
+247.99	with typical medical adhesives
+252.027	that are used in a hospital.
+254.217	We had an epiphany and said,
+254.217	"""Wait a minute."
+256.998	Rather than just making
+256.998	them work with adhesives,
+259.693	let's integrate them into adhesives,
+263.194	and that could solve
+263.194	"our manufacturing problem."""
+266.269	This picture that you see here
+268.284	is our ability to embed these censors
+268.284	inside of a piece of Scotch tape
+272.803	by simply peeling it off of a wafer.
+276.255	Ongoing work in our research group
+276.255	allows us to, in addition,
+279.648	embed integrated circuits
+279.648	into the flexible adhesives
+283.381	to do things like amplifying signals
+283.381	and digitizing them,
+287.095	processing them
+288.297	and encoding for wireless transmission.
+291.113	All of this integrated
+291.113	into the same medical adhesives
+295.039	that are used in the hospital.
+297.81	So when we reached this point,
+299.326	we had some other challenges,
+301.774	from both an engineering
+301.774	as well as a usability perspective,
+305.113	to make sure that we could
+305.113	make it used practically.
+309.207	In many digital health discussions,
+311.718	people believe in and embrace the idea
+311.718	that we can simply digitize the data,
+316.689	wirelessly transmit it,
+318.293	send it to the cloud,
+319.791	and in the cloud,
+321.012	we can extract meaningful
+321.012	information for interpretation.
+324.147	And indeed, you can do all of that,
+326.648	if you're not worried
+326.648	about some of the energy challenges.
+329.661	Think about Jane for a moment.
+331.348	She doesn't live in Palo Alto,
+333.176	nor does she live in Beverly Hills.
+335.359	What that means is,
+336.541	we have to be mindful about her data plan
+336.541	and how much it would cost
+339.895	for her to be sending out
+339.895	a continuous stream of data.
+344.383	There's another challenge
+345.686	that not everyone in the medical
+345.686	profession is comfortable talking about.
+349.408	And that is, that Jane
+349.408	does not have the most trust
+352.26	in the medical establishment.
+354.46	She, people like her, her ancestors,
+354.46	have not had the best experiences
+359.623	at the hands of doctors and the hospital
+363.163	or insurance companies.
+365.466	That means that we have to be mindful
+365.466	of questions of privacy.
+368.831	Jane might not feel that happy
+370.476	about all that data
+370.476	being processed into the cloud.
+374.712	And Jane cannot be fooled;
+377.346	she reads the news.
+378.854	She knows that if the federal
+378.854	government can be hacked,
+381.848	if the Fortune 500 can be hacked,
+384.409	so can her doctor.
+387.014	And so with that in mind,
+388.773	we had an epiphany.
+390.858	We cannot outsmart
+390.858	all the hackers in the world,
+393.612	but perhaps we can present
+393.612	them a smaller target.
+396.986	What if we could actually,
+399.191	rather than have those algorithms
+399.191	that do data interpretation
+403.147	run in the cloud,
+404.904	what if we have those algorithms run
+404.904	on those small integrated circuits
+408.339	embedded into those adhesives?
+410.995	And so when we integrate
+410.995	these things together,
+414.113	what this means is that now
+414.113	we can think about the future
+417.641	where someone like Jane can still
+417.641	go about living her normal daily life,
+421.73	she can be monitored,
+423.226	it can be done in a way where
+423.226	she doesn't have to get another job
+426.75	to pay her data plan,
+428.239	and we can also address
+428.239	some of her concerns about privacy.
+432.907	So at this point,
+434.081	we're feeling very good about ourselves.
+436.109	We've accomplished this,
+437.296	we've begun to address some
+437.296	of these questions about privacy
+440.49	and we feel like, pretty much
+440.49	the chapter is closed now.
+444.405	Everyone lived happily ever after, right?
+448.751	Well, not so fast.
+450.338	(Laughter)
+451.567	One of the things we have to remember,
+451.567	as I mentioned earlier,
+454.631	is that Jane does not have the most trust
+454.631	in the medical establishment.
+458.036	We have to remember
+459.223	that there are increasing
+459.223	and widening health disparities,
+462.761	and there's inequity in terms
+462.761	of proper care management.
+466.616	And so what that means
+466.616	is that this simple picture
+469.134	of Jane and her data --
+470.803	even with her being comfortable
+470.803	being wirelessly transmitted to the cloud,
+474.754	letting a doctor intervene if necessary --
+477.093	is not the whole story.
+479.091	So what we're beginning to do
+480.509	is to think about ways to have
+480.509	trusted parties serve as intermediaries
+485.36	between people like Jane
+485.36	and her health care providers.
+488.802	For example, we've begun
+488.802	to partner with churches
+491.837	and to think about nurses
+491.837	that are church members,
+494.718	that come from that trusted community,
+496.764	as patient advocates and health coaches
+496.764	to people like Jane.
+501.462	Another thing we have going for us
+503.493	is that insurance companies, increasingly,
+505.553	are attracted to some of these ideas.
+507.906	They're increasingly realizing
+509.637	that perhaps it's better
+509.637	to pay one dollar now
+512.601	for a wearable device and a health coach,
+515.608	rather than paying 10 dollars later,
+518.253	when that baby is born prematurely
+520.831	and ends up in the neonatal
+520.831	intensive care unit --
+523.796	one of the most expensive
+523.796	parts of a hospital.
+527.697	This has been a long
+527.697	learning process for us.
+530.593	This iterative process of breaking
+530.593	through and attacking one problem
+534.452	and not feeling totally comfortable,
+536.247	and identifying the next problem,
+538.09	has helped us go along this path
+540.171	of actually trying to not only
+540.171	innovate with this technology
+543.271	but make sure it can be used for people
+543.271	who perhaps need it the most.
+547.709	Another learning lesson
+547.709	we've taken from this process
+550.517	that is very humbling,
+551.92	is that as technology progresses
+551.92	and advances at an accelerating rate,
+556.271	we have to remember that human beings
+556.271	are using this technology,
+560.237	and we have to be mindful
+561.863	that these human beings --
+561.863	they have a face,
+565.327	they have a name
+566.613	and a life.
+567.798	And in the case of Jane,
+569.433	hopefully, two.
+572.041	Thank you.
+573.259	(Applause)

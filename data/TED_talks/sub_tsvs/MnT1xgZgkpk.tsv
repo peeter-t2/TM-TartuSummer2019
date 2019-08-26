@@ -1,0 +1,489 @@
+startsecond	text
+12.57	I work with a bunch of mathematicians,
+12.57	philosophers and computer scientists,
+16.777	and we sit around and think about
+16.777	the future of machine intelligence,
+21.986	among other things.
+24.03	Some people think that some of these
+24.03	things are sort of science fiction-y,
+28.755	far out there, crazy.
+31.856	But I like to say,
+33.326	okay, let's look at the modern
+33.326	human condition.
+36.93	(Laughter)
+38.622	This is the normal way for things to be.
+41.024	But if we think about it,
+43.309	we are actually recently arrived
+43.309	guests on this planet,
+46.602	the human species.
+48.684	Think about if Earth
+48.684	was created one year ago,
+53.43	the human species, then, 
+53.43	would be 10 minutes old.
+56.978	The industrial era started
+56.978	two seconds ago.
+61.276	Another way to look at this is to think of
+61.276	world GDP over the last 10,000 years,
+66.501	I've actually taken the trouble
+66.501	to plot this for you in a graph.
+69.53	It looks like this.
+71.304	(Laughter)
+72.667	It's a curious shape
+72.667	for a normal condition.
+74.818	I sure wouldn't want to sit on it.
+76.516	(Laughter)
+79.067	Let's ask ourselves, what is the cause
+79.067	of this current anomaly?
+83.841	Some people would say it's technology.
+86.393	Now it's true, technology has accumulated
+86.393	through human history,
+91.061	and right now, technology
+91.061	advances extremely rapidly --
+95.713	that is the proximate cause,
+97.278	that's why we are currently 
+97.278	so very productive.
+100.473	But I like to think back further 
+100.473	to the ultimate cause.
+105.114	Look at these two highly
+105.114	distinguished gentlemen:
+108.88	We have Kanzi --
+110.48	he's mastered 200 lexical
+110.48	tokens, an incredible feat.
+115.123	And Ed Witten unleashed the second
+115.123	superstring revolution.
+118.817	If we look under the hood, 
+118.817	this is what we find:
+121.141	basically the same thing.
+122.711	One is a little larger,
+124.524	it maybe also has a few tricks
+124.524	in the exact way it's wired.
+127.282	These invisible differences cannot
+127.282	be too complicated, however,
+131.094	because there have only
+131.094	been 250,000 generations
+135.379	since our last common ancestor.
+137.111	We know that complicated mechanisms
+137.111	take a long time to evolve.
+142	So a bunch of relatively minor changes
+144.499	take us from Kanzi to Witten,
+147.566	from broken-off tree branches
+147.566	to intercontinental ballistic missiles.
+152.839	So this then seems pretty obvious
+152.839	that everything we've achieved,
+156.774	and everything we care about,
+158.152	depends crucially on some relatively minor
+158.152	changes that made the human mind.
+164.65	And the corollary, of course,
+164.65	is that any further changes
+168.312	that could significantly change
+168.312	the substrate of thinking
+171.789	could have potentially 
+171.789	enormous consequences.
+176.321	Some of my colleagues 
+176.321	think we're on the verge
+179.226	of something that could cause
+179.226	a profound change in that substrate,
+183.134	and that is machine superintelligence.
+186.347	Artificial intelligence used to be
+186.347	about putting commands in a box.
+191.086	You would have human programmers
+192.751	that would painstakingly 
+192.751	handcraft knowledge items.
+195.886	You build up these expert systems,
+197.972	and they were kind of useful 
+197.972	for some purposes,
+200.296	but they were very brittle,
+200.296	you couldn't scale them.
+202.977	Basically, you got out only
+202.977	what you put in.
+206.41	But since then,
+207.407	a paradigm shift has taken place
+207.407	in the field of artificial intelligence.
+210.874	Today, the action is really 
+210.874	around machine learning.
+214.394	So rather than handcrafting knowledge
+214.394	representations and features,
+220.511	we create algorithms that learn,
+220.511	often from raw perceptual data.
+226.065	Basically the same thing
+226.065	that the human infant does.
+231.063	The result is A.I. that is not
+231.063	limited to one domain --
+235.27	the same system can learn to translate 
+235.27	between any pairs of languages,
+239.901	or learn to play any computer game
+239.901	on the Atari console.
+245.338	Now of course,
+247.117	A.I. is still nowhere near having
+247.117	the same powerful, cross-domain
+251.116	ability to learn and plan
+251.116	as a human being has.
+254.335	The cortex still has some 
+254.335	algorithmic tricks
+256.461	that we don't yet know
+256.461	how to match in machines.
+259.886	So the question is,
+261.785	how far are we from being able
+261.785	to match those tricks?
+266.245	A couple of years ago,
+267.328	we did a survey of some of the world's 
+267.328	leading A.I. experts,
+270.216	to see what they think,
+270.216	and one of the questions we asked was,
+273.44	"""By which year do you think"
+273.44	there is a 50 percent probability
+276.793	that we will have achieved 
+276.793	"human-level machine intelligence?"""
+280.785	We defined human-level here 
+280.785	as the ability to perform
+284.968	almost any job at least as well
+284.968	as an adult human,
+287.839	so real human-level, not just
+287.839	within some limited domain.
+291.844	And the median answer was 2040 or 2050,
+295.494	depending on precisely which 
+295.494	group of experts we asked.
+298.3	Now, it could happen much,
+298.3	much later, or sooner,
+302.339	the truth is nobody really knows.
+305.259	What we do know is that the ultimate 
+305.259	limit to information processing
+309.671	in a machine substrate lies far outside 
+309.671	the limits in biological tissue.
+315.241	This comes down to physics.
+317.619	A biological neuron fires, maybe, 
+317.619	at 200 hertz, 200 times a second.
+322.337	But even a present-day transistor
+322.337	operates at the Gigahertz.
+325.931	Neurons propagate slowly in axons,
+331.228	But in computers, signals can travel
+331.228	at the speed of light.
+335.079	There are also size limitations,
+336.948	like a human brain has 
+336.948	to fit inside a cranium,
+339.975	but a computer can be the size
+339.975	of a warehouse or larger.
+344.736	So the potential for superintelligence 
+344.736	lies dormant in matter,
+350.335	much like the power of the atom 
+350.335	lay dormant throughout human history,
+356.047	patiently waiting there until 1945.
+360.452	In this century,
+361.7	scientists may learn to awaken
+361.7	the power of artificial intelligence.
+365.818	And I think we might then see
+365.818	an intelligence explosion.
+370.406	Now most people, when they think
+370.406	about what is smart and what is dumb,
+374.363	I think have in mind a picture
+374.363	roughly like this.
+377.386	So at one end we have the village idiot,
+379.984	and then far over at the other side
+382.467	we have Ed Witten, or Albert Einstein,
+382.467	or whoever your favorite guru is.
+387.223	But I think that from the point of view
+387.223	of artificial intelligence,
+391.057	the true picture is actually
+391.057	probably more like this:
+395.258	AI starts out at this point here,
+395.258	at zero intelligence,
+398.636	and then, after many, many 
+398.636	years of really hard work,
+401.647	maybe eventually we get to
+401.647	mouse-level artificial intelligence,
+405.491	something that can navigate 
+405.491	cluttered environments
+407.921	as well as a mouse can.
+409.908	And then, after many, many more years
+409.908	of really hard work, lots of investment,
+414.221	maybe eventually we get to
+414.221	chimpanzee-level artificial intelligence.
+418.86	And then, after even more years 
+418.86	of really, really hard work,
+422.07	we get to village idiot 
+422.07	artificial intelligence.
+424.983	And a few moments later, 
+424.983	we are beyond Ed Witten.
+428.255	The train doesn't stop
+428.255	at Humanville Station.
+431.225	It's likely, rather, to swoosh right by.
+434.247	Now this has profound implications,
+436.231	particularly when it comes 
+436.231	to questions of power.
+440.093	For example, chimpanzees are strong --
+441.992	pound for pound, a chimpanzee is about
+441.992	twice as strong as a fit human male.
+447.214	And yet, the fate of Kanzi 
+447.214	and his pals depends a lot more
+451.828	on what we humans do than on
+451.828	what the chimpanzees do themselves.
+457.228	Once there is superintelligence,
+459.542	the fate of humanity may depend
+459.542	on what the superintelligence does.
+464.451	Think about it:
+465.508	Machine intelligence is the last invention
+465.508	that humanity will ever need to make.
+470.552	Machines will then be better 
+470.552	at inventing than we are,
+473.525	and they'll be doing so 
+473.525	on digital timescales.
+476.065	What this means is basically
+476.065	a telescoping of the future.
+480.966	Think of all the crazy technologies 
+480.966	that you could have imagined
+484.524	maybe humans could have developed
+484.524	in the fullness of time:
+487.322	cures for aging, space colonization,
+490.58	self-replicating nanobots or uploading
+490.58	of minds into computers,
+494.311	all kinds of science fiction-y stuff
+496.47	that's nevertheless consistent 
+496.47	with the laws of physics.
+499.207	All of this superintelligence could 
+499.207	develop, and possibly quite rapidly.
+504.449	Now, a superintelligence with such 
+504.449	technological maturity
+508.007	would be extremely powerful,
+510.186	and at least in some scenarios,
+510.186	it would be able to get what it wants.
+514.732	We would then have a future that would
+514.732	be shaped by the preferences of this A.I.
+521.855	Now a good question is,
+521.855	what are those preferences?
+526.244	Here it gets trickier.
+528.013	To make any headway with this,
+529.448	we must first of all
+529.448	avoid anthropomorphizing.
+533.934	And this is ironic because 
+533.934	every newspaper article
+537.235	about the future of A.I.
+537.235	has a picture of this:
+542.28	So I think what we need to do is
+542.28	to conceive of the issue more abstractly,
+546.414	not in terms of vivid Hollywood scenarios.
+549.204	We need to think of intelligence 
+549.204	as an optimization process,
+552.821	a process that steers the future
+552.821	into a particular set of configurations.
+558.47	A superintelligence is
+558.47	a really strong optimization process.
+561.981	It's extremely good at using 
+561.981	available means to achieve a state
+566.098	in which its goal is realized.
+568.447	This means that there is no necessary
+568.447	connection between
+571.119	being highly intelligent in this sense,
+573.853	and having an objective that we humans
+573.853	would find worthwhile or meaningful.
+579.321	Suppose we give an A.I. the goal 
+579.321	to make humans smile.
+583.115	When the A.I. is weak, it performs useful
+583.115	or amusing actions
+586.097	that cause its user to smile.
+588.614	When the A.I. becomes superintelligent,
+591.031	it realizes that there is a more
+591.031	effective way to achieve this goal:
+594.554	take control of the world
+596.476	and stick electrodes into the facial
+596.476	muscles of humans
+599.638	to cause constant, beaming grins.
+602.579	Another example,
+603.614	suppose we give A.I. the goal to solve
+603.614	a difficult mathematical problem.
+606.997	When the A.I. becomes superintelligent,
+608.934	it realizes that the most effective way 
+608.934	to get the solution to this problem
+613.105	is by transforming the planet
+613.105	into a giant computer,
+616.035	so as to increase its thinking capacity.
+618.281	And notice that this gives the A.I.s
+618.281	an instrumental reason
+621.045	to do things to us that we
+621.045	might not approve of.
+623.561	Human beings in this model are threats,
+625.496	we could prevent the mathematical
+625.496	problem from being solved.
+629.207	Of course, perceivably things won't 
+629.207	go wrong in these particular ways;
+632.701	these are cartoon examples.
+634.454	But the general point here is important:
+636.393	if you create a really powerful
+636.393	optimization process
+639.266	to maximize for objective x,
+641.5	you better make sure 
+641.5	that your definition of x
+643.776	incorporates everything you care about.
+646.835	This is a lesson that's also taught
+646.835	in many a myth.
+651.219	King Midas wishes that everything
+651.219	he touches be turned into gold.
+656.517	He touches his daughter, 
+656.517	she turns into gold.
+659.378	He touches his food, it turns into gold.
+661.931	This could become practically relevant,
+664.52	not just as a metaphor for greed,
+666.59	but as an illustration of what happens
+668.485	if you create a powerful
+668.485	optimization process
+671.322	and give it misconceived 
+671.322	or poorly specified goals.
+676.111	Now you might say, if a computer starts
+676.111	sticking electrodes into people's faces,
+681.3	we'd just shut it off.
+684.555	A, this is not necessarily so easy to do
+684.555	if we've grown dependent on the system --
+689.895	like, where is the off switch 
+689.895	to the Internet?
+692.627	B, why haven't the chimpanzees
+692.627	flicked the off switch to humanity,
+697.747	or the Neanderthals?
+699.298	They certainly had reasons.
+701.964	We have an off switch, 
+701.964	for example, right here.
+704.759	(Choking)
+706.313	The reason is that we are 
+706.313	an intelligent adversary;
+709.238	we can anticipate threats 
+709.238	and plan around them.
+711.966	But so could a superintelligent agent,
+714.47	and it would be much better 
+714.47	at that than we are.
+717.724	The point is, we should not be confident
+717.724	that we have this under control here.
+724.911	And we could try to make our job
+724.911	a little bit easier by, say,
+728.358	putting the A.I. in a box,
+729.948	like a secure software environment,
+731.744	a virtual reality simulation
+731.744	from which it cannot escape.
+734.766	But how confident can we be that
+734.766	the A.I. couldn't find a bug.
+738.912	Given that merely human hackers
+738.912	find bugs all the time,
+742.081	I'd say, probably not very confident.
+746.237	So we disconnect the ethernet cable
+746.237	to create an air gap,
+750.785	but again, like merely human hackers
+753.453	routinely transgress air gaps
+753.453	using social engineering.
+756.834	Right now, as I speak,
+758.093	I'm sure there is some employee
+758.093	out there somewhere
+760.482	who has been talked into handing out 
+760.482	her account details
+763.828	by somebody claiming to be
+763.828	from the I.T. department.
+766.574	More creative scenarios are also possible,
+768.701	like if you're the A.I.,
+770.016	you can imagine wiggling electrodes
+770.016	around in your internal circuitry
+773.548	to create radio waves that you
+773.548	can use to communicate.
+777.01	Or maybe you could pretend to malfunction,
+779.434	and then when the programmers open
+779.434	you up to see what went wrong with you,
+782.931	they look at the source code -- Bam! --
+784.867	the manipulation can take place.
+787.314	Or it could output the blueprint
+787.314	to a really nifty technology,
+790.744	and when we implement it,
+792.142	it has some surreptitious side effect
+792.142	that the A.I. had planned.
+796.539	The point here is that we should 
+796.539	not be confident in our ability
+800.002	to keep a superintelligent genie
+800.002	locked up in its bottle forever.
+803.81	Sooner or later, it will out.
+807.034	I believe that the answer here
+807.034	is to figure out
+810.137	how to create superintelligent A.I.
+810.137	such that even if -- when -- it escapes,
+815.161	it is still safe because it is
+815.161	fundamentally on our side
+818.438	because it shares our values.
+820.337	I see no way around 
+820.337	this difficult problem.
+824.557	Now, I'm actually fairly optimistic
+824.557	that this problem can be solved.
+828.391	We wouldn't have to write down 
+828.391	a long list of everything we care about,
+832.294	or worse yet, spell it out 
+832.294	in some computer language
+835.937	like C++ or Python,
+837.391	that would be a task beyond hopeless.
+840.158	Instead, we would create an A.I.
+840.158	that uses its intelligence
+844.455	to learn what we value,
+847.226	and its motivation system is constructed
+847.226	in such a way that it is motivated
+852.506	to pursue our values or to perform actions
+852.506	that it predicts we would approve of.
+857.738	We would thus leverage 
+857.738	its intelligence as much as possible
+861.152	to solve the problem of value-loading.
+864.727	This can happen,
+866.239	and the outcome could be 
+866.239	very good for humanity.
+869.835	But it doesn't happen automatically.
+873.792	The initial conditions 
+873.792	for the intelligence explosion
+876.79	might need to be set up 
+876.79	in just the right way
+879.653	if we are to have a controlled detonation.
+883.183	The values that the A.I. has
+883.183	need to match ours,
+885.801	not just in the familiar context,
+887.561	like where we can easily check
+887.561	how the A.I. behaves,
+889.999	but also in all novel contexts
+889.999	that the A.I. might encounter
+893.233	in the indefinite future.
+894.79	And there are also some esoteric issues
+894.79	that would need to be solved, sorted out:
+899.527	the exact details of its decision theory,
+901.616	how to deal with logical
+901.616	uncertainty and so forth.
+905.33	So the technical problems that need
+905.33	to be solved to make this work
+908.432	look quite difficult --
+909.545	not as difficult as making 
+909.545	a superintelligent A.I.,
+912.925	but fairly difficult.
+915.793	Here is the worry:
+917.488	Making superintelligent A.I.
+917.488	is a really hard challenge.
+922.172	Making superintelligent A.I. that is safe
+924.72	involves some additional 
+924.72	challenge on top of that.
+928.216	The risk is that if somebody figures out
+928.216	how to crack the first challenge
+931.703	without also having cracked 
+931.703	the additional challenge
+934.704	of ensuring perfect safety.
+937.375	So I think that we should
+937.375	work out a solution
+940.706	to the control problem in advance,
+943.528	so that we have it available 
+943.528	by the time it is needed.
+946.768	Now it might be that we cannot solve
+946.768	the entire control problem in advance
+950.275	because maybe some elements
+950.275	can only be put in place
+953.299	once you know the details of the 
+953.299	architecture where it will be implemented.
+957.296	But the more of the control problem
+957.296	that we solve in advance,
+960.676	the better the odds that the transition
+960.676	to the machine intelligence era
+964.766	will go well.
+966.306	This to me looks like a thing
+966.306	that is well worth doing
+970.95	and I can imagine that if 
+970.95	things turn out okay,
+974.282	that people a million years from now
+974.282	look back at this century
+978.94	and it might well be that they say that
+978.94	the one thing we did that really mattered
+982.942	was to get this thing right.
+984.509	Thank you.
+986.198	(Applause)

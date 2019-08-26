@@ -1,0 +1,323 @@
+startsecond	text
+13.36	When we think of Nepal,
+15.292	we tend to think of the snow-capped mountains
+17.747	of the Himalayas,
+19.019	the crystal-clear still waters of its alpine lakes,
+22.468	or the huge expanse of its grasslands.
+25.514	What some of us may not realize
+27.721	is that in the Himalayan foothills,
+30.045	where the climate is much warmer
+32.219	and the landscape much greener,
+34.307	there lives a great diversity of wildlife,
+36.733	including the one-horned rhinoceros,
+39.469	the Asian elephant
+41.143	and the Bengal tiger.
+43.218	But unfortunately, these animals
+45.07	are under constant threat from poachers
+47.733	who hunt and kill them for their body parts.
+51.045	To stop the killing of these animals,
+53.254	battalions of soldiers and rangers
+55.852	are sent to protect Nepal's national parks,
+59.101	but that is not an easy task,
+60.726	because these soldiers have to patrol
+63.397	thousands of hectares of forests on foot
+66.388	or elephant backs.
+68.029	It is also risky for these soldiers
+70.514	when they get into gunfights with poachers,
+72.895	and therefore Nepal is always looking
+74.911	for new ways to help with protecting the forests
+78.207	and wildlife.
+80.184	Well recently, Nepal acquired a new tool
+82.693	in the fight against wildlife crime,
+85.406	and these are drones,
+87.112	or more specifically, conservation drones.
+90.386	For about a year now, my colleagues and I
+92.9	have been building drones for Nepal
+95.16	and training the park protection personnel
+97.658	on the use of these drones.
+99.636	Not only does a drone give you
+101.268	a bird's-eye view of the landscape,
+103.742	but it also allows you to capture detailed,
+106.777	high-resolution images of objects on the ground.
+110.759	This, for example, is a pair of rhinoceros
+114.268	taking a cooling bath on a hot summer day
+117.205	in the lowlands of Nepal.
+119.168	Now we believe that drones have
+121.399	tremendous potential,
+123.207	not only for combating wildlife crime,
+125.985	but also for monitoring the health
+127.948	of these wildlife populations.
+130.487	So what is a drone?
+132.337	Well, the kind of drone I'm talking about
+134.846	is simply a model aircraft
+136.947	fitted with an autopilot system,
+139.392	and this autopilot unit contains a tiny computer,
+143.661	a GPS, a compass, a barometric altimeter
+147.715	and a few other sensors.
+149.974	Now a drone like this
+151.393	is meant to carry a useful payload,
+153.599	such as a video camera
+155.382	or a photographic camera.
+157.37	It also requires a software that allows the user
+160.719	to program a mission,
+162.42	to tell the drone where to go.
+164.826	Now people I talk to are often surprised
+166.903	when they hear that these are the only
+169.234	four components that make a conservation drone,
+172.341	but they are even more surprised
+173.845	when I tell them how affordable
+173.845	these components are.
+177.345	The facts is, a conservation drone
+179.631	doesn't cost very much more than
+181.89	a good laptop computer
+183.867	or a decent pair of binoculars.
+187.126	So now that you've built
+187.126	your own conservation drone,
+190.098	you probably want to go fly it,
+192.26	but how does one fly a drone?
+194.193	Well, actually, you don't,
+195.785	because the drone flies itself.
+198.275	All you have to do is to program a mission
+201.405	to tell the drone where to fly.
+203.665	But you simply do that by clicking on
+205.984	a few way points on the Google Maps interface
+209.233	using the open-source software.
+211.483	Those missions could be as simple
+213.43	as just a few way points,
+215.456	or they could be slightly longer
+215.456	and more complicated,
+218.833	to fly along a river system.
+221.254	Sometimes, we fly the drone
+221.254	in a lawnmower-type pattern
+225.103	and take pictures of that area,
+227.223	and those pictures can be processed
+229.194	to produce a map of that forest.
+231.933	Other researchers might want to fly the drone
+234.536	along the boundaries of a forest
+236.678	to watch out for poachers or people
+238.849	who might be trying to enter the forest illegally.
+241.767	Now whatever your mission is,
+243.647	once you've programmed it,
+245.12	you simply upload it to the autopilot system,
+248.103	bring your drone to the field,
+249.743	and launch it simply by tossing it in the air.
+252.958	And often we'll go about this mission
+255.3	taking pictures or videos along the way,
+258.36	and usually at that point,
+260.294	we will go grab ourselves a cup of coffee,
+262.511	sit back, and relax for the next few minutes,
+265.441	although some of us sit back
+265.441	and panic for the next few minutes
+268.952	worrying that the drone will not return.
+271.17	Usually it does, and when it does,
+273.443	it even lands automatically.
+276.849	So what can we do with a conservation drone?
+279.756	Well, when we built our first prototype drone,
+283.149	our main objective was to fly it over
+285.667	a remote rainforest in North Sumatra, Indonesia,
+289.556	to look for the nest of a species of great ape
+292.605	known as the orangutan.
+294.761	The reason we wanted to do that was because
+297.417	we needed to know how many individuals
+299.446	of this species are still left in that forest.
+302.833	Now the traditional method of surveying
+305.019	for orangutans is to walk the forest on foot
+308.621	carrying heavy equipment
+310.508	and to use a pair of binoculars
+310.508	to look up in the treetops
+314.158	where you might find an orangutan or its nest.
+317.576	Now as you can imagine,
+319.302	that is a very time-consuming, labor-intensive,
+322.272	and costly process,
+323.99	so we were hoping that drones
+325.786	could significantly reduce the cost of surveying
+329.111	for orangutan populations in Indonesia
+331.678	and elsewhere in Southeast Asia.
+334.145	So we were very excited when we captured
+336.5	our first pair of orangutan nests on camera.
+339.67	And this is it; this is the first ever picture
+342.834	of orangutan nests taken with a drone.
+345.874	Since then we have taken pictures
+347.898	of dozens of these nests
+349.516	from around various parts of Southeast Asia,
+352.285	and we're now working with computer scientists
+354.528	to develop algorithms that can automatically count
+358.447	the number of nests from the thousands
+360.464	of photos we've collected so far.
+363.583	But nests are not the only objects
+365.541	these drones can detect.
+367.331	This is a wild orangutan
+369.64	happily feeding on top of a palm tree,
+372.161	seemingly oblivious to our drone
+372.161	that was flying overhead,
+375.713	not once but several times.
+378.097	We've also taken pictures of other animals
+381.115	including forest buffalos in Gabon,
+384.236	elephants, and even turtle nests.
+387.451	But besides taking pictures
+387.451	of just the animals themselves,
+390.991	we also take pictures of the habitats
+390.991	these animals live in,
+394.992	because we want to keep track
+396.606	of the health of these habitats.
+399.56	Sometimes, we zoom out a little
+401.779	and look at other things that might be happening
+404.032	in the landscape.
+405.496	This is an oil palm plantation in Sumatra.
+408.796	Now oil palm is a major driver of deforestation
+412.038	in that part of the world,
+413.56	so we wanted to use this new drone technology
+416.617	to keep track of the spread of these plantations
+419.732	in Southeast Asia.
+421.742	But drones could also be used to keep track of
+424.105	illegal logging activities.
+426.589	This is a recently logged forest,
+429.03	again in Sumatra.
+430.385	You could even still see the processed
+432.544	wooden planks left on the ground.
+436.172	But perhaps the most exciting part
+438.461	about taking pictures from the air is
+441.027	we could later stitch these pictures together
+443.453	using special software to create a map
+446.316	of the entire landscape, and this map
+449.083	gives us crucial information
+451.098	for monitoring land use change,
+453.366	to let us know where and when
+453.366	plantations might be expanding,
+457.113	where forests might be contracting,
+459.39	or where fires might be breaking out.
+462.772	Aerial images could also be processed
+465.004	to produce three-dimensional
+467.313	computer models of forests.
+469.31	Now these models are not just visually appealing,
+472.263	but they are also geometrically accurate,
+474.764	which means researchers can now measure
+477.541	the distance between trees,
+479.666	calculate surface area, the volume of vegetation,
+482.961	and so on, all of which are important information
+486.16	for monitoring the health of these forests.
+489.473	Recently, we've also begun experimenting
+491.926	with thermal imaging cameras.
+493.99	Now these cameras can detect
+495.879	heat-emitting objects from the ground,
+497.864	and therefore they are very useful
+497.864	for detecting poachers or their campfires at night.
+505.236	So I've told you quite a lot about
+507.12	what conservation drones are,
+509.336	how you might operate one of these drones,
+511.653	and what a drone could do for you.
+513.662	I will now tell you where conservation drones
+515.898	are being used around the world.
+518.353	We built our first prototype drones in Switzerland.
+521.406	We brought a few of these to Indonesia
+523.547	for the first few test flights.
+525.69	Since then, we've been building drones
+527.505	for our collaborators from around the world,
+530.187	and these include fellow biologists
+532.367	and partners from major conservation organizations.
+536.295	Perhaps the best and most rewarding part
+538.585	about working with these collaborators
+540.711	is the feedback they give us
+542.191	on how to improve our drones.
+544.834	Building drones for us is
+546.965	a constant work in progress.
+549.129	We are constantly trying to improve them in terms of
+552.206	their range, their ruggedness,
+554.82	and the amount of payload they can carry.
+557.498	We also work with collaborators
+559.54	to discover new ways of using these drones.
+562.827	For example, camera traps are a common tool
+566.107	used by biologists to take pictures of shy animals
+570.002	hiding in the forests,
+571.563	but these are motion-activated cameras,
+573.897	so they snap a picture every time an animal
+576.538	crosses their path.
+578.21	But the problem with camera traps
+579.762	is that the researcher has to go back to the forest
+583.505	every so often to retrieve those images,
+586.958	and that takes a lot of time,
+588.61	especially if there are dozens
+590.444	or hundreds of these cameras placed in the forest.
+593.572	Now a drone could be designed to perform the task
+596.383	much more efficiently.
+598.107	This drone, carrying a special sensor,
+600.777	could be flown over the forest
+603.118	and remotely download these images
+605.865	from wi-fi–enabled cameras.
+610.002	Radio collars are another tool
+612.139	that's commonly used by biologists.
+614.387	Now these collars are put onto animals.
+617.054	They transmit a radio signal which allows
+619.855	the researcher to track the movements
+619.855	of these animals across the landscape.
+625.002	But the traditional way of tracking animals
+627.659	is pretty ridiculous,
+629.881	because it requires the researcher to be walking
+632.825	on the ground carrying a huge
+632.825	and cumbersome radio antenna,
+636.939	not unlike those old TV antennae we used to have
+639.812	on our rooftops. Some of us still do.
+642.78	A drone could be used to do the same job
+645.045	much more efficiently.
+646.704	Why not equip a drone
+648.41	with a scanning radio receiver,
+650.413	fly that over the forest canopy
+652.407	in a certain pattern
+653.945	which would allow the user or the operator
+656.737	to triangulate the location
+659.319	of these radio-collared animals remotely
+662.306	without having to step foot in the forest.
+665.279	A third and perhaps most exciting way
+667.782	of using these drones
+669.312	is to fly them to a really remote,
+672.262	never-explored-before rainforest
+674.538	somewhere hidden in the tropics,
+676.362	and parachute down a tiny spy microphone
+680.295	that would allow us to eavesdrop on the calls
+682.741	of mammals, birds, amphibians,
+686.063	the Yeti, the Sasquatch, Bigfoot, whatever.
+690.34	That would give us biologists
+692.079	a pretty good idea of what animals
+693.965	might be living in those forests.
+696.515	And finally, I would like to show you
+698.564	the latest version of our conservation drone.
+701.665	The MAJA drone has a wingspan
+703.804	of about two meters.
+705.478	It weighs only about two kilograms,
+707.428	but it can carry half its weight.
+709.889	It is a fully autonomous system.
+712.484	During its mission, it can even transmit
+714.871	a live video feed back to a ground station laptop,
+718.834	which allows the user
+720.377	to see what the drone is seeing in real time.
+723.307	It carries a variety of sensors,
+725.729	and the photo quality of some of these sensors
+728.067	can be as high as one to two centimeters per pixel.
+732.277	This drone can stay in the air for 40 to 60 minutes,
+735.958	which gives it a range of up to 50 kilometers.
+739.082	That is quite sufficient for most
+740.997	of our conservation applications.
+743.996	Now, conservation drones began as
+746.066	a crazy idea from two biologists
+748.257	who are just deeply passionate
+748.257	about this technology.
+751.542	And we believe, strongly believe,
+753.692	that drones can and will be a game changer
+757.039	for conservation research and applications.
+760.073	We've had our fair share of skeptics and critics
+763.248	who thought that we were just
+763.248	fooling around with toy planes.
+766.769	And in a way, they are right.
+768.195	I mean, let's be honest,
+769.824	drones are the ultimate toys for boys.
+773.512	But at the same time, we've also gotten to know
+775.918	many wonderful colleagues and collaborators
+778.167	who share our vision
+779.715	and see the potential of conservation drones.
+782.571	To us, it is obvious that conservation biologists
+786.17	and practitioners should make full use
+788.428	of every available tool, including drones,
+791.962	in our fight to save the last remaining forests
+794.603	and wildlife of this planet.
+796.39	Thank you.
+798.388	(Applause)

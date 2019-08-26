@@ -1,0 +1,341 @@
+startsecond	text
+15.26	I'm going to start here.
+17.26	This is a hand-lettered sign
+19.26	that appeared in a mom and pop bakery
+21.26	in my old neighborhood in Brooklyn a few years ago.
+24.26	The store owned one of those machines
+26.26	that can print on plates of sugar.
+28.26	And kids could bring in drawings
+30.26	and have the store print a sugar plate
+33.26	for the top of their birthday cake.
+35.26	But unfortunately, one of the things kids liked to draw
+38.26	was cartoon characters.
+40.26	They liked to draw the Little Mermaid,
+42.26	they'd like to draw a smurf, they'd like to draw Micky Mouse.
+45.26	But it turns out to be illegal
+47.26	to print a child's drawing of Micky Mouse
+50.26	onto a plate of sugar.
+53.26	And it's a copyright violation.
+55.26	And policing copyright violations
+57.26	for children's birthday cakes
+59.26	was such a hassle
+61.26	that the College Bakery said,
+63.26	"""You know what, we're getting out of that business."
+65.26	If you're an amateur,
+67.26	you don't have access to our machine anymore.
+69.26	If you want a printed sugar birthday cake,
+71.26	you have to use one of our prefab images --
+75.26	"only for professionals."""
+77.26	So there's two bills in Congress right now.
+80.26	One is called SOPA, the other is called PIPA.
+82.26	SOPA stands for the Stop Online Piracy Act.
+84.26	It's from the Senate.
+86.26	PIPA is short for PROTECTIP,
+89.26	which is itself short for
+91.26	Preventing Real Online Threats
+93.26	to Economic Creativity
+95.26	and Theft of Intellectual Property --
+97.26	because the congressional aides who name these things
+99.26	have a lot of time on their hands.
+101.26	And what SOPA and PIPA want to do
+103.26	is they want to do this.
+105.26	They want to raise the cost
+107.26	of copyright compliance
+110.26	to the point where people simply get out of the business
+113.26	of offering it as a capability to amateurs.
+116.26	Now the way they propose to do this
+119.26	is to identify sites
+121.26	that are substantially infringing on copyright --
+123.26	although how those sites are identified
+125.26	is never fully specified in the bills --
+127.26	and then they want to remove them from the domain name system.
+130.26	They want to take them out of the domain name system.
+132.26	Now the domain name system
+134.26	is the thing that turns human-readable names, like Google.com,
+137.26	into the kinds of addresses
+139.26	machines expect --
+146.26	Now the problem with this model of censorship,
+149.26	of identifying a site
+151.26	and then trying to remove it from the domain name system,
+153.26	is that it won't work.
+155.26	And you'd think that would be a pretty big problem for a law,
+158.26	but Congress seems not to have let that bother them too much.
+160.26	Now the reason it won't work
+162.26	is that you can still type 74.125.226.212 into the browser
+166.26	or you can make it a clickable link
+168.26	and you'll still go to Google.
+171.26	So the policing layer
+173.26	around the problem
+175.26	becomes the real threat of the act.
+179.26	Now to understand how Congress came to write a bill
+182.26	that won't accomplish its stated goals,
+185.26	but will produce a lot of pernicious side effects,
+187.26	you have to understand a little bit about the back story.
+189.26	And the back story is this:
+191.26	SOPA and PIPA, as legislation,
+193.26	were drafted largely by media companies
+196.26	that were founded in the 20th century.
+198.26	The 20th century was a great time to be a media company,
+200.26	because the thing you really had on your side was scarcity.
+203.26	If you were making a TV show,
+205.26	it didn't have to be better than all other TV shows ever made;
+209.26	it only had to be better
+211.26	than the two other shows
+213.26	that were on at the same time --
+215.26	which is a very low threshold
+217.26	of competitive difficulty.
+220.26	Which meant
+222.26	that if you fielded average content,
+224.26	you got a third of the U.S. public for free --
+227.26	tens of millions of users
+230.26	for simply doing something
+232.26	that wasn't too terrible.
+234.26	This is like having a license to print money
+236.26	and a barrel of free ink.
+238.26	But technology moved on, as technology is wont to do.
+241.26	And slowly, slowly, at the end of the 20th century,
+244.26	that scarcity started to get eroded --
+246.26	and I don't mean by digital technology;
+248.26	I mean by analog technology.
+250.26	Cassette tapes, video cassette recorders,
+252.26	even the humble Xerox machine
+254.26	created new opportunities
+256.26	for us to behave in ways
+258.26	that astonished the media business.
+260.26	Because it turned out
+262.26	we're not really couch potatoes.
+264.26	We don't really like to only consume.
+267.26	We do like to consume,
+269.26	but every time one of these new tools came along,
+272.26	it turned out we also like to produce
+274.26	and we like to share.
+276.26	And this freaked the media businesses out --
+278.26	it freaked them out every time.
+280.26	Jack Valenti, who was the head lobbyist
+282.26	for the Motion Picture Association of America,
+284.26	once likened the ferocious video cassette recorder
+288.26	to Jack the Ripper
+290.26	and poor, helpless Hollywood
+292.26	to a woman at home alone.
+295.26	That was the level of rhetoric.
+297.26	And so the media industries
+299.26	begged, insisted, demanded
+301.26	that Congress do something.
+303.26	And Congress did something.
+305.26	By the early 90s, Congress passed the law
+307.26	that changed everything.
+310.26	And that law was called the Audio Home Recording Act
+312.26	of 1992.
+314.26	What the Audio Home Recording Act of 1992 said was,
+317.26	look, if people are taping stuff off the radio
+319.26	and then making mixtapes for their friends,
+322.26	that is not a crime. That's okay.
+325.26	Taping and remixing
+327.26	and sharing with your friends is okay.
+330.26	If you make lots and lots of high quality copies and you sell them,
+332.26	that's not okay.
+334.26	But this taping business,
+336.26	fine, let it go.
+338.26	And they thought that they clarified the issue,
+341.26	because they'd set out a clear distinction
+343.26	between legal and illegal copying.
+345.26	But that wasn't what the media businesses wanted.
+348.26	They had wanted Congress
+350.26	to outlaw copying full-stop.
+353.26	So when the Audio Home Recording Act of 1992 was passed,
+356.26	the media businesses gave up on the idea
+360.26	of legal versus illegal distinctions for copying
+362.26	because it was clear
+364.26	that if Congress was acting in their framework,
+366.26	they might actually increase the rights of citizens
+370.26	to participate in our own media environment.
+372.26	So they went for plan B.
+374.26	It took them a while to formulate plan B.
+376.26	Plan B appeared in its first full-blown form
+378.26	in 1998 --
+380.26	something called the Digital Millennium Copyright Act.
+383.26	It was a complicated piece of legislation, a lot of moving parts.
+385.26	But the main thrust of the DMCA
+388.26	was that it was legal to sell you
+390.26	uncopyable digital material --
+392.26	except that there's no such things as uncopyable digital material.
+395.26	It would be, as Ed Felton once famously said,
+397.26	"""Like handing out water"
+399.26	"that wasn't wet."""
+401.26	Bits are copyable. That's what computers do.
+404.26	That is a side effect of their ordinary operation.
+407.26	So in order to fake the ability
+409.26	to sell uncopyable bits,
+411.26	the DMCA also made it legal
+413.26	to force you to use systems
+416.26	that broke the copying function of your devices.
+419.26	Every DVD player and game player
+421.26	and television and computer you brought home --
+424.26	no matter what you thought you were getting when you bought it --
+427.26	could be broken by the content industries,
+430.26	if they wanted to set that as a condition of selling you the content.
+433.26	And to make sure you didn't realize,
+436.26	or didn't enact their capabilities
+439.26	as general purpose computing devices,
+441.26	they also made it illegal
+443.26	for you to try to reset
+445.26	the copyability of that content.
+447.26	The DMCA marks the moment
+449.26	when the media industries
+451.26	gave up on the legal system
+453.26	of distinguishing between legal and illegal copying
+456.26	and simply tried to prevent copying
+459.26	through technical means.
+461.26	Now the DMCA had, and is continuing to have, a lot of complicated effects,
+464.26	but in this one domain, limiting sharing,
+467.26	it has mostly not worked.
+469.26	And the main reason it hasn't worked
+471.26	is the Internet has turned out to be far more popular and far more powerful
+474.26	than anyone imagined.
+477.26	The mixtape, the fanzine,
+479.26	that was nothing compared to what we're seeing now
+481.26	with the Internet.
+483.26	We are in a world
+485.26	where most American citizens
+487.26	over the age of 12
+489.26	share things with each other online.
+491.26	We share written things, we share images,
+493.26	we share audio, we share video.
+495.26	Some of the stuff we share is stuff we've made.
+497.26	Some of the stuff we share is stuff we've found.
+499.26	Some of the stuff we share
+501.26	is stuff we've made out of what we've found,
+503.26	and all of it horrifies those industries.
+506.26	So PIPA and SOPA
+508.26	are round two.
+510.26	But where the DMCA was surgical --
+512.26	we want to go down into your computer,
+515.26	we want to go down into your television set, down into your game machine,
+518.26	and prevent it from doing
+520.26	what they said it would do at the store --
+522.26	PIPA and SOPA are nuclear
+524.26	and they're saying, we want to go anywhere in the world
+528.26	and censor content.
+530.26	Now the mechanism, as I said, for doing this,
+533.26	is you need to take out anybody
+536.26	pointing to those IP addresses.
+538.26	You need to take them out of search engines,
+540.26	you need to take them out of online directories,
+542.26	you need to take them out of user lists.
+545.26	And because the biggest producers of content on the Internet
+549.26	are not Google and Yahoo,
+552.26	they're us,
+554.26	we're the people getting policed.
+556.26	Because in the end,
+558.26	the real threat
+561.26	to the enactment of PIPA and SOPA
+564.26	is our ability to share things with one another.
+567.26	So what PIPA and SOPA risk doing
+570.26	is taking a centuries-old legal concept,
+573.26	innocent until proven guilty,
+575.26	and reversing it --
+577.26	guilty until proven innocent.
+579.26	You can't share
+581.26	until you show us
+584.26	that you're not sharing something
+586.26	we don't like.
+588.26	Suddenly, the burden of proof for legal versus illegal
+591.26	falls affirmatively on us
+593.26	and on the services
+595.26	that might be offering us any new capabilities.
+598.26	And if it costs even a dime
+601.26	to police a user,
+603.26	that will crush a service
+605.26	with a hundred million users.
+607.26	So this is the Internet they have in mind.
+609.26	Imagine this sign everywhere --
+612.26	except imagine it doesn't say College Bakery,
+615.26	imagine it says YouTube
+617.26	and Facebook and Twitter.
+619.26	Imagine it says TED,
+621.26	because the comments can't be policed
+624.26	at any acceptable cost.
+627.26	The real effects of SOPA and PIPA
+630.26	are going to be different than the proposed effects.
+633.26	The threat, in fact,
+635.26	is this inversion of the burden of proof,
+638.26	where we suddenly
+640.26	are all treated like thieves
+642.26	at every moment we're given the freedom to create,
+645.26	to produce or to share.
+648.26	And the people who provide those capabilities to us --
+651.26	the YouTubes, the Facebooks, the Twitters and TEDs --
+654.26	are in the business
+656.26	of having to police us,
+658.26	or being on the hook for contributory infringement.
+661.26	There's two things you can do
+663.26	to help stop this --
+665.26	a simple thing and a complicated thing,
+668.26	an easy thing and a hard thing.
+670.26	The simple thing, the easy thing, is this:
+672.26	if you're an American citizen,
+674.26	call your representative, call your senator.
+677.26	When you look at
+680.26	the people who co-signed on the SOPA bill,
+683.26	people who've co-signed on PIPA,
+685.26	what you see is that they have cumulatively received
+688.26	millions and millions of dollars
+691.26	from the traditional media industries.
+693.26	You don't have millions and millions of dollars,
+695.26	but you can call your representatives,
+697.26	and you can remind them that you vote,
+700.26	and you can ask not to be treated like a thief,
+703.26	and you can suggest that you would prefer
+705.26	that the Internet not be broken.
+708.26	And if you're not an American citizen,
+710.26	you can contact American citizens that you know
+712.26	and encourage them to do the same.
+714.26	Because this seems like a national issue,
+716.26	but it is not.
+718.26	These industries will not be content
+720.26	with breaking our Internet.
+722.26	If they break it, they will break it for everybody.
+725.26	That's the easy thing.
+727.26	That's the simple thing.
+729.26	The hard thing is this:
+731.26	get ready, because more is coming.
+734.26	SOPA is simply a reversion of COICA,
+737.26	which was purposed last year, which did not pass.
+739.26	And all of this goes back
+741.26	to the failure of the DMCA
+743.26	to disallow sharing as a technical means.
+745.26	And the DMCA goes back to the Audio Home Recording Act,
+748.26	which horrified those industries.
+750.26	Because the whole business
+752.26	of actually suggesting that someone is breaking the law
+755.26	and then gathering evidence and proving that,
+757.26	that turns out to be really inconvenient.
+760.26	"""We'd prefer not to do that,"""
+762.26	says the content industries.
+764.26	And what they want is not to have to do that.
+767.26	They don't want legal distinctions
+769.26	between legal and illegal sharing.
+771.26	They just want the sharing to go away.
+773.26	PIPA and SOPA are not oddities, they're not anomalies,
+776.26	they're not events.
+778.26	They're the next turn of this particular screw,
+781.26	which has been going on 20 years now.
+783.26	And if we defeat these, as I hope we do,
+785.26	more is coming.
+787.26	Because until we convince Congress
+792.26	that the way to deal with copyright violation
+795.26	is the way copyright violation was dealt with with Napster, with YouTube,
+799.26	which is to have a trial with all the presentation of evidence
+802.26	and the hashing out of facts and the assessment of remedies
+805.26	that goes on in democratic societies.
+807.26	That's the way to handle this.
+809.26	In the meantime,
+811.26	the hard thing to do is to be ready.
+813.26	Because that's the real message of PIPA and SOPA.
+815.26	Time Warner has called
+817.26	and they want us all back on the couch,
+819.26	just consuming --
+821.26	not producing, not sharing --
+823.26	"and we should say, ""No."""
+825.26	Thank you.
+827.26	(Applause)

@@ -1,0 +1,152 @@
+startsecond	text
+16.26	So there are a few things
+18.26	that bring us humans together in the way that an election does.
+21.26	We stand in elections; we vote in elections;
+24.26	we observe elections.
+26.26	Our democracies rely on elections.
+29.26	We all understand why we have elections,
+32.26	and we all leave the house on the same day
+34.26	to go and vote.
+36.26	We cherish the opportunity to have our say,
+39.26	to help decide the future of the country.
+44.26	The fundamental idea is that politicians
+46.26	are given mandate to speak for us,
+49.26	to make decisions on our behalf
+51.26	that affect us all.
+53.26	Without that mandate, they would be corrupt.
+56.26	Well unfortunately, power corrupts,
+58.26	and so people will do lots of things
+61.26	to get power and to stay in power,
+64.26	including doing bad things to elections.
+68.26	You see, even if the idea
+70.26	of the election is perfect,
+72.26	running a countrywide election is a big project,
+75.26	and big projects are messy.
+78.26	Whenever there is an election,
+80.26	it seems like something always goes wrong,
+82.26	someone tries to cheat,
+84.26	or something goes accidentally awry --
+87.26	a ballot box goes missing here,
+90.26	chads are left hanging over here.
+93.26	To make sure as few things as possible go wrong,
+97.26	we have all these procedures around the election.
+100.26	So for example, you come to the polling station,
+103.26	and a poll station worker asks for your ID
+106.26	before giving you a ballot form
+108.26	and asking you to go into a voting booth
+110.26	to fill out your vote.
+112.26	When you come back out, you get to drop your vote
+114.26	into the ballot box
+116.26	where it mixes with all the other votes,
+118.26	so that no one knows how you voted.
+121.26	Well, what I want us to think about for a moment
+123.26	is what happens after that,
+125.26	after you drop your vote into the ballot box.
+127.26	And most people would go home
+129.26	and feel sure that their vote has been counted,
+131.26	because they trust
+133.26	that the election system works.
+135.26	They trust that election workers and election observers
+138.26	do their jobs and do their jobs correctly.
+142.26	The ballot boxes go to counting places.
+145.26	They're unsealed and the votes are poured out
+148.26	and laboriously counted.
+151.26	Most of us have to trust
+153.26	that that happens correctly for our own vote,
+155.26	and we all have to trust that that happens correctly
+158.26	for all the votes in the election.
+161.26	So we have to trust a lot of people.
+165.26	We have to trust a lot of procedures.
+169.26	And sometimes we even have to trust computers.
+174.26	So imagine hundreds of millions of voters
+176.26	casting hundreds of millions of votes,
+178.26	all to be counted correctly
+181.26	and all the things that can possibly go wrong
+184.26	causing all these bad headlines,
+189.26	and you cannot help but feel exhausted at the idea
+192.26	of trying to make elections better.
+198.26	Well in the face of all these bad headlines,
+200.26	researchers have taken a step back
+203.26	and thought about how we can do elections differently.
+207.26	They've zoomed out and looked at the big picture.
+210.26	And the big picture is this:
+212.26	elections should be verifiable.
+216.26	Voters should be able to check
+219.26	that their votes are counted correctly,
+222.26	without breaking election secrecy,
+224.26	which is so very important.
+227.26	And that's the tough part.
+229.26	How do we make an election system completely verifiable
+232.26	while keeping the votes
+234.26	absolutely secret?
+236.26	Well, the way we've come up with
+238.26	uses computers
+240.26	but doesn't depend on them.
+242.26	And the secret is the ballot form.
+244.26	And if you look closely at these ballot forms,
+246.26	you'll notice that the candidate list
+248.26	is in a different order on each one.
+250.26	And that means, if you mark your choices on one of them
+253.26	and then remove the candidate list,
+255.26	I won't be able to tell from the bit remaining
+258.26	what your vote is for.
+261.26	And on each ballot form there is this encrypted value
+264.26	in the form of this 2D barcode
+266.26	on the right.
+268.26	And there's some complicated cryptography
+270.26	going on in there,
+272.26	but what's not complicated
+274.26	is voting with one of these forms.
+277.26	So we can let computers do all the complicated cryptography for us,
+280.26	and then we'll use the paper for verification.
+284.26	So this is how you vote.
+286.26	You get one of these ballot forms at random,
+290.26	and then you go into the voting booth,
+292.26	and you mark your choices,
+294.26	and you tear along a perforation.
+299.26	And you shred the candidate list.
+302.26	And the bit that remains, the one with your marks --
+305.26	this is your encrypted vote.
+307.26	So you let a poll station worker
+309.26	scan your encrypted vote.
+311.26	And because it's encrypted,
+313.26	it can be submitted, stored
+315.26	and counted centrally
+318.26	and displayed on a website
+320.26	for anyone to see, including you.
+323.26	So you take this encrypted vote
+326.26	home as your receipt.
+328.26	And after the close of the election,
+330.26	you can check that your vote was counted
+332.26	by comparing your receipt
+335.26	to the vote on the website.
+339.26	And remember, the vote is encrypted
+341.26	from the moment you leave the voting booth,
+344.26	so if an election official wants to find out how you voted,
+347.26	they will not be able to.
+349.26	If the government wants to find out how you voted,
+351.26	they won't be able to.
+354.26	No hacker can break in
+356.26	and find out how you voted.
+358.26	No hacker can break in and change your vote,
+361.26	because then it won't match your receipt.
+364.26	Votes can't go missing
+367.26	because then you won't find yours when you look for it.
+371.26	But the election magic doesn't stop there.
+374.26	Instead, we want to make the whole process
+376.26	so transparent
+378.26	that news media and international observers
+381.26	and anyone who wants to
+383.26	can download all the election data
+385.26	and do the count themselves.
+387.26	They can check that all the votes were counted correctly.
+390.26	They can check
+392.26	that the announced result of the election
+394.26	is the correct one.
+396.26	And these are elections
+398.26	by the people, for the people.
+400.26	So the next step for our democracies
+403.26	are transparent
+405.26	and verifiable elections.
+407.26	Thank you.
+409.26	(Applause)

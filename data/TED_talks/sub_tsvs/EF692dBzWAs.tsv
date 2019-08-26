@@ -1,0 +1,352 @@
+startsecond	text
+12.16	Last year, I told you the story, in seven minutes, of Project Orion,
+16.16	which was this very implausible technology
+18.16	that technically could have worked,
+22.16	but it had this one-year political window where it could have happened.
+26.16	So it didn't happen. It was a dream that did not happen.
+28.16	This year I'm going to tell you the story of the birth of digital computing.
+33.16	This was a perfect introduction.
+35.16	And it's a story that did work. It did happen,
+37.16	and the machines are all around us.
+39.16	And it was a technology that was inevitable.
+43.16	If the people I'm going to tell you the story about,
+45.16	if they hadn't done it, somebody else would have.
+47.16	So, it was sort of the right idea at the right time.
+51.16	This is Barricelli's universe. This is the universe we live in now.
+54.16	It's the universe in which these machines
+56.16	are now doing all these things, including changing biology.
+62.16	I'm starting the story with the first atomic bomb at Trinity,
+67.16	which was the Manhattan Project. It was a little bit like TED:
+69.16	it brought a whole lot of very smart people together.
+72.16	And three of the smartest people were
+74.16	Stan Ulam, Richard Feynman and John von Neumann.
+78.16	And it was Von Neumann who said, after the bomb,
+80.16	he was working on something much more important than bombs:
+84.16	he's thinking about computers.
+86.16	So, he wasn't only thinking about them; he built one. This is the machine he built.
+90.16	(Laughter)
+94.16	He built this machine,
+96.16	and we had a beautiful demonstration of how this thing really works,
+99.16	with these little bits. And it's an idea that goes way back.
+102.16	The first person to really explain that
+105.16	was Thomas Hobbes, who, in 1651,
+108.16	explained how arithmetic and logic are the same thing,
+111.16	and if you want to do artificial thinking and artificial logic,
+114.16	you can do it all with arithmetic.
+116.16	He said you needed addition and subtraction.
+120.16	Leibniz, who came a little bit later -- this is 1679 --
+124.16	showed that you didn't even need subtraction.
+126.16	You could do the whole thing with addition.
+128.16	Here, we have all the binary arithmetic and logic
+131.16	that drove the computer revolution.
+133.16	And Leibniz was the first person to really talk about building such a machine.
+137.16	He talked about doing it with marbles,
+139.16	having gates and what we now call shift registers,
+141.16	where you shift the gates, drop the marbles down the tracks.
+144.16	And that's what all these machines are doing,
+146.16	except, instead of doing it with marbles,
+148.16	they're doing it with electrons.
+150.16	And then we jump to Von Neumann, 1945,
+154.16	when he sort of reinvents the whole same thing.
+156.16	And 1945, after the war, the electronics existed
+159.16	to actually try and build such a machine.
+162.16	So June 1945 -- actually, the bomb hasn't even been dropped yet --
+166.16	and Von Neumann is putting together all the theory to actually build this thing,
+170.16	which also goes back to Turing,
+172.16	who, before that, gave the idea that you could do all this
+175.16	with a very brainless, little, finite state machine,
+179.16	just reading a tape in and reading a tape out.
+182.16	The other sort of genesis of what Von Neumann did
+185.16	was the difficulty of how you would predict the weather.
+189.16	Lewis Richardson saw how you could do this with a cellular array of people,
+193.16	giving them each a little chunk, and putting it together.
+196.16	Here, we have an electrical model illustrating a mind having a will,
+199.16	but capable of only two ideas.
+201.16	(Laughter)
+202.16	And that's really the simplest computer.
+205.16	It's basically why you need the qubit,
+207.16	because it only has two ideas.
+209.16	And you put lots of those together,
+211.16	you get the essentials of the modern computer:
+214.16	the arithmetic unit, the central control, the memory,
+217.16	the recording medium, the input and the output.
+220.16	But, there's one catch. This is the fatal -- you know,
+224.16	we saw it in starting these programs up.
+227.16	The instructions which govern this operation
+229.16	must be given in absolutely exhaustive detail.
+231.16	So, the programming has to be perfect, or it won't work.
+234.16	If you look at the origins of this,
+236.16	the classic history sort of takes it all back to the ENIAC here.
+240.16	But actually, the machine I'm going to tell you about,
+242.16	the Institute for Advanced Study machine, which is way up there,
+245.16	really should be down there. So, I'm trying to revise history,
+247.16	and give some of these guys more credit than they've had.
+250.16	Such a computer would open up universes,
+252.16	which are, at the present, outside the range of any instruments.
+256.16	So it opens up a whole new world, and these people saw it.
+259.16	The guy who was supposed to build this machine
+261.16	was the guy in the middle, Vladimir Zworykin, from RCA.
+264.16	RCA, in probably one of the lousiest business decisions
+267.16	of all time, decided not to go into computers.
+270.16	But the first meetings, November 1945, were at RCA's offices.
+275.16	RCA started this whole thing off, and said, you know,
+279.16	televisions are the future, not computers.
+282.16	The essentials were all there --
+284.16	all the things that make these machines run.
+288.16	Von Neumann, and a logician, and a mathematician from the army
+291.16	put this together. Then, they needed a place to build it.
+293.16	When RCA said no, that's when they decided to build it in Princeton,
+297.16	where Freeman works at the Institute.
+299.16	That's where I grew up as a kid.
+301.16	That's me, that's my sister Esther, who's talked to you before,
+305.16	so we both go back to the birth of this thing.
+308.16	That's Freeman, a long time ago,
+310.16	and that was me.
+311.16	And this is Von Neumann and Morgenstern,
+314.16	"who wrote the ""Theory of Games."""
+316.16	All these forces came together there, in Princeton.
+320.16	Oppenheimer, who had built the bomb.
+322.16	The machine was actually used mainly for doing bomb calculations.
+326.16	And Julian Bigelow, who took
+328.16	Zworkykin's place as the engineer, to actually figure out, using electronics,
+332.16	how you would build this thing. The whole gang of people who came to work on this,
+335.16	and women in front, who actually did most of the coding, were the first programmers.
+340.16	These were the prototype geeks, the nerds.
+344.16	They didn't fit in at the Institute.
+346.16	This is a letter from the director, concerned about --
+349.16	"""especially unfair on the matter of sugar."""
+352.16	(Laughter)
+353.16	You can read the text.
+354.16	(Laughter)
+360.16	This is hackers getting in trouble for the first time.
+364.16	(Laughter).
+369.16	These were not theoretical physicists.
+371.16	They were real soldering-gun type guys, and they actually built this thing.
+376.16	And we take it for granted now, that each of these machines
+378.16	has billions of transistors, doing billions of cycles per second without failing.
+383.16	They were using vacuum tubes, very narrow, sloppy techniques
+387.16	to get actually binary behavior out of these radio vacuum tubes.
+392.16	They actually used 6J6, the common radio tube,
+395.16	because they found they were more reliable than the more expensive tubes.
+399.16	And what they did at the Institute was publish every step of the way.
+403.16	Reports were issued, so that this machine was cloned
+406.16	at 15 other places around the world.
+409.16	And it really was. It was the original microprocessor.
+413.16	All the computers now are copies of that machine.
+415.16	The memory was in cathode ray tubes --
+418.16	a whole bunch of spots on the face of the tube --
+421.16	very, very sensitive to electromagnetic disturbances.
+424.16	So, there's 40 of these tubes,
+426.16	like a V-40 engine running the memory.
+429.16	(Laughter)
+430.16	The input and the output was by teletype tape at first.
+435.16	This is a wire drive, using bicycle wheels.
+437.16	This is the archetype of the hard disk that's in your machine now.
+442.16	Then they switched to a magnetic drum.
+444.16	This is modifying IBM equipment,
+446.16	which is the origins of the whole data-processing industry, later at IBM.
+450.16	And this is the beginning of computer graphics.
+453.16	"The ""Graph'g-Beam Turn On."" This next slide,"
+456.16	that's the -- as far as I know -- the first digital bitmap display, 1954.
+463.16	So, Von Neumann was already off in a theoretical cloud,
+466.16	doing abstract sorts of studies of how you could build
+469.16	reliable machines out of unreliable components.
+472.16	Those guys drinking all the tea with sugar in it
+474.16	were writing in their logbooks, trying to get this thing to work, with all
+478.16	these 2,600 vacuum tubes that failed half the time.
+481.16	And that's what I've been doing, this last six months, is going through the logs.
+486.16	"""Running time: two minutes. Input, output: 90 minutes."""
+489.16	This includes a large amount of human error.
+492.16	So they are always trying to figure out, what's machine error? What's human error?
+495.16	What's code, what's hardware?
+497.16	That's an engineer gazing at tube number 36,
+499.16	trying to figure out why the memory's not in focus.
+501.16	He had to focus the memory -- seems OK.
+504.16	So, he had to focus each tube just to get the memory up and running,
+508.16	let alone having, you know, software problems.
+510.16	"""No use, went home."" (Laughter)"
+512.16	"""Impossible to follow the damn thing, where's a directory?"""
+515.16	So, already, they're complaining about the manuals:
+517.16	"""before closing down in disgust ... """
+521.16	"""The General Arithmetic: Operating Logs."""
+523.16	Burning lots of midnight oil.
+526.16	"""MANIAC,"" which became the acronym for the machine,"
+528.16	"Mathematical and Numerical Integrator and Calculator, ""lost its memory."""
+531.16	"""MANIAC regained its memory, when the power went off."" ""Machine or human?"""
+537.16	"""Aha!"" So, they figured out it's a code problem."
+540.16	"""Found trouble in code, I hope."""
+542.16	"""Code error, machine not guilty."""
+545.16	"""Damn it, I can be just as stubborn as this thing."""
+548.16	(Laughter)
+553.16	"""And the dawn came."" So they ran all night."
+555.16	Twenty-four hours a day, this thing was running, mainly running bomb calculations.
+559.16	"""Everything up to this point is wasted time."" ""What's the use? Good night."""
+564.16	"""Master control off. The hell with it. Way off."" (Laughter)"
+568.16	"""Something's wrong with the air conditioner --"
+570.16	"smell of burning V-belts in the air."""
+573.16	"""A short -- do not turn the machine on."""
+575.16	"""IBM machine putting a tar-like substance on the cards. The tar is from the roof."""
+580.16	So they really were working under tough conditions.
+582.16	(Laughter)
+583.16	"Here, ""A mouse has climbed into the blower"
+585.16	"behind the regulator rack, set blower to vibrating. Result: no more mouse."""
+589.16	(Laughter)
+594.16	"""Here lies mouse. Born: ?. Died: 4:50 a.m., May 1953."""
+601.16	(Laughter)
+602.16	There's an inside joke someone has penciled in:
+604.16	"""Here lies Marston Mouse."""
+606.16	If you're a mathematician, you get that,
+608.16	because Marston was a mathematician who
+609.16	objected to the computer being there.
+612.16	"""Picked a lightning bug off the drum."" ""Running at two kilocycles."""
+616.16	That's two thousand cycles per second --
+618.16	"""yes, I'm chicken"" -- so two kilocycles was slow speed."
+621.16	The high speed was 16 kilocycles.
+624.16	I don't know if you remember a Mac that was 16 Megahertz,
+627.16	that's slow speed.
+629.16	"""I have now duplicated both results."
+632.16	How will I know which is right, assuming one result is correct?
+635.16	This now is the third different output.
+637.16	"I know when I'm licked."""
+639.16	(Laughter)
+641.16	"""We've duplicated errors before."""
+643.16	"""Machine run, fine. Code isn't."""
+646.16	"""Only happens when the machine is running."""
+648.16	And sometimes things are okay.
+652.16	"""Machine a thing of beauty, and a joy forever."" ""Perfect running."""
+656.16	"""Parting thought: when there's bigger and better errors, we'll have them."""
+660.16	So, nobody was supposed to know they were actually designing bombs.
+663.16	They're designing hydrogen bombs. But someone in the logbook,
+665.16	late one night, finally drew a bomb.
+667.16	So, that was the result. It was Mike,
+669.16	the first thermonuclear bomb, in 1952.
+672.16	That was designed on that machine,
+674.16	in the woods behind the Institute.
+676.16	So Von Neumann invited a whole gang of weirdos
+680.16	from all over the world to work on all these problems.
+683.16	Barricelli, he came to do what we now call, really, artificial life,
+687.16	trying to see if, in this artificial universe --
+690.16	he was a viral-geneticist, way, way, way ahead of his time.
+693.16	He's still ahead of some of the stuff that's being done now.
+696.16	Trying to start an artificial genetic system running in the computer.
+701.16	Began -- his universe started March 3, '53.
+704.16	So it's almost exactly -- it's 50 years ago next Tuesday, I guess.
+709.16	And he saw everything in terms of --
+711.16	he could read the binary code straight off the machine.
+713.16	He had a wonderful rapport.
+715.16	Other people couldn't get the machine running. It always worked for him.
+718.16	Even errors were duplicated.
+720.16	(Laughter)
+721.16	"""Dr. Barricelli claims machine is wrong, code is right."""
+724.16	So he designed this universe, and ran it.
+727.16	When the bomb people went home, he was allowed in there.
+730.16	He would run that thing all night long, running these things,
+733.16	if anybody remembers Stephen Wolfram,
+735.16	who reinvented this stuff.
+737.16	And he published it. It wasn't locked up and disappeared.
+739.16	It was published in the literature.
+741.16	"""If it's that easy to create living organisms, why not create a few yourself?"""
+744.16	So, he decided to give it a try,
+746.16	to start this artificial biology going in the machines.
+750.16	And he found all these, sort of --
+752.16	it was like a naturalist coming in
+754.16	and looking at this tiny, 5,000-byte universe,
+757.16	and seeing all these things happening
+759.16	that we see in the outside world, in biology.
+762.16	This is some of the generations of his universe.
+768.16	But they're just going to stay numbers;
+770.16	they're not going to become organisms.
+772.16	They have to have something.
+773.16	You have a genotype and you have to have a phenotype.
+775.16	They have to go out and do something. And he started doing that,
+778.16	started giving these little numerical organisms things they could play with --
+781.16	playing chess with other machines and so on.
+783.16	And they did start to evolve.
+785.16	And he went around the country after that.
+787.16	Every time there was a new, fast machine, he started using it,
+791.16	and saw exactly what's happening now.
+793.16	That the programs, instead of being turned off -- when you quit the program,
+799.16	you'd keep running
+801.16	and, basically, all the sorts of things like Windows is doing,
+805.16	running as a multi-cellular organism on many machines,
+807.16	he envisioned all that happening.
+808.16	And he saw that evolution itself was an intelligent process.
+811.16	It wasn't any sort of creator intelligence,
+814.16	but the thing itself was a giant parallel computation
+817.16	that would have some intelligence.
+819.16	And he went out of his way to say
+821.16	that he was not saying this was lifelike,
+824.16	or a new kind of life.
+826.16	It just was another version of the same thing happening.
+829.16	And there's really no difference between what he was doing in the computer
+832.16	and what nature did billions of years ago.
+835.16	And could you do it again now?
+837.16	So, when I went into these archives looking at this stuff, lo and behold,
+841.16	the archivist came up one day, saying,
+843.16	"""I think we found another box that had been thrown out."""
+846.16	And it was his universe on punch cards.
+848.16	So there it is, 50 years later, sitting there -- sort of suspended animation.
+854.16	That's the instructions for running --
+856.16	this is actually the source code
+858.16	for one of those universes,
+860.16	with a note from the engineers
+862.16	saying they're having some problems.
+863.16	"""There must be something about this code that you haven't explained yet."""
+868.16	And I think that's really the truth. We still don't understand
+871.16	how these very simple instructions can lead to increasing complexity.
+875.16	What's the dividing line between
+877.16	when that is lifelike and when it really is alive?
+881.16	These cards, now, thanks to me showing up, are being saved.
+885.16	And the question is, should we run them or not?
+887.16	You know, could we get them running?
+889.16	Do you want to let it loose on the Internet?
+890.16	These machines would think they --
+892.16	these organisms, if they came back to life now --
+895.16	whether they've died and gone to heaven, there's a universe.
+897.16	My laptop is 10 thousand million times
+902.16	the size of the universe that they lived in when Barricelli quit the project.
+907.16	He was thinking far ahead, to
+909.16	how this would really grow into a new kind of life.
+912.16	And that's what's happening!
+914.16	When Juan Enriquez told us about
+916.16	these 12 trillion bits being transferred back and forth,
+920.16	of all this genomics data going to the proteomics lab,
+924.16	that's what Barricelli imagined:
+926.16	that this digital code in these machines
+929.16	is actually starting to code --
+931.16	it already is coding from nucleic acids.
+934.16	We've been doing that since, you know, since we started PCR
+937.16	and synthesizing small strings of DNA.
+943.16	And real soon, we're actually going to be synthesizing the proteins,
+946.16	and, like Steve showed us, that just opens an entirely new world.
+951.16	It's a world that Von Neumann himself envisioned.
+954.16	This was published after he died: his sort of unfinished notes
+957.16	on self-reproducing machines,
+959.16	what it takes to get the machines sort of jump-started
+962.16	to where they begin to reproduce.
+964.16	It took really three people:
+966.16	Barricelli had the concept of the code as a living thing;
+969.16	Von Neumann saw how you could build the machines --
+972.16	that now, last count, four million
+975.16	of these Von Neumann machines is built every 24 hours;
+978.16	and Julian Bigelow, who died 10 days ago --
+982.16	this is John Markoff's obituary for him --
+985.16	he was the important missing link,
+987.16	the engineer who came in
+989.16	and knew how to put those vacuum tubes together and make it work.
+992.16	And all our computers have, inside them,
+994.16	the copies of the architecture that he had to just design
+998.16	one day, sort of on pencil and paper.
+1001.16	And we owe a tremendous credit to that.
+1003.16	And he explained, in a very generous way,
+1007.16	the spirit that brought all these different people to
+1009.16	the Institute for Advanced Study in the '40s to do this project,
+1012.16	and make it freely available with no patents, no restrictions,
+1015.16	no intellectual property disputes to the rest of the world.
+1018.16	That's the last entry in the logbook
+1021.16	when the machine was shut down, July 1958.
+1024.16	And it's Julian Bigelow who was running it until midnight
+1027.16	when the machine was officially turned off.
+1029.16	And that's the end.
+1031.16	Thank you very much.
+1033.16	(Applause)

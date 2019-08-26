@@ -1,0 +1,262 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.863	So, this book that I have in my hand
+18.929	is a directory of everybody who had an email address
+22.863	in 1982. (Laughter)
+26.382	Actually, it's deceptively large.
+30.067	There's actually only about 20 people on each page,
+33.504	because we have the name, address
+35.394	and telephone number of every single person.
+38.487	And, in fact, everybody's listed twice,
+40.67	because it's sorted once by name and once by email address.
+45.228	Obviously a very small community.
+48.129	There were only two other Dannys on the Internet then.
+51.56	I knew them both.
+53.16	We didn't all know each other,
+54.916	but we all kind of trusted each other,
+58.029	and that basic feeling of trust
+61.827	permeated the whole network,
+64.414	and there was a real sense that
+66.771	we could depend on each other to do things.
+69.777	So just to give you an idea of the level of trust in this community,
+73.352	let me tell you what it was like
+74.977	to register a domain name in the early days.
+79.082	Now, it just so happened that I got to register
+81.712	the third domain name on the Internet.
+84.172	So I could have anything I wanted
+85.82	other than bbn.com and symbolics.com.
+90.265	So I picked think.com, but then I thought,
+93.679	you know, there's a lot of really interesting names out there.
+96.665	Maybe I should register a few extras just in case.
+100.874	"And then I thought, ""Nah, that wouldn't be very nice."""
+104.158	(Laughter)
+109.853	That attitude of only taking what you need
+113.482	was really what everybody had on the network in those days,
+117.526	and in fact, it wasn't just the people on the network,
+120.823	but it was actually kind of built into the protocols
+123.543	of the Internet itself.
+125.487	So the basic idea of I.P., or Internet protocol,
+129.346	and the way that the -- the routing algorithm that used it,
+133.075	"were fundamentally ""from each according to their ability,"
+137.204	"to each according to their need."""
+139.322	And so, if you had some extra bandwidth,
+142.335	you'd deliver a message for someone.
+143.778	If they had some extra bandwidth, they would deliver a message for you.
+146.771	You'd kind of depend on people to do that,
+148.785	and that was the building block.
+151.449	It was actually interesting that such a communist principle
+154.076	was the basis of a system developed during the Cold War
+156.512	by the Defense Department,
+158.943	but it obviously worked really well,
+162.013	and we all saw what happened with the Internet.
+165.456	It was incredibly successful.
+167.728	In fact, it was so successful that there's no way
+171.025	that these days you could make a book like this.
+174.613	My rough calculation is it would be about 25 miles thick.
+180.779	But, of course, you couldn't do it,
+181.953	because we don't know the names of all the people
+183.743	with Internet or email addresses,
+186.817	and even if we did know their names,
+188.349	I'm pretty sure that they would not want their name,
+190.782	address and telephone number published to everyone.
+195.078	So the fact is that there's a lot of bad guys on the Internet these days,
+198.78	and so we dealt with that by making
+202.951	walled communities,
+204.85	secure subnetworks, VPNs,
+209.587	little things that aren't really the Internet
+211.183	but are made out of the same building blocks,
+213.154	but we're still basically building it out of those
+215.394	same building blocks with those same assumptions of trust.
+219.661	And that means that it's vulnerable
+222.383	to certain kinds of mistakes that can happen,
+224.779	or certain kinds of deliberate attacks,
+226.64	but even the mistakes can be bad.
+229.745	So, for instance,
+232.694	in all of Asia recently,
+234.647	it was impossible to get YouTube for a little while
+238.08	because Pakistan made some mistakes
+240.36	in how it was censoring YouTube in its internal network.
+244.095	They didn't intend to screw up Asia, but they did
+247.189	because of the way that the protocols work.
+250.093	Another example that may have affected many of you in this audience is,
+253.317	you may remember a couple of years ago,
+255.908	all the planes west of the Mississippi were grounded
+258.721	because a single routing card in Salt Lake City
+261.613	had a bug in it.
+263.975	Now, you don't really think
+266.248	that our airplane system depends on the Internet,
+269.274	and in some sense it doesn't.
+270.28	I'll come back to that later.
+271.896	But the fact is that people couldn't take off
+274.146	because something was going wrong on the Internet,
+276.421	and the router card was down.
+278.996	And so, there are many of those things that start to happen.
+282.775	Now, there was an interesting thing that happened last April.
+285.914	All of a sudden,
+287.44	a very large percentage of the traffic on the whole Internet,
+290.772	including a lot of the traffic between U.S. military installations,
+294.903	started getting re-routed through China.
+297.671	So for a few hours, it all passed through China.
+300.393	Now, China Telecom says it was just an honest mistake,
+304.967	and it is actually possible that it was, the way things work,
+308.824	but certainly somebody could make
+310.859	a dishonest mistake of that sort if they wanted to,
+314.132	and it shows you how vulnerable the system is even to mistakes.
+317.49	Imagine how vulnerable the system is to deliberate attacks.
+322.411	So if somebody really wanted to attack the United States
+325.809	or Western civilization these days,
+327.901	they're not going to do it with tanks.
+330.09	That will not succeed.
+332.503	What they'll probably do is something
+334.506	very much like the attack that happened
+337.797	on the Iranian nuclear facility.
+340.504	Nobody has claimed credit for that.
+342.778	There was basically a factory of industrial machines.
+346.285	It didn't think of itself as being on the Internet.
+348.862	It thought of itself as being disconnected from the Internet,
+351.449	but it was possible for somebody to smuggle
+353.396	a USB drive in there, or something like that,
+355.928	and software got in there that causes the centrifuges,
+359.324	in that case, to actually destroy themselves.
+362.317	Now that same kind of software could destroy an oil refinery
+364.983	or a pharmaceutical factory or a semiconductor plant.
+369.405	And so there's a lot of -- I'm sure you've read a lot in papers,
+372.671	about worries about cyberattacks
+374.862	and defenses against those.
+377.472	But the fact is, people are mostly focused on
+379.452	defending the computers on the Internet,
+381.735	and there's been surprisingly little attention
+384.121	to defending the Internet itself as a communications medium.
+388.486	And I think we probably do need to pay
+390.349	some more attention to that, because it's actually kind of fragile.
+393.437	So actually, in the early days,
+396.364	back when it was the ARPANET,
+398.088	there were actually times -- there was a particular time it failed completely
+401.677	because one single message processor
+404.962	actually got a bug in it.
+407.438	And the way the Internet works is
+409.71	the routers are basically exchanging information
+413.277	about how they can get messages to places,
+415.867	and this one processor, because of a broken card,
+419.765	decided it could actually get a message
+421.774	to some place in negative time.
+424.462	So, in other words, it claimed it could deliver a message before you sent it.
+428.445	So of course, the fastest way to get a message anywhere
+431.595	was to send it to this guy,
+433.471	who would send it back in time and get it there super early,
+437.018	so every message in the Internet
+439.874	started getting switched through this one node,
+443.116	and of course that clogged everything up.
+444.632	Everything started breaking.
+446.787	The interesting thing was, though,
+448.827	that the sysadmins were able to fix it,
+450.667	but they had to basically turn every single thing on the Internet off.
+455.449	Now, of course you couldn't do that today.
+456.847	I mean, everything off, it's like
+459.241	the service call you get from the cable company,
+461.473	except for the whole world.
+465.234	Now, in fact, they couldn't do it for a lot of reasons today.
+467.293	One of the reasons is a lot of their telephones
+469.915	use IP protocol and use things like Skype and so on
+472.884	that go through the Internet right now,
+474.953	and so in fact we're becoming dependent on it
+478.235	for more and more different things,
+480.027	like when you take off from LAX,
+482.965	you're really not thinking you're using the Internet.
+484.846	When you pump gas, you really don't think you're using the Internet.
+488.962	What's happening increasingly, though, is these systems
+491.087	are beginning to use the Internet.
+492.954	Most of them aren't based on the Internet yet,
+496.004	but they're starting to use the Internet for service functions,
+498.54	for administrative functions,
+500.445	and so if you take something like the cell phone system,
+503.508	which is still relatively independent of the Internet for the most part,
+507.828	Internet pieces are beginning to sneak into it
+510.787	in terms of some of the control and administrative functions,
+514.591	and it's so tempting to use these same building blocks
+516.921	because they work so well, they're cheap,
+519.185	they're repeated, and so on.
+520.285	So all of our systems, more and more,
+523.057	are starting to use the same technology
+524.837	and starting to depend on this technology.
+526.904	And so even a modern rocket ship these days
+529.329	actually uses Internet protocol to talk
+532.055	from one end of the rocket ship to the other.
+533.871	That's crazy. It was never designed to do things like that.
+537.057	So we've built this system
+540.174	where we understand all the parts of it,
+543.284	but we're using it in a very, very different way than we expected to use it,
+546.982	and it's gotten a very, very different scale
+549.421	than it was designed for.
+551.592	And in fact, nobody really exactly understands
+554.268	all the things it's being used for right now.
+556.531	It's turning into one of these big emergent systems
+559.034	like the financial system, where we've designed all the parts
+562.515	but nobody really exactly understands
+565.121	how it operates and all the little details of it
+568.348	and what kinds of emergent behaviors it can have.
+571.067	And so if you hear an expert talking about the Internet
+574.2	and saying it can do this, or it does do this, or it will do that,
+576.895	you should treat it with the same skepticism
+579.356	that you might treat the comments of an economist about the economy
+583.771	or a weatherman about the weather, or something like that.
+586.038	They have an informed opinion,
+588.686	but it's changing so quickly that even the experts
+591.227	don't know exactly what's going on.
+593.045	So if you see one of these maps of the Internet,
+595.737	it's just somebody's guess.
+597.403	Nobody really knows what the Internet is right now
+599.601	because it's different than it was an hour ago.
+602.342	It's constantly changing. It's constantly reconfiguring.
+605.143	And the problem with it is,
+606.657	I think we are setting ourselves up for a kind of disaster
+609.998	like the disaster we had in the financial system,
+612.793	where we take a system that's basically built on trust,
+618.137	was basically built for a smaller-scale system,
+620.758	and we've kind of expanded it way beyond the limits
+623.667	of how it was meant to operate.
+625.663	And so right now, I think it's literally true
+628.931	that we don't know what the consequences
+632.436	of an effective denial-of-service attack
+634.87	on the Internet would be,
+636.643	and whatever it would be is going to be worse next year,
+638.517	and worse next year, and so on.
+639.925	But so what we need is a plan B.
+642.474	There is no plan B right now.
+644.106	There's no clear backup system that we've very carefully kept
+647.609	to be independent of the Internet,
+649.555	made out of completely different sets of building blocks.
+652.621	So what we need is something that doesn't necessarily
+655.634	have to have the performance of the Internet,
+658.368	but the police department has to be able
+659.885	to call up the fire department even without the Internet,
+662.408	or the hospitals have to order fuel oil.
+664.973	This doesn't need to be a multi-billion-dollar government project.
+669.587	It's actually relatively simple to do, technically,
+672.335	because it can use existing fibers that are in the ground,
+676.137	existing wireless infrastructure.
+678.096	It's basically a matter of deciding to do it.
+680.861	But people won't decide to do it
+683.345	until they recognize the need for it,
+685.724	and that's the problem that we have right now.
+687.222	So there's been plenty of people,
+690.005	plenty of us have been quietly arguing
+693.049	that we should have this independent system for years,
+695.967	but it's very hard to get people focused on plan B
+698.976	when plan A seems to be working so well.
+702.65	So I think that, if people understand
+706.079	how much we're starting to depend on the Internet,
+709.133	and how vulnerable it is,
+711.11	we could get focused on
+713.216	just wanting this other system to exist,
+716.24	"and I think if enough people say, ""Yeah, I would like to use it,"
+719.317	"I'd like to have such a system,"" then it will get built."
+722.327	It's not that hard a problem.
+723.75	It could definitely be done by people in this room.
+726.985	And so I think that this is actually,
+731.344	of all the problems you're going to hear about at the conference,
+734.523	this is probably one of the very easiest to fix.
+737.201	So I'm happy to get a chance to tell you about it.
+739.968	Thank you very much.
+742.579	(Applause)

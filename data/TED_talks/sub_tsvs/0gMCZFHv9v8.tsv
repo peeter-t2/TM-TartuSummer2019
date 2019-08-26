@@ -1,0 +1,166 @@
+startsecond	text
+0	Translator: Timothy Covell
+0	Reviewer: Morton Bast
+12.346	This is me building a prototype
+15.116	for six hours straight.
+18.036	This is slave labor to my own project.
+21.957	This is what the DIY and maker movements really look like.
+26.947	And this is an analogy for today's construction and manufacturing world
+31.713	with brute-force assembly techniques.
+34.501	And this is exactly why I started studying
+37.335	how to program physical materials to build themselves.
+41.604	But there is another world.
+43.364	Today at the micro- and nanoscales,
+45.359	there's an unprecedented revolution happening.
+48.11	And this is the ability to program physical and biological materials
+52.242	to change shape, change properties
+54.966	and even compute outside of silicon-based matter.
+57.952	There's even a software called cadnano
+60.459	that allows us to design three-dimensional shapes
+63.242	like nano robots or drug delivery systems
+66.326	and use DNA to self-assemble those functional structures.
+70.629	But if we look at the human scale,
+72.702	there's massive problems that aren't being addressed
+75.758	by those nanoscale technologies.
+78.126	If we look at construction and manufacturing,
+80.225	there's major inefficiencies, energy consumption
+84.418	and excessive labor techniques.
+86.745	In infrastructure, let's just take one example.
+89.25	Take piping.
+90.733	In water pipes, we have fixed-capacity water pipes
+94.458	that have fixed flow rates, except for expensive pumps and valves.
+98.917	We bury them in the ground.
+100.208	If anything changes -- if the environment changes,
+102.829	the ground moves, or demand changes --
+105.466	we have to start from scratch and take them out and replace them.
+109.716	So I'd like to propose that we can combine those two worlds,
+113.084	that we can combine the world of the nanoscale programmable adaptive materials
+118.255	and the built environment.
+119.932	And I don't mean automated machines.
+122.118	I don't just mean smart machines that replace humans.
+124.577	But I mean programmable materials that build themselves.
+128.461	And that's called self-assembly,
+130.517	which is a process by which disordered parts build an ordered structure
+135.034	through only local interaction.
+137.527	So what do we need if we want to do this at the human scale?
+140.702	We need a few simple ingredients.
+142.677	The first ingredient is materials and geometry,
+145.516	and that needs to be tightly coupled with the energy source.
+148.985	And you can use passive energy --
+150.643	so heat, shaking, pneumatics, gravity, magnetics.
+155.327	And then you need smartly designed interactions.
+158.402	And those interactions allow for error correction,
+160.535	and they allow the shapes to go from one state to another state.
+164.535	So now I'm going to show you a number of projects that we've built,
+167.767	from one-dimensional, two-dimensional, three-dimensional
+171.051	and even four-dimensional systems.
+174.118	So in one-dimensional systems --
+176.004	this is a project called the self-folding proteins.
+178.911	And the idea is that you take the three-dimensional structure of a protein --
+183.618	in this case it's the crambin protein --
+186.299	you take the backbone -- so no cross-linking, no environmental interactions --
+189.945	and you break that down into a series of components.
+193.096	And then we embed elastic.
+195.37	And when I throw this up into the air and catch it,
+197.711	it has the full three-dimensional structure of the protein, all of the intricacies.
+202.562	And this gives us a tangible model
+204.662	of the three-dimensional protein and how it folds
+208.396	and all of the intricacies of the geometry.
+210.68	So we can study this as a physical, intuitive model.
+214.128	And we're also translating that into two-dimensional systems --
+216.93	so flat sheets that can self-fold into three-dimensional structures.
+221.229	In three dimensions, we did a project last year at TEDGlobal
+225.682	with Autodesk and Arthur Olson
+227.646	where we looked at autonomous parts --
+229.344	so individual parts not pre-connected that can come together on their own.
+233.663	And we built 500 of these glass beakers.
+236.429	They had different molecular structures inside
+238.896	and different colors that could be mixed and matched.
+241.12	And we gave them away to all the TEDsters.
+243.369	And so these became intuitive models
+245.87	to understand how molecular self-assembly works at the human scale.
+249.362	This is the polio virus.
+251.179	You shake it hard and it breaks apart.
+253.111	And then you shake it randomly
+254.557	and it starts to error correct and built the structure on its own.
+258.061	And this is demonstrating that through random energy,
+261.028	we can build non-random shapes.
+265.656	We even demonstrated that we can do this at a much larger scale.
+269.18	Last year at TED Long Beach,
+271.334	we built an installation that builds installations.
+274.545	The idea was, could we self-assemble furniture-scale objects?
+278.082	So we built a large rotating chamber,
+280.583	and people would come up and spin the chamber faster or slower,
+283.796	adding energy to the system
+285.381	and getting an intuitive understanding of how self-assembly works
+288.827	and how we could use this
+290.206	as a macroscale construction or manufacturing technique for products.
+294.952	So remember, I said 4D.
+296.619	So today for the first time, we're unveiling a new project,
+300.314	which is a collaboration with Stratasys,
+302.2	and it's called 4D printing.
+304.035	The idea behind 4D printing
+305.995	is that you take multi-material 3D printing --
+308.995	so you can deposit multiple materials --
+311.184	and you add a new capability,
+313.068	which is transformation,
+314.934	that right off the bed,
+316.251	the parts can transform from one shape to another shape directly on their own.
+320.578	And this is like robotics without wires or motors.
+324.078	So you completely print this part,
+325.729	and it can transform into something else.
+328.533	We also worked with Autodesk on a software they're developing called Project Cyborg.
+333.494	And this allows us to simulate this self-assembly behavior
+336.617	and try to optimize which parts are folding when.
+339.819	But most importantly, we can use this same software
+342.549	for the design of nanoscale self-assembly systems
+345.457	and human scale self-assembly systems.
+348.3	These are parts being printed with multi-material properties.
+351.813	Here's the first demonstration.
+353.53	A single strand dipped in water
+355.434	that completely self-folds on its own
+357.783	into the letters M I T.
+361.701	I'm biased.
+363.523	This is another part, single strand, dipped in a bigger tank
+366.972	that self-folds into a cube, a three-dimensional structure, on its own.
+371.595	So no human interaction.
+373.446	And we think this is the first time
+375.335	that a program and transformation
+377.582	has been embedded directly into the materials themselves.
+380.832	And it also might just be the manufacturing technique
+383.562	that allows us to produce more adaptive infrastructure in the future.
+387.696	So I know you're probably thinking,
+388.882	okay, that's cool, but how do we use any of this stuff for the built environment?
+393.114	So I've started a lab at MIT,
+395.369	and it's called the Self-Assembly Lab.
+397.251	And we're dedicated to trying to develop programmable materials
+400.395	for the built environment.
+401.586	And we think there's a few key sectors
+403.549	that have fairly near-term applications.
+405.863	One of those is in extreme environments.
+407.918	These are scenarios where it's difficult to build,
+410.464	our current construction techniques don't work,
+412.952	it's too large, it's too dangerous, it's expensive, too many parts.
+416.512	And space is a great example of that.
+418.879	We're trying to design new scenarios for space
+421.245	that have fully reconfigurable and self-assembly structures
+424.545	that can go from highly functional systems from one to another.
+428.235	Let's go back to infrastructure.
+430.346	In infrastructure, we're working with a company out of Boston called Geosyntec.
+434.245	And we're developing a new paradigm for piping.
+437.045	Imagine if water pipes could expand or contract
+440.668	to change capacity or change flow rate,
+443.418	or maybe even undulate like peristaltics to move the water themselves.
+447.952	So this isn't expensive pumps or valves.
+450.562	This is a completely programmable and adaptive pipe on its own.
+454.845	So I want to remind you today
+456.66	of the harsh realities of assembly in our world.
+460.044	These are complex things built with complex parts
+463.509	that come together in complex ways.
+466.294	So I would like to invite you from whatever industry you're from
+469.493	to join us in reinventing and reimagining the world,
+473.546	how things come together from the nanoscale to the human scale,
+477.245	so that we can go from a world like this
+480.32	to a world that's more like this.
+492.632	Thank you.
+494.542	(Applause)

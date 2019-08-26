@@ -1,0 +1,260 @@
+startsecond	text
+12.882	So, I have a feature on my website where every week
+15.391	people submit hypothetical questions
+17.391	for me to answer,
+18.979	and I try to answer them using math, science
+21.36	and comics.
+22.82	So for example, one person asked,
+25.228	what would happen if you tried to hit a baseball
+26.922	pitched at 90 percent of the speed of light?
+29.328	So I did some calculations.
+32.28	Now, normally, when an object flies through the air,
+34.547	the air will flow around the object,
+36.021	but in this case, the ball would be going so fast
+37.95	that the air molecules wouldn't have time
+39.401	to move out of the way.
+41.02	The ball would smash right into and through them,
+44.007	and the collisions with these air molecules
+45.668	would knock away the nitrogen,
+47.333	carbon and hydrogen from the ball,
+49.291	fragmenting it off into tiny particles,
+51.128	and also triggering waves of thermonuclear fusion
+53.612	in the air around it.
+55.14	This would result in a flood of x-rays
+57.305	that would spread out in a bubble
+59.056	along with exotic particles,
+60.482	plasma inside, centered on the pitcher's mound,
+63.602	and that would move away from the pitcher's mound
+67.144	slightly faster than the ball.
+69.629	Now at this point, about 30 nanoseconds in,
+72.311	the home plate is far enough away
+74.214	that light hasn't had time to reach it,
+76.12	which means the batter
+77.571	still sees the pitcher about to throw
+80.335	and has no idea that anything is wrong.
+82.352	(Laughter)
+84.624	Now, after 70 nanoseconds,
+87.05	the ball will reach home plate,
+88.504	or at least the cloud of expanding plasma
+91.241	that used to be the ball,
+93.37	and it will engulf the bat and the batter
+97.135	and the plate and the catcher and the umpire
+100.596	and start disintegrating them all
+103.401	as it also starts to carry them backward
+106.567	through the backstop, which
+106.567	also starts to disintegrate.
+110.031	So if you were watching this whole thing
+111.801	from a hill,
+113.108	ideally, far away,
+116.481	what you'd see is a bright flash of light
+117.936	that would fade over a few seconds,
+119.442	followed by a blast wave spreading out,
+121.57	shredding trees and houses
+124.03	as it moves away from the stadium,
+126.149	and then eventually a mushroom cloud
+129.081	rising up over the ruined city. (Laughter)
+132.842	So the Major League Baseball rules
+133.998	are a little bit hazy,
+136.102	but — (Laughter) — under rule 6.02 and 5.09,
+140.987	I think that in this situation,
+142.596	the batter would be considered hit by pitch
+145.049	and would be eligible to take first base,
+147.683	if it still existed.
+150.886	So this is the kind of question I answer,
+152.682	and I get people writing in with
+154.821	a lot of other strange questions.
+156.695	I've had someone write and say,
+159.242	scientifically speaking, what is the best
+161.161	and fastest way to hide a body?
+163.231	Can you do this one soon?
+165.453	And I had someone write in,
+167.313	I've had people write in about,
+169.328	can you prove whether or not you can find love again
+171.532	after your heart's broken?
+173.204	And I've had people send in
+174.979	what are clearly homework questions
+176.97	they're trying to get me to do for them.
+180.113	But one week, a couple months ago,
+183.018	I got a question that was actually about Google.
+186.679	If all digital data in the world
+186.679	were stored on punch cards,
+189.645	how big would Google's data warehouse be?
+192.324	Now, Google's pretty secretive
+192.324	about their operations,
+195.046	so no one really knows how much data Google has,
+198.422	and in fact, no one really knows
+198.422	how many data centers Google has,
+200.937	except people at Google itself.
+203.428	And I've tried, I've met them a few times,
+204.662	tried asking them, and they
+204.662	aren't revealing anything.
+209.885	So I decided to try to figure this out myself.
+212.42	There are a few things that I looked at here.
+214.579	I started with money.
+216.485	Google has to reveal how much they spend,
+218.627	in general, and that lets you put some caps
+220.617	on how many data centers could they be building,
+224.403	because a big data center costs
+224.403	a certain amount of money.
+226.703	And you can also then put a cap on
+229.135	how much of the world hard
+229.135	drive market are they taking up,
+231.466	which turns out, it's pretty sizable.
+233.418	I read a calculation at one point,
+235.355	I think Google has a drive failure
+236.82	about every minute or two,
+240.074	and they just throw out the hard drive
+241.424	and swap in a new one.
+242.81	So they go through a huge number of them.
+245.01	And so by looking at money,
+246.121	you can get an idea of how
+246.121	many of these centers they have.
+248.97	You can also look at power.
+250.83	You can look at how much electricity they need,
+254.727	because you need a certain amount
+254.727	of electricity to run the servers,
+256.534	and Google is more efficient than most,
+258.573	but they still have some basic requirements,
+261.67	and that lets you put a limit
+263.586	on the number of servers that they have.
+265.533	You can also look at square footage and see
+269.724	of the data centers that you know,
+271	how big are they?
+272.353	How much room is that?
+273.275	How many server racks could you fit in there?
+275.635	And for some data centers,
+277.338	you might get two of these pieces of information.
+279.327	You know how much they spent,
+281.023	and they also, say, because they had to contract
+283.38	with the local government
+284.799	to get the power provided,
+286.479	you might know what they made a deal to buy,
+289.136	so you know how much power it takes.
+290.89	Then you can look at the ratios of those numbers,
+293.184	and figure out for a data center
+294.713	where you don't have that information,
+296.349	you can figure out,
+297.441	but maybe you only have one of those,
+299.628	you know the square footage,
+299.628	then you could figure out
+301.307	well, maybe the power is proportional.
+303.63	And you can do this same thing
+303.63	with a lot of different quantities,
+305.95	you know, with guesses about
+305.95	the total amount of storage,
+308.026	the number of servers, the
+308.026	number of drives per server,
+310.619	and in each case using what you know
+313.666	to come up with a model that narrows down
+316.193	your guesses for the things that you don't know.
+318.323	It's sort of circling around the
+318.323	number you're trying to get.
+320.588	And this is a lot of fun.
+323.143	The math is not all that advanced,
+325.325	and really it's like nothing more than
+328.46	solving a sudoku puzzle.
+330.472	So what I did, I went through all of this information,
+335.781	spent a day or two researching.
+337.54	And there are some things I didn't look at.
+339.579	You could always look at the Google
+342.622	recruitment messages that they post.
+344.439	That gives you an idea of where they have people.
+346.377	Sometimes, when people visit a data center,
+347.988	they'll take a cell-cam photo and post it,
+349.833	and they aren't supposed to,
+351.323	but you can learn things about
+351.323	their hardware that way.
+354.136	And in fact, you can just
+354.136	look at pizza delivery drivers.
+356.689	Turns out, they know where all
+356.689	the Google data centers are,
+359.344	at least the ones that have people in them.
+362.22	But I came up with my estimate,
+364.405	which I felt pretty good about,
+366.269	that was about 10 exabytes of data
+369.518	across all of Google's operations,
+371.94	and then another maybe five exabytes or so
+375.372	of offline storage in tape drives,
+377.417	which it turns out Google is
+378.992	about the world's largest consumer of.
+381.502	So I came up with this estimate, and this is
+385.063	a staggering amount of data.
+386.306	It's quite a bit more than any other organization
+389.18	in the world has, as far as we know.
+390.927	There's a couple of other contenders,
+392.673	especially everyone always thinks of the NSA.
+395.017	But using some of these same methods,
+396.446	we can look at the NSA's data centers,
+398.469	and figure out, you know, we
+398.469	don't know what's going on there,
+400.951	but it's pretty clear that their operation
+403.041	is not the size of Google's.
+404.638	Adding all of this up, I came up with
+406.377	the other thing that we can answer, which is,
+408.273	how many punch cards would this take?
+410.258	And so a punch card can hold
+413.216	about 80 characters,
+415.207	and you can fit about 2,000 or so cards into a box,
+418.98	and you put them in, say,
+420.254	my home region of New England,
+422.206	it would cover the entire region
+424.546	up to a depth of a little less than five kilometers,
+428.02	which is about three times deeper
+429.463	than the glaciers during the last ice age
+431.862	about 20,000 years ago.
+434.03	So this is impractical, but I think
+436.453	that's about the best answer I could come up with.
+439.404	And I posted it on my website. I wrote it up.
+441.542	And I didn't expect to get an answer from Google,
+445.232	because of course they've been so secretive,
+446.863	they didn't answer of my questions,
+448.267	and so I just put it up and said,
+449.774	well, I guess we'll never know.
+451.297	But then a little while later
+453.321	I got a message, a couple weeks later, from Google,
+455.77	saying, hey, someone here has an envelope for you.
+459.212	So I go and get it, open it up,
+462.013	and it's punch cards. (Laughter)
+464.54	Google-branded punch cards.
+467.622	And on these punch cards,
+467.622	there are a bunch of holes,
+470.87	and I said, thank you, thank you,
+472.171	okay, so what's on here?
+473.69	So I get some software and start reading it,
+475.32	and scan them, and it turns out
+477.32	it's a puzzle.
+478.689	There's a bunch of code,
+480.327	and I get some friends to help,
+481.581	and we crack the code, and then
+481.581	inside that is another code,
+484.133	and then there are some equations,
+485.428	and then we solve those equations,
+486.599	and then finally out pops a message from Google
+490.07	which is their official answer to my article,
+493.259	"and it said, ""No comment."""
+495.711	(Laughter) (Applause)
+506.292	And I love calculating these kinds of things,
+509.509	and it's not that I love doing the math.
+511.224	I do a lot of math,
+512.789	but I don't really like math for its own sake.
+515.865	What I love is that it lets you take
+517.815	some things that you know,
+519.215	and just by moving symbols
+519.215	around on a piece of paper,
+523.993	find out something that you didn't know
+525.69	that's very surprising.
+527.87	And I have a lot of stupid questions,
+529.546	and I love that math gives the power
+531.349	to answer them sometimes.
+534.106	And sometimes not.
+535.633	This is a question I got from a reader,
+538.557	an anonymous reader,
+539.73	"and the subject line just said, ""Urgent,"""
+541.775	and this was the entire email:
+543.704	"""If people had wheels and could fly,"
+546.466	"how would we differentiate them from airplanes?"""
+549.162	Urgent. (Laughter)
+551.837	And I think there are some questions
+555.19	that math just cannot answer.
+557.86	Thank you.
+560.331	(Applause)

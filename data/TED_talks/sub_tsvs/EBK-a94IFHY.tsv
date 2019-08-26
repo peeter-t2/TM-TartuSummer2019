@@ -1,0 +1,526 @@
+startsecond	text
+12.532	This is Lee Sedol.
+14.108	Lee Sedol is one of the world's
+14.108	greatest Go players,
+18.129	and he's having what my friends
+18.129	in Silicon Valley call
+21.038	"a ""Holy Cow"" moment --"
+22.572	(Laughter)
+23.669	a moment where we realize
+25.881	that AI is actually progressing
+25.881	a lot faster than we expected.
+29.974	So humans have lost on the Go board.
+29.974	What about the real world?
+33.045	Well, the real world is much bigger,
+35.169	much more complicated than the Go board.
+37.442	It's a lot less visible,
+39.285	but it's still a decision problem.
+42.768	And if we think about some
+42.768	of the technologies
+45.113	that are coming down the pike ...
+47.558	Noriko [Arai] mentioned that reading
+47.558	is not yet happening in machines,
+51.917	at least with understanding.
+53.441	But that will happen,
+55.001	and when that happens,
+56.796	very soon afterwards,
+58.007	machines will have read everything
+58.007	that the human race has ever written.
+63.67	And that will enable machines,
+65.724	along with the ability to look
+65.724	further ahead than humans can,
+68.668	as we've already seen in Go,
+70.372	if they also have access
+70.372	to more information,
+72.56	they'll be able to make better decisions
+72.56	in the real world than we can.
+78.612	So is that a good thing?
+81.718	Well, I hope so.
+86.514	Our entire civilization,
+86.514	everything that we value,
+89.793	is based on our intelligence.
+91.885	And if we had access
+91.885	to a lot more intelligence,
+95.603	then there's really no limit
+95.603	to what the human race can do.
+100.485	And I think this could be,
+100.485	as some people have described it,
+103.834	the biggest event in human history.
+108.485	So why are people saying things like this,
+111.338	that AI might spell the end
+111.338	of the human race?
+115.258	Is this a new thing?
+116.941	Is it just Elon Musk and Bill Gates
+116.941	and Stephen Hawking?
+121.773	Actually, no. This idea
+121.773	has been around for a while.
+125.059	Here's a quotation:
+127.045	"""Even if we could keep the machines"
+127.045	in a subservient position,
+131.419	for instance, by turning off the power
+131.419	"at strategic moments"" --"
+134.427	and I'll come back to that
+134.427	"""turning off the power"" idea later on --"
+137.688	"""we should, as a species,"
+137.688	"feel greatly humbled."""
+141.997	So who said this?
+141.997	This is Alan Turing in 1951.
+146.12	Alan Turing, as you know,
+146.12	is the father of computer science
+148.907	and in many ways,
+148.907	the father of AI as well.
+153.059	So if we think about this problem,
+154.965	the problem of creating something
+154.965	more intelligent than your own species,
+158.776	"we might call this ""the gorilla problem,"""
+162.165	because gorillas' ancestors did this
+162.165	a few million years ago,
+165.939	and now we can ask the gorillas:
+168.572	Was this a good idea?
+169.756	So here they are having a meeting
+169.756	to discuss whether it was a good idea,
+173.31	and after a little while,
+173.31	they conclude, no,
+176.68	this was a terrible idea.
+178.049	Our species is in dire straits.
+180.358	In fact, you can see the existential
+180.358	sadness in their eyes.
+184.645	(Laughter)
+186.309	So this queasy feeling that making
+186.309	something smarter than your own species
+191.173	is maybe not a good idea --
+194.308	what can we do about that?
+195.823	Well, really nothing,
+195.823	except stop doing AI,
+200.614	and because of all
+200.614	the benefits that I mentioned
+203.148	and because I'm an AI researcher,
+204.888	I'm not having that.
+207.103	I actually want to be able
+207.103	to keep doing AI.
+210.435	So we actually need to nail down
+210.435	the problem a bit more.
+213.137	What exactly is the problem?
+214.532	Why is better AI possibly a catastrophe?
+219.218	So here's another quotation:
+221.755	"""We had better be quite sure"
+221.755	that the purpose put into the machine
+225.114	"is the purpose which we really desire."""
+228.102	This was said by Norbert Wiener in 1960,
+231.624	shortly after he watched
+231.624	one of the very early learning systems
+235.65	learn to play checkers
+235.65	better than its creator.
+240.422	But this could equally have been said
+243.129	by King Midas.
+244.903	"King Midas said, ""I want everything"
+244.903	"I touch to turn to gold,"""
+248.061	and he got exactly what he asked for.
+250.558	That was the purpose
+250.558	that he put into the machine,
+253.333	so to speak,
+254.807	and then his food and his drink
+254.807	and his relatives turned to gold
+258.275	and he died in misery and starvation.
+262.264	So we'll call this
+262.264	"""the King Midas problem"""
+264.629	of stating an objective
+264.629	which is not, in fact,
+267.958	truly aligned with what we want.
+270.395	In modern terms, we call this
+270.395	"""the value alignment problem."""
+276.867	Putting in the wrong objective
+276.867	is not the only part of the problem.
+280.376	There's another part.
+281.98	If you put an objective into a machine,
+283.947	even something as simple as,
+283.947	"""Fetch the coffee,"""
+287.728	the machine says to itself,
+290.553	"""Well, how might I fail"
+290.553	to fetch the coffee?
+293.2	Someone might switch me off.
+295.465	OK, I have to take steps to prevent that.
+297.876	I will disable my 'off' switch.
+300.354	I will do anything to defend myself
+300.354	against interference
+303.337	with this objective
+303.337	"that I have been given."""
+305.99	So this single-minded pursuit
+309.033	in a very defensive mode
+309.033	of an objective that is, in fact,
+312.002	not aligned with the true objectives
+312.002	of the human race --
+315.942	that's the problem that we face.
+318.827	And in fact, that's the high-value
+318.827	takeaway from this talk.
+323.618	If you want to remember one thing,
+325.697	it's that you can't fetch
+325.697	the coffee if you're dead.
+328.396	(Laughter)
+329.481	It's very simple. Just remember that.
+329.481	Repeat it to yourself three times a day.
+333.334	(Laughter)
+335.179	And in fact, this is exactly the plot
+337.957	"of ""2001: [A Space Odyssey]"""
+341.046	HAL has an objective, a mission,
+343.16	which is not aligned
+343.16	with the objectives of the humans,
+346.916	and that leads to this conflict.
+349.314	Now fortunately, HAL
+349.314	is not superintelligent.
+352.307	He's pretty smart,
+352.307	but eventually Dave outwits him
+355.918	and manages to switch him off.
+361.648	But we might not be so lucky.
+368.013	So what are we going to do?
+372.191	I'm trying to redefine AI
+374.816	to get away from this classical notion
+376.901	of machines that intelligently
+376.901	pursue objectives.
+382.532	There are three principles involved.
+384.354	The first one is a principle
+384.354	of altruism, if you like,
+387.667	that the robot's only objective
+390.953	is to maximize the realization
+390.953	of human objectives,
+395.223	of human values.
+396.637	And by values here I don't mean
+396.637	touchy-feely, goody-goody values.
+399.991	I just mean whatever it is
+399.991	that the human would prefer
+403.802	their life to be like.
+407.184	And so this actually violates Asimov's law
+409.517	that the robot has to protect
+409.517	its own existence.
+411.87	It has no interest in preserving
+411.87	its existence whatsoever.
+417.24	The second law is a law
+417.24	of humility, if you like.
+421.794	And this turns out to be really
+421.794	important to make robots safe.
+425.561	It says that the robot does not know
+428.727	what those human values are,
+430.779	so it has to maximize them,
+430.779	but it doesn't know what they are.
+435.074	And that avoids this problem
+435.074	of single-minded pursuit
+437.724	of an objective.
+438.96	This uncertainty turns out to be crucial.
+441.546	Now, in order to be useful to us,
+443.209	it has to have some idea of what we want.
+447.043	It obtains that information primarily
+447.043	by observation of human choices,
+452.494	so our own choices reveal information
+455.319	about what it is that we prefer
+455.319	our lives to be like.
+460.452	So those are the three principles.
+462.159	Let's see how that applies
+462.159	to this question of:
+464.501	"""Can you switch the machine off?"""
+464.501	as Turing suggested.
+468.893	So here's a PR2 robot.
+471.037	This is one that we have in our lab,
+472.882	"and it has a big red ""off"" switch"
+472.882	right on the back.
+476.361	The question is: Is it
+476.361	going to let you switch it off?
+479	If we do it the classical way,
+480.489	"we give it the objective of, ""Fetch"
+480.489	the coffee, I must fetch the coffee,
+483.995	"I can't fetch the coffee if I'm dead,"""
+486.599	so obviously the PR2
+486.599	has been listening to my talk,
+489.964	and so it says, therefore,
+489.964	"""I must disable my 'off' switch,"
+494.796	and probably taser all the other
+494.796	people in Starbucks
+497.514	"who might interfere with me."""
+499.098	(Laughter)
+501.184	So this seems to be inevitable, right?
+503.361	This kind of failure mode
+503.361	seems to be inevitable,
+505.783	and it follows from having
+505.783	a concrete, definite objective.
+510.632	So what happens if the machine
+510.632	is uncertain about the objective?
+513.8	Well, it reasons in a different way.
+515.951	"It says, ""OK, the human"
+515.951	might switch me off,
+518.964	but only if I'm doing something wrong.
+521.567	Well, I don't really know what wrong is,
+524.066	"but I know that I don't want to do it."""
+526.134	So that's the first and second
+526.134	principles right there.
+529.168	"""So I should let the human switch me off."""
+533.541	And in fact you can calculate
+533.541	the incentive that the robot has
+537.521	to allow the human to switch it off,
+540.038	and it's directly tied to the degree
+541.976	of uncertainty about
+541.976	the underlying objective.
+545.797	And then when the machine is switched off,
+548.77	that third principle comes into play.
+550.599	It learns something about the objectives
+550.599	it should be pursuing,
+553.685	because it learns that
+553.685	what it did wasn't right.
+556.242	In fact, we can, with suitable use
+556.242	of Greek symbols,
+559.836	as mathematicians usually do,
+561.991	we can actually prove a theorem
+563.999	that says that such a robot
+563.999	is provably beneficial to the human.
+567.576	You are provably better off
+567.576	with a machine that's designed in this way
+571.403	than without it.
+573.057	So this is a very simple example,
+573.057	but this is the first step
+575.987	in what we're trying to do
+575.987	with human-compatible AI.
+582.477	Now, this third principle,
+585.758	I think is the one that you're probably
+585.758	scratching your head over.
+588.894	"You're probably thinking, ""Well,"
+588.894	you know, I behave badly.
+592.157	I don't want my robot to behave like me.
+595.11	I sneak down in the middle of the night
+595.11	and take stuff from the fridge.
+598.568	"I do this and that."""
+599.76	There's all kinds of things
+599.76	you don't want the robot doing.
+602.581	But in fact, it doesn't
+602.581	quite work that way.
+604.676	Just because you behave badly
+606.855	doesn't mean the robot
+606.855	is going to copy your behavior.
+609.502	It's going to understand your motivations
+609.502	and maybe help you resist them,
+613.436	if appropriate.
+616.026	But it's still difficult.
+618.122	What we're trying to do, in fact,
+620.691	is to allow machines to predict
+620.691	for any person and for any possible life
+626.511	that they could live,
+627.696	and the lives of everybody else:
+629.317	Which would they prefer?
+633.881	And there are many, many
+633.881	difficulties involved in doing this;
+636.859	I don't expect that this
+636.859	is going to get solved very quickly.
+639.815	The real difficulties, in fact, are us.
+643.969	As I have already mentioned,
+643.969	we behave badly.
+647.11	In fact, some of us are downright nasty.
+650.251	Now the robot, as I said,
+650.251	doesn't have to copy the behavior.
+653.327	The robot does not have
+653.327	any objective of its own.
+656.142	It's purely altruistic.
+659.113	And it's not designed just to satisfy
+659.113	the desires of one person, the user,
+664.358	but in fact it has to respect
+664.358	the preferences of everybody.
+669.083	So it can deal with a certain
+669.083	amount of nastiness,
+671.677	and it can even understand
+671.677	that your nastiness, for example,
+675.402	you may take bribes as a passport official
+678.097	because you need to feed your family
+678.097	and send your kids to school.
+681.933	It can understand that;
+681.933	it doesn't mean it's going to steal.
+684.863	In fact, it'll just help you
+684.863	send your kids to school.
+688.796	We are also computationally limited.
+691.832	Lee Sedol is a brilliant Go player,
+694.361	but he still lost.
+695.71	So if we look at his actions,
+695.71	he took an action that lost the game.
+699.973	That doesn't mean he wanted to lose.
+703.16	So to understand his behavior,
+705.224	we actually have to invert
+705.224	through a model of human cognition
+708.892	that includes our computational
+708.892	limitations -- a very complicated model.
+713.893	But it's still something
+713.893	that we can work on understanding.
+717.696	Probably the most difficult part,
+717.696	from my point of view as an AI researcher,
+722.04	is the fact that there are lots of us,
+726.114	and so the machine has to somehow
+726.114	trade off, weigh up the preferences
+729.719	of many different people,
+731.968	and there are different ways to do that.
+733.898	Economists, sociologists,
+733.898	moral philosophers have understood that,
+737.611	and we are actively
+737.611	looking for collaboration.
+740.09	Let's have a look and see what happens
+740.09	when you get that wrong.
+743.365	So you can have
+743.365	a conversation, for example,
+745.522	with your intelligent personal assistant
+747.49	that might be available
+747.49	in a few years' time.
+749.799	Think of a Siri on steroids.
+753.447	"So Siri says, ""Your wife called"
+753.447	"to remind you about dinner tonight."""
+758.436	And of course, you've forgotten.
+758.436	"""What? What dinner?"
+760.968	"What are you talking about?"""
+762.417	"""Uh, your 20th anniversary at 7pm."""
+768.735	"""I can't do that. I'm meeting"
+768.735	with the secretary-general at 7:30.
+772.478	"How could this have happened?"""
+774.194	"""Well, I did warn you, but you overrode"
+774.194	"my recommendation."""
+779.966	"""Well, what am I going to do?"
+779.966	"I can't just tell him I'm too busy."""
+784.31	"""Don't worry. I arranged"
+784.31	"for his plane to be delayed."""
+787.615	(Laughter)
+790.069	"""Some kind of computer malfunction."""
+792.194	(Laughter)
+793.43	"""Really? You can do that?"""
+796.22	"""He sends his profound apologies"
+798.423	and looks forward to meeting you
+798.423	"for lunch tomorrow."""
+801.002	(Laughter)
+802.325	So the values here --
+802.325	there's a slight mistake going on.
+806.752	This is clearly following my wife's values
+809.785	"which is ""Happy wife, happy life."""
+811.878	(Laughter)
+813.485	It could go the other way.
+815.641	You could come home
+815.641	after a hard day's work,
+817.866	"and the computer says, ""Long day?"""
+820.085	"""Yes, I didn't even have time for lunch."""
+822.397	"""You must be very hungry."""
+823.703	"""Starving, yeah."
+823.703	"Could you make some dinner?"""
+827.89	"""There's something I need to tell you."""
+830.004	(Laughter)
+832.013	"""There are humans in South Sudan"
+832.013	"who are in more urgent need than you."""
+836.942	(Laughter)
+838.07	"""So I'm leaving. Make your own dinner."""
+840.169	(Laughter)
+842.643	So we have to solve these problems,
+844.406	and I'm looking forward
+844.406	to working on them.
+846.945	There are reasons for optimism.
+848.812	One reason is,
+849.995	there is a massive amount of data.
+851.887	Because remember -- I said
+851.887	they're going to read everything
+854.705	the human race has ever written.
+856.275	Most of what we write about
+856.275	is human beings doing things
+859.023	and other people getting upset about it.
+860.961	So there's a massive amount
+860.961	of data to learn from.
+863.383	There's also a very
+863.383	strong economic incentive
+867.151	to get this right.
+868.361	So imagine your domestic robot's at home.
+870.386	You're late from work again
+870.386	and the robot has to feed the kids,
+873.477	and the kids are hungry
+873.477	and there's nothing in the fridge.
+876.324	And the robot sees the cat.
+878.953	(Laughter)
+880.669	And the robot hasn't quite learned
+880.669	the human value function properly,
+884.883	so it doesn't understand
+886.158	the sentimental value of the cat outweighs
+886.158	the nutritional value of the cat.
+891.026	(Laughter)
+892.145	So then what happens?
+893.917	Well, it happens like this:
+897.238	"""Deranged robot cooks kitty"
+897.238	"for family dinner."""
+900.226	That one incident would be the end
+900.226	of the domestic robot industry.
+904.773	So there's a huge incentive
+904.773	to get this right
+908.169	long before we reach
+908.169	superintelligent machines.
+911.948	So to summarize:
+913.507	I'm actually trying to change
+913.507	the definition of AI
+916.412	so that we have provably
+916.412	beneficial machines.
+919.429	And the principles are:
+920.675	machines that are altruistic,
+922.097	that want to achieve only our objectives,
+924.925	but that are uncertain
+924.925	about what those objectives are,
+928.065	and will watch all of us
+930.087	to learn more about what it is
+930.087	that we really want.
+934.193	And hopefully in the process,
+934.193	we will learn to be better people.
+937.776	Thank you very much.
+938.991	(Applause)
+942.724	Chris Anderson: So interesting, Stuart.
+944.616	We're going to stand here a bit
+944.616	because I think they're setting up
+947.81	for our next speaker.
+948.985	A couple of questions.
+950.547	So the idea of programming in ignorance
+950.547	seems intuitively really powerful.
+956.024	As you get to superintelligence,
+957.642	what's going to stop a robot
+959.924	reading literature and discovering
+959.924	this idea that knowledge
+962.8	is actually better than ignorance
+964.396	and still just shifting its own goals
+964.396	and rewriting that programming?
+969.512	Stuart Russell: Yes, so we want
+969.512	it to learn more, as I said,
+975.892	about our objectives.
+977.203	It'll only become more certain
+977.203	as it becomes more correct,
+982.748	so the evidence is there
+984.717	and it's going to be designed
+984.717	to interpret it correctly.
+987.465	It will understand, for example,
+987.465	that books are very biased
+991.445	in the evidence they contain.
+992.952	They only talk about kings and princes
+995.373	and elite white male people doing stuff.
+998.197	So it's a complicated problem,
+1000.317	but as it learns more about our objectives
+1004.213	it will become more and more useful to us.
+1006.3	CA: And you couldn't
+1006.3	just boil it down to one law,
+1008.85	you know, hardwired in:
+1010.524	"""if any human ever tries to switch me off,"
+1013.841	"I comply. I comply."""
+1015.8	SR: Absolutely not.
+1017.006	That would be a terrible idea.
+1018.529	So imagine that you have
+1018.529	a self-driving car
+1021.242	and you want to send your five-year-old
+1023.699	off to preschool.
+1024.897	Do you want your five-year-old
+1024.897	to be able to switch off the car
+1028.022	while it's driving along?
+1029.259	Probably not.
+1030.442	So it needs to understand how rational
+1030.442	and sensible the person is.
+1035.169	The more rational the person,
+1036.869	the more willing you are
+1036.869	to be switched off.
+1038.996	If the person is completely
+1038.996	random or even malicious,
+1041.563	then you're less willing
+1041.563	to be switched off.
+1044.099	CA: All right. Stuart, can I just say,
+1045.989	I really, really hope you
+1045.989	figure this out for us.
+1048.327	Thank you so much for that talk.
+1048.327	That was amazing.
+1050.726	SR: Thank you.
+1051.917	(Applause)

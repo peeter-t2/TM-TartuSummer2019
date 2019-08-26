@@ -1,0 +1,288 @@
+startsecond	text
+12.446	I am a neuroscientist
+14.071	with a mixed background in physics and medicine.
+17.882	My lab at the Swiss Federal Institute of Technology
+22.923	focuses on spinal cord injury,
+26.113	which affects more than 50,000 people
+28.844	around the world every year,
+31.534	with dramatic consequences for affected individuals,
+35.14	whose life literally shatters
+37.373	in a matter of a handful of seconds.
+40.608	And for me, the Man of Steel,
+43.666	Christopher Reeve,
+45.87	has best raised the awareness
+47.96	on the distress of spinal cord injured people.
+50.875	And this is how I started my own personal journey
+54.014	in this field of research,
+55.513	working with the Christopher and Dana Reeve Foundation.
+58.95	I still remember this decisive moment.
+63.546	It was just at the end of a regular day of work
+65.497	with the foundation.
+67.04	Chris addressed us, the scientists and experts,
+71.692	"""You have to be more pragmatic."
+75.285	When leaving your laboratory tomorrow,
+77.637	I want you to stop by the rehabilitation center
+80.541	to watch injured people
+82.15	fighting to take a step,
+84.175	struggling to maintain their trunk.
+86.816	And when you go home,
+88.229	think of what you are going to change in your research
+90.639	"on the following day to make their lives better."""
+94.207	These words, they stuck with me.
+98.26	This was more than 10 years ago,
+100.651	but ever since, my laboratory has followed
+103.418	the pragmatic approach to recovery
+105.381	after spinal cord injury.
+107.792	And my first step in this direction
+109.833	was to develop a new model of spinal cord injury
+113.122	that would more closely mimic some of the key features of human injury
+116.769	while offering well-controlled experimental conditions.
+120.141	And for this purpose, we placed two hemisections
+122.708	on opposite sides of the body.
+124.123	They completely interrupt the communication
+126.268	between the brain and the spinal cord,
+128.85	thus leading to complete and permanent paralysis
+131.56	of the leg.
+133.327	But, as observed, after most injuries in humans,
+137.218	there is this intervening gap of intact neural tissue
+140.168	through which recovery can occur.
+142.871	But how to make it happen?
+145.912	Well, the classical approach
+149.273	consists of applying intervention
+151.909	that would promote the growth of the severed fiber
+154.819	to the original target.
+156.927	And while this certainly remained the key for a cure,
+160.678	this seemed extraordinarily complicated to me.
+164.193	To reach clinical fruition rapidly,
+166.918	it was obvious:
+168.478	I had to think about the problem differently.
+172.398	It turned out that more than 100 years of research
+175.506	on spinal cord physiology,
+177.147	starting with the Nobel Prize Sherrington,
+179.472	had shown that
+181.279	the spinal cord, below most injuries,
+183.514	contained all the necessary and sufficient neural networks
+186.767	to coordinate locomotion,
+189.087	but because input from the brain is interrupted,
+192.046	they are in a nonfunctional state, like kind of dormant.
+195.214	My idea: We awaken this network.
+199.546	And at the time, I was a post-doctoral fellow in Los Angeles,
+203.833	after completing my Ph.D. in France,
+206.399	where independent thinking
+208.308	is not necessarily promoted.
+211.415	(Laughter)
+213.242	I was afraid to talk to my new boss,
+216.995	but decided to muster up my courage.
+219.388	I knocked at the door of my wonderful advisor,
+222.045	Reggie Edgerton, to share my new idea.
+226.036	He listened to me carefully,
+228.286	and responded with a grin.
+231.227	"""Why don't you try?"""
+233.27	And I promise to you,
+235.395	this was such an important moment in my career,
+238.75	when I realized that the great leader
+241.185	believed in young people and new ideas.
+244.178	And this was the idea:
+245.786	I'm going to use a simplistic metaphor
+248.452	to explain to you this complicated concept.
+250.578	Imagine that the locomotor system is a car.
+255.344	The engine is the spinal cord.
+257.59	The transmission is interrupted. The engine is turned off.
+260.848	How could we re-engage the engine?
+263.855	First, we have to provide the fuel;
+266.997	second, press the accelerator pedal;
+269.34	third, steer the car.
+271.278	It turned out that there are known neural pathways
+273.04	coming from the brain that play this very function
+275.994	during locomotion.
+277.376	My idea: Replace this missing input
+280.091	to provide the spinal cord
+281.493	with the kind of intervention
+282.889	that the brain would deliver naturally in order to walk.
+287.619	For this, I leveraged 20 years of past research in neuroscience,
+292.058	first to replace the missing fuel
+294.822	with pharmacological agents
+296.89	that prepare the neurons in the spinal cord to fire,
+300.37	and second, to mimic the accelerator pedal
+304.425	with electrical stimulation.
+305.905	So here imagine an electrode
+308.074	implanted on the back of the spinal cord
+310.48	to deliver painless stimulation.
+312.742	It took many years, but eventually we developed
+315.574	an electrochemical neuroprosthesis
+318.131	that transformed the neural network
+319.897	in the spinal cord from dormant to a highly functional state.
+324.903	Immediately, the paralyzed rat can stand.
+331.183	As soon as the treadmill belt starts moving,
+333.51	the animal shows coordinated movement of the leg,
+337.316	but without the brain.
+339.294	"Here what I call ""the spinal brain"""
+341.284	cognitively processes sensory information
+344.406	arising from the moving leg
+346.301	and makes decisions as to how to activate the muscle
+349.996	in order to stand, to walk, to run,
+353.386	and even here, while sprinting,
+355.498	instantly stand
+357.795	if the treadmill stops moving.
+360.258	This was amazing.
+361.595	I was completely fascinated by this locomotion
+364.982	without the brain,
+367.477	but at the same time so frustrated.
+371.132	This locomotion was completely involuntary.
+373.525	The animal had virtually no control over the legs.
+376.89	Clearly, the steering system was missing.
+381.01	And it then became obvious from me
+382.902	that we had to move away
+384.25	from the classical rehabilitation paradigm,
+387.622	stepping on a treadmill,
+389.344	and develop conditions that would encourage
+392.564	the brain to begin voluntary control over the leg.
+397.797	With this in mind, we developed a completely new
+401.182	robotic system to support the rat
+404.412	in any direction of space.
+406.938	Imagine, this is really cool.
+409.113	So imagine the little 200-gram rat
+412.944	attached at the extremity of this 200-kilo robot,
+416.645	but the rat does not feel the robot.
+419.217	The robot is transparent,
+421.289	just like you would hold a young child
+423.651	during the first insecure steps.
+426.015	Let me summarize: The rat received
+429.569	a paralyzing lesion of the spinal cord.
+432.014	The electrochemical neuroprosthesis enabled
+434.604	a highly functional state of the spinal locomotor networks.
+438.811	The robot provided the safe environment
+442.577	to allow the rat to attempt anything
+444.54	to engage the paralyzed legs.
+447.222	And for motivation, we used what I think
+450.047	is the most powerful pharmacology of Switzerland:
+453.881	fine Swiss chocolate.
+456.188	(Laughter)
+459.11	Actually, the first results were very, very,
+463.673	very disappointing.
+466.308	Here is my best physical therapist
+476.794	completely failing to encourage the rat
+479.384	to take a single step,
+481.445	whereas the same rat, five minutes earlier,
+484.291	walked beautifully on the treadmill.
+486.597	We were so frustrated.
+488.754	But you know, one of the most essential qualities
+491.653	of a scientist is perseverance.
+494.129	We insisted. We refined our paradigm,
+497.545	and after several months of training,
+499.808	the otherwise paralyzed rat could stand,
+503.614	and whenever she decided,
+505.426	initiated full weight-bearing locomotion
+507.758	to sprint towards the rewards.
+511.008	This is the first recovery ever observed
+514.413	of voluntary leg movement
+516.307	after an experimental lesion of the spinal cord
+518.761	leading to complete and permanent paralysis.
+522.222	In fact --
+524.209	(Applause)
+525.929	Thank you.
+530.308	In fact, not only could the rat initiate
+533.402	and sustain locomotion on the ground,
+536.079	they could even adjust leg movement,
+538.36	for example, to resist gravity
+540.716	in order to climb a staircase.
+543.34	I can promise you this was
+545.29	such an emotional moment in my laboratory.
+548.399	It took us 10 years of hard work
+551.142	to reach this goal.
+553.593	But the remaining question was, how?
+556.144	I mean, how is it possible?
+557.836	And here, what we found
+559.514	was completely unexpected.
+563.19	This novel training paradigm
+567.348	encouraged the brain to create new connections,
+571.019	some relay circuits
+573.921	that relay information from the brain
+576.969	past the injury and restore cortical control
+580.125	over the locomotor networks below the injury.
+583.566	And here, you can see one such example,
+586.488	where we label the fibers coming from the brain in red.
+589.851	This blue neuron is connected with the locomotor center,
+593.271	and what this constellation
+595.634	of synaptic contacts means
+597.985	is that the brain is reconnected with the locomotor center
+601.784	with only one relay neuron.
+605.782	But the remodeling was not restricted
+607.713	to the lesion area.
+608.8	It occurred throughout the central nervous system,
+612.089	including in the brain stem,
+614.407	where we observed up to 300-percent increase
+617.669	in the density of fibers coming from the brain.
+621.428	We did not aim to repair the spinal cord,
+624.955	yet we were able to promote
+627.552	one of the more extensive remodeling
+629.709	of axonal projections ever observed
+632.178	in the central nervous system of adult mammal
+634.439	after an injury.
+636.984	And there is a very important message
+642.053	hidden behind this discovery.
+646.496	They are the result of a young team
+649.718	of very talented people:
+652.11	physical therapists, neurobiologists, neurosurgeons,
+656.568	engineers of all kinds,
+658.767	who have achieved together
+660.558	what would have been impossible by single individuals.
+664.201	This is truly a trans-disciplinary team.
+667.284	They are working so close to each other
+669.472	that there is horizontal transfer of DNA.
+672.663	We are creating the next generation
+674.286	of M.D.'s and engineers
+676.527	capable of translating discoveries all the way
+678.971	from bench to bedside.
+681.643	And me?
+683.649	I am only the maestro who orchestrated this beautiful symphony.
+688.196	Now, I am sure you are all wondering, aren't you,
+694.999	will this help injured people?
+698.763	Me too, every day.
+702.655	The truth is that we don't know enough yet.
+706.068	This is certainly not a cure for spinal cord injury,
+710.292	but I begin to believe that this may lead
+713.026	to an intervention to improve recovery
+715.593	and people's quality of life.
+718.78	I would like you all
+721.269	to take a moment and dream with me.
+724.896	Imagine a person just suffered a spinal cord injury.
+730.791	After a few weeks of recovery,
+733.946	we will implant a programmable pump
+736.306	to deliver a personalized pharmacological cocktail
+739.339	directly to the spinal cord.
+741.781	At the same time, we will implant an electrode array,
+745.044	a sort of second skin
+747.151	covering the area of the spinal cord controlling leg movement,
+750.711	and this array is attached to an electrical pulse generator
+753.977	that delivers stimulations that are tailored
+756.439	to the person's needs.
+758.625	This defines a personalized electrochemical neuroprosthesis
+763.483	that will enable locomotion
+766.234	during training with a newly designed supporting system.
+770.281	And my hope is that after several months of training,
+773.564	there may be enough remodeling of residual connection
+775.727	to allow locomotion without the robot,
+779.396	maybe even without pharmacology or stimulation.
+783.174	My hope here is to be able to create
+785.708	the personalized condition
+787.973	to boost the plasticity of the brain
+790.636	and the spinal cord.
+792.167	And this is a radically new concept
+794.906	that may apply to other neurological disorders,
+798.199	"what I termed ""personalized neuroprosthetics,"""
+802.737	where by sensing and stimulating neural interfaces,
+805.761	I implanted throughout the nervous system,
+809.475	in the brain, in the spinal cord,
+812.816	even in peripheral nerves,
+815.572	based on patient-specific impairments.
+818.739	But not to replace the lost function, no --
+823.347	to help the brain help itself.
+826.538	And I hope this enticed your imagination,
+829.178	because I can promise to you
+831.074	this is not a matter of whether this revolution will occur,
+834.317	but when.
+836.109	And remember, we are only as great
+838.357	as our imagination, as big as our dream.
+841.942	Thank you.
+843.934	(Applause)

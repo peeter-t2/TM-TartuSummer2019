@@ -1,0 +1,374 @@
+startsecond	text
+12.713	I'm going to be showing some of the cybercriminals'
+14.345	latest and nastiest creations.
+16.807	So basically, please don't go and download
+19.715	any of the viruses that I show you.
+22.411	Some of you might be wondering what a cybersecurity specialist looks like,
+25.429	and I thought I'd give you a quick insight
+27.598	into my career so far.
+30.276	It's a pretty accurate description.
+32.777	This is what someone that specializes
+34.433	in malware and hacking looks like.
+36.853	So today, computer viruses and trojans,
+40.267	designed to do everything from stealing data
+43.147	to watching you in your webcam
+45.188	to the theft of billions of dollars.
+47.966	Some malicious code today goes as far
+50.161	as targeting power, utilities and infrastructure.
+54.304	Let me give you a quick snapshot
+56.265	of what malicious code is capable of today.
+58.879	Right now, every second, eight new users
+61.949	are joining the Internet.
+64.104	Today, we will see 250,000 individual new computer viruses.
+71.412	We will see 30,000 new infected websites.
+77.185	And, just to kind of tear down a myth here,
+79.271	lots of people think that when you get infected
+81.759	with a computer virus, it's because you went to a porn site.
+85.21	Right? Well, actually, statistically speaking,
+87.653	if you only visit porn sites, you're safer.
+90.778	People normally write that down, by the way. (Laughter)
+93.78	Actually, about 80 percent of these
+95.342	are small business websites getting infected.
+98.855	Today's cybercriminal, what do they look like?
+101.14	Well, many of you have the image, don't you,
+103.566	of the spotty teenager sitting in a basement,
+105.742	hacking away for notoriety.
+108.13	But actually today, cybercriminals
+109.753	are wonderfully professional and organized.
+113.064	In fact, they have product adverts.
+115.935	You can go online and buy a hacking service
+118.066	to knock your business competitor offline.
+120.215	Check out this one I found.
+121.774	(Video) Man: So you're here for one reason,
+123.593	and that reason is
+125.058	because you need your business competitors,
+126.97	rivals, haters, or whatever the reason is, or who,
+130.922	they are to go down.
+132.666	Well you, my friend, you've came to the right place.
+135.526	If you want your business competitors to go down,
+137.942	well, they can.
+139.278	If you want your rivals to go offline, well, they will.
+142.702	Not only that, we are providing a short-term-to-long-term
+145.729	DDOS service or scheduled attack,
+148.084	starting five dollars per hour for small personal websites
+151.895	to 10 to 50 dollars per hour.
+154.799	James Lyne: Now, I did actually pay
+156.122	one of these cybercriminals to attack my own website.
+158.915	Things got a bit tricky when I tried to expense it at the company.
+162.409	Turns out that's not cool.
+164.123	But regardless, it's amazing how many products
+167.133	and services are available now to cybercriminals.
+170.245	For example, this testing platform,
+172.721	which enables the cybercriminals
+174.436	to test the quality of their viruses
+176.918	before they release them on the world.
+179.37	For a small fee, they can upload it
+181.327	and make sure everything is good.
+182.993	But it goes further.
+184.526	Cybercriminals now have crime packs
+186.771	with business intelligence reporting dashboards
+189.89	to manage the distribution of their malicious code.
+193.366	This is the market leader in malware distribution,
+196.894	the Black Hole Exploit Pack,
+198.532	responsible for nearly one third of malware distribution
+202.191	in the last couple of quarters.
+204.165	It comes with technical installation guides,
+207.174	video setup routines,
+208.219	and get this, technical support.
+212.174	You can email the cybercriminals and they'll tell you
+214.562	how to set up your illegal hacking server.
+218.184	So let me show you what malicious code looks like today.
+222.468	What I've got here is two systems,
+224.78	an attacker, which I've made look all Matrix-y and scary,
+228.47	and a victim, which you might recognize from home or work.
+231.772	Now normally, these would be on different sides
+234.501	of the planet or of the Internet,
+237.056	but I've put them side by side
+238.452	because it makes things much more interesting.
+241.116	Now, there are many ways you can get infected.
+243.171	You will have come in contact with some of them.
+245.763	Maybe some of you have received an email
+247.859	"that says something like, ""Hi, I'm a Nigerian banker,"
+251.944	and I'd like to give you 53 billion dollars
+254.708	"because I like your face."""
+257.135	Or funnycats.exe, which rumor has it
+260.529	was quite successful in China's recent campaign against America.
+264.298	Now there are many ways you can get infected.
+266.728	I want to show you a couple of my favorites.
+268.715	This is a little USB key.
+271.375	Now how do you get a USB key to run in a business?
+273.532	Well, you could try looking really cute.
+277.657	Awww.
+279.595	Or, in my case, awkward and pathetic.
+281.958	So imagine this scenario: I walk into one of your businesses,
+286.147	looking very awkward and pathetic, with a copy of my C.V.
+288.989	which I've covered in coffee,
+290.888	and I ask the receptionist to plug in this USB key
+294.275	and print me a new one.
+296.224	So let's have a look here on my victim computer.
+299.454	What I'm going to do is plug in the USB key.
+302.7	After a couple of seconds,
+304.19	things start to happen on the computer on their own,
+306.941	usually a bad sign.
+308.876	This would, of course, normally happen
+310.57	in a couple of seconds, really, really quickly,
+313.328	but I've kind of slowed it down
+314.988	so you can actually see the attack occurring.
+317.818	Malware is very boring otherwise.
+320.335	So this is writing out the malicious code,
+322.932	and a few seconds later, on the left-hand side,
+326.729	you'll see the attacker's screen get some interesting new text.
+331.027	Now if I place the mouse cursor over it,
+332.958	this is what we call a command prompt,
+335.265	and using this we can navigate around the computer.
+339.062	We can access your documents, your data.
+341.221	You can turn on the webcam.
+342.722	That can be very embarrassing.
+344.351	Or just to really prove a point,
+346.074	we can launch programs like my personal favorite,
+349.195	the Windows Calculator.
+352	So isn't it amazing how much control
+354.288	the attackers can get with such a simple operation?
+357.183	Let me show you how most malware
+359.114	is now distributed today.
+361.297	What I'm going to do is open up a website
+363.817	that I wrote.
+365.133	It's a terrible website. It's got really awful graphics.
+369.448	And it's got a comments section here
+371.642	where we can submit comments to the website.
+375.323	Many of you will have used something a bit like this before.
+378.33	Unfortunately, when this was implemented,
+380.277	the developer was slightly inebriated
+382.702	and managed to forget
+383.944	all of the secure coding practices he had learned.
+386.933	So let's imagine that our attacker,
+389.999	called Evil Hacker just for comedy value,
+393.447	inserts something a little nasty.
+395.47	This is a script.
+397.169	It's code which will be interpreted on the webpage.
+401.246	So I'm going to submit this post,
+403.571	and then, on my victim computer,
+405.953	I'm going to open up the web browser
+407.98	and browse to my website,
+410.233	www.incrediblyhacked.com.
+414.022	Notice that after a couple of seconds,
+416.146	I get redirected.
+417.603	That website address at the top there,
+419.58	which you can just about see, microshaft.com,
+422.911	the browser crashes as it hits one of these exploit packs,
+426.104	and up pops fake antivirus.
+430.128	This is a virus pretending to look like antivirus software,
+435.184	and it will go through and it will scan the system,
+437.549	have a look at what its popping up here.
+439.057	It creates some very serious alerts.
+440.805	Oh look, a child porn proxy server.
+443.148	We really should clean that up.
+445.58	What's really insulting about this is
+447.164	not only does it provide the attackers with access to your data,
+451.402	but when the scan finishes, they tell you
+454.225	in order to clean up the fake viruses,
+457.348	you have to register the product.
+460.024	Now I liked it better when viruses were free.
+463.36	(Laughter)
+466.139	People now pay cybercriminals money
+468.665	to run viruses,
+470.766	which I find utterly bizarre.
+473.527	So anyway, let me change pace a little bit.
+477.063	Chasing 250,000 pieces of malware a day
+480.569	is a massive challenge,
+482.224	and those numbers are only growing
+484.294	directly in proportion to the length of my stress line, you'll note here.
+488.173	So I want to talk to you briefly
+490.049	about a group of hackers we tracked for a year
+493.099	and actually found --
+495.106	and this is a rare treat in our job.
+497.683	Now this was a cross-industry collaboration,
+500.166	people from Facebook, independent researchers,
+502.555	guys from Sophos.
+504.636	So here we have a couple of documents
+507.291	which our cybercriminals had uploaded
+510.117	to a cloud service, kind of like Dropbox or SkyDrive,
+514.494	like many of you might use.
+516.703	At the top, you'll notice a section of source code.
+520.095	What this would do is send the cybercriminals
+523.063	a text message every day telling them how much money
+528.103	they'd made that day,
+529.769	so a kind of cybercriminal billings report, if you will.
+533.065	If you look closely, you'll notice a series
+535.822	of what are Russian telephone numbers.
+538.805	Now that's obviously interesting,
+540.284	because that gives us a way of finding our cybercriminals.
+543.521	Down below, highlighted in red,
+545.636	in the other section of source code,
+547.387	"is this bit ""leded:leded."""
+550.13	That's a username,
+551.419	kind of like you might have on Twitter.
+554.278	So let's take this a little further.
+555.509	There are a few other interesting pieces
+557.767	the cybercriminals had uploaded.
+560.042	Lots of you here will use smartphones
+562.614	to take photos and post them from the conference.
+565.261	An interesting feature of lots of modern smartphones
+568.098	is that when you take a photo,
+569.765	it embeds GPS data about where that photo was taken.
+574.002	In fact, I've been spending a lot of time
+576.445	on Internet dating sites recently,
+578.689	obviously for research purposes,
+581.1	and I've noticed that about 60 percent
+584.621	of the profile pictures on Internet dating sites
+587.444	contain the GPS coordinates of where the photo was taken,
+591.895	which is kind of scary
+592.956	because you wouldn't give out your home address
+595.518	to lots of strangers,
+596.967	but we're happy to give away our GPS coordinates
+598.961	to plus or minus 15 meters.
+602.99	And our cybercriminals had done the same thing.
+606.224	So here's a photo which resolves to St. Petersburg.
+609.428	We then deploy the incredibly advanced hacking tool.
+613.114	We used Google.
+615.509	Using the email address, the telephone number
+617.734	and the GPS data, on the left you see an advert
+621.283	for a BMW that one of our cybercriminals is selling,
+624.952	on the other side an advert for the sale of sphynx kittens.
+630.3	One of these was more stereotypical for me.
+633.4	A little more searching, and here's our cybercriminal.
+637.389	Imagine, these are hardened cybercriminals
+640.935	sharing information scarcely.
+642.803	Imagine what you could find
+643.951	about each of the people in this room.
+645.654	A bit more searching through the profile
+647.46	and there's a photo of their office.
+649.32	They were working on the third floor.
+651.368	And you can also see some photos
+653.567	from his business companion
+654.742	where he has a taste in a certain kind of image.
+659.581	It turns out he's a member of the Russian Adult Webmasters Federation.
+663.576	But this is where our investigation starts to slow down.
+666.593	The cybercriminals have locked down their profiles quite well.
+670.536	And herein is the greatest lesson
+672.571	of social media and mobile devices for all of us right now.
+677.149	Our friends, our families and our colleagues
+680.879	can break our security even when we do the right things.
+685.568	This is MobSoft, one of the companies
+688.348	that this cybercriminal gang owned,
+690.514	and an interesting thing about MobSoft
+692.103	is the 50-percent owner of this
+694.974	posted a job advert,
+696.921	and this job advert matched one of the telephone numbers
+700.301	from the code earlier.
+702.453	This woman was Maria,
+704.578	and Maria is the wife of one of our cybercriminals.
+707.458	And it's kind of like she went into her social media settings
+710.978	and clicked on every option imaginable
+713.773	to make herself really, really insecure.
+717.47	By the end of the investigation,
+719.037	where you can read the full 27-page report at that link,
+722.596	we had photos of the cybercriminals,
+724.63	even the office Christmas party
+727.525	when they were out on an outing.
+729.391	That's right, cybercriminals do have Christmas parties,
+732.64	as it turns out.
+734.228	Now you're probably wondering what happened to these guys.
+736.463	Let me come back to that in just a minute.
+739.4	I want to change pace to one last little demonstration,
+742.147	a technique that is wonderfully simple and basic,
+746.116	but is interesting in exposing how much information
+749.181	we're all giving away,
+750.957	and it's relevant because it applies to us as a TED audience.
+755.235	This is normally when people start kind of shuffling in their pockets
+757.685	trying to turn their phones onto airplane mode desperately.
+761.903	Many of you all know about the concept
+763.589	of scanning for wireless networks.
+765.932	You do it every time you take out your iPhone or your Blackberry
+769.333	and connect to something like TEDAttendees.
+773.353	But what you might not know
+775.1	is that you're also beaming out a list of networks
+779.851	you've previously connected to,
+782.273	even when you're not using wireless actively.
+786.42	So I ran a little scan.
+788.147	I was relatively inhibited compared to the cybercriminals,
+791.073	who wouldn't be so concerned by law,
+793.617	and here you can see my mobile device.
+796.204	Okay? So you can see a list of wireless networks.
+798.858	TEDAttendees, HyattLB. Where do you think I'm staying?
+803.485	My home network, PrettyFlyForAWifi,
+806.978	which I think is a great name.
+808.743	Sophos_Visitors, SANSEMEA, companies I work with.
+811.51	Loganwifi, that's in Boston. HiltonLondon.
+814.818	CIASurveillanceVan.
+817.259	We called it that at one of our conferences
+818.868	because we thought that would freak people out,
+820.604	which is quite fun.
+822.598	This is how geeks party.
+827.256	So let's make this a little bit more interesting.
+829.463	Let's talk about you.
+832.001	Twenty-three percent of you have been to Starbucks
+834.111	recently and used the wireless network.
+837.226	Things get more interesting.
+838.39	Forty-six percent of you I could link to a business,
+840.836	XYZ Employee network.
+843.706	This isn't an exact science, but it gets pretty accurate.
+847.885	Seven hundred and sixty-one of you I could identify a hotel you'd been to recently,
+852.354	absolutely with pinpoint precision somewhere on the globe.
+856.193	Two hundred and thirty-four of you, well, I know where you live.
+860.141	Your wireless network name is so unique
+862.46	that I was able to pinpoint it
+864.009	using data available openly on the Internet
+866.676	with no hacking or clever, clever tricks.
+870.924	And I should mention as well that
+872.744	some of you do use your names,
+874.286	"""James Lyne's iPhone,"" for example."
+876.882	And two percent of you have a tendency to extreme profanity.
+881.24	So something for you to think about:
+883.244	As we adopt these new applications and mobile devices,
+887.157	as we play with these shiny new toys,
+889.474	how much are we trading off convenience
+893.296	for privacy and security?
+896.186	Next time you install something,
+898.244	look at the settings and ask yourself,
+900.548	"""Is this information that I want to share?"
+904.1	"Would someone be able to abuse it?"""
+906.99	We also need to think very carefully
+909.062	about how we develop our future talent pool.
+913.203	You see, technology's changing at a staggering rate,
+916.182	and that 250,000 pieces of malware
+919.358	won't stay the same for long.
+922.23	There's a very concerning trend
+924.428	that whilst many people coming out of schools now
+927.621	are much more technology-savvy, they know how to use technology,
+932.033	fewer and fewer people are following the feeder subjects
+935.646	to know how that technology works under the covers.
+939.97	In the U.K., a 60 percent reduction since 2003,
+944.355	and there are similar statistics all over the world.
+948.13	We also need to think about the legal issues in this area.
+952.206	The cybercriminals I talked about,
+953.733	despite theft of millions of dollars,
+955.872	actually still haven't been arrested,
+957.981	and at this point possibly never will.
+961.54	Most laws are national in their implementation,
+965.04	despite cybercrime conventions, where the Internet
+969.039	is borderless and international by definition.
+972.145	Countries do not agree, which makes this area
+974.978	exceptionally challenging from a legal perspective.
+978.595	But my biggest ask is this:
+982.955	You see, you're going to leave here
+984.597	and you're going to see some astonishing stories in the news.
+988.314	You're going to read about malware doing incredible
+990.488	and terrifying, scary things.
+993.749	However, 99 percent of it works
+997.678	because people fail to do the basics.
+1001.868	So my ask is this: Go online,
+1004.89	find these simple best practices,
+1007.535	find out how to update and patch your computer.
+1010.089	Get a secure password.
+1011.64	Make sure you use a different password
+1013.17	on each of your sites and services online.
+1016.521	Find these resources. Apply them.
+1019.764	The Internet is a fantastic resource
+1022.375	for business, for political expression,
+1024.44	for art and for learning.
+1026.771	Help me and the security community
+1029.953	make life much, much more difficult
+1033.421	for cybercriminals.
+1035.373	Thank you.
+1036.701	(Applause)

@@ -1,0 +1,195 @@
+startsecond	text
+12.771	What's the fastest growing threat
+12.771	to Americans' health?
+16.135	Cancer? Heart attacks? Diabetes?
+19.603	The answer is actually none of these;
+21.449	it's Alzheimer's disease.
+23.25	Every 67 seconds,
+25.276	someone in the United States
+25.276	is diagnosed with Alzheimer's.
+28.761	As the number of Alzheimer's patients
+28.761	triples by the year 2050,
+32.149	caring for them, as well as
+32.149	the rest of the aging population,
+35.446	will become an overwhelming
+35.446	societal challenge.
+38.585	My family has experienced firsthand
+40.465	the struggles of caring
+40.465	for an Alzheimer's patient.
+42.967	Growing up in a family
+42.967	with three generations,
+45.107	I've always been very close
+45.107	to my grandfather.
+47.262	When I was four years old,
+48.689	my grandfather and I 
+48.689	were walking in a park in Japan
+51.192	when he suddenly got lost.
+52.497	It was one of the scariest moments
+52.497	I've ever experienced in my life,
+55.71	and it was also the first
+55.71	instance that informed us
+58.117	that my grandfather
+58.117	had Alzheimer's disease.
+60.682	Over the past 12 years,
+60.682	his condition got worse and worse,
+64.025	and his wandering in particular
+64.025	caused my family a lot of stress.
+67.823	My aunt, his primary caregiver,
+69.302	really struggled to stay awake at night
+69.302	to keep an eye on him,
+72.349	and even then often failed
+72.349	to catch him leaving the bed.
+75.047	I became really concerned
+75.047	about my aunt's well-being
+77.858	as well as my grandfather's safety.
+79.599	I searched extensively for a solution
+79.599	that could help my family's problems,
+83.13	but couldn't find one.
+84.96	Then, one night about two years ago,
+87.693	I was looking after my grandfather
+87.693	and I saw him stepping out of the bed.
+91.158	The moment his foot landed on the floor,
+93.15	I thought, why don't I put
+93.15	a pressure sensor on the heel of his foot?
+96.412	Once he stepped onto the floor
+96.412	and out of the bed,
+98.809	the pressure sensor would detect an
+98.809	increase in pressure caused by body weight
+102.516	and then wirelessly send an audible alert
+102.516	to the caregiver's smartphone.
+105.971	That way, my aunt could sleep
+105.971	much better at night
+108.312	without having to worry
+108.312	about my grandfather's wandering.
+111.002	So now I'd like to perform
+111.002	a demonstration of this sock.
+117.134	Could I please have
+117.134	my sock model on the stage?
+120.831	Great.
+124.17	So once the patient
+124.17	steps onto the floor --
+127.95	(Ringing) --
+129.51	an alert is sent
+129.51	to the caregiver's smartphone.
+136.571	Thank you. (Applause)
+138.057	Thank you, sock model.
+144.045	So this is a drawing
+144.045	of my preliminary design.
+147.819	My desire to create
+147.819	a sensor-based technology
+150.441	perhaps stemmed from my lifelong love
+150.441	for sensors and technology.
+153.979	When I was six years old,
+155.465	an elderly family friend
+155.465	fell down in the bathroom
+157.795	and suffered severe injuries.
+159.505	I became concerned
+159.505	about my own grandparents
+161.606	and decided to invent
+161.606	a smart bathroom system.
+163.958	Motion sensors would be installed
+163.958	inside the tiles of bathroom floors
+167.566	to detect the falls of elderly patients
+167.566	whenever they fell down in the bathroom.
+171.404	Since I was only six years old at the time
+173.416	and I hadn't graduated
+173.416	from kindergarten yet,
+175.739	I didn't have the necessary resources and 
+175.739	tools to translate my idea into reality,
+180.073	but nonetheless, my research experience
+182.706	really implanted in me a firm desire
+182.706	to use sensors to help the elderly people.
+186.957	I really believe that sensors can improve
+186.957	the quality of life of the elderly.
+192.944	When I laid out my plan, I realized
+192.944	that I faced three main challenges:
+196.425	first, creating a sensor;
+198.194	second, designing a circuit;
+199.773	and third, coding a smartphone app.
+201.519	This made me realize that my project
+201.519	was actually much harder to realize
+204.927	than I initially had thought it to be.
+206.982	First, I had to create a wearable sensor
+206.982	that was thin and flexible enough
+210.476	to be worn comfortably
+210.476	on the bottom of the patient's foot.
+213.237	After extensive research and testing
+213.237	of different materials like rubber,
+216.656	which I realized was too thick to be worn
+216.656	snugly on the bottom of the foot,
+220.191	I decided to print a film sensor
+221.758	with electrically conductive
+221.758	pressure-sensitive ink particles.
+224.66	Once pressure is applied, the connectivity
+224.66	between the particles increases.
+228.236	Therefore, I could design a circuit
+228.236	that would measure pressure
+231.2	by measuring electrical resistance.
+233.267	Next, I had to design
+233.267	a wearable wireless circuit,
+236.026	but wireless signal transmission
+236.026	consumes lots of power
+239.338	and requires heavy, bulky batteries.
+241.101	Thankfully, I was able to find out
+241.101	about the Bluetooth low energy technology,
+244.728	which consumes very little power
+244.728	and can be driven by a coin-sized battery.
+248.251	This prevented the system
+248.251	from dying in the middle of the night.
+251.88	Lastly, I had to code a smartphone app
+251.88	that would essentially transform
+255.343	the care-giver's smartphone
+255.343	into a remote monitor.
+257.821	For this, I had to expand upon
+257.821	my knowledge of coding with Java and XCode
+261.497	and I also had to learn about how to code
+261.497	for Bluetooth low energy devices
+264.984	by watching YouTube tutorials
+264.984	and reading various textbooks.
+269.23	Integrating these components, I was able
+269.23	to successfully create two prototypes,
+273.019	one in which the sensor
+273.019	is embedded inside a sock,
+275.347	and another that's
+275.347	a re-attachable sensor assembly
+277.743	that can be adhered anywhere
+277.743	that makes contact
+279.949	with the bottom of the patient's foot.
+281.782	I've tested the device on my grandfather
+281.782	for about a year now,
+284.682	and it's had a 100 percent success rate
+286.593	in detecting the over 900 
+286.593	known cases of his wandering.
+290.629	Last summer, I was able
+290.629	to beta test my device
+293.052	at several residential
+293.052	care facilities in California,
+295.598	and I'm currently incorporating
+295.598	the feedback
+297.77	to further improve the device 
+297.77	into a marketable product.
+300.733	Testing the device on a number of patients
+302.841	made me realize that I needed
+302.841	to invent solutions
+305.35	for people who didn't want
+305.35	to wear socks to sleep at night.
+308.805	So sensor data, collected
+308.805	on a vast number of patients,
+311.63	can be useful for improving patient care
+313.959	and also leading to a cure
+313.959	for the disease, possibly.
+316.777	For example, I'm currently examining 
+318.62	correlations between the frequency
+318.62	of a patient's nightly wandering
+321.848	and his or her daily activities and diet.
+325.854	One thing I'll never forget
+325.854	is when my device first caught
+328.615	my grandfather's wandering
+328.615	out of bed at night.
+330.833	At that moment, I was really struck
+330.833	by the power of technology
+333.784	to change lives for the better.
+336.011	People living happily and healthfully --
+338.131	that's the world that I imagine.
+340.156	Thank you very much.
+342.216	(Applause)

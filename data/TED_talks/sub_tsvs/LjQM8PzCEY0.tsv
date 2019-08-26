@@ -1,0 +1,394 @@
+startsecond	text
+26	This is a picture of Maurice Druon,
+28	the Honorary Perpetual Secretary of L'Academie francaise,
+32	the French Academy.
+34	He is splendidly attired in his 68,000-dollar uniform,
+39	befitting the role of the French Academy
+42	as legislating the
+45	correct usage in French
+47	and perpetuating the language.
+49	The French Academy has two main tasks:
+52	it compiles a dictionary of official French.
+55	They're now working on their ninth edition,
+58	which they began in 1930, and they've reached the letter P.
+62	They also legislate on correct usage,
+65	"such as the proper term for what the French call ""email,"""
+69	"which ought to be ""courriel."""
+71	The World Wide Web, the French are told,
+73	ought to be referred to as
+75	"""la toile d'araignee mondiale"" -- the Global Spider Web --"
+79	recommendations that the French gaily ignore.
+84	Now, this is one model of how language comes to be:
+88	namely, it's legislated by an academy.
+91	But anyone who looks at language realizes
+94	that this is a rather silly conceit,
+98	that language, rather, emerges from human minds interacting from one another.
+101	And this is visible in the unstoppable change in language --
+105	the fact that by the time the Academy finishes their dictionary,
+108	it will already be well out of date.
+110	We see it in the
+112	constant appearance of slang and jargon,
+116	of the historical change in languages,
+118	in divergence of dialects
+120	and the formation of new languages.
+123	So language is not so much a creator or shaper of human nature,
+126	so much as a window onto human nature.
+129	In a book that I'm currently working on,
+132	I hope to use language to shed light on
+135	a number of aspects of human nature,
+137	including the cognitive machinery
+139	with which humans conceptualize the world
+142	and the relationship types that govern human interaction.
+145	And I'm going to say a few words about each one this morning.
+148	Let me start off with a technical problem in language
+150	that I've worried about for quite some time --
+152	and indulge me
+156	in my passion for verbs and how they're used.
+159	The problem is, which verbs go in which constructions?
+162	The verb is the chassis of the sentence.
+165	It's the framework onto which the other parts are bolted.
+169	Let me give you a quick reminder
+171	of something that you've long forgotten.
+173	"An intransitive verb, such as ""dine,"" for example,"
+176	can't take a direct object.
+178	"You have to say, ""Sam dined,"" not, ""Sam dined the pizza."""
+181	A transitive verb mandates
+183	that there has to be an object there:
+185	"""Sam devoured the pizza."" You can't just say, ""Sam devoured."""
+188	There are dozens or scores of verbs of this type,
+192	each of which shapes its sentence.
+194	So, a problem in explaining how children learn language,
+198	a problem in teaching language to adults so that they don't make grammatical errors,
+203	and a problem in programming computers to use language is
+206	which verbs go in which constructions.
+209	For example, the dative construction in English.
+211	"You can say, ""Give a muffin to a mouse,"" the prepositional dative."
+214	"Or, ""Give a mouse a muffin,"" the double-object dative."
+217	"""Promise anything to her,"" ""Promise her anything,"" and so on."
+221	Hundreds of verbs can go both ways.
+223	So a tempting generalization for a child,
+225	for an adult, for a computer
+227	is that any verb that can appear in the construction,
+229	"""subject-verb-thing-to-a-recipient"""
+232	"can also be expressed as ""subject-verb-recipient-thing."""
+235	A handy thing to have,
+237	because language is infinite,
+239	and you can't just parrot back the sentences that you've heard.
+242	You've got to extract generalizations
+244	so you can produce and understand new sentences.
+247	This would be an example of how to do that.
+249	Unfortunately, there appear to be idiosyncratic exceptions.
+252	"You can say, ""Biff drove the car to Chicago,"""
+255	"but not, ""Biff drove Chicago the car."""
+258	"You can say, ""Sal gave Jason a headache,"""
+261	"but it's a bit odd to say, ""Sal gave a headache to Jason."""
+264	The solution is that these constructions, despite initial appearance,
+267	are not synonymous,
+269	that when you crank up the microscope
+271	on human cognition, you see that there's a subtle difference
+273	in meaning between them.
+275	"So, ""give the X to the Y,"""
+277	that construction corresponds to the thought
+280	"""cause X to go to Y."" Whereas ""give the Y the X"""
+283	"corresponds to the thought ""cause Y to have X."""
+287	Now, many events can be subject to either construal,
+291	kind of like the classic figure-ground reversal illusions,
+294	in which you can either pay attention
+297	to the particular object,
+299	in which case the space around it recedes from attention,
+303	or you can see the faces in the empty space,
+305	in which case the object recedes out of consciousness.
+309	How are these construals reflected in language?
+311	Well, in both cases, the thing that is construed as being affected
+315	is expressed as the direct object,
+317	the noun after the verb.
+319	So, when you think of the event as causing the muffin to go somewhere --
+323	where you're doing something to the muffin --
+325	"you say, ""Give the muffin to the mouse."""
+327	"When you construe it as ""cause the mouse to have something,"""
+330	you're doing something to the mouse,
+332	"and therefore you express it as, ""Give the mouse the muffin."""
+335	So which verbs go in which construction --
+337	the problem with which I began --
+339	depends on whether the verb specifies a kind of motion
+343	or a kind of possession change.
+345	To give something involves both causing something to go
+348	and causing someone to have.
+350	To drive the car only causes something to go,
+353	because Chicago's not the kind of thing that can possess something.
+355	Only humans can possess things.
+358	And to give someone a headache causes them to have the headache,
+360	but it's not as if you're taking the headache out of your head
+363	and causing it to go to the other person,
+365	and implanting it in them.
+367	You may just be loud or obnoxious,
+369	or some other way causing them to have the headache.
+371	So, that's
+375	an example of the kind of thing that I do in my day job.
+377	So why should anyone care?
+379	Well, there are a number of interesting conclusions, I think,
+382	from this and many similar kinds of analyses
+386	of hundreds of English verbs.
+388	First, there's a level of fine-grained conceptual structure,
+391	which we automatically and unconsciously compute
+394	every time we produce or utter a sentence, that governs our use of language.
+398	"You can think of this as the language of thought, or ""mentalese."""
+402	It seems to be based on a fixed set of concepts,
+405	which govern dozens of constructions and thousands of verbs --
+408	not only in English, but in all other languages --
+411	fundamental concepts such as space,
+413	time, causation and human intention,
+416	such as, what is the means and what is the ends?
+419	These are reminiscent of the kinds of categories
+421	that Immanuel Kant argued
+423	are the basic framework for human thought,
+426	and it's interesting that our unconscious use of language
+429	seems to reflect these Kantian categories.
+432	Doesn't care about perceptual qualities,
+434	such as color, texture, weight and speed,
+436	which virtually never differentiate
+438	the use of verbs in different constructions.
+441	An additional twist is that all of the constructions in English
+444	are used not only literally,
+446	but in a quasi-metaphorical way.
+449	For example, this construction, the dative,
+451	is used not only to transfer things,
+453	but also for the metaphorical transfer of ideas,
+456	"as when we say, ""She told a story to me"""
+458	"or ""told me a story,"""
+460	"""Max taught Spanish to the students"" or ""taught the students Spanish."""
+463	It's exactly the same construction,
+465	but no muffins, no mice, nothing moving at all.
+469	It evokes the container metaphor of communication,
+472	in which we conceive of ideas as objects,
+474	sentences as containers,
+476	and communication as a kind of sending.
+478	"As when we say we ""gather"" our ideas, to ""put"" them ""into"" words,"
+481	"and if our words aren't ""empty"" or ""hollow,"""
+483	"we might get these ideas ""across"" to a listener,"
+486	"who can ""unpack"" our words to ""extract"" their ""content."""
+489	And indeed, this kind of verbiage is not the exception, but the rule.
+492	It's very hard to find any example of abstract language
+495	that is not based on some concrete metaphor.
+498	"For example, you can use the verb ""go"""
+501	"and the prepositions ""to"" and ""from"""
+503	in a literal, spatial sense.
+505	"""The messenger went from Paris to Istanbul."""
+507	"You can also say, ""Biff went from sick to well."""
+510	He needn't go anywhere. He could have been in bed the whole time,
+513	but it's as if his health is a point in state space
+515	that you conceptualize as moving.
+517	"Or, ""The meeting went from three to four,"""
+519	in which we conceive of time as stretched along a line.
+522	"Likewise, we use ""force"" to indicate"
+525	not only physical force,
+527	"as in, ""Rose forced the door to open,"""
+529	but also interpersonal force,
+531	"as in, ""Rose forced Sadie to go,"" not necessarily by manhandling her,"
+535	but by issuing a threat.
+537	"Or, ""Rose forced herself to go,"""
+539	as if there were two entities inside Rose's head,
+542	engaged in a tug of a war.
+544	Second conclusion is that the ability to conceive
+547	of a given event in two different ways,
+550	"such as ""cause something to go to someone"""
+552	"and ""causing someone to have something,"""
+554	I think is a fundamental feature of human thought,
+558	and it's the basis for much human argumentation,
+561	in which people don't differ so much on the facts
+564	as on how they ought to be construed.
+566	Just to give you a few examples:
+568	"""ending a pregnancy"" versus ""killing a fetus;"""
+570	"""a ball of cells"" versus ""an unborn child;"""
+573	"""invading Iraq"" versus ""liberating Iraq;"""
+575	"""redistributing wealth"" versus ""confiscating earnings."""
+579	And I think the biggest picture of all
+581	would take seriously the fact
+584	that so much of our verbiage about abstract events
+587	is based on a concrete metaphor
+589	and see human intelligence itself
+591	as consisting of a repertoire of concepts --
+594	such as objects, space, time, causation and intention --
+597	which are useful in a social, knowledge-intensive species,
+601	whose evolution you can well imagine,
+603	and a process of metaphorical abstraction
+606	that allows us to bleach these concepts
+608	of their original conceptual content --
+611	space, time and force --
+614	and apply them to new abstract domains,
+616	therefore allowing a species that evolved
+619	to deal with rocks and tools and animals,
+621	to conceptualize mathematics, physics, law
+624	and other abstract domains.
+627	Well, I said I'd talk about two windows on human nature --
+630	the cognitive machinery with which we conceptualize the world,
+633	and now I'm going to say a few words about the relationship types
+635	that govern human social interaction,
+637	again, as reflected in language.
+640	And I'll start out with a puzzle, the puzzle of indirect speech acts.
+644	"Now, I'm sure most of you have seen the movie ""Fargo."""
+646	And you might remember the scene in which
+648	the kidnapper is pulled over by a police officer,
+651	is asked to show his driver's license
+653	and holds his wallet out
+655	with a 50-dollar bill extending
+658	at a slight angle out of the wallet.
+660	"And he says, ""I was just thinking"
+662	"that maybe we could take care of it here in Fargo,"""
+664	which everyone, including the audience,
+667	interprets as a veiled bribe.
+670	This kind of indirect speech is rampant in language.
+674	For example, in polite requests,
+676	"if someone says, ""If you could pass the guacamole,"
+678	"that would be awesome,"""
+680	we know exactly what he means,
+682	even though that's a rather bizarre
+684	concept being expressed.
+686	(Laughter)
+689	"""Would you like to come up and see my etchings?"""
+691	I think most people
+693	understand the intent behind that.
+696	And likewise, if someone says,
+698	"""Nice store you've got there. It would be a real shame if something happened to it"" --"
+701	(Laughter) --
+702	we understand that as a veiled threat,
+704	rather than a musing of hypothetical possibilities.
+707	So the puzzle is, why are bribes,
+710	polite requests, solicitations and threats so often veiled?
+713	No one's fooled.
+715	Both parties know exactly what the speaker means,
+718	and the speaker knows the listener knows
+720	that the speaker knows that the listener knows, etc., etc.
+723	So what's going on?
+725	I think the key idea is that language
+727	is a way of negotiating relationships,
+729	and human relationships fall into a number of types.
+732	There's an influential taxonomy by the anthropologist Alan Fiske,
+736	in which relationships can be categorized, more or less,
+739	into communality, which works on the principle
+741	"""what's mine is thine, what's thine is mine,"""
+744	the kind of mindset that operates within a family, for example;
+748	"dominance, whose principle is ""don't mess with me;"""
+751	"reciprocity, ""you scratch my back, I'll scratch yours;"""
+755	"and sexuality, in the immortal words of Cole Porter, ""Let's do it."""
+760	Now, relationship types can be negotiated.
+763	Even though there are default situations
+766	in which one of these mindsets can be applied,
+768	they can be stretched and extended.
+771	For example, communality applies most naturally
+774	within family or friends,
+776	but it can be used to try to transfer
+778	the mentality of sharing
+780	to groups that ordinarily would not be disposed to exercise it.
+784	For example, in brotherhoods, fraternal organizations,
+788	"sororities, locutions like ""the family of man,"""
+791	you try to get people who are not related
+793	to use the relationship type that would ordinarily
+797	be appropriate to close kin.
+799	Now, mismatches -- when one person assumes one relationship type,
+802	and another assumes a different one -- can be awkward.
+805	If you went over and you helped yourself
+807	to a shrimp off your boss' plate,
+809	for example, that would be an awkward situation.
+811	Or if a dinner guest after the meal
+813	pulled out his wallet and offered to pay you for the meal,
+816	that would be rather awkward as well.
+818	In less blatant cases,
+821	there's still a kind of negotiation that often goes on.
+824	In the workplace, for example,
+826	there's often a tension over whether an employee
+828	can socialize with the boss,
+830	or refer to him or her
+832	on a first-name basis.
+834	If two friends have a
+836	reciprocal transaction, like selling a car,
+838	it's well known that this can be a source
+840	of tension or awkwardness.
+842	In dating, the transition
+844	from friendship to sex
+846	can lead to, notoriously, various forms of awkwardness,
+849	and as can sex in the workplace,
+851	in which we call the conflict between a
+853	"dominant and a sexual relationship ""sexual harassment."""
+857	Well, what does this have to do with language?
+859	Well, language, as a social interaction,
+861	has to satisfy two conditions.
+863	You have to convey the actual content --
+866	here we get back to the container metaphor.
+868	You want to express the bribe, the command, the promise,
+871	the solicitation and so on,
+873	but you also have to negotiate
+875	and maintain the kind of relationship
+877	you have with the other person.
+879	The solution, I think, is that we use language at two levels:
+882	the literal form signals
+884	the safest relationship with the listener,
+886	whereas the implicated content --
+889	the reading between the lines that we count on the listener to perform --
+892	allows the listener to derive the interpretation
+894	which is most relevant in context,
+896	which possibly initiates a changed relationship.
+899	The simplest example of this is in the polite request.
+903	If you express your request as a conditional --
+906	"""if you could open the window, that would be great"" --"
+909	even though the content is an imperative,
+911	the fact that you're not using the imperative voice
+914	means that you're not acting as if you're in a relationship of dominance,
+918	where you could presuppose the compliance of the other person.
+921	On the other hand, you want the damn guacamole.
+923	By expressing it as an if-then statement,
+926	you can get the message across
+928	without appearing to boss another person around.
+932	And in a more subtle way, I think, this works
+934	for all of the veiled speech acts
+936	involving plausible deniability:
+938	the bribes, threats, propositions,
+940	solicitations and so on.
+942	One way of thinking about it is to imagine what it would be like
+944	if language -- where it could only be used literally.
+947	And you can think of it in terms of a
+949	game-theoretic payoff matrix.
+952	Put yourself in the position of the
+954	kidnapper wanting to bribe the officer.
+957	There's a high stakes
+959	in the two possibilities
+962	of having a dishonest officer or an honest officer.
+965	If you don't bribe the officer,
+968	then you will get a traffic ticket --
+970	"or, as is the case of ""Fargo,"" worse --"
+972	whether the honest officer
+974	is honest or dishonest.
+976	Nothing ventured, nothing gained.
+978	In that case, the consequences are rather severe.
+981	On the other hand, if you extend the bribe,
+983	if the officer is dishonest,
+985	you get a huge payoff of going free.
+988	If the officer is honest, you get a huge penalty
+991	of being arrested for bribery.
+993	So this is a rather fraught situation.
+995	On the other hand, with indirect language,
+997	if you issue a veiled bribe,
+999	then the dishonest officer
+1001	could interpret it as a bribe,
+1003	in which case you get the payoff of going free.
+1006	The honest officer can't hold you to it as being a bribe,
+1009	and therefore, you get the nuisance of the traffic ticket.
+1012	So you get the best of both worlds.
+1015	And a similar analysis, I think,
+1017	can apply to the potential awkwardness
+1019	of a sexual solicitation,
+1021	and other cases where plausible deniability is an asset.
+1024	I think this affirms
+1026	something that's long been known by diplomats --
+1028	namely, that the vagueness of language,
+1030	far from being a bug or an imperfection,
+1033	actually might be a feature of language,
+1036	one that we use to our advantage in social interactions.
+1039	So to sum up: language is a collective human creation,
+1042	reflecting human nature,
+1044	how we conceptualize reality,
+1046	how we relate to one another.
+1048	And then by analyzing the various quirks and complexities of language,
+1052	I think we can get a window onto what makes us tick.
+1055	Thank you very much.
+1056	(Applause)

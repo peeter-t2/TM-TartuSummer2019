@@ -1,0 +1,403 @@
+startsecond	text
+15.26	So historically there has
+17.26	been a huge divide between what people
+20.26	consider to be non-living systems on one
+23.26	side, and living systems on the other side.
+25.26	So we go from, say, this beautiful and
+27.26	complex crystal as non-life, and this rather
+30.26	beautiful and complex cat on the other side.
+33.26	Over the last hundred and fifty years or so,
+36.26	science has kind of blurred this distinction
+38.26	between non-living and living systems, and
+40.26	now we consider that there may be a kind
+42.26	of continuum that exists between the two.
+45.26	We'll just take one example here:
+47.26	a virus is a natural system, right?
+49.26	But it's very simple. It's very simplistic.
+51.26	It doesn't really satisfy all the requirements,
+53.26	it doesn't have all the characteristics
+55.26	of living systems and is in fact a parasite
+57.26	on other living systems in order to, say,
+60.26	reproduce and evolve.
+62.26	But what we're going to be talking about here
+64.26	tonight are experiments done on this sort of
+66.26	non-living end of this spectrum -- so actually
+68.26	doing chemical experiments in the laboratory,
+71.26	mixing together nonliving ingredients
+73.26	to make new structures, and that these
+75.26	new structures might have some of the
+77.26	characteristics of living systems.
+79.26	Really what I'm talking about here is
+81.26	trying to create a kind of artificial life.
+83.26	So what are these characteristics that I'm
+85.26	talking about? These are them.
+87.26	We consider first that life has a body.
+89.26	Now this is necessary to distinguish the self
+91.26	from the environment.
+93.26	Life also has a metabolism. Now this is a
+95.26	process by which life can convert resources
+98.26	from the environment into building blocks
+100.26	so it can maintain and build itself.
+103.26	Life also has a kind of inheritable information.
+105.26	Now we, as humans, we store our information
+107.26	as DNA in our genomes and we pass this
+110.26	information on to our offspring.
+112.26	If we couple the first two -- the body and the metabolism --
+114.26	we can come up with a system that could
+116.26	perhaps move and replicate, and if we
+118.26	coupled these now to inheritable information,
+121.26	we can come up with a system that would be
+123.26	more lifelike, and would perhaps evolve.
+125.26	And so these are the things we will try to do
+127.26	in the lab, make some experiments that have
+129.26	one or more of these characteristics of life.
+132.26	So how do we do this? Well, we use
+134.26	a model system that we term a protocell.
+136.26	You might think of this as kind of like a
+138.26	primitive cell. It is a simple chemical
+140.26	model of a living cell, and if you consider
+143.26	for example a cell in your body may have
+145.26	on the order of millions of different types
+147.26	of molecules that need to come together,
+149.26	play together in a complex network
+151.26	to produce something that we call alive.
+154.26	In the laboratory what we want to do
+156.26	is much the same, but with on the order of
+158.26	tens of different types of molecules --
+160.26	so a drastic reduction in complexity, but still
+162.26	trying to produce something that looks lifelike.
+165.26	And so what we do is, we start simple
+167.26	and we work our way up to living systems.
+170.26	Consider for a moment this quote by
+172.26	Leduc, a hundred years ago, considering a
+174.26	kind of synthetic biology:
+176.26	"""The synthesis of life, should it ever occur,"
+178.26	will not be the sensational discovery which we
+180.26	"usually associate with the idea."""
+182.26	That's his first statement. So if we actually
+184.26	create life in the laboratories, it's
+186.26	probably not going to impact our lives at all.
+188.26	"""If we accept the theory of evolution, then"
+190.26	the first dawn of synthesis of life must consist
+192.26	in the production of forms intermediate
+194.26	between the inorganic and the organic
+196.26	world, or between the non-living
+198.26	and living world, forms which possess
+200.26	"only some of the rudimentary attributes of life"""
+202.26	-- so, the ones I just discussed --
+204.26	"""to which other attributes will be slowly added"
+206.26	in the course of development by the
+208.26	"evolutionary actions of the environment."""
+210.26	So we start simple, we make some structures
+212.26	that may have some of these characteristics
+214.26	of life, and then we try to develop that
+216.26	to become more lifelike.
+218.26	This is how we can start to make a protocell.
+220.26	We use this idea called self-assembly.
+222.26	What that means is, I can mix some
+224.26	chemicals together in a test tube in my lab,
+226.26	and these chemicals will start to self-associate
+228.26	to form larger and larger structures.
+230.26	So say on the order of tens of thousands,
+232.26	hundreds of thousands of molecules will
+234.26	come together to form a large structure
+236.26	that didn't exist before.
+238.26	And in this particular example,
+240.26	what I took is some membrane molecules,
+242.26	mixed those together in the right environment,
+244.26	and within seconds it forms these rather
+246.26	complex and beautiful structures here.
+248.26	These membranes are also quite similar,
+250.26	morphologically and functionally,
+252.26	to the membranes in your body,
+254.26	and we can use these, as they say,
+256.26	to form the body of our protocell.
+258.26	Likewise,
+259.26	we can work with oil and water systems.
+261.26	As you know, when you put oil and water together,
+263.26	they don't mix, but through self-assembly
+265.26	we can get a nice oil droplet to form,
+267.26	and we can actually use this as a body for
+269.26	our artificial organism or for our protocell,
+271.26	as you will see later.
+273.26	So that's just forming some body stuff, right?
+275.26	Some architectures.
+277.26	What about the other aspects of living systems?
+279.26	So we came up with this protocell model here
+281.26	that I'm showing.
+283.26	We started with a natural occurring clay
+285.26	called montmorillonite.
+287.26	This is natural from the environment, this clay.
+289.26	It forms a surface that is, say, chemically active.
+291.26	It could run a metabolism on it.
+293.26	Certain kind of molecules like to associate
+295.26	with the clay. For example, in this case, RNA, shown in red
+297.26	-- this is a relative of DNA,
+299.26	it's an informational molecule --
+301.26	it can come along and it starts to associate
+303.26	with the surface of this clay.
+305.26	This structure, then, can organize the
+307.26	formation of a membrane boundary around
+309.26	itself, so it can make a body of
+311.26	liquid molecules around itself, and that's
+313.26	shown in green here on this micrograph.
+315.26	So just through self-assembly, mixing things
+317.26	together in the lab, we can come up with, say,
+320.26	a metabolic surface with some
+322.26	informational molecules attached
+324.26	inside of this membrane body, right?
+326.26	So we're on a road towards living systems.
+330.26	But if you saw this protocell, you would not
+332.26	confuse this with something that was actually alive.
+334.26	It's actually quite lifeless. Once it forms,
+336.26	it doesn't really do anything.
+338.26	So, something is missing.
+340.26	Some things are missing.
+342.26	So some things that are missing is,
+344.26	for example, if you had a flow of energy
+346.26	through a system, what we'd want
+348.26	is a protocell that can harvest
+350.26	some of that energy in order to maintain itself,
+352.26	much like living systems do.
+354.26	So we came up with a different protocell
+356.26	model, and this is actually simpler than the previous one.
+358.26	In this protocell model, it's just an oil droplet,
+360.26	but a chemical metabolism inside
+362.26	that allows this protocell to use energy
+364.26	to do something, to actually become dynamic,
+367.26	as we'll see here.
+369.26	You add the droplet to the system.
+371.26	It's a pool of water, and the protocell
+373.26	starts moving itself around in the system.
+375.26	Okay? Oil droplet forms
+377.26	through self-assembly, has a chemical
+379.26	metabolism inside so it can use energy,
+381.26	and it uses that energy to move itself
+383.26	around in its environment.
+385.26	As we heard earlier, movement is very
+387.26	important in these kinds of living systems.
+389.26	It is moving around, exploring its environment,
+391.26	and remodeling its environment, as you see,
+393.26	by these chemical waves that are forming by the protocell.
+395.26	So it's acting, in a sense, like a living system
+397.26	trying to preserve itself.
+400.26	We take this same moving protocell here,
+403.26	and we put it in another experiment,
+405.26	get it moving. Then I'm going
+407.26	to add some food to the system,
+409.26	and you'll see that in blue here, right?
+412.26	So I add some food source to the system.
+414.26	The protocell moves. It encounters the food.
+416.26	It reconfigures itself and actually then
+418.26	is able to climb to the highest concentration
+420.26	of food in that system and stop there.
+422.26	Alright? So not only do we have this system
+424.26	that has a body, it has a metabolism,
+426.26	it can use energy, it moves around.
+429.26	It can sense its local environment
+431.26	and actually find resources
+433.26	in the environment to sustain itself.
+435.26	Now, this doesn't have a brain, it doesn't have
+437.26	a neural system. This is just a sack of
+439.26	chemicals that is able to have this interesting
+441.26	and complex lifelike behavior.
+443.26	If we count the number of chemicals
+445.26	in that system, actually, including the water
+447.26	that's in the dish, we have five chemicals
+449.26	that can do this.
+451.26	So then we put these protocells together in a
+453.26	single experiment to see what they would do,
+455.26	and depending on the conditions, we have
+457.26	some protocells on the left that are
+459.26	moving around and it likes to touch the other
+461.26	structures in its environment.
+463.26	On the other hand we have two moving
+465.26	protocells that like to circle each other,
+467.26	and they form a kind of a dance, a complex dance with each other.
+469.26	Right? So not only do individual protocells
+471.26	have behavior, what we've interpreted as
+473.26	behavior in this system, but we also have
+475.26	basically population-level behavior
+478.26	similar to what organisms have.
+481.26	So now that you're all experts on protocells,
+484.26	we're going to play a game with these protocells.
+486.26	We're going to make two different kinds.
+488.26	Protocell A has a certain kind of chemistry
+491.26	inside that, when activated, the protocell
+493.26	starts to vibrate around, just dancing.
+495.26	So remember, these are primitive things,
+497.26	so dancing protocells, that's very
+499.26	interesting to us. (Laughter)
+501.26	The second protocell has a different
+503.26	chemistry inside, and when activated,
+505.26	the protocells all come together and they fuse
+507.26	into one big one. Right?
+509.26	And we just put these two together
+511.26	in the same system.
+513.26	So there's population A,
+515.26	there's population B, and then
+517.26	we activate the system,
+519.26	and protocell Bs, they're the blue ones,
+521.26	they all come together. They fuse together
+523.26	to form one big blob, and the other protocell
+525.26	just dances around. And this just happens
+527.26	until all of the energy in the system is
+529.26	basically used up, and then, game over.
+532.26	So then I repeated this experiment
+534.26	a bunch of times, and one time
+536.26	something very interesting happened.
+538.26	So, I added these protocells together
+540.26	to the system, and protocell A and protocell B
+542.26	fused together to form a hybrid protocell AB.
+544.26	That didn't happen before. There it goes.
+546.26	There's a protocell AB now in this system.
+549.26	Protocell AB likes to dance around for a bit,
+552.26	while protocell B does the fusing, okay?
+555.26	But then something even more interesting happens.
+558.26	Watch when these two large protocells,
+560.26	the hybrid ones, fuse together.
+562.26	Now we have a dancing protocell
+565.26	and a self-replication event. Right. (Laughter)
+569.26	Just with blobs of chemicals, again.
+571.26	So the way this works is, you have
+573.26	a simple system of five chemicals here,
+575.26	a simple system here. When they hybridize,
+577.26	you then form something that's different than
+579.26	before, it's more complex than before,
+581.26	and you get the emergence of another kind of
+583.26	lifelike behavior which
+585.26	in this case is replication.
+587.26	So since we can make some interesting
+589.26	protocells that we like, interesting colors and
+591.26	interesting behaviors, and they're very easy
+593.26	to make, and they have interesting lifelike
+595.26	properties, perhaps these protocells have
+598.26	something to tell us about the origin of life
+600.26	on the Earth. Perhaps these represent an
+602.26	easily accessible step, one of the first steps
+604.26	by which life got started on the early Earth.
+607.26	Certainly, there were molecules present on
+609.26	the early Earth, but they wouldn't have been
+611.26	these pure compounds that we worked with
+613.26	in the lab and I showed in these experiments.
+615.26	Rather, they'd be a real complex mixture of
+617.26	all kinds of stuff, because
+619.26	uncontrolled chemical reactions produce
+621.26	a diverse mixture of organic compounds.
+623.26	Think of it like a primordial ooze, okay?
+626.26	And it's a pool that's too difficult to fully
+628.26	characterize, even by modern methods, and
+630.26	the product looks brown, like this tar here
+632.26	on the left. A pure compound
+634.26	is shown on the right, for contrast.
+636.26	So this is similar to what happens when you
+638.26	take pure sugar crystals in your kitchen,
+640.26	you put them in a pan, and you apply energy.
+642.26	You turn up the heat, you start making
+644.26	or breaking chemical bonds in the sugar,
+646.26	forming a brownish caramel, right?
+648.26	If you let that go unregulated, you'll
+650.26	continue to make and break chemical bonds,
+652.26	forming an even more diverse mixture of
+654.26	molecules that then forms this kind of black
+656.26	tarry stuff in your pan, right, that's
+658.26	difficult to wash out. So that's what
+660.26	the origin of life would have looked like.
+662.26	You needed to get life out of this junk that
+664.26	is present on the early Earth,
+666.26	four, 4.5 billion years ago.
+668.26	So the challenge then is,
+670.26	throw away all your pure chemicals in the lab,
+672.26	and try to make some protocells with lifelike
+674.26	properties from this kind of primordial ooze.
+677.26	So we're able to then see the self-assembly
+679.26	of these oil droplet bodies again
+681.26	that we've seen previously,
+683.26	and the black spots inside of there
+685.26	represent this kind of black tar -- this diverse,
+687.26	very complex, organic black tar.
+689.26	And we put them into one of these
+691.26	experiments, as you've seen earlier, and then
+693.26	we watch lively movement that comes out.
+695.26	They look really good, very nice movement,
+697.26	and also they appear to have some kind of
+699.26	behavior where they kind of circle
+701.26	around each other and follow each other,
+704.26	similar to what we've seen before -- but again,
+706.26	working with just primordial conditions,
+708.26	no pure chemicals.
+710.26	These are also, these tar-fueled protocells,
+712.26	are also able to locate resources
+714.26	in their environment.
+715.26	I'm going to add some resource from the left,
+717.26	here, that defuses into the system,
+719.26	and you can see, they really like that.
+721.26	They become very energetic, and able
+723.26	to find the resource in the environment,
+725.26	similar to what we saw before.
+727.26	But again, these are done in these primordial
+729.26	conditions, really messy conditions,
+731.26	not sort of sterile laboratory conditions.
+733.26	These are very dirty little protocells,
+735.26	as a matter of fact. (Laughter)
+737.26	But they have lifelike properties, is the point.
+740.26	So, doing these artificial life experiments
+743.26	helps us define a potential path between
+746.26	non-living and living systems.
+749.26	And not only that, but it helps us
+751.26	broaden our view of what life is
+753.26	and what possible life there could be
+755.26	out there -- life that could be very different
+757.26	from life that we find here on Earth.
+760.26	And that leads me to the next
+762.26	"term, which is ""weird life."""
+764.26	This is a term by Steve Benner.
+767.26	This is used in reference to a report
+769.26	in 2007 by the National Research Council
+771.26	in the United States, wherein
+773.26	they tried to understand how we can
+775.26	look for life elsewhere in the universe, okay,
+777.26	especially if that life is very different from life
+779.26	on Earth. If we went to another planet and
+782.26	we thought there might be life there,
+784.26	how could we even recognize it as life?
+786.26	Well, they came up with three very general
+788.26	criteria. First is -- and they're listed here.
+790.26	The first is, the system has to be in
+792.26	non-equilibrium. That means the system
+794.26	cannot be dead, in a matter of fact.
+795.26	Basically what that means is, you have
+797.26	an input of energy into the system that life
+799.26	can use and exploit to maintain itself.
+802.26	This is similar to having the Sun shining
+804.26	on the Earth, driving photosynthesis,
+806.26	driving the ecosystem.
+808.26	Without the Sun, there's likely to be
+810.26	no life on this planet.
+812.26	Secondly, life needs to be in liquid form,
+814.26	so that means even if we had some
+816.26	interesting structures, interesting molecules
+818.26	together but they were frozen solid,
+820.26	then this is not a good place for life.
+822.26	And thirdly, we need to be able to make
+824.26	and break chemical bonds. And again
+826.26	this is important because life transforms
+828.26	resources from the environment into
+830.26	building blocks so it can maintain itself.
+832.26	Now today, I told you about very strange
+834.26	and weird protocells -- some that contain clay,
+836.26	some that have primordial ooze in them,
+839.26	some that have basically oil
+841.26	instead of water inside of them.
+843.26	Most of these don't contain DNA,
+845.26	but yet they have lifelike properties.
+847.26	But these protocells satisfy
+850.26	these general requirements of living systems.
+853.26	So by making these chemical, artificial
+855.26	life experiments, we hope not only
+857.26	to understand something fundamental
+859.26	about the origin of life and the existence
+861.26	of life on this planet, but also
+863.26	what possible life there could be
+865.26	out there in the universe. Thank you.
+868.26	(Applause)

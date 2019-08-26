@@ -1,0 +1,320 @@
+startsecond	text
+19.33	Welcome. If I could have the first slide, please?
+33.33	Contrary to calculations made by some engineers, bees can fly,
+38.33	dolphins can swim, and geckos can even climb
+45.33	up the smoothest surfaces. Now, what I want to do, in the short time I have,
+51.33	is to try to allow each of you to experience
+55.33	the thrill of revealing nature's design.
+61.33	I get to do this all the time, and it's just incredible.
+63.33	I want to try to share just a little bit of that with you in this presentation.
+69.33	The challenge of looking at nature's designs --
+71.33	and I'll tell you the way that we perceive it, and the way we've used it.
+75.33	The challenge, of course, is to answer this question:
+77.33	what permits this extraordinary performance of animals
+80.33	that allows them basically to go anywhere?
+83.33	And if we could figure that out, how can we implement those designs?
+90.33	Well, many biologists will tell engineers, and others,
+93.33	organisms have millions of years to get it right;
+96.33	they're spectacular; they can do everything wonderfully well.
+99.33	So, the answer is bio-mimicry: just copy nature directly.
+103.33	We know from working on animals that the truth is
+108.33	that's exactly what you don't want to do -- because evolution works
+112.33	on the just-good-enough principle, not on a perfecting principle.
+115.33	And the constraints in building any organism, when you look at it,
+119.33	are really severe. Natural technologies have incredible constraints.
+124.33	Think about it. If you were an engineer and I told you
+127.33	that you had to build an automobile, but it had to start off to be this big,
+132.33	then it had to grow to be full size and had to work every step along the way.
+136.33	Or think about the fact that if you build an automobile, I'll tell you that you also -- inside it --
+140.33	have to put a factory that allows you to make another automobile.
+144.33	(Laughter)
+146.33	And you can absolutely never, absolutely never, because of history
+150.33	and the inherited plan, start with a clean slate.
+154.33	So, organisms have this important history.
+157.33	Really evolution works more like a tinkerer than an engineer.
+162.33	And this is really important when you begin to look at animals.
+165.33	Instead, we believe you need to be inspired by biology.
+172.33	You need to discover the general principles of nature,
+176.33	and then use these analogies when they're advantageous.
+182.33	This is a real challenge to do this, because animals,
+185.33	when you start to really look inside them -- how they work --
+188.33	appear hopelessly complex. There's no detailed history
+192.33	of the design plans, you can't go look it up anywhere.
+195.33	They have way too many motions for their joints, too many muscles.
+199.33	Even the simplest animal we think of, something like an insect,
+202.33	and they have more neurons and connections than you can imagine.
+205.33	How can you make sense of this? Well, we believed --
+210.33	and we hypothesized -- that one way animals could work simply,
+215.33	is if the control of their movements
+218.33	tended to be built into their bodies themselves.
+224.33	What we discovered was that two-, four-, six- and eight-legged animals
+231.33	all produce the same forces on the ground when they move.
+234.33	They all work like this kangaroo, they bounce.
+238.33	And they can be modeled by a spring-mass system that we call the spring mass system
+242.33	because we're biomechanists. It's actually a pogo stick.
+245.33	They all produce the pattern of a pogo stick. How is that true?
+249.33	Well, a human, one of your legs works like two legs of a trotting dog,
+255.33	or works like three legs, together as one, of a trotting insect,
+259.33	or four legs as one of a trotting crab.
+261.33	And then they alternate in their propulsion,
+265.33	but the patterns are all the same. Almost every organism we've looked at this way
+270.33	-- you'll see next week, I'll give you a hint,
+272.33	there'll be an article coming out that says that really big things
+275.33	like T. rex probably couldn't do this, but you'll see that next week.
+279.33	Now, what's interesting is the animals, then -- we said -- bounce along
+281.33	the vertical plane this way, and in our collaborations with Pixar,
+284.33	"in ""A Bug's Life,"" we discussed the"
+286.33	bipedal nature of the characters of the ants.
+289.33	And we told them, of course, they move in another plane as well.
+291.33	"And they asked us this question. They say, ""Why model"
+294.33	just in the sagittal plane or the vertical plane,
+296.33	when you're telling us these animals are moving
+298.33	"in the horizontal plane?"" This is a good question."
+301.33	Nobody in biology ever modeled it this way.
+304.33	We took their advice and we modeled the animals moving
+308.33	in the horizontal plane as well. We took their three legs,
+311.33	we collapsed them down as one.
+312.33	We got some of the best mathematicians in the world
+315.33	from Princeton to work on this problem.
+317.33	And we were able to create a model
+320.33	where animals are not only bouncing up and down,
+321.33	but they're also bouncing side to side at the same time.
+325.33	And many organisms fit this kind of pattern.
+327.33	Now, why is this important to have this model?
+329.33	Because it's very interesting. When you take this model
+332.33	and you perturb it, you give it a push,
+335.33	as it bumps into something, it self-stabilizes, with no brain
+339.33	or no reflexes, just by the structure alone.
+343.33	It's a beautiful model. Let's look at the mathematics.
+348.33	(Laughter)
+350.33	That's enough!
+351.33	(Laughter)
+355.33	The animals, when you look at them running,
+357.33	appear to be self-stabilizing like this,
+360.33	using basically springy legs. That is, the legs can do
+363.33	computations on their own; the control algorithms, in a sense,
+366.33	are embedded in the form of the animal itself.
+369.33	Why haven't we been more inspired by nature and these kinds of discoveries?
+376.33	Well, I would argue that human technologies are really different from
+380.33	natural technologies, at least they have been so far.
+383.33	Think about the typical kind of robot that you see.
+388.33	Human technologies have tended to be large, flat,
+391.33	with right angles, stiff, made of metal. They have rolling devices
+396.33	and axles. There are very few motors, very few sensors.
+399.33	Whereas nature tends to be small, and curved,
+404.33	and it bends and twists, and has legs instead, and appendages,
+407.33	and has many muscles and many, many sensors.
+410.33	So it's a very different design. However, what's changing,
+414.33	what's really exciting -- and I'll show you some of that next --
+416.33	is that as human technology takes on more of the characteristics
+419.33	of nature, then nature really can become a much more useful teacher.
+425.33	And here's one example that's really exciting.
+427.33	This is a collaboration we have with Stanford.
+429.33	And they developed this new technique, called Shape Deposition Manufacturing.
+433.33	It's a technique where they can mix materials together and mold any shape
+437.33	that they like, and put in the material properties.
+441.33	They can embed sensors and actuators right in the form itself.
+444.33	For example, here's a leg: the clear part is stiff,
+449.33	the white part is compliant, and you don't need any axles there or anything.
+452.33	It just bends by itself beautifully.
+455.33	So, you can put those properties in. It inspired them to show off
+458.33	this design by producing a little robot they named Sprawl.
+464.33	Our work has also inspired another robot, a biologically inspired bouncing robot,
+468.33	from the University of Michigan and McGill
+470.33	named RHex, for robot hexapod, and this one's autonomous.
+478.33	Let's go to the video, and let me show you some of these animals moving
+481.33	and then some of the simple robots
+483.33	that have been inspired by our discoveries.
+486.33	Here's what some of you did this morning, although you did it outside,
+490.33	not on a treadmill.
+492.33	Here's what we do.
+495.33	(Laughter)
+497.33	This is a death's head cockroach. This is an American cockroach
+502.33	you think you don't have in your kitchen.
+503.33	This is an eight-legged scorpion, six-legged ant, forty-four-legged centipede.
+510.33	Now, I said all these animals are sort of working like pogo sticks --
+513.33	they're bouncing along as they move. And you can see that
+517.33	in this ghost crab, from the beaches of Panama and North Carolina.
+520.33	It goes up to four meters per second when it runs.
+523.33	It actually leaps into the air, and has aerial phases
+526.33	when it does it, like a horse, and you'll see it's bouncing here.
+530.33	What we discovered is whether you look at the leg of a human
+533.33	like Richard, or a cockroach, or a crab, or a kangaroo,
+539.33	the relative leg stiffness of that spring is the same for everything we've seen so far.
+544.33	Now, what good are springy legs then? What can they do?
+546.33	Well, we wanted to see if they allowed the animals
+548.33	to have greater stability and maneuverability.
+551.33	So, we built a terrain that had obstacles three times the hip height
+555.33	of the animals that we're looking at.
+556.33	And we were certain they couldn't do this. And here's what they did.
+560.33	The animal ran over it and it didn't even slow down!
+563.33	It didn't decrease its preferred speed at all.
+565.33	We couldn't believe that it could do this. It said to us
+568.33	that if you could build a robot with very simple, springy legs,
+573.33	you could make it as maneuverable as any that's ever been built.
+579.33	Here's the first example of that. This is the Stanford
+581.33	Shape Deposition Manufactured robot, named Sprawl.
+584.33	It has six legs -- there are the tuned, springy legs.
+590.33	It moves in a gait that an insect uses, and here it is
+593.33	going on the treadmill. Now, what's important about this robot,
+600.33	compared to other robots, is that it can't see anything,
+603.33	it can't feel anything, it doesn't have a brain, yet it can maneuver
+609.33	over these obstacles without any difficulty whatsoever.
+615.33	It's this technique of building the properties into the form.
+619.33	This is a graduate student. This is what he's doing to his thesis project --
+622.33	very robust, if a graduate student
+624.33	does that to his thesis project.
+626.33	(Laughter)
+627.33	This is from McGill and University of Michigan. This is the RHex,
+631.33	making its first outing in a demo.
+634.33	(Laughter)
+638.33	Same principle: it only has six moving parts,
+643.33	six motors, but it has springy, tuned legs. It moves in the gait of the insect.
+649.33	It has the middle leg moving in synchrony with the front,
+653.33	and the hind leg on the other side. Sort of an alternating tripod,
+657.33	and they can negotiate obstacles just like the animal.
+661.33	(Laughter)
+667.33	(Voice: Oh my God.)
+668.33	(Applause)
+673.33	Robert Full: It'll go on different surfaces -- here's sand --
+675.33	although we haven't perfected the feet yet, but I'll talk about that later.
+680.33	Here's RHex entering the woods.
+683.33	(Laughter)
+698.33	Again, this robot can't see anything, it can't feel anything,
+702.33	it has no brain. It's just working with a tuned mechanical system,
+708.33	with very simple parts, but inspired from the fundamental dynamics of the animal.
+718.33	(Voice: Ah, I love him, Bob.) RF: Here's it going down a pathway.
+726.33	I presented this to the jet propulsion lab at NASA, and they said
+729.33	that they had no ability to go down craters to look for ice,
+733.33	and life, ultimately, on Mars. And he said --
+737.33	especially with legged-robots, because they're way too complicated.
+739.33	Nothing can do that. And I talk next. I showed them this video
+744.33	with the simple design of RHex here. And just to convince them
+747.33	we should go to Mars in 2011, I tinted the video orange
+751.33	just to give them the sense of being on Mars.
+754.33	(Laughter)
+755.33	(Applause)
+763.33	Another reason why animals have extraordinary performance,
+766.33	and can go anywhere, is because they have an effective interaction
+769.33	with the environment. The animal I'm going to show you,
+772.33	that we studied to look at this, is the gecko.
+776.33	We have one here and notice its position. It's holding on.
+783.33	Now I'm going to challenge you. I'm going show you a video.
+786.33	One of the animals is going to be running on the level,
+788.33	and the other one's going to be running up a wall. Which one's which?
+792.33	They're going at a meter a second. How many think the one on the left
+797.33	is running up the wall?
+799.33	(Applause)
+803.33	Okay. The point is it's really hard to tell, isn't it? It's incredible,
+808.33	we looked at students do this and they couldn't tell.
+810.33	They can run up a wall at a meter a second, 15 steps per second,
+813.33	and they look like they're running on the level. How do they do this?
+817.33	It's just phenomenal. The one on the right was going up the hill.
+823.33	How do they do this? They have bizarre toes. They have toes
+827.33	that uncurl like party favors when you blow them out,
+831.33	and then peel off the surface, like tape.
+834.33	Like if we had a piece of tape now, we'd peel it this way.
+836.33	They do this with their toes. It's bizarre! This peeling inspired
+843.33	iRobot -- that we work with -- to build Mecho-Geckos.
+846.33	Here's a legged version and a tractor version, or a bulldozer version.
+853.33	Let's see some of the geckos move with some video,
+855.33	and then I'll show you a little bit of a clip of the robots.
+858.33	Here's the gecko running up a vertical surface. There it goes,
+861.33	in real time. There it goes again. Obviously, we have to slow this down a little bit.
+868.33	You can't use regular cameras.
+870.33	You have to take 1,000 pictures per second to see this.
+873.33	And here's some video at 1,000 frames per second.
+876.33	Now, I want you to look at the animal's back.
+878.33	Do you see how much it's bending like that? We can't figure that out --
+881.33	that's an unsolved mystery. We don't know how it works.
+884.33	If you have a son or a daughter that wants to come to Berkeley,
+887.33	come to my lab and we'll figure this out. Okay, send them to Berkeley
+891.33	because that's the next thing I want to do. Here's the gecko mill.
+894.33	(Laughter)
+895.33	It's a see-through treadmill with a see-through treadmill belt,
+898.33	so we can watch the animal's feet, and videotape them
+901.33	through the treadmill belt, to see how they move.
+904.33	Here's the animal that we have here, running on a vertical surface.
+908.33	Pick a foot and try to watch a toe, and see if you can see what the animal's doing.
+914.33	See it uncurl and then peel these toes.
+916.33	It can do this in 14 milliseconds. It's unbelievable.
+923.33	Here are the robots that they inspire, the Mecho-Geckos from iRobot.
+927.33	First we'll see the animals toes peeling -- look at that.
+932.33	And here's the peeling action of the Mecho-Gecko.
+936.33	It uses a pressure-sensitive adhesive to do it.
+939.33	Peeling in the animal. Peeling in the Mecho-Gecko --
+942.33	that allows them climb autonomously. Can go on the flat surface,
+945.33	transition to a wall, and then go onto a ceiling.
+948.33	There's the bulldozer version. Now, it doesn't use pressure-sensitive glue.
+954.33	The animal does not use that.
+956.33	But that's what we're limited to, at the moment.
+958.33	What does the animal do? The animal has weird toes.
+963.33	And if you look at the toes, they have these little leaves there,
+967.33	and if you blow them up and zoom in, you'll see
+969.33	that's there's little striations in these leaves.
+972.33	And if you zoom in 270 times, you'll see it looks like a rug.
+979.33	And if you blow that up, and zoom in 900 times,
+982.33	you see there are hairs there, tiny hairs. And if you look carefully,
+987.33	those tiny hairs have striations. And if you zoom in on those 30,000 times,
+993.33	you'll see each hair has split ends.
+996.33	And if you blow those up, they have these little structures on the end.
+1001.33	The smallest branch of the hairs looks like spatulae,
+1003.33	and an animal like that has one billion of these nano-size split ends,
+1010.33	to get very close to the surface. In fact, there's the diameter of your hair --
+1015.33	a gecko has two million of these, and each hair has 100 to 1,000 split ends.
+1021.33	Think of the contact of that that's possible.
+1024.33	We were fortunate to work with another group
+1026.33	at Stanford that built us a special manned sensor,
+1028.33	that we were able to measure the force of an individual hair.
+1031.33	Here's an individual hair with a little split end there.
+1036.33	When we measured the forces, they were enormous.
+1038.33	They were so large that a patch of hairs about this size --
+1041.33	the gecko's foot could support the weight of a small child,
+1045.33	about 40 pounds, easily. Now, how do they do it?
+1049.33	We've recently discovered this. Do they do it by friction?
+1053.33	No, force is too low. Do they do it by electrostatics?
+1056.33	No, you can change the charge -- they still hold on.
+1058.33	Do they do it by interlocking? That's kind of a like a Velcro-like thing.
+1061.33	No, you can put them on molecular smooth surfaces -- they don't do it.
+1064.33	How about suction? They stick on in a vacuum.
+1068.33	How about wet adhesion? Or capillary adhesion?
+1071.33	They don't have any glue, and they even stick under water just fine.
+1074.33	If you put their foot under water, they grab on.
+1076.33	How do they do it then? Believe it or not, they grab on
+1080.33	by intermolecular forces, by Van der Waals forces.
+1084.33	You know, you probably had this a long time ago in chemistry,
+1086.33	where you had these two atoms, they're close together,
+1088.33	and the electrons are moving around. That tiny force is sufficient
+1091.33	to allow them to do that because it's added up so many times
+1094.33	with these small structures.
+1097.33	What we're doing is, we're taking that inspiration of the hairs,
+1102.33	and with another colleague at Berkeley, we're manufacturing them.
+1107.33	And just recently we've made a breakthrough, where we now believe
+1110.33	we're going to be able to create the first synthetic, self-cleaning,
+1115.33	dry adhesive. Many companies are interested in this.
+1120.33	(Laughter)
+1123.33	We also presented to Nike even.
+1125.33	(Laughter)
+1128.33	(Applause)
+1134.33	We'll see where this goes. We were so excited about this
+1137.33	that we realized that that small-size scale --
+1140.33	and where everything gets sticky, and gravity doesn't matter anymore --
+1143.33	we needed to look at ants and their feet, because
+1146.33	one of my other colleagues at Berkeley has built a six-millimeter silicone
+1151.33	robot with legs. But it gets stuck. It doesn't move very well.
+1154.33	But the ants do, and we'll figure out why, so that ultimately
+1157.33	we'll make this move. And imagine: you're going to be able
+1160.33	to have swarms of these six-millimeter robots available to run around.
+1165.33	Where's this going? I think you can see it already.
+1168.33	Clearly, the Internet is already having eyes and ears,
+1172.33	you have web cams and so forth. But it's going to also have legs and hands.
+1176.33	You're going to be able to do programmable
+1178.33	work through these kinds of robots, so that you can run,
+1182.33	fly and swim anywhere. We saw David Kelly is at the beginning of that with his fish.
+1191.33	So, in conclusion, I think the message is clear.
+1193.33	If you need a message, if nature's not enough, if you care about
+1197.33	search and rescue, or mine clearance, or medicine,
+1199.33	or the various things we're working on, we must preserve
+1203.33	nature's designs, otherwise these secrets will be lost forever.
+1207.33	Thank you.
+1208.33	(Applause)

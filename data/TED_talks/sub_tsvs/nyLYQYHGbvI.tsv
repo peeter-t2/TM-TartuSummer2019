@@ -1,0 +1,301 @@
+startsecond	text
+18.33	I got my first computer when I was a teenager growing up in Accra,
+23.33	and it was a really cool device.
+26.33	You could play games with it. You could program it in BASIC.
+31.33	And I was fascinated.
+33.33	So I went into the library to figure out how did this thing work.
+39.33	I read about how the CPU is constantly shuffling data back and forth
+44.33	between the memory, the RAM and the ALU,
+48.33	the arithmetic and logic unit.
+50.33	And I thought to myself, this CPU really has to work like crazy
+54.33	just to keep all this data moving through the system.
+58.33	But nobody was really worried about this.
+61.33	When computers were first introduced,
+63.33	they were said to be a million times faster than neurons.
+66.33	People were really excited. They thought they would soon outstrip
+71.33	the capacity of the brain.
+74.33	This is a quote, actually, from Alan Turing:
+77.33	"""In 30 years, it will be as easy to ask a computer a question"
+81.33	"as to ask a person."""
+83.33	This was in 1946. And now, in 2007, it's still not true.
+90.33	And so, the question is, why aren't we really seeing
+94.33	this kind of power in computers that we see in the brain?
+98.33	What people didn't realize, and I'm just beginning to realize right now,
+102.33	is that we pay a huge price for the speed
+104.33	that we claim is a big advantage of these computers.
+108.33	Let's take a look at some numbers.
+110.33	This is Blue Gene, the fastest computer in the world.
+114.33	It's got 120,000 processors; they can basically process
+122.33	That's 10 to the sixteenth. And they consume one and a half megawatts of power.
+129.33	So that would be really great, if you could add that
+132.33	to the production capacity in Tanzania.
+134.33	It would really boost the economy.
+136.33	Just to go back to the States,
+140.33	if you translate the amount of power or electricity
+142.33	this computer uses to the amount of households in the States,
+145.33	you get 1,200 households in the U.S.
+149.33	That's how much power this computer uses.
+151.33	Now, let's compare this with the brain.
+154.33	This is a picture of, actually Rory Sayres' girlfriend's brain.
+159.33	Rory is a graduate student at Stanford.
+161.33	He studies the brain using MRI, and he claims that
+165.33	this is the most beautiful brain that he has ever scanned.
+168.33	(Laughter)
+170.33	So that's true love, right there.
+173.33	Now, how much computation does the brain do?
+176.33	I estimate 10 to the 16 bits per second,
+178.33	which is actually about very similar to what Blue Gene does.
+182.33	So that's the question. The question is, how much --
+184.33	they are doing a similar amount of processing, similar amount of data --
+187.33	the question is how much energy or electricity does the brain use?
+192.33	And it's actually as much as your laptop computer:
+195.33	it's just 10 watts.
+197.33	So what we are doing right now with computers
+200.33	with the energy consumed by 1,200 houses,
+203.33	the brain is doing with the energy consumed by your laptop.
+208.33	So the question is, how is the brain able to achieve this kind of efficiency?
+211.33	And let me just summarize. So the bottom line:
+213.33	the brain processes information using 100,000 times less energy
+217.33	than we do right now with this computer technology that we have.
+221.33	How is the brain able to do this?
+223.33	Let's just take a look about how the brain works,
+226.33	and then I'll compare that with how computers work.
+230.33	"So, this clip is from the PBS series, ""The Secret Life of the Brain."""
+234.33	It shows you these cells that process information.
+237.33	They are called neurons.
+238.33	They send little pulses of electricity down their processes to each other,
+244.33	and where they contact each other, those little pulses
+246.33	of electricity can jump from one neuron to the other.
+248.33	That process is called a synapse.
+251.33	You've got this huge network of cells interacting with each other --
+253.33	about 100 million of them,
+255.33	sending about 10 quadrillion of these pulses around every second.
+259.33	And that's basically what's going on in your brain right now as you're watching this.
+265.33	How does that compare with the way computers work?
+267.33	In the computer, you have all the data
+269.33	going through the central processing unit,
+271.33	and any piece of data basically has to go through that bottleneck,
+274.33	whereas in the brain, what you have is these neurons,
+278.33	and the data just really flows through a network of connections
+282.33	among the neurons. There's no bottleneck here.
+284.33	It's really a network in the literal sense of the word.
+288.33	The net is doing the work in the brain.
+292.33	If you just look at these two pictures,
+294.33	these kind of words pop into your mind.
+296.33	This is serial and it's rigid -- it's like cars on a freeway,
+300.33	everything has to happen in lockstep --
+303.33	whereas this is parallel and it's fluid.
+305.33	Information processing is very dynamic and adaptive.
+308.33	So I'm not the first to figure this out. This is a quote from Brian Eno:
+312.33	"""the problem with computers is that there is not enough Africa in them."""
+316.33	(Laughter)
+322.33	Brian actually said this in 1995.
+325.33	And nobody was listening then,
+328.33	but now people are beginning to listen
+330.33	because there's a pressing, technological problem that we face.
+335.33	And I'll just take you through that a little bit in the next few slides.
+340.33	This is -- it's actually really this remarkable convergence
+344.33	between the devices that we use to compute in computers,
+349.33	and the devices that our brains use to compute.
+353.33	The devices that computers use are what's called a transistor.
+357.33	This electrode here, called the gate, controls the flow of current
+361.33	from the source to the drain -- these two electrodes.
+364.33	And that current, electrical current,
+366.33	is carried by electrons, just like in your house and so on.
+372.33	And what you have here is, when you actually turn on the gate,
+377.33	you get an increase in the amount of current, and you get a steady flow of current.
+381.33	And when you turn off the gate, there's no current flowing through the device.
+385.33	Your computer uses this presence of current to represent a one,
+390.33	and the absence of current to represent a zero.
+394.33	Now, what's happening is that as transistors are getting smaller and smaller and smaller,
+400.33	they no longer behave like this.
+402.33	In fact, they are starting to behave like the device that neurons use to compute,
+407.33	which is called an ion channel.
+409.33	And this is a little protein molecule.
+411.33	I mean, neurons have thousands of these.
+415.33	And it sits in the membrane of the cell and it's got a pore in it.
+419.33	And these are individual potassium ions
+422.33	that are flowing through that pore.
+424.33	Now, this pore can open and close.
+426.33	But, when it's open, because these ions have to line up
+431.33	and flow through, one at a time, you get a kind of sporadic, not steady --
+436.33	it's a sporadic flow of current.
+439.33	And even when you close the pore -- which neurons can do,
+442.33	they can open and close these pores to generate electrical activity --
+447.33	even when it's closed, because these ions are so small,
+450.33	they can actually sneak through, a few can sneak through at a time.
+453.33	So, what you have is that when the pore is open,
+456.33	you get some current sometimes.
+458.33	These are your ones, but you've got a few zeros thrown in.
+461.33	And when it's closed, you have a zero,
+465.33	but you have a few ones thrown in.
+468.33	Now, this is starting to happen in transistors.
+471.33	And the reason why that's happening is that, right now, in 2007 --
+476.33	the technology that we are using -- a transistor is big enough
+480.33	that several electrons can flow through the channel simultaneously, side by side.
+485.33	In fact, there's about 12 electrons can all be flowing this way.
+489.33	And that means that a transistor corresponds
+491.33	to about 12 ion channels in parallel.
+494.33	Now, in a few years time, by 2015, we will shrink transistors so much.
+499.33	This is what Intel does to keep adding more cores onto the chip.
+504.33	Or your memory sticks that you have now can carry one gigabyte
+507.33	of stuff on them -- before, it was 256.
+509.33	Transistors are getting smaller to allow this to happen,
+512.33	and technology has really benefitted from that.
+515.33	But what's happening now is that in 2015, the transistor is going to become so small,
+520.33	that it corresponds to only one electron at a time
+523.33	can flow through that channel,
+525.33	and that corresponds to a single ion channel.
+527.33	And you start having the same kind of traffic jams that you have in the ion channel.
+531.33	The current will turn on and off at random,
+534.33	even when it's supposed to be on.
+536.33	And that means your computer is going to get
+538.33	its ones and zeros mixed up, and that's going to crash your machine.
+542.33	So, we are at the stage where we
+546.33	don't really know how to compute with these kinds of devices.
+549.33	And the only kind of thing -- the only thing we know right now
+552.33	that can compute with these kinds of devices are the brain.
+555.33	OK, so a computer picks a specific item of data from memory,
+559.33	it sends it into the processor or the ALU,
+562.33	and then it puts the result back into memory.
+564.33	That's the red path that's highlighted.
+566.33	The way brains work, I told you all, you have got all these neurons.
+570.33	And the way they represent information is
+572.33	they break up that data into little pieces
+574.33	that are represented by pulses and different neurons.
+577.33	So you have all these pieces of data
+579.33	distributed throughout the network.
+581.33	And then the way that you process that data to get a result
+584.33	is that you translate this pattern of activity into a new pattern of activity,
+588.33	just by it flowing through the network.
+591.33	So you set up these connections
+593.33	such that the input pattern just flows
+596.33	and generates the output pattern.
+598.33	What you see here is that there's these redundant connections.
+602.33	So if this piece of data or this piece of the data gets clobbered,
+606.33	it doesn't show up over here, these two pieces can activate the missing part
+611.33	with these redundant connections.
+613.33	So even when you go to these crappy devices
+615.33	where sometimes you want a one and you get a zero, and it doesn't show up,
+618.33	there's redundancy in the network
+620.33	that can actually recover the missing information.
+623.33	It makes the brain inherently robust.
+626.33	What you have here is a system where you store data locally.
+629.33	And it's brittle, because each of these steps has to be flawless,
+633.33	otherwise you lose that data, whereas in the brain, you have a system
+636.33	that stores data in a distributed way, and it's robust.
+640.33	What I want to basically talk about is my dream,
+644.33	which is to build a computer that works like the brain.
+647.33	This is something that we've been working on for the last couple of years.
+651.33	And I'm going to show you a system that we designed
+654.33	to model the retina,
+657.33	which is a piece of brain that lines the inside of your eyeball.
+662.33	We didn't do this by actually writing code, like you do in a computer.
+668.33	In fact, the processing that happens
+671.33	in that little piece of brain is very similar
+673.33	to the kind of processing that computers
+674.33	do when they stream video over the Internet.
+678.33	They want to compress the information --
+679.33	they just want to send the changes, what's new in the image, and so on --
+683.33	and that is how your eyeball
+686.33	is able to squeeze all that information down to your optic nerve,
+689.33	to send to the rest of the brain.
+691.33	Instead of doing this in software, or doing those kinds of algorithms,
+694.33	we went and talked to neurobiologists
+697.33	who have actually reverse engineered that piece of brain that's called the retina.
+701.33	And they figured out all the different cells,
+703.33	and they figured out the network, and we just took that network
+706.33	and we used it as the blueprint for the design of a silicon chip.
+710.33	So now the neurons are represented by little nodes or circuits on the chip,
+716.33	and the connections among the neurons are represented, actually modeled by transistors.
+721.33	And these transistors are behaving essentially
+723.33	just like ion channels behave in the brain.
+726.33	It will give you the same kind of robust architecture that I described.
+731.33	Here is actually what our artificial eye looks like.
+735.33	The retina chip that we designed sits behind this lens here.
+740.33	And the chip -- I'm going to show you a video
+742.33	that the silicon retina put out of its output
+745.33	when it was looking at Kareem Zaghloul,
+748.33	who's the student who designed this chip.
+750.33	Let me explain what you're going to see, OK,
+752.33	because it's putting out different kinds of information,
+755.33	it's not as straightforward as a camera.
+757.33	The retina chip extracts four different kinds of information.
+760.33	It extracts regions with dark contrast,
+763.33	which will show up on the video as red.
+766.33	And it extracts regions with white or light contrast,
+770.33	which will show up on the video as green.
+772.33	This is Kareem's dark eyes
+774.33	and that's the white background that you see here.
+777.33	And then it also extracts movement.
+779.33	When Kareem moves his head to the right,
+781.33	you will see this blue activity there;
+783.33	it represents regions where the contrast is increasing in the image,
+786.33	that's where it's going from dark to light.
+789.33	And you also see this yellow activity,
+791.33	which represents regions where contrast is decreasing;
+795.33	it's going from light to dark.
+797.33	And these four types of information --
+800.33	your optic nerve has about a million fibers in it,
+804.33	and 900,000 of those fibers
+807.33	send these four types of information.
+809.33	So we are really duplicating the kind of signals that you have on the optic nerve.
+813.33	What you notice here is that these snapshots
+816.33	taken from the output of the retina chip are very sparse, right?
+820.33	It doesn't light up green everywhere in the background,
+822.33	only on the edges, and then in the hair, and so on.
+825.33	And this is the same thing you see
+826.33	when people compress video to send: they want to make it very sparse,
+830.33	because that file is smaller. And this is what the retina is doing,
+833.33	and it's doing it just with the circuitry, and how this network of neurons
+837.33	that are interacting in there, which we've captured on the chip.
+840.33	But the point that I want to make -- I'll show you up here.
+843.33	So this image here is going to look like these ones,
+846.33	but here I'll show you that we can reconstruct the image,
+848.33	so, you know, you can almost recognize Kareem in that top part there.
+853.33	And so, here you go.
+864.33	Yes, so that's the idea.
+867.33	When you stand still, you just see the light and dark contrasts.
+869.33	But when it's moving back and forth,
+871.33	the retina picks up these changes.
+874.33	And that's why, you know, when you're sitting here
+875.33	and something happens in your background,
+877.33	you merely move your eyes to it.
+879.33	There are these cells that detect change
+881.33	and you move your attention to it.
+883.33	So those are very important for catching somebody
+885.33	who's trying to sneak up on you.
+887.33	Let me just end by saying that this is what happens
+890.33	when you put Africa in a piano, OK.
+893.33	This is a steel drum here that has been modified,
+896.33	and that's what happens when you put Africa in a piano.
+899.33	And what I would like us to do is put Africa in the computer,
+903.33	and come up with a new kind of computer
+905.33	that will generate thought, imagination, be creative and things like that.
+908.33	Thank you.
+910.33	(Applause)
+912.33	Chris Anderson: Question for you, Kwabena.
+914.33	Do you put together in your mind the work you're doing,
+918.33	the future of Africa, this conference --
+921.33	what connections can we make, if any, between them?
+924.33	Kwabena Boahen: Yes, like I said at the beginning,
+926.33	I got my first computer when I was a teenager, growing up in Accra.
+930.33	And I had this gut reaction that this was the wrong way to do it.
+934.33	It was very brute force; it was very inelegant.
+937.33	I don't think that I would've had that reaction,
+939.33	if I'd grown up reading all this science fiction,
+942.33	hearing about RD2D2, whatever it was called, and just -- you know,
+946.33	buying into this hype about computers.
+947.33	I was coming at it from a different perspective,
+949.33	where I was bringing that different perspective
+951.33	to bear on the problem.
+953.33	And I think a lot of people in Africa have this different perspective,
+956.33	and I think that's going to impact technology.
+958.33	And that's going to impact how it's going to evolve.
+960.33	And I think you're going to be able to see, use that infusion,
+962.33	to come up with new things,
+964.33	because you're coming from a different perspective.
+967.33	I think we can contribute. We can dream like everybody else.
+971.33	CA: Thanks Kwabena, that was really interesting.
+973.33	Thank you.
+974.33	(Applause)

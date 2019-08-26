@@ -1,0 +1,225 @@
+startsecond	text
+15.26	When we park in a big parking lot,
+17.26	how do we remember where we parked our car?
+19.26	Here's the problem facing Homer.
+22.26	And we're going to try to understand
+24.26	what's happening in his brain.
+26.26	So we'll start with the hippocampus, shown in yellow,
+28.26	which is the organ of memory.
+30.26	If you have damage there, like in Alzheimer's,
+32.26	you can't remember things including where you parked your car.
+34.26	"It's named after Latin for ""seahorse,"""
+36.26	which it resembles.
+38.26	And like the rest of the brain, it's made of neurons.
+40.26	So the human brain
+42.26	has about a hundred billion neurons in it.
+44.26	And the neurons communicate with each other
+47.26	by sending little pulses or spikes of electricity
+49.26	via connections to each other.
+51.26	The hippocampus is formed of two sheets of cells,
+54.26	which are very densely interconnected.
+56.26	And scientists have begun to understand
+58.26	how spatial memory works
+60.26	by recording from individual neurons
+62.26	in rats or mice
+64.26	while they forage or explore an environment
+66.26	looking for food.
+68.26	So we're going to imagine we're recording from a single neuron
+71.26	in the hippocampus of this rat here.
+74.26	And when it fires a little spike of electricity,
+76.26	there's going to be a red dot and a click.
+79.26	So what we see
+81.26	is that this neuron knows
+83.26	whenever the rat has gone into one particular place in its environment.
+86.26	And it signals to the rest of the brain
+88.26	by sending a little electrical spike.
+91.26	So we could show the firing rate of that neuron
+94.26	as a function of the animal's location.
+96.26	And if we record from lots of different neurons,
+98.26	we'll see that different neurons fire
+100.26	when the animal goes in different parts of its environment,
+102.26	like in this square box shown here.
+104.26	So together they form a map
+106.26	for the rest of the brain,
+108.26	telling the brain continually,
+110.26	"""Where am I now within my environment?"""
+112.26	Place cells are also being recorded in humans.
+115.26	So epilepsy patients sometimes need
+117.26	the electrical activity in their brain monitoring.
+120.26	And some of these patients played a video game
+122.26	where they drive around a small town.
+124.26	And place cells in their hippocampi would fire, become active,
+127.26	start sending electrical impulses
+130.26	whenever they drove through a particular location in that town.
+133.26	So how does a place cell know
+135.26	where the rat or person is within its environment?
+138.26	Well these two cells here
+140.26	show us that the boundaries of the environment
+142.26	are particularly important.
+144.26	So the one on the top
+146.26	likes to fire sort of midway between the walls
+148.26	of the box that their rat's in.
+150.26	And when you expand the box, the firing location expands.
+153.26	The one below likes to fire
+155.26	whenever there's a wall close by to the south.
+158.26	And if you put another wall inside the box,
+160.26	then the cell fires in both place
+162.26	wherever there's a wall to the south
+164.26	as the animal explores around in its box.
+168.26	So this predicts
+170.26	that sensing the distances and directions of boundaries around you --
+172.26	extended buildings and so on --
+174.26	is particularly important for the hippocampus.
+177.26	And indeed, on the inputs to the hippocampus,
+179.26	cells are found which project into the hippocampus,
+181.26	which do respond exactly
+183.26	to detecting boundaries or edges
+186.26	at particular distances and directions
+188.26	from the rat or mouse
+190.26	as it's exploring around.
+192.26	So the cell on the left, you can see,
+194.26	it fires whenever the animal gets near
+196.26	to a wall or a boundary to the east,
+199.26	whether it's the edge or the wall of a square box
+202.26	or the circular wall of the circular box
+204.26	or even the drop at the edge of a table, which the animals are running around.
+207.26	And the cell on the right there
+209.26	fires whenever there's a boundary to the south,
+211.26	whether it's the drop at the edge of the table or a wall
+213.26	or even the gap between two tables that are pulled apart.
+216.26	So that's one way in which we think
+218.26	place cells determine where the animal is as it's exploring around.
+221.26	We can also test where we think objects are,
+224.26	like this goal flag, in simple environments --
+227.26	or indeed, where your car would be.
+229.26	So we can have people explore an environment
+232.26	and see the location they have to remember.
+235.26	And then, if we put them back in the environment,
+237.26	generally they're quite good at putting a marker down
+239.26	where they thought that flag or their car was.
+242.26	But on some trials,
+244.26	we could change the shape and size of the environment
+246.26	like we did with the place cell.
+248.26	In that case, we can see
+250.26	how where they think the flag had been changes
+253.26	as a function of how you change the shape and size of the environment.
+256.26	And what you see, for example,
+258.26	if the flag was where that cross was in a small square environment,
+261.26	and then if you ask people where it was,
+263.26	but you've made the environment bigger,
+265.26	where they think the flag had been
+267.26	stretches out in exactly the same way
+269.26	that the place cell firing stretched out.
+271.26	It's as if you remember where the flag was
+273.26	by storing the pattern of firing across all of your place cells
+276.26	at that location,
+278.26	and then you can get back to that location
+280.26	by moving around
+282.26	so that you best match the current pattern of firing of your place cells
+284.26	with that stored pattern.
+286.26	That guides you back to the location that you want to remember.
+289.26	But we also know where we are through movement.
+292.26	So if we take some outbound path --
+294.26	perhaps we park and we wander off --
+296.26	we know because our own movements,
+298.26	which we can integrate over this path
+300.26	roughly what the heading direction is to go back.
+302.26	And place cells also get this kind of path integration input
+306.26	from a kind of cell called a grid cell.
+309.26	Now grid cells are found, again,
+311.26	on the inputs to the hippocampus,
+313.26	and they're a bit like place cells.
+315.26	But now as the rat explores around,
+317.26	each individual cell fires
+319.26	in a whole array of different locations
+322.26	which are laid out across the environment
+324.26	in an amazingly regular triangular grid.
+329.26	And if you record from several grid cells --
+332.26	shown here in different colors --
+334.26	each one has a grid-like firing pattern across the environment,
+337.26	and each cell's grid-like firing pattern is shifted slightly
+340.26	relative to the other cells.
+342.26	So the red one fires on this grid
+344.26	and the green one on this one and the blue on on this one.
+347.26	So together, it's as if the rat
+350.26	can put a virtual grid of firing locations
+352.26	across its environment --
+354.26	a bit like the latitude and longitude lines that you'd find on a map,
+357.26	but using triangles.
+359.26	And as it moves around,
+361.26	the electrical activity can pass
+363.26	from one of these cells to the next cell
+365.26	to keep track of where it is,
+367.26	so that it can use its own movements
+369.26	to know where it is in its environment.
+371.26	Do people have grid cells?
+373.26	Well because all of the grid-like firing patterns
+375.26	have the same axes of symmetry,
+377.26	the same orientations of grid, shown in orange here,
+380.26	it means that the net activity
+382.26	of all of the grid cells in a particular part of the brain
+385.26	should change
+387.26	according to whether we're running along these six directions
+389.26	or running along one of the six directions in between.
+392.26	So we can put people in an MRI scanner
+394.26	and have them do a little video game
+396.26	like the one I showed you
+398.26	and look for this signal.
+400.26	And indeed, you do see it in the human entorhinal cortex,
+403.26	which is the same part of the brain that you see grid cells in rats.
+406.26	So back to Homer.
+408.26	He's probably remembering where his car was
+410.26	in terms of the distances and directions
+412.26	to extended buildings and boundaries
+414.26	around the location where he parked.
+416.26	And that would be represented
+418.26	by the firing of boundary-detecting cells.
+420.26	He's also remembering the path he took out of the car park,
+423.26	which would be represented in the firing of grid cells.
+426.26	Now both of these kinds of cells
+428.26	can make the place cells fire.
+430.26	And he can return to the location where he parked
+432.26	by moving so as to find where it is
+435.26	that best matches the firing pattern
+437.26	of the place cells in his brain currently
+439.26	with the stored pattern where he parked his car.
+442.26	And that guides him back to that location
+444.26	irrespective of visual cues
+446.26	like whether his car's actually there.
+448.26	Maybe it's been towed.
+450.26	But he knows where it was, so he knows to go and get it.
+453.26	So beyond spatial memory,
+455.26	if we look for this grid-like firing pattern
+457.26	throughout the whole brain,
+459.26	we see it in a whole series of locations
+462.26	which are always active
+464.26	when we do all kinds of autobiographical memory tasks,
+466.26	like remembering the last time you went to a wedding, for example.
+469.26	So it may be that the neural mechanisms
+471.26	for representing the space around us
+474.26	are also used for generating visual imagery
+478.26	so that we can recreate the spatial scene, at least,
+481.26	of the events that have happened to us when we want to imagine them.
+484.26	So if this was happening,
+486.26	your memories could start by place cells activating each other
+489.26	via these dense interconnections
+491.26	and then reactivating boundary cells
+493.26	to create the spatial structure
+495.26	of the scene around your viewpoint.
+497.26	And grid cells could move this viewpoint through that space.
+499.26	Another kind of cell, head direction cells,
+501.26	which I didn't mention yet,
+503.26	they fire like a compass according to which way you're facing.
+506.26	They could define the viewing direction
+508.26	from which you want to generate an image for your visual imagery,
+511.26	so you can imagine what happened when you were at this wedding, for example.
+514.26	So this is just one example
+516.26	of a new era really
+518.26	in cognitive neuroscience
+520.26	where we're beginning to understand
+522.26	psychological processes
+524.26	like how you remember or imagine or even think
+527.26	in terms of the actions
+529.26	of the billions of individual neurons that make up our brains.
+532.26	Thank you very much.
+534.26	(Applause)

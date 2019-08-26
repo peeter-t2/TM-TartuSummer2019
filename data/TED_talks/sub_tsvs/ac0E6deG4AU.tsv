@@ -1,0 +1,284 @@
+startsecond	text
+25.095	I'm really excited to be here today.
+26.898	I'll show you some stuff
+26.898	that's just ready to come out of the lab,
+30.024	literally, and I'm really glad
+30.024	that you guys
+32.824	are going to be among
+32.824	the first to see it in person,
+35.32	because I really think this is going
+35.32	to really change
+37.833	the way we interact
+37.833	with machines from this point on.
+40.339	Now, this is a rear-projected
+40.339	drafting table.
+43.038	It's about 36 inches wide
+44.284	and it's equipped
+44.284	with a multi-touch sensor.
+46.391	Normal touch sensors that you see,
+48.059	like on a kiosk
+48.059	or interactive whiteboards,
+50.22	can only register one point
+50.22	of contact at a time.
+53.137	This thing allows you to have
+53.137	multiple points at the same time.
+56.876	They can use both my hands;
+56.876	I can use chording actions;
+60.214	I can just go right up and use
+60.214	all 10 fingers if I wanted to.
+63.597	You know, like that.
+64.778	Now, multi-touch sensing
+64.778	isn't completely new.
+69.345	People like Bill Buxton have been
+69.345	playing around with it in the '80s.
+72.622	However, the approach I built here
+72.622	is actually high-resolution,
+76.674	low-cost, and probably
+76.674	most importantly, very scalable.
+80	So, the technology, you know,
+82.361	isn't the most exciting thing
+82.361	here right now,
+84.831	other than probably
+84.831	its newfound accessibility.
+87.173	What's really interesting here
+87.173	is what you can do with it
+90.722	and the kind of interfaces
+90.722	you can build on top of it.
+94.141	So let's see.
+96.111	So, for instance, we have
+96.111	a lava lamp application here.
+100.448	Now, you can see,
+102.174	I can use both of my hands to kind
+102.174	of squeeze and put the blobs together.
+105.627	I can inject heat into the system here,
+108.194	or I can pull it apart
+108.194	with two of my fingers.
+110.4	It's completely intuitive;
+110.4	there's no instruction manual.
+113.154	The interface just kind of disappears.
+115	This started out as a screensaver app
+116.944	that one of the Ph.D. students
+116.944	in our lab, Ilya Rosenberg, made.
+120.015	But I think its true identity
+120.015	comes out here.
+125.153	Now what's great about a multi-touch
+125.153	sensor is that, you know,
+128.1	I could be doing this
+128.1	with as many fingers here,
+130.861	but of course multi-touch
+130.861	also inherently means multi-user.
+133.863	Chris could be interacting
+133.863	with another part of Lava,
+136.386	while I play around with it here.
+138.044	You can imagine
+138.044	a new kind of sculpting tool,
+140.164	where I'm kind of warming something up,
+140.164	making it malleable,
+143.167	and then letting it cool down
+143.167	and solidifying in a certain state.
+150.712	Google should have
+150.712	something like this in their lobby.
+153.683	(Laughter)
+159	I'll show you a little more
+159	of a concrete example here,
+162.296	as this thing loads.
+164.181	This is a photographer's
+164.181	light-box application.
+166.922	Again, I can use both of my hands
+166.922	to interact and move photos around.
+170.923	But what's even cooler
+170.923	is that if I have two fingers,
+174.502	I can actually grab a photo and then
+174.502	stretch it out like that really easily.
+178.656	I can pan, zoom
+178.656	and rotate it effortlessly.
+182.146	I can do that grossly
+182.146	with both of my hands,
+184.501	or I can do it just with two fingers
+184.501	on each of my hands together.
+187.729	If I grab the canvas, I can do
+187.729	the same thing -- stretch it out.
+190.78	I can do it simultaneously,
+190.78	holding this down,
+192.963	and gripping on another one,
+192.963	stretching this out.
+195.286	Again, the interface just disappears here.
+197.538	There's no manual.
+198.595	This is exactly what you expect,
+200.921	especially if you haven't interacted
+200.921	with a computer before.
+204	Now, when you have initiatives
+204	like the $100 laptop,
+206.728	I kind of cringe at the idea
+208.285	of introducing a whole new
+208.285	generation to computing
+210.886	with this standard
+210.886	mouse-and-windows-pointer interface.
+213.648	This is something that I think
+213.648	is really the way
+216.808	we should be interacting
+216.808	with machines from now on.
+219.473	(Applause)
+226	Now, of course, I can bring up a keyboard.
+228.024	(Laughter)
+233	And I can bring that around,
+233	put that up there.
+236.213	Obviously, this is a standard keyboard,
+238.095	but of course I can rescale it
+238.095	to make it work well for my hands.
+241.201	That's really important, because
+241.201	there's no reason in this day and age
+244.558	that we should be conforming
+244.558	to a physical device.
+246.922	That leads to bad things, like RSI.
+248.693	We have so much technology nowadays
+251.494	that these interfaces
+251.494	should start conforming to us.
+255.547	There's so little applied now
+255.547	to actually improving
+259.548	the way we interact with interfaces
+259.548	from this point on.
+262.151	This keyboard is probably actually
+262.151	the really wrong direction to go.
+265.366	You can imagine, in the future,
+265.366	as we develop this kind of technology,
+268.692	a keyboard that kind of automatically
+268.692	drifts as your hand moves away,
+272.119	and really intelligently anticipates
+272.119	which key you're trying to stroke.
+276.477	So -- again, isn't this great?
+280.051	(Laughter)
+282.047	Audience: Where's your lab?
+283.834	Jeff Han: I'm a research scientist
+283.834	at NYU in New York.
+290.341	Here's an example of another kind of app.
+290.341	I can make these little fuzz balls.
+294	It'll remember the strokes I'm making.
+296.358	Of course I can do it with all my hands.
+298.301	It's pressure-sensitive.
+300.905	What's neat about that is,
+302.485	I showed that two-finger gesture
+302.485	that zooms in really quickly.
+305.474	Because you don't have
+305.474	to switch to a hand tool
+307.705	or the magnifying glass tool,
+309.135	you can just continuously make things
+311.698	in real multiple scales,
+311.698	all at the same time.
+314.076	I can create big things out here,
+316.113	but I can go back
+316.113	and really quickly go back
+318.235	to where I started,
+318.235	and make even smaller things here.
+322.271	This is going to be really important
+324.182	as we start getting to things
+324.182	like data visualization.
+327.239	For instance, I think
+327.239	we all enjoyed Hans Rosling's talk,
+329.93	and he really emphasized the fact
+329.93	I've been thinking about for a long time:
+333.48	We have all this great data,
+334.855	but for some reason,
+334.855	it's just sitting there.
+336.976	We're not accessing it.
+338.119	And one of the reasons why I think that is
+341.666	will be helped by things like graphics
+341.666	and visualization and inference tools,
+346.406	but I also think a big part of it
+348.291	is going to be having better interfaces,
+350.371	to be able to drill down
+350.371	into this kind of data,
+352.635	while still thinking
+352.635	about the big picture here.
+355.46	Let me show you another app here.
+355.46	This is called WorldWind.
+358.463	It's done by NASA.
+359.626	We've all seen Google Earth;
+362.48	this is an open-source version of that.
+364.462	There are plug-ins to be able
+364.462	to load in different data sets
+368.01	that NASA's collected over the years.
+369.833	As you can see, I can use
+369.833	the same two-fingered gestures
+372.477	to go down and go in really seamlessly.
+374.983	There's no interface, again.
+376.387	It really allows anybody
+376.387	to kind of go in --
+379.682	and it just does
+379.682	what you'd expect, you know?
+382.669	Again, there's just no interface here.
+382.669	The interface just disappears.
+388	I can switch to different data views.
+389.9	That's what's neat about this app here.
+392.118	NASA's really cool.
+393.299	These hyper-spectral images
+393.299	are false-colored so you can --
+396.085	it's really good for determining
+396.085	vegetative use.
+400.887	Well, let's go back to this.
+405.312	The great thing
+405.312	about mapping applications --
+407.51	it's not really 2D, it's 3D.
+409.024	So, again, with a multi-point interface,
+409.024	you can do a gesture like this --
+412.54	so you can be able
+412.54	to tilt around like that --
+416.001	(Surprised laughter)
+417.899	It's not just simply relegated
+417.899	to a kind of 2D panning and motion.
+421.105	This gesture is just putting
+421.105	two fingers down --
+423.764	it's defining an axis of tilt --
+423.764	and I can tilt up and down that way.
+427.441	We just came up with that on the spot,
+429.543	it's probably not the right thing to do,
+431.504	but there's such interesting things
+431.504	you can do with this interface.
+436	It's just so much fun
+436	playing around with it, too.
+438.958	(Laughter)
+440.335	And so the last thing
+440.335	I want to show you is --
+443	I'm sure we can all think
+443	of a lot of entertainment apps
+445.701	that you can do with this thing.
+447.249	I'm more interested in the creative
+447.249	applications we can do with this.
+451.323	Now, here's a simple application here --
+451.323	I can draw out a curve.
+456.201	And when I close it,
+456.201	it becomes a character.
+459.785	But the neat thing about it
+459.785	is I can add control points.
+462.786	And then what I can do is manipulate them
+462.786	with both of my fingers at the same time.
+466.787	And you notice what it does.
+469.253	It's kind of a puppeteering thing,
+471.832	where I can use as many fingers
+471.832	as I have to draw and make --
+483.274	Now, there's a lot of actual math
+483.274	going on under here
+486	for this to control this mesh
+486	and do the right thing.
+491.183	This technique of being able to manipulate
+491.183	a mesh here, with multiple control points,
+496.899	is actually state of the art.
+498.399	It was released at SIGGRAPH last year.
+500.247	It's a great example
+500.247	of the kind of research I really love:
+503.041	all this compute power
+503.041	to make things do the right things,
+505.864	intuitive things,
+505.864	to do exactly what you expect.
+512	So, multi-touch interaction research
+512	is a very active field right now in HCI.
+517	I'm not the only one doing it,
+517	a lot of other people are getting into it.
+520.5	This kind of technology is going to let
+520.5	even more people get into it,
+523.769	I'm looking forward to interacting
+523.769	with all of you over the next few days
+527.285	and seeing how it can apply
+527.285	to your respective fields.
+529.846	Thank you.
+531.028	(Applause)

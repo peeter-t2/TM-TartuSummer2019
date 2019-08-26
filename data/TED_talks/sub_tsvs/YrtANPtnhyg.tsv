@@ -1,0 +1,449 @@
+startsecond	text
+15.26	We grew up
+17.26	interacting with the physical
+17.26	objects around us.
+20.26	There are an enormous number of them
+20.26	that we use every day.
+24.553	Unlike most of our computing devices,
+27.26	these objects are much more fun to use.
+31.18	When you talk about objects,
+33.26	one other thing automatically
+33.26	comes attached to that thing,
+36.26	and that is gestures:
+38.26	how we manipulate these objects,
+40.26	how we use these objects in everyday life.
+43.26	We use gestures not only to interact
+43.26	with these objects,
+46.26	but we also use them
+46.26	to interact with each other.
+48.57	"A gesture of ""Namaste!"","
+48.57	maybe, to respect someone, or maybe,
+52.26	in India I don't need to teach
+52.26	a kid that this means
+54.713	"""four runs"" in cricket."
+56.26	It comes as a part
+56.26	of our everyday learning.
+59.716	So, I am very interested,
+59.716	from the beginning,
+63.26	how our knowledge
+63.26	about everyday objects and gestures,
+67.26	and how we use these objects,
+69.26	can be leveraged to our interactions
+69.26	with the digital world.
+72.26	Rather than using a keyboard and mouse,
+75.26	why can I not use my computer
+78.26	in the same way that I interact
+78.26	in the physical world?
+81.26	So, I started this exploration
+81.26	around eight years back,
+84.26	and it literally started
+84.26	with a mouse on my desk.
+87.26	Rather than using it for my computer,
+87.26	I actually opened it.
+93.26	Most of you might be aware
+93.26	that, in those days,
+95.475	the mouse used to come with a ball inside,
+97.499	and there were two rollers
+99.26	that actually guide the computer
+99.26	where the ball is moving,
+102.26	and, accordingly,
+102.26	where the mouse is moving.
+104.38	So, I was interested in these two rollers,
+107.26	and I actually wanted more, so I borrowed
+107.26	another mouse from a friend --
+110.665	never returned to him --
+112.26	and I now had four rollers.
+114.26	Interestingly, what I did
+114.26	with these rollers is,
+117.26	basically, I took them off of these mouses
+117.26	and then put them in one line.
+122.26	It had some strings
+122.26	and pulleys and some springs.
+125.26	What I got is basically
+125.26	a gesture-interface device
+128.26	that actually acts
+128.26	as a motion-sensing device
+132.26	made for two dollars.
+134.26	So, here, whatever movement
+134.26	I do in my physical world
+137.26	is actually replicated
+137.26	inside the digital world
+140.26	just using this small device
+140.26	that I made, around eight years back,
+143.38	in 2000.
+145.26	Because I was interested
+145.26	in integrating these two worlds,
+147.951	I thought of sticky notes.
+149.26	"I thought, ""Why can I not connect"
+152.26	the normal interface
+152.26	of a physical sticky note
+154.427	"to the digital world?"""
+156.26	A message written
+156.26	on a sticky note to my mom,
+158.432	on paper,
+159.66	can come to an SMS,
+161.26	or maybe a meeting reminder
+163.26	automatically syncs
+163.26	with my digital calendar --
+165.475	a to-do list that automatically
+165.475	syncs with you.
+168.26	But you can also search
+168.26	in the digital world,
+171.26	or maybe you can write a query, saying,
+173.26	"""What is Dr. Smith's address?"""
+175.26	and this small system
+175.26	actually prints it out --
+177.475	so it actually acts like a paper
+177.475	input-output system,
+179.976	just made out of paper.
+185.26	In another exploration,
+187.26	I thought of making a pen
+187.26	that can draw in three dimensions.
+190.26	So, I implemented this pen
+190.26	that can help designers and architects
+194.26	not only think in three dimensions,
+196.26	but they can actually draw,
+198.26	so that it's more intuitive
+198.26	to use that way.
+200.332	Then I thought,
+200.332	"""Why not make a Google Map,"
+202.404	"but in the physical world?"""
+204.26	Rather than typing a keyword
+204.26	to find something,
+207.26	I put my objects on top of it.
+209.26	If I put a boarding pass, it will show me
+209.26	where the flight gate is.
+212.475	A coffee cup will show
+212.475	where you can find more coffee,
+215.26	or where you can trash the cup.
+217.26	So, these were some
+217.26	of the earlier explorations I did
+220.26	because the goal was to connect
+220.26	these two worlds seamlessly.
+224.26	Among all these experiments,
+226.26	there was one thing in common:
+228.26	I was trying to bring
+228.26	a part of the physical world
+231.789	to the digital world.
+233.311	I was taking some part of the objects,
+235.26	or any of the intuitiveness of real life,
+238.261	and bringing them to the digital world,
+240.474	because the goal was to make
+240.474	our computing interfaces more intuitive.
+244.523	But then I realized that we humans
+244.523	are not actually interested in computing.
+249.26	What we are interested in is information.
+252.26	We want to know about things.
+254.26	We want to know about
+254.26	dynamic things going around.
+256.665	So I thought, around last year --
+256.665	in the beginning of the last year --
+261.26	"I started thinking, ""Why can I not take"
+261.26	"this approach in the reverse way?"""
+265.379	"Maybe, ""How about I take my digital world"
+267.46	and paint the physical world
+267.46	"with that digital information?"""
+273.414	Because pixels are actually, right now,
+273.414	confined in these rectangular devices
+277.06	that fit in our pockets.
+278.831	Why can I not remove this confine
+281.26	and take that to my everyday
+281.26	objects, everyday life
+284.26	so that I don't need
+284.26	to learn the new language
+286.427	for interacting with those pixels?
+289.474	So, in order to realize this dream,
+292.26	I actually thought of putting
+292.26	a big-size projector on my head.
+295.26	I think that's why this is called
+295.26	a head-mounted projector, isn't it?
+298.523	I took it very literally,
+300.26	and took my bike helmet,
+302.26	put a little cut over there so that
+302.26	the projector actually fits nicely.
+305.665	So now, what I can do --
+307.26	I can augment the world around me
+307.26	with this digital information.
+311.918	But later,
+313.16	I realized that I actually
+313.16	wanted to interact
+315.343	with those digital pixels, also.
+316.96	So I put a small camera over there
+316.96	that acts as a digital eye.
+320.26	Later, we moved to a much better,
+322.26	consumer-oriented pendant version of that,
+324.284	that many of you now know
+324.284	as the SixthSense device.
+327.26	But the most interesting thing
+327.26	about this particular technology
+330.26	is that you can carry
+330.26	your digital world with you
+334.26	wherever you go.
+336.26	You can start using any surface,
+336.26	any wall around you,
+339.26	as an interface.
+341.26	The camera is actually tracking
+341.26	all your gestures.
+344.26	Whatever you're doing with your hands,
+346.26	it's understanding that gesture.
+348.26	And, actually, if you see,
+348.26	there are some color markers
+350.86	that in the beginning version
+350.86	we are using with it.
+353.36	You can start painting on any wall.
+355.26	You stop by a wall,
+355.26	and start painting on that wall.
+358.26	But we are not only tracking
+358.26	one finger, here.
+360.427	We are giving you the freedom
+360.427	of using all of both of your hands,
+364.26	so you can actually use both of your hands
+364.26	to zoom into or zoom out
+367.427	of a map just by pinching all present.
+369.427	The camera is actually doing --
+369.427	just, getting all the images --
+373.26	is doing the edge recognition
+373.26	and also the color recognition
+376.26	and so many other small algorithms
+376.26	are going on inside.
+379.26	So, technically,
+379.26	it's a little bit complex,
+381.284	but it gives you an output which is more
+381.284	intuitive to use, in some sense.
+384.784	But I'm more excited that you can
+384.784	actually take it outside.
+387.66	Rather than getting your camera
+387.66	out of your pocket,
+390.26	you can just do the gesture
+390.26	of taking a photo,
+393.26	and it takes a photo for you.
+395.26	(Applause)
+399.26	Thank you.
+400.859	And later I can find a wall, anywhere,
+403.26	and start browsing those photos
+405.26	"or maybe, ""OK, I want to modify"
+405.26	this photo a little bit
+407.96	"and send it as an email to a friend."""
+409.97	So, we are looking for an era
+412.26	where computing will actually merge
+412.26	with the physical world.
+415.26	And, of course,
+415.26	if you don't have any surface,
+418.26	you can start using your palm
+418.26	for simple operations.
+421.26	Here, I'm dialing a phone number
+421.26	just using my hand.
+427.14	The camera is actually not
+427.14	only understanding your hand movements,
+430.26	but, interestingly,
+431.46	is also able to understand what objects
+431.46	you are holding in your hand.
+435.269	For example, in this case,
+439.26	the book cover is matched
+441.26	with so many thousands,
+441.26	or maybe millions of books online,
+444.26	and checking out which book it is.
+446.26	Once it has that information,
+447.76	it finds out more reviews about that,
+449.66	or maybe New York Times
+449.66	has a sound overview on that,
+452.26	so you can actually hear,
+452.26	on a physical book,
+454.38	a review as sound.
+456.26	(Video) Famous talk
+456.26	at Harvard University --
+458.46	This was Obama's visit last week to MIT.
+462.26	(Video) And particularly I want
+462.26	to thank two outstanding MIT --
+465.749	Pranav Mistry: So, I was seeing
+465.749	the live [video] of his talk,
+468.807	outside, on just a newspaper.
+471.26	Your newspaper will show you
+471.26	live weather information
+474.26	rather than having it updated.
+476.89	You have to check your computer
+476.89	in order to do that, right?
+479.761	(Applause)
+484.26	When I'm going back,
+484.26	I can just use my boarding pass
+487.26	to check how much my flight
+487.26	has been delayed,
+489.38	because at that particular time,
+491.26	I'm not feeling like opening my iPhone,
+493.26	and checking out a particular icon.
+495.26	And I think this technology
+495.26	will not only change the way --
+498.418	(Laughter)
+499.418	Yes.
+500.46	It will change the way
+500.46	we interact with people, also,
+502.962	not only the physical world.
+504.501	The fun part is, I'm going
+504.501	to the Boston metro,
+507.26	and playing a pong game inside the train
+507.26	on the ground, right?
+512.26	(Laughter)
+513.36	And I think the imagination
+513.36	is the only limit
+515.48	of what you can think of
+517.26	when this kind of technology
+517.26	merges with real life.
+519.76	But many of you argue, actually,
+521.66	that all of our work is not
+521.66	only about physical objects.
+524.36	We actually do lots
+524.36	of accounting and paper editing
+527.36	and all those kinds of things;
+527.36	what about that?
+529.675	And many of you are excited
+529.675	about the next-generation tablet computers
+533.26	to come out in the market.
+535.26	So, rather than waiting for that,
+537.26	I actually made my own,
+537.26	just using a piece of paper.
+540.26	So, what I did here
+540.26	is remove the camera --
+542.284	All the webcam cameras have
+542.284	a microphone inside the camera.
+546.26	I removed the microphone from that,
+549.26	and then just pinched that --
+551.26	like I just made a clip
+551.26	out of the microphone --
+554.26	and clipped that to a piece of paper,
+554.26	any paper that you found around.
+558.26	So now the sound of the touch
+561.26	is getting me when exactly
+561.26	I'm touching the paper.
+564.26	But the camera is actually tracking
+564.26	where my fingers are moving.
+568.26	You can of course watch movies.
+571.26	(Video) Good afternoon.
+571.26	My name is Russell,
+574.26	and I am a Wilderness
+574.26	"Explorer in Tribe 54."""
+577.26	PM: And you can of course play games.
+580.26	(Car engine)
+583.26	Here, the camera is actually understanding
+583.26	how you're holding the paper
+586.618	and playing a car-racing game.
+588.26	(Applause)
+592.656	Many of you already must have
+592.656	thought, OK, you can browse.
+595.458	Yeah. Of course you can
+595.458	browse to any websites
+597.76	or you can do all sorts
+597.76	of computing on a piece of paper
+600.46	wherever you need it.
+601.66	So, more interestingly,
+604.26	I'm interested in how we can
+604.26	take that in a more dynamic way.
+607.26	When I come back to my desk,
+607.26	I can just pinch that information
+610.26	back to my desktop
+612.26	so I can use my full-size computer.
+615.26	(Applause)
+617.26	And why only computers?
+617.26	We can just play with papers.
+620.26	Paper world is interesting to play with.
+623.26	Here, I'm taking a part of a document,
+625.26	and putting over here a second part
+625.26	from a second place,
+629.26	and I'm actually modifying the information
+629.26	that I have over there.
+634.26	"Yeah. And I say, ""OK, this looks nice,"
+634.26	"let me print it out, that thing."""
+639.26	So I now have a print-out of that thing.
+641.665	So the workflow is more intuitive,
+644.013	the way we used to do it
+644.013	maybe 20 years back,
+647.26	rather than now switching
+647.26	between these two worlds.
+650.26	So, as a last thought,
+653.26	I think that integrating
+653.26	information to everyday objects
+657.66	will not only help us to get rid
+657.66	of the digital divide,
+661.26	the gap between these two worlds,
+663.26	but will also help us, in some way,
+665.26	to stay human,
+667.26	to be more connected
+667.26	to our physical world.
+673.668	And it will actually help us
+673.668	not end up being machines
+676.26	sitting in front of other machines.
+678.767	That's all. Thank you.
+681.26	(Applause)
+695.26	Thank you.
+696.46	(Applause)
+699.26	Chris Anderson: So, Pranav,
+699.26	first of all, you're a genius.
+703.26	This is incredible, really.
+706.26	What are you doing with this?
+706.26	Is there a company being planned?
+709.384	Or is this research forever, or what?
+711.26	Pranav Mistry: So, there are
+711.26	lots of companies,
+713.56	sponsor companies of Media Lab
+713.56	interested in taking this ahead
+716.58	in one or another way.
+717.79	Companies like mobile-phone operators
+719.787	want to take this in a different way
+719.787	than the NGOs in India,
+722.685	"thinking, ""Why can we only"
+722.685	have 'Sixth Sense'?
+724.885	We should have a 'Fifth Sense'
+724.885	for missing-sense people who cannot speak.
+728.36	This technology can be used for them
+728.36	to speak out in a different way
+731.675	"maybe a speaker system."""
+732.975	CA: What are your own plans?
+732.975	Are you staying at MIT,
+735.46	or are you going to do
+735.46	something with this?
+737.56	PM: I'm trying to make this
+737.56	more available to people
+740.113	so that anyone can develop
+740.113	their own SixthSense device,
+742.813	because the hardware is actually
+742.813	not that hard to manufacture
+746.26	or hard to make your own.
+748.26	We will provide all the open source
+748.26	software for them,
+750.856	maybe starting next month.
+752.26	CA: Open source? Wow.
+754.26	(Applause)
+759.26	CA: Are you going to come back to India
+759.26	with some of this, at some point?
+762.713	PM: Yeah. Yes, yes, of course.
+764.26	CA: What are your plans? MIT? India?
+766.26	How are you going to split
+766.26	your time going forward?
+768.76	PM: There is a lot of energy here.
+768.76	Lots of learning.
+771.26	All of this work that you have seen
+771.26	is all about my learning in India.
+775.26	And now, if you see, it's more about
+775.26	the cost-effectiveness:
+778.26	this system costs you $300
+780.26	compared to the $20,000 surface tables,
+780.26	or anything like that.
+783.26	Or maybe even the $2 mouse gesture system
+783.26	at that time was costing around $5,000?
+789.26	I showed that, at a conference,
+789.26	to President Abdul Kalam, at that time,
+795.26	"and then he said, ""OK, we should use this"
+795.26	in Bhabha Atomic Research Centre
+798.808	"for some use of that."""
+800.26	So I'm excited about how I can bring
+800.26	the technology to the masses
+803.38	rather than just keeping that technology
+803.38	in the lab environment.
+806.404	(Applause)
+810.26	CA: Based on the people we've seen at TED,
+812.402	I would say you're truly
+812.402	one of the two or three
+814.76	best inventors in the world right now.
+816.66	It's an honor to have you at TED.
+818.26	Thank you so much.
+820.26	That's fantastic.
+821.46	(Applause)

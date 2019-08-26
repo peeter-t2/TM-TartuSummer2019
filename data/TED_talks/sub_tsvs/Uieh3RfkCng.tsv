@@ -1,0 +1,255 @@
+startsecond	text
+16.26	When I saw a piece of technology called Kinect --
+19.26	it was called Natal -- I was inspired,
+22.26	and I thought for a moment,
+24.26	maybe it's possible
+26.26	to address that one problem of storytelling,
+29.26	to create a character
+32.26	which seemed alive,
+34.26	which noticed me,
+36.26	that could look me in the eyes
+38.26	and feel real,
+40.26	and sculpt a story about our relationship.
+43.26	And so a year ago,
+46.26	I showed this off
+48.26	at a computer show called E3.
+51.26	And this was a piece of technology
+53.26	with someone called Claire interacting with this boy.
+56.26	And there was a huge row online
+59.26	"about, ""Hey, this can't be real."""
+62.26	And so I waited till now
+64.26	to have an actual demo
+66.26	of the real tech.
+68.26	Now, this tech incorporates
+70.26	three big elements.
+72.26	The first is a Kinect camera,
+74.26	which will be out in November,
+77.26	some incredible AI
+79.26	that was hidden in the dusty vaults,
+82.26	collecting dust
+84.26	in Microsoft,
+86.26	plus our quite crude
+88.26	attempts at AI
+90.26	at a company called Lionhead,
+93.26	mixing all those things together
+95.26	just to get to this one simple idea:
+98.26	to create a real, living
+101.26	being in a computer.
+103.26	Now, I'll be honest with you
+106.26	and say that most of it
+108.26	is just a trick,
+110.26	but it's a trick that actually works.
+113.26	So why don't we go over and have
+115.26	a look at the demo now.
+117.26	This is Dimitri.
+119.26	Dimitri, just waggle your arm around.
+122.26	Now, you notice he's sitting.
+124.26	There are no controllers,
+126.26	no keyboards,
+128.26	or mice,
+130.26	or joysticks, or joypads.
+133.26	He is just going to use
+135.26	his hand, his body and his voice,
+138.26	just like humans interact with their hands, body and voice.
+141.26	So let's move forward.
+143.26	You're going to meet Milo for the first time.
+147.26	We had to give him a problem
+149.26	because when we first created Milo,
+151.26	we realized that he came across as a little bit of a brat,
+153.26	to be honest with you.
+155.26	He was quite a know-it-all,
+157.26	and he wanted to kind of make you laugh.
+159.26	So the problem we introduced to him was this:
+161.26	he's just moved house.
+163.26	He's moved from London
+165.26	to New England, over in America.
+168.26	His parents are too busy
+170.26	to listen to his problems,
+172.26	and that's when he starts almost conjuring you up.
+175.26	So here he is
+177.26	walking through the grass.
+179.26	And you're able to interact with his world.
+182.26	The cool thing is, what we're doing
+185.26	is we're changing the mind
+187.26	of Milo constantly.
+189.26	That means no two people's Milos
+192.26	can be the same.
+194.26	You're actually sculpting a human being here.
+199.26	So, he's discovering the garden.
+201.26	You're helping him discover the garden
+203.26	by just pointing out these snails.
+207.26	Very simple at the start.
+209.26	By the way, if you are a boy, it's snails;
+212.26	if you're a girl, it's butterflies
+215.26	because what we found was that girls hate snails.
+218.26	(Laughter)
+224.26	So remember, this is the first time you've met him,
+227.26	and we really want to draw you in and make you more curious.
+232.26	His face, by the way,
+234.26	is fully AI-driven.
+236.26	We have complete control over his blush responses,
+239.26	the diameter of his nostrils
+242.26	to denote stress.
+244.26	We actually do something called body matching.
+246.26	If you're leaning forward,
+248.26	he will try and slightly change
+250.26	the neuro-linguistic nature of his face,
+253.26	because we went out with this strong idea:
+255.26	how can we make you believe that something's real?
+258.26	Now we've used the hand.
+260.26	The other thing to use is your body.
+263.26	Why not just, instead of pushing left and right
+266.26	with a mouse or with a joypad,
+269.26	why not use your body just to lean on the chair --
+271.26	again, relaxed?
+273.26	You can lean back,
+275.26	but the camera will change its perspective
+277.26	depending on which way you're looking.
+281.26	So Dimitri's now going to use --
+283.26	he's used his hand; he's used his body.
+285.26	He's now going to use the other thing which is essential,
+288.26	and that's his voice.
+290.26	Now, the thing about voice is,
+292.26	our experience with voice recognition
+294.26	is pretty awful, isn't it?
+296.26	It never works.
+298.26	You order an airline ticket; you end up in Timbuktu.
+302.26	So we've tackled that problem,
+304.26	and we've come up with a solution, which we'll see in a second.
+307.26	Milo: I could just squish it.
+309.26	Peter Molyneux: What are you going to do, Dimitri?
+311.26	Female Voice: Squashing a snail may not seem important,
+313.26	but remember, even this choice
+315.26	will affect how Milo develops.
+318.26	Do you want Milo to squash it?
+320.26	When you see the microphone,
+322.26	say ... (PM: Squash.) ... yes to decide.
+324.26	Dimitri: Go on, Milo. Squash it.
+327.26	PM: No. That's the wrong thing to do.
+329.26	Now look at his response.
+331.26	"He said, ""Go on, Milo. Squash it."""
+334.26	What we're using there is,
+336.26	we're using something, a piece of technology called Tellme.
+338.26	It's a company that Microsoft acquired some years ago.
+341.26	We've got a database of words which we recognize.
+343.26	We pick those words out.
+345.26	We also reference that
+347.26	with the tonation database
+349.26	that we build up of Dimitri's voice,
+352.26	or the user's voice.
+354.26	Now we need to have a bit more engagement,
+357.26	and again, what we can do
+359.26	is we can look at the body.
+361.26	And we'll do that in a second.
+363.26	Milo: I wonder how deep it is.
+373.26	Deep.
+376.26	PM: Okay. So what we're going to do now
+378.26	is teach Milo to skim stones.
+381.26	We're actually teaching him.
+383.26	It's very, very interesting
+385.26	that men, more than women,
+387.26	tend to be more competitive here.
+390.26	They're fine with teaching Milo for the first few throws,
+393.26	but then they want to beat Milo,
+395.26	where women,
+397.26	they're more nurturing about this.
+403.26	Okay, this is skimming stones.
+405.26	How do you skim stones?
+408.26	You stand up,
+411.26	and you skim the stone.
+413.26	It's that simple.
+415.26	Just recognizing your body,
+417.26	recognizing the body's motions, the tech,
+419.26	understanding that you've gone
+421.26	from sitting down to standing up.
+424.26	Again, all of this is done
+426.26	in the way us humans do things,
+428.26	and that's crucially important
+431.26	if we want Milo to appear real.
+433.26	Female Voice: See if you can inspire him to do any better.
+441.26	Try hitting the boat.
+445.26	Milo: Ahhh. So close.
+453.26	PM: That's Dimitri at his most competitive.
+455.26	Now beaten an 11-year-old child. Well done.
+459.26	Milo: Okay.
+462.26	PM: So, Milo's being called back in by his parents,
+465.26	giving us time to be alone
+467.26	and to help him out.
+469.26	Basically -- the bit that we missed at the start --
+471.26	his parents had asked him to clean up his room.
+474.26	And we're going to help him with this now.
+476.26	But this is going to be an introduction,
+478.26	and this is all about the deep psychology that we're trying to use.
+481.26	We're trying to introduce you
+483.26	to what I believe is the most wonderful part,
+486.26	you being able to talk
+488.26	in your natural voice to Milo.
+491.26	Now, to do that, we needed a set up,
+493.26	like a magician's trick.
+495.26	And what we did was,
+497.26	we needed to give Milo this big problem.
+499.26	So as Dimitri
+502.26	starts tidying up,
+504.26	you can overhear a conversation
+506.26	that Milo's having with his parents.
+508.26	Milo's Mom: Oh, you've got gravy all over the floor. (Milo: I didn't mean to!)
+510.26	Milo's Mom: That carpet is brand new.
+512.26	PM: So he's just spilled
+514.26	a plate of sausages on the floor,
+516.26	on the brand-new carpet.
+518.26	We've all done it as parents; we've all done it as children.
+521.26	Now's a chance for Dimitri
+523.26	to kind of reassure and calm Milo down.
+525.26	It's all been too much for him.
+527.26	He's just moved house. He's got no friends.
+530.26	Now is the time
+532.26	when we open that portal
+534.26	and allow you to talk to Milo.
+537.26	Female Voice: Why don't you try saying something encouraging
+540.26	to cheer Milo up.
+542.26	Dimitri: Come on, Milo. You know what parents are like.
+544.26	They're always getting stressed.
+548.26	Milo: What do they want to come here for anyway?
+552.26	We don't know anyone.
+555.26	Dimitri: Well, you've got a new school to go to.
+557.26	You're going to meet loads of cool, new friends.
+562.26	Milo: I just really miss my old house, that's all.
+568.26	Dimitri: Well, this is a pretty awesome house, Milo.
+570.26	You've got a cool garden to play in and a pond.
+577.26	Milo: It was good skimming stones.
+587.26	This looks nice.
+590.26	You cleaned up my room.
+592.26	Thanks.
+594.26	PM: So after three-quarters of an hour,
+596.26	he recognizes you.
+598.26	And I promise you, if you're sitting in front of this screen,
+601.26	that is a truly wonderful moment.
+604.26	And we're ready now
+606.26	to tell a story about his childhood and his life,
+608.26	and it goes on,
+610.26	and he has, you know, many adventures.
+612.26	Some of those adventures are a little bit dark or on the darker side.
+615.26	Some of those adventures are wonderfully encouraging --
+617.26	he's got to go to school.
+619.26	The cool thing is
+621.26	that we're doing as well:
+623.26	as you interact with him,
+625.26	you're able to put things into his world; he recognizes objects.
+628.26	His mind is based in a cloud.
+631.26	That means Milo's mind,
+633.26	as millions of people use it,
+635.26	will get smarter and cleverer.
+637.26	He'll recognize more objects
+639.26	and thus understand more words.
+641.26	But for me,
+643.26	this is a wonderful opportunity
+645.26	where technology, at last, can be connected with,
+648.26	where I am no longer restrained
+650.26	by the finger I hold in my hand --
+652.26	as far as a computer game's concerned --
+654.26	or by the blandness of not being noticed
+656.26	if you're watching a film or a book.
+659.26	And I love those revolutions,
+662.26	and I love the future that Milo brings.
+664.26	Thank you very much indeed.
+666.26	(Applause)

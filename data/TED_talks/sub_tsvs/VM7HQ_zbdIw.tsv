@@ -1,0 +1,225 @@
+startsecond	text
+20.624	In the 1980s, in communist
+20.624	Eastern Germany,
+27.349	if you owned a typewriter,
+30.547	you had to register it
+30.547	with the government.
+33.372	You had to register a sample sheet of text
+33.372	out of the typewriter.
+38.86	And this was done
+38.86	so the government could track
+42.435	where the text was coming from.
+44.204	If they found a paper
+44.204	which had the wrong kind of thought,
+49.923	they could track down
+49.923	who created that thought.
+54.369	And we in the West
+57.154	couldn't understand
+57.154	how anybody would do this,
+59.86	how much this would restrict
+59.86	freedom of speech.
+63.061	We would never do that
+63.061	in our own countries.
+68.319	But today, in 2011, if you go
+68.319	and buy a color laser printer
+74.76	from any major laser printer manufacturer
+78.623	and print a page,
+80.084	that page will end up
+81.86	having slight yellow dots
+81.86	printed on every single page,
+87.104	in a pattern which makes the page unique
+87.104	to you and to your printer.
+94.381	This is happening to us today.
+99.358	And nobody seems
+99.358	to be making a fuss about it.
+103.615	And this is an example
+106.303	of the ways our own governments
+106.303	are using technology
+113.179	against us, the citizens.
+117.179	And this is one of the main three sources
+117.179	of online problems today.
+121.537	If we look at what's really
+121.537	happening in the online world,
+124.551	we can group the attacks
+124.551	based on the attackers.
+128.028	We have three main groups.
+129.86	We have online criminals.
+131.323	Like here, we have Mr. Dmitry Golubov,
+133.55	from the city of Kiev in Ukraine.
+136.419	And the motives of online criminals
+136.419	are very easy to understand.
+140.86	These guys make money.
+142.478	They use online attacks
+142.478	to make lots of money --
+146.756	and lots and lots of it.
+148.757	We actually have several cases
+148.757	of millionaires online, multimillionaires,
+154.166	who made money with their attacks.
+155.95	Here's Vladimir Tsastsin,
+155.95	from Tartu in Estonia.
+159.476	This is [Albert] Gonzalez.
+161.295	This is Stephen Watt.
+163.094	This is Bjorn Sundin.
+164.916	This is Matthew Anderson, Tariq Al-Daour
+166.881	and so on and so on.
+170.256	These guys make their fortunes online,
+174.499	but they make it through the illegal means
+176.86	of using things like banking Trojans
+179.579	to steal money from our bank accounts
+179.579	while we do online banking,
+183.056	or with keyloggers
+185.33	to collect our credit card information
+187.612	while we are doing online shopping
+187.612	from an infected computer.
+191.197	The US Secret Service,
+193.575	two months ago,
+193.575	froze the Swiss bank account
+196.621	of Mr. Sam Jain right here,
+199.226	and that bank account
+199.226	had 14.9 million US dollars in it
+202.962	when it was frozen.
+204.377	Mr. Jain himself is on the loose;
+204.377	nobody knows where he is.
+208.637	And I claim it's already today
+212.335	that it's more likely for any of us
+212.335	to become the victim of a crime online
+218.081	than here in the real world.
+221.691	And it's very obvious
+221.691	that this is only going to get worse.
+224.66	In the future, the majority of crime
+224.66	will be happening online.
+231.488	The second major group of attackers
+231.488	that we are watching today
+234.86	are not motivated by money.
+237.143	They're motivated by something else --
+239.27	motivated by protests,
+241.271	motivated by an opinion,
+243.507	motivated by the laughs.
+245.702	Groups like Anonymous
+245.702	have risen up over the last 12 months
+251.251	and have become a major player
+251.251	in the field of online attacks.
+256.287	So those are the three main attackers:
+258.143	criminals who do it for the money,
+260.222	hacktivists like Anonymous
+260.222	doing it for the protest,
+264.745	but then the last group
+264.745	are nation states --
+267.971	governments doing the attacks.
+272.551	And then we look at cases
+272.551	like what happened in DigiNotar.
+276.068	This is a prime example of what happens
+276.068	when governments attack
+279.978	against their own citizens.
+282.412	DigiNotar is a certificate
+282.412	authority from the Netherlands --
+287.423	or actually, it was.
+289.023	It was running into bankruptcy last fall,
+294.269	because they were hacked into.
+296.061	Somebody broke in
+296.061	and they hacked it thoroughly.
+300.591	And I asked last week,
+303.19	in a meeting with Dutch
+303.19	government representatives,
+307.337	I asked one of the leaders of the team
+312.15	whether he found plausible
+312.15	that people died
+317.504	because of the DigiNotar hack.
+321.447	And his answer was: yes.
+326.073	So how do people die
+328.136	as the result of a hack like this?
+331.049	Well, DigiNotar is a CA.
+332.86	They sell certificates.
+334.86	What do you do with certificates?
+336.49	Well, you need a certificate
+336.49	if you have a website
+339.056	that has https, SSL encrypted services,
+343.725	services like Gmail.
+347.363	Now we all, or a big part of us,
+347.363	use Gmail or one of their competitors,
+351.048	but these services are especially popular
+351.048	in totalitarian states like Iran,
+356.86	where dissidents
+356.86	use foreign services like Gmail
+361.86	because they know they are more
+361.86	trustworthy than the local services
+365.075	and they are encrypted
+365.075	over SSL connections,
+367.86	so the local government
+367.86	can't snoop on their discussions.
+372.196	Except they can,
+373.564	if they hack into a foreign CA
+373.564	and issue rogue certificates.
+377.439	And this is exactly what happened
+377.439	with the case of DigiNotar.
+385.109	What about Arab Spring
+387.125	and things that have been happening,
+387.125	for example, in Egypt?
+390.46	Well, in Egypt,
+391.827	the rioters looted the headquarters
+391.827	of the Egyptian secret police
+395.558	in April 2011,
+398.172	and when they were looting the building,
+398.172	they found lots of papers.
+401.34	Among those papers
+401.34	"was this binder entitled, ""FinFisher."""
+405.221	And within that binder were notes
+405.221	from a company based in Germany,
+410.081	which had sold to the Egyptian government
+413.627	a set of tools for intercepting,
+413.627	at a very large scale,
+418.354	all the communication
+418.354	of the citizens of the country.
+421.429	They had sold this tool for 280,000 euros
+421.429	to the Egyptian government.
+426.329	The company headquarters are right here.
+429.273	So Western governments are providing
+429.273	totalitarian governments with tools
+433.714	to do this against their own citizens.
+437.293	But Western governments
+437.293	are doing it to themselves as well.
+440.294	For example, in Germany,
+442.489	just a couple of weeks ago,
+442.489	"the so-called ""State Trojan"" was found,"
+447.076	which was a Trojan used
+447.076	by German government officials
+450.852	to investigate their own citizens.
+453.079	If you are a suspect in a criminal case,
+456.807	well, it's pretty obvious,
+456.807	your phone will be tapped.
+459.356	But today, it goes beyond that.
+461.622	They will tap your Internet connection.
+463.565	They will even use tools like State Trojan
+466.325	to infect your computer with a Trojan,
+468.861	which enables them
+468.861	to watch all your communication,
+473.251	to listen to your online discussions,
+476.092	to collect your passwords.
+481.816	Now, when we think deeper
+481.816	about things like these,
+487.06	the obvious response
+487.06	from people should be,
+492.398	"""OK, well, that sounds bad,"
+492.398	but that doesn't really affect me,
+496.664	because I'm a legal citizen.
+498.864	Why should I worry?
+498.864	"Because I have nothing to hide."""
+503.373	And this is an argument
+503.373	which doesn't make sense.
+507.237	Privacy is implied.
+510.07	Privacy is not up for discussion.
+514.538	This is not a question
+516.434	between privacy
+521.007	against security.
+523.729	It's a question of freedom
+527.308	against control.
+530.046	And while we might trust our governments
+530.046	right now, right here in 2011,
+536.933	any rights we give away
+536.933	will be given away for good.
+540.396	And do we trust, do we blindly trust,
+540.396	any future government,
+545.001	a government we might have
+551.46	And these are the questions
+554.27	that we have to worry about
+554.27	for the next 50 years.

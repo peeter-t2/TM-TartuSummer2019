@@ -1,0 +1,242 @@
+startsecond	text
+12.16	One of the problems of writing, and working, and looking at the Internet
+15.16	is that it's very hard to separate fashion from deep change.
+22.16	And so, to start helping that, I want to take us back to 1835.
+26.16	In 1835, James Gordon Bennett founded the first mass-circulation newspaper
+33.16	in New York City.
+35.16	And it cost about 500 dollars to start it,
+38.16	which was about the equivalent of 10,000 dollars of today.
+42.16	By 15 years later, by 1850, doing the same thing
+46.16	-- starting what was experienced as a mass--circulation daily paper
+49.16	-- would come to cost two and a half million dollars.
+56.16	That's the critical change that is being inverted by the Net.
+63.16	And that's what I want to talk about today,
+66.16	and how that relates to the emergence of social production.
+69.16	Starting with newspapers, what we saw was high cost as an initial requirement
+77.16	for making information, knowledge and culture, which led to a stark bifurcation
+83.16	between producers -- who had to be able to raise financial capital,
+87.16	just like any other industrial organization --
+91.16	and passive consumers that could choose from a certain set of
+94.16	things that this industrial model could produce.
+99.16	"Now, the term ""information society,"" ""information economy,"""
+102.16	for a very long time has been used as the thing that comes after
+106.16	the industrial revolution. But in fact, for purposes of understanding what's happening
+112.16	today, that's wrong. Because for 150 years, we've had an information economy.
+118.16	It's just been industrial,
+120.16	which means those who were producing had to have a way of raising money
+124.16	to pay those two and a half million dollars, and later, more for the telegraph,
+128.16	and the radio transmitter, and the television, and eventually the mainframe.
+133.16	And that meant they were market based, or they were government owned,
+136.16	depending on what kind of system they were in. And this characterized and anchored
+141.16	the way information and knowledge were produced for the next 150 years.
+148.16	Now, let me tell you a different story. Around June 2002,
+153.16	the world of supercomputers had a bombshell.
+157.16	The Japanese had, for the first time, created the fastest supercomputer --
+161.16	the NEC Earth Simulator -- taking the primary from the U.S.,
+164.16	and about two years later -- this, by the way, is measuring the trillion floating-point
+168.16	operations per second that the computer's capable of running --
+172.16	sigh of relief: IBM [Blue Gene] has just edged ahead of the NEC Earth Simulator.
+178.16	All of this completely ignores the fact that throughout this period,
+182.16	there's another supercomputer running in the world -- SETI@home.
+186.16	Four and a half million users around the world, contributing their
+190.16	leftover computer cycles, whenever their computer isn't working,
+194.16	by running a screen saver, and together sharing their resources to create
+201.16	a massive supercomputer that NASA harnesses to analyze the data
+206.16	coming from radio telescopes.
+210.16	What this picture suggests to us is that we've got a radical change in the way
+217.16	information production and exchange is capitalized. Not that it's become
+221.16	less capital intensive -- that there's less money that's required
+224.16	-- but that the ownership of this capital, the way the capitalization happens,
+229.16	is radically distributed. Each of us, in these advanced economies,
+234.16	has one of these, or something rather like it -- a computer.
+239.16	They're not radically different from routers inside the middle of the network.
+244.16	And computation, storage and communications capacity are in the hands of
+249.16	practically every connected person -- and these are the basic physical
+255.16	capital means necessary for producing information, knowledge and culture,
+260.16	in the hands of something like 600 million to a billion people around the planet.
+266.16	What this means is that for the first time since the industrial revolution,
+272.16	the most important means, the most important components of the core
+278.16	economic activities -- remember, we are in an information economy
+282.16	-- of the most advanced economies, and there more than anywhere else,
+287.16	are in the hands of the population at large. This is completely different than what we've
+291.16	seen since the industrial revolution. So we've got communications and computation
+296.16	capacity in the hands of the entire population,
+299.16	and we've got human creativity, human wisdom, human experience
+304.16	-- the other major experience, the other major input --
+307.16	which unlike simple labor -- stand here turning this lever all day long --
+312.16	is not something that's the same or fungible among people.
+315.16	Any one of you who has taken someone else's job, or tried to give yours
+318.16	to someone else, no matter how detailed the manual, you cannot transmit
+324.16	what you know, what you will intuit under a certain set of circumstances.
+329.16	In that we're unique, and each of us holds this critical input
+333.16	into production as we hold this machine.
+337.16	What's the effect of this? So, the story that most people know
+342.16	is the story of free or open source software.
+346.16	This is market share of Apache Web server
+349.16	-- one of the critical applications in Web-based communications.
+355.16	In 1995, two groups of people said,
+359.16	"""Wow, this is really important, the Web! We need a much better Web server!"""
+363.16	One was a motley collection of volunteers who just decided,
+367.16	you know, we really need this, we should write one,
+369.16	and what are we going to do with what --
+372.16	well, we're gonna share it! And other people will be able to develop it.
+374.16	The other was Microsoft.
+376.16	Now, if I told you that 10 years later, the motley crew of people, who didn't control
+381.16	anything that they produced, acquired 20 percent of the market
+384.16	and was the red line, it would be amazing! Right?
+387.16	Think of it in minivans. A group of automobile
+390.16	engineers on their weekends are competing with Toyota. Right?
+395.16	But, in fact, of course, the story is it's the 70 percent,
+398.16	including the major e-commerce site -- 70 percent of a critical application
+403.16	on which Web-based communications and applications work is produced in this form, in
+409.16	direct competition with Microsoft. Not in a side issue --
+413.16	in a central strategic decision to try to capture a component of the Net.
+420.16	Software has done this in a way that's been very visible, because
+425.16	it's measurable. But the thing to see is that this actually happens throughout the Web.
+431.16	So, NASA, at some point, did an experiment where they took images of Mars
+437.16	that they were mapping, and they said, instead of having three or four
+441.16	fully trained Ph.D.s doing this all the time, let's break it up into small components,
+446.16	put it up on the Web, and see if people, using a very simple interface,
+450.16	will actually spend five minutes here,
+461.16	faster rate than the images were coming in, which was, quote,
+465.16	"""practically indistinguishable from the markings of a fully-trained Ph.D.,"""
+469.16	once you showed it to a number of people and computed the average.
+476.16	Now, if you have a little girl, and she goes and writes to
+479.16	-- well, not so little, medium little -- tries to do research on Barbie.
+483.16	And she'll come to Encarta, one of the main online encyclopedias.
+487.16	This is what you'll find out about Barbie. This is it, there's nothing more to the definition,
+493.16	"including, ""manufacturers"" -- plural -- ""now more commonly produce"
+497.16	"ethnically diverse dolls, like this black Barbie."" Which is vastly better"
+501.16	than what you'll find in the encyclopedia.com,
+504.16	which is Barbie, Klaus. (Laughter)
+508.16	On the other hand, if they go to Wikipedia, they'll find a genuine article
+513.16	-- and I won't talk a lot about Wikipedia, because Jimmy Wales is here --
+516.16	but roughly equivalent to what you would find in the Britannica, differently written,
+522.16	including the controversies over body image and commercialization,
+526.16	the claims about the way in which she's a good role model, etc.
+534.16	Another portion is not only how content is produced, but how relevance is produced.
+538.16	The claim to fame of Yahoo! was, we hire people to look -- originally, not anymore
+542.16	-- we hire people to look at websites and tell you --
+547.16	if they're in the index, they're good. This, on the other hand, is what 60,000
+551.16	passionate volunteers produce in the Open Directory Project,
+555.16	each one willing to spend an hour or two on something they really care about,
+560.16	to say, this is good. So, this is the Open Directory Project, with 60,000 volunteers,
+566.16	each one spending a little bit of time, as opposed to a few hundred
+569.16	fully paid employees. No one owns it, no one owns the output,
+574.16	it's free for anyone to use and it's the output of people acting out of social
+579.16	and psychological motivations to do something interesting.
+583.16	This is not only outside of businesses. When you think of what is the critical innovation
+589.16	of Google, the critical innovation is outsourcing the one most important thing --
+594.16	the decision about what's relevant -- to the community of the Web as a whole,
+601.16	doing whatever they want to do: so, page rank.
+604.16	The critical innovation here is instead of our engineers, or our people saying
+610.16	which is the most relevant, we're going to go out and count what you,
+613.16	people out there on the Web, for whatever reason -- vanity, pleasure --
+617.16	produced links, and tied to each other. We're going to count those, and count them up.
+623.16	And again, here, you see Barbie.com, but also, very quickly,
+627.16	Adiosbarbie.com, the body image for every size. A contested cultural object,
+632.16	which you won't find anywhere soon on Overture, which is the classic
+636.16	market-based mechanism: whoever pays the most is highest on the list.
+641.16	So, all of that is in the creation of content, of relevance, basic human expression.
+646.16	But remember, the computers were also physical. Just physical materials
+650.16	-- our PCs -- we share them together. We also see this in wireless.
+654.16	It used to be wireless was one person owned the license, they transmitted in an
+660.16	area, and it had to be decided whether they would be licensed or based on property.
+665.16	What we're seeing now is that computers and radios are becoming so sophisticated
+670.16	that we're developing algorithms to let people own machines, like Wi-Fi devices,
+676.16	and overlay them with a sharing protocol that would allow a community like this
+681.16	to build its own wireless broadband network simply from the simple principle:
+687.16	When I'm listening, when I'm not using, I can help you transfer your messages;
+693.16	and when you're not using, you'll help me transfer yours.
+696.16	And this is not an idealized version. These are working models that at least in some
+701.16	places in the United States are being implemented, at least for public security.
+708.16	If in 1999 I told you, let's build a data storage and retrieval system.
+714.16	It's got to store terabytes. It's got to be available 24 hours a day,
+717.16	seven days a week. It's got to be available from anywhere in the world.
+720.16	It has to support over 100 million users at any given moment. It's got to
+724.16	be robust to attack, including closing the main index, injecting malicious files,
+729.16	armed seizure of some major nodes. You'd say that would take years.
+734.16	It would take millions. But of course, what I'm describing is P2P file sharing.
+741.16	Right? We always think of it as stealing music, but fundamentally,
+744.16	it's a distributed data storage and retrieval system, where people,
+748.16	for very obvious reasons, are willing to share their bandwidth and their
+752.16	storage to create something.
+755.16	So, essentially what we're seeing is the emergence of a fourth transactional
+759.16	framework. It used to be that there were two primary dimensions along which
+765.16	you could divide things. They could be market based, or non-market based;
+768.16	they could be decentralized, or centralized.
+770.16	The price system was a market-based and decentralized system.
+773.16	If things worked better because you actually had somebody organizing them,
+777.16	you had firms, if you wanted to be in the market -- or you had governments
+780.16	or sometimes larger non-profits in the non-market.
+783.16	It was too expensive to have decentralized social production,
+788.16	to have decentralized action in society. That was not about society itself.
+795.16	That was, in fact, economic.
+797.16	But what we're seeing now is the emergence of this fourth system
+801.16	of social sharing and exchange.
+802.16	Not that it's the first time that we do nice things to each other, or for each other,
+807.16	as social beings. We do it all the time.
+811.16	It's that it's the first time that it's having major economic impact.
+815.16	What characterizes them is decentralized authority.
+820.16	You don't have to ask permission, as you do in a property-based system.
+823.16	May I do this? It's open for anyone to create and innovate and share,
+829.16	if they want to, by themselves or with others,
+833.16	because property is one mechanism of coordination.
+835.16	But it's not the only one.
+837.16	Instead, what we see are social frameworks for all of the critical things that we use
+842.16	property and contract in the market: information flows to decide what are
+845.16	interesting problems; who's available and good for something;
+849.16	motivation structures -- remember, money isn't always the best motivator.
+853.16	If you leave a $50 check after dinner with friends,
+857.16	you don't increase the probability of being invited back.
+861.16	And if dinner isn't entirely obvious, think of sex. (Laughter)
+867.16	It also requires certain new organizational approaches.
+870.16	And in particular, what we've seen is task organization.
+874.16	You have to hire people who know what they're doing.
+876.16	You have to hire them to spend a lot of time.
+879.16	Now, take the same problem,
+881.16	chunk it into little modules, and motivations become trivial.
+885.16	Five minutes, instead of watching TV?
+887.16	Five minutes I'll spend just because it's interesting. Just because it's fun.
+891.16	Just because it gives me a certain sense of meaning, or, in places that are more
+895.16	involved, like Wikipedia, gives me a certain set of social relations.
+901.16	So, a new social phenomenon is emerging.
+905.16	It's creating, and it's most visible when we see it as a new form of competition.
+910.16	Peer-to-peer networks assaulting the recording industry;
+913.16	free and open source software taking market share from Microsoft;
+917.16	Skype potentially threatening traditional telecoms;
+921.16	Wikipedia competing with online encyclopedias.
+924.16	But it's also a new source of opportunities for businesses.
+927.16	As you see a new set of social relations and behaviors emerging,
+933.16	you have new opportunities. Some of them are toolmakers.
+937.16	Instead of building well-behaved appliances
+940.16	-- things that you know what they'll do in advance --
+942.16	you begin to build more open tools. There's a new set of values,
+945.16	a new set of things people value.
+948.16	You build platforms for self-expression and collaboration.
+952.16	Like Wikipedia, like the Open Directory Project,
+956.16	you're beginning to build platforms, and you see that as a model.
+959.16	And you see surfers, people who see this happening, and in some sense
+963.16	build it into a supply chain, which is a very curious one. Right?
+968.16	You have a belief: stuff will flow out of connected human beings.
+971.16	That'll give me something I can use, and I'm going to contract with someone.
+974.16	I will deliver something based on what happens. It's very scary
+978.16	-- that's what Google does, essentially.
+980.16	That's what IBM does in software services, and they've done reasonably well.
+984.16	So, social production is a real fact, not a fad.
+988.16	It is the critical long-term shift caused by the Internet.
+992.16	Social relations and exchange become significantly more important than they ever
+999.16	were as an economic phenomenon. In some contexts, it's even more efficient
+1003.16	because of the quality of the information, the ability to find the best person,
+1008.16	the lower transaction costs. It's sustainable and growing fast.
+1012.16	But -- and this is the dark lining -- it is threatened by
+1018.16	-- in the same way that it threatens -- the incumbent industrial systems.
+1022.16	So next time you open the paper, and you see an intellectual property decision,
+1027.16	a telecoms decision, it's not about something small and technical.
+1033.16	It is about the future of the freedom to be as social beings with each other,
+1039.16	and the way information, knowledge and culture will be produced.
+1044.16	Because it is in this context that we see a battle over how easy or hard it will be
+1051.16	for the industrial information economy to simply go on as it goes,
+1055.16	or for the new model of production to begin to develop alongside that industrial model,
+1061.16	and change the way we begin to see the world and report what it is that we see.
+1066.16	Thank you.

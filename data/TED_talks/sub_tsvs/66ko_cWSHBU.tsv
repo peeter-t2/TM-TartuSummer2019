@@ -1,0 +1,378 @@
+startsecond	text
+12.954	My colleagues and I are fascinated
+12.954	by the science of moving dots.
+16.927	So what are these dots?
+18.101	Well, it's all of us.
+19.412	And we're moving in our homes,
+19.412	in our offices, as we shop and travel
+24.521	throughout our cities
+24.521	and around the world.
+26.958	And wouldn't it be great
+26.958	if we could understand all this movement?
+30.918	If we could find patterns and meaning
+30.918	and insight in it.
+34.259	And luckily for us, we live in a time
+36.068	where we're incredibly good
+36.068	at capturing information about ourselves.
+40.807	So whether it's through
+40.807	sensors or videos, or apps,
+44.494	we can track our movement
+44.494	with incredibly fine detail.
+48.092	So it turns out one of the places
+48.092	where we have the best data about movement
+53.148	is sports.
+54.682	So whether it's basketball or baseball,
+54.682	or football or the other football,
+60.039	we're instrumenting our stadiums
+60.039	and our players to track their movements
+64.465	every fraction of a second.
+65.802	So what we're doing
+65.802	is turning our athletes into --
+70.208	you probably guessed it --
+72.191	moving dots.
+73.946	So we've got mountains of moving dots
+73.946	and like most raw data,
+78.904	it's hard to deal with
+78.904	and not that interesting.
+81.43	But there are things that, for example,
+81.43	basketball coaches want to know.
+85.223	And the problem is they can't know them
+85.223	because they'd have to watch every second
+89.057	of every game, remember it and process it.
+91.804	And a person can't do that,
+93.758	but a machine can.
+95.661	The problem is a machine can't see
+95.661	the game with the eye of a coach.
+99.363	At least they couldn't until now.
+102.228	So what have we taught the machine to see?
+105.569	So, we started simply.
+107.38	We taught it things like passes,
+107.38	shots and rebounds.
+111.203	Things that most casual fans would know.
+113.768	And then we moved on to things
+113.768	slightly more complicated.
+116.624	Events like post-ups,
+116.624	and pick-and-rolls, and isolations.
+121.377	And if you don't know them, that's okay.
+121.377	Most casual players probably do.
+125.56	Now, we've gotten to a point where today,
+125.56	the machine understands complex events
+130.924	like down screens and wide pins.
+134.021	Basically things only professionals know.
+136.771	So we have taught a machine to see
+136.771	with the eyes of a coach.
+142.009	So how have we been able to do this?
+144.511	If I asked a coach to describe
+144.511	something like a pick-and-roll,
+147.653	they would give me a description,
+149.317	and if I encoded that as an algorithm,
+149.317	it would be terrible.
+153.026	The pick-and-roll happens to be this dance
+153.026	in basketball between four players,
+157.328	two on offense and two on defense.
+159.486	And here's kind of how it goes.
+161.128	So there's the guy on offense
+161.128	without the ball
+163.685	the ball and he goes next to the guy
+163.685	guarding the guy with the ball,
+166.918	and he kind of stays there
+168.199	and they both move and stuff happens,
+168.199	and ta-da, it's a pick-and-roll.
+171.54	(Laughter)
+173.779	So that is also an example
+173.779	of a terrible algorithm.
+176.913	So, if the player who's the interferer --
+176.913	he's called the screener --
+181.278	goes close by, but he doesn't stop,
+184.174	it's probably not a pick-and-roll.
+186.56	Or if he does stop,
+186.56	but he doesn't stop close enough,
+190.529	it's probably not a pick-and-roll.
+192.642	Or, if he does go close by
+192.642	and he does stop
+195.903	but they do it under the basket,
+195.903	it's probably not a pick-and-roll.
+199.462	Or I could be wrong,
+199.462	they could all be pick-and-rolls.
+202.01	It really depends on the exact timing,
+202.01	the distances, the locations,
+206.602	and that's what makes it hard.
+208.579	So, luckily, with machine learning,
+208.579	we can go beyond our own ability
+213.547	to describe the things we know.
+215.314	So how does this work?
+215.314	Well, it's by example.
+217.759	So we go to the machine and say,
+217.759	"""Good morning, machine."
+221.077	Here are some pick-and-rolls,
+221.077	and here are some things that are not.
+224.72	"Please find a way to tell the difference."""
+227.076	And the key to all of this is to find
+227.076	features that enable it to separate.
+230.807	So if I was going
+230.807	to teach it the difference
+232.94	between an apple and orange,
+234.345	"I might say, ""Why don't you"
+234.345	"use color or shape?"""
+236.744	And the problem that we're solving is,
+236.744	what are those things?
+239.711	What are the key features
+240.982	that let a computer navigate
+240.982	the world of moving dots?
+244.505	So figuring out all these relationships
+244.505	with relative and absolute location,
+249.352	distance, timing, velocities --
+251.44	that's really the key to the science
+251.44	of moving dots, or as we like to call it,
+256.392	spatiotemporal pattern recognition,
+256.392	in academic vernacular.
+259.925	Because the first thing is,
+259.925	you have to make it sound hard --
+262.847	because it is.
+264.41	The key thing is, for NBA coaches,
+264.41	it's not that they want to know
+267.575	whether a pick-and-roll happened or not.
+269.521	It's that they want to know
+269.521	how it happened.
+271.621	And why is it so important to them?
+271.621	So here's a little insight.
+274.631	It turns out in modern basketball,
+276.426	this pick-and-roll is perhaps
+276.426	the most important play.
+279.065	And knowing how to run it,
+279.065	and knowing how to defend it,
+281.709	is basically a key to winning
+281.709	and losing most games.
+284.403	So it turns out that this dance
+284.403	has a great many variations
+288.228	and identifying the variations
+288.228	is really the thing that matters,
+291.9	and that's why we need this
+291.9	to be really, really good.
+295.228	So, here's an example.
+296.428	There are two offensive
+296.428	and two defensive players,
+298.831	getting ready to do
+298.831	the pick-and-roll dance.
+301.007	So the guy with ball
+301.007	can either take, or he can reject.
+304.086	His teammate can either roll or pop.
+307.111	The guy guarding the ball
+307.111	can either go over or under.
+310.121	His teammate can either show
+310.121	or play up to touch, or play soft
+314.71	and together they can
+314.71	either switch or blitz
+317.352	and I didn't know
+317.352	most of these things when I started
+320.035	and it would be lovely if everybody moved
+320.035	according to those arrows.
+323.979	It would make our lives a lot easier,
+323.979	but it turns out movement is very messy.
+328.047	People wiggle a lot and getting
+328.047	these variations identified
+333.555	with very high accuracy,
+334.882	both in precision and recall, is tough
+336.774	because that's what it takes to get
+336.774	a professional coach to believe in you.
+340.416	And despite all the difficulties
+340.416	with the right spatiotemporal features
+343.82	we have been able to do that.
+345.318	Coaches trust our ability of our machine
+345.318	to identify these variations.
+349.478	We're at the point where
+349.478	almost every single contender
+353.035	for an NBA championship this year
+354.682	is using our software, which is built
+354.682	on a machine that understands
+359.114	the moving dots of basketball.
+361.872	So not only that, we have given advice
+361.872	that has changed strategies
+367.049	that have helped teams win
+367.049	very important games,
+370.425	and it's very exciting because you have
+370.425	coaches who've been in the league
+374.181	for 30 years that are willing to take
+374.181	advice from a machine.
+377.874	And it's very exciting,
+377.874	it's much more than the pick-and-roll.
+380.804	Our computer started out
+380.804	with simple things
+382.904	and learned more and more complex things
+384.992	and now it knows so many things.
+386.577	Frankly, I don't understand
+386.577	much of what it does,
+389.436	and while it's not that special
+389.436	to be smarter than me,
+393.175	we were wondering,
+393.175	can a machine know more than a coach?
+396.843	Can it know more than person could know?
+398.922	And it turns out the answer is yes.
+400.691	The coaches want players
+400.691	to take good shots.
+403.272	So if I'm standing near the basket
+404.947	and there's nobody near me,
+404.947	it's a good shot.
+407.137	If I'm standing far away surrounded
+407.137	by defenders, that's generally a bad shot.
+411.101	"But we never knew how good ""good"" was,"
+411.101	"or how bad ""bad"" was quantitatively."
+416.209	Until now.
+417.771	So what we can do, again,
+417.771	using spatiotemporal features,
+420.853	we looked at every shot.
+422.251	We can see: Where is the shot?
+422.251	What's the angle to the basket?
+425.28	Where are the defenders standing?
+425.28	What are their distances?
+428.066	What are their angles?
+429.421	For multiple defenders, we can look
+429.421	at how the player's moving
+432.422	and predict the shot type.
+433.879	We can look at all their velocities
+433.879	and we can build a model that predicts
+437.977	what is the likelihood that this shot
+437.977	would go in under these circumstances?
+442.188	So why is this important?
+444.102	We can take something that was shooting,
+446.929	which was one thing before,
+446.929	and turn it into two things:
+449.633	the quality of the shot
+449.633	and the quality of the shooter.
+453.68	So here's a bubble chart,
+453.68	because what's TED without a bubble chart?
+456.966	(Laughter)
+458.004	Those are NBA players.
+459.339	The size is the size of the player
+459.339	and the color is the position.
+462.483	On the x-axis,
+462.483	we have the shot probability.
+464.639	People on the left take difficult shots,
+466.616	on the right, they take easy shots.
+469.194	On the [y-axis] is their shooting ability.
+471.275	People who are good are at the top,
+471.275	bad at the bottom.
+473.861	So for example, if there was a player
+475.621	who generally made
+477.718	that's all you knew before.
+479.345	But today, I can tell you that player
+479.345	takes shots that an average NBA player
+484.219	would make 49 percent of the time,
+486.204	and they are two percent worse.
+488.266	And the reason that's important
+488.266	is that there are lots of 47s out there.
+493.714	And so it's really important to know
+496.287	if the 47 that you're considering
+496.287	giving 100 million dollars to
+500.267	is a good shooter who takes bad shots
+503.346	or a bad shooter who takes good shots.
+507.13	Machine understanding doesn't just change
+507.13	how we look at players,
+510.487	it changes how we look at the game.
+512.369	So there was this very exciting game
+512.369	a couple of years ago, in the NBA finals.
+516.148	Miami was down by three,
+516.148	there was 20 seconds left.
+519.379	They were about to lose the championship.
+521.428	A gentleman named LeBron James
+521.428	came up and he took a three to tie.
+524.793	He missed.
+526.015	His teammate Chris Bosh got a rebound,
+527.876	passed it to another teammate
+527.876	named Ray Allen.
+530.059	He sank a three. It went into overtime.
+532.002	They won the game.
+532.002	They won the championship.
+534.122	It was one of the most exciting
+534.122	games in basketball.
+537.438	And our ability to know
+537.438	the shot probability for every player
+540.891	at every second,
+542.103	and the likelihood of them getting
+542.103	a rebound at every second
+545.083	can illuminate this moment in a way
+545.083	that we never could before.
+549.618	Now unfortunately,
+549.618	I can't show you that video.
+552.31	But for you, we recreated that moment
+556.827	at our weekly basketball game
+556.827	about 3 weeks ago.
+559.279	(Laughter)
+561.573	And we recreated the tracking
+561.573	that led to the insights.
+565.199	So, here is us.
+565.199	This is Chinatown in Los Angeles,
+569.478	a park we play at every week,
+571.066	and that's us recreating
+571.066	the Ray Allen moment
+573.321	and all the tracking
+573.321	that's associated with it.
+576.772	So, here's the shot.
+578.313	I'm going to show you that moment
+580.853	and all the insights of that moment.
+583.464	The only difference is, instead
+583.464	of the professional players, it's us,
+587.218	and instead of a professional
+587.218	announcer, it's me.
+589.86	So, bear with me.
+593.153	Miami.
+594.671	Down three.
+596.107	Twenty seconds left.
+599.385	Jeff brings up the ball.
+602.656	Josh catches, puts up a three!
+604.631	[Calculating shot probability]
+607.278	[Shot quality]
+609.048	[Rebound probability]
+612.373	Won't go!
+613.57	[Rebound probability]
+615.777	Rebound, Noel.
+617.057	Back to Daria.
+618.509	[Shot quality]
+622.676	Her three-pointer -- bang!
+624.32	Tie game with five seconds left.
+626.88	The crowd goes wild.
+628.522	(Laughter)
+630.205	That's roughly how it happened.
+631.776	(Applause)
+632.951	Roughly.
+634.15	(Applause)
+636.121	That moment had about a nine percent
+636.121	chance of happening in the NBA
+641.629	and we know that
+641.629	and a great many other things.
+643.914	I'm not going to tell you how many times
+643.914	it took us to make that happen.
+647.429	(Laughter)
+649.2	Okay, I will! It was four.
+651.096	(Laughter)
+652.121	Way to go, Daria.
+653.647	But the important thing about that video
+657.934	and the insights we have for every second
+657.934	of every NBA game -- it's not that.
+662.639	It's the fact you don't have to be
+662.639	a professional team to track movement.
+667.083	You do not have to be a professional
+667.083	player to get insights about movement.
+670.764	In fact, it doesn't even have to be about
+670.764	sports because we're moving everywhere.
+675.654	We're moving in our homes,
+681.428	in our offices,
+684.238	as we shop and we travel
+689.318	throughout our cities
+692.065	and around our world.
+695.27	What will we know? What will we learn?
+697.589	Perhaps, instead of identifying
+697.589	pick-and-rolls,
+699.918	a machine can identify
+699.918	the moment and let me know
+702.952	when my daughter takes her first steps.
+705.035	Which could literally be happening
+705.035	any second now.
+708.14	Perhaps we can learn to better use
+708.14	our buildings, better plan our cities.
+712.362	I believe that with the development
+712.362	of the science of moving dots,
+716.559	we will move better, we will move smarter,
+716.559	we will move forward.
+720.607	Thank you very much.
+721.82	(Applause)

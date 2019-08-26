@@ -1,0 +1,411 @@
+startsecond	text
+15.26	I have a doppelganger.
+18.26	(Laughter)
+21.26	Dr. Gero is a brilliant
+24.26	but slightly mad scientist
+26.26	"in the ""Dragonball Z: Android Saga."""
+29.26	If you look very carefully,
+31.26	you see that his skull has been replaced
+34.26	with a transparent Plexiglas dome
+36.26	so that the workings of his brain can be observed
+39.26	and also controlled with light.
+42.26	That's exactly what I do --
+44.26	optical mind control.
+46.26	(Laughter)
+48.26	But in contrast to my evil twin
+50.26	who lusts after world domination,
+53.26	my motives are not sinister.
+56.26	I control the brain
+58.26	in order to understand how it works.
+60.26	Now wait a minute, you may say,
+62.26	how can you go straight to controlling the brain
+65.26	without understanding it first?
+67.26	Isn't that putting the cart before the horse?
+71.26	Many neuroscientists agree with this view
+74.26	and think that understanding will come
+77.26	from more detailed observation and analysis.
+80.26	"They say, ""If we could record the activity of our neurons,"
+84.26	"we would understand the brain."""
+87.26	But think for a moment what that means.
+90.26	Even if we could measure
+92.26	what every cell is doing at all times,
+94.26	we would still have to make sense
+96.26	of the recorded activity patterns,
+98.26	and that's so difficult,
+100.26	chances are we'll understand these patterns
+102.26	just as little as the brains that produce them.
+105.26	Take a look at what brain activity might look like.
+108.26	In this simulation, each black dot
+110.26	is one nerve cell.
+112.26	The dot is visible
+114.26	whenever a cell fires an electrical impulse.
+116.26	There's 10,000 neurons here.
+118.26	So you're looking at roughly one percent
+120.26	of the brain of a cockroach.
+124.26	Your brains are about 100 million times
+127.26	more complicated.
+129.26	Somewhere, in a pattern like this,
+131.26	is you,
+133.26	your perceptions,
+135.26	your emotions, your memories,
+138.26	your plans for the future.
+140.26	But we don't know where,
+142.26	since we don't know how to read the pattern.
+145.26	We don't understand the code used by the brain.
+148.26	To make progress,
+150.26	we need to break the code.
+152.26	But how?
+155.26	An experienced code-breaker will tell you
+157.26	that in order to figure out what the symbols in a code mean,
+160.26	it's essential to be able to play with them,
+163.26	to rearrange them at will.
+165.26	So in this situation too,
+167.26	to decode the information
+169.26	contained in patterns like this,
+171.26	watching alone won't do.
+173.26	We need to rearrange the pattern.
+175.26	In other words,
+177.26	instead of recording the activity of neurons,
+179.26	we need to control it.
+181.26	It's not essential that we can control
+183.26	the activity of all neurons in the brain, just some.
+186.26	The more targeted our interventions, the better.
+188.26	And I'll show you in a moment
+190.26	how we can achieve the necessary precision.
+193.26	And since I'm realistic, rather than grandiose,
+196.26	I don't claim that the ability to control the function of the nervous system
+199.26	will at once unravel all its mysteries.
+202.26	But we'll certainly learn a lot.
+207.26	Now, I'm by no means
+209.26	the first person to realize
+211.26	how powerful a tool intervention is.
+214.26	The history of attempts
+216.26	to tinker with the function of the nervous system
+218.26	is long and illustrious.
+220.26	It dates back at least 200 years,
+223.26	to Galvani's famous experiments
+225.26	in the late 18th century and beyond.
+229.26	Galvani showed that a frog's legs twitched
+232.26	when he connected the lumbar nerve
+234.26	to a source of electrical current.
+237.26	This experiment revealed the first, and perhaps most fundamental,
+240.26	nugget of the neural code:
+242.26	that information is written in the form
+244.26	of electrical impulses.
+248.26	Galvani's approach
+250.26	of probing the nervous system with electrodes
+252.26	has remained state-of-the-art until today,
+255.26	despite a number of drawbacks.
+258.26	Sticking wires into the brain is obviously rather crude.
+261.26	It's hard to do in animals that run around,
+263.26	and there is a physical limit
+265.26	to the number of wires
+267.26	that can be inserted simultaneously.
+270.26	So around the turn of the last century,
+272.26	I started to think,
+274.26	"""Wouldn't it be wonderful if one could take this logic"
+277.26	"and turn it upside down?"""
+279.26	So instead of inserting a wire
+281.26	into one spot of the brain,
+284.26	re-engineer the brain itself
+286.26	so that some of its neural elements
+289.26	become responsive to diffusely broadcast signals
+292.26	such as a flash of light.
+295.26	Such an approach would literally, in a flash of light,
+298.26	overcome many of the obstacles to discovery.
+301.26	First, it's clearly a non-invasive,
+304.26	wireless form of communication.
+307.26	And second, just as in a radio broadcast,
+309.26	you can communicate with many receivers at once.
+312.26	You don't need to know where these receivers are,
+315.26	and it doesn't matter if these receivers move --
+317.26	just think of the stereo in your car.
+320.26	It gets even better,
+323.26	for it turns out that we can fabricate the receivers
+326.26	out of materials that are encoded in DNA.
+329.26	So each nerve cell
+331.26	with the right genetic makeup
+333.26	will spontaneously produce a receiver
+336.26	that allows us to control its function.
+339.26	I hope you'll appreciate
+341.26	the beautiful simplicity
+343.26	of this concept.
+345.26	There's no high-tech gizmos here,
+347.26	just biology revealed through biology.
+351.26	Now let's take a look at these miraculous receivers up close.
+354.26	As we zoom in on one of these purple neurons,
+357.26	we see that its outer membrane
+359.26	is studded with microscopic pores.
+361.26	Pores like these conduct electrical current
+363.26	and are responsible
+365.26	for all the communication in the nervous system.
+367.26	But these pores here are special.
+369.26	They are coupled to light receptors
+371.26	similar to the ones in your eyes.
+374.26	Whenever a flash of light hits the receptor,
+376.26	the pore opens, an electrical current is switched on,
+379.26	and the neuron fires electrical impulses.
+382.26	Because the light-activated pore is encoded in DNA,
+385.26	we can achieve incredible precision.
+388.26	This is because,
+390.26	although each cell in our bodies
+392.26	contains the same set of genes,
+394.26	different mixes of genes get turned on and off
+396.26	in different cells.
+398.26	You can exploit this to make sure
+400.26	that only some neurons
+402.26	contain our light-activated pore and others don't.
+405.26	So in this cartoon, the bluish white cell
+407.26	in the upper-left corner
+409.26	does not respond to light
+411.26	because it lacks the light-activated pore.
+414.26	The approach works so well
+416.26	that we can write purely artificial messages
+418.26	directly to the brain.
+420.26	In this example, each electrical impulse,
+422.26	each deflection on the trace,
+425.26	is caused by a brief pulse of light.
+428.26	And the approach, of course, also works
+430.26	in moving, behaving animals.
+433.26	This is the first ever such experiment,
+435.26	sort of the optical equivalent of Galvani's.
+438.26	It was done six or seven years ago
+440.26	by my then graduate student, Susana Lima.
+443.26	Susana had engineered the fruit fly on the left
+446.26	so that just two out of the 200,000 cells in its brain
+450.26	expressed the light-activated pore.
+453.26	You're familiar with these cells
+455.26	because they are the ones that frustrate you
+457.26	when you try to swat the fly.
+459.26	They trained the escape reflex that makes the fly jump into the air
+462.26	and fly away whenever you move your hand in position.
+466.26	And you can see here that the flash of light has exactly the same effect.
+469.26	The animal jumps, it spreads its wings, it vibrates them,
+472.26	but it can't actually take off
+474.26	because the fly is sandwiched between two glass plates.
+478.26	Now to make sure that this was no reaction of the fly
+480.26	to a flash it could see,
+483.26	Susana did a simple
+485.26	but brutally effective experiment.
+487.26	She cut the heads off of her flies.
+491.26	These headless bodies can live for about a day,
+494.26	but they don't do much.
+496.26	They just stand around
+499.26	and groom excessively.
+502.26	So it seems that the only trait that survives decapitation is vanity.
+505.26	(Laughter)
+510.26	Anyway, as you'll see in a moment,
+512.26	Susana was able to turn on the flight motor
+515.26	of what's the equivalent of the spinal cord of these flies
+518.26	and get some of the headless bodies
+520.26	to actually take off and fly away.
+527.26	They didn't get very far, obviously.
+530.26	Since we took these first steps,
+532.26	the field of optogenetics has exploded.
+535.26	And there are now hundreds of labs
+537.26	using these approaches.
+539.26	And we've come a long way
+541.26	since Galvani's and Susana's first successes
+544.26	in making animals twitch or jump.
+546.26	We can now actually interfere with their psychology
+549.26	in rather profound ways,
+551.26	as I'll show you in my last example,
+553.26	which is directed at a familiar question.
+556.26	Life is a string of choices
+559.26	creating a constant pressure to decide what to do next.
+563.26	We cope with this pressure by having brains,
+566.26	and within our brains, decision-making centers
+569.26	"that I've called here the ""Actor."""
+573.26	The Actor implements a policy that takes into account
+576.26	the state of the environment
+578.26	and the context in which we operate.
+581.26	Our actions change the environment, or context,
+584.26	and these changes are then fed back into the decision loop.
+588.26	Now to put some neurobiological meat
+591.26	on this abstract model,
+593.26	we constructed a simple one-dimensional world
+595.26	for our favorite subject, fruit flies.
+598.26	Each chamber in these two vertical stacks
+600.26	contains one fly.
+602.26	The left and the right halves of the chamber
+605.26	are filled with two different odors,
+607.26	and a security camera watches
+609.26	as the flies pace up and down between them.
+612.26	Here's some such CCTV footage.
+614.26	Whenever a fly reaches the midpoint of the chamber
+617.26	where the two odor streams meet,
+619.26	it has to make a decision.
+621.26	It has to decide whether to turn around
+623.26	and stay in the same odor,
+625.26	or whether to cross the midline
+627.26	and try something new.
+629.26	These decisions are clearly a reflection
+632.26	of the Actor's policy.
+636.26	Now for an intelligent being like our fly,
+639.26	this policy is not written in stone
+642.26	but rather changes as the animal learns from experience.
+645.26	We can incorporate such an element
+647.26	of adaptive intelligence into our model
+650.26	by assuming that the fly's brain
+652.26	contains not only an Actor,
+654.26	but a different group of cells,
+656.26	"a ""Critic,"" that provides a running commentary"
+659.26	on the Actor's choices.
+661.26	You can think of this nagging inner voice
+664.26	as sort of the brain's equivalent
+666.26	of the Catholic Church,
+668.26	if you're an Austrian like me,
+671.26	or the super-ego, if you're Freudian,
+674.26	or your mother, if you're Jewish.
+676.26	(Laughter)
+680.26	Now obviously,
+682.26	the Critic is a key ingredient
+685.26	in what makes us intelligent.
+687.26	So we set out to identify
+689.26	the cells in the fly's brain
+691.26	that played the role of the Critic.
+693.26	And the logic of our experiment was simple.
+696.26	We thought if we could use our optical remote control
+699.26	to activate the cells of the Critic,
+702.26	we should be able, artificially, to nag the Actor
+705.26	into changing its policy.
+707.26	In other words,
+709.26	the fly should learn from mistakes
+711.26	that it thought it had made
+713.26	but, in reality, it had not made.
+716.26	So we bred flies
+718.26	whose brains were more or less randomly peppered
+721.26	with cells that were light addressable.
+723.26	And then we took these flies
+725.26	and allowed them to make choices.
+727.26	And whenever they made one of the two choices,
+729.26	chose one odor,
+731.26	in this case the blue one over the orange one,
+733.26	we switched on the lights.
+735.26	If the Critic was among the optically activated cells,
+738.26	the result of this intervention
+740.26	should be a change in policy.
+743.26	The fly should learn to avoid
+745.26	the optically reinforced odor.
+747.26	Here's what happened in two instances:
+750.26	We're comparing two strains of flies,
+753.26	each of them having
+755.26	about 100 light-addressable cells in their brains,
+757.26	shown here in green on the left and on the right.
+760.26	What's common among these groups of cells
+763.26	is that they all produce the neurotransmitter dopamine.
+766.26	But the identities of the individual
+768.26	dopamine-producing neurons
+770.26	are clearly largely different on the left and on the right.
+773.26	Optically activating
+775.26	these hundred or so cells
+777.26	into two strains of flies
+779.26	has dramatically different consequences.
+781.26	If you look first at the behavior
+783.26	of the fly on the right,
+785.26	you can see that whenever it reaches the midpoint of the chamber
+788.26	where the two odors meet,
+790.26	it marches straight through, as it did before.
+793.26	Its behavior is completely unchanged.
+795.26	But the behavior of the fly on the left is very different.
+798.26	Whenever it comes up to the midpoint,
+801.26	it pauses,
+803.26	it carefully scans the odor interface
+805.26	as if it was sniffing out its environment,
+807.26	and then it turns around.
+809.26	This means that the policy that the Actor implements
+812.26	now includes an instruction to avoid the odor
+814.26	that's in the right half of the chamber.
+817.26	This means that the Critic
+819.26	must have spoken in that animal,
+821.26	and that the Critic must be contained
+823.26	among the dopamine-producing neurons on the left,
+826.26	but not among the dopamine producing neurons on the right.
+829.26	Through many such experiments,
+832.26	we were able to narrow down
+834.26	the identity of the Critic
+836.26	to just 12 cells.
+838.26	These 12 cells, as shown here in green,
+841.26	send the output to a brain structure
+843.26	"called the ""mushroom body,"""
+845.26	which is shown here in gray.
+847.26	We know from our formal model
+849.26	that the brain structure
+851.26	at the receiving end of the Critic's commentary is the Actor.
+854.26	So this anatomy suggests
+856.26	that the mushroom bodies have something to do
+859.26	with action choice.
+861.26	Based on everything we know about the mushroom bodies,
+863.26	this makes perfect sense.
+865.26	In fact, it makes so much sense
+867.26	that we can construct an electronic toy circuit
+870.26	that simulates the behavior of the fly.
+873.26	In this electronic toy circuit,
+876.26	the mushroom body neurons are symbolized
+878.26	by the vertical bank of blue LEDs
+881.26	in the center of the board.
+884.26	These LED's are wired to sensors
+886.26	that detect the presence of odorous molecules in the air.
+890.26	Each odor activates a different combination of sensors,
+893.26	which in turn activates
+895.26	a different odor detector in the mushroom body.
+898.26	So the pilot in the cockpit of the fly,
+900.26	the Actor,
+902.26	can tell which odor is present
+904.26	simply by looking at which of the blue LEDs lights up.
+909.26	What the Actor does with this information
+911.26	depends on its policy,
+913.26	which is stored in the strengths of the connection,
+915.26	between the odor detectors
+917.26	and the motors
+919.26	that power the fly's evasive actions.
+922.26	If the connection is weak, the motors will stay off
+924.26	and the fly will continue straight on its course.
+927.26	If the connection is strong, the motors will turn on
+930.26	and the fly will initiate a turn.
+933.26	Now consider a situation
+935.26	in which the motors stay off,
+937.26	the fly continues on its path
+940.26	and it suffers some painful consequence
+942.26	such as getting zapped.
+944.26	In a situation like this,
+946.26	we would expect the Critic to speak up
+948.26	and to tell the Actor
+950.26	to change its policy.
+952.26	We have created such a situation, artificially,
+955.26	by turning on the critic with a flash of light.
+958.26	That caused a strengthening of the connections
+961.26	between the currently active odor detector
+964.26	and the motors.
+966.26	So the next time
+968.26	the fly finds itself facing the same odor again,
+971.26	the connection is strong enough to turn on the motors
+974.26	and to trigger an evasive maneuver.
+979.26	I don't know about you,
+982.26	but I find it exhilarating to see
+985.26	how vague psychological notions
+988.26	evaporate and give rise
+990.26	to a physical, mechanistic understanding of the mind,
+993.26	even if it's the mind of the fly.
+996.26	This is one piece of good news.
+999.26	The other piece of good news,
+1001.26	for a scientist at least,
+1003.26	is that much remains to be discovered.
+1006.26	In the experiments I told you about,
+1008.26	we have lifted the identity of the Critic,
+1011.26	but we still have no idea
+1013.26	how the Critic does its job.
+1015.26	Come to think of it, knowing when you're wrong
+1017.26	without a teacher, or your mother, telling you,
+1020.26	is a very hard problem.
+1022.26	There are some ideas in computer science
+1024.26	and in artificial intelligence
+1026.26	as to how this might be done,
+1028.26	but we still haven't solved
+1030.26	a single example
+1032.26	of how intelligent behavior
+1035.26	springs from the physical interactions
+1037.26	in living matter.
+1039.26	I think we'll get there in the not too distant future.
+1042.26	Thank you.
+1044.26	(Applause)

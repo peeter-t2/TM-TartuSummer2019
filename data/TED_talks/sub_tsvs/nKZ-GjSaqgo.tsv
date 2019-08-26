@@ -1,0 +1,331 @@
+startsecond	text
+19.33	You know, I've talked about some of these projects before --
+21.33	about the human genome and what that might mean,
+25.33	and discovering new sets of genes.
+28.33	We're actually starting at a new point:
+31.33	we've been digitizing biology,
+35.33	and now we're trying to go from that digital code
+38.33	into a new phase of biology
+40.33	with designing and synthesizing life.
+43.33	So, we've always been trying to ask big questions.
+48.33	"""What is life?"" is something that I think many biologists"
+50.33	have been trying to understand
+52.33	at various levels.
+54.33	We've tried various approaches,
+57.33	paring it down to minimal components.
+61.33	We've been digitizing it now for almost 20 years;
+63.33	when we sequenced the human genome,
+65.33	it was going from the analog world of biology
+68.33	into the digital world of the computer.
+72.33	"Now we're trying to ask, ""Can we regenerate life"
+76.33	or can we create new life
+78.33	"out of this digital universe?"""
+81.33	This is the map of a small organism,
+84.33	Mycoplasma genitalium,
+86.33	that has the smallest genome for a species
+89.33	that can self-replicate in the laboratory,
+92.33	and we've been trying to just see if
+94.33	we can come up with an even smaller genome.
+98.33	We're able to knock out on the order of 100 genes
+100.33	out of the 500 or so that are here.
+103.33	When we look at its metabolic map,
+105.33	it's relatively simple
+107.33	compared to ours --
+109.33	trust me, this is simple --
+111.33	but when we look at all the genes
+113.33	that we can knock out one at a time,
+116.33	it's very unlikely that this would yield
+118.33	a living cell.
+121.33	So we decided the only way forward
+123.33	was to actually synthesize this chromosome
+126.33	so we could vary the components
+129.33	to ask some of these most fundamental questions.
+133.33	And so we started down the road of:
+135.33	can we synthesize a chromosome?
+139.33	Can chemistry permit making
+141.33	these really large molecules
+143.33	where we've never been before?
+145.33	And if we do, can we boot up a chromosome?
+148.33	A chromosome, by the way, is just a piece of inert chemical material.
+152.33	So, our pace of digitizing life has been increasing
+155.33	at an exponential pace.
+158.33	Our ability to write the genetic code
+161.33	has been moving pretty slowly
+163.33	but has been increasing,
+166.33	and our latest point would put it on, now, an exponential curve.
+171.33	We started this over 15 years ago.
+173.33	It took several stages, in fact,
+176.33	starting with a bioethical review before we did the first experiments.
+180.33	But it turns out synthesizing DNA
+182.33	is very difficult.
+184.33	There are tens of thousands of machines around the world
+187.33	that make small pieces of DNA --
+192.33	and it's a degenerate process, so the longer you make the piece,
+195.33	the more errors there are.
+197.33	So we had to create a new method
+199.33	for putting these little pieces together and correct all the errors.
+203.33	And this was our first attempt, starting with the digital information
+206.33	of the genome of phi X174.
+208.33	It's a small virus that kills bacteria.
+212.33	We designed the pieces, went through our error correction
+215.33	and had a DNA molecule
+217.33	of about 5,000 letters.
+220.33	The exciting phase came when we took this piece of inert chemical
+224.33	and put it in the bacteria,
+226.33	and the bacteria started to read this genetic code,
+230.33	made the viral particles.
+232.33	The viral particles then were released from the cells
+234.33	and came back and killed the E. coli.
+237.33	I was talking to the oil industry recently
+240.33	and I said they clearly understood that model.
+243.33	(Laughter)
+246.33	They laughed more than you guys are. (Laughter)
+250.33	And so, we think this is a situation
+252.33	where the software can actually build its own hardware
+255.33	in a biological system.
+257.33	But we wanted to go much larger:
+259.33	we wanted to build the entire bacterial chromosome --
+262.33	it's over 580,000 letters of genetic code --
+266.33	so we thought we'd build them in cassettes the size of the viruses
+269.33	so we could actually vary the cassettes
+271.33	to understand
+273.33	what the actual components of a living cell are.
+276.33	Design is critical,
+278.33	and if you're starting with digital information in the computer,
+281.33	that digital information has to be really accurate.
+285.33	When we first sequenced this genome in 1995,
+288.33	the standard of accuracy was one error per 10,000 base pairs.
+292.33	We actually found, on resequencing it,
+297.33	it never would have been able to be booted up.
+300.33	Part of the design is designing pieces
+302.33	that are 50 letters long
+305.33	that have to overlap with all the other 50-letter pieces
+308.33	to build smaller subunits
+310.33	we have to design so they can go together.
+313.33	We design unique elements into this.
+316.33	You may have read that we put watermarks in.
+318.33	Think of this:
+320.33	we have a four-letter genetic code -- A, C, G and T.
+323.33	Triplets of those letters
+326.33	code for roughly 20 amino acids,
+328.33	such that there's a single letter designation
+331.33	for each of the amino acids.
+333.33	So we can use the genetic code to write out words,
+336.33	sentences, thoughts.
+339.33	Initially, all we did was autograph it.
+341.33	Some people were disappointed there was not poetry.
+344.33	We designed these pieces so
+346.33	we can just chew back with enzymes;
+350.33	there are enzymes that repair them and put them together.
+353.33	And we started making pieces,
+355.33	starting with pieces that were 5,000 to 7,000 letters,
+359.33	put those together to make 24,000-letter pieces,
+363.33	then put sets of those going up to 72,000.
+367.33	At each stage, we grew up these pieces in abundance
+369.33	so we could sequence them
+371.33	because we're trying to create a process that's extremely robust
+374.33	that you can see in a minute.
+377.33	We're trying to get to the point of automation.
+380.33	So, this looks like a basketball playoff.
+382.33	When we get into these really large pieces
+384.33	over 100,000 base pairs,
+388.33	they won't any longer grow readily in E. coli --
+390.33	it exhausts all the modern tools of molecular biology --
+394.33	and so we turned to other mechanisms.
+398.33	We knew there's a mechanism called homologous recombination
+401.33	that biology uses to repair DNA
+404.33	that can put pieces together.
+407.33	Here's an example of it:
+408.33	there's an organism called
+409.33	Deinococcus radiodurans
+411.33	that can take three millions rads of radiation.
+414.33	You can see in the top panel, its chromosome just gets blown apart.
+418.33	Twelve to 24 hours later, it put it
+421.33	back together exactly as it was before.
+423.33	We have thousands of organisms that can do this.
+426.33	These organisms can be totally desiccated;
+428.33	they can live in a vacuum.
+431.33	I am absolutely certain that life can exist in outer space,
+434.33	move around, find a new aqueous environment.
+437.33	In fact, NASA has shown a lot of this is out there.
+441.33	Here's an actual micrograph of the molecule we built
+445.33	using these processes, actually just using yeast mechanisms
+449.33	with the right design of the pieces we put them in;
+452.33	yeast puts them together automatically.
+455.33	This is not an electron micrograph;
+457.33	this is just a regular photomicrograph.
+459.33	It's such a large molecule
+461.33	we can see it with a light microscope.
+464.33	These are pictures over about a six-second period.
+467.33	So, this is the publication we had just a short while ago.
+471.33	This is over 580,000 letters of genetic code;
+474.33	it's the largest molecule ever made by humans of a defined structure.
+479.33	It's over 300 million molecular weight.
+482.33	If we printed it out at a 10 font with no spacing,
+485.33	it takes 142 pages
+487.33	just to print this genetic code.
+491.33	Well, how do we boot up a chromosome? How do we activate this?
+494.33	Obviously, with a virus it's pretty simple;
+497.33	it's much more complicated dealing with bacteria.
+500.33	It's also simpler when you go
+502.33	into eukaryotes like ourselves:
+504.33	you can just pop out the nucleus
+506.33	and pop in another one,
+508.33	and that's what you've all heard about with cloning.
+511.33	With bacteria and Archaea, the chromosome is integrated into the cell,
+515.33	but we recently showed that we can do a complete transplant
+519.33	of a chromosome from one cell to another
+521.33	and activate it.
+524.33	We purified a chromosome from one microbial species --
+528.33	roughly, these two are as distant as human and mice --
+531.33	we added a few extra genes
+533.33	so we could select for this chromosome,
+535.33	we digested it with enzymes
+537.33	to kill all the proteins,
+539.33	and it was pretty stunning when we put this in the cell --
+542.33	and you'll appreciate
+544.33	our very sophisticated graphics here.
+547.33	The new chromosome went into the cell.
+550.33	In fact, we thought this might be as far as it went,
+552.33	but we tried to design the process a little bit further.
+555.33	This is a major mechanism of evolution right here.
+558.33	We find all kinds of species
+560.33	that have taken up a second chromosome
+562.33	or a third one from somewhere,
+564.33	adding thousands of new traits
+566.33	in a second to that species.
+568.33	So, people who think of evolution
+570.33	as just one gene changing at a time
+572.33	have missed much of biology.
+575.33	There are enzymes called restriction enzymes
+577.33	that actually digest DNA.
+579.33	The chromosome that was in the cell
+581.33	doesn't have one;
+583.33	the chromosome we put in does.
+585.33	It got expressed and it recognized
+587.33	the other chromosome as foreign material,
+590.33	chewed it up, and so we ended up
+592.33	just with a cell with the new chromosome.
+596.33	It turned blue because of the genes we put in it.
+599.33	And with a very short period of time,
+601.33	all the characteristics of one species were lost
+604.33	and it converted totally into the new species
+607.33	based on the new software that we put in the cell.
+610.33	All the proteins changed,
+612.33	the membranes changed;
+614.33	when we read the genetic code, it's exactly what we had transferred in.
+618.33	So, this may sound like genomic alchemy,
+621.33	but we can, by moving the software of DNA around,
+625.33	change things quite dramatically.
+629.33	Now I've argued, this is not genesis;
+631.33	this is building on three and a half billion years of evolution.
+636.33	And I've argued that we're about to perhaps
+638.33	create a new version of the Cambrian explosion,
+641.33	where there's massive new speciation
+645.33	based on this digital design.
+647.33	Why do this?
+649.33	I think this is pretty obvious in terms of some of the needs.
+651.33	We're about to go from six and a half
+653.33	to nine billion people over the next 40 years.
+656.33	To put it in context for myself:
+658.33	I was born in 1946.
+660.33	There are now three people on the planet
+662.33	for every one of us that existed in 1946;
+666.33	within 40 years, there'll be four.
+669.33	We have trouble feeding, providing fresh, clean water,
+672.33	medicines, fuel
+674.33	for the six and a half billion.
+677.33	It's going to be a stretch to do it for nine.
+679.33	We use over five billion tons of coal,
+685.33	that's a hundred million barrels a day.
+689.33	When we try to think of biological processes
+691.33	or any process to replace that,
+694.33	it's going to be a huge challenge.
+696.33	Then of course, there's all that
+698.33	CO2 from this material
+700.33	that ends up in the atmosphere.
+703.33	We now, from our discovery around the world,
+705.33	have a database with about 20 million genes,
+709.33	and I like to think of these as the design components of the future.
+713.33	The electronics industry only had a dozen or so components,
+716.33	and look at the diversity that came out of that.
+720.33	We're limited here primarily
+722.33	by a biological reality
+724.33	and our imagination.
+727.33	We now have techniques,
+729.33	because of these rapid methods of synthesis,
+732.33	to do what we're calling combinatorial genomics.
+736.33	We have the ability now to build a large robot
+739.33	that can make a million chromosomes a day.
+743.33	When you think of processing these 20 million different genes
+746.33	or trying to optimize processes
+748.33	to produce octane or to produce pharmaceuticals,
+751.33	new vaccines,
+754.33	we can just with a small team,
+757.33	do more molecular biology
+759.33	than the last 20 years of all science.
+762.33	And it's just standard selection:
+764.33	we can select for viability,
+766.33	chemical or fuel production,
+768.33	vaccine production, etc.
+770.33	This is a screen snapshot
+773.33	of some true design software
+776.33	that we're working on to actually be able to sit down
+779.33	and design species in the computer.
+783.33	You know, we don't know necessarily what it'll look like:
+786.33	we know exactly what their genetic code looks like.
+789.33	We're focusing on now fourth-generation fuels.
+795.33	You've seen recently, corn to ethanol
+797.33	is just a bad experiment.
+799.33	We have second- and third-generation fuels
+801.33	that will be coming out relatively soon
+804.33	that are sugar, to much higher-value fuels
+807.33	like octane or different types of butanol.
+810.33	But the only way we think that biology
+813.33	can have a major impact without
+816.33	further increasing the cost of food and limiting its availability
+819.33	is if we start with CO2 as its feedstock,
+822.33	and so we're working with designing cells to go down this road.
+827.33	And we think we'll have the first fourth-generation fuels
+830.33	in about 18 months.
+832.33	Sunlight and CO2 is one method ...
+834.33	(Applause)
+839.33	but in our discovery around the world,
+841.33	we have all kinds of other methods.
+843.33	This is an organism we described in 1996.
+847.33	It lives in the deep ocean,
+849.33	about a mile and a half deep,
+851.33	almost at boiling-water temperatures.
+853.33	It takes CO2 to methane
+856.33	using molecular hydrogen as its energy source.
+859.33	We're looking to see if we can take
+861.33	captured CO2,
+863.33	which can easily be piped to sites,
+865.33	convert that CO2 back into fuel
+868.33	to drive this process.
+871.33	So, in a short period of time,
+873.33	we think that we might be able to increase
+877.33	"what the basic question is of ""What is life?"""
+880.33	We truly, you know,
+882.33	have modest goals
+884.33	of replacing the whole petrol-chemical industry --
+887.33	(Laughter) (Applause)
+890.33	Yeah. If you can't do that at TED, where can you? --
+893.33	(Laughter)
+895.33	become a major source of energy ...
+897.33	But also, we're now working on using these same tools
+900.33	to come up with instant sets of vaccines.
+903.33	You've seen this year with flu;
+905.33	we're always a year behind and a dollar short
+908.33	when it comes to the right vaccine.
+910.33	I think that can be changed
+912.33	by building combinatorial vaccines in advance.
+916.33	Here's what the future may begin to look like
+919.33	with changing, now, the evolutionary tree,
+923.33	speeding up evolution
+925.33	with synthetic bacteria, Archaea
+928.33	and, eventually, eukaryotes.
+932.33	We're a ways away from improving people:
+934.33	our goal is just to make sure that we have a chance
+937.33	to survive long enough to maybe do that. Thank you very much.
+940.33	(Applause)

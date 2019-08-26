@@ -1,0 +1,388 @@
+startsecond	text
+16.16	I'm kind of tired of talking about simplicity, actually,
+19.16	so I thought I'd make my life more complex, as a serious play.
+22.16	So, I'm going to, like, go through some slides 
+24.16	from way back when,
+26.16	and walk through them to give you a sense of how I end up here.
+29.16	So, basically it all began with 
+31.16	this whole idea of a computer.
+33.16	Who has a computer? Yeah.
+36.16	O.K., so, everyone has a computer.
+38.16	Even a mobile phone, it's a computer. 
+40.16	And -- anyone remember this workbook, 
+43.16	"""Instant Activities for Your Apple"" -- "
+45.16	free poster in each book?
+47.16	This was how computing began. 
+49.16	Don't forget: a computer came out; it had no software. 
+53.16	You'd buy that thing, you'd bring it home, you'd plug it in, 
+56.16	and it would do absolutely nothing at all. 
+58.16	So, you had to program it, 
+60.16	and there were great programming, like, tutorials, like this. 
+62.16	I mean, this was great. 
+64.16	It's, like, you know, Herbie the Apple II.
+66.16	It's such a great way to -- 
+68.16	I mean, they should make Java books like this, 
+71.16	and we've have no problem learning a program. 
+73.16	But this was a great, grand time of the computer, 
+75.16	when it was just a raw, raw, what is it? kind of an era. 
+79.16	And, you see,
+82.16	this era coincided with my own childhood.
+84.16	I grew up in a tofu factory in Seattle. 
+87.16	Who of you grew up in a family business, 
+90.16	suffered the torture? Yes, yes.
+92.16	The torture was good. Wasn't it good torture? 
+95.16	It was just life-changing, you know. And so, in my life, you know, I was in the tofu; 
+98.16	it was a family business. 
+100.16	And my mother was a kind of a designer, also. 
+103.16	She'd make this kind of, like, wall of tofu cooking, 
+106.16	and it would confuse the customers, 
+108.16	because they all thought it was a restaurant.
+110.16	A bad sort of branding thing, or whatever. 
+112.16	But, anyway, that's where I grew up, 
+114.16	in this little tofu factory in Seattle, 
+116.16	and it was kind of like this: 
+119.16	a small room where I kind of grew up. I'm big there in that picture.
+122.16	That's my dad. My dad was kind of like MacGyver, really: 
+125.16	he would invent, like, ways to make things heavy.
+128.16	Like back here, there's like, concrete block technology here, 
+131.16	and he would need the concrete blocks to press the tofu, 
+134.16	because tofu is actually kind of a liquidy type of thing, 
+137.16	and so you have to have heavy stuff 
+139.16	to push out the liquid and make it hard. 
+141.16	Tofu comes out in these big batches, 
+144.16	and my father would sort of cut them by hand. 
+147.16	I can't tell you -- family business story: you'd understand this -- 
+150.16	my father was the most sincere man possible. 
+153.16	He walked into a Safeway once on a rainy day,
+156.16	slipped, broke his arm, rushed out:
+158.16	he didn't want to inconvenience Safeway. 
+161.16	So, instead, you know, my father's, like, arm's broken 
+163.16	for two weeks in the store, and that week -- 
+166.16	now, those two weeks were when my older brother and I 
+168.16	had to do everything.
+170.16	And that was torture, real torture. 
+173.16	Because, you see, we'd seen my father 
+175.16	taking the big block of tofu and cutting it,
+177.16	like, knife in, zap, zap, zap. We thought, wow. 
+180.16	So, the first time I did that, I went, like, whoa! Like this. 
+183.16	Bad blocks. But anyways, 
+186.16	the tofu to me was kind of my origin, basically.
+190.16	And because working in a store was so hard, 
+193.16	I liked going to school; it was like heaven. 
+196.16	And I was really good at school. 
+198.16	So, when I got to MIT, you know, 
+200.16	as most of you who are creatives,
+202.16	your parents all told you not to be creative, right? 
+205.16	So, same way, you know, 
+207.16	I was good at art and good at math, and my father says, he's --
+209.16	John's good at math. 
+211.16	I went to MIT, did my math, 
+213.16	but I had this wonderful opportunity,
+215.16	because computers had just become visual. 
+218.16	The Apple -- Macintosh just came out; 
+220.16	I had a Mac in hand when I went to MIT. 
+222.16	And it was a time when a guy who, kind of, 
+224.16	could cross the two sides --
+226.16	it was a good time. 
+228.16	And so, I remember that my first major piece of software 
+231.16	was on a direct copy of then-Aldus PageMaker. 
+234.16	I made a desktop publishing system way back when, 
+237.16	and that was, kind of, my first step into figuring out how to -- 
+240.16	oh, these two sides are kind of fun to mix. 
+242.16	And the problem when you're younger --
+244.16	for all you students out there --
+246.16	is, your head gets kind of big really easy. 
+249.16	And when I was making icons, I was, like, 
+251.16	the icon master,
+253.16	and I was, like, yeah, I'm really good at this, you know. 
+255.16	And then luckily, you know, 
+257.16	I had the fortune of going to something called a library, 
+260.16	and in the library I came upon this very book. 
+263.16	I found this book. It's called, 
+265.16	"""Thoughts on Design,"" by a man named Paul Rand."
+268.16	It's a little slim volume; I'm not sure if you've seen this. 
+270.16	It's a very nice little book. It's about this guy, Paul Rand, 
+273.16	who was one of the greatest graphic designers, 
+275.16	and also a great writer as well. 
+277.16	And when I saw this man's work, 
+279.16	I realized how bad I was at design,
+282.16	or whatever I called it back then, 
+284.16	and I suddenly had a kind of career goal, 
+286.16	kind of in hot pursuit.
+290.16	So I kind of switched. I went to MIT, finished. 
+294.16	I got my masters,
+294.16	and then went to art school after that.
+298.16	And just began to design stuff,
+300.16	like chopstick wrappers, napkins, menus -- whatever I could get a handle on:
+302.16	sort of wheel-and-deal, move up in the design world, whatever. 
+305.16	And isn't it that strange moment when you publish your design?
+308.16	Remember that moment -- publishing your designs? 
+310.16	Remember that moment? It felt so good, didn't it? 
+313.16	So, I was published, you know, 
+314.16	so, wow, my design's in a book, you know? 
+316.16	After that, things kind of got strange, 
+318.16	and I got thinking about the computer, 
+320.16	because the computer to me always, kind of, bothered me. 
+323.16	I didn't quite get it. And Paul Rand
+325.16	was a kind of crusty designer, 
+328.16	you know, a crusty designer, like a good -- kind of like a good French bread? 
+331.16	You know, he wrote in one of his books: 
+333.16	"""A Yale student once said,"
+335.16	'I came here to learn how to design, not how to use a computer.' 
+338.16	"Design schools take heed."" "
+340.16	This is in the '80s,
+342.16	in the great clash of computer/non-computer people.
+345.16	A very difficult time, actually. 
+347.16	And this to me was an important message from Rand. 
+351.16	And so I began to sort of mess with the computer at the time. 
+354.16	This is the first sort of play thing I did, my own serious play. 
+357.16	I built a working version of an Adobe Illustrator-ish thing. 
+361.16	It looks like Illustrator; it can, like, draw. 
+363.16	It was very hard to make this, actually. 
+365.16	It took a month to make this part. 
+367.16	And then I thought, what if I added this feature, 
+369.16	where I can say, this point, 
+371.16	you can fly like a bird. You're free, kind of thing.
+374.16	So I could, sort of, change the kind of stability 
+378.16	with a little control there on the dial, 
+380.16	and I can sort of watch it flip around. 
+382.16	And this is in 1993. 
+385.16	And when my professors saw this, they were very upset at me. 
+389.16	They were saying, Why's it moving? 
+392.16	They were saying, Make it stop now.
+395.16	Now, I was saying, Well, that's the whole point: it's moving.
+397.16	And he says, Well, when's it going to stop?
+399.16	And I said, Never.
+400.16	And he said, Even worse. Stop it now.
+403.16	I started studying this whole idea, 
+405.16	of like, what is this computer? It's a strange medium.
+408.16	It's not like print. It's not like video. 
+411.16	It lasts forever. It's a very strange medium. 
+414.16	So, I went off with this, 
+416.16	and began to look for things even more.
+418.16	And so in Japan, I began to experiment with people. 
+421.16	This is actually bad: human experiments. 
+424.16	I would do these things where I'd have students become pens: 
+427.16	there's blue pen, red pen, green pen, black pen. 
+430.16	And someone sits down and draws a picture. 
+438.16	They're laughing because he said, 
+440.16	draw from the middle-right to the middle, and he kind of messed up.
+443.16	See, humans don't know how to take orders; 
+445.16	the computer's so good at it. 
+447.16	This guy figured out how to get the computer to draw with two pens at once: 
+450.16	you know, you, pen, do this, and you, pen, do this.
+453.16	And so began to have multiple pens on the page --
+456.16	again, hard to do with our hands. 
+459.16	"And then someone discovered this ""a-ha moment"" "
+461.16	where you could use coordinate systems. 
+464.16	We thought, ah, this is when it's going to happen. 
+466.16	In the end, he drew a house. It was the most boring thing. 
+469.16	It became computerish; we began to think computerish -- 
+472.16	the X, Y system -- and so that was kind of a revelation. 
+475.16	And after this I wanted to build a computer out of people, 
+478.16	called a human-powered computer. 
+480.16	So, this happened in 1993.
+484.16	Sound down, please. 
+485.16	It's a computer where the people are the parts. 
+489.16	I have behind this wall a disk drive, a CPU, 
+493.16	a graphics card, a memory system. 
+495.16	They're picking up a giant floppy disk made of cardboard. 
+498.16	It's put inside the computer. 
+501.16	And that little program's on that cardboard disk. 
+504.16	So, she wears the disk, 
+507.16	and reads the data off the sectors of the disk,
+511.16	and the computer starts up; it sort of boots up, really. 
+514.16	And it's a sort of a working computer. And when I built this computer,
+517.16	I had a moment of -- what is it called? -- 
+519.16	the epiphany where I realized that the computer's just so fast. 
+523.16	This computer appears to be fast - she's working pretty hard, 
+527.16	and people are running around, and we think, wow, this is happening at a fast rate.
+531.16	And this computer's programmed to do only one thing, which is,
+534.16	if you move your mouse, the mouse changes on the screen. 
+537.16	On the computer, when you move your mouse, that arrow moves around. 
+541.16	On this computer, if you move the mouse, it takes half an hour 
+543.16	for the mouse cursor to change. 
+545.16	To give you a sense of the speed, the scale: 
+547.16	the computer is just so amazingly fast, O.K.?
+550.16	And so, after this I began to do experiments for different companies.
+553.16	This is something I did for Sony in 1996. 
+556.16	"It was three Sony ""H"" devices "
+558.16	that responded to sound.
+560.16	So, if you talk into the mike,
+562.16	you'll hear some music in your headphones; 
+564.16	if you talk in the phone, then video would happen. 
+566.16	So, I began to experiment with industry in different ways 
+568.16	with this kind of mixture of skills. 
+571.16	I did this ad. I don't believe in this kind of alcohol, but I do drink sometimes. 
+575.16	And Chanel. So, getting to do different projects. 
+577.16	And also, one thing I realized is that 
+579.16	I like to make things.
+581.16	We like to make things. It's fun to make things. 
+584.16	And so I never developed the ability to have a staff. 
+586.16	I have no staff; it's all kind of made by hand -- 
+588.16	these sort of broken hands.
+590.16	And these hands were influenced 
+593.16	by this man, Mr. Inami Naomi.
+596.16	This guy was my kind of like mentor. 
+598.16	He was the first digital media producer in Tokyo. 
+601.16	He's the guy that kind of discovered me, 
+603.16	and kind of got me going in digital media. 
+605.16	He was such an inspirational guy. 
+608.16	I remember, like, we'd be in his studio, like, at 2 a.m., 
+611.16	and then he'd show up from some client meeting. 
+614.16	He'd come in and say, you know, 
+616.16	If I am here, everything is okay.
+619.16	And you'd feel so much better, you know. 
+621.16	And I'll never forget how, like, but -- I'll never forget how, like,
+625.16	he had a sudden situation with his -- he had an aneurysm. 
+628.16	He went into a coma.
+630.16	And so, for three years he was out, and he could only blink, 
+633.16	and so I realized at this moment, I thought, wow --
+635.16	how fragile is this thing we're wearing, 
+637.16	this body and mind we're wearing, 
+639.16	and so I thought, How do you go for it more? 
+641.16	How do you take that time you have left and go after it? 
+644.16	So, Naomi was pivotal in that. 
+646.16	And so, I began to think more carefully about the computer. 
+649.16	This was a moment where I was thinking about, 
+651.16	so, you have a computer program, 
+653.16	it responds to motion -- X and Y -- 
+657.16	and I realized that each computer program 
+659.16	has all these images inside the program.
+662.16	So, if you can see here, you know, 
+664.16	that program you're seeing in the corner,
+666.16	if you spread it out, it's all these things all at once. 
+669.16	It's real simultaneity. It's nothing we're used to working with. 
+673.16	We're so used to working in one vector. 
+675.16	This is all at the same time.
+677.16	The computer lives in so many dimensions. 
+679.16	And also, at the same time I was frustrated, 
+681.16	because I would go to all these art and design schools everywhere, 
+683.16	"and there were these, like, ""the computer lab,"" you know, "
+686.16	and this is, like, in the late 1990s, 
+689.16	and this is in Basel,
+691.16	a great graphic design school.
+693.16	And here's this, like, dirty, kind of, shoddy, 
+695.16	kind of, dark computer room. 
+698.16	And I began to wonder, Is this the goal? 
+700.16	Is this what we want, you know? 
+703.16	And also, I began to be fascinated by machines -- 
+706.16	you know, like copy machines -- and so this is actually in Basel.
+709.16	I noticed how we spent so much time on making it interactive -- 
+712.16	this is, like, a touch screen -- 
+714.16	and I noticed how you can only touch five places, 
+716.16	"and so, ""why are we wasting so much interactivity everywhere?"" "
+719.16	became a question. And also, the sound: 
+722.16	I discovered I can make my ThinkPad pretend it's a telephone. 
+727.16	You get it? No? O.K.
+729.16	And also, I discovered in Logan airport, 
+732.16	this was, like, calling out to me. 
+740.16	Do you hear that? It's like cows. This is at 4 a.m. at Logan. 
+743.16	So, I was wondering, like, 
+745.16	what is this thing in front of me, this computer thing? 
+748.16	It didn't make any sense. 
+750.16	So, I began to make things again. This is another series of objects
+752.16	made of old computers from my basement. 
+754.16	I made -- I took my old Macintoshes 
+756.16	and made different objects out of them from Tokyo. 
+759.16	I began to be very disinterested in computers themselves, 
+762.16	so I began to make paintings out of PalmPilots. 
+764.16	I made this series of works. 
+766.16	They're paintings I made and put a PalmPilot in the middle 
+769.16	as a kind of display that's sort of thinking, 
+771.16	I'm abstract art. What am I? I'm abstract.
+774.16	And so it keeps thinking out loud of its own abstraction. 
+778.16	I began to be fascinated by plastic, 
+781.16	so I spent four months making eight plastic blocks 
+784.16	perfectly optically transparent, 
+786.16	as a kind of release of stress.
+789.16	Because of that, I became interested in blue tape, 
+792.16	so in San Francisco, at C.C., I had a whole exhibition on blue tape.
+795.16	I made a whole installation out of blue tape -- blue painters' tape.
+797.16	And at this point my wife kind of got worried about me, 
+800.16	so I stopped doing blue tape and began to think, 
+802.16	Well, what else is there in life? 
+804.16	And so computers, as you know, 
+807.16	these big computers, there are now tiny computers. 
+809.16	They're littler computers, so the one-chip computers, 
+811.16	I began to program one-chip computers 
+813.16	and make objects out of P.C. boards, LEDs.
+817.16	I began to make LED sculptures 
+819.16	that would live inside little boxes out of MDF. 
+822.16	This is a series of light boxes I made for a show in Italy. 
+826.16	Very simple boxes: you just press one button and some LED interaction occurs. 
+829.16	This is a series of lamps I made. This is a Bento box lamp: 
+832.16	it's sort of a plastic rice lamp;
+835.16	it's very friendly. 
+837.16	I did a show in London last year made out of iPods -- 
+840.16	I used iPods as a material. 
+842.16	So I took 16 iPod Nanos 
+844.16	and made a kind of a Nano fish, basically.
+846.16	Recently, this is for Reebok. 
+848.16	I've done shoes for Reebok as well,
+850.16	as a kind of a hobby for apparel. 
+852.16	So anyways, there are all these things you can do, 
+855.16	but the thing I love the most is to 
+857.16	experience, taste the world.
+859.16	The world is just so tasty. 
+861.16	We think we'll go to a museum; that's where all the tastes are. 
+863.16	No, they're all out there. 
+865.16	So, this is, like, in front of the Eiffel Tower, really,
+867.16	actually, around the Louvre area. 
+869.16	This I found, where nature had made a picture for me. 
+871.16	This is a perfect 90-degree angle by nature. 
+873.16	In this strange moment where, like, these things kind of appeared.
+876.16	We all are creative people. 
+878.16	We have this gene defect in our mind.
+881.16	We can't help but stop, right? This feeling's a wonderful thing. 
+884.16	It's the forever-always-on museum. 
+887.16	This is from the Cape last year. 
+889.16	I discovered that I had to find the equation of art and design, 
+892.16	which we know as circle-triangle-square. 
+895.16	It's everywhere on the beach, I discovered. 
+897.16	I began to collect every instance of circle-triangle-square. 
+900.16	I put these all back, by the way. 
+902.16	And I also discovered how .
+904.16	some rocks are twins separated at birth.
+907.16	This is also out there, you know. 
+910.16	I'm, like, how did this happen, kind of thing? 
+912.16	I brought you guys together again. 
+914.16	So, three years ago I discovered, the letters M-I-T 
+917.16	occurring in simplicity and complexity. 
+919.16	My alma mater, MIT, and I had this moment -- 
+921.16	a kind of M. Night Shayamalan moment -- 
+922.16	where I thought, Whoa! I have to do this.
+925.16	And I went after it with passion. 
+928.16	However, recently this RISD opportunity kind of arose --
+932.16	going to RISD -- and I couldn't reconcile this real easy, 
+935.16	because the letters had told me, MIT forever. 
+939.16	But I discovered in the French word raison d'être. 
+942.16	I was, like, aha, wait a second. 
+944.16	And there RISD appeared. 
+947.16	And so I realized it was O.K. to go.
+949.16	So, I'm going to RISD, actually. 
+953.16	Who's a RISD alum out there? 
+955.16	RISD alums? Yeah, RISD. There we go, RISD. Woo, RISD.
+958.16	I'm sorry, I'm sorry, Art Center -- Art Center is good, too.
+960.16	RISD is kind of my new kind of passion, 
+964.16	and I'll tell you a little bit about that. 
+967.16	So, RISD is -- 
+969.16	I was outside RISD,
+971.16	and some student wrote this on some block, and I thought,
+973.16	Wow, RISD wants to know what itself is. 
+976.16	And I have no idea what RISD should be, actually, 
+978.16	or what it wants to be, but one thing I have to tell you is that
+981.16	although I'm a technologist, I don't like technology very much. 
+984.16	It's a, kind of, the qi thing, or whatever. 
+986.16	People say, 
+988.16	Are you going to bring RISD into the future?
+990.16	And I say, well, I'm going to bring the future back to RISD. 
+993.16	There's my perspective. Because in reality, 
+996.16	the problem isn't how to make the world more technological. 
+1000.16	It's about how to make it more humane again. 
+1002.16	And if anything, I think RISD has a strange DNA. 
+1006.16	It's a strange exuberance
+1008.16	about materials, about the world:
+1010.16	a fascination that I think the world needs 
+1012.16	quite very much right now.
+1014.16	So, thank you everyone.

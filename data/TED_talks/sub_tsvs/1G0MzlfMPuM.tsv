@@ -1,0 +1,267 @@
+startsecond	text
+12.16	Hello! My name is Golan Levin.
+15.16	I'm an artist and an engineer,
+17.16	which is, increasingly, a more common kind of hybrid.
+19.16	But I still fall into this weird crack
+22.16	where people don't seem to understand me.
+24.16	And I was looking around and I found this wonderful picture.
+28.16	"It's a letter from ""Artforum"" in 1967"
+31.16	"saying ""We can't imagine ever doing a special issue"
+34.16	"on electronics or computers in art."" And they still haven't."
+37.16	And lest you think that you all, as the digerati, are more enlightened,
+42.16	I went to the Apple iPhone app store the other day.
+45.16	Where's art? I got productivity. I got sports.
+49.16	And somehow the idea that one would want to make art for the iPhone,
+53.16	which my friends and I are doing now,
+55.16	is still not reflected in our understanding
+58.16	of what computers are for.
+60.16	So, from both directions, there is kind of, I think, a lack of understanding
+62.16	about what it could mean to be an artist who uses the materials
+64.16	of his own day, or her own day,
+66.16	which I think artists are obliged to do,
+68.16	is to really explore the expressive potential of the new tools that we have.
+72.16	In my own case, I'm an artist,
+74.16	and I'm really interested in
+76.16	expanding the vocabulary of human action,
+78.16	and basically empowering people through interactivity.
+81.16	I want people to discover themselves as actors,
+84.16	as creative actors, by having interactive experiences.
+88.16	A lot of my work is about trying to get away from this.
+91.16	This a photograph of the desktop of a student of mine.
+93.16	And when I say desktop, I don't just mean
+95.16	the actual desk where his mouse has worn away the surface of the desk.
+98.16	If you look carefully, you can even see
+100.16	a hint of the Apple menu, up here in the upper left,
+103.16	where the virtual world has literally
+105.16	punched through to the physical.
+107.16	So this is, as Joy Mountford once said,
+111.16	"""The mouse is probably the narrowest straw"
+113.16	"you could try to suck all of human expression through."""
+115.16	(Laughter)
+118.16	And the thing I'm really trying to do is enabling people to have more rich
+121.16	kinds of interactive experiences.
+123.16	How can we get away from the mouse and use our full bodies
+125.16	as a way of exploring aesthetic experiences,
+128.16	not necessarily utilitarian ones.
+130.16	So I write software. And that's how I do it.
+133.16	And a lot of my experiences
+135.16	resemble mirrors in some way.
+137.16	Because this is, in some sense, the first way,
+139.16	that people discover their own potential as actors,
+141.16	and discover their own agency.
+143.16	"By saying ""Who is that person in the mirror? Oh it's actually me."""
+146.16	And so, to give an example,
+148.16	this is a project from last year,
+150.16	which is called the Interstitial Fragment Processor.
+152.16	And it allows people to explore the negative shapes that they create
+156.16	when they're just going about their everyday business.
+173.16	So as people make shapes with their hands or their heads
+175.16	and so forth, or with each other,
+177.16	these shapes literally produce sounds and drop out of thin air --
+180.16	basically taking what's often this, kind of, unseen space,
+184.16	or this undetected space, and making it something real,
+187.16	that people then can appreciate and become creative with.
+190.16	So again, people discover their creative agency in this way.
+193.16	And their own personalities come out
+195.16	in totally unique ways.
+198.16	So in addition to using full-body input,
+201.16	something that I've explored now, for a while,
+203.16	has been the use of the voice,
+205.16	which is an immensely expressive system for us, vocalizing.
+209.16	Song is one of our oldest ways
+211.16	of making ourselves heard and understood.
+214.16	And I came across this fantastic research by Wolfgang Köhler,
+216.16	the so-called father of gestalt psychology, from 1927,
+220.16	who submitted to an audience like yourselves
+222.16	the following two shapes.
+224.16	And he said one of them is called Maluma.
+226.16	And one of them is called Taketa. Which is which?
+228.16	Anyone want to hazard a guess?
+232.16	Maluma is on top. Yeah. So.
+234.16	As he says here, most people answer without any hesitation.
+237.16	So what we're really seeing here is a phenomenon
+239.16	called phonaesthesia,
+241.16	which is a kind of synesthesia that all of you have.
+243.16	And so, whereas Dr. Oliver Sacks has talked about
+245.16	how perhaps one person in a million
+247.16	actually has true synesthesia,
+249.16	where they hear colors or taste shapes, and things like this,
+251.16	phonaesthesia is something we can all experience to some extent.
+253.16	It's about mappings between different perceptual domains,
+256.16	like hardness, sharpness, brightness and darkness,
+259.16	and the phonemes that we're able to speak with.
+261.16	So 70 years on, there's been some research where
+263.16	cognitive psychologists have actually sussed out
+265.16	the extent to which, you know,
+267.16	L, M and B are more associated with shapes that look like this,
+271.16	and P, T and K are perhaps more associated with shapes like this.
+275.16	And here we suddenly begin to have a mapping between curvature
+277.16	that we can exploit numerically,
+279.16	a relative mapping between curvature and shape.
+282.16	So it occurred to me, what happens if we could run these backwards?
+285.16	And thus was born the project called Remark,
+287.16	which is a collaboration with Zachary Lieberman
+289.16	and the Ars Electronica Futurelab.
+291.16	And this is an interactive installation which presents
+293.16	the fiction that speech casts visible shadows.
+295.16	So the idea is you step into a kind of a magic light.
+298.16	And as you do, you see the shadows of your own speech.
+301.16	And they sort of fly away, out of your head.
+303.16	If a computer speech recognition system
+306.16	is able to recognize what you're saying, then it spells it out.
+310.16	And if it isn't then it produces a shape which is very phonaesthetically
+312.16	tightly coupled to the sounds you made.
+314.16	So let's bring up a video of that.
+363.16	(Applause)
+365.16	Thanks. So. And this project here,
+368.16	I was working with the great abstract vocalist, Jaap Blonk.
+371.16	"And he is a world expert in performing ""The Ursonate,"""
+374.16	which is a half-an-hour nonsense poem
+376.16	by Kurt Schwitters, written in the 1920s,
+378.16	which is half an hour of very highly patterned nonsense.
+382.16	And it's almost impossible to perform.
+384.16	But Jaap is one of the world experts in performing it.
+387.16	And in this project we've developed
+389.16	a form of intelligent real-time subtitles.
+392.16	So these are our live subtitles,
+395.16	"that are being produced by a computer that knows the text of ""The Ursonate"" --"
+398.16	fortunately Jaap does too, very well --
+401.16	and it is delivering that text at the same time as Jaap is.
+413.16	So all the text you're going to see
+415.16	is real-time generated by the computer,
+417.16	visualizing what he's doing with his voice.
+490.16	Here you can see the set-up where there is a screen with the subtitles behind him.
+514.16	Okay. So ...
+516.16	(Applause)
+521.16	The full videos are online if you are interested.
+523.16	I got a split reaction to that during the live performance,
+525.16	because there is some people who understand
+527.16	live subtitles are a kind of an oxymoron,
+529.16	because usually there is someone making them afterwards.
+532.16	"And then a bunch of people who were like, ""What's the big deal?"
+535.16	"I see subtitles all the time on television."""
+537.16	You know? They don't imagine the person in the booth, typing it all.
+540.16	So in addition to the full body, and in addition to the voice,
+543.16	another thing that I've been really interested in,
+545.16	most recently, is the use of the eyes,
+547.16	or the gaze, in terms of how people relate to each other.
+551.16	It's a really profound amount of nonverbal information
+553.16	that's communicated with the eyes.
+555.16	And it's one of the most interesting technical challenges
+557.16	that's very currently active in the computer sciences:
+559.16	being able to have a camera that can understand,
+561.16	from a fairly big distance away,
+563.16	how these little tiny balls are actually pointing in one way or another
+566.16	to reveal what you're interested in,
+568.16	and where your attention is directed.
+570.16	So there is a lot of emotional communication that happens there.
+573.16	And so I've been beginning, with a variety of different projects,
+577.16	to understand how people can relate to machines with their eyes.
+580.16	And basically to ask the questions:
+583.16	What if art was aware that we were looking at it?
+588.16	How could it respond, in a way,
+590.16	to acknowledge or subvert the fact that we're looking at it?
+593.16	And what could it do if it could look back at us?
+596.16	And so those are the questions that are happening in the next projects.
+598.16	In the first one which I'm going to show you, called Eyecode,
+601.16	it's a piece of interactive software
+603.16	in which, if we read this little circle,
+605.16	"""the trace left by the looking of the previous observer"
+608.16	"looks at the trace left by the looking of previous observer."""
+611.16	The idea is that it's an image wholly constructed
+613.16	from its own history of being viewed
+615.16	by different people in an installation.
+617.16	So let me just switch over so we can do the live demo.
+622.16	So let's run this and see if it works.
+626.16	Okay. Ah, there is lots of nice bright video.
+629.16	There is just a little test screen that shows that it's working.
+631.16	And what I'm just going to do is -- I'm going to hide that.
+633.16	And you can see here that what it's doing
+635.16	is it's recording my eyes every time I blink.
+644.16	Hello? And I can ... hello ... okay.
+648.16	And no matter where I am, what's really going on here
+650.16	is that it's an eye-tracking system that tries to locate my eyes.
+653.16	And if I get really far away I'm blurry.
+655.16	You know, you're going to have these kind of blurry spots like this
+657.16	that maybe only resemble eyes in a very very abstract way.
+660.16	But if I come up really close and stare directly at the camera
+663.16	on this laptop then you'll see these nice crisp eyes.
+665.16	You can think of it as a way of, sort of, typing, with your eyes.
+669.16	And what you're typing are recordings of your eyes
+671.16	as you're looking at other peoples' eyes.
+673.16	So each person is looking at the looking
+676.16	of everyone else before them.
+678.16	And this exists in larger installations
+680.16	where there are thousands and thousands of eyes
+682.16	that people could be staring at,
+684.16	as you see who's looking at the people looking
+686.16	at the people looking before them.
+688.16	So I'll just add a couple more. Blink. Blink.
+691.16	And you can see, just once again, how it's sort of finding my eyes
+694.16	and doing its best to estimate when it's blinking.
+697.16	Alright. Let's leave that.
+699.16	So that's this kind of recursive observation system.
+702.16	(Applause)
+704.16	Thank you.
+706.16	The last couple pieces I'm going to show
+708.16	are basically in the new realm of robotics -- for me, new for me.
+710.16	It's called Opto-Isolator.
+712.16	And I'm going to show a video of the older version of it,
+715.16	which is just a minute long. Okay.
+726.16	In this case, the Opto-Isolator is blinking
+728.16	in response to one's own blinks.
+730.16	So it blinks one second after you do.
+733.16	This is a device which is intended to reduce
+736.16	the phenomenon of gaze down to the simplest possible materials.
+739.16	Just one eye,
+741.16	looking at you, and eliminating everything else about a face,
+743.16	but just to consider gaze in an isolated way
+746.16	as a kind of, as an element.
+749.16	And at the same time, it attempts to engage in what you might call
+752.16	familiar psycho-social gaze behaviors.
+754.16	Like looking away if you look at it too long
+756.16	because it gets shy,
+758.16	or things like that.
+761.16	Okay. So the last project I'm going to show
+764.16	is this new one called Snout.
+767.16	(Laughter)
+769.16	It's an eight-foot snout,
+771.16	with a googly eye.
+773.16	(Laughter)
+774.16	And inside it's got an 800-pound robot arm
+777.16	that I borrowed,
+779.16	(Laughter)
+780.16	from a friend.
+782.16	(Laughter)
+783.16	It helps to have good friends.
+785.16	I'm at Carnegie Mellon; we've got a great Robotics Institute there.
+788.16	I'd like to show you thing called Snout, which is --
+790.16	The idea behind this project is to
+792.16	make a robot that appears as if it's continually surprised to see you.
+796.16	(Laughter)
+800.16	The idea is that basically --
+802.16	"if it's constantly like ""Huh? ... Huh?"""
+804.16	That's why its other name is Doubletaker, Taker of Doubles.
+808.16	"It's always kind of doing a double take: ""What?"""
+810.16	And the idea is basically, can it look at you
+812.16	and make you feel as if like,
+814.16	"""What? Is it my shoes?"""
+816.16	"""Got something on my hair?"" Here we go. Alright."
+850.16	Checking him out ...
+860.16	For you nerds, here's a little behind-the-scenes.
+862.16	It's got a computer vision system,
+864.16	and it tries to look at the people who are moving around the most.
+879.16	Those are its targets.
+882.16	Up there is the skeleton,
+884.16	which is actually what it's trying to do.
+894.16	It's really about trying to create a novel body language for a new creature.
+897.16	Hollywood does this all the time, of course.
+899.16	But also have the body language communicate something
+901.16	to the person who is looking at it.
+903.16	This language is communicating that it is surprised to see you,
+905.16	and it's interested in looking at you.
+908.16	(Laughter)
+910.16	(Applause)
+919.16	Thank you very much. That's all I've got for today.
+921.16	And I'm really happy to be here. Thank you so much.
+924.16	(Applause)

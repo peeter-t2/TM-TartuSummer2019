@@ -1,0 +1,392 @@
+startsecond	text
+18.33	So how would you run a whole country without oil?
+22.33	That's the question that sort of hit me
+24.33	in the middle of a Davos afternoon about four years ago.
+27.33	It never left my brain.
+29.33	And I started playing with it more like a puzzle.
+32.33	The original thought I had: this must be ethanol.
+34.33	So I went out and researched ethanol,
+36.33	and found out you need the Amazon in your backyard in every country.
+39.33	About six months later I figured out it must be hydrogen,
+42.33	until some scientist told me the unfortunate truth,
+45.33	which is, you actually use more
+48.33	clean electrons than the ones you get
+50.33	inside a car, if you use hydrogen.
+52.33	So that is not going to be the path to go.
+55.33	And then sort of through a process of
+58.33	wandering around, I got to the thought
+60.33	that actually if you could convert an entire country to electric cars,
+63.33	in a way that is convenient and affordable,
+66.33	you could get to a solution.
+69.33	Now I started this from a point of view that
+72.33	it has to be something that scales en masse.
+74.33	Not how do you build one car,
+76.33	but how do you scale this so that it can become
+78.33	something that is used by 99 percent of the population?
+83.33	The thought that came to mind is that it needs to be as good
+86.33	as any car that you would have today.
+88.33	So one, it has to be more convenient than a car.
+91.33	And two, it has be more affordable than today's cars.
+94.33	Affordable is not a 40,000 dollar sedan, right?
+97.33	Alright? That's not something that we can finance or buy today.
+100.33	And convenient is not something that you drive for an hour and charge for eight.
+104.33	So we're bound with the laws of physics
+107.33	and the laws of economics.
+109.33	And so the thought that I started with was
+112.33	how do you do this, still within the boundary
+115.33	of the science we know today --
+117.33	no time for science fair, no time for playing around with things
+120.33	or waiting for the magic battery to show up.
+122.33	How do you do it within the economics that we have today?
+124.33	How do you do it from the power of the consumer up?
+126.33	And not from the power of an edict down.
+129.33	On a random visit to Tesla on some afternoon,
+132.33	I actually found out that the answer comes
+134.33	from separating between the car ownership
+137.33	and the battery ownership.
+139.33	In a sense if you want to think about it this is the classic
+142.33	"""batteries not included."""
+145.33	Now if you separate between the two,
+147.33	you could actually answer the need for a convenient car
+150.33	by creating a network,
+152.33	by creating a network before the cars show up.
+155.33	The network has two components in them.
+158.33	First component is you charge the car whenever you stop --
+161.33	ends up that cars are these strange beasts that drive
+164.33	for about two hours and park for about 22 hours.
+167.33	If you drive a car in the morning and drive it back in the afternoon
+171.33	the ratio of charge to drive is about a minute for a minute.
+174.33	And so the first thought that came to mind is,
+176.33	everywhere we park we have electric power.
+179.33	Now it sounds crazy. But in some places around the world,
+181.33	like Scandinavia, you already have that.
+184.33	If you park your car and didn't plug in the heater,
+186.33	when you come back you don't have a car. It just doesn't work.
+189.33	Now that last mile,
+192.33	last foot, in a sense,
+194.33	is the first step of the infrastructure.
+195.33	The second step of the infrastructure needs to take care
+197.33	of the range extension.
+199.33	See we're bound by today's technology on batteries,
+202.33	which is about 120 miles if you want to stay within
+204.33	reasonable space and weight limitations.
+212.33	But you never want to get stuck.
+214.33	So what we added is a second element to our network,
+216.33	which is a battery swap system.
+218.33	You drive. You take your depleted battery out.
+221.33	A full battery comes on. And you drive on.
+224.33	You don't do it as a human being. You do it as a machine.
+226.33	It looks like a car wash. You come into your car wash.
+229.33	And a plate comes up, holds your battery, takes it out, puts it back in, and
+232.33	within two minutes you're back on the road
+234.33	and you can go again.
+237.33	If you had charge spots everywhere,
+239.33	and you had battery swap stations everywhere,
+241.33	how often would you do it? And it ends up
+243.33	that you'd do swapping less times than you stop at a gas station.
+247.33	As a matter of fact, we added to the contract.
+250.33	We said that if you stop to swap your battery more than 50 times a year
+253.33	we start paying you money
+255.33	because it's an inconvenience.
+257.33	Then we looked at the question of the affordability.
+260.33	We looked at the question, what happens when the battery is
+262.33	disconnected from the car.
+264.33	What is the cost of that battery?
+266.33	Everybody tells us batteries are so expensive.
+268.33	What we found out, when you move from molecules to electrons,
+271.33	something interesting happens.
+273.33	We can go back to the original economics of the car and look at it again.
+276.33	The battery is not the gas tank, in a sense.
+278.33	Remember in your car you have a gas tank.
+280.33	You have the crude oil.
+282.33	And you have refining and delivery of that crude oil
+284.33	as what we call petrol or gasoline.
+286.33	The battery in this sense, is the crude oil.
+290.33	We have a battery bay. It costs the same hundred dollars
+293.33	as the gas tank.
+295.33	But the crude oil is replaced with a battery.
+297.33	Just it doesn't burn. It consumes itself
+299.33	step after step after step.
+301.33	It has 2,000 life cycles these days.
+303.33	And so it's sort of a mini well.
+306.33	We were asked in the past when we bought an electric car
+308.33	to pay for the entire well, for the life of the car.
+310.33	Nobody wants to buy a mini well when they buy a car.
+313.33	In a sense what we've done is
+315.33	we've created a new consumable.
+317.33	You, today, buy gasoline miles.
+319.33	And we created electric miles.
+322.33	And the price of electric miles ends up being a very interesting number.
+326.33	Today 2010, in volume,
+328.33	when we come to market, it is eight cents a mile.
+332.33	Those of you who have a hard time calculating what that means --
+334.33	in the average consumer
+337.33	environment we're in in the U.S.
+342.33	That's cheaper than today's gasoline, even in the U.S.
+346.33	In Europe where taxes are in place,
+349.33	that's the equivalent to a minus 60 dollar barrel.
+354.33	But e-miles follow Moore's Law.
+358.33	They go from eight cents a mile in 2010,
+361.33	to four cents a mile in 2015,
+363.33	to two cents a mile by 2020.
+367.33	Why? Because batteries life cycle improve --
+370.33	a bit of improvement on energy density, which reduces the price.
+373.33	And these prices are actually with clean electrons.
+376.33	We do not use any electrons that come from coal.
+380.33	So in a sense this is
+382.33	an absolute zero-carbon, zero-fossil fuel
+385.33	electric mile at two cents a mile by 2020.
+389.33	Now even if we get to 40 miles per gallon
+391.33	by 2020, which is our desire.
+393.33	Imagine only 40 miles per gallon cars would be on the road.
+396.33	That is an 80 cent gallon.
+398.33	An 80 cent gallon means, if the entire Pacific
+400.33	would convert to crude oil,
+402.33	and we'd let any oil company bring it out and refine it,
+405.33	they still can't compete with two cents a mile.
+409.33	That's a new economic factor,
+411.33	which is fascinating to most people.
+413.33	Now this would have been a wonderful paper.
+415.33	That's how I solved it in my head. It was a white paper I handed out to governments.
+418.33	And some governments told me that it's fascinating
+420.33	that the younger generation actually thinks about these things.
+423.33	(Laughter)
+424.33	Until I got to the
+426.33	true young global leader, Shimon Peres, President of Israel,
+429.33	and he ran a beautiful manipulation on me.
+432.33	First he let me go to the prime minister of the country,
+434.33	who told me, if you can find the money you need for this network,
+438.33	and if you can find a car company
+440.33	that will build that car in mass volume,
+442.33	in two million cars -- that's what we needed in Israel --
+444.33	I'll give you country to invest the 200 million into.
+448.33	Peres thought that was a great idea.
+451.33	So we went out, and we looked at all the car companies.
+455.33	We sent letters to all the car companies.
+457.33	Three of them never showed up. One of them asked us
+459.33	if we would stay with hybrids and they would give us a discount.
+462.33	But one of them Carlos Ghosn, CEO of Renault and Nissan,
+465.33	when asked about hybrids said something very fascinating.
+468.33	He said hybrids are like mermaids.
+470.33	When you want a fish you get a woman and
+472.33	when you need a woman you get a fish.
+474.33	(Laughter)
+477.33	And Ghosn came up and said,
+479.33	"""I have the car, Mr. Peres; I will build you the cars."""
+481.33	And actually true to form, Renault has put a billion and a half dollars
+484.33	in building nine different types of cars that fit this kind of model
+487.33	that will come into the market in mass volume --
+490.33	mass volume being the first year, 100 thousand cars.
+493.33	It's the first mass-volume electric car,
+495.33	zero-emission electric car in the market.
+498.33	I was running, as Chris said,
+502.33	to be the CEO of a large software company called SAP
+505.33	"And then Peres said, ""Well won't you run this project?"""
+509.33	"And I said, ""I'm ready for CEO"" And he said,"
+511.33	"""Oh no no no no no. You've got to explain to me,"
+514.33	what is more important than saving your country and saving the world,
+516.33	"that you would go and do?"""
+518.33	And I had to quit and come and do this thing called A Better Place.
+520.33	We then decided to scale it up.
+523.33	We went to other countries. As I said we went to Denmark.
+525.33	And Denmark set this beautiful policy;
+527.33	it's called the IQ test.
+529.33	It's inversely proportional to taxes.
+531.33	They put 180 percent tax on gasoline cars
+535.33	and zero tax on zero-emission cars.
+537.33	So if you want to buy a gasoline car in Denmark, it costs you about 60,000 Euros.
+541.33	If you buy our car it's about 20,000 Euros.
+543.33	If you fail the IQ test they ask you to leave the country.
+546.33	(Laughter)
+548.33	We then were sort of coined as the guys
+550.33	who run only in small islands.
+552.33	I know most people don't think of Israel as a small island,
+554.33	but Israel is an island -- it's a transportation island.
+557.33	If your car is driving outside Israel it's been stolen.
+560.33	(Laughter)
+562.33	If you're thinking about it in terms of islands,
+565.33	we decided to go to the biggest island that we could find,
+567.33	and that was Australia. The third country we announced was Australia.
+570.33	It's got three centers --
+572.33	in Brisbane, in Melbourne, in Sydney --
+575.33	and one freeway, one electric freeway that connects them.
+577.33	The next island
+579.33	was not too hard to find, and that was Hawaii.
+581.33	We decided to come into the U.S.
+583.33	and pick the two best places --
+585.33	the one where you didn't need any range extension.
+587.33	Hawaii you can drive around the island on one battery.
+589.33	And if you really have a long day you can switch,
+591.33	and keep on driving around the island.
+593.33	The second one was the San Francisco Bay Area
+595.33	where Gavin Newsom created a beautiful policy across all the mayors.
+598.33	He decided that he's going to take over
+600.33	the state, unofficially, and then officially,
+603.33	and then created this beautiful Region One policy.
+607.33	In the San Francisco Bay Area not only do you have
+609.33	the highest concentration of Priuses,
+611.33	but you also have the perfect range extender.
+613.33	It's called the other car.
+615.33	As we stared scaling it up
+618.33	we looked at what is the problem to come up to the U.S.?
+621.33	Why is this a big issue?
+623.33	And the most fascinating thing we've learned is that,
+625.33	when you have small problems on the individual level,
+628.33	like the price of gasoline to drive every morning.
+631.33	You don't notice it, but when the aggregate comes up
+633.33	you're dead. Alright?
+635.33	So the price of oil, much like
+638.33	lots of other curves that we've seen,
+640.33	goes along a depletion curve.
+642.33	The foundation of this curve is that we keep losing the wells that are close to the ground.
+645.33	And we keep getting wells that are farther away from the ground.
+648.33	It becomes more and more and more expensive to dig them out.
+650.33	You think, well it's been up, it's been down,
+653.33	its been up, it's going to keep on going up and down.
+655.33	Here is the problem:
+657.33	at 147 dollars a barrel, which we were in six months ago,
+660.33	the U.S. spent a ton of money to get oil.
+664.33	Then we lost our economy and we went back down to 47 --
+667.33	sometimes it's 40, sometimes it's 50.
+669.33	Now we're running a stimulus package.
+671.33	It's called the trillion-dollar stimulus package.
+673.33	We're going to revive the economy. Hopefully it happens between now and 2015,
+677.33	somewhere in that space.
+679.33	What happens when the economy recovers?
+682.33	By 2015 we would have had at least 250 million new cars
+687.33	even at the pace we're going at right now.
+689.33	That's another 30 percent demand on oil.
+691.33	That is another 25 million barrels a day.
+694.33	That's all the U.S. usage today.
+698.33	In other words at some point when we've recovered we go up to the peak.
+701.33	And then we do the OPEC stimulus package
+703.33	also known as 200 dollars a barrel.
+705.33	We take our money and we give it away.
+707.33	You know what happens at that point?
+709.33	We go back down. It's going to go up and down.
+711.33	And the downs are going to be much longer
+713.33	and the ups are going to be much shorter.
+715.33	And that's the difference between problems that are additive,
+718.33	like CO2, which we go slowly up and then we tip,
+721.33	and problems that are depletive,
+723.33	in which we lose what we have,
+725.33	which oscillate, and they oscillate until
+727.33	we lose everything we've got.
+731.33	Now we actually looked at what the answer would be.
+733.33	Right? Remember in the campaign: one million
+735.33	hybrid cars by 2015.
+739.33	That is 0.5 percent of the U.S. oil consumption.
+743.33	That is oh point oh well percent of the rest of the world.
+748.33	That won't do much difference.
+750.33	We looked at an MIT study:
+752.33	ten million electric cars on the global roads.
+755.33	Ten million out of 500 million we will add between now and then.
+759.33	That is the most pessimistic number you can have.
+761.33	It's also the most optimistic number
+763.33	because it means we will scale this industry
+766.33	from 100 thousand cars is 2011,
+768.33	to 10 million cars by 2016 --
+777.33	You have to remember that the world today is bringing in so many cars.
+780.33	We have 10 million cars by region.
+783.33	That's an enormous amount of cars.
+785.33	China is adding those cars --
+787.33	India, Russia, Brazil.
+789.33	We have all these regions.
+791.33	Europe has solved it. They just put a tax on gasoline.
+793.33	They'll be the first in line to get off
+795.33	because their prices are high.
+797.33	China solves it by an edict. At some point they'll just declare
+799.33	that no gasoline car will come into a city, and that will be it.
+803.33	The Indians don't even understand why we think of it as a problem
+806.33	because most people in India fill two or three gallons every time.
+808.33	For them to get a battery that goes 120 miles
+811.33	is an extension on range, not a reduction in range.
+815.33	We're the only ones who don't have the price set right.
+818.33	We don't have the industry set right.
+820.33	We don't have any incentive to go and resolve it
+822.33	across the U.S.
+824.33	Now where is the car industry on that?
+826.33	Very interesting. The car industry has been focused just on themselves.
+829.33	"They basically looked at it and said, ""Car 1.0"
+831.33	"we'll solve everything within the car itself."""
+835.33	No infrastructure, no problem.
+838.33	We forgot about the entire chain around us.
+841.33	All this stuff that happens around.
+843.33	We are looking at the emergence of a car 2.0 --
+846.33	a whole new market, a whole new business model.
+849.33	The business model in which the money that is actually coming in,
+852.33	to drive the car --
+854.33	the minutes, the miles if you want,
+856.33	that you are all familiar with --
+858.33	subsidize the price of the car,
+861.33	just like cellphones. You'll pay for the miles.
+863.33	And some of it will go back to the car maker.
+865.33	Some of it will go back to your own pocket.
+868.33	But our cars are actually going to be cheaper than gasoline cars.
+871.33	You're looking at a world where cars are matched with windmills.
+875.33	In Denmark, we will drive all the cars in Denmark
+878.33	from windmills, not from oil.
+881.33	In Israel, we've asked to put a solar farm
+885.33	in the south of Israel.
+887.33	"And people said, ""Oh that's a very very large space that you're asking for."""
+890.33	"And we said, ""What if we had proven that in the same space"
+892.33	"we found oil for the country for the next hundred years?"""
+895.33	"And they said, ""We tried. There isn't any."""
+897.33	"We said, ""No no, but what if we prove it?"""
+899.33	"And they said, ""Well you can dig."" And we decided to dig up,"
+901.33	instead of digging down.
+903.33	These are perfect matches to one another.
+906.33	Now all you need is about 10 percent
+909.33	of the electricity generated.
+911.33	Think of it as a project that spans over about 10 years.
+914.33	That's one percent a year.
+916.33	Now when we're looking at solving big problems,
+919.33	we need to start thinking in two numbers.
+921.33	And those are not 20 percent by 2020.
+923.33	The two numbers are zero -- as in zero footprint or zero oil --
+928.33	and scale it infinity.
+931.33	And when we go to COP15 at the end of this year
+933.33	we can't stop thinking of padding CO2.
+935.33	We have to start thinking about giving kickers to countries
+937.33	that are willing to go to this kind of scale.
+940.33	One car emits four tons.
+942.33	And actually 700 and change million cars today
+944.33	emit 2.8 billion tons of CO2.
+947.33	That's, in the additive, about 25 percent of our problem.
+950.33	Cars and trucks add up to about 25 percent of the world's CO2 emissions.
+955.33	We have to come and attack this problem
+957.33	with a focus, with an effort that actually says,
+959.33	we're going to go to zero before the world ends.
+962.33	I actually shared that with some legislators here in the U.S.
+966.33	I shared it with a gentleman called Bobby Kennedy Jr., who is one of my idols.
+971.33	I told him one of the reasons that
+973.33	his uncle was remembered
+975.33	is because he said we're going to send a man to the moon,
+978.33	and we'll do it by the end of the decade.
+980.33	We didn't say we're going to send a man 20 percent to the moon.
+983.33	And there will be about a 20 percent chance we'll recover him.
+986.33	(Laughter)
+989.33	He actually shared with me another story, which is from about 200 years ago.
+996.33	there was a long argument
+998.33	over economy versus morality.
+1007.33	for the entire industrial world in the U.K.
+1010.33	came from a source of energy that was immoral:
+1013.33	human slaves.
+1015.33	And there was an argument. Should we stop using slaves?
+1018.33	And what would it do to our economy?
+1020.33	"And people said, ""Well we need to take time to do it."
+1022.33	Let's not do it immediately. Maybe we free the kids
+1024.33	and keep the slaves.
+1027.33	And after a month of arguments they decided to stop slavery,
+1030.33	and the industrial revolution started within less than one year.
+1034.33	And the U.K. had 100 years of economic growth.
+1038.33	We have to make the right moral decision.
+1041.33	We have to make it immediately.
+1044.33	We need to have presidential leadership
+1046.33	just like we had in Israel that said we will end oil.
+1050.33	And we need to do it not within 20 years or 50 years,
+1054.33	but within this presidential term
+1057.33	because if we don't, we will lose our economy,
+1061.33	right after we'd lost our morality.
+1063.33	Thank you all very much.
+1065.33	(Applause)

@@ -1,0 +1,243 @@
+startsecond	text
+25	What I'm going to show you first,
+25	as quickly as I can,
+27.572	is some foundational work,
+27.572	some new technology
+31.365	that we brought to Microsoft
+31.365	as part of an acquisition
+34	almost exactly a year ago.
+35.845	This is Seadragon, and it's an environment
+38.237	in which you can either
+38.237	locally or remotely interact
+40.737	with vast amounts of visual data.
+43.165	We're looking at many, many gigabytes
+43.165	of digital photos here
+46.593	and kind of seamlessly
+46.593	and continuously zooming in,
+49.532	panning through it,
+49.532	rearranging it in any way we want.
+52.389	And it doesn't matter how much
+52.389	information we're looking at,
+56	how big these collections are
+56	or how big the images are.
+59	Most of them are ordinary
+59	digital camera photos,
+61.31	but this one, for example,
+61.31	is a scan from the Library of Congress,
+64.478	and it's in the 300 megapixel range.
+67.32	It doesn't make any difference
+69	because the only thing that ought to limit
+69	the performance of a system like this one
+73.168	is the number of pixels on your screen
+73.168	at any given moment.
+75.969	It's also very flexible architecture.
+77.963	This is an entire book,
+77.963	so this is an example of non-image data.
+81.714	"This is ""Bleak House"" by Dickens."
+84.525	Every column is a chapter.
+87.333	To prove to you that it's really text,
+87.333	and not an image,
+91	we can do something
+91	like so, to really show
+93.072	that this is a real representation
+93.072	of the text; it's not a picture.
+96.288	Maybe this is an artificial way
+96.288	to read an e-book.
+98.976	I wouldn't recommend it.
+100.2	This is a more realistic case,
+100.2	an issue of The Guardian.
+103.072	Every large image
+103.072	is the beginning of a section.
+105.382	And this really gives you
+105.382	the joy and the good experience
+108.31	of reading the real paper version
+108.31	of a magazine or a newspaper,
+113.517	which is an inherently
+113.517	multi-scale kind of medium.
+115.976	We've done something
+117	with the corner of this particular
+117	issue of The Guardian.
+120	We've made up a fake ad
+120	that's very high resolution --
+123	much higher than in an ordinary ad --
+125.222	and we've embedded extra content.
+127	If you want to see the features
+127	of this car, you can see it here.
+130.072	Or other models,
+130.072	or even technical specifications.
+134.276	And this really gets
+134.276	at some of these ideas
+137.615	about really doing away
+137.615	with those limits on screen real estate.
+142.3	We hope that this means no more pop-ups
+144.435	and other rubbish like that --
+144.435	shouldn't be necessary.
+147	Of course, mapping is one
+147	of those obvious applications
+149.682	for a technology like this.
+151	And this one I really
+151	won't spend any time on,
+153.215	except to say that we have things
+153.215	to contribute to this field as well.
+157.213	But those are all the roads in the U.S.
+159.095	superimposed on top
+159.095	of a NASA geospatial image.
+164	So let's pull up, now, something else.
+166	This is actually live on the Web now;
+166	you can go check it out.
+169	This is a project called Photosynth,
+169	which marries two different technologies.
+172.728	One of them is Seadragon
+174	and the other is some very
+174	beautiful computer-vision research
+176.93	done by Noah Snavely, a graduate student
+176.93	at the University of Washington,
+180.416	co-advised by Steve Seitz at U.W.
+182.269	and Rick Szeliski at Microsoft Research.
+184.271	A very nice collaboration.
+186.412	And so this is live on the Web.
+186.412	It's powered by Seadragon.
+189.544	You can see that
+189.544	when we do these sorts of views,
+192.072	where we can dive through images
+193.819	and have this kind
+193.819	of multi-resolution experience.
+196.177	But the spatial arrangement of the images
+196.177	here is actually meaningful.
+200	The computer vision algorithms
+200	have registered these images together
+203.215	so that they correspond to the real
+203.215	space in which these shots --
+207	all taken near Grassi Lakes
+207	in the Canadian Rockies --
+210.324	all these shots were taken.
+212.011	So you see elements here
+213.502	of stabilized slide-show
+213.502	or panoramic imaging,
+219.539	and these things have
+219.539	all been related spatially.
+222	I'm not sure if I have time
+222	to show you any other environments.
+225.024	Some are much more spatial.
+226.479	I would like to jump straight
+226.479	to one of Noah's original data-sets --
+230.448	this is from an early prototype
+230.448	that we first got working this summer --
+234.024	to show you what I think
+235.942	is really the punch line
+235.942	behind the Photosynth technology,
+239.804	It's not necessarily so apparent
+241.389	from looking at the environments
+241.389	we've put up on the website.
+244.308	We had to worry
+244.308	about the lawyers and so on.
+246.509	This is a reconstruction
+246.509	of Notre Dame Cathedral
+248.834	that was done entirely computationally
+248.834	from images scraped from Flickr.
+252.315	You just type Notre Dame into Flickr,
+254.358	and you get some pictures of guys
+254.358	in T-shirts, and of the campus and so on.
+258.236	And each of these orange cones
+258.236	represents an image
+261.406	that was discovered
+261.406	to belong to this model.
+266	And so these are all Flickr images,
+268	and they've all been related
+268	spatially in this way.
+271	We can just navigate
+271	in this very simple way.
+275	(Applause)
+282.557	(Applause ends)
+283.595	You know, I never thought
+283.595	that I'd end up working at Microsoft.
+286.573	It's very gratifying to have
+286.573	this kind of reception here.
+289.597	(Laughter)
+293	I guess you can see this is
+293	lots of different types of cameras:
+298.072	it's everything from cell-phone cameras
+298.072	to professional SLRs,
+301.257	quite a large number of them,
+301.257	stitched together in this environment.
+304.472	If I can find some
+304.472	of the sort of weird ones --
+308	So many of them are occluded
+308	by faces, and so on.
+312.595	Somewhere in here there is actually
+312.595	a series of photographs -- here we go.
+316.896	This is actually a poster of Notre Dame
+316.896	that registered correctly.
+320.221	We can dive in from the poster
+323.461	to a physical view of this environment.
+331.421	What the point here really is
+333.311	is that we can do things
+333.311	with the social environment.
+335.926	This is now taking data from everybody --
+338.952	from the entire collective memory,
+338.952	visually, of what the Earth looks like --
+342.847	and link all of that together.
+344.62	Those photos become linked,
+344.62	and they make something emergent
+347.483	that's greater than the sum of the parts.
+349.46	You have a model that emerges
+349.46	of the entire Earth.
+351.84	Think of this as the long tail
+351.84	to Stephen Lawler's Virtual Earth work.
+355.941	And this is something that grows
+355.941	in complexity as people use it,
+359.165	and whose benefits become greater
+359.165	to the users as they use it.
+363	Their own photos are getting tagged
+363	with meta-data that somebody else entered.
+366.716	If somebody bothered
+366.716	to tag all of these saints
+370.1	and say who they all are,
+370.1	then my photo of Notre Dame Cathedral
+373.077	suddenly gets enriched
+373.077	with all of that data,
+375.199	and I can use it as an entry point
+375.199	to dive into that space,
+378	into that meta-verse,
+378	using everybody else's photos,
+380.705	and do a kind of a cross-modal
+384.03	and cross-user social experience that way.
+387.805	And of course, a by-product of all of that
+387.805	is immensely rich virtual models
+392	of every interesting part of the Earth,
+393.992	collected not just from overhead flights
+393.992	and from satellite images
+398.503	and so on, but from the collective memory.
+400.579	Thank you so much.
+401.697	(Applause)
+411.967	(Applause ends)
+412.992	Chris Anderson:
+412.992	Do I understand this right?
+415.342	What your software is going to allow,
+417.863	is that at some point,
+417.863	really within the next few years,
+421.363	all the pictures that are shared
+421.363	by anyone across the world
+425.622	are going to link together?
+427.207	BAA: Yes. What this is really
+427.207	doing is discovering,
+429.618	creating hyperlinks,
+429.618	if you will, between images.
+432	It's doing that based on the content
+432	inside the images.
+434.608	And that gets really exciting
+434.608	when you think about the richness
+437.654	of the semantic information
+437.654	a lot of images have.
+439.982	Like when you do a web search for images,
+441.966	you type in phrases,
+443.235	and the text on the web page is carrying
+443.235	a lot of information
+446.159	about what that picture is of.
+447.685	What if that picture links
+447.685	to all of your pictures?
+450.1	The amount of semantic
+450.1	interconnection and richness
+452.537	that comes out of that is really huge.
+454.415	It's a classic network effect.
+455.888	CA: Truly incredible. Congratulations.

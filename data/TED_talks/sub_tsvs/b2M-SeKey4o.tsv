@@ -1,0 +1,369 @@
+startsecond	text
+0	Translator: Timothy Covell
+0	Reviewer: Morton Bast
+12.495	In two weeks time, that's the ninth anniversary
+15.27	"of the day I first stepped out onto that hallowed ""Jeopardy"" set."
+19.37	I mean, nine years is a long time.
+21.22	"And given ""Jeopardy's"" average demographics,"
+23.138	I think what that means
+24.43	is most of the people who saw me on that show are now dead.
+27.621	(Laughter)
+29.804	But not all, a few are still alive.
+31.243	Occasionally I still get recognized at the mall or whatever.
+33.756	And when I do, it's as a bit of a know-it-all.
+36.458	I think that ship has sailed, it's too late for me.
+38.912	For better or for worse, that's what I'm going to be known as,
+41.103	as the guy who knew a lot of weird stuff.
+44.337	And I can't complain about this.
+46.625	I feel like that was always sort of my destiny,
+49.038	although I had for many years been pretty deeply in the trivia closet.
+52.505	If nothing else, you realize very quickly as a teenager,
+55.271	it is not a hit with girls to know Captain Kirk's middle name.
+58.459	(Laughter)
+59.624	And as a result, I was sort of the deeply closeted kind of know-it-all for many years.
+63.855	But if you go further back, if you look at it, it's all there.
+67.079	I was the kind of kid who was always bugging Mom and Dad
+70.208	with whatever great fact I had just read about --
+73.14	Haley's comet or giant squids
+74.841	or the size of the world's biggest pumpkin pie or whatever it was.
+78.77	I now have a 10-year-old of my own who's exactly the same.
+81.987	And I know how deeply annoying it is, so karma does work.
+86.088	(Laughter)
+87.588	And I loved game shows, fascinated with game shows.
+90.421	I remember crying on my first day of kindergarten back in 1979
+93.827	because it had just hit me, as badly as I wanted to go to school,
+96.352	"that I was also going to miss ""Hollywood Squares"" and ""Family Feud."""
+99.685	I was going to miss my game shows.
+103.912	And later, in the mid-'80s,
+105.602	"when ""Jeopardy"" came back on the air,"
+107.213	I remember running home from school every day to watch the show.
+111.286	It was my favorite show, even before it paid for my house.
+116.788	And we lived overseas, we lived in South Korea where my dad was working,
+119.202	where there was only one English language TV channel.
+121.619	There was Armed Forces TV,
+122.869	and if you didn't speak Korean, that's what you were watching.
+125.035	"So me and all my friends would run home every day and watch ""Jeopardy."""
+128.351	I was always that kind of obsessed trivia kid.
+131.352	I remember being able to play Trivial Pursuit against my parents back in the '80s
+136.535	and holding my own, back when that was a fad.
+139.369	There's a weird sense of mastery you get
+141.417	when you know some bit of boomer trivia that Mom and Dad don't know.
+144.662	You know some Beatles factoid that Dad didn't know.
+148.218	And you think, ah hah, knowledge really is power --
+151.202	the right fact deployed at exactly the right place.
+158.386	I never had a guidance counselor
+160.202	who thought this was a legitimate career path,
+162.586	that thought you could major in trivia
+165.035	or be a professional ex-game show contestant.
+168.452	And so I sold out way too young.
+170.852	I didn't try to figure out what one does with that.
+172.286	I studied computers because I heard that was the thing,
+174.751	and I became a computer programmer --
+176.612	not an especially good one,
+178.411	"not an especially happy one at the time when I was first on ""Jeopardy"" in 2004."
+183.42	But that's what I was doing.
+184.745	And it made it doubly ironic -- my computer background --
+187.585	a few years later, I think 2009 or so,
+191.801	"when I got another phone call from ""Jeopardy"" saying,"
+194.339	"""It's early days yet, but IBM tells us"
+196.662	they want to build a supercomputer to beat you at 'Jeopardy.'
+201.746	"Are you up for this?"""
+203.244	This was the first I'd heard of it.
+204.834	And of course I said yes, for several reasons.
+207.502	"One, because playing ""Jeopardy"" is a great time."
+209.754	It's fun. It's the most fun you can have with your pants on.
+213.426	(Laughter)
+215.43	And I would do it for nothing.
+216.835	I don't think they know that, luckily,
+218.568	but I would go back and play for Arby's coupons.
+221.786	"I just love ""Jeopardy,"" and I always have."
+223.918	And second of all, because I'm a nerdy guy and this seemed like the future.
+228.152	People playing computers on game shows
+230.018	was the kind of thing I always imagined would happen in the future,
+233.07	and now I could be on the stage with it.
+234.618	I was not going to say no.
+235.702	The third reason I said yes
+236.835	is because I was pretty confident that I was going to win.
+239.435	I had taken some artificial intelligence classes.
+241.571	"I knew there were no computers that could do what you need to do to win on ""Jeopardy."""
+245.901	People don't realize how tough it is to write that kind of program
+249.101	"that can read a ""Jeopardy"" clue in a natural language like English"
+252.661	and understand all the double meanings, the puns, the red herrings,
+256.286	unpack the meaning of the clue.
+258.853	The kind of thing that a three- or four-year-old human, little kid could do,
+263.494	very hard for a computer.
+265.719	And I thought, well this is going to be child's play.
+268.828	Yes, I will come destroy the computer and defend my species.
+273.752	(Laughter)
+275.603	But as the years went on,
+277.203	as IBM started throwing money and manpower and processor speed at this,
+280.994	I started to get occasional updates from them,
+283.085	and I started to get a little more worried.
+284.87	I remember a journal article about this new question answering software that had a graph.
+290.953	"It was a scatter chart showing performance on ""Jeopardy,"""
+294.87	"tens of thousands of dots representing ""Jeopardy"" champions up at the top"
+298.521	with their performance plotted on number of --
+300.803	I was going to say questions answered, but answers questioned, I guess,
+304.869	clues responded to --
+306.828	versus the accuracy of those answers.
+309.219	So there's a certain performance level that the computer would need to get to.
+312.578	And at first, it was very low.
+314.369	There was no software that could compete at this kind of arena.
+317.736	But then you see the line start to go up.
+319.92	And it's getting very close to what they call the winner's cloud.
+322.403	And I noticed in the upper right of the scatter chart
+324.077	some darker dots, some black dots, that were a different color.
+330.202	And thought, what are these?
+331.77	"""The black dots in the upper right represent 74-time 'Jeopardy' champion Ken Jennings."""
+335.662	And I saw this line coming for me.
+337.854	And I realized, this is it.
+338.954	This is what it looks like when the future comes for you.
+340.994	(Laughter)
+342.937	It's not the Terminator's gun sight;
+345.119	it's a little line coming closer and closer to the thing you can do,
+349.286	the only thing that makes you special, the thing you're best at.
+352.421	And when the game eventually happened about a year later,
+357.173	"it was very different than the ""Jeopardy"" games I'd been used to."
+360.036	"We were not playing in L.A. on the regular ""Jeopardy"" set."
+362.537	Watson does not travel.
+364.803	Watson's actually huge.
+365.903	It's thousands of processors, a terabyte of memory,
+370.436	trillions of bytes of memory.
+371.854	We got to walk through his climate-controlled server room.
+374.287	"The only other ""Jeopardy"" contestant to this day I've ever been inside."
+377.912	And so Watson does not travel.
+381.236	You must come to it; you must make the pilgrimage.
+385.27	So me and the other human player
+387.327	wound up at this secret IBM research lab
+390.535	in the middle of these snowy woods in Westchester County
+393.083	to play the computer.
+394.665	And we realized right away
+396.715	that the computer had a big home court advantage.
+399.614	There was a big Watson logo in the middle of the stage.
+401.965	Like you're going to play the Chicago Bulls,
+404.632	and there's the thing in the middle of their court.
+406.932	And the crowd was full of IBM V.P.s and programmers
+410.168	cheering on their little darling,
+412.065	having poured millions of dollars into this
+414.431	hoping against hope that the humans screw up,
+417.369	"and holding up ""Go Watson"" signs"
+419.166	and just applauding like pageant moms every time their little darling got one right.
+423.814	"I think guys had ""W-A-T-S-O-N"" written on their bellies in grease paint."
+429.681	"If you can imagine computer programmers with the letters ""W-A-T-S-O-N"" written on their gut,"
+435.085	it's an unpleasant sight.
+436.752	But they were right. They were exactly right.
+439.799	I don't want to spoil it, if you still have this sitting on your DVR,
+442.215	but Watson won handily.
+445.382	And I remember standing there behind the podium
+448.249	as I could hear that little insectoid thumb clicking.
+451.014	It had a robot thumb that was clicking on the buzzer.
+454.383	And you could hear that little tick, tick, tick, tick.
+458.498	And I remember thinking, this is it.
+461.251	I felt obsolete.
+462.848	I felt like a Detroit factory worker of the '80s
+465.899	seeing a robot that could now do his job on the assembly line.
+468.75	I felt like quiz show contestant was now the first job that had become obsolete
+473.841	under this new regime of thinking computers.
+477.62	And it hasn't been the last.
+479.577	If you watch the news, you'll see occasionally --
+482.219	and I see this all the time --
+483.911	that pharmacists now, there's a machine that can fill prescriptions automatically
+488.669	without actually needing a human pharmacist.
+491.078	And a lot of law firms are getting rid of paralegals
+493.269	because there's software that can sum up case laws and legal briefs and decisions.
+497.661	You don't need human assistants for that anymore.
+500.169	I read the other day about a program where you feed it a box score
+503.302	from a baseball or football game
+505.086	and it spits out a news article as if a human had watched the game
+507.662	and was commenting on it.
+509.087	And obviously these new technologies can't do as clever or creative a job
+513.086	as the humans they're replacing,
+514.521	but they're faster, and crucially, they're much, much cheaper.
+518.338	So it makes me wonder what the economic effects of this might be.
+523.355	I've read economists saying that, as a result of these new technologies,
+526.701	we'll enter a new golden age of leisure
+528.826	when we'll all have time for the things we really love
+531.119	because all these onerous tasks will be taken over by Watson and his digital brethren.
+538.091	I've heard other people say quite the opposite,
+539.805	that this is yet another tier of the middle class
+542.021	that's having the thing they can do taken away from them by a new technology
+547.055	and that this is actually something ominous,
+548.619	something that we should worry about.
+550.124	I'm not an economist myself.
+551.973	All I know is how it felt to be the guy put out of work.
+555.245	And it was friggin' demoralizing. It was terrible.
+558.305	Here's the one thing that I was ever good at,
+560.536	and all it took was IBM pouring tens of millions of dollars and its smartest people
+564.689	and thousands of processors working in parallel
+567.222	and they could do the same thing.
+569.306	They could do it a little bit faster and a little better on national TV,
+572.537	"and ""I'm sorry, Ken. We don't need you anymore."""
+575.272	And it made me think, what does this mean,
+579.005	if we're going to be able to start outsourcing,
+580.744	not just lower unimportant brain functions.
+584.369	I'm sure many of you remember a distant time
+586.844	when we had to know phone numbers, when we knew our friends' phone numbers.
+589.671	And suddenly there was a machine that did that,
+591.662	and now we don't need to remember that anymore.
+594.055	I have read that there's now actually evidence
+595.938	that the hippocampus, the part of our brain that handles spacial relationships,
+600.382	physically shrinks and atrophies
+602.036	in people who use tools like GPS,
+604.638	because we're not exercising our sense of direction anymore.
+607.202	We're just obeying a little talking voice on our dashboard.
+609.536	And as a result, a part of our brain that's supposed to do that kind of stuff
+612.14	gets smaller and dumber.
+613.953	And it made me think, what happens when computers are now better
+617.744	at knowing and remembering stuff than we are?
+621.244	Is all of our brain going to start to shrink and atrophy like that?
+625.32	Are we as a culture going to start to value knowledge less?
+629.087	As somebody who has always believed in the importance of the stuff that we know,
+632.959	this was a terrifying idea to me.
+640.183	The more I thought about it, I realized, no, it's still important.
+645.16	The things we know are still important.
+647.369	I came to believe there were two advantages
+650.371	that those of us who have these things in our head have
+654.042	"over somebody who says, ""Oh, yeah. I can Google that. Hold on a second."""
+658.868	There's an advantage of volume, and there's an advantage of time.
+661.536	The advantage of volume, first,
+663.092	just has to do with the complexity of the world nowadays.
+665.724	There's so much information out there.
+667.141	Being a Renaissance man or woman,
+668.425	that's something that was only possible in the Renaissance.
+670.591	Now it's really not possible
+671.857	to be reasonably educated on every field of human endeavor.
+674.941	There's just too much.
+676.545	They say that the scope of human information
+679.042	is now doubling every 18 months or so,
+681.091	the sum total of human information.
+683.627	That means between now and late 2014,
+687.209	we will generate as much information, in terms of gigabytes,
+690.676	as all of humanity has in all the previous millenia put together.
+694.756	It's doubling every 18 months now.
+696.827	This is terrifying because a lot of the big decisions we make
+700.186	require the mastery of lots of different kinds of facts.
+703.462	A decision like where do I go to school? What should I major in?
+708.494	Who do I vote for?
+709.928	Do I take this job or that one?
+711.694	These are the decisions that require correct judgments
+715.328	about many different kinds of facts.
+717.448	If we have those facts at our mental fingertips,
+719.185	we're going to be able to make informed decisions.
+721.885	If, on the other hand, we need to look them all up,
+724.552	we may be in trouble.
+726.412	According to a National Geographic survey I just saw,
+728.35	somewhere along the lines of 80 percent
+730.67	of the people who vote in a U.S. presidential election about issues like foreign policy
+734.685	cannot find Iraq or Afghanistan on a map.
+737.652	If you can't do that first step,
+740.218	are you really going to look up the other thousand facts you're going to need to know
+743.253	to master your knowledge of U.S. foreign policy?
+746.219	Quite probably not.
+747.484	At some point you're just going to be like,
+748.801	"""You know what? There's too much to know. Screw it."""
+750.668	And you'll make a less informed decision.
+752.468	The other issue is the advantage of time that you have
+755.952	if you have all these things at your fingertips.
+757.886	I always think of the story of a little girl named Tilly Smith.
+761.302	She was a 10-year-old girl from Surrey, England
+763.985	on vacation with her parents a few years ago in Phuket, Thailand.
+767.318	She runs up to them on the beach one morning
+768.968	"and says, ""Mom, Dad, we've got to get off the beach."""
+771.553	"And they say, ""What do you mean? We just got here."""
+774.1	"And she said, ""In Mr. Kearney's geography class last month,"
+777.2	he told us that when the tide goes out abruptly out to sea
+780.135	and you see the waves churning way out there,
+781.827	"that's the sign of a tsunami, and you need to clear the beach."""
+786.025	What would you do if your 10-year-old daughter came up to you with this?
+788.22	Her parents thought about it,
+789.564	and they finally, to their credit, decided to believe her.
+791.698	They told the lifeguard, they went back to the hotel,
+793.713	and the lifeguard cleared over 100 people off the beach, luckily,
+797.597	because that was the day of the Boxing Day tsunami,
+800.502	the day after Christmas, 2004,
+802.097	that killed thousands of people in Southeast Asia and around the Indian Ocean.
+806.063	But not on that beach, not on Mai Khao Beach,
+808.537	because this little girl had remembered one fact from her geography teacher a month before.
+813.751	Now when facts come in handy like that --
+815.848	I love that story because it shows you the power of one fact,
+819.463	one remembered fact in exactly the right place at the right time --
+823.735	normally something that's easier to see on game shows than in real life.
+826.48	But in this case it happened in real life.
+828.583	And it happens in real life all the time.
+830.202	It's not always a tsunami, often it's a social situation.
+832.416	It's a meeting or job interview or first date
+837.129	or some relationship that gets lubricated
+838.803	because two people realize they share some common piece of knowledge.
+842.183	"You say where you're from, and I say, ""Oh, yeah."""
+844.734	Or your alma mater or your job,
+846.367	and I know just a little something about it,
+848.284	enough to get the ball rolling.
+849.833	People love that shared connection that gets created
+851.702	when somebody knows something about you.
+853.994	It's like they took the time to get to know you before you even met.
+858.004	That's often the advantage of time.
+859.416	"And it's not effective if you say, ""Well, hold on."
+860.901	You're from Fargo, North Dakota. Let me see what comes up.
+866.465	"Oh, yeah. Roger Maris was from Fargo."""
+868.367	That doesn't work. That's just annoying.
+871.4	(Laughter)
+873.847	The great 18th-century British theologian and thinker, friend of Dr. Johnson,
+879.549	"Samuel Parr once said, ""It's always better to know a thing than not to know it."""
+885.917	And if I have lived my life by any kind of creed, it's probably that.
+890.45	I have always believed that the things we know -- that knowledge is an absolute good,
+895.983	that the things we have learned and carry with us in our heads
+898.783	are what make us who we are,
+900.801	as individuals and as a species.
+903.318	I don't know if I want to live in a world where knowledge is obsolete.
+907.415	I don't want to live in a world where cultural literacy has been replaced
+910.751	by these little bubbles of specialty,
+912.661	so that none of us know about the common associations
+916.167	that used to bind our civilization together.
+918.683	I don't want to be the last trivia know-it-all
+920.617	sitting on a mountain somewhere,
+922.035	"reciting to himself the state capitals and the names of ""Simpsons"" episodes"
+926.4	and the lyrics of Abba songs.
+930.066	I feel like our civilization works when this is a vast cultural heritage that we all share
+934.549	and that we know without having to outsource it to our devices,
+937.735	to our search engines and our smartphones.
+940.34	In the movies, when computers like Watson start to think,
+944.967	things don't always end well.
+947.55	Those movies are never about beautiful utopias.
+951.348	"It's always a terminator or a matrix or an astronaut getting sucked out an airlock in ""2001."""
+957.083	Things always go terribly wrong.
+960.318	And I feel like we're sort of at the point now
+962.25	where we need to make that choice of what kind of future we want to be living in.
+966.333	This is a question of leadership,
+967.85	because it becomes a question of who leads the future.
+971.517	On the one hand, we can choose between a new golden age
+977.7	where information is more universally available
+981.002	than it's ever been in human history,
+982.663	where we all have the answers to our questions at our fingertips.
+985.034	And on the other hand,
+986.577	we have the potential to be living in some gloomy dystopia
+989.35	where the machines have taken over
+991.369	and we've all decided it's not important what we know anymore,
+994.418	that knowledge isn't valuable because it's all out there in the cloud,
+997.033	and why would we ever bother learning anything new.
+1003.144	Those are the two choices we have. I know which future I would rather be living in.
+1006.933	And we can all make that choice.
+1009.166	We make that choice by being curious, inquisitive people who like to learn,
+1012.501	"who don't just say, ""Well, as soon as the bell has rung and the class is over,"
+1015.637	"I don't have to learn anymore,"""
+1016.96	"or ""Thank goodness I have my diploma. I'm done learning for a lifetime."
+1020.037	"I don't have to learn new things anymore."""
+1022.396	No, every day we should be striving to learn something new.
+1025.703	We should have this unquenchable curiosity for the world around us.
+1029.895	"That's where the people you see on ""Jeopardy"" come from."
+1032.62	These know-it-alls, they're not Rainman-style savants
+1035.701	sitting at home memorizing the phone book.
+1037.803	I've met a lot of them.
+1039.119	For the most part, they are just normal folks
+1040.669	who are universally interested in the world around them, curious about everything,
+1044.767	thirsty for this knowledge about whatever subject.
+1048.086	We can live in one of these two worlds.
+1050.619	We can live in a world where our brains, the things that we know,
+1053.92	continue to be the thing that makes us special,
+1055.75	or a world in which we've outsourced all of that to evil supercomputers from the future like Watson.
+1062.12	Ladies and gentlemen, the choice is yours.
+1064.768	Thank you very much.

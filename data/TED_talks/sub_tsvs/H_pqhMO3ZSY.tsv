@@ -1,0 +1,340 @@
+startsecond	text
+12.641	I would like to tell you a story
+14.995	connecting the notorious privacy incident
+18.171	involving Adam and Eve,
+20.94	and the remarkable shift in the boundaries
+24.386	between public and private which has occurred
+27.072	in the past 10 years.
+28.842	You know the incident.
+30.14	Adam and Eve one day in the Garden of Eden
+33.47	realize they are naked.
+35.313	They freak out.
+36.813	And the rest is history.
+39.57	Nowadays, Adam and Eve
+41.758	would probably act differently.
+44.119	[@Adam Last nite was a blast! loved dat apple LOL]
+46.387	[@Eve yep.. babe, know what happened to my pants tho?]
+48.26	We do reveal so much more information
+50.896	about ourselves online than ever before,
+54.23	and so much information about us
+55.934	is being collected by organizations.
+58.158	Now there is much to gain and benefit
+61.44	from this massive analysis of personal information,
+63.886	or big data,
+65.832	but there are also complex tradeoffs that come
+68.47	from giving away our privacy.
+71.568	And my story is about these tradeoffs.
+75.591	We start with an observation which, in my mind,
+78.175	has become clearer and clearer in the past few years,
+81.502	that any personal information
+83.599	can become sensitive information.
+85.884	Back in the year 2000, about 100 billion photos
+90.009	were shot worldwide,
+91.921	but only a minuscule proportion of them
+94.986	were actually uploaded online.
+96.869	In 2010, only on Facebook, in a single month,
+100.23	2.5 billion photos were uploaded,
+103.5	most of them identified.
+105.382	In the same span of time,
+107.262	computers' ability to recognize people in photos
+112.132	improved by three orders of magnitude.
+115.74	What happens when you combine
+117.622	these technologies together:
+119.123	increasing availability of facial data;
+121.781	improving facial recognizing ability by computers;
+125.429	but also cloud computing,
+127.611	which gives anyone in this theater
+129.499	the kind of computational power
+131.059	which a few years ago was only the domain
+132.945	of three-letter agencies;
+134.727	and ubiquitous computing,
+136.105	which allows my phone, which is not a supercomputer,
+138.997	to connect to the Internet
+140.668	and do there hundreds of thousands
+143.002	of face metrics in a few seconds?
+145.641	Well, we conjecture that the result
+148.269	of this combination of technologies
+150.333	will be a radical change in our very notions
+153.221	of privacy and anonymity.
+155.478	To test that, we did an experiment
+157.471	on Carnegie Mellon University campus.
+159.592	We asked students who were walking by
+161.691	to participate in a study,
+163.47	and we took a shot with a webcam,
+166.032	and we asked them to fill out a survey on a laptop.
+168.814	While they were filling out the survey,
+170.793	we uploaded their shot to a cloud-computing cluster,
+173.59	and we started using a facial recognizer
+175.317	to match that shot to a database
+177.722	of some hundreds of thousands of images
+180.115	which we had downloaded from Facebook profiles.
+183.711	By the time the subject reached the last page
+186.97	on the survey, the page had been dynamically updated
+190.317	with the 10 best matching photos
+192.63	which the recognizer had found,
+194.915	and we asked the subjects to indicate
+196.653	whether he or she found themselves in the photo.
+200.773	Do you see the subject?
+204.472	Well, the computer did, and in fact did so
+207.317	for one out of three subjects.
+209.466	So essentially, we can start from an anonymous face,
+212.65	offline or online, and we can use facial recognition
+216.134	to give a name to that anonymous face
+218.494	thanks to social media data.
+220.602	But a few years back, we did something else.
+222.474	We started from social media data,
+224.297	we combined it statistically with data
+227.348	from U.S. government social security,
+229.45	and we ended up predicting social security numbers,
+232.774	which in the United States
+234.286	are extremely sensitive information.
+236.326	Do you see where I'm going with this?
+238.419	So if you combine the two studies together,
+241.341	then the question becomes,
+242.853	can you start from a face and,
+245.573	using facial recognition, find a name
+247.884	and publicly available information
+250.553	about that name and that person,
+252.485	and from that publicly available information
+254.733	infer non-publicly available information,
+256.775	much more sensitive ones
+258.381	which you link back to the face?
+259.873	And the answer is, yes, we can, and we did.
+261.789	Of course, the accuracy keeps getting worse.
+264.357	[27% of subjects' first 5 SSN digits identified (with 4 attempts)]
+265.301	But in fact, we even decided to develop an iPhone app
+269.128	which uses the phone's internal camera
+271.843	to take a shot of a subject
+273.443	and then upload it to a cloud
+274.93	and then do what I just described to you in real time:
+277.592	looking for a match, finding public information,
+279.68	trying to infer sensitive information,
+281.41	and then sending back to the phone
+284.001	so that it is overlaid on the face of the subject,
+287.61	an example of augmented reality,
+289.511	probably a creepy example of augmented reality.
+291.962	In fact, we didn't develop the app to make it available,
+295.301	just as a proof of concept.
+297.223	In fact, take these technologies
+299.536	and push them to their logical extreme.
+301.373	Imagine a future in which strangers around you
+304.092	will look at you through their Google Glasses
+306.403	or, one day, their contact lenses,
+308.71	and use seven or eight data points about you
+312.73	to infer anything else
+315.312	which may be known about you.
+317.915	What will this future without secrets look like?
+322.709	And should we care?
+324.673	We may like to believe
+326.564	that the future with so much wealth of data
+329.604	would be a future with no more biases,
+332.118	but in fact, having so much information
+335.701	doesn't mean that we will make decisions
+337.892	which are more objective.
+339.598	In another experiment, we presented to our subjects
+342.158	information about a potential job candidate.
+344.404	We included in this information some references
+347.582	to some funny, absolutely legal,
+350.228	but perhaps slightly embarrassing information
+352.693	that the subject had posted online.
+354.713	Now interestingly, among our subjects,
+357.079	some had posted comparable information,
+360.162	and some had not.
+362.524	Which group do you think
+364.473	was more likely to judge harshly our subject?
+369.025	Paradoxically, it was the group
+370.982	who had posted similar information,
+372.715	an example of moral dissonance.
+375.657	Now you may be thinking,
+377.407	this does not apply to me,
+379.109	because I have nothing to hide.
+381.271	But in fact, privacy is not about
+383.753	having something negative to hide.
+387.429	Imagine that you are the H.R. director
+389.783	of a certain organization, and you receive résumés,
+392.73	and you decide to find more information about the candidates.
+395.203	Therefore, you Google their names
+397.663	and in a certain universe,
+399.903	you find this information.
+401.911	Or in a parallel universe, you find this information.
+406.348	Do you think that you would be equally likely
+409.065	to call either candidate for an interview?
+411.868	If you think so, then you are not
+414.15	like the U.S. employers who are, in fact,
+416.732	part of our experiment, meaning we did exactly that.
+420.039	We created Facebook profiles, manipulating traits,
+423.221	then we started sending out résumés to companies in the U.S.,
+426.072	and we detected, we monitored,
+427.98	whether they were searching for our candidates,
+430.373	and whether they were acting on the information
+432.205	they found on social media. And they were.
+434.143	Discrimination was happening through social media
+436.244	for equally skilled candidates.
+439.317	Now marketers like us to believe
+443.892	that all information about us will always
+446.161	be used in a manner which is in our favor.
+449.434	But think again. Why should that be always the case?
+453.149	In a movie which came out a few years ago,
+455.813	"""Minority Report,"" a famous scene"
+458.366	had Tom Cruise walk in a mall
+460.942	and holographic personalized advertising
+464.718	would appear around him.
+466.553	Now, that movie is set in 2054,
+469.78	about 40 years from now,
+471.422	and as exciting as that technology looks,
+474.33	it already vastly underestimates
+476.976	the amount of information that organizations
+479.116	can gather about you, and how they can use it
+481.599	to influence you in a way that you will not even detect.
+484.997	So as an example, this is another experiment
+487.1	actually we are running, not yet completed.
+489.373	Imagine that an organization has access
+491.692	to your list of Facebook friends,
+493.748	and through some kind of algorithm
+495.52	they can detect the two friends that you like the most.
+499.254	And then they create, in real time,
+501.534	a facial composite of these two friends.
+504.376	Now studies prior to ours have shown that people
+507.445	don't recognize any longer even themselves
+510.33	in facial composites, but they react
+512.792	to those composites in a positive manner.
+514.909	So next time you are looking for a certain product,
+518.324	and there is an ad suggesting you to buy it,
+520.883	it will not be just a standard spokesperson.
+523.79	It will be one of your friends,
+526.103	and you will not even know that this is happening.
+529.406	Now the problem is that
+531.819	the current policy mechanisms we have
+534.338	to protect ourselves from the abuses of personal information
+537.776	are like bringing a knife to a gunfight.
+540.76	One of these mechanisms is transparency,
+543.673	telling people what you are going to do with their data.
+546.873	And in principle, that's a very good thing.
+548.979	It's necessary, but it is not sufficient.
+552.646	Transparency can be misdirected.
+556.344	You can tell people what you are going to do,
+558.448	and then you still nudge them to disclose
+560.68	arbitrary amounts of personal information.
+563.303	So in yet another experiment, this one with students,
+566.189	we asked them to provide information
+569.247	about their campus behavior,
+571.06	including pretty sensitive questions, such as this one.
+574	[Have you ever cheated in an exam?]
+574.621	Now to one group of subjects, we told them,
+576.921	"""Only other students will see your answers."""
+579.762	To another group of subjects, we told them,
+581.341	"""Students and faculty will see your answers."""
+584.902	Transparency. Notification. And sure enough, this worked,
+587.493	in the sense that the first group of subjects
+588.9	were much more likely to disclose than the second.
+591.468	It makes sense, right?
+592.988	But then we added the misdirection.
+594.478	We repeated the experiment with the same two groups,
+597.238	this time adding a delay
+599.665	between the time we told subjects
+602.6	how we would use their data
+604.68	and the time we actually started answering the questions.
+609.068	How long a delay do you think we had to add
+611.629	in order to nullify the inhibitory effect
+616.242	of knowing that faculty would see your answers?
+619.653	Ten minutes?
+621.433	Five minutes?
+623.224	One minute?
+625	How about 15 seconds?
+627.049	Fifteen seconds were sufficient to have the two groups
+629.717	disclose the same amount of information,
+631.285	as if the second group now no longer cares
+634.031	for faculty reading their answers.
+636.687	Now I have to admit that this talk so far
+640.023	may sound exceedingly gloomy,
+642.503	but that is not my point.
+644.224	In fact, I want to share with you the fact that
+646.923	there are alternatives.
+648.695	The way we are doing things now is not the only way
+651.194	they can done, and certainly not the best way
+654.231	they can be done.
+656.258	"When someone tells you, ""People don't care about privacy,"""
+660.429	consider whether the game has been designed
+663.071	and rigged so that they cannot care about privacy,
+665.795	and coming to the realization that these manipulations occur
+669.057	is already halfway through the process
+670.664	of being able to protect yourself.
+672.922	When someone tells you that privacy is incompatible
+676.632	with the benefits of big data,
+678.481	consider that in the last 20 years,
+680.954	researchers have created technologies
+682.871	to allow virtually any electronic transactions
+686.189	to take place in a more privacy-preserving manner.
+689.938	We can browse the Internet anonymously.
+692.493	We can send emails that can only be read
+695.171	by the intended recipient, not even the NSA.
+698.88	We can have even privacy-preserving data mining.
+701.877	In other words, we can have the benefits of big data
+705.771	while protecting privacy.
+707.903	Of course, these technologies imply a shifting
+711.694	of cost and revenues
+713.24	between data holders and data subjects,
+715.347	which is why, perhaps, you don't hear more about them.
+718.8	Which brings me back to the Garden of Eden.
+722.506	There is a second privacy interpretation
+725.286	of the story of the Garden of Eden
+727.095	which doesn't have to do with the issue
+729.191	of Adam and Eve feeling naked
+731.416	and feeling ashamed.
+733.797	You can find echoes of this interpretation
+736.578	"in John Milton's ""Paradise Lost."""
+739.36	In the garden, Adam and Eve are materially content.
+743.557	They're happy. They are satisfied.
+745.661	However, they also lack knowledge
+747.954	and self-awareness.
+749.594	The moment they eat the aptly named
+752.913	fruit of knowledge,
+754.206	that's when they discover themselves.
+756.811	They become aware. They achieve autonomy.
+760.842	The price to pay, however, is leaving the garden.
+763.968	So privacy, in a way, is both the means
+767.849	and the price to pay for freedom.
+770.811	Again, marketers tell us
+773.581	that big data and social media
+776.6	are not just a paradise of profit for them,
+779.579	but a Garden of Eden for the rest of us.
+782.036	We get free content.
+783.274	We get to play Angry Birds. We get targeted apps.
+786.397	But in fact, in a few years, organizations
+789.294	will know so much about us,
+790.903	they will be able to infer our desires
+793.613	before we even form them, and perhaps
+795.817	buy products on our behalf
+798.264	before we even know we need them.
+800.538	Now there was one English author
+803.775	who anticipated this kind of future
+806.82	where we would trade away
+808.225	our autonomy and freedom for comfort.
+811.773	Even more so than George Orwell,
+813.934	the author is, of course, Aldous Huxley.
+816.695	"In ""Brave New World,"" he imagines a society"
+819.549	where technologies that we created
+821.72	originally for freedom
+823.579	end up coercing us.
+826.146	However, in the book, he also offers us a way out
+830.937	of that society, similar to the path
+834.375	that Adam and Eve had to follow to leave the garden.
+838.33	In the words of the Savage,
+840.477	regaining autonomy and freedom is possible,
+843.546	although the price to pay is steep.
+846.225	So I do believe that one of the defining fights
+851.94	of our times will be the fight
+854.503	for the control over personal information,
+856.89	the fight over whether big data will become a force
+860.397	for freedom,
+861.686	rather than a force which will hiddenly manipulate us.
+866.432	Right now, many of us
+869.025	do not even know that the fight is going on,
+871.778	but it is, whether you like it or not.
+874.45	And at the risk of playing the serpent,
+877.254	I will tell you that the tools for the fight
+880.151	are here, the awareness of what is going on,
+883.16	and in your hands,
+884.515	just a few clicks away.
+888.255	Thank you.
+889.737	(Applause)

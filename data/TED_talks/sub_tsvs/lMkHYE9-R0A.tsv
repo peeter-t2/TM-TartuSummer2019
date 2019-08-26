@@ -1,0 +1,117 @@
+startsecond	text
+25	So, where are the robots?
+27	We've been told for 40 years already that they're coming soon.
+30	Very soon they'll be doing everything for us.
+33	They'll be cooking, cleaning, buying things, shopping, building. But they aren't here.
+38	Meanwhile, we have illegal immigrants doing all the work,
+42	but we don't have any robots.
+44	So what can we do about that? What can we say?
+48	So I want to give a little bit of a different perspective
+52	of how we can perhaps look at these things in a little bit of a different way.
+58	And this is an x-ray picture
+60	of a real beetle, and a Swiss watch, back from '88. You look at that --
+65	what was true then is certainly true today.
+67	We can still make the pieces. We can make the right pieces.
+70	We can make the circuitry of the right computational power,
+73	but we can't actually put them together to make something
+76	that will actually work and be as adaptive as these systems.
+81	So let's try to look at it from a different perspective.
+83	Let's summon the best designer, the mother of all designers.
+87	Let's see what evolution can do for us.
+90	So we threw in -- we created a primordial soup
+94	with lots of pieces of robots -- with bars, with motors, with neurons.
+98	Put them all together, and put all this under kind of natural selection,
+102	under mutation, and rewarded things for how well they can move forward.
+106	A very simple task, and it's interesting to see what kind of things came out of that.
+112	So if you look, you can see a lot of different machines
+115	come out of this. They all move around.
+117	They all crawl in different ways, and you can see on the right,
+121	that we actually made a couple of these things,
+123	and they work in reality. These are not very fantastic robots,
+126	but they evolved to do exactly what we reward them for:
+130	for moving forward. So that was all done in simulation,
+133	but we can also do that on a real machine.
+135	Here's a physical robot that we actually
+140	have a population of brains,
+143	competing, or evolving on the machine.
+145	It's like a rodeo show. They all get a ride on the machine,
+148	and they get rewarded for how fast or how far
+151	they can make the machine move forward.
+153	And you can see these robots are not ready
+155	to take over the world yet, but
+158	they gradually learn how to move forward,
+160	and they do this autonomously.
+163	So in these two examples, we had basically
+167	machines that learned how to walk in simulation,
+170	and also machines that learned how to walk in reality.
+172	But I want to show you a different approach,
+174	and this is this robot over here, which has four legs.
+180	It has eight motors, four on the knees and four on the hip.
+182	It has also two tilt sensors that tell the machine
+185	which way it's tilting.
+188	But this machine doesn't know what it looks like.
+190	You look at it and you see it has four legs,
+192	the machine doesn't know if it's a snake, if it's a tree,
+194	it doesn't have any idea what it looks like,
+197	but it's going to try to find that out.
+199	Initially, it does some random motion,
+201	and then it tries to figure out what it might look like.
+204	And you're seeing a lot of things passing through its minds,
+206	a lot of self-models that try to explain the relationship
+210	between actuation and sensing. It then tries to do
+213	a second action that creates the most disagreement
+217	among predictions of these alternative models,
+219	like a scientist in a lab. Then it does that
+221	and tries to explain that, and prune out its self-models.
+225	This is the last cycle, and you can see it's pretty much
+228	figured out what its self looks like. And once it has a self-model,
+232	it can use that to derive a pattern of locomotion.
+236	So what you're seeing here are a couple of machines --
+238	a pattern of locomotion.
+240	We were hoping that it wass going to have a kind of evil, spidery walk,
+244	but instead it created this pretty lame way of moving forward.
+248	But when you look at that, you have to remember
+251	that this machine did not do any physical trials on how to move forward,
+257	nor did it have a model of itself.
+259	It kind of figured out what it looks like, and how to move forward,
+262	and then actually tried that out.
+266	(Applause)
+271	So, we'll move forward to a different idea.
+275	So that was what happened when we had a couple of --
+280	that's what happened when you had a couple of -- OK, OK, OK --
+284	(Laughter)
+286	-- they don't like each other. So
+288	there's a different robot.
+291	That's what happened when the robots actually
+293	are rewarded for doing something.
+295	What happens if you don't reward them for anything, you just throw them in?
+298	So we have these cubes, like the diagram showed here.
+301	The cube can swivel, or flip on its side,
+304	and we just throw 1,000 of these cubes into a soup --
+308	this is in simulation --and don't reward them for anything,
+310	we just let them flip. We pump energy into this
+313	and see what happens in a couple of mutations.
+316	So, initially nothing happens, they're just flipping around there.
+319	But after a very short while, you can see these blue things
+323	on the right there begin to take over.
+325	They begin to self-replicate. So in absence of any reward,
+329	the intrinsic reward is self-replication.
+332	And we've actually built a couple of these,
+333	and this is part of a larger robot made out of these cubes.
+337	It's an accelerated view, where you can see the robot actually
+340	carrying out some of its replication process.
+342	So you're feeding it with more material -- cubes in this case --
+346	and more energy, and it can make another robot.
+349	So of course, this is a very crude machine,
+352	but we're working on a micro-scale version of these,
+354	and hopefully the cubes will be like a powder that you pour in.
+357	OK, so what can we learn? These robots are of course
+362	not very useful in themselves, but they might teach us something
+365	about how we can build better robots,
+368	and perhaps how humans, animals, create self-models and learn.
+373	And one of the things that I think is important
+375	is that we have to get away from this idea
+377	of designing the machines manually,
+379	but actually let them evolve and learn, like children,
+382	and perhaps that's the way we'll get there. Thank you.
+384	(Applause)

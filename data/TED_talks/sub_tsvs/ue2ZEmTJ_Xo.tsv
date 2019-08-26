@@ -1,0 +1,288 @@
+startsecond	text
+12.899	Intelligence -- what is it?
+16.566	If we take a look back at the history
+18.857	of how intelligence has been viewed,
+21.481	one seminal example has been
+25.099	Edsger Dijkstra's famous quote that
+28.576	"""the question of whether a machine can think"
+31.687	is about as interesting
+32.997	as the question of whether a submarine
+35.968	"can swim."""
+37.758	Now, Edsger Dijkstra, when he wrote this,
+41.602	intended it as a criticism
+43.656	of the early pioneers of computer science,
+46.656	like Alan Turing.
+48.403	However, if you take a look back
+50.902	and think about what have been
+52.867	the most empowering innovations
+54.863	that enabled us to build
+56.742	artificial machines that swim
+58.976	and artificial machines that [fly],
+61.549	you find that it was only through understanding
+65.096	the underlying physical mechanisms
+67.704	of swimming and flight
+70.483	that we were able to build these machines.
+73.655	And so, several years ago,
+75.911	I undertook a program to try to understand
+79.16	the fundamental physical mechanisms
+81.794	underlying intelligence.
+84.562	Let's take a step back.
+86.422	Let's first begin with a thought experiment.
+89.571	Pretend that you're an alien race
+92.425	that doesn't know anything about Earth biology
+95.466	or Earth neuroscience or Earth intelligence,
+98.582	but you have amazing telescopes
+100.774	and you're able to watch the Earth,
+103.136	and you have amazingly long lives,
+105.468	so you're able to watch the Earth
+106.967	over millions, even billions of years.
+110.409	And you observe a really strange effect.
+113.424	You observe that, over the course of the millennia,
+117.736	Earth is continually bombarded with asteroids
+122.021	up until a point,
+124.108	and that at some point,
+125.639	corresponding roughly to our year, 2000 AD,
+129.831	asteroids that are on
+131.547	a collision course with the Earth
+133.478	that otherwise would have collided
+135.453	mysteriously get deflected
+137.868	or they detonate before they can hit the Earth.
+140.94	Now of course, as earthlings,
+143.023	we know the reason would be
+144.567	that we're trying to save ourselves.
+146.323	We're trying to prevent an impact.
+149.403	But if you're an alien race
+151.114	who doesn't know any of this,
+152.26	doesn't have any concept of Earth intelligence,
+154.774	you'd be forced to put together
+156.502	a physical theory that explains how,
+159.42	up until a certain point in time,
+161.958	asteroids that would demolish the surface of a planet
+166.407	mysteriously stop doing that.
+169.638	And so I claim that this is the same question
+173.842	as understanding the physical nature of intelligence.
+177.84	So in this program that I
+177.84	undertook several years ago,
+181.722	I looked at a variety of different threads
+184.487	across science, across a variety of disciplines,
+187.649	that were pointing, I think,
+189.541	towards a single, underlying mechanism
+192.089	for intelligence.
+193.67	In cosmology, for example,
+196.216	there have been a variety of
+196.216	different threads of evidence
+198.963	that our universe appears to be finely tuned
+202.37	for the development of intelligence,
+204.523	and, in particular, for the development
+206.912	of universal states
+208.798	that maximize the diversity of possible futures.
+212.896	In game play, for example, in Go --
+215.24	everyone remembers in 1997
+218.265	when IBM's Deep Blue beat 
+218.265	Garry Kasparov at chess --
+222.216	fewer people are aware
+223.739	that in the past 10 years or so,
+225.757	the game of Go,
+226.955	arguably a much more challenging game
+228.911	because it has a much higher branching factor,
+231.336	has also started to succumb
+233.038	to computer game players
+234.903	for the same reason:
+236.476	the best techniques right now
+236.476	for computers playing Go
+239.276	are techniques that try to maximize future options
+242.972	during game play.
+244.986	Finally, in robotic motion planning,
+248.567	there have been a variety of recent techniques
+250.749	that have tried to take advantage
+252.651	of abilities of robots to maximize
+255.797	future freedom of action
+257.303	in order to accomplish complex tasks.
+260.4	And so, taking all of these different threads
+262.755	and putting them together,
+264.377	I asked, starting several years ago,
+267.017	is there an underlying mechanism for intelligence
+269.867	that we can factor out
+271.54	of all of these different threads?
+273.314	Is there a single equation for intelligence?
+277.907	And the answer, I believe, is yes.
+277.907	"[""F = T ∇ Sτ""]"
+281.278	What you're seeing is probably
+283.191	the closest equivalent to an E = mc²
+286.485	for intelligence that I've seen.
+289.315	So what you're seeing here
+291.017	is a statement of correspondence
+293.686	that intelligence is a force, F,
+298.121	that acts so as to maximize future freedom of action.
+302.771	It acts to maximize future freedom of action,
+305.146	or keep options open,
+306.774	with some strength T,
+308.999	with the diversity of possible accessible futures, S,
+313.776	up to some future time horizon, tau.
+316.326	In short, intelligence doesn't like to get trapped.
+319.535	Intelligence tries to maximize
+319.535	future freedom of action
+322.59	and keep options open.
+325.263	And so, given this one equation,
+327.696	it's natural to ask, so what can you do with this?
+330.228	How predictive is it?
+331.579	Does it predict human-level intelligence?
+333.714	Does it predict artificial intelligence?
+336.532	So I'm going to show you now a video
+338.574	that will, I think, demonstrate
+341.994	some of the amazing applications
+344.282	of just this single equation.
+346.601	(Video) Narrator: Recent research in cosmology
+348.58	has suggested that universes that produce
+350.627	"more disorder, or ""entropy,"" over their lifetimes"
+354.108	should tend to have more favorable conditions
+356.586	for the existence of intelligent
+356.586	beings such as ourselves.
+359.602	But what if that tentative cosmological connection
+362.176	between entropy and intelligence
+364.019	hints at a deeper relationship?
+365.79	What if intelligent behavior doesn't just correlate
+368.354	with the production of long-term entropy,
+370.198	but actually emerges directly from it?
+372.516	To find out, we developed a software engine
+374.922	called Entropica, designed to maximize
+377.425	the production of long-term entropy
+379.193	of any system that it finds itself in.
+381.769	Amazingly, Entropica was able to pass
+383.924	multiple animal intelligence
+383.924	tests, play human games,
+387.38	and even earn money trading stocks,
+389.526	all without being instructed to do so.
+391.637	Here are some examples of Entropica in action.
+394.155	Just like a human standing
+394.155	upright without falling over,
+397.36	here we see Entropica
+398.59	automatically balancing a pole using a cart.
+401.475	This behavior is remarkable in part
+403.487	because we never gave Entropica a goal.
+405.818	It simply decided on its own to balance the pole.
+408.975	This balancing ability will have appliactions
+411.107	for humanoid robotics
+412.504	and human assistive technologies.
+415.019	Just as some animals can use objects
+417.02	in their environments as tools
+418.462	to reach into narrow spaces,
+420.449	here we see that Entropica,
+422.331	again on its own initiative,
+424.169	was able to move a large
+424.169	disk representing an animal
+427.079	around so as to cause a small disk,
+429.424	representing a tool, to reach into a confined space
+432.195	holding a third disk
+433.732	and release the third disk
+433.732	from its initially fixed position.
+436.704	This tool use ability will have applications
+438.893	for smart manufacturing and agriculture.
+441.252	In addition, just as some other animals
+443.196	are able to cooperate by pulling
+443.196	opposite ends of a rope
+445.892	at the same time to release food,
+447.945	here we see that Entropica is able to accomplish
+450.24	a model version of that task.
+452.228	This cooperative ability has interesting implications
+454.75	for economic planning and a variety of other fields.
+458.185	Entropica is broadly applicable
+460.256	to a variety of domains.
+462.199	For example, here we see it successfully
+464.641	playing a game of pong against itself,
+467.2	illustrating its potential for gaming.
+469.543	Here we see Entropica orchestrating
+471.462	new connections on a social network
+473.301	where friends are constantly falling out of touch
+476.061	and successfully keeping
+476.061	the network well connected.
+478.917	This same network orchestration ability
+481.215	also has applications in health care,
+483.543	energy, and intelligence.
+486.775	Here we see Entropica directing the paths
+488.86	of a fleet of ships,
+490.346	successfully discovering and
+490.346	utilizing the Panama Canal
+493.521	to globally extend its reach from the Atlantic
+495.979	to the Pacific.
+497.508	By the same token, Entropica
+499.235	is broadly applicable to problems
+500.855	in autonomous defense, logistics and transportation.
+506.173	Finally, here we see Entropica
+508.203	spontaneously discovering and executing
+510.926	a buy-low, sell-high strategy
+512.993	on a simulated range traded stock,
+515.171	successfully growing assets under management
+517.502	exponentially.
+518.926	This risk management ability
+520.234	will have broad applications in finance
+522.721	and insurance.
+526.049	Alex Wissner-Gross: So what you've just seen
+528.14	is that a variety of signature human intelligent
+532.532	cognitive behaviors
+534.289	such as tool use and walking upright
+537.12	and social cooperation
+539.149	all follow from a single equation,
+542.121	which drives a system
+544.053	to maximize its future freedom of action.
+547.964	Now, there's a profound irony here.
+550.971	Going back to the beginning
+552.995	of the usage of the term robot,
+556.268	"the play ""RUR,"""
+559.171	there was always a concept
+561.406	that if we developed machine intelligence,
+564.632	there would be a cybernetic revolt.
+567.659	The machines would rise up against us.
+571.21	One major consequence of this work
+573.529	is that maybe all of these decades,
+576.298	we've had the whole concept of cybernetic revolt
+579.274	in reverse.
+581.285	It's not that machines first become intelligent
+584.564	and then megalomaniacal
+586.579	and try to take over the world.
+588.803	It's quite the opposite,
+590.237	that the urge to take control
+593.143	of all possible futures
+595.404	is a more fundamental principle
+597.522	than that of intelligence,
+598.885	that general intelligence may in fact emerge
+602.585	directly from this sort of control-grabbing,
+606.144	rather than vice versa.
+610.329	Another important consequence is goal seeking.
+614.098	I'm often asked, how does the ability to seek goals
+618.458	follow from this sort of framework?
+620.078	And the answer is, the ability to seek goals
+623.106	will follow directly from this
+624.988	in the following sense:
+626.822	just like you would travel through a tunnel,
+629.687	a bottleneck in your future path space,
+632.192	in order to achieve many other
+634.063	diverse objectives later on,
+636.084	or just like you would invest
+638.456	in a financial security,
+640.243	reducing your short-term liquidity
+642.48	in order to increase your wealth over the long term,
+644.88	goal seeking emerges directly
+647.217	from a long-term drive
+648.946	to increase future freedom of action.
+652.983	Finally, Richard Feynman, famous physicist,
+656.511	once wrote that if human civilization were destroyed
+660.183	and you could pass only a single concept
+662.076	on to our descendants
+663.447	to help them rebuild civilization,
+665.754	that concept should be
+667.44	that all matter around us
+669.292	is made out of tiny elements
+671.615	that attract each other when they're far apart
+674.123	but repel each other when they're close together.
+677.453	My equivalent of that statement
+679.234	to pass on to descendants
+680.502	to help them build artificial intelligences
+683.214	or to help them understand human intelligence,
+686.163	is the following:
+687.43	Intelligence should be viewed
+689.483	as a physical process
+690.896	that tries to maximize future freedom of action
+693.861	and avoid constraints in its own future.
+697.477	Thank you very much.
+698.835	(Applause)

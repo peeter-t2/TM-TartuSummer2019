@@ -1,0 +1,259 @@
+startsecond	text
+12.583	The Earth needs no introduction.
+15.786	It needs no introduction in part 
+15.786	because the Apollo 17 astronauts,
+20.596	when they were hurtling 
+20.596	around the moon in 1972,
+23.324	took this iconic image.
+27.396	It galvanized a whole 
+27.396	generation of human beings
+30.875	to realize that we're on 
+30.875	Spaceship Earth,
+33.553	fragile and finite as it is,
+35.84	and that we need 
+35.84	to take care of it.
+37.643	But while this picture
+37.643	is beautiful, it's static,
+40.624	and the Earth is constantly changing.
+43.177	It's changing on days' time
+43.177	scales with human activity.
+46.676	And the satellite imagery we 
+46.676	have of it today is old.
+49.975	Typically, years old.
+52.47	And that's important because
+52.47	you can't fix what you can't see.
+56.735	What we'd ideally want is images
+56.735	of the whole planet every day.
+61.595	So, what's standing in our way?
+63.871	What's the problem?
+65.882	This is the problem:
+67.908	Satellites are big, expensive 
+67.908	and they're slow.
+72.191	This one weighs three tons.
+74.332	It's six meters tall, four meters wide.
+77.097	It took up the entire fairing
+77.097	of a rocket just to launch it.
+80.33	One satellite, one rocket.
+82.18	It cost 855 million dollars.
+85.38	Satellites like these have 
+85.38	done an amazing job
+87.614	at helping us to understand our planet.
+90.73	But if we want to understand 
+90.73	it much more regularly,
+94.356	we need lots of satellites,
+96.402	and this model isn't scalable.
+98.373	So me and my friends, 
+98.373	we started Planet Labs
+100.476	to make satellites ultra-compact
+102.562	and small and highly capable.
+104.849	I'm going to show you what 
+104.849	our satellite looks like:
+112.363	This is our satellite.
+114.9	This is not a scale model,
+116.863	this is the real size.
+118.371	It's 10 by 10 by 30 centimeters,
+120.757	it weighs four kilograms,
+123.046	and we've stuffed the latest 
+123.046	and greatest electronics
+125.583	and sensor systems into 
+125.583	this little package
+127.84	so that even though this is really small,
+129.884	this can take pictures 10 times the
+129.884	resolution of the big satellite here,
+134.977	even though it weighs one 
+134.977	thousandth of the mass.
+139.387	And we call this satellite 
+139.387	"""Dove"" — Thank you."
+143.14	(Applause)
+145.435	"We call this satellite ""Dove,"""
+147.48	"and we call it ""Dove"" because "
+147.48	satellites are typically named
+150.499	after birds, but normally birds of prey:
+152.865	like Eagle, Hawk, Swoop, 
+152.865	Kill, I don't know,
+155.702	Kestrel, these sort of things.
+157.417	But ours have a 
+157.417	humanitarian mission,
+159.342	so we wanted to call them Doves.
+161.175	And we haven't just 
+161.175	built them, though.
+163.109	We've launched them.
+164.45	And not just one, but many.
+170.586	It all started in our garage.
+172.953	Yes, we built our first satellite
+172.953	prototype in our garage.
+175.767	Now, this is pretty normal for a
+175.767	Silicon Valley company that we are,
+178.984	but we believe it's the first time 
+178.984	for a space company.
+181.927	And that's not the only trick
+181.927	we learned from Silicon Valley.
+185.395	We rapidly prototype our satellites.
+188.587	"We use ""release early, "
+188.587	"release often"" on our software."
+191.472	And we take a different 
+191.472	risk approach.
+193.389	We take them outside and test them.
+195.392	We even put satellites in space
+195.392	just to test the satellites,
+198.281	and we've learned to manufacture
+198.281	our satellites at scale.
+201.144	We've used modern production techniques
+203.21	so we can build large numbers of them,
+205.923	I think for the first time.
+208.12	We call it agile aerospace,
+211.12	and that's what's enabled us to put
+211.12	so much capability into this little box.
+216.808	Now, what has bonded 
+216.808	our team over the years
+221.3	is the idea of democratizing
+221.3	access to satellite information.
+226.436	In fact, the founders of our 
+226.436	company, Chris, Robbie and I,
+229.221	we met over 15 years ago 
+229.221	at the United Nations
+231.526	when they were hosting a conference 
+231.526	about exactly that question:
+234.511	How do you use satellites 
+234.511	to help humanity?
+236.18	How do you use satellites to help 
+236.18	people in developing countries
+237.932	or with climate change?
+239.939	And this is what has bonded us.
+242.405	Our entire team is passionate about
+242.405	using satellites to help humanity.
+246.97	You could say 
+246.97	we're space geeks,
+248.747	but not only do we care 
+248.747	about what's up there,
+251.284	we care about what's down here, too.
+253.376	I'm going to show you a video
+255.102	from just four weeks ago 
+255.102	of two of our satellites
+257.561	being launched from the
+257.561	International Space Station.
+260.45	This is not an animation, 
+262.24	this is a video taken by the astronaut 
+262.24	looking out of the window.
+265.49	It gives you a bit of a sense of 
+265.49	scale of our two satellites.
+268.479	It's like some of the 
+268.479	smallest satellites ever
+270.796	are being launched from 
+270.796	the biggest satellite ever.
+273.29	And right at the end, the
+273.29	solar array glints in the sun.
+275.872	It's really cool. Wait for it.
+278.241	Boom! Yeah. It's the money shot.
+281.854	(Laughter)
+283.864	So we didn't just launch 
+283.864	two of them like this,
+286.875	we launched 28 of them.
+288.601	It's the largest constellation of
+288.601	Earth-imaging satellites in human history,
+292.214	and it's going to provide a
+292.214	completely radical new data set
+295.463	about our changing planet.
+297.467	But that's just the beginning.
+299.695	You see, we're going to launch
+299.695	more than 100 of these satellites
+302.777	like these over the 
+302.777	course of the next year.
+305.031	It's going to be the largest constellation
+305.031	of satellites in human history.
+308.68	And this is what it's going to do:
+310.337	Acting in a single-orbit plane that 
+310.337	stays fixed with respect to the sun,
+313.896	the Earth rotates underneath.
+315.569	They're all cameras pointed down,
+317.864	and they slowly scan across as 
+317.864	the Earth rotates underneath.
+320.833	The Earth rotates every 24 hours,
+322.957	so we scan every point on the 
+322.957	planet every 24 hours.
+325.929	It's a line scanner for the planet.
+328.18	We don't take a picture of 
+328.18	anywhere on the planet every day,
+331.634	we take a picture of every single
+331.634	place on the planet every day.
+334.82	Even though we launched these
+334.82	just a couple of weeks ago,
+337.513	we've already got some initial
+337.513	imagery from the satellites
+340.278	and I'm going to show it
+340.278	publicly for the first time right now.
+343.694	This is the very first picture
+343.694	taken by our satellite.
+346.504	It happened to be over 
+346.504	UC-Davis' campus
+348.5	in California when we 
+348.5	turned the camera on.
+350.544	But what's even cooler is when
+352.073	we compare it to the previous
+352.073	latest image of that area,
+355.2	which was taken many months ago.
+357.609	And the image on the left 
+357.609	is from our satellite,
+360.174	and we see buildings are being built.
+362.221	The general point is that we will be able
+362.221	to track urban growth as it happens
+366.21	around the whole world
+366.21	in all cities, every day.
+370.052	Water as well.
+371.579	Thank you.
+373.42	(Applause)
+374.987	We'll be able to see 
+374.987	the extent of all water bodies
+377.609	around the whole world every day
+377.609	and help water security.
+380.82	From water security 
+380.82	to food security.
+382.992	We'll see crops as they 
+382.992	grow in all the fields
+385.495	in every farmer's field around
+385.495	the planet every day.
+388.52	and help them to improve crop yield.
+391.423	This is a beautiful image that was taken
+393.562	just a few hours ago when the 
+393.562	satellite was flying over Argentina.
+397.68	The general point is
+399.104	there are probably hundreds and 
+399.104	thousands of applications of this data,
+402.517	I've mentioned a few, but there's others:
+404.469	deforestation, the ice caps melting.
+406.193	We can track all of these things,
+406.193	every tree on the planet every day.
+409.48	If you took the difference between
+409.48	today's image and yesterday's image,
+412.598	you'd see much of the world news —
+412.598	you'd see floods and fires and earthquakes.
+416.674	And we have decided, therefore, that the 
+416.674	best thing that we could do with our data
+420.283	is to ensure universal access to it.
+423.275	We want to ensure everyone can see it.
+425.4	Thank you. (Applause)
+428.979	We want to empower NGOs and 
+428.979	companies and scientists and journalists
+432.78	to be able to answer the questions
+432.78	that they have about the planet.
+436.254	We want to enable the developer community
+436.254	to run their apps on our data.
+441.413	In short, we want to democratize access
+441.413	to information about our planet.
+445.511	Which brings me back to this.
+448.311	You see, this will be an entirely
+448.311	new global data set.
+452.874	And we believe that together,
+454.801	we can help to take care 
+454.801	of our Spaceship Earth.
+459.384	And what I would like to leave
+459.384	you with is the following question:
+462.899	If you had access to imagery of the
+462.899	whole planet every single day,
+467.17	what would you do with that data?
+468.804	What problems would you solve?
+470.412	What exploration would you do?
+472.382	Well, I invite you to come
+472.382	and explore with us.
+474.474	Thank you very much.
+476.08	(Applause)

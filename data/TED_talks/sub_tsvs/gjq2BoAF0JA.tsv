@@ -1,0 +1,219 @@
+startsecond	text
+13.713	Can I get a show of hands --
+15.103	how many of you in this room
+15.103	have been on a plane in this past year?
+20.258	That's pretty good.
+21.435	Well, it turns out that you
+21.435	share that experience
+24.344	with more than three billion
+24.344	people every year.
+27.203	And when we put so many people
+27.203	in all these metal tubes
+30.364	that fly all over the world,
+31.974	sometimes, things like this can happen
+34.671	and you get a disease epidemic.
+37.116	I first actually got into this topic
+39.091	when I heard about the Ebola
+39.091	outbreak last year.
+41.747	And it turns out that,
+43.231	although Ebola spreads
+43.231	through these more range-limited,
+46.085	large-droplet routes,
+47.443	there's all these other sorts of diseases
+49.445	that can be spread in the airplane cabin.
+51.445	The worst part is, when we take
+51.445	a look at some of the numbers,
+54.653	it's pretty scary.
+56.09	So with H1N1,
+57.874	there was this guy that decided
+57.874	to go on the plane
+60.287	and in the matter of a single flight
+62.082	actually spread the disease
+62.082	to 17 other people.
+64.36	And then there was this
+64.36	other guy with SARS,
+66.512	who managed to go on a three-hour flight
+68.638	and spread the disease to 22 other people.
+71.504	That's not exactly my idea
+71.504	of a great superpower.
+75.658	When we take a look at this,
+75.658	what we also find
+78.246	is that it's very difficult
+78.246	to pre-screen for these diseases.
+81.619	So when someone actually
+81.619	goes on a plane,
+83.734	they could be sick
+84.964	and they could actually
+84.964	be in this latency period
+87.383	in which they could actually
+87.383	have the disease
+89.566	but not exhibit any symptoms,
+91.162	and they could, in turn,
+91.162	spread the disease
+93.377	to many other people in the cabin.
+95.074	How that actually works is that right now
+97.18	we've got air coming in
+97.18	from the top of the cabin
+99.49	and from the side of the cabin,
+99.49	as you see in blue.
+101.94	And then also, that air goes out
+101.94	through these very efficient filters
+106.166	that eliminate 99.97 percent
+106.166	of pathogens near the outlets.
+111.444	What happens right now, though,
+112.945	is that we have this
+112.945	mixing airflow pattern.
+115.036	So if someone were to actually sneeze,
+116.892	that air would get swirled
+116.892	around multiple times
+119.62	before it even has a chance
+119.62	to go out through the filter.
+123.785	So I thought: clearly, this
+123.785	is a pretty serious problem.
+127.022	I didn't have the money
+127.022	to go out and buy a plane,
+130.779	so I decided to build a computer instead.
+133.041	It actually turns out that
+133.041	with computational fluid dynamics,
+136.337	what we're able to do
+136.337	is create these simulations
+138.962	that give us higher resolutions
+140.78	than actually physically going
+140.78	in and taking readings in the plane.
+144.836	And so how, essentially, this works
+144.836	is you would start out
+147.874	with these 2D drawings --
+149.57	these are floating around
+149.57	in technical papers around the Internet.
+152.722	I take that and then I put it
+152.722	into this 3D-modeling software,
+155.639	really building that 3D model.
+157.442	And then I divide that model
+157.442	that I just built into these tiny pieces,
+161.925	essentially meshing it so that
+161.925	the computer can better understand it.
+165.526	And then I tell the computer where
+165.526	the air goes in and out of the cabin,
+169.271	throw in a bunch of physics
+170.794	and basically sit there and wait until
+170.794	the computer calculates the simulation.
+176.015	So what we get, actually,
+176.015	with the conventional cabin is this:
+179.666	you'll notice the middle person sneezing,
+182.767	"and we go ""Splat!"" -- it goes"
+182.767	right into people's faces.
+186.882	It's pretty disgusting.
+188.727	From the front, you'll notice
+188.727	those two passengers
+191.099	sitting next to the central passenger
+192.909	not exactly having a great time.
+194.639	And when we take a look
+194.639	at that from the side,
+196.849	you'll also notice those pathogens
+196.849	spreading across the length of the cabin.
+202.017	The first thing I thought was,
+202.017	"""This is no good."""
+204.391	So I actually conducted
+204.391	more than 32 different simulations
+207.923	and ultimately, I came up
+207.923	with this solution right here.
+211.312	This is what I call a -- patent pending --
+211.312	Global Inlet Director.
+214.852	With this, we're able to reduce
+214.852	pathogen transmission
+217.442	by about 55 times,
+219.234	and increase fresh-air inhalation
+219.234	by about 190 percent.
+222.411	So how this actually works
+224.039	is we would install this piece
+224.039	of composite material
+227.192	into these existing spots
+227.192	that are already in the plane.
+230.184	So it's very cost-effective to install
+232.209	and we can do this directly overnight.
+234.081	All we have to do is put a couple
+234.081	of screws in there and you're good to go.
+237.653	And the results that we get
+237.653	are absolutely amazing.
+240.536	Instead of having those problematic
+240.536	swirling airflow patterns,
+244.096	we can create these walls of air
+245.862	that come down in-between the passengers
+248.056	to create personalized breathing zones.
+249.978	So you'll notice the middle passenger
+249.978	here is sneezing again,
+252.987	but this time, we're able
+252.987	to effectively push that down
+255.724	to the filters for elimination.
+258.461	And same thing from the side,
+259.881	you'll notice we're able to directly
+259.881	push those pathogens down.
+263.682	So if you take a look again now
+263.682	at the same scenario
+267.2	but with this innovation installed,
+268.913	you'll notice the middle
+268.913	passenger sneezes,
+270.953	and this time, we're pushing
+270.953	that straight down into the outlet
+274.05	before it gets a chance
+274.05	to infect any other people.
+277.795	So you'll notice the two passengers
+277.795	sitting next to the middle guy
+280.943	are breathing virtually
+280.943	no pathogens at all.
+283.2	Take a look at that from the side as well,
+285.752	you see a very efficient system.
+287.331	And in short, with this system, we win.
+291.255	When we take a look at what this means,
+294.168	what we see is that this not only works
+294.168	if the middle passenger sneezes,
+297.664	but also if the window-seat
+297.664	passenger sneezes
+300.462	or if the aisle-seat passenger sneezes.
+303.167	And so with this solution, what does
+303.167	this mean for the world?
+306.278	Well, when we take a look at this
+309.816	from the computer simulation
+309.816	into real life,
+312.409	we can see with this 3D model
+312.409	that I built over here,
+315.195	essentially using 3D printing,
+317.307	we can see those same
+317.307	airflow patterns coming down,
+320.29	right to the passengers.
+322.92	In the past, the SARS epidemic
+322.92	actually cost the world
+326.014	about 40 billion dollars.
+327.967	And in the future,
+329.15	a big disease outbreak
+329.15	could actually cost the world
+331.72	in excess of three trillion dollars.
+333.942	So before, it used to be that you had
+333.942	to take an airplane out of service
+337.443	for one to two months,
+339.339	spend tens of thousands of man hours
+339.339	and several million dollars
+342.935	to try to change something.
+344.282	But now, we're able to install
+344.282	something essentially overnight
+347.817	and see results right away.
+349.568	So it's really now a matter of taking
+349.568	this through to certification,
+352.798	flight testing,
+354.012	and going through all of these
+354.012	regulatory approvals processes.
+357.028	But it just really goes to show
+357.028	that sometimes the best solutions
+360.116	are the simplest solutions.
+361.935	And two years ago, even,
+365.149	this project would not have happened,
+366.942	just because the technology then
+366.942	wouldn't have supported it.
+369.792	But now with advanced computing
+372.285	and how developed our Internet is,
+374.495	it's really the golden era for innovation.
+377.158	And so the question I ask all
+377.158	of you today is: why wait?
+380.425	Together, we can build the future today.
+383.123	Thanks.
+384.298	(Applause)

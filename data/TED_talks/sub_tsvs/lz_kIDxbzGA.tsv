@@ -1,0 +1,440 @@
+startsecond	text
+12.711	Six thousand miles of road,
+19.378	and a half a mile of tram track,
+21.199	if you've ever been to Roosevelt Island.
+23.152	These are the numbers that make up
+23.152	the infrastructure of New York City.
+26.486	These are the statistics
+26.486	of our infrastructure.
+29.105	They're the kind of numbers you can find
+29.105	released in reports by city agencies.
+32.811	For example, the Department
+32.811	of Transportation will probably tell you
+36.01	how many miles of road they maintain.
+37.791	The MTA will boast how many miles
+37.791	of subway track there are.
+40.612	Most city agencies give us statistics.
+42.419	This is from a report this year
+43.902	from the Taxi and Limousine Commission,
+45.794	where we learn that there's about
+49.07	Pretty interesting, right?
+50.36	But did you ever think about
+50.36	where these numbers came from?
+53.144	Because for these numbers to exist,
+53.144	someone at the city agency
+56.047	had to stop and say, hmm, here's a number
+56.047	that somebody might want want to know.
+59.927	Here's a number 
+59.927	that our citizens want to know.
+62.177	So they go back to their raw data,
+64.007	they count, they add, they calculate,
+65.804	and then they put out reports,
+67.271	and those reports
+67.271	will have numbers like this.
+69.448	The problem is, how do they know
+69.448	all of our questions?
+71.988	We have lots of questions.
+73.231	In fact, in some ways there's literally
+73.231	an infinite number of questions
+76.571	that we can ask about our city.
+78.22	The agencies can never keep up.
+79.695	So the paradigm isn't exactly working,
+79.695	and I think our policymakers realize that,
+83.751	because in 2012, Mayor Bloomberg
+83.751	signed into law what he called
+87.71	the most ambitious and comprehensive
+87.71	open data legislation in the country.
+91.547	In a lot of ways, he's right.
+93.12	In the last two years, 
+93.12	the city has released 1,000 datasets
+95.981	on our open data portal,
+97.591	and it's pretty awesome.
+99.355	So you go and look at data like this,
+101.323	and instead of just counting
+101.323	the number of cabs,
+103.612	we can start to ask different questions.
+105.555	So I had a question.
+106.755	When's rush hour in New York City?
+108.456	It can be pretty bothersome.
+108.456	When is rush hour exactly?
+111.037	And I thought to myself,
+111.037	these cabs aren't just numbers,
+113.662	these are GPS recorders
+113.662	driving around in our city streets
+116.373	recording each and every ride they take.
+118.286	There's data there,
+118.286	and I looked at that data,
+120.608	and I made a plot of the average speed of
+120.608	taxis in New York City throughout the day.
+124.569	You can see that from about midnight
+124.569	to around 5:18 in the morning,
+127.981	speed increases, and at that point,
+127.981	things turn around,
+131.544	and they get slower and slower and slower
+131.544	until about 8:35 in the morning,
+135.506	when they end up at around
+138.199	The average taxi is going 11 and a half
+138.199	miles per hour on our city streets,
+141.761	and it turns out it stays that way
+143.748	for the entire day.
+147.116	(Laughter)
+148.489	So I said to myself, I guess
+148.489	there's no rush hour in New York City.
+151.669	There's just a rush day.
+153.206	Makes sense. And this is important
+153.206	for a couple of reasons.
+156.056	If you're a transportation planner,
+156.056	this might be pretty interesting to know.
+159.693	But if you want to get somewhere quickly,
+161.668	you now know to set your alarm for
+161.668	4:45 in the morning and you're all set.
+165.136	New York, right?
+166.18	But there's a story behind this data.
+167.942	This data wasn't
+167.942	just available, it turns out.
+170.127	It actually came from something called
+170.127	a Freedom of Information Law Request,
+173.746	or a FOIL Request.
+174.822	This is a form you can find on the
+174.822	Taxi and Limousine Commission website.
+178.288	In order to access this data,
+178.288	you need to go get this form,
+181.114	fill it out, and they will notify you,
+182.96	and a guy named Chris Whong
+182.96	did exactly that.
+185.09	Chris went down, and they told him,
+186.98	"""Just bring a brand new hard drive "
+186.98	down to our office,
+189.807	leave it here for five hours,
+189.807	"we'll copy the data and you take it back."""
+193.231	And that's where this data came from.
+195.263	Now, Chris is the kind of guy
+195.263	who wants to make the data public,
+198.268	and so it ended up online for all to use,
+198.268	and that's where this graph came from.
+202.052	And the fact that it exists is amazing.
+202.052	These GPS recorders -- really cool.
+205.57	But the fact that we have citizens
+205.57	walking around with hard drives
+208.688	picking up data from city agencies
+208.688	to make it public --
+211.27	it was already kind of public,
+211.27	you could get to it,
+213.66	"but it was ""public,"" it wasn't public."
+215.472	And we can do better than that as a city.
+217.434	We don't need our citizens
+217.434	walking around with hard drives.
+220.19	Now, not every dataset
+220.19	is behind a FOIL Request.
+222.527	Here is a map I made with the most
+222.527	dangerous intersections in New York City
+226.329	based on cyclist accidents.
+228.207	So the red areas are more dangerous.
+230.146	And what it shows is first
+230.146	the East side of Manhattan,
+232.699	especially in the lower area of Manhattan,
+232.699	has more cyclist accidents.
+236.31	That might make sense
+237.329	because there are more cyclists
+237.329	coming off the bridges there.
+240.225	But there's other hotspots worth studying.
+242.239	There's Williamsburg.
+242.239	There's Roosevelt Avenue in Queens.
+244.908	And this is exactly the kind of data
+244.908	we need for Vision Zero.
+247.76	This is exactly what we're looking for.
+249.75	But there's a story
+249.75	behind this data as well.
+251.885	This data didn't just appear.
+253.952	How many of you guys know this logo?
+256.343	Yeah, I see some shakes.
+257.695	Have you ever tried to copy
+257.695	and paste data out of a PDF
+260.35	and make sense of it?
+261.707	I see more shakes.
+262.767	More of you tried copying and pasting
+262.767	than knew the logo. I like that.
+266.112	So what happened is, the data
+266.112	that you just saw was actually on a PDF.
+269.622	In fact, hundreds and hundreds
+269.622	and hundreds of pages of PDF
+272.727	put out by our very own NYPD,
+274.886	and in order to access it,
+274.886	you would either have to copy and paste
+278.038	for hundreds and hundreds of hours,
+279.764	or you could be John Krauss.
+281.108	John Krauss was like,
+282.151	I'm not going to copy and paste this data.
+282.151	I'm going to write a program.
+285.564	It's called the NYPD Crash Data Band-Aid,
+287.852	and it goes to the NYPD's website
+287.852	and it would download PDFs.
+290.884	Every day it would search;
+290.884	if it found a PDF, it would download it
+294.01	and then it would run
+294.01	some PDF-scraping program,
+296.26	and out would come the text,
+297.596	and it would go on the Internet,
+297.596	and then people could make maps like that.
+301.161	And the fact that the data's here,
+301.161	the fact that we have access to it --
+304.59	Every accident, by the way,
+304.59	is a row in this table.
+307.04	You can imagine how many PDFs that is.
+308.876	The fact that we
+308.876	have access to that is great,
+311.083	but let's not release it in PDF form,
+313.193	because then we're having our citizens
+313.193	write PDF scrapers.
+315.932	It's not the best use
+315.932	of our citizens' time,
+318.008	and we as a city can do better than that.
+320.012	Now, the good news is that
+320.012	the de Blasio administration
+322.748	actually recently released this data
+322.748	a few months ago,
+325.28	and so now we can
+325.28	actually have access to it,
+327.438	but there's a lot of data
+327.438	still entombed in PDF.
+329.974	For example, our crime data
+329.974	is still only available in PDF.
+333.171	And not just our crime data,
+333.171	our own city budget.
+336.926	Our city budget is only readable
+336.926	right now in PDF form.
+340.655	And it's not just us
+340.655	that can't analyze it --
+342.796	our own legislators
+342.796	who vote for the budget
+345.751	also only get it in PDF.
+347.694	So our legislators cannot analyze 
+347.694	the budget that they are voting for.
+351.538	And I think as a city we can do
+351.538	a little better than that as well.
+355.146	Now, there's a lot of data
+355.146	that's not hidden in PDFs.
+357.634	This is an example of a map I made,
+359.334	and this is the dirtiest waterways
+359.334	in New York City.
+362.26	Now, how do I measure dirty?
+363.769	Well, it's kind of a little weird,
+365.626	but I looked at the level
+365.626	of fecal coliform,
+367.739	which is a measurement of fecal matter
+367.739	in each of our waterways.
+371.245	The larger the circle,
+371.245	the dirtier the water,
+374.519	so the large circles are dirty water,
+374.519	the small circles are cleaner.
+377.876	What you see is inland waterways.
+379.52	This is all data that was sampled
+379.52	by the city over the last five years.
+382.924	And inland waterways are,
+382.924	in general, dirtier.
+385.618	That makes sense, right?
+386.836	And the bigger circles are dirty.
+386.836	And I learned a few things from this.
+390.21	Number one: Never swim in anything
+390.21	"that ends in ""creek"" or ""canal."""
+393.374	But number two: I also found
+393.374	the dirtiest waterway in New York City,
+397.692	by this measure, one measure.
+399.526	In Coney Island Creek, which is not
+399.526	the Coney Island you swim in, luckily.
+403.174	It's on the other side.
+404.332	But Coney Island Creek, 94 percent
+404.332	of samples taken over the last five years
+408.21	have had fecal levels so high
+410.367	that it would be against state law
+410.367	to swim in the water.
+413.46	And this is not the kind of fact
+413.46	that you're going to see
+416.189	boasted in a city report, right?
+417.726	It's not going to be 
+417.726	the front page on nyc.gov.
+419.976	You're not going to see it there,
+421.556	but the fact that we can get 
+421.556	to that data is awesome.
+424.074	But once again, it wasn't super easy,
+425.847	because this data was not
+425.847	on the open data portal.
+428.205	If you were to go to the open data portal,
+430.218	you'd see just a snippet of it, 
+430.218	a year or a few months.
+432.831	It was actually on the Department
+432.831	of Environmental Protection's website.
+436.221	And each one of these links is an Excel 
+436.221	sheet, and each Excel sheet is different.
+440.099	Every heading is different:
+440.099	you copy, paste, reorganize.
+442.729	When you do you can make maps
+442.729	and that's great, but once again,
+445.681	we can do better than that 
+445.681	as a city, we can normalize things.
+448.65	And we're getting there, because
+448.65	there's this website that Socrata makes
+452.034	called the Open Data Portal NYC.
+453.575	This is where 1,100 data sets 
+453.575	that don't suffer
+455.832	from the things I just told you live,
+457.613	and that number is growing,
+457.613	and that's great.
+459.761	You can download data in any format,
+459.761	be it CSV or PDF or Excel document.
+463.173	Whatever you want,
+463.173	you can download the data that way.
+465.72	The problem is, once you do,
+467.072	you will find that each agency
+467.072	codes their addresses differently.
+470.758	So one is street name, 
+470.758	intersection street,
+472.899	street, borough, address, building,
+472.899	building address.
+475.39	So once again, you're spending time,
+475.39	even when we have this portal,
+478.57	you're spending time
+478.57	normalizing our address fields.
+481.176	And that's not the best use 
+481.176	of our citizens' time.
+483.599	We can do better than that as a city.
+485.395	We can standardize our addresses,
+487.04	and if we do, 
+487.04	we can get more maps like this.
+489.225	This is a map of fire hydrants
+489.225	in New York City,
+491.51	but not just any fire hydrants.
+493.041	These are the top 250 grossing fire
+493.041	hydrants in terms of parking tickets.
+497.767	(Laughter)
+499.753	So I learned a few things from this map,
+499.753	and I really like this map.
+503.111	Number one, just don't park
+503.111	on the Upper East Side.
+505.513	Just don't. It doesn't matter where
+505.513	you park, you will get a hydrant ticket.
+509.1	Number two, I found the two highest
+509.1	grossing hydrants in all of New York City,
+513.253	and they're on the Lower East Side,
+515.139	and they were bringing in over
+520.237	And that seemed a little strange
+520.237	to me when I noticed it,
+522.975	so I did a little digging and it turns out
+522.975	what you had is a hydrant
+526.244	and then something called
+526.244	a curb extension,
+528.24	which is like a seven-foot
+528.24	space to walk on,
+530.299	and then a parking spot.
+531.455	And so these cars came along,
+531.455	and the hydrant --
+533.709	"""It's all the way over there, I'm fine,"""
+535.62	and there was actually a parking spot
+535.62	painted there beautifully for them.
+539.094	They would park there, and the NYPD
+539.094	disagreed with this designation
+542.249	and would ticket them.
+543.307	And it wasn't just me 
+543.307	who found a parking ticket.
+545.651	This is the Google 
+545.651	Street View car driving by
+547.797	finding the same parking ticket.
+549.414	So I wrote about this on my blog,
+549.414	on I Quant NY, and the DOT responded,
+553.918	and they said,
+554.938	"""While the DOT has not received"
+554.938	any complaints about this location,
+558.348	we will review the roadway markings
+558.348	"and make any appropriate alterations."""
+562.89	And I thought to myself,
+562.89	typical government response,
+565.849	all right, moved on with my life.
+567.73	But then, a few weeks later,
+567.73	something incredible happened.
+571.7	They repainted the spot,
+574.22	and for a second I thought I saw
+574.22	the future of open data,
+576.91	because think about what happened here.
+578.91	For five years, this spot was being 
+578.91	ticketed, and it was confusing,
+584.01	and then a citizen found something,
+584.01	they told the city, and within a few weeks
+588.316	the problem was fixed.
+589.61	It's amazing. And a lot of people
+589.61	see open data as being a watchdog.
+592.81	It's not, it's about being a partner.
+594.582	We can empower our citizens
+594.582	to be better partners for government,
+597.72	and it's not that hard.
+599.601	All we need are a few changes.
+601.06	If you're FOILing data,
+602.167	if you're seeing your data 
+602.167	being FOILed over and over again,
+605.034	let's release it to the public, that's
+605.034	a sign that it should be made public.
+608.608	And if you're a government agency
+608.608	releasing a PDF,
+611.09	let's pass legislation that requires you
+611.09	to post it with the underlying data,
+614.739	because that data
+614.739	is coming from somewhere.
+616.767	I don't know where, but it's
+616.767	coming from somewhere,
+619.249	and you can release it with the PDF.
+620.974	And let's adopt and share
+620.974	some open data standards.
+623.385	Let's start with our addresses
+623.385	here in New York City.
+625.866	Let's just start
+625.866	normalizing our addresses.
+627.94	Because New York is a leader in open data.
+630.002	Despite all this, we are absolutely
+630.002	a leader in open data,
+632.791	and if we start normalizing things,
+632.791	and set an open data standard,
+635.912	others will follow. The state will follow,
+635.912	and maybe the federal government,
+639.546	Other countries could follow,
+640.991	and we're not that far off from a time
+640.991	where you could write one program
+644.402	and map information from 100 countries.
+646.292	It's not science fiction.
+646.292	We're actually quite close.
+648.779	And by the way, who are we
+648.779	empowering with this?
+651.019	Because it's not just John Krauss
+651.019	and it's not just Chris Whong.
+654.024	There are hundreds of meetups
+654.024	going on in New York City right now,
+657.119	active meetups.
+658.144	There are thousands of people
+658.144	attending these meetups.
+660.716	These people are going after work
+660.716	and on weekends,
+663.084	and they're attending these meetups
+663.084	to look at open data
+665.72	and make our city a better place.
+667.36	Groups like BetaNYC, who just last week 
+667.36	released something called citygram.nyc
+671.433	that allows you to subscribe
+671.433	to 311 complaints
+673.58	around your own home,
+673.58	or around your office.
+675.648	You put in your address,
+675.648	you get local complaints.
+678.075	And it's not just the tech community
+678.075	that are after these things.
+681.449	It's urban planners like 
+681.449	the students I teach at Pratt.
+684.071	It's policy advocates, it's everyone,
+685.99	it's citizens from a diverse
+685.99	set of backgrounds.
+688.553	And with some small, incremental changes,
+691.339	we can unlock the passion
+691.339	and the ability of our citizens
+694.564	to harness open data
+694.564	and make our city even better,
+697.72	whether it's one dataset,
+697.72	or one parking spot at a time.
+701.346	Thank you.
+703.668	(Applause)

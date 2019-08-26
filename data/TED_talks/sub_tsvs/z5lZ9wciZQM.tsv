@@ -1,0 +1,397 @@
+startsecond	text
+16.16	So I'm going to talk today about collecting stories
+20.16	in some unconventional ways.
+22.16	This is a picture of me from a very awkward stage in my life.
+26.16	You might enjoy the awkwardly tight, cut-off pajama bottoms with balloons.
+31.16	Anyway, it was a time when I was mainly interested
+33.16	in collecting imaginary stories.
+35.16	So this is a picture of me
+37.16	holding one of the first watercolor paintings I ever made.
+39.16	And recently I've been much more interested in collecting stories
+42.16	from reality -- so, real stories.
+44.16	And specifically, I'm interested in collecting my own stories,
+48.16	stories from the Internet, and then recently, stories from life,
+51.16	which is kind of a new area of work that I've been doing recently.
+55.16	So I'll be talking about each of those today.
+57.16	So, first of all, my own stories. These are two of my sketchbooks.
+60.16	I have many of these books,
+62.16	and I've been keeping them for about the last eight or nine years.
+64.16	They accompany me wherever I go in my life,
+66.16	and I fill them with all sorts of things,
+68.16	records of my lived experience:
+70.16	so watercolor paintings, drawings of what I see,
+74.16	dead flowers, dead insects, pasted ticket stubs, rusting coins,
+78.16	business cards, writings.
+81.16	And in these books, you can find these short, little glimpses
+85.16	of moments and experiences and people that I meet.
+87.16	And, you know, after keeping these books for a number of years,
+90.16	I started to become very interested in collecting
+92.16	not only my own personal artifacts,
+94.16	but also the artifacts of other people.
+96.16	So, I started collecting found objects.
+98.16	This is a photograph I found lying in a gutter in New York City
+100.16	about 10 years ago.
+102.16	On the front, you can see the tattered black-and-white photo of a woman's face,
+105.16	"and on the back it says, ""To Judy, the girl with the Bill Bailey voice."
+109.16	"Have fun in whatever you do."""
+111.16	And I really loved this idea of the partial glimpse into somebody's life.
+114.16	As opposed to knowing the whole story, just knowing a little bit of the story,
+117.16	and then letting your own mind fill in the rest.
+119.16	And that idea of a partial glimpse is something
+121.16	that will come back in a lot of the work I'll be showing later today.
+124.16	So, around this time I was studying computer science at Princeton University,
+127.16	and I noticed that it was suddenly possible
+130.16	to collect these sorts of personal artifacts,
+132.16	not just from street corners, but also from the Internet.
+135.16	And that suddenly, people, en masse, were leaving scores and scores
+139.16	of digital footprints online that told stories of their private lives.
+143.16	Blog posts, photographs, thoughts, feelings, opinions,
+147.16	all of these things were being expressed by people online,
+149.16	and leaving behind trails.
+151.16	So, I started to write computer programs
+153.16	that study very, very large sets of these online footprints.
+156.16	One such project is about a year and a half old.
+158.16	"It's called ""We Feel Fine."""
+160.16	This is a project that scans the world's newly posted blog entries
+163.16	every two or three minutes, searching for occurrences of the phrases
+166.16	"""I feel"" and ""I am feeling."" And when it finds one of those phrases,"
+170.16	it grabs the full sentence up to the period
+172.16	and also tries to identify demographic information about the author.
+175.16	So, their gender, their age, their geographic location
+178.16	and what the weather conditions were like when they wrote that sentence.
+181.16	It collects about 20,000 such sentences a day
+183.16	and it's been running for about a year and a half,
+185.16	having collected over 10 and a half million feelings now.
+188.16	This is, then, how they're presented.
+190.16	These dots here represent some of the English-speaking world's
+193.16	feelings from the last few hours,
+196.16	each dot being a single sentence stated by a single blogger.
+199.16	And the color of each dot corresponds to the type of feeling inside,
+202.16	so the bright ones are happy, and the dark ones are sad.
+205.16	And the diameter of each dot corresponds
+207.16	to the length of the sentence inside.
+209.16	So the small ones are short, and the bigger ones are longer.
+212.16	"""I feel fine with the body I'm in, there'll be no easy excuse"
+214.16	"for why I still feel uncomfortable being close to my boyfriend,"""
+218.16	from a twenty-two-year-old in Japan.
+220.16	"""I got this on some trading locally,"
+222.16	"but really don't feel like screwing with wiring and crap."""
+224.16	Also, some of the feelings contain photographs in the blog posts.
+227.16	And when that happens, these montage compositions are automatically created,
+232.16	which consist of the sentence and images being combined.
+235.16	And any of these can be opened up to reveal the sentence inside.
+239.16	"""I feel good."""
+244.16	"""I feel rough now, and I probably gained 100,000 pounds,"
+247.16	"but it was worth it."""
+251.16	"""I love how they were able to preserve most in everything"
+254.16	that makes you feel close to nature -- butterflies,
+256.16	"man-made forests, limestone caves and hey, even a huge python."""
+261.16	So the next movement is called mobs.
+263.16	This provides a slightly more statistical look at things.
+265.16	This is showing the world's most common feelings overall right now,
+268.16	dominated by better, then bad, then good, then guilty, and so on.
+271.16	Weather causes the feelings to assume the physical traits
+274.16	of the weather they represent. So the sunny ones swirl around,
+276.16	the cloudy ones float along, the rainy ones fall down,
+279.16	and the snowy ones flutter to the ground.
+281.16	You can also stop a raindrop and open the feeling inside.
+287.16	Finally, location causes the feelings to move to their spots
+289.16	on a world map, giving you a sense of their geographic distribution.
+292.16	"So I'll show you now some of my favorite montages from ""We Feel Fine."""
+295.16	These are the images that are automatically constructed.
+297.16	"""I feel like I'm diagonally parked in a parallel universe."""
+300.16	(Laughter)
+303.16	"""I've kissed numerous other boys and it hasn't felt good,"
+305.16	the kisses felt messy and wrong,
+307.16	"but kissing Lucas feels beautiful and almost spiritual."""
+313.16	"""I can feel my cancer grow."""
+316.16	"""I feel pretty."""
+319.16	"""I feel skinny, but I'm not."""
+322.16	"""I'm 23, and a recovering meth and heroin addict,"
+324.16	"and feel absolutely blessed to still be alive."""
+327.16	"""I can't wait to see them racing for the first time at Daytona next month,"
+330.16	"because I feel the need for speed."""
+332.16	(Laughter)
+335.16	"""I feel sassy."""
+336.16	"""I feel so sexy in this new wig."""
+339.16	"As you can see, ""We Feel Fine"" collects"
+341.16	very, very small-scale personal stories.
+343.16	Sometimes, stories as short as two or three words.
+345.16	So, really even challenging the notion
+347.16	of what can be considered a story.
+349.16	And recently, I've become interested in diving much more deeply into a single story.
+353.16	And that's led me to doing some work with the physical world,
+356.16	not with the Internet,
+357.16	and only using the Internet at the very last moment, as a presentation medium.
+361.16	So these are some newer projects that
+362.16	actually aren't even launched publicly yet.
+364.16	"The first such one is called ""The Whale Hunt."""
+366.16	Last May, I spent nine days living up in Barrow, Alaska,
+369.16	the northernmost settlement in the United States,
+371.16	with a family of Inupiat Eskimos,
+373.16	documenting their annual spring whale hunt.
+376.16	This is the whaling camp here, we're about six miles from shore,
+379.16	camping on five and a half feet of thick, frozen pack ice.
+382.16	And that water that you see there is the open lead,
+384.16	and through that lead, bowhead whales migrate north each springtime.
+388.16	And the Eskimo community basically camps out on the edge of the ice here,
+391.16	waits for a whale to come close enough to attack. And when it does,
+394.16	it throws a harpoon at it, and then hauls the whale up
+396.16	under the ice, and cuts it up.
+398.16	And that would provide the community's food supply for a long time.
+400.16	So I went up there, and I lived with these guys
+402.16	out in their whaling camp here, and photographed the entire experience,
+405.16	beginning with the taxi ride to Newark airport in New York,
+409.16	and ending with the butchering of the second whale, seven and a half days later.
+412.16	I photographed that entire experience at five-minute intervals.
+415.16	So every five minutes, I took a photograph.
+417.16	When I was awake, with the camera around my neck.
+419.16	When I was sleeping, with a tripod and a timer.
+421.16	And then in moments of high adrenaline,
+423.16	like when something exciting was happening,
+425.16	I would up that photographic frequency to as many as
+429.16	So what this created was a photographic heartbeat
+431.16	that sped up and slowed down, more or less matching
+433.16	the changing pace of my own heartbeat.
+436.16	That was the first concept here.
+438.16	The second concept was to use this experience to think about
+440.16	the fundamental components of any story.
+442.16	What are the things that make up a story?
+444.16	So, stories have characters. Stories have concepts.
+447.16	Stories take place in a certain area. They have contexts.
+449.16	They have colors. What do they look like?
+451.16	They have time. When did it take place? Dates -- when did it occur?
+454.16	And in the case of the whale hunt, also this idea of an excitement level.
+457.16	The thing about stories, though, in most of the existing mediums
+460.16	that we're accustomed to -- things like novels, radio,
+463.16	photographs, movies, even lectures like this one --
+465.16	we're very accustomed to this idea of the narrator or the camera position,
+469.16	some kind of omniscient, external body
+471.16	through whose eyes you see the story.
+474.16	We're very used to this.
+476.16	But if you think about real life, it's not like that at all.
+478.16	I mean, in real life, things are much more nuanced and complex,
+480.16	and there's all of these overlapping stories
+482.16	intersecting and touching each other.
+484.16	And so I thought it would be interesting to build a framework
+487.16	"to surface those types of stories. So, in the case of ""The Whale Hunt,"""
+491.16	how could we extract something like the story of Simeon and Crawford,
+494.16	involving the concepts of wildlife, tools and blood, taking place on the Arctic Ocean,
+498.16	dominated by the color red, happening around 10 a.m. on May 3,
+501.16	with an excitement level of high?
+503.16	So, how to extract this order of narrative from this larger story?
+508.16	"I built a web interface for viewing ""The Whale Hunt"" that attempts to do just this."
+513.16	So these are all 3,214 pictures taken up there.
+517.16	This is my studio in Brooklyn. This is the Arctic Ocean,
+521.16	and the butchering of the second whale, seven days later.
+524.16	You can start to see some of the story here, told by color.
+527.16	So this red strip signifies the color of the wallpaper
+530.16	in the basement apartment where I was staying.
+532.16	And things go white as we move out onto the Arctic Ocean.
+535.16	Introduction of red down here, when whales are being cut up.
+539.16	You can see a timeline, showing you the exciting moments throughout the story.
+542.16	These are organized chronologically.
+544.16	Wheel provides a slightly more playful version of the same,
+547.16	so these are also all the photographs organized chronologically.
+550.16	And any of these can be clicked,
+552.16	and then the narrative is entered at that position.
+554.16	So here I am sleeping on the airplane heading up to Alaska.
+557.16	"That's ""Moby Dick."""
+559.16	This is the food we ate.
+561.16	This is in the Patkotak's family living room
+564.16	in their house in Barrow. The boxed wine they served us.
+567.16	Cigarette break outside -- I don't smoke.
+570.16	This is a really exciting sequence of me sleeping.
+574.16	This is out at whale camp, on the Arctic Ocean.
+578.16	This graph that I'm clicking down here is meant to be
+580.16	reminiscent of a medical heartbeat graph,
+582.16	showing the exciting moments of adrenaline.
+587.16	This is the ice starting to freeze over. The snow fence they built.
+590.16	And so what I'll show you now is the ability to pull out sub-stories.
+593.16	"So, here you see the cast. These are all of the people in ""The Whale Hunt"""
+597.16	and the two whales that were killed down here.
+599.16	And we could do something as arbitrary as, say,
+601.16	extract the story of Rony, involving the concepts of blood
+607.16	and whales and tools, taking place on the Arctic Ocean,
+612.16	at Ahkivgaq camp, with the heartbeat level of fast.
+616.16	And now we've whittled down that whole story
+618.16	to just 29 matching photographs,
+620.16	and then we can enter the narrative at that position.
+622.16	And you can see Rony cutting up the whale here.
+624.16	These whales are about 40 feet long,
+626.16	and weighing over 40 tons. And they provide the food source
+629.16	for the community for much of the year.
+633.16	Skipping ahead a bit more here, this is Rony on the whale carcass.
+638.16	They use no chainsaws or anything; it's entirely just blades,
+641.16	and an incredibly efficient process.
+643.16	This is the guys on the rope, pulling open the carcass.
+646.16	This is the muktuk, or the blubber, all lined up for community distribution.
+650.16	It's baleen. Moving on.
+653.16	So what I'm going to tell you about next
+655.16	is a very new thing. It's not even a project yet.
+658.16	So, just yesterday, I flew in here from Singapore, and before that,
+661.16	I was spending two weeks in Bhutan, the small Himalayan kingdom
+665.16	nestled between Tibet and India.
+667.16	And I was doing a project there about happiness,
+670.16	interviewing a lot of local people.
+672.16	So Bhutan has this really wacky thing where they base
+678.16	most of their high-level governmental decisions around the concept
+680.16	of gross national happiness instead of gross domestic product,
+684.16	and they've been doing this since the '70s.
+686.16	And it leads to just a completely different value system.
+689.16	It's an incredibly non-materialistic culture,
+691.16	where people don't have a lot, but they're incredibly happy.
+694.16	So I went around and I talked to people about some of these ideas.
+697.16	So, I did a number of things. I asked people a number of set questions,
+700.16	and took a number of set photographs,
+702.16	and interviewed them with audio, and also took pictures.
+704.16	I would start by asking people to rate their happiness
+706.16	between one and 10, which is kind of inherently absurd.
+709.16	And then when they answered, I would inflate that number of balloons
+712.16	and give them that number of balloons to hold.
+714.16	So, you have some really happy person holding 10 balloons,
+716.16	and some really sad soul holding one balloon.
+720.16	But you know, even holding one balloon is like, kind of happy.
+723.16	(Laughter)
+725.16	And then I would ask them a number of questions like
+727.16	what was the happiest day in their life, what makes them happy.
+729.16	And then finally, I would ask them to make a wish.
+732.16	And when they made a wish, I would write their wish
+734.16	onto one of the balloons and take a picture of them holding it.
+737.16	So I'm going to show you now just a few brief snippets
+740.16	of some of the interviews that I did, some of the people I spoke with.
+743.16	This is an 11-year-old student.
+745.16	He was playing cops and robbers with his friends, running around town,
+748.16	and they all had plastic toy guns.
+750.16	His wish was to become a police officer.
+753.16	He was getting started early. Those were his hands.
+756.16	I took pictures of everybody's hands,
+758.16	because I think you can often tell a lot about somebody
+760.16	from how their hands look. I took a portrait of everybody,
+763.16	and asked everybody to make a funny face.
+766.16	A 17-year-old student. Her wish was to have been born a boy.
+770.16	She thinks that women have a pretty tough go of things in Bhutan,
+773.16	and it's a lot easier if you're a boy.
+781.16	A 28-year-old cell phone shop owner.
+783.16	If you knew what Paro looked like, you'd understand
+785.16	how amazing it is that there's a cell phone shop there.
+790.16	He wanted to help poor people.
+799.16	A 53-year-old farmer. She was chaffing wheat,
+802.16	and that pile of wheat behind her
+804.16	had taken her about a week to make.
+806.16	She wanted to keep farming until she dies.
+810.16	You can really start to see the stories told by the hands here.
+813.16	"She was wearing this silver ring that had the word ""love"" engraved on it,"
+816.16	and she'd found it in the road somewhere.
+823.16	A 16-year-old quarry worker.
+825.16	This guy was breaking rocks with a hammer in the hot sunlight,
+829.16	but he just wanted to spend his life as a farmer.
+839.16	A 21-year-old monk. He was very happy.
+844.16	He wanted to live a long life at the monastery.
+850.16	He had this amazing series of hairs growing out of a mole on the left side of his face,
+854.16	which I'm told is very good luck.
+857.16	He was kind of too shy to make a funny face.
+861.16	A 16-year-old student.
+866.16	She wanted to become an independent woman.
+868.16	I asked her about that, and she said she meant
+869.16	that she doesn't want to be married,
+871.16	because, in her opinion, when you get married in Bhutan as a woman,
+874.16	your chances to live an independent life kind of end,
+877.16	and so she had no interest in that.
+885.16	A 24-year-old truck driver.
+887.16	There are these terrifyingly huge Indian trucks
+889.16	that come careening around one-lane roads with two-lane traffic,
+893.16	with 3,000-foot drop-offs right next to the road,
+896.16	and he was driving one of these trucks.
+898.16	But all he wanted was to just live a comfortable life, like other people.
+908.16	A 24-year-old road sweeper. I caught her on her lunch break.
+911.16	She'd built a little fire to keep warm, right next to the road.
+914.16	Her wish was to marry someone with a car.
+918.16	She wanted a change in her life.
+920.16	She lives in a little worker's camp right next to the road,
+923.16	and she wanted a different lot on things.
+933.16	An 81-year-old itinerant farmer.
+935.16	I saw this guy on the side of the road,
+937.16	and he actually doesn't have a home.
+939.16	He travels from farm to farm each day trying to find work,
+941.16	and then he tries to sleep at whatever farm he gets work at.
+945.16	So his wish was to come with me, so that he had somewhere to live.
+955.16	He had this amazing knife that he pulled out of his gho
+957.16	and started brandishing when I asked him to make a funny face.
+961.16	It was all good-natured.
+964.16	A 10-year-old.
+968.16	He wanted to join a school and learn to read,
+970.16	but his parents didn't have enough money to send him to school.
+974.16	He was eating this orange, sugary candy
+976.16	that he kept dipping his fingers into,
+978.16	and since there was so much saliva on his hands,
+980.16	this orange paste started to form on his palms.
+987.16	(Laughter)
+990.16	A 37-year-old road worker.
+993.16	One of the more touchy political subjects in Bhutan
+997.16	is the use of Indian cheap labor
+1000.16	that they import from India to build the roads,
+1003.16	and then they send these people home once the roads are built.
+1005.16	So these guys were in a worker's gang
+1007.16	mixing up asphalt one morning on the side of the highway.
+1010.16	His wish was to make some money and open a store.
+1020.16	A 75-year-old farmer. She was selling oranges on the side of the road.
+1024.16	I asked her about her wish, and she said,
+1026.16	"""You know, maybe I'll live, maybe I'll die, but I don't have a wish."""
+1034.16	She was chewing betel nut, which caused her teeth
+1037.16	over the years to turn very red.
+1039.16	Finally, this is a 26-year-old nun I spoke to.
+1045.16	Her wish was to make a pilgrimage to Tibet.
+1048.16	I asked her how long she planned to live in the nunnery and she said,
+1050.16	"""Well, you know, of course, it's impermanent,"
+1052.16	"but my plan is to live here until I'm 30, and then enter a hermitage."""
+1056.16	"And I said, ""You mean, like a cave?"" And she said, ""Yeah, like a cave."""
+1061.16	"And I said, ""Wow, and how long will you live in the cave?"""
+1064.16	"And she said, ""Well, you know,"
+1066.16	"I think I'd kind of like to live my whole life in the cave."""
+1070.16	I just thought that was amazing. I mean, she spoke in a way --
+1072.16	with amazing English, and amazing humor, and amazing laughter --
+1075.16	that made her seem like somebody I could have bumped into
+1077.16	on the streets of New York, or in Vermont, where I'm from.
+1080.16	But here she had been living in a nunnery for the last seven years.
+1083.16	I asked her a little bit more about the cave
+1086.16	and what she planned would happen once she went there, you know.
+1090.16	What if she saw the truth after just one year,
+1092.16	what would she do for the next 35 years in her life?
+1094.16	And this is what she said.
+1096.16	Woman: I think I'm going to stay for 35. Maybe -- maybe I'll die.
+1101.16	Jonathan Harris: Maybe you'll die? Woman: Yes.
+1103.16	JH: 10 years? Woman: Yes, yes. JH: 10 years, that's a long time.
+1106.16	Woman: Yes, not maybe one, 10 years, maybe I can die
+1109.16	within one year, or something like that.
+1111.16	JH: Are you hoping to?
+1113.16	Woman: Ah, because you know, it's impermanent.
+1115.16	JH: Yeah, but -- yeah, OK. Do you hope --
+1121.16	would you prefer to live in the cave for 40 years,
+1124.16	or to live for one year?
+1126.16	Woman: But I prefer for maybe 40 to 50.
+1130.16	JH: 40 to 50? Yeah.
+1131.16	Woman: Yes. From then, I'm going to the heaven.
+1134.16	JH: Well, I wish you the best of luck with it.
+1139.16	Woman: Thank you.
+1140.16	JH: I hope it's everything that you hope it will be.
+1143.16	So thank you again, so much.
+1145.16	Woman: You're most welcome.
+1147.16	JH: So if you caught that, she said she hoped to die
+1149.16	when she was around 40. That was enough life for her.
+1152.16	So, the last thing we did, very quickly,
+1154.16	is I took all those wish balloons -- there were 117 interviews,
+1161.16	which is a mountain pass in Bhutan, at 10,300 feet,
+1165.16	one of the more sacred places in Bhutan.
+1168.16	And up there, there are thousands of prayer flags
+1170.16	that people have spread out over the years.
+1172.16	And we re-inflated all of the balloons, put them up on a string,
+1175.16	and hung them up there among the prayer flags.
+1177.16	And they're actually still flying up there today.
+1179.16	So if any of you have any Bhutan travel plans in the near future,
+1182.16	you can go check these out. Here are some images from that.
+1186.16	We said a Buddhist prayer so that all these wishes could come true.
+1199.16	You can start to see some familiar balloons here.
+1202.16	"""To make some money and to open a store"" was the Indian road worker."
+1215.16	Thanks very much.
+1217.16	(Applause)

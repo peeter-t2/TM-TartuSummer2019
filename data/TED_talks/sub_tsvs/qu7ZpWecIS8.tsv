@@ -1,0 +1,322 @@
+startsecond	text
+16.26	The story starts in Kenya
+18.26	in December of 2007,
+20.26	when there was a disputed presidential election,
+22.26	and in the immediate aftermath of that election,
+25.26	there was an outbreak of ethnic violence.
+27.26	And there was a lawyer in Nairobi, Ory Okolloh --
+30.26	who some of you may know from her TEDTalk --
+32.26	who began blogging about it on her site,
+34.26	Kenyan Pundit.
+36.26	And shortly after the election and the outbreak of violence,
+39.26	the government suddenly imposed
+41.26	a significant media blackout.
+43.26	And so weblogs went from being
+45.26	commentary as part of the media landscape
+47.26	to being a critical part of the media landscape
+50.26	in trying to understand where the violence was.
+53.26	And Okolloh solicited
+55.26	from her commenters
+57.26	more information about what was going on.
+59.26	The comments began pouring in,
+61.26	and Okolloh would collate them. She would post them.
+63.26	"And she quickly said, ""It's too much."
+65.26	I could do this all day every day
+67.26	and I can't keep up.
+69.26	There is more information
+71.26	about what's going on in Kenya right now
+73.26	than any one person can manage.
+75.26	"If only there was a way to automate this."""
+77.26	And two programmers who read her blog
+79.26	"held their hands up and said, ""We could do that,"""
+82.26	and in 72 hours, they launched Ushahidi.
+85.26	"Ushahidi -- the name means ""witness"""
+87.26	"or ""testimony"" in Swahili --"
+89.26	is a very simple way of taking reports from the field,
+92.26	whether it's from the web or, critically,
+95.26	via mobile phones and SMS,
+97.26	aggregating it and putting it on a map.
+100.26	That's all it is, but that's all that's needed
+102.26	because what it does is it takes the tacit information
+105.26	available to the whole population --
+107.26	everybody knows where the violence is,
+109.26	but no one person knows what everyone knows --
+112.26	and it takes that tacit information
+114.26	and it aggregates it,
+116.26	and it maps it and it makes it public.
+118.26	And that, that maneuver
+120.26	"called ""crisis mapping,"""
+122.26	was kicked off in Kenya
+125.26	in January of 2008.
+127.26	And enough people looked at it and found it valuable enough
+130.26	that the programmers who created Ushahidi
+132.26	decided they were going to make it open source
+134.26	and turn it into a platform.
+136.26	It's since been deployed in Mexico
+138.26	to track electoral fraud.
+140.26	It's been deployed in Washington D.C. to track snow cleanup.
+143.26	And it's been used most famously in Haiti
+145.26	in the aftermath of the earthquake.
+148.26	And when you look at the map
+150.26	now posted on the Ushahidi front page,
+152.26	you can see that the number of deployments in Ushahidi
+154.26	has gone worldwide, all right?
+157.26	This went from a single idea
+159.26	and a single implementation
+161.26	in East Africa in the beginning of 2008
+164.26	to a global deployment
+166.26	in less than three years.
+169.26	Now what Okolloh did
+172.26	would not have been possible
+174.26	without digital technology.
+177.26	What Okolloh did would not have been possible
+180.26	without human generosity.
+182.26	And the interesting moment now,
+184.26	the number of environments
+186.26	where the social design challenge
+188.26	relies on both of those things being true.
+191.26	That is the resource that I'm talking about.
+194.26	I call it cognitive surplus.
+196.26	And it represents the ability
+198.26	of the world's population
+200.26	to volunteer and to contribute and collaborate
+203.26	on large, sometimes global, projects.
+206.26	Cognitive surplus is made up of two things.
+208.26	The first, obviously, is the world's free time and talents.
+211.26	The world has over
+213.26	a trillion hours a year
+216.26	of free time
+218.26	to commit to shared projects.
+220.26	Now, that free time existed in the 20th century,
+222.26	but we didn't get Ushahidi in the 20th century.
+225.26	That's the second half of cognitive surplus.
+227.26	The media landscape in the 20th century
+229.26	was very good at helping people consume,
+232.26	and we got, as a result,
+234.26	very good at consuming.
+236.26	But now that we've been given media tools --
+238.26	the Internet, mobile phones -- that let us do more than consume,
+241.26	what we're seeing is that people weren't couch potatoes
+244.26	because we liked to be.
+246.26	We were couch potatoes because that was
+248.26	the only opportunity given to us.
+250.26	We still like to consume, of course.
+252.26	But it turns out we also like to create,
+254.26	and we like to share.
+257.26	And it's those two things together --
+259.26	ancient human motivation
+261.26	and the modern tools to allow that motivation
+263.26	to be joined up in large-scale efforts --
+266.26	that are the new design resource.
+269.26	And using cognitive surplus,
+271.26	we're starting to see truly incredible experiments
+274.26	in scientific, literary,
+276.26	artistic, political efforts.
+279.26	Designing.
+281.26	We're also getting, of course, a lot of LOLcats.
+284.26	LOLcats are cute pictures of cats
+286.26	made cuter with the addition of cute captions.
+289.26	And they are also
+291.26	part of the abundant media landscape we're getting now.
+294.26	This is one of the participatory --
+296.26	one of the participatory models
+298.26	we see coming out of that, along with Ushahidi.
+301.26	Now I want to stipulate, as the lawyers say,
+303.26	that LOLcats are the stupidest possible
+305.26	creative act.
+307.26	There are other candidates of course,
+309.26	but LOLcats will do as a general case.
+312.26	But here's the thing:
+314.26	The stupidest possible creative act
+316.26	is still a creative act.
+319.26	Someone who has done something like this,
+322.26	however mediocre and throwaway,
+325.26	has tried something, has put something forward in public.
+328.26	And once they've done it, they can do it again,
+331.26	and they could work on getting it better.
+333.26	There is a spectrum between mediocre work and good work,
+336.26	and as anybody who's worked as an artist or a creator knows,
+339.26	it's a spectrum you're constantly
+341.26	struggling to get on top of.
+343.26	The gap is between
+345.26	doing anything and doing nothing.
+348.26	And someone who makes a LOLcat
+350.26	has already crossed over that gap.
+353.26	Now it's tempting to want to get the Ushahidis
+355.26	without the LOLcats, right,
+357.26	to get the serious stuff without the throwaway stuff.
+360.26	But media abundance never works that way.
+363.26	Freedom to experiment means freedom to experiment with anything.
+366.26	Even with the sacred printing press,
+368.26	we got erotic novels 150 years
+370.26	before we got scientific journals.
+374.26	So before I talk about
+377.26	what is, I think, the critical difference
+379.26	between LOLcats and Ushahidi,
+381.26	I want to talk about
+383.26	their shared source.
+385.26	And that source is design for generosity.
+388.26	It is one of the curiosities of our historical era
+391.26	that even as cognitive surplus
+393.26	is becoming a resource we can design around,
+395.26	social sciences are also starting to explain
+398.26	how important
+400.26	our intrinsic motivations are to us,
+402.26	how much we do things because we like to do them
+405.26	rather than because our boss told us to do them,
+407.26	or because we're being paid to do them.
+410.26	This is a graph from a paper
+413.26	by Uri Gneezy and Aldo Rustichini,
+415.26	who set out to test, at the beginning of this decade,
+418.26	"what they called ""deterrence theory."""
+420.26	And deterrence theory is a very simple theory of human behavior:
+422.26	If you want somebody to do less of something,
+424.26	add a punishment and they'll do less of it.
+426.26	Simple, straightforward, commonsensical --
+429.26	also, largely untested.
+431.26	And so they went and studied
+435.26	They studied those daycare centers
+437.26	at the time of highest tension,
+439.26	which is pick-up time.
+441.26	At pick-up time the teachers,
+443.26	who have been with your children all day,
+445.26	would like you to be there at the appointed hour to take your children back.
+448.26	Meanwhile, the parents -- perhaps a little busy at work, running late, running errands --
+451.26	want a little slack to pick the kids up late.
+454.26	So Gneezy and Rustichini said,
+456.26	"""How many instances of late pick-ups"
+458.26	"are there at these 10 daycare centers?"""
+460.26	Now they saw -- and this is what the graph is,
+462.26	these are the number of weeks and these are the number of late arrivals --
+465.26	that there were between six and 10
+467.26	instances of late pick-ups
+469.26	on average in these 10 daycare centers.
+471.26	So they divided the daycare centers into two groups.
+474.26	The white group there
+476.26	is the control group; they change nothing.
+479.26	But the group of daycare centers represented by the black line,
+482.26	"they said, ""We are changing this bargain"
+484.26	as of right now.
+486.26	If you pick your kid up more than 10 minutes late,
+488.26	we're going to add a 10 shekel fine to your bill.
+490.26	"Boom. No ifs, ands or buts."""
+493.26	And the minute they did that,
+495.26	the behavior in those daycare centers changed.
+497.26	Late pick-ups went up
+499.26	every week for the next four weeks
+502.26	until they topped out at triple the pre-fine average,
+505.26	and then they fluctuated
+507.26	at between double and triple the pre-fine average
+509.26	for the life of the fine.
+511.26	And you can see immediately what happened, right?
+515.26	The fine broke the culture
+517.26	of the daycare center.
+519.26	By adding a fine,
+521.26	what they did was communicate to the parents
+523.26	that their entire debt to the teachers
+525.26	had been discharged
+527.26	with the payment of 10 shekels,
+529.26	and that there was no residue of guilt or social concern
+532.26	that the parents owed the teachers.
+534.26	And so the parents, quite sensibly, said,
+536.26	"""10 shekels to pick my kid up late?"
+538.26	"What could be bad?"""
+540.26	(Laughter)
+544.26	The explanation of human behavior
+546.26	that we inherited in the 20th century
+549.26	was that we are all rational, self-maximizing actors,
+552.26	and in that explanation --
+554.26	the daycare center had no contract --
+557.26	should have been operating without any constraints.
+560.26	But that's not right.
+562.26	They were operating with social constraints
+564.26	rather than contractual ones.
+566.26	And critically, the social constraints
+568.26	created a culture that was more generous
+571.26	than the contractual constraints did.
+573.26	So Gneezy and Rustichini run this experiment for a dozen weeks --
+576.26	run the fine for a dozen weeks --
+578.26	"and then they say, ""Okay, that's it. All done; fine."""
+581.26	And then a really interesting thing happens:
+583.26	Nothing changes.
+586.26	The culture that got broken by the fine
+589.26	stayed broken when the fine was removed.
+592.26	Not only are economic motivations
+595.26	and intrinsic motivations
+597.26	incompatible,
+599.26	that incompatibility
+601.26	can persist over long periods.
+604.26	So the trick
+606.26	in designing these kinds of situations
+608.26	is to understand where you're relying on
+611.26	the economic part of the bargain -- as with the parents paying the teachers --
+614.26	and when you're relying on the social part of the bargain,
+617.26	when you're really designing for generosity.
+620.26	This brings me back to the LOLcats
+623.26	and to Ushahidi.
+625.26	This is, I think, the range that matters.
+627.26	Both of these rely on cognitive surplus.
+629.26	Both of these design for the assumption
+631.26	that people like to create and we want to share.
+634.26	Here is the critical difference between these:
+639.26	LOLcats is communal value.
+642.26	It's value created by the participants
+644.26	for each other.
+646.26	Communal value on the networks we have
+649.26	is everywhere --
+651.26	every time you see a large aggregate
+653.26	of shared, publicly available data,
+656.26	whether it's photos on Flickr
+658.26	or videos on Youtube or whatever.
+660.26	This is good. I like LOLcats as much as the next guy,
+662.26	maybe a little more even,
+664.26	but this is also
+667.26	a largely solved problem.
+669.26	I have a hard time envisioning a future
+671.26	in which someone is saying,
+673.26	"""Where, oh where, can I find a picture"
+675.26	"of a cute cat?"""
+677.26	Ushahidi, by contrast,
+679.26	is civic value.
+681.26	It's value created by the participants
+683.26	but enjoyed by society as a whole.
+685.26	The goals set out by Ushahidi
+687.26	are not just to make life better
+689.26	for the participants,
+691.26	but to make life better for everyone in the society
+694.26	in which Ushahidi is operating.
+696.26	And that kind of civic value
+699.26	is not just a side effect
+701.26	of opening up to human motivation.
+704.26	It really is going to be a side effect
+706.26	of what we, collectively,
+708.26	make of these kinds of efforts.
+711.26	There are a trillion
+713.26	hours a year
+715.26	of participatory value
+717.26	up for grabs.
+719.26	That will be true year-in and year-out.
+722.26	The number of people who are going to be able
+724.26	to participate in these kinds of projects
+726.26	is going to grow,
+728.26	and we can see that organizations
+731.26	designed around a culture of generosity
+733.26	can achieve incredible effects
+735.26	without an enormous amount of contractual overhead --
+738.26	a very different model
+740.26	than our default model for large-scale group action in the 20th century.
+744.26	What's going to make the difference here
+747.26	is what Dean Kamen said,
+750.26	the inventor and entrepreneur.
+752.26	"Kamen said, ""Free cultures get what they celebrate."""
+756.26	We've got a choice before us.
+759.26	We've got this trillion hours a year.
+761.26	We can use it to crack each other up, and we're going to do that.
+764.26	That, we get for free.
+766.26	But we can also celebrate
+768.26	and support and reward the people
+770.26	trying to use cognitive surplus
+772.26	to create civic value.
+774.26	And to the degree we're going to do that, to the degree we're able to do that,
+777.26	we'll be able to change society.
+779.26	Thank you very much.

@@ -1,0 +1,213 @@
+startsecond	text
+12.645	Ten years ago,
+13.82	computer vision researchers
+13.82	thought that getting a computer
+16.62	to tell the difference
+16.62	between a cat and a dog
+19.34	would be almost impossible,
+21.34	even with the significant advance
+21.34	in the state of artificial intelligence.
+25.06	Now we can do it at a level
+25.06	greater than 99 percent accuracy.
+29.5	This is called image classification --
+31.38	give it an image,
+31.38	put a label to that image --
+34.5	and computers know
+34.5	thousands of other categories as well.
+38.5	I'm a graduate student
+38.5	at the University of Washington,
+41.42	and I work on a project called Darknet,
+43.34	which is a neural network framework
+45.06	for training and testing
+45.06	computer vision models.
+47.9	So let's just see what Darknet thinks
+50.9	of this image that we have.
+54.34	When we run our classifier
+56.7	on this image,
+57.94	we see we don't just get
+57.94	a prediction of dog or cat,
+60.42	we actually get
+60.42	specific breed predictions.
+62.78	That's the level
+62.78	of granularity we have now.
+64.98	And it's correct.
+66.62	My dog is in fact a malamute.
+68.86	So we've made amazing strides
+68.86	in image classification,
+73.22	but what happens
+73.22	when we run our classifier
+75.244	on an image that looks like this?
+78.9	Well ...
+84.46	We see that the classifier comes back
+84.46	with a pretty similar prediction.
+88.38	And it's correct,
+88.38	there is a malamute in the image,
+91.5	but just given this label,
+91.5	we don't actually know that much
+95.22	about what's going on in the image.
+96.911	We need something more powerful.
+99.06	I work on a problem
+99.06	called object detection,
+101.7	where we look at an image
+101.7	and try to find all of the objects,
+104.66	put bounding boxes around them
+106.14	and say what those objects are.
+108.22	So here's what happens
+108.22	when we run a detector on this image.
+113.06	Now, with this kind of result,
+115.34	we can do a lot more
+115.34	with our computer vision algorithms.
+118.06	We see that it knows
+118.06	that there's a cat and a dog.
+121.06	It knows their relative locations,
+123.34	their size.
+124.58	It may even know some extra information.
+126.54	There's a book sitting in the background.
+129.1	And if you want to build a system
+129.1	on top of computer vision,
+132.38	say a self-driving vehicle
+132.38	or a robotic system,
+135.86	this is the kind
+135.86	of information that you want.
+138.34	You want something so that
+138.34	you can interact with the physical world.
+142.579	Now, when I started working
+142.579	on object detection,
+144.86	it took 20 seconds
+144.86	to process a single image.
+148.18	And to get a feel for why
+148.18	speed is so important in this domain,
+152.94	here's an example of an object detector
+155.5	that takes two seconds
+155.5	to process an image.
+157.94	So this is 10 times faster
+160.58	than the 20-seconds-per-image detector,
+164.14	and you can see that by the time
+164.14	it makes predictions,
+166.82	the entire state of the world has changed,
+169.7	and this wouldn't be very useful
+172.14	for an application.
+173.58	If we speed this up
+173.58	by another factor of 10,
+176.1	this is a detector running
+176.1	at five frames per second.
+178.94	This is a lot better,
+180.5	but for example,
+182.5	if there's any significant movement,
+184.82	I wouldn't want a system
+184.82	like this driving my car.
+188.94	This is our detection system
+188.94	running in real time on my laptop.
+192.82	So it smoothly tracks me
+192.82	as I move around the frame,
+195.98	and it's robust to a wide variety
+195.98	of changes in size,
+201.26	pose,
+203.1	forward, backward.
+204.98	This is great.
+206.22	This is what we really need
+207.98	if we're going to build systems
+207.98	on top of computer vision.
+210.9	(Applause)
+216.1	So in just a few years,
+218.3	we've gone from 20 seconds per image
+220.98	to 20 milliseconds per image,
+220.98	a thousand times faster.
+224.54	How did we get there?
+225.98	Well, in the past,
+225.98	object detection systems
+229.02	would take an image like this
+230.98	and split it into a bunch of regions
+233.46	and then run a classifier
+233.46	on each of these regions,
+236.74	and high scores for that classifier
+239.3	would be considered
+239.3	detections in the image.
+242.46	But this involved running a classifier
+242.46	thousands of times over an image,
+246.54	thousands of neural network evaluations
+246.54	to produce detection.
+251.06	Instead, we trained a single network
+251.06	to do all of detection for us.
+255.62	It produces all of the bounding boxes
+255.62	and class probabilities simultaneously.
+260.5	With our system, instead of looking
+260.5	at an image thousands of times
+264.02	to produce detection,
+265.5	you only look once,
+266.78	and that's why we call it
+266.78	the YOLO method of object detection.
+271.18	So with this speed,
+271.18	we're not just limited to images;
+275.18	we can process video in real time.
+277.62	And now, instead of just seeing
+277.62	that cat and dog,
+280.74	we can see them move around
+280.74	and interact with each other.
+286.38	This is a detector that we trained
+288.46	on 80 different classes
+292.86	in Microsoft's COCO dataset.
+296.14	It has all sorts of things
+296.14	like spoon and fork, bowl,
+299.5	common objects like that.
+302.18	It has a variety of more exotic things:
+305.3	animals, cars, zebras, giraffes.
+308.58	And now we're going to do something fun.
+310.54	We're just going to go
+310.54	out into the audience
+312.66	and see what kind of things we can detect.
+314.7	Does anyone want a stuffed animal?
+317.82	There are some teddy bears out there.
+321.86	And we can turn down
+321.86	our threshold for detection a little bit,
+326.42	so we can find more of you guys
+326.42	out in the audience.
+331.38	Let's see if we can get these stop signs.
+333.74	We find some backpacks.
+337.7	Let's just zoom in a little bit.
+342.14	And this is great.
+343.42	And all of the processing
+343.42	is happening in real time
+346.62	on the laptop.
+348.9	And it's important to remember
+350.38	that this is a general purpose
+350.38	object detection system,
+353.62	so we can train this for any image domain.
+360.14	The same code that we use
+362.7	to find stop signs or pedestrians,
+365.18	bicycles in a self-driving vehicle,
+367.18	can be used to find cancer cells
+370.06	in a tissue biopsy.
+373.1	And there are researchers around the globe
+373.1	already using this technology
+378.06	for advances in things
+378.06	like medicine, robotics.
+381.5	This morning, I read a paper
+382.9	where they were taking a census
+382.9	of animals in Nairobi National Park
+387.5	with YOLO as part
+387.5	of this detection system.
+390.66	And that's because Darknet is open source
+393.78	and in the public domain,
+393.78	free for anyone to use.
+397.42	(Applause)
+403.14	But we wanted to make detection
+403.14	even more accessible and usable,
+408.1	so through a combination
+408.1	of model optimization,
+412.18	network binarization and approximation,
+414.5	we actually have object detection
+414.5	running on a phone.
+424.62	(Applause)
+430.78	And I'm really excited because
+430.78	now we have a pretty powerful solution
+435.86	to this low-level computer vision problem,
+438.18	and anyone can take it
+438.18	and build something with it.
+442.06	So now the rest is up to all of you
+445.26	and people around the world
+445.26	with access to this software,
+448.22	and I can't wait to see what people
+448.22	will build with this technology.
+451.9	Thank you.
+453.14	(Applause)

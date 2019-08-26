@@ -1,0 +1,361 @@
+startsecond	text
+13.099	I study ants
+14.718	in the desert, in the tropical forest
+18.015	and in my kitchen,
+19.543	and in the hills around Silicon Valley where I live.
+23.563	I've recently realized that ants
+25.239	are using interactions differently
+27.517	in different environments,
+29.345	and that got me thinking
+29.345	that we could learn from this
+31.345	about other systems,
+32.9	like brains and data networks that we engineer,
+38.488	and even cancer.
+41.334	So what all these systems have in common
+43.086	is that there's no central control.
+45.943	An ant colony consists of sterile female workers --
+49.763	those are the ants you see walking around —
+52.149	and then one or more reproductive females
+54.305	who just lay the eggs.
+56.408	They don't give any instructions.
+58.417	Even though they're called queens,
+60.401	they don't tell anybody what to do.
+62.566	So in an ant colony, there's no one in charge,
+65.842	and all systems like this without central control
+68.62	are regulated using very simple interactions.
+72.549	Ants interact using smell.
+75.276	They smell with their antennae,
+77.463	and they interact with their antennae,
+80.224	so when one ant touches another with its antennae,
+83.233	it can tell, for example, if the other ant
+84.84	is a nestmate
+86.474	and what task that other ant has been doing.
+90.71	So here you see a lot of ants moving around
+93.91	and interacting in a lab arena
+95.843	that's connected by tubes to two other arenas.
+99.281	So when one ant meets another,
+101.785	it doesn't matter which ant it meets,
+103.874	and they're actually not transmitting
+105.759	any kind of complicated signal or message.
+109.224	All that matters to the ant is the rate
+111.335	at which it meets other ants.
+114.156	And all of these interactions, taken together,
+116.913	produce a network.
+119.418	So this is the network of the ants
+121.628	that you just saw moving around in the arena,
+124.272	and it's this constantly shifting network
+127.559	that produces the behavior of the colony,
+130.079	like whether all the ants are hiding inside the nest,
+132.96	or how many are going out to forage.
+135.654	A brain actually works in the same way,
+137.413	but what's great about ants is
+138.913	that you can see the whole network as it happens.
+143.78	There are more than 12,000 species of ants,
+146.88	in every conceivable environment,
+149.005	and they're using interactions differently
+151.654	to meet different environmental challenges.
+154.422	So one important environmental challenge
+156.727	that every system has to deal with
+158.597	is operating costs, just what it takes
+160.68	to run the system.
+162.945	And another environmental challenge is resources,
+165.493	finding them and collecting them.
+167.829	In the desert, operating costs are high
+170.612	because water is scarce,
+172.385	and the seed-eating ants that I study in the desert
+174.884	have to spend water to get water.
+177.784	So an ant outside foraging,
+179.923	searching for seeds in the hot sun,
+181.96	just loses water into the air.
+183.967	But the colony gets its water
+185.631	by metabolizing the fats out of the seeds
+187.397	that they eat.
+189.331	So in this environment, interactions are used
+192.49	to activate foraging.
+194.039	An outgoing forager doesn't go out unless
+196.303	it gets enough interactions with returning foragers,
+198.876	and what you see are the returning foragers
+200.866	going into the tunnel, into the nest,
+202.69	and meeting outgoing foragers on their way out.
+205.326	This makes sense for the ant colony,
+206.949	because the more food there is out there,
+209.272	the more quickly the foragers find it,
+211.123	the faster they come back,
+212.359	and the more foragers they send out.
+215.16	The system works to stay stopped,
+217.667	unless something positive happens.
+219.682	So interactions function to activate foragers.
+223.563	And we've been studying
+223.563	the evolution of this system.
+226.47	First of all, there's variation.
+227.561	It turns out that colonies are different.
+230.04	On dry days, some colonies forage less,
+232.736	so colonies are different in how
+234.241	they manage this trade-off
+235.595	between spending water to search for seeds
+238.763	and getting water back in the form of seeds.
+242.083	And we're trying to understand why
+243.802	some colonies forage less than others
+245.942	by thinking about ants as neurons,
+248.267	using models from neuroscience.
+250.605	So just as a neuron adds up its stimulation
+253.279	from other neurons to decide whether to fire,
+255.285	an ant adds up its stimulation from other ants
+258.17	to decide whether to forage.
+260.193	And what we're looking for is whether there might be
+261.83	small differences among colonies
+263.822	in how many interactions each ant needs
+267.136	before it's willing to go out and forage,
+269.062	because a colony like that would forage less.
+272.829	And this raises an analogous question about brains.
+275.968	We talk about the brain,
+277.38	but of course every brain is slightly different,
+280.27	and maybe there are some individuals
+281.649	or some conditions
+282.968	in which the electrical properties of neurons are such
+286.19	that they require more stimulus to fire,
+290.06	and that would lead to differences in brain function.
+293.786	So in order to ask evolutionary questions,
+296.12	we need to know about reproductive success.
+298.799	This is a map of the study site
+301.124	where I have been tracking this population
+303.677	of harvester ant colonies for 28 years,
+306.97	which is about as long as a colony lives.
+309.232	Each symbol is a colony,
+311.331	and the size of the symbol is
+311.331	how many offspring it had,
+314.597	because we were able to use genetic variation
+316.51	to match up parent and offspring colonies,
+319.221	that is, to figure out which colonies
+322.518	were founded by a daughter queen
+324.443	produced by which parent colony.
+326.511	And this was amazing for me, after all these years,
+328.513	to find out, for example, that colony 154,
+331.641	whom I've known well for many years,
+333.817	is a great-grandmother.
+335.636	Here's her daughter colony,
+337.376	here's her granddaughter colony,
+340.06	and these are her great-granddaughter colonies.
+342.452	And by doing this, I was able to learn
+344.477	that offspring colonies resemble parent colonies
+347.76	in their decisions about which days are so hot
+349.977	that they don't forage,
+351.755	and the offspring of parent colonies
+353.219	live so far from each other that the ants never meet,
+356.125	so the ants of the offspring colony
+358.414	can't be learning this from the parent colony.
+360.658	And so our next step is to look
+362.039	for the genetic variation
+362.039	underlying this resemblance.
+367.315	So then I was able to ask, okay, who's doing better?
+371.44	Over the time of the study,
+372.9	and especially in the past 10 years,
+374.365	there's been a very severe and deepening drought
+377.673	in the Southwestern U.S.,
+379.8	and it turns out that the
+379.8	colonies that conserve water,
+382.853	that stay in when it's really hot outside,
+387.282	and thus sacrifice getting as much food as possible,
+389.914	are the ones more likely to have offspring colonies.
+392.859	So all this time, I thought that colony 154
+395.128	was a loser, because on really dry days,
+397.798	there'd be just this trickle of foraging,
+399.666	while the other colonies were out
+401.257	foraging, getting lots of food,
+403.374	but in fact, colony 154 is a huge success.
+406.394	She's a matriarch.
+407.726	She's one of the rare great-grandmothers on the site.
+410.778	To my knowledge, this is the first time
+413.563	that we've been able to track
+415.202	the ongoing evolution of collective behavior
+418.203	in a natural population of animals
+420.32	and find out what's actually working best.
+424.977	Now, the Internet uses an algorithm
+427.398	to regulate the flow of data
+430.251	that's very similar to the one
+432.478	that the harvester ants are using to regulate
+434.854	the flow of foragers.
+436.395	And guess what we call this analogy?
+439.761	The anternet is coming.
+441.279	(Applause)
+443	So data doesn't leave the source computer
+446.454	unless it gets a signal that there's enough bandwidth
+449.315	for it to travel on.
+452.044	In the early days of the Internet,
+453.485	when operating costs were really high
+455.759	and it was really important not to lose any data,
+458.986	then the system was set up for interactions
+461.143	to activate the flow of data.
+464.205	It's interesting that the ants are using an algorithm
+466.59	that's so similar to the one that we recently invented,
+470.486	but this is only one of a handful of ant algorithms
+473.439	that we know about,
+474.858	and ants have had 130 million years
+478.051	to evolve a lot of good ones,
+480.077	and I think it's very likely
+481.583	that some of the other 12,000 species
+484.14	are going to have interesting algorithms
+486.837	for data networks
+487.861	that we haven't even thought of yet.
+490.558	So what happens when operating costs are low?
+493.643	Operating costs are low in the tropics,
+495.43	because it's very humid, and it's easy for the ants
+497.526	to be outside walking around.
+500.35	But the ants are so abundant
+502.003	and diverse in the tropics
+503.821	that there's a lot of competition.
+506.419	Whatever resource one species is using,
+508.371	another species is likely to be using that
+511.543	at the same time.
+513.922	So in this environment, interactions are used
+516.53	in the opposite way.
+518.475	The system keeps going
+519.87	unless something negative happens,
+521.424	and one species that I study makes circuits
+523.591	in the trees of foraging ants
+525.75	going from the nest to a food source and back,
+528.731	just round and round,
+530.06	unless something negative happens,
+531.502	like an interaction
+533.111	with ants of another species.
+535.85	So here's an example of ant security.
+538.787	In the middle, there's an ant
+540.645	plugging the nest entrance with its head
+543.108	in response to interactions with another species.
+546.101	Those are the little ones running around
+547.76	with their abdomens up in the air.
+550.511	But as soon as the threat is passed,
+552.557	the entrance is open again,
+555.312	and maybe there are situations
+557.102	in computer security
+558.191	where operating costs are low enough
+560.397	that we could just block access temporarily
+563.772	in response to an immediate threat,
+565.965	and then open it again,
+567.991	instead of trying to build
+569.26	a permanent firewall or fortress.
+573.24	So another environmental challenge
+575.18	that all systems have to deal with
+576.875	is resources, finding and collecting them.
+582.327	And to do this, ants solve the problem
+584	of collective search,
+585.258	and this is a problem that's of great interest
+586.834	right now in robotics,
+588.318	because we've understood that,
+590.05	rather than sending a single,
+591.664	sophisticated, expensive robot out
+595.159	to explore another planet
+596.576	or to search a burning building,
+599.143	that instead, it may be more effective
+601.743	to get a group of cheaper robots
+606.12	exchanging only minimal information,
+608.665	and that's the way that ants do it.
+611.464	So the invasive Argentine ant
+613.229	makes expandable search networks.
+615.559	They're good at dealing with the main problem
+617.832	of collective search,
+619.163	which is the trade-off between
+621.729	searching very thoroughly
+623.065	and covering a lot of ground.
+625.062	And what they do is,
+625.957	when there are many ants in a small space,
+628.344	then each one can search very thoroughly
+630.557	because there will be another ant nearby
+632.181	searching over there,
+633.538	but when there are a few ants
+635.185	in a large space,
+637.24	then they need to stretch out their paths
+639.654	to cover more ground.
+641.457	I think they use interactions to assess density,
+644.411	so when they're really crowded,
+645.64	they meet more often,
+646.742	and they search more thoroughly.
+649.207	Different ant species must use different algorithms,
+652.607	because they've evolved to deal with
+655.129	different resources,
+656.8	and it could be really useful to know about this,
+659.359	and so we recently asked ants
+661.001	to solve the collective search problem
+663.451	in the extreme environment
+664.819	of microgravity
+666.377	in the International Space Station.
+668.353	When I first saw this picture, I thought,
+669.898	Oh no, they've mounted the habitat vertically,
+672.755	but then I realized that, of course, it doesn't matter.
+675.373	So the idea here is that the ants
+678.01	are working so hard to hang on
+679.98	to the wall or the floor or whatever you call it
+683.037	that they're less likely to interact,
+686.046	and so the relationship between
+687.29	how crowded they are and how often they meet
+689.41	would be messed up.
+691.135	We're still analyzing the data.
+692.53	I don't have the results yet.
+694.494	But it would be interesting to know
+696.188	how other species solve this problem
+698.647	in different environments on Earth,
+701.211	and so we're setting up a program
+702.477	to encourage kids around the world
+704.637	to try this experiment with different species.
+707.173	It's very simple.
+708.94	It can be done with cheap materials.
+711.03	And that way, we could make a global map
+713.863	of ant collective search algorithms.
+717.21	And I think it's pretty likely that the invasive species,
+719.693	the ones that come into our buildings,
+721.842	are going to be really good at this,
+723.584	because they're in your kitchen
+725.432	because they're really good
+725.432	at finding food and water.
+729.339	So the most familiar resource for ants
+732.604	is a picnic,
+733.919	and this is a clustered resource.
+736.064	When there's one piece of fruit,
+737.063	there's likely to be another piece of fruit nearby,
+739.578	and the ants that specialize on clustered resources
+743.01	use interactions for recruitment.
+744.952	So when one ant meets another,
+746.229	or when it meets a chemical deposited
+747.854	on the ground by another,
+749.59	then it changes direction to follow
+751.423	in the direction of the interaction,
+752.996	and that's how you get the trail of ants
+754.973	sharing your picnic.
+756.386	Now this is a place where I think we might be able
+758.081	to learn something from ants about cancer.
+761.822	I mean, first, it's obvious that we could do a lot
+763.803	to prevent cancer
+765.413	by not allowing people to spread around
+767.99	or sell the toxins that promote
+769.934	the evolution of cancer in our bodies,
+772.714	but I don't think the ants can help us much with this
+775.06	because ants never poison their own colonies.
+778.418	But we might be able to learn something from ants
+779.75	about treating cancer.
+781.513	There are many different kinds of cancer.
+783.738	Each one originates in a particular part of the body,
+786.716	and then some kinds of cancer will spread
+789.682	or metastasize to particular other tissues
+792.512	where they must be getting
+792.512	resources that they need.
+795.392	So if you think from the perspective
+797.2	of early metastatic cancer cells
+799.15	as they're out searching around
+800.773	for the resources that they need,
+803.09	if those resources are clustered,
+805.073	they're likely to use interactions for recruitment,
+808.086	and if we can figure out how
+808.086	cancer cells are recruiting,
+811.179	then maybe we could set traps
+813.526	to catch them before they become established.
+817.575	So ants are using interactions in different ways
+820.81	in a huge variety of environments,
+823.412	and we could learn from this
+825.233	about other systems that operate
+827.01	without central control.
+829.347	Using only simple interactions,
+831.326	ant colonies have been performing
+833.121	amazing feats for more than 130 million years.
+836.754	We have a lot to learn from them.
+838.894	Thank you.
+841.632	(Applause)

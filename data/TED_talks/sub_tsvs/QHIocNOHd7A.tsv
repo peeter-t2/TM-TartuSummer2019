@@ -1,0 +1,425 @@
+startsecond	text
+16.26	We're here today to announce
+18.26	the first synthetic cell,
+21.26	a cell made by
+23.26	starting with the digital code in the computer,
+26.26	building the chromosome
+29.26	from four bottles of chemicals,
+32.26	assembling that chromosome in yeast,
+34.26	transplanting it into
+37.26	a recipient bacterial cell
+39.26	and transforming that cell
+41.26	into a new bacterial species.
+44.26	So this is the first self-replicating species
+47.26	that we've had on the planet
+49.26	whose parent is a computer.
+52.26	It also is the first species
+54.26	to have its own website
+56.26	encoded in its genetic code.
+59.26	But we'll talk more about
+61.26	the watermarks in a minute.
+64.26	This is a project that had its inception
+68.26	when our team then --
+70.26	we called the institute TIGR --
+72.26	was involved in sequencing
+74.26	the first two genomes in history.
+76.26	We did Haemophilus influenzae
+78.26	and then the smallest genome of a self-replicating organism,
+81.26	that of Mycoplasma genitalium.
+84.26	And as soon as
+86.26	we had these two sequences
+88.26	we thought, if this is supposed to be the smallest genome
+91.26	of a self-replicating species,
+93.26	could there be even a smaller genome?
+95.26	Could we understand the basis of cellular life
+98.26	at the genetic level?
+100.26	It's been a 15-year quest
+102.26	just to get to the starting point now
+104.26	to be able to answer those questions,
+107.26	because it's very difficult to eliminate
+109.26	multiple genes from a cell.
+111.26	You can only do them one at a time.
+114.26	We decided early on
+116.26	that we had to take a synthetic route,
+118.26	even though nobody had been there before,
+120.26	to see if we could synthesize
+122.26	a bacterial chromosome
+124.26	so we could actually vary the gene content
+126.26	to understand the essential genes for life.
+129.26	That started our 15-year quest
+132.26	to get here.
+134.26	But before we did the first experiments,
+136.26	we actually asked
+139.26	Art Caplan's team at the University of Pennsylvania
+142.26	to undertake a review
+144.26	of what the risks, the challenges,
+147.26	the ethics around creating new
+149.26	species in the laboratory were
+151.26	because it hadn't been done before.
+153.26	They spent about two years
+155.26	reviewing that independently
+157.26	and published their results in Science in 1999.
+160.26	Ham and I took two years off
+162.26	as a side project to sequence the human genome,
+164.26	but as soon as that was done
+166.26	we got back to the task at hand.
+170.26	In 2002, we started
+172.26	a new institute,
+174.26	the Institute for Biological Energy Alternatives,
+177.26	where we set out two goals:
+179.26	One, to understand
+181.26	the impact of our technology on the environment,
+184.26	and how to understand the environment better,
+186.26	and two, to start down this process
+188.26	of making synthetic life
+191.26	to understand basic life.
+194.26	In 2003,
+196.26	we published our first success.
+198.26	So Ham Smith and Clyde Hutchison
+200.26	developed some new methods
+202.26	for making error-free DNA
+205.26	at a small level.
+207.26	Our first task was
+209.26	a 5,000-letter code bacteriophage,
+212.26	a virus that attacks only E. coli.
+216.26	So that was
+218.26	the phage phi X 174,
+220.26	which was chosen for historical reasons.
+222.26	It was the first DNA phage,
+225.26	DNA virus, DNA genome
+228.26	that was actually sequenced.
+230.26	So once we realized
+233.26	that we could make 5,000-base pair
+235.26	viral-sized pieces,
+237.26	we thought, we at least have the means
+239.26	then to try and make serially lots of these pieces
+242.26	to be able to eventually assemble them together
+245.26	to make this mega base chromosome.
+249.26	So, substantially larger than
+251.26	we even thought we would go initially.
+255.26	There were several steps to this. There were two sides:
+258.26	We had to solve the chemistry
+260.26	for making large DNA molecules,
+262.26	and we had to solve the biological side
+264.26	of how, if we had this new chemical entity,
+267.26	how would we boot it up, activate it
+270.26	in a recipient cell.
+273.26	We had two teams working in parallel:
+275.26	one team on the chemistry,
+277.26	and the other on trying to
+280.26	be able to transplant
+282.26	entire chromosomes
+284.26	to get new cells.
+287.26	When we started this out, we thought the synthesis would be the biggest problem,
+290.26	which is why we chose the smallest genome.
+293.26	And some of you have noticed that we switched from the smallest genome
+296.26	to a much larger one.
+298.26	And we can walk through the reasons for that,
+300.26	but basically the small cell
+303.26	took on the order of
+305.26	one to two months to get results from,
+308.26	whereas the larger, faster-growing cell
+310.26	takes only two days.
+312.26	So there's only so many cycles we could go through
+315.26	in a year at six weeks per cycle.
+318.26	And you should know that basically
+323.26	of our experiments failed.
+325.26	So this was a debugging,
+327.26	problem-solving scenario from the beginning
+330.26	because there was no recipe
+332.26	of how to get there.
+334.26	So, one of the most important publications we had
+337.26	was in 2007.
+339.26	Carole Lartigue led the effort
+342.26	to actually transplant a bacterial chromosome
+345.26	from one bacteria to another.
+347.26	I think philosophically, that was one of the most important papers
+350.26	that we've ever done
+352.26	because it showed how dynamic life was.
+355.26	And we knew, once that worked,
+357.26	that we actually had a chance
+359.26	if we could make the synthetic chromosomes
+361.26	to do the same with those.
+364.26	We didn't know that it was going to take us
+366.26	several years more to get there.
+368.26	In 2008,
+370.26	we reported the complete synthesis
+372.26	of the Mycoplasma genitalium genome,
+375.26	a little over 500,000 letters of genetic code,
+379.26	but we have not yet succeeded in booting up that chromosome.
+382.26	We think in part, because of its slow growth
+386.26	and, in part,
+388.26	cells have all kinds of unique defense mechanisms
+391.26	to keep these events from happening.
+393.26	It turned out the cell that we were trying to transplant into
+396.26	had a nuclease, an enzyme that chews up DNA on its surface,
+399.26	and was happy to eat
+401.26	the synthetic DNA that we gave it
+403.26	and never got transplantations.
+406.26	But at the time, that was the largest
+408.26	molecule of a defined structure
+410.26	that had been made.
+412.26	And so both sides were progressing,
+414.26	but part of the synthesis
+416.26	had to be accomplished or was able to be accomplished
+419.26	using yeast, putting the fragments in yeast
+422.26	and yeast would assemble these for us.
+424.26	It's an amazing step forward,
+427.26	but we had a problem because now we had
+429.26	the bacterial chromosomes growing in yeast.
+432.26	So in addition to doing the transplant,
+435.26	we had to find out how to get a bacterial chromosome
+437.26	out of the eukaryotic yeast
+439.26	into a form where we could transplant it
+441.26	into a recipient cell.
+445.26	So our team developed new techniques
+448.26	for actually growing, cloning
+450.26	entire bacterial chromosomes in yeast.
+452.26	So we took the same mycoides genome
+455.26	that Carole had initially transplanted,
+457.26	and we grew that in yeast
+459.26	as an artificial chromosome.
+462.26	And we thought this would be a great test bed
+464.26	for learning how to get chromosomes out of yeast
+466.26	and transplant them.
+468.26	When we did these experiments, though,
+470.26	we could get the chromosome out of yeast
+472.26	but it wouldn't transplant and boot up a cell.
+476.26	That little issue took the team two years to solve.
+479.26	It turns out, the DNA in the bacterial cell
+482.26	was actually methylated,
+484.26	and the methylation protects it from the restriction enzyme,
+488.26	from digesting the DNA.
+491.26	So what we found is if we took the chromosome
+493.26	out of yeast and methylated it,
+495.26	we could then transplant it.
+497.26	Further advances came
+499.26	when the team removed the restriction enzyme genes
+502.26	from the recipient capricolum cell.
+505.26	And once we had done that, now we can take
+507.26	naked DNA out of yeast and transplant it.
+510.26	So last fall
+512.26	when we published the results of that work in Science,
+515.26	we all became overconfident
+517.26	and were sure we were only
+519.26	a few weeks away
+521.26	from being able to now boot up
+523.26	a chromosome out of yeast.
+526.26	Because of the problems with
+528.26	Mycoplasma genitalium and its slow growth
+531.26	about a year and a half ago,
+534.26	we decided to synthesize
+537.26	the much larger chromosome, the mycoides chromosome,
+540.26	knowing that we had the biology worked out on that
+543.26	for transplantation.
+545.26	And Dan led the team for the synthesis
+547.26	of this over one-million-base pair chromosome.
+552.26	But it turned out it wasn't going to be as simple in the end,
+555.26	and it set us back three months
+557.26	because we had one error
+559.26	out of over a million base pairs in that sequence.
+562.26	So the team developed new debugging software,
+565.26	where we could test each synthetic fragment
+568.26	to see if it would grow in a background
+570.26	of wild type DNA.
+573.26	And we found that 10 out of the 11
+579.26	were completely accurate
+581.26	and compatible with
+583.26	a life-forming sequence.
+587.26	We narrowed it down to one fragment;
+589.26	we sequenced it
+591.26	and found just one base pair had been deleted
+593.26	in an essential gene.
+595.26	So accuracy is essential.
+598.26	There's parts of the genome
+600.26	where it cannot tolerate even a single error,
+603.26	and then there's parts of the genome
+605.26	where we can put in large blocks of DNA,
+607.26	as we did with the watermarks,
+609.26	and it can tolerate all kinds of errors.
+612.26	So it took about three months to find that error
+615.26	and repair it.
+617.26	And then early one morning, at 6 a.m.
+620.26	we got a text from Dan
+623.26	saying that, now, the first blue colonies existed.
+626.26	So, it's been a long route to get here:
+632.26	We felt
+634.26	one of the tenets of this field
+636.26	was to make absolutely certain
+639.26	we could distinguish synthetic DNA
+642.26	from natural DNA.
+644.26	Early on, when you're working in a new area of science,
+647.26	you have to think about all the pitfalls
+650.26	and things that could lead you
+652.26	to believe that you had done something when you hadn't,
+655.26	and, even worse, leading others to believe it.
+658.26	So, we thought the worst problem would be
+660.26	a single molecule contamination
+663.26	of the native chromosome,
+665.26	leading us to believe that we actually had
+668.26	created a synthetic cell,
+670.26	when it would have been just a contaminant.
+672.26	So early on, we developed the notion
+674.26	of putting in watermarks in the DNA
+676.26	to absolutely make clear
+678.26	that the DNA was synthetic.
+681.26	And the first chromosome we built
+684.26	in 2008 --
+686.26	the 500,000-base pair one --
+688.26	we simply assigned
+691.26	the names of the authors of the chromosome
+694.26	into the genetic code,
+697.26	but it was using just amino acid
+699.26	single letter translations,
+701.26	which leaves out certain letters of the alphabet.
+705.26	So the team actually developed a new code
+708.26	within the code within the code.
+711.26	So it's a new code
+713.26	for interpreting and writing messages in DNA.
+716.26	Now, mathematicians have been hiding and writing
+719.26	messages in the genetic code for a long time,
+722.26	but it's clear they were mathematicians and not biologists
+725.26	because, if you write long messages
+728.26	with the code that the mathematicians developed,
+731.26	it would more than likely lead to
+733.26	new proteins being synthesized
+736.26	with unknown functions.
+739.26	So the code that Mike Montague and the team developed
+742.26	actually puts frequent stop codons,
+744.26	so it's a different alphabet
+747.26	but allows us to use
+749.26	the entire English alphabet
+752.26	with punctuation and numbers.
+754.26	So, there are four major watermarks
+756.26	all over 1,000 base pairs of genetic code.
+759.26	The first one actually contains within it
+762.26	this code for interpreting
+765.26	the rest of the genetic code.
+769.26	So in the remaining information,
+771.26	in the watermarks,
+773.26	contain the names of, I think it's
+778.26	and key contributors
+780.26	to getting the project to this stage.
+784.26	And we also built in
+786.26	a website address
+789.26	so that if somebody decodes the code
+791.26	within the code within the code,
+793.26	they can send an email to that address.
+795.26	So it's clearly distinguishable
+798.26	from any other species,
+800.26	having 46 names in it,
+803.26	its own web address.
+807.26	And we added three quotations,
+810.26	because with the first genome
+812.26	we were criticized for not trying to say something more profound
+815.26	than just signing the work.
+817.26	So we won't give the rest of the code,
+819.26	but we will give the three quotations.
+821.26	The first is,
+823.26	"""To live, to err,"
+825.26	to fall, to triumph
+827.26	"and to recreate life out of life."""
+829.26	It's a James Joyce quote.
+833.26	"The second quotation is, ""See things not as they are,"
+836.26	"but as they might be."""
+838.26	"It's a quote from the ""American Prometheus"""
+841.26	book on Robert Oppenheimer.
+843.26	And the last one is a Richard Feynman quote:
+846.26	"""What I cannot build,"
+848.26	"I cannot understand."""
+853.26	So, because this is as much a philosophical advance
+856.26	as a technical advance in science,
+859.26	we tried to deal with both the philosophical
+862.26	and the technical side.
+864.26	The last thing I want to say before turning it over to questions
+866.26	is that the extensive work
+869.26	that we've done --
+871.26	asking for ethical review,
+873.26	pushing the envelope
+875.26	on that side as well as the technical side --
+878.26	this has been broadly discussed in the scientific community,
+881.26	in the policy community
+883.26	and at the highest levels of the federal government.
+886.26	Even with this announcement,
+889.26	as we did in 2003 --
+891.26	that work was funded by the Department of Energy,
+894.26	so the work was reviewed
+896.26	at the level of the White House,
+898.26	trying to decide whether to classify the work or publish it.
+901.26	And they came down on the side of open publication,
+904.26	which is the right approach --
+907.26	we've briefed the White House,
+909.26	we've briefed members of Congress,
+912.26	we've tried to take and push
+914.26	the policy issues
+916.26	in parallel with the scientific advances.
+920.26	So with that, I would like
+922.26	to open it first to the floor for questions.
+925.26	Yes, in the back.
+927.26	Reporter: Could you explain, in layman's terms,
+929.26	how significant a breakthrough this is please?
+933.26	Craig Venter: Can we explain how significant this is?
+935.26	I'm not sure we're the ones that should be explaining how significant it is.
+938.26	It's significant to us.
+941.26	Perhaps it's a giant philosophical change
+944.26	in how we view life.
+946.26	We actually view it as a baby step in terms of,
+949.26	it's taken us 15 years to be able
+951.26	to do the experiment
+953.26	we wanted to do 15 years ago
+955.26	on understanding life at its basic level.
+958.26	But we actually believe
+960.26	this is going to be a very powerful set of tools
+964.26	and we're already starting
+966.26	in numerous avenues
+968.26	to use this tool.
+970.26	We have, at the Institute,
+972.26	ongoing funding now from NIH
+975.26	in a program with Novartis
+977.26	to try and use these new
+979.26	synthetic DNA tools
+981.26	to perhaps make the flu vaccine
+984.26	that you might get next year.
+987.26	Because instead of taking weeks to months to make these,
+990.26	Dan's team can now make these
+993.26	in less than 24 hours.
+996.26	So when you see how long it took to get an H1N1 vaccine out,
+999.26	we think we can shorten that process
+1001.26	quite substantially.
+1003.26	In the vaccine area,
+1005.26	Synthetic Genomics and the Institute
+1007.26	are forming a new vaccine company
+1009.26	because we think these tools can affect vaccines
+1012.26	to diseases that haven't been possible to date,
+1015.26	things where the viruses rapidly evolve,
+1018.26	such with rhinovirus.
+1020.26	Wouldn't it be nice to have something that actually blocked common colds?
+1023.26	Or, more importantly, HIV,
+1026.26	where the virus evolves so quickly
+1028.26	the vaccines that are made today
+1030.26	can't keep up
+1032.26	with those evolutionary changes.
+1035.26	Also, at Synthetic Genomics,
+1037.26	we've been working
+1039.26	on major environmental issues.
+1041.26	I think this latest oil spill in the Gulf
+1043.26	is a reminder.
+1045.26	We can't see CO2 --
+1047.26	we depend on scientific measurements for it
+1049.26	and we see the beginning results
+1051.26	of having too much of it --
+1053.26	but we can see pre-CO2 now
+1055.26	floating on the waters
+1057.26	and contaminating the beaches in the Gulf.
+1060.26	We need some alternatives
+1063.26	for oil.
+1065.26	We have a program with Exxon Mobile
+1067.26	to try and develop new strains of algae
+1070.26	that can efficiently capture carbon dioxide
+1073.26	from the atmosphere or from concentrated sources,
+1076.26	make new hydrocarbons that can go into their refineries
+1079.26	to make normal gasoline
+1081.26	and diesel fuel out of CO2.
+1083.26	Those are just a couple of the approaches
+1085.26	and directions that we're taking.
+1088.26	(Applause)

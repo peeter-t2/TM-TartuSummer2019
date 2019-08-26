@@ -1,0 +1,114 @@
+---
+title: "An example reproducible document"
+author: "Important authors"
+date: "August 28, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+lapply(c("tidytext","tidyverse","here","ggrepel"), 
+       function(x) if(!is.element(x, installed.packages())) install.packages(x, dependencies = T))
+
+
+library(tidyverse)
+library(tidytext)
+library(ggrepel)
+```
+
+## TED talks corpus study
+
+Here we study the corpus of TED talks. We are really happy that this is done.
+
+### Data
+
+The data looks like this. We used only talks from TED main event, TEDGlobal events and TEDx events. Other associated events were not included.
+
+```{r reading metadata}
+## Read in the metadata
+ted_meta <- read_tsv(here::here("data/ted_talks_en/ted_talks_meta.tsv"))
+
+# Format the metadata a bit
+ted_meta <- ted_meta %>% 
+  mutate(eventtype=str_extract(event,"TED2|TEDGlobal|TEDx")) %>% #Other options: |TEDMED|TEDYouth|TEDSalon
+  mutate(eventtype=str_replace(eventtype,"TED2","TEDMain"))
+ted_meta <- ted_meta %>% 
+  mutate(film_date=as.POSIXct(film_date, origin = "1970-01-01")) %>% 
+  mutate(year=format(film_date, "%Y"))
+
+# Exclude the talks that don't have a clear event type
+ted_meta <- ted_meta %>% 
+  filter(!is.na(eventtype)) 
+
+# We make the filelist to call
+filelist <- tibble(file=list.files(here::here("data/ted_talks_en/sub_tsvs"),full.names=T)) %>% 
+  mutate(talkid=basename(file)) %>% 
+  mutate(talkid=str_remove(talkid,".tsv$")) %>% 
+  inner_join(ted_meta) %>% 
+  pull(file)
+
+# We read the files
+ted_texts <- map_df(filelist, ~ read_tsv(.x,col_types = cols_only("c","c")) %>% #using characters as column types because it's faster.
+                  mutate(talkid = .x)) %>% 
+  mutate(talkid=basename(talkid)) %>% 
+  mutate(talkid=str_remove(talkid,".tsv$"))
+
+# We do some additional formatting to the data
+ted_texts <- ted_texts %>% 
+  mutate(startsecond=as.numeric(startsecond)) %>% 
+  filter(startsecond!=0)
+ted_texts <- ted_texts %>% 
+  group_by(talkid) %>% 
+  mutate(talk_in_seconds=max(startsecond)+2) %>% 
+  mutate(startpercentage=startsecond/talk_in_seconds)
+
+```
+
+### Method
+
+We used cool methods for the study, such as counting words, and marking their locations.
+
+```{r data processing}
+
+# We can start with text processing here
+ted_tokens <- ted_texts %>%
+  unnest_tokens("word","text")
+
+# We can add the data on word locations in text as with song lyrics
+ted_tokens <- ted_tokens %>% 
+  group_by(talkid) %>% 
+  mutate(wordnr=row_number(),talklength=n()) %>% 
+  mutate(loc_perc=wordnr/(talklength+1)) %>% 
+  mutate(loc_dec=floor(loc_perc*5)/5) %>% 
+  ungroup()
+
+# And we can add absolute counts of how many observations and talks there are per word
+ted_tokens <- ted_tokens %>% 
+  group_by(word) %>% 
+  mutate(count=n(),in_talks=n_distinct(talkid)) %>% 
+  ungroup()
+
+```
+
+## And we found out something interesting
+
+```{r final plot, echo=FALSE}
+
+# Medians just like with songs. 
+# Since there is not many repetitions, we can use the raw data
+word_medians <- ted_tokens %>% 
+  filter(in_talks>50) %>% #for all words that occur at least 50 talks
+  group_by(word,in_talks) %>% 
+  summarise(median=median(loc_perc)) %>%  #another option is to use time median=median(startpercentage)
+  ungroup() %>% 
+  arrange(desc(median))
+
+# "Average" TED talk
+word_medians %>% 
+  mutate(slice=floor(median*10)/10) %>% 
+  group_by(slice) %>% 
+  top_n(20,in_talks) %>% 
+  ggplot(aes(x=median,y=1,label=word))+
+  geom_text_repel(direction="y",segment.size=0,hjust = 0,force=0.5, box.padding = 0)
+
+```

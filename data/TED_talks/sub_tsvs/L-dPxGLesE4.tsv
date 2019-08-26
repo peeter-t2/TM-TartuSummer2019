@@ -1,0 +1,449 @@
+startsecond	text
+15.26	For the last 10 years, I've been spending my time trying to figure out
+18.26	how and why human beings
+20.26	assemble themselves into social networks.
+23.26	And the kind of social network I'm talking about
+25.26	is not the recent online variety,
+27.26	but rather, the kind of social networks
+29.26	that human beings have been assembling for hundreds of thousands of years,
+32.26	ever since we emerged from the African savannah.
+35.26	So, I form friendships and co-worker
+37.26	and sibling and relative relationships with other people
+40.26	who in turn have similar relationships with other people.
+42.26	And this spreads on out endlessly into a distance.
+45.26	And you get a network that looks like this.
+47.26	Every dot is a person.
+49.26	Every line between them is a relationship between two people --
+51.26	different kinds of relationships.
+53.26	And you can get this kind of vast fabric of humanity,
+56.26	in which we're all embedded.
+58.26	And my colleague, James Fowler and I have been studying for quite sometime
+61.26	what are the mathematical, social,
+63.26	biological and psychological rules
+66.26	that govern how these networks are assembled
+68.26	and what are the similar rules
+70.26	that govern how they operate, how they affect our lives.
+73.26	But recently, we've been wondering
+75.26	whether it might be possible to take advantage of this insight,
+78.26	to actually find ways to improve the world,
+80.26	to do something better,
+82.26	to actually fix things, not just understand things.
+85.26	So one of the first things we thought we would tackle
+88.26	would be how we go about predicting epidemics.
+91.26	And the current state of the art in predicting an epidemic --
+93.26	if you're the CDC or some other national body --
+96.26	is to sit in the middle where you are
+98.26	and collect data
+100.26	from physicians and laboratories in the field
+102.26	that report the prevalence or the incidence of certain conditions.
+105.26	So, so and so patients have been diagnosed with something,
+108.26	or other patients have been diagnosed,
+110.26	and all these data are fed into a central repository, with some delay.
+113.26	And if everything goes smoothly,
+115.26	one to two weeks from now
+117.26	you'll know where the epidemic was today.
+120.26	And actually, about a year or so ago,
+122.26	there was this promulgation
+124.26	of the idea of Google Flu Trends, with respect to the flu,
+127.26	where by looking at people's searching behavior today,
+130.26	we could know where the flu --
+132.26	what the status of the epidemic was today,
+134.26	what's the prevalence of the epidemic today.
+137.26	But what I'd like to show you today
+139.26	is a means by which we might get
+141.26	not just rapid warning about an epidemic,
+144.26	but also actually
+146.26	early detection of an epidemic.
+148.26	And, in fact, this idea can be used
+150.26	not just to predict epidemics of germs,
+153.26	but also to predict epidemics of all sorts of kinds.
+157.26	For example, anything that spreads by a form of social contagion
+160.26	could be understood in this way,
+162.26	from abstract ideas on the left
+164.26	like patriotism, or altruism, or religion
+167.26	to practices
+169.26	like dieting behavior, or book purchasing,
+171.26	or drinking, or bicycle-helmet [and] other safety practices,
+174.26	or products that people might buy,
+176.26	purchases of electronic goods,
+178.26	anything in which there's kind of an interpersonal spread.
+181.26	A kind of a diffusion of innovation
+183.26	could be understood and predicted
+185.26	by the mechanism I'm going to show you now.
+188.26	So, as all of you probably know,
+190.26	the classic way of thinking about this
+192.26	is the diffusion-of-innovation,
+194.26	or the adoption curve.
+196.26	So here on the Y-axis, we have the percent of the people affected,
+198.26	and on the X-axis, we have time.
+200.26	And at the very beginning, not too many people are affected,
+203.26	and you get this classic sigmoidal,
+205.26	or S-shaped, curve.
+207.26	And the reason for this shape is that at the very beginning,
+209.26	let's say one or two people
+211.26	are infected, or affected by the thing
+213.26	and then they affect, or infect, two people,
+215.26	who in turn affect four, eight, 16 and so forth,
+218.26	and you get the epidemic growth phase of the curve.
+221.26	And eventually, you saturate the population.
+223.26	There are fewer and fewer people
+225.26	who are still available that you might infect,
+227.26	and then you get the plateau of the curve,
+229.26	and you get this classic sigmoidal curve.
+232.26	And this holds for germs, ideas,
+234.26	product adoption, behaviors,
+236.26	and the like.
+238.26	But things don't just diffuse in human populations at random.
+241.26	They actually diffuse through networks.
+243.26	Because, as I said, we live our lives in networks,
+246.26	and these networks have a particular kind of a structure.
+249.26	Now if you look at a network like this --
+251.26	this is 105 people.
+253.26	And the lines represent -- the dots are the people,
+255.26	and the lines represent friendship relationships.
+257.26	You might see that people occupy
+259.26	different locations within the network.
+261.26	And there are different kinds of relationships between the people.
+263.26	You could have friendship relationships, sibling relationships,
+266.26	spousal relationships, co-worker relationships,
+269.26	neighbor relationships and the like.
+272.26	And different sorts of things
+274.26	spread across different sorts of ties.
+276.26	For instance, sexually transmitted diseases
+278.26	will spread across sexual ties.
+280.26	Or, for instance, people's smoking behavior
+282.26	might be influenced by their friends.
+284.26	Or their altruistic or their charitable giving behavior
+286.26	might be influenced by their coworkers,
+288.26	or by their neighbors.
+290.26	But not all positions in the network are the same.
+293.26	So if you look at this, you might immediately grasp
+295.26	that different people have different numbers of connections.
+298.26	Some people have one connection, some have two,
+300.26	some have six, some have 10 connections.
+303.26	"And this is called the ""degree"" of a node,"
+305.26	or the number of connections that a node has.
+307.26	But in addition, there's something else.
+309.26	So, if you look at nodes A and B,
+311.26	they both have six connections.
+313.26	But if you can see this image [of the network] from a bird's eye view,
+316.26	you can appreciate that there's something very different
+318.26	about nodes A and B.
+320.26	So, let me ask you this -- I can cultivate this intuition by asking a question --
+323.26	who would you rather be
+325.26	if a deadly germ was spreading through the network, A or B?
+328.26	(Audience: B.) Nicholas Christakis: B, it's obvious.
+330.26	B is located on the edge of the network.
+332.26	Now, who would you rather be
+334.26	if a juicy piece of gossip were spreading through the network?
+337.26	A. And you have an immediate appreciation
+340.26	that A is going to be more likely
+342.26	to get the thing that's spreading and to get it sooner
+345.26	by virtue of their structural location within the network.
+348.26	A, in fact, is more central,
+350.26	and this can be formalized mathematically.
+353.26	So, if we want to track something
+355.26	that was spreading through a network,
+358.26	what we ideally would like to do is to set up sensors
+360.26	on the central individuals within the network,
+362.26	including node A,
+364.26	monitor those people that are right there in the middle of the network,
+367.26	and somehow get an early detection
+369.26	of whatever it is that is spreading through the network.
+372.26	So if you saw them contract a germ or a piece of information,
+375.26	you would know that, soon enough,
+377.26	everybody was about to contract this germ
+379.26	or this piece of information.
+381.26	And this would be much better
+383.26	than monitoring six randomly chosen people,
+385.26	without reference to the structure of the population.
+388.26	And in fact, if you could do that,
+390.26	what you would see is something like this.
+392.26	On the left-hand panel, again, we have the S-shaped curve of adoption.
+395.26	In the dotted red line, we show
+397.26	what the adoption would be in the random people,
+399.26	and in the left-hand line, shifted to the left,
+402.26	we show what the adoption would be
+404.26	in the central individuals within the network.
+406.26	On the Y-axis is the cumulative instances of contagion,
+408.26	and on the X-axis is the time.
+410.26	And on the right-hand side, we show the same data,
+412.26	but here with daily incidence.
+414.26	And what we show here is -- like, here --
+416.26	very few people are affected, more and more and more and up to here,
+418.26	and here's the peak of the epidemic.
+420.26	But shifted to the left is what's occurring in the central individuals.
+422.26	And this difference in time between the two
+425.26	is the early detection, the early warning we can get,
+428.26	about an impending epidemic
+430.26	in the human population.
+432.26	The problem, however,
+434.26	is that mapping human social networks
+436.26	is not always possible.
+438.26	It can be expensive, not feasible,
+440.26	unethical,
+442.26	or, frankly, just not possible to do such a thing.
+445.26	So, how can we figure out
+447.26	who the central people are in a network
+449.26	without actually mapping the network?
+452.26	What we came up with
+454.26	was an idea to exploit an old fact,
+456.26	or a known fact, about social networks,
+458.26	which goes like this:
+460.26	Do you know that your friends
+462.26	have more friends than you do?
+465.26	Your friends have more friends than you do,
+468.26	and this is known as the friendship paradox.
+470.26	Imagine a very popular person in the social network --
+472.26	like a party host who has hundreds of friends --
+475.26	and a misanthrope who has just one friend,
+477.26	and you pick someone at random from the population;
+480.26	they were much more likely to know the party host.
+482.26	And if they nominate the party host as their friend,
+484.26	that party host has a hundred friends,
+486.26	therefore, has more friends than they do.
+489.26	And this, in essence, is what's known as the friendship paradox.
+492.26	The friends of randomly chosen people
+495.26	have higher degree, and are more central
+497.26	than the random people themselves.
+499.26	And you can get an intuitive appreciation for this
+501.26	if you imagine just the people at the perimeter of the network.
+504.26	If you pick this person,
+506.26	the only friend they have to nominate is this person,
+509.26	who, by construction, must have at least two
+511.26	and typically more friends.
+513.26	And that happens at every peripheral node.
+515.26	And in fact, it happens throughout the network as you move in,
+518.26	everyone you pick, when they nominate a random --
+520.26	when a random person nominates a friend of theirs,
+523.26	you move closer to the center of the network.
+526.26	So, we thought we would exploit this idea
+529.26	in order to study whether we could predict phenomena within networks.
+532.26	Because now, with this idea
+534.26	we can take a random sample of people,
+536.26	have them nominate their friends,
+538.26	those friends would be more central,
+540.26	and we could do this without having to map the network.
+543.26	And we tested this idea with an outbreak of H1N1 flu
+546.26	at Harvard College
+548.26	in the fall and winter of 2009, just a few months ago.
+551.26	We took 1,300 randomly selected undergraduates,
+554.26	we had them nominate their friends,
+556.26	and we followed both the random students and their friends
+558.26	daily in time
+560.26	to see whether or not they had the flu epidemic.
+563.26	And we did this passively by looking at whether or not they'd gone to university health services.
+566.26	And also, we had them [actively] email us a couple of times a week.
+569.26	Exactly what we predicted happened.
+572.26	So the random group is in the red line.
+575.26	The epidemic in the friends group has shifted to the left, over here.
+578.26	And the difference in the two is 16 days.
+581.26	By monitoring the friends group,
+583.26	we could get 16 days advance warning
+585.26	of an impending epidemic in this human population.
+588.26	Now, in addition to that,
+590.26	if you were an analyst who was trying to study an epidemic
+593.26	or to predict the adoption of a product, for example,
+596.26	what you could do is you could pick a random sample of the population,
+599.26	also have them nominate their friends and follow the friends
+602.26	and follow both the randoms and the friends.
+605.26	Among the friends, the first evidence you saw of a blip above zero
+608.26	in adoption of the innovation, for example,
+611.26	would be evidence of an impending epidemic.
+613.26	Or you could see the first time the two curves diverged,
+616.26	as shown on the left.
+618.26	When did the randoms -- when did the friends take off
+621.26	and leave the randoms,
+623.26	and [when did] their curve start shifting?
+625.26	And that, as indicated by the white line,
+627.26	occurred 46 days
+629.26	before the peak of the epidemic.
+631.26	So this would be a technique
+633.26	whereby we could get more than a month-and-a-half warning
+635.26	about a flu epidemic in a particular population.
+638.26	I should say that
+640.26	how far advanced a notice one might get about something
+642.26	depends on a host of factors.
+644.26	It could depend on the nature of the pathogen --
+646.26	different pathogens,
+648.26	using this technique, you'd get different warning --
+650.26	or other phenomena that are spreading,
+652.26	or frankly, on the structure of the human network.
+655.26	Now in our case, although it wasn't necessary,
+658.26	we could also actually map the network of the students.
+660.26	So, this is a map of 714 students
+662.26	and their friendship ties.
+664.26	And in a minute now, I'm going to put this map into motion.
+666.26	We're going to take daily cuts through the network
+668.26	for 120 days.
+670.26	The red dots are going to be cases of the flu,
+673.26	and the yellow dots are going to be friends of the people with the flu.
+676.26	And the size of the dots is going to be proportional
+678.26	to how many of their friends have the flu.
+680.26	So bigger dots mean more of your friends have the flu.
+683.26	And if you look at this image -- here we are now in September the 13th --
+686.26	you're going to see a few cases light up.
+688.26	You're going to see kind of blooming of the flu in the middle.
+690.26	Here we are on October the 19th.
+693.26	The slope of the epidemic curve is approaching now, in November.
+695.26	Bang, bang, bang, bang, bang -- you're going to see lots of blooming in the middle,
+698.26	and then you're going to see a sort of leveling off,
+700.26	fewer and fewer cases towards the end of December.
+703.26	And this type of a visualization
+705.26	can show that epidemics like this take root
+707.26	and affect central individuals first,
+709.26	before they affect others.
+711.26	Now, as I've been suggesting,
+713.26	this method is not restricted to germs,
+716.26	but actually to anything that spreads in populations.
+718.26	Information spreads in populations,
+720.26	norms can spread in populations,
+722.26	behaviors can spread in populations.
+724.26	And by behaviors, I can mean things like criminal behavior,
+727.26	or voting behavior, or health care behavior,
+730.26	like smoking, or vaccination,
+732.26	or product adoption, or other kinds of behaviors
+734.26	that relate to interpersonal influence.
+736.26	If I'm likely to do something that affects others around me,
+739.26	this technique can get early warning or early detection
+742.26	about the adoption within the population.
+745.26	The key thing is that for it to work,
+747.26	there has to be interpersonal influence.
+749.26	It cannot be because of some broadcast mechanism
+751.26	affecting everyone uniformly.
+755.26	Now the same insights
+757.26	can also be exploited -- with respect to networks --
+760.26	can also be exploited in other ways,
+763.26	for example, in the use of targeting
+765.26	specific people for interventions.
+767.26	So, for example, most of you are probably familiar
+769.26	with the notion of herd immunity.
+771.26	So, if we have a population of a thousand people,
+774.26	and we want to make the population immune to a pathogen,
+777.26	we don't have to immunize every single person.
+779.26	If we immunize 960 of them,
+781.26	it's as if we had immunized a hundred [percent] of them.
+784.26	Because even if one or two of the non-immune people gets infected,
+787.26	there's no one for them to infect.
+789.26	They are surrounded by immunized people.
+791.26	So 96 percent is as good as 100 percent.
+794.26	Well, some other scientists have estimated
+796.26	what would happen if you took a 30 percent random sample
+798.26	of these 1000 people, 300 people and immunized them.
+801.26	Would you get any population-level immunity?
+803.26	And the answer is no.
+806.26	But if you took this 30 percent, these 300 people
+808.26	and had them nominate their friends
+810.26	and took the same number of vaccine doses
+813.26	and vaccinated the friends of the 300 --
+815.26	the 300 friends --
+817.26	you can get the same level of herd immunity
+819.26	as if you had vaccinated 96 percent of the population
+822.26	at a much greater efficiency, with a strict budget constraint.
+825.26	And similar ideas can be used, for instance,
+827.26	to target distribution of things like bed nets
+829.26	in the developing world.
+831.26	If we could understand the structure of networks in villages,
+834.26	we could target to whom to give the interventions
+836.26	to foster these kinds of spreads.
+838.26	Or, frankly, for advertising with all kinds of products.
+841.26	If we could understand how to target,
+843.26	it could affect the efficiency
+845.26	of what we're trying to achieve.
+847.26	And in fact, we can use data
+849.26	from all kinds of sources nowadays [to do this].
+851.26	This is a map of eight million phone users
+853.26	in a European country.
+855.26	Every dot is a person, and every line represents
+857.26	a volume of calls between the people.
+859.26	And we can use such data, that's being passively obtained,
+862.26	to map these whole countries
+864.26	and understand who is located where within the network.
+867.26	Without actually having to query them at all,
+869.26	we can get this kind of a structural insight.
+871.26	And other sources of information, as you're no doubt aware
+874.26	are available about such features, from email interactions,
+877.26	online interactions,
+879.26	online social networks and so forth.
+882.26	And in fact, we are in the era of what I would call
+884.26	"""massive-passive"" data collection efforts."
+887.26	They're all kinds of ways we can use massively collected data
+890.26	to create sensor networks
+893.26	to follow the population,
+895.26	understand what's happening in the population,
+897.26	and intervene in the population for the better.
+900.26	Because these new technologies tell us
+902.26	not just who is talking to whom,
+904.26	but where everyone is,
+906.26	and what they're thinking based on what they're uploading on the Internet,
+909.26	and what they're buying based on their purchases.
+911.26	And all this administrative data can be pulled together
+914.26	and processed to understand human behavior
+916.26	in a way we never could before.
+919.26	So, for example, we could use truckers' purchases of fuel.
+922.26	So the truckers are just going about their business,
+924.26	and they're buying fuel.
+926.26	And we see a blip up in the truckers' purchases of fuel,
+929.26	and we know that a recession is about to end.
+931.26	Or we can monitor the velocity
+933.26	with which people are moving with their phones on a highway,
+936.26	and the phone company can see,
+938.26	as the velocity is slowing down,
+940.26	that there's a traffic jam.
+942.26	And they can feed that information back to their subscribers,
+945.26	but only to their subscribers on the same highway
+947.26	located behind the traffic jam!
+949.26	Or we can monitor doctors prescribing behaviors, passively,
+952.26	and see how the diffusion of innovation with pharmaceuticals
+955.26	occurs within [networks of] doctors.
+957.26	Or again, we can monitor purchasing behavior in people
+959.26	and watch how these types of phenomena
+961.26	can diffuse within human populations.
+964.26	And there are three ways, I think,
+966.26	that these massive-passive data can be used.
+968.26	One is fully passive,
+970.26	like I just described --
+972.26	as in, for instance, the trucker example,
+974.26	where we don't actually intervene in the population in any way.
+976.26	One is quasi-active,
+978.26	like the flu example I gave,
+980.26	where we get some people to nominate their friends
+983.26	and then passively monitor their friends --
+985.26	do they have the flu, or not? -- and then get warning.
+987.26	Or another example would be,
+989.26	if you're a phone company, you figure out who's central in the network
+992.26	"and you ask those people, ""Look, will you just text us your fever every day?"
+995.26	"Just text us your temperature."""
+997.26	And collect vast amounts of information about people's temperature,
+1000.26	but from centrally located individuals.
+1002.26	And be able, on a large scale,
+1004.26	to monitor an impending epidemic
+1006.26	with very minimal input from people.
+1008.26	Or, finally, it can be more fully active --
+1010.26	as I know subsequent speakers will also talk about today --
+1012.26	where people might globally participate in wikis,
+1014.26	or photographing, or monitoring elections,
+1017.26	and upload information in a way that allows us to pool
+1019.26	information in order to understand social processes
+1021.26	and social phenomena.
+1023.26	In fact, the availability of these data, I think,
+1025.26	heralds a kind of new era
+1027.26	of what I and others would like to call
+1029.26	"""computational social science."""
+1031.26	It's sort of like when Galileo invented -- or, didn't invent --
+1034.26	came to use a telescope
+1036.26	and could see the heavens in a new way,
+1038.26	or Leeuwenhoek became aware of the microscope --
+1040.26	or actually invented --
+1042.26	and could see biology in a new way.
+1044.26	But now we have access to these kinds of data
+1046.26	that allow us to understand social processes
+1048.26	and social phenomena
+1050.26	in an entirely new way that was never before possible.
+1053.26	And with this science, we can
+1055.26	understand how exactly
+1057.26	the whole comes to be greater
+1059.26	than the sum of its parts.
+1061.26	And actually, we can use these insights
+1063.26	to improve society and improve human well-being.
+1066.26	Thank you.

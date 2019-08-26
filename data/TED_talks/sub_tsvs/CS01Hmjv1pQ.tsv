@@ -1,0 +1,244 @@
+startsecond	text
+15.26	The idea behind the Stuxnet computer worm
+18.26	is actually quite simple.
+20.26	We don't want Iran to get the bomb.
+23.26	Their major asset for developing nuclear weapons
+26.26	is the Natanz uranium enrichment facility.
+30.26	The gray boxes that you see,
+32.26	these are real-time control systems.
+35.26	Now if we manage to compromise these systems
+38.26	that control drive speeds and valves,
+41.26	we can actually cause a lot of problems
+44.26	with the centrifuge.
+46.26	The gray boxes don't run Windows software;
+48.26	they are a completely different technology.
+51.26	But if we manage
+53.26	to place a good Windows virus
+56.26	on a notebook
+58.26	that is used by a maintenance engineer
+60.26	to configure this gray box,
+63.26	then we are in business.
+65.26	And this is the plot behind Stuxnet.
+68.26	So we start with a Windows dropper.
+73.26	The payload goes onto the gray box,
+76.26	damages the centrifuge,
+78.26	and the Iranian nuclear program is delayed --
+80.26	mission accomplished.
+82.26	That's easy, huh?
+84.26	I want to tell you how we found that out.
+87.26	When we started our research on Stuxnet six months ago,
+90.26	it was completely unknown what the purpose of this thing was.
+93.26	The only thing that was known
+95.26	is it's very, very complex on the Windows part, the dropper part,
+98.26	used multiple zero-day vulnerabilities.
+101.26	And it seemed to want to do something
+104.26	with these gray boxes, these real-time control systems.
+106.26	So that got our attention,
+108.26	and we started a lab project
+110.26	where we infected our environment with Stuxnet
+114.26	and checked this thing out.
+116.26	And then some very funny things happened.
+119.26	Stuxnet behaved like a lab rat
+122.26	that didn't like our cheese --
+125.26	sniffed, but didn't want to eat.
+127.26	Didn't make sense to me.
+129.26	And after we experimented with different flavors of cheese,
+132.26	I realized, well, this is a directed attack.
+136.26	It's completely directed.
+138.26	The dropper is prowling actively
+140.26	on the gray box
+142.26	if a specific configuration is found,
+145.26	and even if the actual program code that it's trying to infect
+149.26	is actually running on that target.
+151.26	And if not, Stuxnet does nothing.
+154.26	So that really got my attention,
+156.26	and we started to work on this
+158.26	nearly around the clock,
+160.26	"because I thought, ""Well, we don't know what the target is."
+163.26	It could be, let's say for example,
+165.26	a U.S. power plant,
+167.26	or a chemical plant in Germany.
+169.26	"So we better find out what the target is soon."""
+172.26	So we extracted and decompiled
+174.26	the attack code,
+176.26	and we discovered that it's structured in two digital bombs --
+179.26	a smaller one and a bigger one.
+182.26	And we also saw that they are very professionally engineered
+186.26	by people who obviously had all insider information.
+190.26	They knew all the bits and bites
+192.26	that they had to attack.
+194.26	They probably even know the shoe size of the operator.
+197.26	So they know everything.
+199.26	And if you have heard that the dropper of Stuxnet
+202.26	is complex and high-tech,
+204.26	let me tell you this:
+206.26	the payload is rocket science.
+208.26	It's way above everything
+210.26	that we have ever seen before.
+213.26	Here you see a sample of this actual attack code.
+216.26	We are talking about --
+218.26	around about 15,000 lines of code.
+221.26	Looks pretty much like old-style assembly language.
+224.26	And I want to tell you how we were able
+226.26	to make sense out of this code.
+228.26	So what we were looking for is, first of all, system function calls,
+231.26	because we know what they do.
+233.26	And then we were looking for timers and data structures
+237.26	and trying to relate them to the real world --
+239.26	to potential real world targets.
+241.26	So we do need target theories
+244.26	that we can prove or disprove.
+247.26	In order to get target theories,
+249.26	we remember
+251.26	that it's definitely hardcore sabotage,
+253.26	it must be a high-value target
+255.26	and it is most likely located in Iran,
+258.26	because that's where most of the infections had been reported.
+262.26	Now you don't find several thousand targets in that area.
+265.26	It basically boils down
+267.26	to the Bushehr nuclear power plant
+269.26	and to the Natanz fuel enrichment plant.
+271.26	So I told my assistant,
+273.26	"""Get me a list of all centrifuge and power plant experts from our client base."""
+276.26	And I phoned them up and picked their brain
+278.26	in an effort to match their expertise
+280.26	with what we found in code and data.
+283.26	And that worked pretty well.
+285.26	So we were able to associate
+287.26	the small digital warhead
+289.26	with the rotor control.
+291.26	The rotor is that moving part within the centrifuge,
+294.26	that black object that you see.
+296.26	And if you manipulate the speed of this rotor,
+299.26	you are actually able to crack the rotor
+301.26	and eventually even have the centrifuge explode.
+305.26	What we also saw
+307.26	is that the goal of the attack
+309.26	was really to do it slowly and creepy --
+312.26	obviously in an effort
+314.26	to drive maintenance engineers crazy,
+317.26	that they would not be able to figure this out quickly.
+320.26	The big digital warhead -- we had a shot at this
+323.26	by looking very closely
+325.26	at data and data structures.
+327.26	So for example, the number 164
+329.26	really stands out in that code;
+331.26	you can't overlook it.
+333.26	I started to research scientific literature
+335.26	on how these centrifuges
+337.26	are actually built in Natanz
+339.26	and found they are structured
+341.26	in what is called a cascade,
+343.26	and each cascade holds 164 centrifuges.
+347.26	So that made sense, that was a match.
+349.26	And it even got better.
+351.26	These centrifuges in Iran
+353.26	are subdivided into 15, what is called, stages.
+357.26	And guess what we found in the attack code?
+359.26	An almost identical structure.
+361.26	So again, that was a real good match.
+364.26	And this gave us very high confidence for what we were looking at.
+367.26	Now don't get me wrong here, it didn't go like this.
+370.26	These results have been obtained
+373.26	over several weeks of really hard labor.
+376.26	And we often went into just a dead end
+379.26	and had to recover.
+381.26	Anyway, so we figured out
+383.26	that both digital warheads
+385.26	were actually aiming at one and the same target,
+387.26	but from different angles.
+389.26	The small warhead is taking one cascade,
+392.26	and spinning up the rotors and slowing them down,
+395.26	and the big warhead
+397.26	is talking to six cascades
+399.26	and manipulating valves.
+401.26	So in all, we are very confident
+403.26	that we have actually determined what the target is.
+405.26	It is Natanz, and it is only Natanz.
+408.26	So we don't have to worry
+410.26	that other targets
+412.26	might be hit by Stuxnet.
+414.26	Here's some very cool stuff that we saw --
+417.26	really knocked my socks off.
+419.26	Down there is the gray box,
+421.26	and on the top you see the centrifuges.
+424.26	Now what this thing does
+426.26	is it intercepts the input values from sensors --
+429.26	so for example, from pressure sensors
+431.26	and vibration sensors --
+433.26	and it provides legitimate program code,
+436.26	which is still running during the attack,
+438.26	with fake input data.
+440.26	And as a matter of fact, this fake input data
+442.26	is actually prerecorded by Stuxnet.
+445.26	So it's just like from the Hollywood movies
+447.26	where during the heist,
+449.26	the observation camera is fed with prerecorded video.
+452.26	That's cool, huh?
+455.26	The idea here is obviously
+457.26	not only to fool the operators in the control room.
+460.26	It actually is much more dangerous and aggressive.
+464.26	The idea
+466.26	is to circumvent a digital safety system.
+470.26	We need digital safety systems
+472.26	where a human operator could not act quick enough.
+475.26	So for example, in a power plant,
+477.26	when your big steam turbine gets too over speed,
+480.26	you must open relief valves within a millisecond.
+483.26	Obviously, this cannot be done by a human operator.
+486.26	So this is where we need digital safety systems.
+488.26	And when they are compromised,
+490.26	then real bad things can happen.
+493.26	Your plant can blow up.
+495.26	And neither your operators nor your safety system will notice it.
+498.26	That's scary.
+500.26	But it gets worse.
+502.26	And this is very important, what I'm going to say.
+505.26	Think about this:
+507.26	this attack is generic.
+510.26	It doesn't have anything to do, in specifics,
+514.26	with centrifuges,
+516.26	with uranium enrichment.
+519.26	So it would work as well, for example,
+522.26	in a power plant
+524.26	or in an automobile factory.
+527.26	It is generic.
+529.26	And you don't have -- as an attacker --
+531.26	you don't have to deliver this payload
+534.26	by a USB stick,
+536.26	as we saw it in the case of Stuxnet.
+538.26	You could also use conventional worm technology for spreading.
+541.26	Just spread it as wide as possible.
+544.26	And if you do that,
+546.26	what you end up with
+548.26	is a cyber weapon of mass destruction.
+554.26	That's the consequence
+556.26	that we have to face.
+559.26	So unfortunately,
+562.26	the biggest number of targets for such attacks
+565.26	are not in the Middle East.
+567.26	They're in the United States and Europe and in Japan.
+570.26	So all of the green areas,
+572.26	these are your target-rich environments.
+575.26	We have to face the consequences,
+578.26	and we better start to prepare right now.
+581.26	Thanks.
+583.26	(Applause)
+589.26	Chris Anderson: I've got a question.
+593.26	Ralph, it's been quite widely reported
+595.26	that people assume that Mossad
+597.26	is the main entity behind this.
+599.26	Is that your opinion?
+602.26	Ralph Langner: Okay, you really want to hear that?
+604.26	Yeah. Okay.
+606.26	My opinion is that the Mossad is involved,
+609.26	but that the leading force is not Israel.
+612.26	So the leading force behind that
+614.26	is the cyber superpower.
+617.26	There is only one,
+619.26	and that's the United States --
+621.26	fortunately, fortunately.
+623.26	Because otherwise,
+625.26	our problems would even be bigger.
+628.26	CA: Thank you for scaring the living daylights out of us. Thank you, Ralph.
+632.26	(Applause)

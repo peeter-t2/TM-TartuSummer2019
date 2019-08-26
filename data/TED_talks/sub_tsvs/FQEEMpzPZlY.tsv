@@ -1,0 +1,120 @@
+startsecond	text
+0	Translator: Timothy Covell
+0	Reviewer: Morton Bast
+12.564	So just by a show of hands, how many of you all have a robot at home?
+17.65	Not very many of you.
+19.59	Okay. And actually of those hands,
+21.586	if you don't include Roomba how many of you have a robot at home?
+24.619	So a couple.
+26.076	That's okay.
+26.979	That's the problem that we're trying to solve at Romotive --
+29.454	that I and the other 20 nerds at Romotive are obsessed with solving.
+32.325	So we really want to build a robot that anyone can use,
+36.327	whether you're eight or 80.
+38.579	And as it turns out, that's a really hard problem,
+41.303	because you have to build a small, portable robot
+44.036	that's not only really affordable,
+46.412	but it has to be something
+47.953	that people actually want to take home and have around their kids.
+51.94	This robot can't be creepy or uncanny.
+55.237	He should be friendly and cute.
+57.448	So meet Romo.
+60.359	Romo's a robot that uses a device you already know and love --
+64.216	your iPhone -- as his brain.
+67.065	And by leveraging the power of the iPhone's processor,
+71.176	we can create a robot that is wi-fi enabled
+75.627	and computer vision-capable for 150 bucks,
+79.311	which is about one percent of what these kinds of robots have cost in the past.
+84.243	When Romo wakes up, he's in creature mode.
+87.86	So he's actually using the video camera on the device to follow my face.
+92.977	If I duck down, he'll follow me.
+94.476	He's wary, so he'll keep his eyes on me.
+96.802	If I come over here, he'll turn to follow me.
+100.078	If I come over here -- (Laughs)
+104.279	He's smart.
+105.662	And if I get too close to him,
+107.876	he gets scared just like any other creature.
+111.009	So in a lot of ways, Romo is like a pet that has a mind of his own.
+114.459	Thanks, little guy.
+116.352	(Sneezing sound)
+117.734	Bless you.
+119.825	And if I want to explore the world -- uh-oh, Romo's tired --
+124.443	if I want to explore the world with Romo,
+126.458	I can actually connect him from any other iOS device.
+129.392	So here's the iPad.
+130.952	And Romo will actually stream video to this device.
+133.693	So I can see everything that Romo sees,
+135.326	and I get a robot's-eye-view of the world.
+137.358	Now this is a free app on the App Store,
+138.794	so if any of you guys had this app on your phones,
+140.516	we could literally right now share control of the robot and play games together.
+144.243	So I'll show you really quickly,
+145.925	Romo actually -- he's streaming video,
+147.771	so you can see me and the entire TED audience.
+149.961	If I get in front of Romo here.
+151.493	And if I want to control him, I can just drive.
+154.534	So I can drive him around,
+158.986	and I can take pictures of you.
+160.912	I've always wanted a picture of a 1,500-person TED audience.
+163.317	So I'll snap a picture.
+164.819	And in the same way that you scroll through content on an iPad,
+167.379	I can actually adjust the angle of the camera on the device.
+170.969	So there are all of you through Romo's eyes.
+175.7	And finally, because Romo is an extension of me,
+178.786	I can express myself through his emotions.
+180.804	So I can go in and I can say let's make Romo excited.
+186.07	But the most important thing about Romo
+187.453	is that we wanted to create something that was literally completely intuitive.
+192.543	You do not have to teach someone how to drive Romo.
+195.127	In fact, who would like to drive a robot?
+198.095	Okay. Awesome.
+200.627	Here you go.
+202.261	Thank you, Scott.
+205.115	And even cooler, you actually don't have to be
+207.869	in the same geographic location as the robot to control him.
+212.276	So he actually streams two-way audio and video
+215.561	between any two smart devices.
+217.202	So you can log in through the browser,
+219.01	and it's kind of like Skype on wheels.
+220.494	So we were talking before about telepresence,
+222.228	and this is a really cool example.
+223.66	You can imagine an eight-year-old girl, for example, who has an iPhone,
+227.977	and her mom buys her a robot.
+229.494	That girl can take her iPhone, put it on the robot,
+232.395	send an email to Grandma, who lives on the other side of the country.
+235.024	Grandma can log into that robot and play hide-and-go-seek with her granddaughter
+238.378	for fifteen minutes every single night,
+240.702	when otherwise she might only be able to get to see her granddaughter once or twice a year.
+244.013	Thanks, Scott.
+245.545	(Applause)
+251.229	So those are a couple of the really cool things that Romo can do today.
+254.576	But I just want to finish by talking about something that we're working on in the future.
+258.536	This is actually something that one of our engineers, Dom, built in a weekend.
+262.061	It's built on top of a Google open framework called Blockly.
+265.429	This allows you to drag and drop these blocks of semantic code
+269.525	and create any behavior for this robot you want.
+271.704	You do not have to know how to code to create a behavior for Romo.
+274.485	And you can actually simulate that behavior in the browser,
+277.345	which is what you see Romo doing on the left.
+279.315	And then if you have something you like,
+280.666	you can download it onto your robot and execute it in real life,
+283.761	run the program in real life.
+285.245	And then if you have something you're proud of,
+286.952	you can share it with every other person who owns a robot in the world.
+290.493	So all of these wi-fi–enabled robots actually learn from each other.
+293.619	The reason we're so focused on building robots that everyone can train
+297.929	is that we think the most compelling use cases in personal robotics are personal.
+302.518	They change from person to person.
+305.124	So we think that if you're going to have a robot in your home,
+307.54	that robot ought to be a manifestation of your own imagination.
+311.691	So I wish that I could tell you what the future of personal robotics looks like.
+315.543	To be honest, I have no idea.
+318.027	But what we do know is that it isn't 10 years or 10 billion dollars
+323.13	or a large humanoid robot away.
+326.457	The future of personal robotics is happening today,
+329.458	and it's going to depend on small, agile robots like Romo
+333.041	and the creativity of people like yourselves.
+336.036	So we can't wait to get you all robots,
+338.218	and we can't wait to see what you build.
+339.946	Thank you.
+341.128	(Applause)

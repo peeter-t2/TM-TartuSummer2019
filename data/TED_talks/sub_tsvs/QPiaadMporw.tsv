@@ -1,0 +1,295 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.752	I'm gonna talk a little bit about open-source security,
+20.602	because we've got to get better at security
+22.626	in this 21st century.
+24.646	Let me start by saying, let's look back to the 20th century,
+29.333	and kind of get a sense of how that style of security
+33.002	worked for us.
+34.48	This is Verdun, a battlefield in France
+37.772	just north of the NATO headquarters in Belgium.
+41.089	At Verdun, in 1916, over a 300-day period,
+50.833	so about 2,000 a day.
+52.892	If you roll it forward -- 20th-century security --
+57.22	into the Second World War,
+60.123	you see the Battle of Stalingrad,
+66.173	We go into the Cold War, and we continue
+68.959	to try and build walls.
+71.738	We go from the trench warfare of the First World War
+75.79	to the Maginot Line of the Second World War,
+79.369	and then we go into the Cold War,
+81.798	the Iron Curtain, the Berlin Wall.
+84.736	Walls don't work.
+86.963	My thesis for us today is, instead of building walls
+91.295	to create security, we need to build bridges.
+94.951	This is a famous bridge in Europe.
+97.375	It's in Bosnia-Herzegovina.
+99.497	It's the bridge over the Drina River,
+101.736	the subject of a novel by Ivo Andrić,
+104.562	and it talks about how,
+106.32	in that very troubled part of Europe and the Balkans,
+110.186	over time there's been enormous building of walls.
+114.329	More recently, in the last decade, we begin to see
+117.42	these communities start, hesitatingly,
+121.11	to come together.
+122.663	I would argue, again, open-source security
+126.836	is about connecting the international,
+129.672	the interagency, the private-public,
+133.419	and lashing it together with strategic communication,
+137.184	largely in social networks.
+139.652	So let me talk a little bit about why we need to do that,
+144.017	because our global commons is under attack
+147.764	in a variety of ways,
+149.747	and none of the sources of threat to the global commons
+153.513	will be solved by building walls.
+156.342	Now, I'm a sailor, obviously.
+158.648	This is a ship, a liner, clipping through the Indian Ocean.
+163.257	What's wrong with this picture?
+165.878	It's got concertina wire along the sides of it.
+169.389	That's to prevent pirates from attacking it.
+172.145	Piracy is a very active threat today
+175.252	around the world. This is in the Indian Ocean.
+178.581	Piracy is also very active in the Strait of Malacca.
+182.372	It's active in the Gulf of Guinea.
+184.448	We see it in the Caribbean.
+186.205	It's a $10-billion-a-year discontinuity
+188.992	in the global transport system.
+192.558	Last year, at this time, there were 20 vessels,
+198.6	This is an attack on the global commons.
+202.223	We need to think about how to address it.
+205.009	Let's shift to a different kind of sea,
+207.459	the cyber sea.
+209.837	Here are photographs of two young men.
+213.074	At the moment, they're incarcerated.
+215.471	They conducted a credit card fraud that netted them
+220.95	over 10 billion dollars.
+224.27	This is part of cybercrime which is a $2-trillion-a-year
+229.296	discontinuity in the global economy.
+232.322	Two trillion a year.
+233.668	That's just under the GDP of Great Britain.
+237.13	So this cyber sea, which we know endlessly
+240.057	is the fundamental piece of radical openness,
+244.053	is very much under threat as well.
+248.583	Another thing I worry about in the global commons
+251.606	is the threat posed by trafficking,
+254.366	by the movement of narcotics, opium,
+258.9	here coming out of Afghanistan through Europe
+262.264	over to the United States.
+263.674	We worry about cocaine
+265.831	coming from the Andean Ridge north.
+268.216	We worry about the movement of illegal weapons
+271.434	and trafficking. Above all, perhaps,
+273.853	we worry about human trafficking, and the awful cost of it.
+277.824	Trafficking moves largely at sea
+280.479	but in other parts of the global commons.
+282.966	This is a photograph, and I wish I could tell you
+287.579	that this is a very high-tech piece of US Navy gear
+292.451	that we're using to stop the trafficking.
+295.14	The bad news is,
+296.94	this is a semi-submersible run by drug cartels.
+302.565	It was built in the jungles of South America.
+306.738	We caught it with that low-tech raft — (Laughter) —
+311.6	and it was carrying six tons of cocaine.
+315.482	Crew of four. Sophisticated communications sweep.
+319.953	This kind of trafficking, in narcotics, in humans, in weapons,
+325.015	God forbid, in weapons of mass destruction,
+327.92	is part of the threat to the global commons.
+330.809	And let's pull it together in Afghanistan today.
+334.963	This is a field of poppies in Afghanistan.
+337.709	Eighty to 90 percent of the world's poppy,
+341.017	opium and heroin, comes out of Afghanistan.
+344.336	We also see there, of course, terrorism.
+347.115	This is where al Qaeda is staged from.
+349.417	We also see a very strong insurgency embedded there.
+354.023	So this terrorism concern is also part
+357.803	of the global commons, and what we must address.
+361.876	So here we are, 21st century.
+365.189	We know our 20th-century tools are not going to work.
+368.908	What should we do?
+371.473	I would argue that we will not deliver security
+376.238	solely from the barrel of a gun.
+378.691	We will not deliver security solely from the barrel of a gun.
+382.854	We will need the application of military force.
+385.757	When we do it, we must do it well, and competently.
+388.851	But my thesis is, open-source security is about international,
+395.016	interagency, private-public connection pulled together
+399.551	by this idea of strategic communication on the Internet.
+405.84	Let me give you a couple of examples of how this works in a positive way.
+409.401	This is Afghanistan. These are Afghan soldiers.
+413.872	They are all holding books.
+416.19	"You should say, ""That's odd. I thought I read that"
+420.994	this demographic, young men and women
+424.49	"in their 20s and 30s, is largely illiterate in Afghanistan."""
+429.459	You would be correct.
+431.2	Eighty-five percent cannot read
+433.397	when they enter the security forces of Afghanistan.
+436.457	Why? Because the Taliban withheld education
+439.604	during the period of time in which these men and women
+442.888	would have learned to read.
+444.279	So the question is, so,
+446.022	why are they all standing there holding books?
+449.363	The answer is, we are teaching them to read
+453.056	in literacy courses by NATO
+456.424	in partnership with private sector entities,
+459.919	in partnership with development agencies.
+463.306	We've taught well over 200,000 Afghan Security Forces
+467.767	to read and write at a basic level.
+470.315	When you can read and write in Afghanistan,
+473.098	you will typically put a pen in your pocket.
+476.237	At the ceremonies, when these young men and women
+478.825	graduate, they take that pen with great pride,
+482.369	and put it in their pocket.
+484.469	This is bringing together international
+487.411	— there are 50 nations involved in this mission —
+490.257	interagency — these development agencies —
+493.103	and private-public, to take on this kind of security.
+497.193	Now, we are also teaching them combat skills, of course,
+500.827	but I would argue, open-source security
+503.595	means connecting in ways that create
+506.279	longer lasting security effect.
+509.131	Here's another example.
+511.431	This is a US Navy warship.
+514.87	It's called the Comfort.
+516.789	There's a sister ship called the Mercy.
+519.526	They are hospital ships.
+521.661	This one, the Comfort, operates throughout
+523.743	the Caribbean and the coast of South America
+527.354	conducting patient treatments.
+529.342	On a typical cruise, they'll do 400,000 patient treatments.
+534.083	It is crewed not strictly by military
+537.874	but by a combination of humanitarian organizations:
+541.778	Operation Hope, Project Smile.
+545.046	Other organizations send volunteers.
+548.632	Interagency physicians come out.
+550.887	They're all part of this.
+553.016	To give you one example of the impact this can have,
+555.921	this little boy, eight years old,
+559.15	walked with his mother two days
+562.369	to come to the eye clinic put on by the Comfort.
+565.461	When he was fitted, over his extremely myopic eyes,
+570.829	he suddenly looked up and said,
+573.975	"""Mama, veo el mundo."""
+577.213	"""Mom, I see the world."""
+580.101	Multiply this by 400,000 patient treatments,
+583.559	this private-public collaboration with security forces,
+588.228	and you begin to see the power
+590.297	of creating security in a very different way.
+594.093	Here you see baseball players.
+598.39	Can you pick out the two US Army soldiers
+602.21	in this photograph?
+604.167	They are the two young men on either side
+606.362	of these young boys. This is part of a series
+609.377	of baseball clinics, where we have explored collaboration
+613.22	between Major League Baseball,
+615.328	the Department of State,
+616.684	who sets up the diplomatic piece of this,
+619.075	military baseball players, who are real soldiers
+623.3	with real skills but participate in this mission,
+627.333	and they put on clinics
+629.235	throughout Latin America and the Caribbean,
+631.321	in Honduras, in Nicaragua,
+634.681	in all of the Central American and Caribbean nations
+639.383	where baseball is so popular,
+641.173	and it creates security.
+643.429	It shows role models to young men and women
+645.887	about fitness and about life that I would argue
+649.487	help create security for us.
+653.652	Another aspect of this partnership
+656.249	is in disaster relief.
+658.2	This is a US Air Force helicopter participating
+661.947	after the tsunami in 2004 which killed 250,000 people.
+668.901	In each of these major disasters — the tsunami in 2004,
+682.312	the Haitian earthquake, about 300,000 dead,
+686.981	more recently the awful earthquake-tsunami combination
+691.872	which struck Japan and its nuclear industry —
+695.236	in all of these instances, we see partnerships
+698.323	between international actors,
+701.645	interagency, private-public working with security forces
+705.553	to respond to this kind of natural disaster.
+709.379	So these are examples of this idea of open-source security.
+713.731	We tie it together, increasingly, by doing things like this.
+718.402	"Now, you're looking at this thinking, ""Ah, Admiral,"
+721.313	these must be sea lanes of communication,
+724.499	"or these might be fiber optic cables."""
+727.299	No. This is a graphic of the world according to Twitter.
+732.491	Purple are tweets. Green are geolocation.
+739.059	White is the synthesis.
+741.105	It's a perfect evocation of that great population survey,
+745.19	the six largest nations in the world in descending order:
+748.937	China, India, Facebook, the United States,
+751.615	Twitter and Indonesia. (Laughter)
+755.937	Why do we want to get in these nets?
+757.7	Why do we want to be involved?
+759.51	We talked earlier about the Arab Spring,
+761.366	and the power of all this.
+762.767	I'll give you another example,
+764.11	and it's how you move this message.
+766.363	I gave a talk like this in London a while back
+768.696	about this point. I said, as I say to all of you,
+772.084	I'm on Facebook. Friend me.
+774.23	Got a little laugh from the audience.
+776.357	There was an article which was run by AP, on the wire.
+781.588	Got picked up in two places in the world:
+784.104	Finland and Indonesia.
+786.452	The headline was: NATO Admiral Needs Friends.
+790.342	(Laughter)
+791.825	Thank you. (Applause)
+794.369	Which I do. (Laughter)
+796.923	And the story was a catalyst,
+799.48	and the next morning I had hundreds
+802.199	of Facebook friend requests
+803.834	from Indonesians and Finns,
+806.351	"mostly saying, ""Admiral, we heard you need a friend,"
+809.333	"and oh, by the way, what is NATO?"" (Laughter)"
+812.935	So ... (Laughter)
+814.987	Yeah, we laugh, but this is how we move the message,
+819.073	and moving that message is how we connect
+821.808	international, interagency, private-public,
+824.259	and these social nets to help create security.
+828.129	Now, let me hit a somber note.
+831.562	This is a photograph of a brave British soldier.
+835.32	He's in the Scots Guards.
+837.526	He's standing the watch in Helmand,
+839.272	in southern Afghanistan.
+841.536	I put him here to remind us,
+844.192	I would not want anyone to leave the room thinking
+847.519	that we do not need capable, competent militaries
+851.732	who can create real military effect.
+854.967	That is the core of who we are and what we do,
+858.062	and we do it to protect freedom, freedom of speech,
+862.118	all the things we treasure in our societies.
+865.083	But, you know, life is not an on-and-off switch.
+869.342	You don't have to have a military that is either
+871.731	in hard combat or is in the barracks.
+875.534	I would argue life is a rheostat.
+880.317	You have to dial it in,
+882.846	and as I think about how we create security
+886.115	in this 21st century, there will be times
+888.767	when we will apply hard power in true war and crisis,
+893.896	but there will be many instances,
+895.817	as we've talked about today,
+897.575	where our militaries can be part of creating
+904.821	interagency, private-public,
+907.229	connected with competent communication.
+911.785	I would close by saying that we heard earlier today
+916.272	about Wikipedia. I use Wikipedia all the time
+920.235	to look up facts, and as all of you appreciate,
+923.396	Wikipedia is not created by 12 brilliant people
+927.549	locked in a room writing articles.
+930.024	Wikipedia, every day, is tens of thousands of people
+933.737	inputting information, and every day millions of people
+938.537	withdrawing that information.
+940.4	It's a perfect image for the fundamental point
+944.02	that no one of us is as smart as all of us thinking together.
+948.642	No one person, no one alliance, no one nation,
+952.302	no one of us is as smart as all of us thinking together.
+957.083	The vision statement of Wikipedia is very simple:
+961.765	a world in which every human being can freely share
+964.879	in the sum of all knowledge.
+966.512	My thesis for you is that by combining international,
+970.99	interagency, private-public, strategic communication,
+975.16	together, in this 21st century,
+978.625	we can create the sum of all security.
+981.892	Thank you. (Applause)
+984.349	Thank you very much. Thank you. Thank you. (Applause)

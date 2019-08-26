@@ -1,0 +1,380 @@
+startsecond	text
+16.069	I'm going to talk to you today
+17.554	about the design of medical technology
+17.554	for low-resource settings.
+21.061	I study health systems in these countries.
+23.438	And one of the major gaps in care,
+25.377	almost across the board,
+27.06	is access to safe surgery.
+29.251	Now one of the major
+29.251	bottlenecks that we've found
+31.934	that's sort of preventing
+31.934	both the access in the first place,
+35.193	and the safety of those surgeries
+35.193	that do happen, is anesthesia.
+39.106	And actually, it's the model
+39.106	that we expect to work
+41.522	for delivering anesthesia
+41.522	in these environments.
+44.88	Here, we have a scene that you would find
+44.88	in any operating room across the US,
+48.757	or any other developed country.
+50.258	In the background there
+51.469	is a very sophisticated
+51.469	anesthesia machine.
+54.064	And this machine is able
+54.064	to enable surgery and save lives
+57.937	because it was designed
+57.937	with this environment in mind.
+61.589	In order to operate,
+61.589	this machine needs a number of things
+64.545	that this hospital has to offer.
+66.469	It needs an extremely
+66.469	well-trained anesthesiologist
+69.861	with years of training
+69.861	with complex machines
+72.336	to help her monitor the flows of the gas
+74.781	and keep her patients
+74.781	safe and anesthetized
+77.368	throughout the surgery.
+78.843	It's a delicate machine
+78.843	running on computer algorithms,
+81.634	and it needs special care, TLC,
+81.634	to keep it up and running,
+84.876	and it's going to break pretty easily.
+86.758	And when it does, it needs
+86.758	a team of biomedical engineers
+89.694	who understand its complexities,
+89.694	can fix it, can source the parts
+93.027	and keep it saving lives.
+95.948	It's a pretty expensive machine.
+97.506	It needs a hospital
+97.506	whose budget can allow it
+100.171	to support one machine
+100.171	costing upwards of 50 or $100,000.
+105.556	And perhaps most obviously,
+107.479	but also most importantly --
+109.017	and the path to concepts
+109.017	that we've heard about
+111.877	kind of illustrates this --
+113.187	it needs infrastructure that can supply
+113.187	an uninterrupted source of electricity,
+118.357	of compressed oxygen,
+118.357	and other medical supplies
+121.393	that are so critical
+121.393	to the functioning of this machine.
+125.695	In other words, this machine
+125.695	requires a lot of stuff
+129.018	that this hospital cannot offer.
+131.592	This is the electrical supply
+131.592	for a hospital in rural Malawi.
+135.413	In this hospital,
+136.598	there is one person qualified
+136.598	to deliver anesthesia,
+139.293	and she's qualified
+140.469	because she has 12, maybe 18 months
+140.469	of training in anesthesia.
+145.069	In the hospital and in the entire region
+147.34	there's not a single biomedical engineer.
+149.371	So when this machine breaks,
+150.964	the machines that they have
+150.964	to work with break,
+153.197	they've got to try and figure it out,
+154.99	but most of the time,
+154.99	that's the end of the road.
+157.306	Those machines go the proverbial junkyard.
+159.547	And the price tag
+159.547	of the machine that I mentioned
+161.9	could represent maybe a quarter or a third
+163.985	of the annual operating budget
+163.985	for this hospital.
+167.84	And finally, I think you can see
+167.84	that infrastructure is not very strong.
+171.248	This hospital is connected
+171.248	to a very weak power grid,
+173.946	one that goes down frequently.
+175.752	So it runs frequently,
+175.752	the entire hospital,
+178.322	just on a generator.
+179.769	And you can imagine,
+179.769	the generator breaks down
+181.949	or runs out of fuel.
+183.621	And the World Bank sees this
+185.672	and estimates that a hospital
+185.672	in this setting in a low-income country
+189.227	can expect up to
+193.918	Similarly, compressed oxygen
+193.918	and other medical supplies
+197.135	are really a luxury,
+198.341	and can often be out of stock
+198.341	for months or even a year.
+201.647	So it seems crazy, but the model
+201.647	that we have right now
+204.835	is taking those machines
+204.835	that were designed
+207.064	for that first environment
+207.064	that I showed you
+209.371	and donating or selling them
+209.371	to hospitals in this environment.
+214.121	It's not just inappropriate,
+215.721	it becomes really unsafe.
+218.776	One of our partners at Johns Hopkins
+220.722	was observing surgeries in Sierra Leone
+220.722	about a year ago.
+225.485	And the first surgery of the day
+225.485	happened to be an obstetrical case.
+228.842	A woman came in,
+228.842	she needed an emergency C-section
+231.849	to save her life and the life of her baby.
+235.065	And everything began pretty auspiciously.
+237.043	The surgeon was on call and scrubbed in.
+239.32	The nurse was there.
+240.632	She was able to anesthetize her quickly,
+240.632	and it was important
+243.517	because of the emergency
+243.517	nature of the situation.
+245.877	And everything began well
+247.618	until the power went out.
+251.033	And now in the middle of this surgery,
+252.881	the surgeon is racing
+252.881	against the clock to finish his case,
+255.974	which he can do -- he's got a headlamp.
+258.35	But the nurse is literally running
+258.35	around a darkened operating theater
+262.435	trying to find anything
+262.435	she can use to anesthetize her patient,
+265.414	to keep her patient asleep.
+267.127	Because her machine doesn't work
+267.127	when there's no power.
+270.697	This routine surgery that many of you
+270.697	have probably experienced,
+273.775	and others are probably the product of,
+273.775	has now become a tragedy.
+278.915	And what's so frustrating
+278.915	is this is not a singular event;
+281.675	this happens across the developing world.
+	are attempted every year
+287.175	without safe anesthesia.
+289.47	My colleague, Dr. Paul Fenton,
+289.47	was living this reality.
+292.406	He was the chief of anesthesiology
+294.26	in a hospital in Malawi,
+294.26	a teaching hospital.
+297.288	He went to work every day
+298.806	in an operating theater like this one,
+300.798	trying to deliver anesthesia
+300.798	and teach others how to do so
+303.961	using that same equipment
+305.26	that became so unreliable,
+305.26	and frankly unsafe, in his hospital.
+310.299	And after umpteen surgeries
+312.103	and, you can imagine,
+312.103	really unspeakable tragedy,
+314.695	"he just said, ""That's it."
+314.695	I'm done. That's enough.
+317.061	"There has to be something better."""
+319.489	He took a walk down the hall
+321.06	to where they threw all those machines
+321.06	that had just crapped out on them,
+324.515	I think that's the scientific term,
+326.216	and he started tinkering.
+327.582	He took one part from here
+327.582	and another from there,
+329.959	and he tried to come up
+329.959	with a machine that would work
+332.565	in the reality that he was facing.
+334.217	And what he came up with:
+335.455	was this guy.
+336.802	The prototype for the Universal
+336.802	Anesthesia Machine --
+340.363	a machine that would work
+340.363	and anesthetize his patients
+343.684	no matter the circumstances
+343.684	that his hospital had to offer.
+347.779	Here it is, back at home
+349.284	at that same hospital, developed
+349.284	a little further, 12 years later,
+352.737	working on patients
+352.737	from pediatrics to geriatrics.
+356.397	Let me show you a little bit
+356.397	about how this machine works.
+359.191	Voila!
+361.712	Here she is.
+362.943	When you have electricity,
+364.211	everything in this machine
+364.211	begins in the base.
+367.253	There's a built-in
+367.253	oxygen concentrator down there.
+369.874	Now you've heard me mention
+369.874	oxygen a few times at this point.
+373.027	Essentially, to deliver anesthesia,
+373.027	you want as pure oxygen as possible,
+376.839	because eventually you're going
+376.839	to dilute it, essentially, with the gas.
+380.286	And the mixture that the patient inhales
+382.746	needs to be at least
+382.746	a certain percentage oxygen
+385.081	or else it can become dangerous.
+386.791	But so in here when there's electricity,
+388.733	the oxygen concentrator takes in room air.
+391.632	Now we know room air is gloriously free,
+394.935	it is abundant,
+396.26	and it's already 21 percent oxygen.
+398.696	So all this concentrator does
+398.696	is take that room air in, filter it
+402.397	and send 95 percent pure oxygen
+402.397	up and across here,
+406.241	where it mixes with the anesthetic agent.
+409.003	Now before that mixture
+409.003	hits the patient's lungs,
+412.651	it's going to pass by here --
+412.651	you can't see it,
+414.889	but there's an oxygen sensor here --
+416.695	that's going to read out on this screen
+416.695	the percentage of oxygen being delivered.
+421.544	Now if you don't have power,
+423.542	or, God forbid, the power cuts out
+423.542	in the middle of a surgery,
+427.172	this machine transitions automatically,
+429.54	without even having to touch it,
+431.313	to drawing in room air from this inlet.
+434.065	Everything else is the same.
+435.425	The only difference is that now
+437.045	you're only working
+437.045	with 21 percent oxygen.
+440.666	Now that used to be
+440.666	a dangerous guessing game,
+443.511	because you only knew
+443.511	if you gave too little oxygen
+445.921	once something bad happened.
+447.321	But we've put a long-life
+447.321	battery backup on here.
+450.058	This is the only part
+450.058	that's battery backed up.
+452.276	But this gives control to the provider,
+452.276	whether there's power or not,
+455.705	because they can adjust the flows
+457.322	based on the percentage of oxygen
+457.322	they see that they're giving the patient.
+461.314	In both cases,
+461.314	whether you have power or not,
+464.683	sometimes the patient
+464.683	needs help breathing.
+466.747	It's just a reality of anesthesia,
+466.747	the lungs can be paralyzed.
+469.972	And so we've just added
+469.972	this manual bellows.
+472.08	We've seen surgeries
+472.08	for three or four hours
+475.095	to ventilate the patient on this.
+477.684	So it's a straightforward machine.
+480.696	I shudder to say simple;
+480.696	it's straightforward.
+484.196	And it's by design.
+486.121	You do not need to be a highly trained,
+486.121	specialized anesthesiologist
+491.345	to use this machine,
+492.54	which is good because,
+492.54	in these rural district hospitals,
+495.316	you're not going to get
+495.316	that level of training.
+497.935	It's also designed for the environment
+497.935	that it will be used in.
+501.087	This is an incredibly rugged machine.
+502.888	It has to stand up to the heat
+502.888	and the wear and tear
+506.367	that happens in hospitals
+506.367	in these rural districts.
+509.509	And so it's not going
+509.509	to break very easily,
+511.928	but if it does, virtually
+511.928	every piece in this machine
+515.226	can be swapped out and replaced
+517.26	with a hex wrench and a screwdriver.
+521.01	And finally, it's affordable.
+523.294	This machine comes in
+523.294	at an eighth of the cost
+526.971	of the conventional machine
+526.971	that I showed you earlier.
+530.073	So in other words, what we have here
+530.073	is a machine that can enable surgery
+534.585	and save lives,
+535.781	because it was designed
+535.781	for its environment,
+538.795	just like the first machine I showed you.
+541.237	But we're not content to stop there.
+543.265	Is it working?
+544.464	Is this the design
+544.464	that's going to work in place?
+547.07	Well, we've seen good results so far.
+548.861	This is in 13 hospitals in four countries,
+552.27	and since 2010, we've done
+552.27	well over 2,000 surgeries
+556.227	with no clinically adverse events.
+558.8	So we're thrilled.
+559.991	This really seems like
+559.991	a cost-effective, scalable solution
+564.437	to a problem that's really pervasive.
+566.958	But we still want to be sure
+568.582	that this is the most effective
+568.582	and safe device
+571.023	that we can be putting into hospitals.
+573.104	So to do that, we've launched
+573.104	a number of partnerships
+575.652	with NGOs and universities,
+577.162	to gather data on the user interface,
+579.835	on the types of surgeries
+579.835	it's appropriate for,
+582.051	and ways we can enhance the device itself.
+584.462	One of those partnerships
+584.462	is with Johns Hopkins
+587.14	just here in Baltimore.
+588.537	They have a really cool anesthesia
+588.537	simulation lab out in Baltimore.
+592.839	So we're taking this machine
+594.744	and recreating some
+594.744	of the operating theater crises
+598.342	that this machine might face
+599.873	in one of the hospitals
+599.873	that it's intended for,
+602.26	and in a contained, safe environment,
+604.408	evaluating its effectiveness.
+606.607	We're then able to compare
+606.607	the results from that study
+610.263	with real-world experience,
+611.707	because we're putting
+611.707	two of these in hospitals
+613.928	that Johns Hopkins
+613.928	works with in Sierra Leone,
+616.103	including the hospital
+616.103	where that emergency C-section happened.
+620.645	So I've talked a lot about anesthesia,
+620.645	and I tend to do that.
+623.797	I think it is incredibly fascinating
+623.797	and an important component of health.
+627.913	And it really seems peripheral,
+627.913	we never think about it,
+630.568	until we don't have access to it,
+632.796	and then it becomes a gatekeeper.
+634.782	Who gets surgery and who doesn't?
+637.084	Who gets safe surgery and who doesn't?
+640.476	But you know,
+640.476	it's just one of so many ways
+642.963	that design, appropriate design,
+646.094	can have an impact on health outcomes.
+648.578	If more people
+648.578	in the health-delivery space
+650.721	really working on some of these
+650.721	challenges in low-income countries
+654.314	could start their design process,
+654.314	their solution search,
+657.991	from outside of that proverbial box
+659.953	and inside of the hospital --
+661.915	In other words, if we could design
+663.77	for the environment that exists
+663.77	in so many parts of the world,
+666.985	rather than the one
+666.985	that we wished existed --
+669.418	we might just save a lot of lives.
+672.047	Thank you very much.
+673.539	(Applause)

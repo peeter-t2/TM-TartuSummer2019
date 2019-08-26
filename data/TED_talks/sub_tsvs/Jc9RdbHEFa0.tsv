@@ -1,0 +1,203 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.709	My passions
+16.742	are music, technology and making things.
+20.431	And it's the combination of these things
+23.614	that has led me to the hobby of sound visualization,
+26.31	and, on occasion, has led me to play with fire.
+30.388	This is a Rubens' tube. It's one of many I've made over the years,
+32.765	and I have one here tonight.
+34.511	It's about an 8-foot-long tube of metal,
+36.036	it's got a hundred or so holes on top,
+37.371	on that side is the speaker, and here
+39.124	is some lab tubing, and it's connected to this tank
+41.3	of propane.
+44.347	So, let's fire it up and see what it does.
+53.147	So let's play a 550-herz frequency
+55.038	and watch what happens.
+56.602	(Frequency)
+65.085	Thank you. (Applause)
+67.798	It's okay to applaud the laws of physics,
+69.786	but essentially what's happening here
+71.242	-- (Laughter) --
+73.002	is the energy from the sound via the air and gas molecules
+77.01	is influencing the combustion properties of propane,
+79.514	creating a visible waveform,
+81.418	and we can see the alternating regions of compression
+83.738	and rarefaction that we call frequency,
+85.778	and the height is showing us amplitude.
+87.522	So let's change the frequency of the sound,
+89.85	and watch what happens to the fire.
+91.275	(Higher frequency)
+101.405	So every time we hit a resonant frequency we get a standing wave
+104.755	and that emergent sine curve of fire.
+106.455	So let's turn that off. We're indoors.
+108.033	Thank you. (Applause)
+113.624	I also have with me a flame table.
+115.971	It's very similar to a Rubens' tube, and it's also used
+117.536	for visualizing the physical properties of sound,
+119.657	such as eigenmodes, so let's fire it up
+121.625	and see what it does.
+127.552	Ooh. (Laughter)
+132.02	Okay. Now, while the table comes up to pressure,
+134.994	let me note here that the sound is not traveling
+136.666	in perfect lines. It's actually traveling in all directions,
+139.412	and the Rubens' tube's a little like bisecting those waves
+142.521	with a line, and the flame table's a little like
+144.517	bisecting those waves with a plane,
+146.371	and it can show a little more subtle complexity, which is why
+150.371	I like to use it to watch Geoff Farina play guitar.
+152.724	(Music)
+195.005	All right, so it's a delicate dance.
+196.77	If you watch closely — (Applause)
+199.315	If you watch closely, you may have seen
+202.082	some of the eigenmodes, but also you may have seen
+204.554	that jazz music is better with fire.
+209.171	Actually, a lot of things are better with fire in my world,
+211.181	but the fire's just a foundation.
+213.613	It shows very well that eyes can hear,
+214.761	and this is interesting to me because
+216.156	technology allows us to present sound to the eyes
+219.01	in ways that accentuate the strength of the eyes
+221.873	for seeing sound, such as the removal of time.
+224.57	So here, I'm using a rendering algorithm to paint
+227.954	"the frequencies of the song ""Smells Like Teen Spirit"""
+230.417	in a way that the eyes can take them in
+232.457	as a single visual impression, and the technique
+234.701	will also show the strengths of the visual cortex
+236.674	for pattern recognition.
+238.29	So if I show you another song off this album,
+240.169	and another, your eyes will easily pick out
+243.65	the use of repetition by the band Nirvana,
+246.578	and in the frequency distribution, the colors,
+248.435	you can see the clean-dirty-clean sound
+251.483	that they are famous for,
+252.69	and here is the entire album as a single visual impression,
+256.69	and I think this impression is pretty powerful.
+258.57	At least, it's powerful enough that
+260.284	if I show you these four songs,
+261.626	"and I remind you that this is ""Smells Like Teen Spirit,"""
+264.067	you can probably correctly guess, without listening
+266.386	to any music at all, that the song
+267.82	a die hard Nirvana fan would enjoy is this song,
+270.114	"""I'll Stick Around"" by the Foo Fighters,"
+272.37	whose lead singer is Dave Grohl,
+274.37	who was the drummer in Nirvana.
+278.148	The songs are a little similar, but mostly
+279.448	I'm just interested in the idea that someday maybe
+281.074	we'll buy a song because we like the way it looks.
+285.486	All right, now for some more sound data.
+286.586	This is data from a skate park,
+289.238	and this is Mabel Davis skate park
+291.27	in Austin, Texas. (Skateboard sounds)
+293.412	And the sounds you're hearing came from eight
+294.786	microphones attached to obstacles around the park,
+297.002	and it sounds like chaos, but actually
+299.186	all the tricks start with a very distinct slap,
+302.533	but successful tricks end with a pop,
+304.137	whereas unsuccessful tricks
+305.93	more of a scratch and a tumble,
+307.786	and tricks on the rail will ring out like a gong, and
+311.796	voices occupy very unique frequencies in the skate park.
+314.586	So if we were to render these sounds visually,
+316.524	we might end up with something like this.
+317.931	This is all 40 minutes of the recording,
+320.387	and right away the algorithm tells us
+322.547	a lot more tricks are missed than are made,
+324.62	and also a trick on the rails is a lot more likely
+326.955	to produce a cheer, and if you look really closely,
+329.827	we can tease out traffic patterns.
+331.56	You see the skaters often trick in this direction. The obstacles are easier.
+337.647	And in the middle of the recording, the mics pick this up,
+339.352	but later in the recording, this kid shows up,
+342.156	and he starts using a line at the top of the park
+345.084	to do some very advanced tricks on something
+346.886	called the tall rail.
+347.989	And it's fascinating. At this moment in time,
+349.861	all the rest of the skaters turn their lines 90 degrees
+353.364	to stay out of his way.
+355.142	You see, there's a subtle etiquette in the skate park,
+357.685	and it's led by key influencers,
+359.285	and they tend to be the kids who can do the best tricks,
+362.533	or wear red pants, and on this day the mics picked that up.
+364.963	All right, from skate physics to theoretical physics.
+368.864	I'm a big fan of Stephen Hawking,
+370.48	and I wanted to use all eight hours
+371.816	of his Cambridge lecture series to create an homage.
+374.403	Now, in this series he's speaking with the aid of a computer,
+377.467	which actually makes identifying the ends of sentences
+380.571	fairly easy. So I wrote a steering algorithm.
+383.997	It listens to the lecture, and then it uses
+385.957	the amplitude of each word to move a point on the x-axis,
+388.644	and it uses the inflection of sentences
+391.277	to move a same point up and down on the y-axis.
+393.431	And these trend lines, you can see, there's more questions
+396.205	than answers in the laws of physics,
+398.075	and when we reach the end of a sentence,
+400.108	we place a star at that location.
+402.443	So there's a lot of sentences, so a lot of stars,
+405.243	and after rendering all of the audio, this is what we get.
+407.599	This is Stephen Hawking's universe.
+410.528	(Applause)
+417.465	It's all eight hours of the Cambridge lecture series
+419.952	taken in as a single visual impression,
+421.8	and I really like this image,
+423.557	but a lot of people think it's fake.
+425.365	So I made a more interactive version,
+427.709	and the way I did that is I used their position in time
+433.165	in the lecture to place these stars into 3D space,
+435.532	and with some custom software and a Kinect,
+437.933	I can walk right into the lecture.
+440.596	I'm going to wave through the Kinect here
+442.396	and take control, and now I'm going to reach out
+444.228	and I'm going to touch a star, and when I do,
+447.467	it will play the sentence
+449.411	that generated that star.
+450.876	Stephen Hawking: There is one, and only one, arrangement
+454.692	in which the pieces make a complete picture.
+457.491	Jared Ficklin: Thank you. (Applause)
+461.639	There are 1,400 stars.
+464.812	It's a really fun way to explore the lecture,
+466.476	and, I hope, a fitting homage.
+467.943	All right. Let me close with a work in progress.
+473.415	I think, after 30 years, the opportunity exists
+476.398	to create an enhanced version of closed captioning.
+478.502	Now, we've all seen a lot of TEDTalks online,
+480.621	so let's watch one now with the sound turned off
+483.548	and the closed captioning turned on.
+487.47	There's no closed captioning for the TED theme song,
+489.616	and we're missing it, but if you've watched enough of these,
+491.729	you hear it in your mind's ear,
+493.098	and then applause starts.
+496.081	It usually begins here, and it grows and then it falls.
+498.271	Sometimes you get a little star applause,
+500.248	and then I think even Bill Gates takes a nervous breath,
+502.734	and the talk begins.
+504.424	All right, so let's watch this clip again.
+510.122	This time, I'm not going to talk at all.
+511.378	There's still going to be no audio,
+512.745	but what I am going to do is I'm going to render the sound
+514.649	visually in real time at the bottom of the screen.
+518.965	So watch closely and see what your eyes can hear.
+543.14	This is fairly amazing to me.
+545.02	Even on the first view, your eyes will successfully
+548.353	pick out patterns, but on repeated views,
+551.441	your brain actually gets better
+553.13	at turning these patterns into information.
+554.786	You can get the tone and the timbre
+556.377	and the pace of the speech,
+557.6	things that you can't get out of closed captioning.
+559.664	That famous scene in horror movies
+561.848	where someone is walking up from behind
+564.496	is something you can see,
+566.456	and I believe this information would be something
+569.16	that is useful at times when the audio is turned off
+571.963	or not heard at all, and I speculate that deaf audiences
+574.904	might actually even be better
+576.081	at seeing sound than hearing audiences.
+577.862	I don't know. It's a theory right now.
+579.36	Actually, it's all just an idea.
+580.881	And let me end by saying that sound moves in all directions,
+585.072	and so do ideas.
+587.049	Thank you. (Applause)

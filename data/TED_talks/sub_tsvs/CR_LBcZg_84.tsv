@@ -1,0 +1,240 @@
+startsecond	text
+0	Translator: Timothy Covell
+0	Reviewer: Morton Bast
+15.66	The kind of neuroscience that I do and my colleagues do
+18.511	is almost like the weatherman.
+20.677	We are always chasing storms.
+24.193	We want to see and measure storms -- brainstorms, that is.
+29.076	And we all talk about brainstorms in our daily lives,
+31.844	but we rarely see or listen to one.
+35.294	So I always like to start these talks
+36.928	by actually introducing you to one of them.
+39.91	Actually, the first time we recorded more than one neuron --
+43.337	a hundred brain cells simultaneously --
+45.56	we could measure the electrical sparks
+48.029	of a hundred cells in the same animal,
+50.709	this is the first image we got,
+52.511	the first 10 seconds of this recording.
+54.826	So we got a little snippet of a thought,
+58.177	and we could see it in front of us.
+61.082	I always tell the students
+62.094	that we could also call neuroscientists some sort of astronomer,
+66.2	because we are dealing with a system
+67.826	that is only comparable in terms of number of cells
+70.743	to the number of galaxies that we have in the universe.
+73.679	And here we are, out of billions of neurons,
+76.709	just recording, 10 years ago, a hundred.
+79.527	We are doing a thousand now.
+81.11	And we hope to understand something fundamental about our human nature.
+86.51	Because, if you don't know yet,
+88.442	everything that we use to define what human nature is comes from these storms,
+93.692	comes from these storms that roll over the hills and valleys of our brains
+98.343	and define our memories, our beliefs,
+102.228	our feelings, our plans for the future.
+104.928	Everything that we ever do,
+107.326	everything that every human has ever done, do or will do,
+112.393	requires the toil of populations of neurons producing these kinds of storms.
+117.827	And the sound of a brainstorm, if you've never heard one,
+120.31	is somewhat like this.
+123.659	You can put it louder if you can.
+126.805	"My son calls this ""making popcorn while listening to a badly-tuned A.M. station."""
+133.208	This is a brain.
+134.693	This is what happens when you route these electrical storms to a loudspeaker
+138.127	and you listen to a hundred brain cells firing,
+140.993	your brain will sound like this -- my brain, any brain.
+145.615	And what we want to do as neuroscientists in this time
+149.377	is to actually listen to these symphonies, these brain symphonies,
+154.727	and try to extract from them the messages they carry.
+158.127	In particular, about 12 years ago
+160.978	we created a preparation that we named brain-machine interfaces.
+164.026	And you have a scheme here that describes how it works.
+166.728	The idea is, let's have some sensors that listen to these storms, this electrical firing,
+172.294	and see if you can, in the same time that it takes
+175.376	for this storm to leave the brain and reach the legs or the arms of an animal --
+180.345	about half a second --
+183.209	let's see if we can read these signals,
+185.56	extract the motor messages that are embedded in it,
+188.96	translate it into digital commands
+191.232	and send it to an artificial device
+193.118	that will reproduce the voluntary motor wheel of that brain in real time.
+199.011	And see if we can measure how well we can translate that message
+202.859	when we compare to the way the body does that.
+206.377	And if we can actually provide feedback,
+209.243	sensory signals that go back from this robotic, mechanical, computational actuator
+214.977	that is now under the control of the brain,
+217.228	back to the brain,
+218.539	how the brain deals with that,
+220.66	of receiving messages from an artificial piece of machinery.
+225.561	And that's exactly what we did 10 years ago.
+227.882	We started with a superstar monkey called Aurora
+230.843	that became one of the superstars of this field.
+233.311	And Aurora liked to play video games.
+235.61	As you can see here,
+236.983	she likes to use a joystick, like any one of us, any of our kids, to play this game.
+241.927	And as a good primate, she even tries to cheat before she gets the right answer.
+246.598	So even before a target appears that she's supposed to cross
+250.881	with the cursor that she's controlling with this joystick,
+253.731	Aurora is trying to find the target, no matter where it is.
+257.682	And if she's doing that,
+259.151	because every time she crosses that target with the little cursor,
+262.465	she gets a drop of Brazilian orange juice.
+265.415	And I can tell you, any monkey will do anything for you
+268.365	if you get a little drop of Brazilian orange juice.
+271.465	Actually any primate will do that.
+274.196	Think about that.
+275.53	Well, while Aurora was playing this game, as you saw,
+278.93	and doing a thousand trials a day
+281.365	and getting 97 percent correct and 350 milliliters of orange juice,
+285.248	we are recording the brainstorms that are produced in her head
+288.647	and sending them to a robotic arm
+290.294	that was learning to reproduce the movements that Aurora was making.
+294.165	Because the idea was to actually turn on this brain-machine interface
+297.948	and have Aurora play the game just by thinking,
+302.648	without interference of her body.
+305.265	Her brainstorms would control an arm
+308.181	that would move the cursor and cross the target.
+310.89	And to our shock, that's exactly what Aurora did.
+314.081	She played the game without moving her body.
+318.281	So every trajectory that you see of the cursor now,
+320.518	this is the exact first moment she got that.
+323.73	That's the exact first moment
+325.514	a brain intention was liberated from the physical domains of a body of a primate
+332.281	and could act outside, in that outside world,
+335.981	just by controlling an artificial device.
+338.947	And Aurora kept playing the game, kept finding the little target
+343.864	and getting the orange juice that she wanted to get, that she craved for.
+347.781	Well, she did that because she, at that time, had acquired a new arm.
+354.482	The robotic arm that you see moving here 30 days later,
+357.445	after the first video that I showed to you,
+360.131	is under the control of Aurora's brain
+362.781	and is moving the cursor to get to the target.
+365.949	And Aurora now knows that she can play the game with this robotic arm,
+369.848	but she has not lost the ability to use her biological arms to do what she pleases.
+375.564	She can scratch her back, she can scratch one of us, she can play another game.
+379.631	By all purposes and means,
+381.231	Aurora's brain has incorporated that artificial device
+385.347	as an extension of her body.
+388.097	The model of the self that Aurora had in her mind
+391.63	has been expanded to get one more arm.
+395.714	Well, we did that 10 years ago.
+398.064	Just fast forward 10 years.
+400.897	Just last year we realized that you don't even need to have a robotic device.
+405.88	You can just build a computational body, an avatar, a monkey avatar.
+411.364	And you can actually use it for our monkeys to either interact with them,
+415.614	or you can train them to assume in a virtual world
+420.053	the first-person perspective of that avatar
+423.097	and use her brain activity to control the movements of the avatar's arms or legs.
+428.748	And what we did basically was to train the animals
+431.514	to learn how to control these avatars
+434.564	and explore objects that appear in the virtual world.
+438.463	And these objects are visually identical,
+440.764	but when the avatar crosses the surface of these objects,
+444.647	they send an electrical message that is proportional to the microtactile texture of the object
+451.047	that goes back directly to the monkey's brain,
+455.063	informing the brain what it is the avatar is touching.
+460.115	And in just four weeks, the brain learns to process this new sensation
+464.88	and acquires a new sensory pathway -- like a new sense.
+471.314	And you truly liberate the brain now
+473.73	because you are allowing the brain to send motor commands to move this avatar.
+478.114	And the feedback that comes from the avatar is being processed directly by the brain
+483.114	without the interference of the skin.
+485.547	So what you see here is this is the design of the task.
+488.081	You're going to see an animal basically touching these three targets.
+492.331	And he has to select one because only one carries the reward,
+496.68	the orange juice that they want to get.
+498.547	And he has to select it by touch using a virtual arm, an arm that doesn't exist.
+504.18	And that's exactly what they do.
+506.18	This is a complete liberation of the brain
+509.615	from the physical constraints of the body and the motor in a perceptual task.
+513.897	The animal is controlling the avatar to touch the targets.
+518.064	And he's sensing the texture by receiving an electrical message directly in the brain.
+523.715	And the brain is deciding what is the texture associated with the reward.
+527.598	The legends that you see in the movie don't appear for the monkey.
+531.43	And by the way, they don't read English anyway,
+533.914	so they are here just for you to know that the correct target is shifting position.
+539.13	And yet, they can find them by tactile discrimination,
+543.064	and they can press it and select it.
+546.281	So when we look at the brains of these animals,
+548.963	on the top panel you see the alignment of 125 cells
+552.63	showing what happens with the brain activity, the electrical storms,
+556.831	of this sample of neurons in the brain
+558.898	when the animal is using a joystick.
+561.014	And that's a picture that every neurophysiologist knows.
+563.614	The basic alignment shows that these cells are coding for all possible directions.
+568.797	The bottom picture is what happens when the body stops moving
+574.48	and the animal starts controlling either a robotic device or a computational avatar.
+580.614	As fast as we can reset our computers,
+583.68	the brain activity shifts to start representing this new tool,
+589.498	as if this too was a part of that primate's body.
+594.748	The brain is assimilating that too, as fast as we can measure.
+599.463	So that suggests to us that our sense of self
+603.081	does not end at the last layer of the epithelium of our bodies,
+607.231	but it ends at the last layer of electrons of the tools that we're commanding with our brains.
+612.949	Our violins, our cars, our bicycles, our soccer balls, our clothing --
+617.713	they all become assimilated by this voracious, amazing, dynamic system called the brain.
+624.564	How far can we take it?
+626.263	Well, in an experiment that we ran a few years ago, we took this to the limit.
+630.481	We had an animal running on a treadmill
+632.963	at Duke University on the East Coast of the United States,
+635.23	producing the brainstorms necessary to move.
+637.93	And we had a robotic device, a humanoid robot,
+642.021	in Kyoto, Japan at ATR Laboratories
+644.415	that was dreaming its entire life to be controlled by a brain,
+650.509	a human brain, or a primate brain.
+653.782	What happens here is that the brain activity that generated the movements in the monkey
+658.38	was transmitted to Japan and made this robot walk
+661.847	while footage of this walking was sent back to Duke,
+665.914	so that the monkey could see the legs of this robot walking in front of her.
+671.147	So she could be rewarded, not by what her body was doing
+675.214	but for every correct step of the robot on the other side of the planet
+680.175	controlled by her brain activity.
+682.784	Funny thing, that round trip around the globe took 20 milliseconds less
+689.902	than it takes for that brainstorm to leave its head, the head of the monkey,
+694.052	and reach its own muscle.
+697.922	The monkey was moving a robot that was six times bigger, across the planet.
+703.952	This is one of the experiments in which that robot was able to walk autonomously.
+710.352	This is CB1 fulfilling its dream in Japan
+715.619	under the control of the brain activity of a primate.
+719.319	So where are we taking all this?
+721.308	What are we going to do with all this research,
+723.651	besides studying the properties of this dynamic universe that we have between our ears?
+729.319	Well the idea is to take all this knowledge and technology
+734.152	and try to restore one of the most severe neurological problems that we have in the world.
+739.636	Millions of people have lost the ability to translate these brainstorms
+744.219	into action, into movement.
+746.335	Although their brains continue to produce those storms and code for movements,
+751.569	they cannot cross a barrier that was created by a lesion on the spinal cord.
+756.736	So our idea is to create a bypass,
+759.186	is to use these brain-machine interfaces to read these signals,
+763.218	larger-scale brainstorms that contain the desire to move again,
+767.268	bypass the lesion using computational microengineering
+771.237	and send it to a new body, a whole body called an exoskeleton,
+778.351	a whole robotic suit that will become the new body of these patients.
+783.918	And you can see an image produced by this consortium.
+788.044	This is a nonprofit consortium called the Walk Again Project
+792.103	that is putting together scientists from Europe,
+794.886	from here in the United States, and in Brazil
+796.751	together to work to actually get this new body built --
+801.268	a body that we believe, through the same plastic mechanisms
+804.602	that allow Aurora and other monkeys to use these tools through a brain-machine interface
+810.404	and that allows us to incorporate the tools that we produce and use in our daily life.
+816.034	This same mechanism, we hope, will allow these patients,
+819.718	not only to imagine again the movements that they want to make
+823.486	and translate them into movements of this new body,
+826.693	but for this body to be assimilated as the new body that the brain controls.
+833.451	So I was told about 10 years ago
+837.302	that this would never happen, that this was close to impossible.
+842.368	And I can only tell you that as a scientist,
+844.819	I grew up in southern Brazil in the mid-'60s
+847.805	watching a few crazy guys telling [us] that they would go to the Moon.
+852.853	And I was five years old,
+854.314	and I never understood why NASA didn't hire Captain Kirk and Spock to do the job;
+858.554	after all, they were very proficient --
+860.986	but just seeing that as a kid
+864.436	made me believe, as my grandmother used to tell me,
+867.421	"that ""impossible is just the possible"
+869.266	"that someone has not put in enough effort to make it come true."""
+873.17	So they told me that it's impossible to make someone walk.
+876.969	I think I'm going to follow my grandmother's advice.
+880.22	Thank you.
+881.67	(Applause)

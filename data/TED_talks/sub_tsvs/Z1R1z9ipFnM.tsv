@@ -1,0 +1,369 @@
+startsecond	text
+12.95	When I was seven years old,
+14.65	some well-meaning adult asked me
+14.65	what I wanted to be when I grew up.
+18.785	"Proudly, I said: ""An artist."""
+20.827	"""No, you don't,"" he said,"
+22.212	"""You can't make a living being an artist!"""
+24.915	My little seven-year-old
+24.915	Picasso dreams were crushed.
+28.014	But I gathered myself,
+29.71	went off in search of a new dream,
+31.593	eventually settling on being a scientist,
+34.475	perhaps something like
+34.475	the next Albert Einstein.
+37.783	(Laughter)
+40.086	I have always loved math and science,
+42.111	later, coding.
+43.646	And so I decided to study
+43.646	computer programming in college.
+47.312	In my junior year,
+48.487	my computer graphics professor
+48.487	showed us these wonderful short films.
+52.917	It was the first computer animation
+52.917	any of us had ever seen.
+56.566	I watched these films
+56.566	in wonder, transfixed,
+59.37	fireworks going off in my head,
+61.605	"thinking, ""That is what"
+61.605	"I want to do with my life."""
+65.006	The idea that all the math, science
+65.006	and code I had been learning
+68.563	could come together to create
+68.563	these worlds and characters
+71.725	and stories I connected with,
+73.611	was pure magic for me.
+76.126	Just two years later, I started working
+78.039	at the place that made those films,
+78.039	Pixar Animation Studios.
+81.082	It was here I learned how
+81.082	we actually execute those films.
+84.303	To create our movies,
+85.486	we create a three-dimensional
+85.486	world inside the computer.
+88.922	We start with a point that makes
+88.922	a line that makes a face
+92.549	that creates characters,
+94.281	or trees and rocks
+94.281	that eventually become a forest.
+97.326	And because it's
+97.326	a three-dimensional world,
+99.462	we can move a camera
+99.462	around inside that world.
+103.004	I was fascinated by all of it.
+105.441	But then I got my first taste of lighting.
+108.581	Lighting in practice is placing lights
+108.581	inside this three-dimensional world.
+112.254	I actually have icons of lights
+112.254	I move around in there.
+114.998	Here you can see I've added a light,
+116.744	I'm turning on the rough version
+116.744	of lighting in our software,
+119.632	turn on shadows
+120.887	and placing the light.
+122.315	As I place a light,
+123.506	I think about what it might
+123.506	look like in real life,
+126.242	but balance that out with what we need
+126.242	artistically and for the story.
+130.981	So it might look like this at first,
+134.155	but as we adjust this and move that
+136.593	in weeks of work,
+138.162	in rough form it might look like this,
+141.252	and in final form, like this.
+148.306	There's this moment in lighting
+148.306	that made me fall utterly in love with it.
+152.381	It's where we go from this
+154.807	to this.
+156.045	It's the moment where
+156.045	all the pieces come together,
+158.605	and suddenly the world comes to life
+161.232	as if it's an actual place that exists.
+164.009	This moment never gets old,
+165.74	especially for that little seven-year-old
+165.74	girl that wanted to be an artist.
+169.632	As I learned to light,
+170.809	I learned about using light
+170.809	to help tell story,
+174.442	to set the time of day,
+177.258	to create the mood,
+179.978	to guide the audience's eye,
+182.85	how to make a character look appealing
+185.033	or stand out in a busy set.
+188.224	Did you see WALL-E?
+189.558	(Laughter)
+190.621	There he is.
+193.49	As you can see,
+194.737	we can create any world that we want
+194.737	inside the computer.
+197.468	We can make a world with monsters,
+200.837	with robots that fall in love,
+203.291	we can even make pigs fly.
+205.359	(Laughter)
+210.361	While this is an incredible thing,
+212.162	this untethered artistic freedom,
+214.661	it can create chaos.
+216.667	It can create unbelievable worlds,
+219.542	unbelievable movement,
+221.05	things that are jarring to the audience.
+223.224	So to combat this, we tether
+223.224	ourselves with science.
+226.432	We use science and the world we know
+228.43	as a backbone,
+229.804	to ground ourselves in something
+229.804	relatable and recognizable.
+233.806	"""Finding Nemo"" is an excellent"
+233.806	example of this.
+236.359	A major portion of the movie
+236.359	takes place underwater.
+239.028	But how do you make it look underwater?
+241.302	In early research and development,
+242.957	we took a clip of underwater footage
+242.957	and recreated it in the computer.
+246.879	Then we broke it back down
+248.164	to see which elements make up
+248.164	that underwater look.
+251.526	One of the most critical elements
+253.157	was how the light travels
+253.157	through the water.
+255.363	So we coded up a light
+255.363	that mimics this physics --
+258.183	first, the visibility of the water,
+259.951	and then what happens with the color.
+262.503	Objects close to the eye
+262.503	have their full, rich colors.
+266.069	As light travels deeper into the water,
+268.296	we lose the red wavelengths,
+270.23	then the green wavelengths,
+271.598	leaving us with blue at the far depths.
+274.666	In this clip you can see
+274.666	two other important elements.
+277.79	The first is the surge and swell,
+279.836	or the invisible underwater current
+281.577	that pushes the bits of particulate
+281.577	around in the water.
+284.786	The second is the caustics.
+286.827	These are the ribbons of light,
+288.361	like you might see
+288.361	on the bottom of a pool,
+290.409	that are created when the sun
+290.409	bends through the crests
+292.983	of the ripples and waves
+292.983	on the ocean's surface.
+297.038	Here we have the fog beams.
+298.36	These give us color depth cues,
+300.039	but also tells which direction is up
+302.158	in shots where we don't
+302.158	see the water surface.
+304.788	The other really cool thing
+304.788	you can see here
+306.931	is that we lit that particulate
+306.931	only with the caustics,
+310.115	so that as it goes in and out
+310.115	of those ribbons of light,
+312.797	it appears and disappears,
+314.334	lending a subtle, magical
+314.334	sparkle to the underwater.
+318.53	You can see how we're using the science --
+321.096	the physics of water,
+321.096	light and movement --
+323.996	to tether that artistic freedom.
+326.57	But we are not beholden to it.
+328.915	We considered each of these elements
+330.738	and which ones had to be
+330.738	scientifically accurate
+333.776	and which ones we could push and pull
+333.776	to suit the story and the mood.
+337.882	We realized early on that color
+337.882	was one we had some leeway with.
+341.715	So here's a traditionally colored
+341.715	underwater scene.
+344.351	But here, we can take Sydney Harbor
+344.351	and push it fairly green
+347.216	to suit the sad mood of what's happening.
+350.315	In this scene, it's really important
+350.315	we see deep into the underwater,
+353.598	so we understand what
+353.598	the East Australian Current is,
+356.289	that the turtles are diving into
+356.289	and going on this roller coaster ride.
+359.701	So we pushed the visibility of the water
+361.662	well past anything you would
+361.662	ever see in real life.
+364.843	Because in the end,
+366.029	we are not trying to recreate
+366.029	the scientifically correct real world,
+370.677	we're trying to create a believable world,
+372.741	one the audience can immerse
+372.741	themselves in to experience the story.
+377.344	We use science to create
+377.344	something wonderful.
+380.522	We use story and artistic touch
+380.522	to get us to a place of wonder.
+385.578	This guy, WALL-E, is a great
+385.578	example of that.
+388.078	He finds beauty in the simplest things.
+390.532	But when he came in to lighting,
+390.532	we knew we had a big problem.
+393.978	We got so geeked-out on making
+393.978	WALL-E this convincing robot,
+397.447	that we made his binoculars
+397.447	practically optically perfect.
+400.851	(Laughter)
+403.328	His binoculars are one of the most
+403.328	critical acting devices he has.
+407.346	He doesn't have a face or even
+407.346	traditional dialogue, for that matter.
+410.912	So the animators were heavily
+410.912	dependent on the binoculars
+413.863	to sell his acting and emotions.
+416.51	We started lighting and we realized
+418.243	the triple lenses inside his binoculars
+418.243	were a mess of reflections.
+422.989	He was starting to look glassy-eyed.
+425.066	(Laughter)
+426.814	Now, glassy-eyed
+426.814	is a fundamentally awful thing
+430.252	when you are trying
+430.252	to convince an audience
+432.292	that a robot has a personality
+432.292	and he's capable of falling in love.
+436.498	So we went to work on these optically
+436.498	perfect binoculars,
+440.046	trying to find a solution that would
+440.046	maintain his true robot materials
+443.772	but solve this reflection problem.
+446.096	So we started with the lenses.
+447.578	Here's the flat-front lens,
+448.994	we have a concave lens
+450.524	and a convex lens.
+451.805	And here you see all three together,
+453.934	showing us all these reflections.
+456.208	We tried turning them down,
+457.862	we tried blocking them,
+459.582	nothing was working.
+461.786	You can see here,
+462.961	sometimes we needed something specific
+462.961	reflected in his eyes --
+466.109	usually Eve.
+467.284	So we couldn't just use some faked
+467.284	abstract image on the lenses.
+470.839	So here we have Eve on the first lens,
+473.013	we put Eve on the second lens,
+475.088	it's not working.
+476.357	We turn it down,
+477.541	it's still not working.
+479.241	And then we have our eureka moment.
+481.595	We add a light to WALL-E
+481.595	that accidentally leaks into his eyes.
+486.092	You can see it light up
+486.092	these gray aperture blades.
+490.237	Suddenly, those aperture blades
+490.237	are poking through that reflection
+493.584	the way nothing else has.
+495.966	Now we recognize WALL-E as having an eye.
+499.532	As humans we have the white of our eye,
+502.205	the colored iris
+503.38	and the black pupil.
+504.948	Now WALL-E has the black of an eye,
+508.313	the gray aperture blades
+509.864	and the black pupil.
+511.689	Suddenly, WALL-E feels like he has a soul,
+515.355	like there's a character
+515.355	with emotion inside.
+520.038	Later in the movie towards the end,
+521.879	WALL-E loses his personality,
+523.381	essentially going dead.
+525.381	This is the perfect time to bring back
+525.381	that glassy-eyed look.
+529.553	In the next scene,
+529.553	WALL-E comes back to life.
+532.057	We bring that light back to bring
+532.057	the aperture blades back,
+535.264	and he returns to that sweet,
+535.264	soulful robot we've come to love.
+542.444	(Video) WALL-E: Eva?
+546.841	Danielle Feinberg: There's a beauty
+546.841	in these unexpected moments --
+549.985	when you find the key
+549.985	to unlocking a robot's soul,
+553.575	the moment when you discover
+553.575	what you want to do with your life.
+557.135	"The jellyfish in ""Finding Nemo"""
+557.135	was one of those moments for me.
+560.833	There are scenes in every movie
+560.833	that struggle to come together.
+564.076	This was one of those scenes.
+566.035	The director had a vision for this scene
+568.193	based on some wonderful footage
+568.193	of jellyfish in the South Pacific.
+573.139	As we went along,
+575.02	we were floundering.
+576.497	The reviews with the director
+578.61	turned from the normal
+578.61	look-and-feel conversation
+581.323	into more and more questions
+581.323	about numbers and percentages.
+586.085	Maybe because unlike normal,
+587.8	we were basing it on
+587.8	something in real life,
+590.077	or maybe just because we had lost our way.
+592.686	But it had become about using
+592.686	our brain without our eyes,
+595.821	the science without the art.
+598.251	That scientific tether
+598.251	was strangling the scene.
+602.534	But even through all the frustrations,
+604.404	I still believed it could be beautiful.
+606.463	So when it came in to lighting,
+608.146	I dug in.
+610.149	As I worked to balance
+610.149	the blues and the pinks,
+613.464	the caustics dancing
+613.464	on the jellyfish bells,
+616.304	the undulating fog beams,
+618.502	something promising began to appear.
+621.686	I came in one morning and checked
+621.686	the previous night's work.
+624.937	And I got excited.
+626.437	And then I showed it
+626.437	to the lighting director
+628.569	and she got excited.
+629.768	Soon, I was showing to the director
+629.768	in a dark room full of 50 people.
+634.563	In director review,
+635.85	you hope you might get some nice words,
+638.349	then you get some notes
+638.349	and fixes, generally.
+641.408	And then, hopefully, you get a final,
+643.869	signaling to move on to the next stage.
+646.462	I gave my intro, and I played
+646.462	the jellyfish scene.
+650.703	And the director was silent
+650.703	for an uncomfortably long amount of time.
+655.24	Just long enough for me to think,
+657.771	"""Oh no, this is doomed."""
+660.919	And then he started clapping.
+663.381	And then the production
+663.381	designer started clapping.
+666.24	And then the whole room was clapping.
+674.285	This is the moment
+674.285	that I live for in lighting.
+677.395	The moment where it all comes together
+679.582	and we get a world that we can believe in.
+682.718	We use math, science and code
+682.718	to create these amazing worlds.
+687.03	We use storytelling and art
+687.03	to bring them to life.
+690.44	It's this interweaving of art and science
+694.475	that elevates the world
+694.475	to a place of wonder,
+698.162	a place with soul,
+699.819	a place we can believe in,
+702.262	a place where the things
+702.262	you imagine can become real --
+707.071	and a world where a girl suddenly realizes
+710.307	not only is she a scientist,
+712.491	but also an artist.
+714.544	Thank you.
+715.719	(Applause)

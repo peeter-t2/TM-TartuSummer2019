@@ -1,0 +1,520 @@
+startsecond	text
+25	I've been at MIT for 44 years.
+27.92	I went to TED I.
+29.88	There's only one other person here,
+29.88	I think, who did that.
+32.76	All the other TEDs --
+34	and I went to them all,
+34	under Ricky's regime --
+36.28	I talked about
+36.28	what the Media Lab was doing,
+38.84	which today has almost 500 people in it.
+41.88	And if you read the press,
+43.32	last week it actually said
+43.32	I quit the Media Lab.
+46	I didn't quit the Media Lab,
+46	I stepped down as chairman --
+50.2	which was a kind of ridiculous title,
+50.2	but someone else has taken it on --
+54.92	and one of the things
+54.92	you can do as a professor
+57.135	is you stay on as a professor.
+59	And I will now do for the rest of my life
+59	the One Laptop Per Child,
+63.28	which I've sort of been doing
+63.28	for a year and a half, anyway.
+66.32	So I'm going to tell you about this,
+68.08	use my 18 minutes
+68.08	to tell you why we're doing it,
+72.2	how we're doing it
+72.2	and then what we're doing.
+74.4	And at some point I'll even pass around
+77.72	what the $100 laptop might be like.
+83.8	I was asked by Chris
+83.8	to talk about some of the big issues,
+86.68	and so I figured I'd start with the three
+86.68	that at least drove me to do this.
+91.96	And the first is pretty obvious.
+94.8	It's amazing when you meet
+94.8	a head of state, and you say,
+97.48	"""What is your most precious"
+97.48	"natural resource?"""
+100.24	"They will not say ""children"" at first,"
+102.96	"and then when you say, ""children,"""
+102.96	they will pretty quickly agree with you.
+107.239	And so that isn't very hard.
+109.28	(Laughter)
+112	Everybody agrees that whatever
+112	the solutions are to the big problems,
+117.08	they include education,
+117.08	sometimes can be just education
+121.84	and can never be without
+121.84	some element of education.
+125.16	So that's certainly part of it.
+127	And the third
+127	is a little bit less obvious.
+129.4	And that is that we all in this room
+129.4	learned how to walk, how to talk,
+134.16	not by being taught how to talk,
+134.16	or taught how to walk,
+138.68	but by interacting with the world,
+140.4	by having certain results as a consequence
+140.4	of being able to ask for something,
+144.56	or being able to stand up and reach it.
+146.72	Whereas at about the age six,
+146.72	we were told to stop learning that way,
+151	and that all learning from then on
+151	would happen through teaching,
+154.36	whether it's people standing up,
+154.36	like I'm doing now,
+156.813	or a book, or something.
+158.56	But it was really through teaching.
+160.52	And one of the things in general
+160.52	that computers have provided to learning
+165.72	is that it now includes a kind of learning
+168.88	which is a little bit more
+168.88	like walking and talking,
+172	in the sense that a lot of it is driven
+172	by the learner himself or herself.
+178.64	So with those as the principles --
+181.4	some of you may know Seymour Papert.
+183.44	This is back in 1982,
+183.44	when we were working in Senegal.
+187	Because some people think that
+187	the $100 laptop just happened a year ago,
+192.269	or two years ago,
+192.269	or we were struck by lightning --
+195.48	this actually has gone back a long time,
+195.48	and in fact, back to the '60s.
+200.56	Here we're in the '80s.
+202.12	Steve Jobs had given us some laptops.
+202.12	We were in Senegal.
+206.4	It didn't scale
+207.68	but it at least was bringing computers
+207.68	to developing countries
+212.8	and learning pretty quickly
+212.8	that these kids,
+215.28	even though English wasn't their language,
+217.304	the Latin alphabet
+217.304	barely was their language,
+220.56	but they could just swim like fish.
+222.92	They could play these like pianos.
+226.36	A little bit more recently,
+226.36	I got involved personally.
+230.6	And these are two anecdotes --
+232.36	one was in Cambodia,
+235	in a village that has no electricity,
+235	no water, no television, no telephone,
+239.44	but has broadband Internet now.
+241.6	And these kids,
+241.6	"their first English word is ""Google"""
+245.12	and they only know Skype.
+247.48	They've never heard of telephony.
+249.12	They just use Skype.
+251.28	And they go home at night --
+253.16	they've got a broadband connection
+253.16	in a hut that doesn't have electricity.
+257	The parents love it,
+257	because when they open up the laptops,
+259.786	it's the brightest light source
+259.786	in the house.
+262	And talk about
+262	where metaphors and reality mix --
+265.4	this is the actual school.
+268.56	In parallel with this,
+268.56	Seymour Papert got the governor of Maine
+273.68	to legislate one laptop per child
+273.68	in the year 2002.
+279.2	Now at the time, I think it's fair to say
+279.2	that 80 percent of the teachers were --
+284.32	let me say, apprehensive.
+285.92	Really, they were actually against it.
+287.76	And they really preferred
+287.76	that the money would be used
+290.308	for higher salaries,
+290.308	more schools, whatever.
+292.72	And now, three and a half
+292.72	years later, guess what?
+297	They're reporting five things:
+297	drop of truancy to almost zero,
+303.24	attending parent-teacher meetings --
+305.189	which nobody did
+305.189	and now almost everybody does --
+307.72	drop in discipline problems,
+307.72	increase in student participation.
+311.64	Teachers are now saying
+311.64	it's kind of fun to teach.
+314.08	Kids are engaged -- they have laptops! --
+317.24	and then the fifth,
+317.24	which interests me the most,
+319.72	is that the servers have to be turned off
+319.72	at certain times at night
+322.96	because the teachers
+322.96	are getting too much email
+325.4	from the kids asking them for help.
+327.4	So when you see that kind of thing --
+329.2	this is not something
+329.2	that you have to test.
+331.272	The days of pilot projects are over,
+331.272	when people say,
+334	"""We'd like to do three or four thousand"
+334	"in our country to see how it works."""
+338.08	Screw you. Go to the back of the line
+338.08	and someone else will do it,
+341.2	and then when you figure out
+341.2	that this works, you can join as well.
+345.76	And this is what we're doing.
+348.36	(Laughter) (Applause)
+350.52	So, One Laptop Per Child
+350.52	was formed about a year and a half ago.
+355.52	It's a nonprofit association.
+357.44	It raised about 20 million dollars
+359.4	to do the engineering
+359.4	to just get this built,
+363.24	and then have it produced afterwards.
+365.92	Scale is truly important.
+368.2	And it's not important because you can
+368.2	buy components at a lower price, OK?
+374.52	It's because you can go
+374.52	to a manufacturer --
+377.42	and I will leave the name out --
+379.086	but we wanted a small display,
+382.64	doesn't have to have
+382.64	perfect color uniformity.
+386.44	It can even have a pixel or two missing.
+388.826	It doesn't have to be that bright.
+391.4	And this particular manufacturer said,
+393.72	"""We're not interested in that."
+393.72	We're interested in the living room.
+396.887	We're interested
+396.887	in perfect color uniformity.
+399.08	We're interested in big displays,
+399.08	bright displays.
+401.44	"You're not part of our strategic plan."""
+404.24	"And I said, ""That's kind of too bad,"
+404.24	"because we need 100 million units a year."""
+407.979	(Laughter)
+409.574	"And they said, ""Oh, well, maybe we could"
+409.574	"become part of your strategic plan."""
+413.56	And that's why scale counts.
+416	And that's why we will not launch this
+418.28	without five to 10 million units
+418.28	in the first run.
+422.2	And the idea is
+422.2	to launch with enough scale
+425.2	that the scale itself
+425.2	helps bring the price down,
+427.8	and that's why I said
+427.8	seven to 10 million there.
+431.72	And we're doing it
+431.72	without a sales-and-marketing team.
+435.16	I mean, you're looking
+435.16	at the sales-and-marketing team.
+437.76	We will do it by going
+437.76	to seven large countries
+441.8	and getting them to agree and launch it,
+444.348	and then the others can follow.
+446.68	We have partners.
+448.56	It's not hard to guess
+448.56	Google would be one.
+450.584	The others are all playing to pending.
+454.24	And this has been
+454.24	in the press a great deal.
+457.12	It's the so-called Green Machine
+457.12	that we introduced with Kofi Annan
+463.04	in November at the World Summit
+463.04	that was held in Tunisia.
+467.36	Now once people start looking at this,
+467.36	"they say, ""Ah, this is a laptop project."""
+473	Well, no, it's not a laptop project.
+473	It's an education project.
+476.32	And the fun part --
+476.32	and I'm quite focused on it --
+480	I tell people I used to be a light bulb,
+480	but now I'm a laser --
+484.12	I'm just going to get that thing built,
+484.12	and it turns out it's not so hard.
+490.24	Because laptop economics
+490.24	are the following:
+493.48	I say 50 percent here --
+493.48	it's more like 60,
+498.08	is sales, marketing,
+498.08	distribution and profit.
+500.96	Now we have none of those, OK?
+503.32	None of those figure into our cost,
+506.28	because first of all, we sell it at cost,
+506.28	and the governments distribute it.
+510.52	It gets distributed
+510.52	to the school system like a textbook.
+514.8	So that piece disappears.
+516.96	Then you have display and everything else.
+519.8	Now the display on your laptop costs,
+522.68	in rough numbers,
+527.84	That can drop to eight;
+527.84	it can drop to seven
+530	but it's not going to drop to two,
+530	or to one and a half,
+533	unless we do some pretty clever things.
+537.08	It's the rest -- that little brown box --
+537.08	that is pretty fascinating,
+541.28	because the rest of your laptop
+541.28	is devoted to itself.
+546.72	It's a little bit like an obese person
+549.36	having to use most of their energy
+549.36	to move their obesity.
+552.52	(Laughter)
+554	And we have a situation today
+554	which is incredible.
+559.8	I've been using laptops
+559.8	since their inception.
+562.8	And my laptop runs slower,
+562.8	less reliably and less pleasantly
+568.16	than it ever has before.
+570.72	And this year is worse.
+572.24	(Applause)
+573.64	People clap, sometimes
+573.64	you even get standing ovations,
+576.96	"and I say, ""What the hell's wrong"
+576.96	"with you? Why are we all sitting there?"""
+580.68	And somebody -- to remain nameless --
+580.68	"called our laptop a ""gadget"" recently."
+587.04	"And I said, ""God, our laptop's going to go"
+587.04	like a bat out of hell.
+590.68	When you open it up,
+590.68	"it's going to go 'bing.'"""
+592.9	It'll be on.
+594.2	It'll be just like it was in 1985,
+598	when you bought an Apple Macintosh 512.
+602.72	It worked really well.
+604.48	And we've been going steadily downhill.
+607.6	Now, people ask all the time what it is.
+611.56	That's what it is.
+613.64	The two pieces that are probably notable:
+613.64	it'll be a mesh network,
+618.96	so when the kids open up their laptops,
+618.96	they all become a network,
+622.6	and then just need
+622.6	one or two points of backhaul.
+625.44	You can serve a couple of thousand kids
+625.44	with two megabits.
+628.64	So you really can bring into a village,
+631.72	and then the villages
+631.72	can connect themselves,
+634.04	and you really can do it quite well.
+637.12	The dual mode display --
+639.12	the idea is to have a display
+639.12	that both works outdoors --
+643.84	isn't it fun using your cell phone
+643.84	outdoors in the sunlight?
+647.28	Well, you can't see it.
+648.84	And one of the reasons you can't see it
+651.04	is because it's backlighting
+651.04	most of the time, most cell phones.
+655.12	Now, what we're doing is, we're doing one
+655.12	that will be both frontlit and backlit.
+659.8	And whether you manually switch it
+659.8	or you do it in the software
+663.6	is to be seen.
+665.12	But when it's backlit, it's color.
+667	And when it's frontlit,
+667	it's black and white
+669.08	at three times the resolution.
+671.08	Is it all worked out? No.
+673.56	That's why a lot of our people are
+673.56	more or less living in Taiwan right now.
+678.84	And in about 30 days,
+678.84	we'll know for sure whether this works.
+683.08	Probably the most important piece there
+687.32	is that the kids
+687.32	really can do the maintenance.
+690.48	And this is again something
+690.48	that people don't believe,
+693.64	but I really think it's quite true.
+696.88	That's the machine we showed in Tunis.
+701.8	This is more the direction
+701.8	that we're going to go.
+704.6	And it's something
+704.6	that we didn't think was possible.
+707.96	Now, I'm going to pass this around.
+711.32	This isn't a design, OK?
+713.52	So this is just a mechanical
+713.52	engineering sort of embodiment of it
+718.24	for you to play with.
+719.8	And it's clearly just a model.
+721.68	The working one is at MIT.
+724.4	I'm going to pass it
+724.4	to this handsome gentleman.
+727.28	At least you can decide
+727.28	whether it goes left or --
+729.76	Chris Anderson: Before you do it,
+729.76	for the people down in simulcast --
+733.084	Nicholas Negroponte: Sorry! I forgot.
+733.084	CA: Just show it off a bit.
+736.17	So wherever the camera is --
+736.17	OK, good point. Thank you, Chris.
+739.2	The idea was that
+739.2	it would be not only a laptop,
+742.8	but that it could transform
+742.8	into an electronic book.
+746.4	So it's sort of an electronic book.
+748.091	This is where when you go outside,
+748.091	it's in black and white.
+750.877	The games buttons are missing,
+752.68	but it'll also be a games machine,
+754.999	book machine.
+756.36	Set it up this way,
+756.36	and it's a television set.
+758.88	Etc., etc. -- is that enough
+758.88	for simulcast? OK, sorry.
+765.16	I'll let Jim decide
+765.16	which way to send it afterwards.
+768.04	OK. Seven countries.
+769.76	(Laughter)
+771.36	"I say ""maybe"" for Massachusetts,"
+771.36	because they actually have to do a bid.
+776.44	By law you've got to bid,
+776.44	and so on and so forth.
+779.12	So I can't quite name them.
+780.56	In the other cases,
+780.56	they don't have to do bids.
+783.24	They can decide --
+784.876	it's the federal government in each case.
+786.96	It's kind of agonizing,
+788.2	because a lot of people say,
+788.2	"""Let's do it at the state level,"""
+791.129	because states are more nimble
+791.129	than the feds, just because of size.
+796	And yet we count.
+797.2	We're really dealing
+797.2	with the federal government.
+799.6	We're really dealing
+799.6	with ministries of education.
+801.96	And if you look at governments
+801.96	around the world,
+804.68	ministries of education
+804.68	tend to be the most conservative,
+808.44	and also the ones that have huge payrolls.
+812.64	Everybody thinks
+812.64	they know about education,
+815.04	a lot of culture is built into it as well.
+817.52	It's really hard.
+817.52	And so it's certainly the hard road.
+821.2	If you look at the countries,
+821.2	they're pretty geoculturally distributed.
+826	Have they all agreed? No, not completely.
+828.52	Probably Thailand, Brazil and Nigeria
+830.92	are the three that are
+830.92	the most active and most agreed.
+834.04	We're purposely
+834.04	not signing anything with anybody
+837.16	until we actually have the working ones.
+839.48	And since I visit
+839.48	each one of those countries
+842.16	within at least every three months,
+844.2	I'm just going around the world
+844.2	every three weeks.
+847.36	Here's sort of the schedule
+848.92	and I put at the bottom we might give some
+848.92	away free in two years at this meeting.
+855.422	Everybody says it's a $100 laptop --
+858.559	you can't do it.
+859.734	Well, guess what, we're not.
+861.16	We're coming in probably at 135,
+861.16	to start, then drift down.
+866.24	And that's very important,
+867.72	because so many things hit the market
+867.72	at a price and then drift up.
+873.04	It's kind of the loss leader,
+874.56	and then as soon as it looks interesting,
+877.44	it can't be afforded,
+877.44	or it can't be scaled out.
+880.12	So we're targeting 50 dollars in 2010.
+883.56	The gray market's a big issue.
+885.36	And one of the ways -- just one --
+887.76	but one of the ways to help
+887.76	in the case of the gray market
+891.84	is to make something
+891.84	that is so utterly unique --
+894.4	It's a little bit like the fact
+894.4	that automobiles --
+898.04	thousands of automobiles
+898.04	are stolen every day in the United States.
+901.72	Not one single
+901.72	post-office truck is stolen.
+904.68	(Laughter)
+905.92	And why?
+907.12	Because there's no market
+907.12	for post-office trucks.
+909.48	It looks like a post-office truck.
+911.24	You can spray paint it.
+911.24	You can do anything you want.
+913.741	I just learned recently: in South Africa,
+913.741	no white Volvos are stolen.
+917.96	Period. None. Zero.
+919.56	So we want to make it
+919.56	very much like a white Volvo.
+924.36	Each government has a task force.
+926.6	This perhaps is less interesting,
+928.24	but we're trying to get the governments
+928.24	to all work together
+931.169	and it's not easy.
+934.88	The economics of this
+934.88	is to start with the federal governments
+939.951	and then later,
+939.951	to subsequently go to other --
+946.957	whether it's child-to-child funding,
+948.877	so a child in this country buys one
+948.877	for a child in the developing world,
+953.36	maybe of the same gender,
+953.36	maybe of the same age.
+956.48	An uncle gives a niece or a nephew that
+956.48	as a birthday present.
+960.2	I mean, there are all sorts of things
+960.2	that will happen,
+962.92	and they'll be very, very exciting.
+964.84	And everybody says -- I say --
+964.84	it's an education project.
+969.859	Are we providing the software?
+971.88	The answer is:
+973.389	The system certainly has software,
+975.04	but no, we're not providing
+975.04	the education content.
+978.2	That is really done in the countries.
+982.32	But we are certainly constructionists.
+984.42	And we certainly believe
+984.42	in learning by doing
+986.6	and everything from Logo,
+986.6	which was started in 1968,
+990.76	to more modern things, like Scratch,
+990.76	if you've ever even heard of it,
+995.76	are very, very much part of it.
+997.84	And that's the rollout.
+1000.88	Are we dreaming? Is this real?
+1003.143	It actually is real.
+1005.76	The only criticism, and people
+1005.76	really don't want to criticize this,
+1010.52	because it is a humanitarian effort,
+1010.52	a nonprofit effort
+1014.4	and to criticize it
+1014.4	is a little bit stupid, actually.
+1018.24	(Laughter)
+1019.48	But the one thing
+1019.48	that people could criticize was,
+1025.64	"""Great idea, but these guys can't do it."""
+1029.8	And that could either mean these guys,
+1029.8	professors and so on couldn't do it,
+1034	or that it's not possible.
+1036	Well, on December 12, a company
+1036	called Quanta agreed to build it,
+1041.72	and since they make about one-third
+1041.72	of all the laptops on the planet today,
+1046.68	that question disappeared.
+1048.28	So it's not a matter
+1048.28	of whether it's going to happen.
+1051.52	It is going to happen.
+1052.76	And if it comes out
+1052.76	at 138 dollars, so what?
+1057.204	If it comes out six months late, so what?
+1060.23	That's a pretty soft landing.
+1061.93	Thank you.
+1063.49	(Applause)

@@ -1,0 +1,307 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+18.906	So, this is my grandfather,
+21.872	Salman Schocken,
+23.373	who was born into a poor and uneducated family
+27.81	with six children to feed,
+31.247	and when he was 14 years old, he was forced to
+34.943	drop out of school in order to help put bread on the table.
+38.903	He never went back to school.
+42.323	Instead, he went on to build a glittering empire
+46.47	of department stores.
+48.578	Salman was the consummate perfectionist,
+51.831	and every one of his stores was a jewel
+54.395	of Bauhaus architecture.
+56.324	He was also the ultimate self-learner,
+59.514	and like everything else, he did it in grand style.
+62.417	He surrounded himself with an entourage
+65.105	of young, unknown scholars like Martin Buber
+68.492	and Shai Agnon and Franz Kafka,
+71.631	and he paid each one of them a monthly salary
+74.556	so that they could write in peace.
+77.607	And yet, in the late '30s, Salman saw what's coming.
+82.544	He fled Germany, together with his family,
+85.858	leaving everything else behind.
+87.947	His department stores confiscated,
+91.157	he spent the rest of his life in a relentless pursuit
+94.246	of art and culture.
+96.715	This high school dropout
+98.654	died at the age of 82,
+100.934	a formidable intellectual, cofounder and first CEO
+105.063	of the Hebrew University of Jerusalem,
+107.208	and founder of Schocken Books,
+108.972	an acclaimed imprint that was later acquired
+112.343	by Random House.
+114.013	Such is the power of self-study.
+117.989	And these are my parents.
+120.505	They too did not enjoy the privilege of college education.
+124.552	They were too busy building a family and a country.
+128.523	And yet, just like Salman, they were lifelong,
+132.551	tenacious self-learners, and our home was stacked
+136.309	with thousands of books, records and artwork.
+140.472	I remember quite vividly my father telling me
+142.868	that when everyone in the neighborhood will have a TV set,
+147.7	then we'll buy a normal F.M. radio. (Laughter)
+152.318	And that's me,
+155.347	I was going to say holding my first abacus,
+157.071	but actually holding what my father would consider
+160.082	an ample substitute to an iPad. (Laughter)
+163.034	So one thing that I took from home is this notion
+166.696	that educators don't necessarily have to teach.
+169.537	Instead, they can provide an environment and resources
+172.766	that tease out your natural ability to learn on your own.
+177.914	Self-study, self-exploration, self-empowerment:
+182.008	these are the virtues of a great education.
+185.328	So I'd like to share with you a story about a self-study,
+189.523	self-empowering computer science course
+192.077	that I built, together with my brilliant colleague Noam Nisan.
+196.263	As you can see from the pictures, both Noam and I
+199.02	had an early fascination with first principles,
+202.438	and over the years, as our knowledge of
+203.96	science and technology became more sophisticated,
+207.535	this early awe with the basics
+210.731	has only intensified.
+212.831	So it's not surprising that, about 12 years ago, when
+216.53	Noam and I were already computer science professors,
+220.012	we were equally frustrated by the same phenomenon.
+223.764	As computers became increasingly more complex,
+226.582	our students were losing the forest for the trees,
+229.786	and indeed, it is impossible to connect
+232.873	with the soul of the machine if you interact
+235.515	with a black box P.C. or a Mac which is shrouded
+238.924	by numerous layers of closed, proprietary software.
+242.3	So Noam and I had this insight that if we want our students
+245.99	to understand how computers work,
+248.009	and understand it in the marrow of their bones,
+251.097	then perhaps the best way to go about it
+252.658	is to have them build a complete, working,
+257.252	general-purpose, useful computer, hardware and software,
+260.964	from the ground up, from first principles.
+264.494	Now, we had to start somewhere, and so Noam and I
+268.702	decided to base our cathedral, so to speak,
+272.192	on the simplest possible building block,
+275.331	which is something called NAND.
+278.132	It is nothing more than a trivial logic gate
+282.07	with four input-output states.
+285.108	So we now start this journey by telling our students
+287.774	that God gave us NAND — (Laughter) —
+289.842	and told us to build a computer, and when we asked how,
+293.827	"God said, ""One step at a time."""
+297.011	And then, following this advice, we start
+300.104	with this lowly, humble NAND gate,
+303.063	and we walk our students through an elaborate sequence
+305.003	of projects in which they gradually build a chip set,
+308.74	a hardware platform, an assembler, a virtual machine,
+312.852	a basic operating system and a compiler
+316.429	"for a simple, Java-like language that we call ""JACK."""
+322.618	The students celebrate the end of this tour de force
+325.166	by using JACK to write all sorts of cool games
+328	like Pong, Snake and Tetris.
+330.992	You can imagine the tremendous joy of playing
+334.607	with a Tetris game that you wrote in JACK
+337.631	and then compiled into machine language in a compiler
+340.421	that you wrote also, and then seeing the result
+342.829	running on a machine that you built starting
+345.712	with nothing more than a few thousand NAND gates.
+348.996	It's a tremendous personal triumph of going
+352.186	from first principles all the way to a fantastically complex
+356.911	and useful system.
+359.262	Noam and I worked five years to facilitate
+363.659	this ascent and to create the tools and infrastructure
+366.867	that will enable students to build it in one semester.
+370.04	And this is the great team that helped us make it happen.
+374.079	The trick was to decompose the computer's construction
+378.326	into numerous stand-alone modules,
+381.28	each of which could be individually specified,
+385.18	built and unit-tested in isolation from the rest of the project.
+390.415	And from day one, Noam and I decided to put
+393.404	all these building blocks freely available in open source
+396.94	on the Web.
+398.42	So chip specifications, APIs, project descriptions,
+402.891	software tools, hardware simulators, CPU emulators,
+406.795	stacks of hundreds of slides, lectures --
+410.497	we laid out everything on the Web
+412.724	and invited the world to come over,
+415.751	take whatever they need,
+417.287	and do whatever they want with it.
+419.677	And then something fascinating happened.
+423.576	The world came.
+425.159	And in short order, thousands of people
+428.317	were building our machine.
+429.861	And NAND2Tetris became one of the first
+433.785	massive, open, online courses,
+437.015	although seven years ago we had no idea that what
+439.759	we were doing is called MOOCs.
+441.92	We just observed how self-organized courses
+445.778	were kind of spontaneously spawning
+448.86	out of our materials.
+450.243	For example, Pramode C.E.,
+453.334	an engineer from Kerala, India,
+455.243	has organized groups of self-learners
+457.052	who build our computer under his good guidance.
+460.096	And Parag Shah, another engineer, from Mumbai,
+463.118	has unbundled our projects into smaller,
+465.963	more manageable bites that he now serves
+467.985	in his pioneering do-it-yourself computer science program.
+471.787	The people who are attracted to these courses
+475.198	typically have a hacker mentality.
+477.618	They want to figure out how things work,
+479.723	and they want to do it in groups,
+481.483	like this hackers club in Washington, D.C.,
+484.294	that uses our materials to offer community courses.
+487.959	And because these materials are widely available
+490.905	and open-source, different people take them
+493.599	to very different and unpredictable directions.
+496.542	For example, Yu Fangmin, from Guangzhou,
+499.455	has used FPGA technology
+502.301	to build our computer and show others how to do the same
+506.026	using a video clip, and Ben Craddock developed
+509.389	a very nice computer game that unfolds
+512.99	inside our CPU architecture, which is quite a complex
+517.959	3D maze that Ben developed
+520.444	using the Minecraft 3D simulator engine.
+524.352	The Minecraft community went bananas over this project,
+527.37	and Ben became an instant media celebrity.
+530.754	And indeed, for quite a few people,
+533.656	taking this NAND2Tetris pilgrimage, if you will,
+537.733	has turned into a life-changing experience.
+540.445	For example, take Dan Rounds, who is a music
+543.634	and math major from East Lansing, Michigan.
+546.403	A few weeks ago, Dan posted a victorious post
+549.847	on our website, and I'd like to read it to you.
+552.467	So here's what Dan said.
+555.925	"""I did the coursework because understanding computers"
+558.737	is important to me, just like literacy and numeracy,
+562.083	and I made it through. I never worked harder on anything,
+565.1	never been challenged to this degree.
+567.809	But given what I now feel capable of doing,
+570.196	I would certainly do it again.
+572.354	To anyone considering NAND2Tetris,
+574.604	"it's a tough journey, but you'll be profoundly changed."""
+578.35	So Dan demonstrates the many self-learners
+583.25	who take this course off the Web, on their own traction,
+587.896	on their own initiative, and it's quite amazing because
+592.485	these people cannot care less about
+597.072	grades.
+598.314	They are doing it because of one motivation only.
+602.219	They have a tremendous passion to learn.
+605.705	And with that in mind,
+607.629	I'd like to say a few words about traditional college grading.
+612.233	I'm sick of it.
+614.593	We are obsessed with grades
+616.026	because we are obsessed with data,
+617.892	and yet grading takes away all the fun from failing,
+622.479	and a huge part of education
+624.955	is about failing.
+626.546	Courage, according to Churchill,
+629.021	is the ability to go from one defeat to another
+631.967	without losing enthusiasm. (Laughter)
+634.581	And [Joyce] said that mistakes
+638.411	are the portals of discovery.
+639.88	And yet we don't tolerate mistakes,
+643.226	and we worship grades.
+644.535	So we collect your B pluses and your A minuses
+648.323	and we aggregate them into a number like 3.4,
+651.16	which is stamped on your forehead
+653.071	and sums up who you are.
+655.514	Well, in my opinion, we went too far with this nonsense,
+658.797	and grading became degrading.
+661.478	So with that, I'd like to say a few words about upgrading,
+666.379	and share with you a glimpse from my current project,
+670.804	which is different from the previous one,
+672.834	but it shares exactly the same characteristics
+674.848	of self-learning, learning by doing,
+678.675	self-exploration and community-building,
+681.45	and this project deals with K-12 math education,
+687.31	beginning with early age math,
+689.214	and we do it on tablets because we believe that
+693.707	math, like anything else, should be taught hands on.
+698.112	So here's what we do. Basically, we developed
+701.267	numerous mobile apps, every one of them explaining
+705.025	a particular concept in math.
+706.522	So for example, let's take area.
+709.963	When you deal with a concept like area --
+712.435	well, we also provide a set of tools that the child
+717.679	is invited to experiment with in order to learn.
+720.31	So if area is what interests us, then one thing
+724.263	which is natural to do is to tile the area
+728.401	of this particular shape and simply count
+732.051	how many tiles it takes to cover it completely.
+735.914	And this little exercise here gives you a first
+738.396	good insight of the notion of area.
+741.825	Moving along, what about the area of this figure?
+744.615	Well, if you try to tile it, it doesn't work too well, does it.
+749.272	So instead, you can experiment
+751.576	with these different tools here by some process
+754.256	of guided trial and error,
+756.295	and at some point you will discover that one thing
+759.133	that you can do among several legitimate transformations
+762.221	is the following one. You can cut the figure,
+765.052	you can rearrange the parts, you can glue them
+768.668	and then proceed to tile just like we did before.
+771.785	(Applause)
+777.06	Now this particular transformation
+779.783	did not change the area of the original figure,
+783.767	so a six-year-old who plays with this
+785.954	has just discovered a clever algorithm
+788.838	to compute the area of any given parallelogram.
+792.878	We don't replace teachers, by the way.
+794.734	We believe that teachers should be empowered, not replaced.
+797.863	Moving along, what about the area of a triangle?
+801.158	So after some guided trial and error,
+803.953	the child will discover, with or without help,
+807.888	that he or she can duplicate the original figure
+811.746	and then take the result, transpose it,
+815.154	glue it to the original and then proceed [with] what we did before:
+818.902	cut, rearrange, paste — oops— paste and glue,
+826.63	and tile.
+828.226	Now this transformation has doubled the area
+832.053	of the original figure, and therefore we have just learned
+835.903	that the area of the triangle equals the area of this rectangle
+839.669	divided by two.
+842.123	But we discovered it by self-exploration.
+845.571	So, in addition to learning some useful geometry,
+851.651	the child has been exposed to some pretty sophisticated
+856.038	science strategies, like reduction,
+859.065	which is the art of
+861.979	transforming a complex problem into a simple one,
+865.565	or generalization, which is at the heart
+867.934	of any scientific discipline,
+870.777	or the fact that some properties are invariant
+873.367	under some transformations.
+876.391	And all this is something that a very young child
+879.676	can pick up using such mobile apps.
+883.985	So presently, we are doing the following:
+887.079	First of all, we are decomposing the K-12 math curriculum
+891.388	into numerous such apps.
+894.279	And because we cannot do it on our own,
+896.856	we've developed a very fancy authoring tool
+899.95	that any author, any parent or actually anyone
+903.225	who has an interest in math education,
+905.578	can use this authoring tool to develop similar apps
+908.85	on tablets without programming.
+912.255	And finally, we are putting together an adaptive ecosystem
+915.475	that will match different learners
+918.303	with different apps according to their evolving learning style.
+923.68	The driving force behind this project
+926.201	is my colleague Shmulik London,
+929.148	and, you see, just like
+931.792	Salman did about 90 years ago,
+935.865	the trick is to surround yourself with brilliant people,
+939.836	because at the end,
+942.592	it's all about people.
+944.495	And a few years ago, I was walking in Tel Aviv
+947.914	and I saw this graffiti on a wall,
+950.744	and I found it so compelling
+952.535	that by now I preach it to my students,
+954.678	and I'd like to try to preach it to you.
+956.944	Now, I don't know how many people here are familiar
+958.684	"with the term ""mensch."""
+960.512	It basically means to be human
+963.12	and to do the right thing.
+965.055	And with that, what this graffiti says is,
+967.484	"""High-tech schmigh-tech."
+969.57	"The most important thing is to be a mensch."" (Laughter)"
+972.133	Thank you. (Applause)
+975.528	(Applause)

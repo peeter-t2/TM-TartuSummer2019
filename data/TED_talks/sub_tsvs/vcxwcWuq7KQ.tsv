@@ -1,0 +1,348 @@
+startsecond	text
+12.72	Code is the next universal language.
+16.68	In the seventies, it was punk music
+16.68	that drove the whole generation.
+20.88	In the eighties, it was probably money.
+23.36	But for my generation of people,
+25.72	software is the interface
+25.72	to our imagination and our world.
+30.56	And that means that we need
+32.28	a radically, radically
+32.28	more diverse set of people
+35.56	to build those products,
+37.36	to not see computers as mechanical
+37.36	and lonely and boring and magic,
+42.32	to see them as things
+42.32	that they can tinker
+44.32	and turn around and twist,
+44.32	and so forth.
+47.72	My personal journey into the world
+47.72	of programming and technology
+51.52	started at the tender age of 14.
+54.52	I had this mad teenage crush
+54.52	on an older man,
+58.64	and the older man in question
+58.64	just happened to be
+61	the then Vice President
+61	of the United States, Mr. Al Gore.
+65.44	And I did what every single
+65.44	teenage girl would want to do.
+68.52	I wanted to somehow
+68.52	express all of this love,
+70.76	so I built him a website, it's over here.
+73.36	And in 2001, there was no Tumblr,
+76.319	there was no Facebook,
+76.319	there was no Pinterest.
+78.6	So I needed to learn to code
+80.76	in order to express
+80.76	all of this longing and loving.
+84.16	And that is how programming
+84.16	started for me.
+86.52	It started as a means of self-expression.
+89.08	Just like when I was smaller,
+89.08	I would use crayons and legos.
+92.72	And when I was older, I would use
+92.72	guitar lessons and theater plays.
+97.92	But then, there were other things
+97.92	to get excited about,
+100.92	like poetry and knitting socks
+103.36	and conjugating French irregular verbs
+106.68	and coming up with make-believe worlds
+108.56	and Bertrand Russell and his philosophy.
+111.72	And I started to be one of those people
+113.64	who felt that computers
+113.64	are boring and technical and lonely.
+118.12	Here's what I think today.
+119.96	Little girls don't know that they
+119.96	are not supposed to like computers.
+124.04	Little girls are amazing.
+125.32	They are really, really good
+125.32	at concentrating on things
+129.48	and being exact and they ask
+129.48	amazing questions like,
+132.76	"""What?"" and ""Why?"""
+132.76	"and ""How?"" and ""What if?"""
+135.36	And they don't know that they
+135.36	are not supposed to like computers.
+139.76	It's the parents who do.
+141.72	It's us parents who feel
+143.039	like computer science
+143.039	is this esoteric, weird science discipline
+148.16	that only belongs to the mystery makers.
+151.84	That it's almost as far removed
+151.84	from everyday life
+154.6	as, say, nuclear physics.
+157.16	And they are partly right about that.
+159.64	There's a lot of syntax
+159.64	and controls and data structures
+163.16	and algorithms and practices,
+165.84	protocols and paradigms in programming.
+168.44	And we as a community,
+168.44	we've made computers smaller and smaller.
+172.76	We've built layers and layers
+172.76	of abstraction on top of each other
+177.32	between the man and the machine
+178.84	to the point that we no longer
+178.84	have any idea how computers work
+182.08	or how to talk to them.
+184.28	And we do teach our kids
+184.28	how the human body works,
+187.08	we teach them how
+187.08	the combustion engine functions
+190.2	and we even tell them
+190.2	that if you want to really be an astronaut
+193.24	you can become one.
+194.72	But when the kid comes to us and asks,
+196.92	"""So, what is a bubble sort algorithm?"""
+199.68	"Or, ""How does the computer know"
+199.68	what happens when I press 'play,'
+204.12	"how does it know which video to show?"""
+206	"Or, ""Linda, is Internet a place?"""
+208.6	We adults, we grow oddly silent.
+212.4	"""It's magic,"" some of us say."
+214.88	"""It's too complicated,"" the others say."
+218.52	Well, it's neither.
+220.04	It's not magic and it's not complicated.
+222.64	It all just happened
+222.64	really, really, really fast.
+226.28	Computer scientists built
+226.28	these amazing, beautiful machines,
+229.2	but they made them
+229.2	very, very foreign to us,
+231.64	and also the language we speak
+231.64	to the computers
+233.88	so that we don't know
+233.88	how to speak to the computers anymore
+236.92	without our fancy user interfaces.
+239.44	And that's why no one recognized
+241.04	that when I was conjugating
+241.04	French irregular verbs,
+243.76	I was actually practicing
+243.76	my pattern recognition skills.
+247.04	And when I was excited about knitting,
+249.36	I actually was following
+249.36	a sequence of symbolic commands
+252.92	that included loops inside of them.
+254.68	And that Bertrand Russell's lifelong quest
+257.12	to find an exact language
+257.12	between English and mathematics
+261.12	found its home inside of a computer.
+264.08	I was a programmer, but no one knew it.
+267.08	The kids of today, they tap, swipe
+267.08	and pinch their way through the world.
+271.56	But unless we give them tools
+271.56	to build with computers,
+274.8	we are raising only consumers
+274.8	instead of creators.
+278.76	This whole quest
+278.76	led me to this little girl.
+281.32	Her name is Ruby, she is six years old.
+283.72	She is completely fearless,
+283.72	imaginative and a little bit bossy.
+287.84	And every time
+287.84	I would run into a problem
+290.32	in trying to teach
+290.32	myself programming like,
+292.6	"""What is object-oriented design"
+292.6	"or what is garbage collection?"","
+296.6	I would try to imagine how a six-year-old
+296.6	little girl would explain the problem.
+301.04	And I wrote a book about her
+301.04	and I illustrated it
+303.72	and the things
+303.72	Ruby taught me go like this.
+306.12	Ruby taught me that you're
+306.12	not supposed to be afraid
+308.6	of the bugs under your bed.
+310	And even the biggest of the problems
+312.08	are a group of tiny problems
+312.08	stuck together.
+315.6	And Ruby also introduced
+315.6	me to her friends,
+318.36	the colorful side of the Internet culture.
+321.28	She has friends like the Snow Leopard,
+323.16	who is beautiful but doesn't want
+323.16	to play with the other kids.
+326.12	And she has friends like the green robots
+326.12	that are really friendly but super messy.
+330.76	And she has friends like Linux the penguin
+332.96	who's really ruthlessly efficient,
+332.96	but somewhat hard to understand.
+336.64	And idealistic foxes, and so on.
+339.88	In Ruby's world, you learn
+339.88	technology through play.
+343.56	And, for instance, computers
+343.56	are really good at repeating stuff,
+346.8	so the way Ruby would teach
+346.8	loops goes like this.
+349.72	This is Ruby's favorite dance move,
+349.72	"it goes, ""Clap, clap, stomp, stomp"
+353.12	"clap, clap and jump."""
+354.64	And you learn counter loops
+354.64	by repeating that four times.
+358.68	And you learn while loops
+358.68	by repeating that sequence
+361.52	while I'm standing on one leg.
+363.32	And you learn until loops
+363.32	by repeating that sequence
+366.64	until mom gets really mad.
+368.72	(Laughter)
+369.76	And most of all, you learn
+369.76	that there are no ready answers.
+374.32	When coming up with the curriculum
+374.32	for Ruby's world,
+377.08	I needed to really ask the kids
+377.08	how they see the world
+380.4	and what kind of questions they have
+382.44	and I would organize
+382.44	play testing sessions.
+385.36	I would start by showing the kids
+385.36	these four pictures.
+388.48	I would show them a picture of a car,
+390.84	a grocery store, a dog and a toilet.
+393.28	"And I would ask, ""Which one of these"
+393.28	"do you think is a computer?"""
+397.48	And the kids would be
+397.48	very conservative and go,
+400.24	"""None of these is a computer."
+402.04	I know what a computer is:
+403.72	it's that glowing box
+405.08	in front of which mom or dad
+405.08	"spends way too much time."""
+408.72	But then we would talk
+410.24	and we would discover
+410.24	that actually, a car is a computer,
+413.08	it has a navigation system inside of it.
+415.48	And a dog -- a dog
+415.48	might not be a computer,
+418.28	but it has a collar
+419.52	and the collar might have
+419.52	a computer inside of it.
+422.16	And grocery stores, they have
+422.16	so many different kinds of computers,
+425.64	like the cashier system
+425.64	and the burglar alarms.
+429.08	And kids, you know what?
+430.44	In Japan, toilets are computers
+433	and there's even hackers who hack them.
+434.92	(Laughter)
+436.72	And we go further
+437.96	and I give them these little stickers
+437.96	with an on/off button on them.
+441.2	And I tell the kids,
+441.2	"""Today you have this magic ability"
+444.84	to make anything in this room
+444.84	"into a computer."""
+448.48	And again, the kids go,
+449.84	"""Sounds really hard,"
+449.84	"I don't know the right answer for this."""
+452.76	"But I tell them, ""Don't worry,"
+454.36	your parents don't know
+454.36	the right answer, either.
+456.96	They've just started
+456.96	to hear about this thing
+459.2	called The Internet of Things.
+461.44	But you kids,
+461.44	you are going to be the ones
+463.44	who are really going to live up in a world
+463.44	"where everything is a computer."""
+467.84	And then I had this little girl
+467.84	who came to me
+470.08	and took a bicycle lamp
+471.4	"and she said, ""This bicycle lamp,"
+471.4	if it were a computer,
+475.64	"it would change colors."""
+477.68	"And I said, ""That's a really good idea,"
+477.68	"what else could it do?"""
+480.72	And she thinks and she thinks,
+482.48	"and she goes, ""If this bicycle lamp"
+482.48	were a computer,
+486.52	we could go on a biking trip
+486.52	with my father
+489.28	and we would sleep in a tent
+490.92	and this biking lamp
+490.92	"could also be a movie projector."""
+495.64	And that's the moment I'm looking for,
+498.4	the moment when the kid realizes
+500	that the world
+500	is definitely not ready yet,
+502.4	that a really awesome way
+502.4	of making the world more ready
+505.4	is by building technology
+507.64	and that each one of us
+507.64	can be a part of that change.
+511.2	Final story, we also built a computer.
+514.28	And we got to know the bossy CPU
+514.28	and the helpful RAM and ROM
+519.04	that help it remember things.
+520.48	And after we've assembled
+520.48	our computer together,
+523.44	we also design an application for it.
+526.12	And my favorite story is this little boy,
+528.159	he's six years old
+529.44	and his favorite thing in the world
+529.44	is to be an astronaut.
+533.12	And the boy, he has
+533.12	these huge headphones on
+535.4	and he's completely immersed
+535.4	in his tiny paper computer
+538.68	because you see, he's built his own
+540.72	intergalactic planetary
+540.72	navigation application.
+545.04	And his father, the lone astronaut
+545.04	in the Martian orbit,
+548.2	is on the other side of the room
+550.08	and the boy's important mission
+551.72	is to bring the father
+551.72	safely back to earth.
+555.76	And these kids are going to have
+555.76	a profoundly different view of the world
+559.24	and the way we build it with technology.
+562.84	Finally, the more approachable,
+562.84	the more inclusive,
+566.72	and the more diverse
+566.72	we make the world of technology,
+570.12	the more colorful and better
+570.12	the world will look like.
+574.12	So, imagine with me, for a moment,
+576.72	a world where the stories we tell
+579.32	about how things get made
+579.32	don't only include
+582.36	the twentysomething-year-old
+582.36	Silicon Valley boys,
+584.8	but also Kenyan schoolgirls
+584.8	and Norwegian librarians.
+590	Imagine a world where
+590	the little Ada Lovelaces of tomorrow,
+594.24	who live in a permanent
+594.24	reality of 1s and 0s,
+597.48	they grow up to be very optimistic
+597.48	and brave about technology.
+602.12	They embrace the powers
+602.12	and the opportunities
+605.52	and the limitations of the world.
+607.68	A world of technology
+607.68	that is wonderful, whimsical
+611.84	and a tiny bit weird.
+615.12	When I was a girl,
+616.64	I wanted to be a storyteller.
+618.68	I loved make-believe worlds
+620.28	and my favorite thing to do
+621.92	was to wake up in the mornings
+621.92	in Moominvalley.
+626	In the afternoons,
+626	I would roam around the Tatooines.
+629.32	And in the evenings,
+629.32	I would go to sleep in Narnia.
+633.4	And programming turned out
+633.4	to be the perfect profession for me.
+637.72	I still create worlds.
+639.68	Instead of stories, I do them with code.
+643.64	Programming gives me this amazing power
+646.72	to build my whole little universe
+649.12	with its own rules
+649.12	and paradigms and practices.
+654.12	Create something out of nothing
+654.12	with the pure power of logic.
+658.92	Thank you.
+660.16	(Applause)

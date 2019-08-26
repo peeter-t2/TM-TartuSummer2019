@@ -1,0 +1,369 @@
+startsecond	text
+12.16	How can we investigate
+15.16	this flora of viruses that surround us, and aid medicine?
+20.16	How can we turn our cumulative knowledge of virology
+24.16	into a simple, hand-held, single diagnostic assay?
+28.16	I want to turn everything we know right now about detecting viruses
+31.16	and the spectrum of viruses that are out there
+33.16	into, let's say, a small chip.
+36.16	When we started thinking about this project --
+38.16	how we would make a single diagnostic assay
+41.16	to screen for all pathogens simultaneously --
+44.16	well, there's some problems with this idea.
+46.16	First of all, viruses are pretty complex,
+50.16	but they're also evolving very fast.
+54.16	This is a picornavirus.
+55.16	Picornaviruses -- these are things that include
+57.16	the common cold and polio, things like this.
+60.16	You're looking at the outside shell of the virus,
+62.16	and the yellow color here are those parts of the virus
+65.16	that are evolving very, very fast,
+67.16	and the blue parts are not evolving very fast.
+69.16	When people think about making pan-viral detection reagents,
+72.16	usually it's the fast-evolving problem that's an issue,
+76.16	because how can we detect things if they're always changing?
+78.16	But evolution is a balance:
+80.16	where you have fast change, you also have ultra-conservation --
+84.16	things that almost never change.
+86.16	And so we looked into this a little more carefully,
+89.16	and I'm going to show you data now.
+90.16	This is just some stuff you can do on the computer from the desktop.
+93.16	I took a bunch of these small picornaviruses,
+95.16	like the common cold, like polio and so on,
+97.16	and I just broke them down into small segments.
+101.16	And so took this first example, which is called coxsackievirus,
+104.16	and just break it into small windows.
+106.16	And I'm coloring these small windows blue
+108.16	if another virus shares an identical sequence in its genome
+113.16	to that virus.
+114.16	These sequences right up here --
+116.16	which don't even code for protein, by the way --
+118.16	are almost absolutely identical across all of these,
+121.16	so I could use this sequence as a marker
+125.16	to detect a wide spectrum of viruses,
+127.16	without having to make something individual.
+130.16	Now, over here there's great diversity:
+132.16	that's where things are evolving fast.
+134.16	Down here you can see slower evolution: less diversity.
+138.16	Now, by the time we get out here to, let's say,
+140.16	acute bee paralysis virus --
+142.16	probably a bad one to have if you're a bee ---
+144.16	this virus shares almost no similarity to coxsackievirus,
+149.16	but I can guarantee you that the sequences that are most conserved
+153.16	among these viruses on the right-hand of the screen
+155.16	are in identical regions right up here.
+158.16	And so we can encapsulate these regions of ultra-conservation
+161.16	through evolution -- how these viruses evolved --
+164.16	by just choosing DNA elements or RNA elements
+167.16	in these regions to represent on our chip as detection reagents.
+171.16	OK, so that's what we did, but how are we going to do that?
+174.16	Well, for a long time, since I was in graduate school,
+176.16	I've been messing around making DNA chips --
+179.16	that is, printing DNA on glass.
+181.16	And that's what you see here:
+182.16	These little salt spots are just DNA tacked onto glass,
+185.16	and so I can put thousands of these on our glass chip
+188.16	and use them as a detection reagent.
+190.16	We took our chip over to Hewlett-Packard
+192.16	and used their atomic force microscope on one of these spots,
+194.16	and this is what you see:
+196.16	you can actually see the strands of DNA lying flat on the glass here.
+199.16	So, what we're doing is just printing DNA on glass --
+202.16	little flat things -- and these are going to be markers for pathogens.
+206.16	OK, I make little robots in lab to make these chips,
+209.16	and I'm really big on disseminating technology.
+212.16	If you've got enough money to buy just a Camry,
+215.16	you can build one of these too,
+217.16	and so we put a deep how-to guide on the Web, totally free,
+221.16	with basically order-off-the-shelf parts.
+223.16	You can build a DNA array machine in your garage.
+226.16	Here's the section on the all-important emergency stop switch.
+229.16	(Laughter)
+231.16	Every important machine's got to have a big red button.
+234.16	But really, it's pretty robust.
+236.16	You can actually be making DNA chips in your garage
+239.16	and decoding some genetic programs pretty rapidly. It's a lot of fun.
+243.16	(Laughter)
+244.16	And so what we did -- and this is a really cool project --
+248.16	we just started by making a respiratory virus chip.
+250.16	I talked about that --
+252.16	you know, that situation where you go into the clinic
+254.16	and you don't get diagnosed?
+256.16	Well, we just put basically all the human respiratory viruses
+258.16	on one chip, and we threw in herpes virus for good measure --
+261.16	I mean, why not?
+262.16	The first thing you do as a scientist is,
+264.16	you make sure stuff works.
+265.16	And so what we did is, we take tissue culture cells
+268.16	and infect them with various viruses,
+270.16	and we take the stuff and fluorescently label the nucleic acid,
+274.16	the genetic material that comes out of these tissue culture cells --
+277.16	mostly viral stuff -- and stick it on the array to see where it sticks.
+281.16	Now, if the DNA sequences match, they'll stick together,
+283.16	and so we can look at spots.
+285.16	And if spots light up, we know there's a certain virus in there.
+287.16	That's what one of these chips really looks like,
+289.16	and these red spots are, in fact, signals coming from the virus.
+292.16	And each spot represents a different family of virus
+295.16	or species of virus.
+296.16	And so, that's a hard way to look at things,
+298.16	so I'm just going to encode things as a little barcode,
+300.16	grouped by family, so you can see the results in a very intuitive way.
+304.16	What we did is, we took tissue culture cells
+306.16	and infected them with adenovirus,
+308.16	and you can see this little yellow barcode next to adenovirus.
+312.16	And, likewise, we infected them with parainfluenza-3 --
+315.16	that's a paramyxovirus -- and you see a little barcode here.
+317.16	And then we did respiratory syncytial virus.
+320.16	That's the scourge of daycare centers everywhere --
+322.16	it's like boogeremia, basically.
+324.16	(Laughter)
+325.16	You can see that this barcode is the same family,
+329.16	but it's distinct from parainfluenza-3,
+331.16	which gives you a very bad cold.
+333.16	And so we're getting unique signatures, a fingerprint for each virus.
+336.16	Polio and rhino: they're in the same family, very close to each other.
+339.16	Rhino's the common cold, and you all know what polio is,
+341.16	and you can see that these signatures are distinct.
+344.16	And Kaposi's sarcoma-associated herpes virus
+347.16	gives a nice signature down here.
+349.16	And so it is not any one stripe or something
+351.16	that tells me I have a virus of a particular type here;
+353.16	it's the barcode that in bulk represents the whole thing.
+357.16	All right, I can see a rhinovirus --
+359.16	and here's the blow-up of the rhinovirus's little barcode --
+361.16	but what about different rhinoviruses?
+363.16	How do I know which rhinovirus I have?
+365.16	There're 102 known variants of the common cold,
+368.16	and there're only 102 because people got bored collecting them:
+371.16	there are just new ones every year.
+373.16	And so, here are four different rhinoviruses,
+375.16	and you can see, even with your eye,
+377.16	without any fancy computer pattern-matching
+379.16	recognition software algorithms,
+381.16	that you can distinguish each one of these barcodes from each other.
+384.16	Now, this is kind of a cheap shot,
+386.16	because I know what the genetic sequence of all these rhinoviruses is,
+389.16	and I in fact designed the chip
+390.16	expressly to be able to tell them apart,
+392.16	but what about rhinoviruses that have never seen a genetic sequencer?
+396.16	We don't know what the sequence is; just pull them out of the field.
+398.16	So, here are four rhinoviruses
+400.16	we never knew anything about --
+402.16	no one's ever sequenced them -- and you can also see
+405.16	that you get unique and distinguishable patterns.
+407.16	You can imagine building up some library, whether real or virtual,
+410.16	of fingerprints of essentially every virus.
+412.16	But that's, again, shooting fish in a barrel, you know, right?
+415.16	You have tissue culture cells. There are a ton of viruses.
+417.16	What about real people?
+419.16	You can't control real people, as you probably know.
+421.16	You have no idea what someone's going to cough into a cup,
+425.16	and it's probably really complex, right?
+428.16	It could have lots of bacteria, it could have more than one virus,
+431.16	and it certainly has host genetic material.
+433.16	So how do we deal with this?
+434.16	And how do we do the positive control here?
+436.16	Well, it's pretty simple.
+438.16	That's me, getting a nasal lavage.
+440.16	And the idea is, let's experimentally inoculate people with virus.
+445.16	This is all IRB-approved, by the way; they got paid.
+450.16	And basically we experimentally inoculate people
+453.16	with the common cold virus.
+454.16	Or, even better, let's just take people
+456.16	right out of the emergency room --
+457.16	undefined, community-acquired respiratory tract infections.
+461.16	You have no idea what walks in through the door.
+463.16	So, let's start off with the positive control first,
+466.16	where we know the person was healthy.
+468.16	They got a shot of virus up the nose,
+470.16	let's see what happens.
+471.16	Day zero: nothing happening.
+473.16	They're healthy; they're clean -- it's amazing.
+475.16	Actually, we thought the nasal tract might be full of viruses
+477.16	even when you're walking around healthy.
+478.16	It's pretty clean. If you're healthy, you're pretty healthy.
+480.16	Day two: we get a very robust rhinovirus pattern,
+484.16	and it's very similar to what we get in the lab
+486.16	doing our tissue culture experiment.
+487.16	So that's great, but again, cheap shot, right?
+490.16	We put a ton of virus up this guy's nose. So --
+492.16	(Laughter)
+493.16	-- I mean, we wanted it to work. He really had a cold.
+497.16	So, how about the people who walk in off the street?
+501.16	Here are two individuals represented by their anonymous ID codes.
+503.16	They both have rhinoviruses; we've never seen this pattern in lab.
+507.16	We sequenced part of their viruses;
+509.16	they're new rhinoviruses no one's actually even seen.
+512.16	Remember, our evolutionary-conserved sequences
+514.16	we're using on this array allow us to detect
+516.16	even novel or uncharacterized viruses,
+518.16	because we pick what is conserved throughout evolution.
+522.16	Here's another guy. You can play the diagnosis game yourself here.
+525.16	These different blocks represent
+527.16	the different viruses in this paramyxovirus family,
+529.16	so you can kind of go down the blocks
+530.16	and see where the signal is.
+532.16	Well, doesn't have canine distemper; that's probably good.
+535.16	(Laughter)
+537.16	But by the time you get to block nine,
+539.16	you see that respiratory syncytial virus.
+541.16	Maybe they have kids. And then you can see, also,
+544.16	the family member that's related: RSVB is showing up here.
+546.16	So, that's great.
+547.16	Here's another individual, sampled on two separate days --
+550.16	repeat visits to the clinic.
+552.16	This individual has parainfluenza-1,
+555.16	and you can see that there's a little stripe over here
+557.16	for Sendai virus: that's mouse parainfluenza.
+560.16	The genetic relationships are very close there. That's a lot of fun.
+564.16	So, we built out the chip.
+565.16	We made a chip that has every known virus ever discovered on it.
+569.16	Why not? Every plant virus, every insect virus, every marine virus.
+572.16	Everything that we could get out of GenBank --
+574.16	that is, the national repository of sequences.
+576.16	Now we're using this chip. And what are we using it for?
+579.16	Well, first of all, when you have a big chip like this,
+581.16	you need a little bit more informatics,
+583.16	so we designed the system to do automatic diagnosis.
+585.16	And the idea is that we simply have virtual patterns,
+588.16	because we're never going to get samples of every virus --
+590.16	it would be virtually impossible. But we can get virtual patterns,
+593.16	and compare them to our observed result --
+595.16	which is a very complex mixture -- and come up with some sort of score
+599.16	of how likely it is this is a rhinovirus or something.
+602.16	And this is what this looks like.
+604.16	If, for example, you used a cell culture
+606.16	that's chronically infected with papilloma,
+608.16	you get a little computer readout here,
+610.16	and our algorithm says it's probably papilloma type 18.
+614.16	And that is, in fact, what these particular cell cultures
+616.16	are chronically infected with.
+618.16	So let's do something a little bit harder.
+620.16	We put the beeper in the clinic.
+621.16	When somebody shows up, and the hospital doesn't know what to do
+624.16	because they can't diagnose it, they call us.
+626.16	That's the idea, and we're setting this up in the Bay Area.
+628.16	And so, this case report happened three weeks ago.
+630.16	We have a 28-year-old healthy woman, no travel history,
+633.16	[unclear], doesn't smoke, doesn't drink.
+640.16	she's coughing up blood -- muscle pain.
+642.16	She went to the clinic, and they gave her antibiotics
+646.16	and then sent her home.
+647.16	She came back after ten days of fever, right? Still has the fever,
+651.16	and she's hypoxic -- she doesn't have much oxygen in her lungs.
+654.16	They did a CT scan.
+655.16	A normal lung is all sort of dark and black here.
+659.16	All this white stuff -- it's not good.
+661.16	This sort of tree and bud formation indicates there's inflammation;
+664.16	there's likely to be infection.
+666.16	OK. So, the patient was treated then
+669.16	with a third-generation cephalosporin antibiotic and doxycycline,
+673.16	and on day three, it didn't help: she had progressed to acute failure.
+677.16	They had to intubate her, so they put a tube down her throat
+680.16	and they began to mechanically ventilate her.
+681.16	She could no longer breathe for herself.
+683.16	What to do next? Don't know.
+685.16	Switch antibiotics: so they switched to another antibiotic,
+688.16	Tamiflu.
+690.16	It's not clear why they thought she had the flu,
+692.16	but they switched to Tamiflu.
+694.16	And on day six, they basically threw in the towel.
+696.16	You do an open lung biopsy when you've got no other options.
+700.16	There's an eight percent mortality rate with just doing this procedure,
+702.16	and so basically -- and what do they learn from it?
+705.16	You're looking at her open lung biopsy.
+707.16	And I'm no pathologist, but you can't tell much from this.
+709.16	All you can tell is, there's a lot of swelling: bronchiolitis.
+712.16	"It was ""unrevealing"": that's the pathologist's report."
+715.16	And so, what did they test her for?
+718.16	They have their own tests, of course,
+719.16	and so they tested her for over 70 different assays,
+722.16	for every sort of bacteria and fungus and viral assay
+725.16	you can buy off the shelf:
+727.16	SARS, metapneumovirus, HIV, RSV -- all these.
+730.16	Everything came back negative, over 100,000 dollars worth of tests.
+734.16	I mean, they went to the max for this woman.
+737.16	And basically on hospital day eight, that's when they called us.
+740.16	They gave us endotracheal aspirate --
+742.16	you know, a little fluid from the throat,
+744.16	from this tube that they got down there -- and they gave us this.
+746.16	We put it on the chip; what do we see? Well, we saw parainfluenza-4.
+751.16	Well, what the hell's parainfluenza-4?
+753.16	No one tests for parainfluenza-4. No one cares about it.
+756.16	In fact, it's not even really sequenced that much.
+759.16	There's just a little bit of it sequenced.
+761.16	There's almost no epidemiology or studies on it.
+763.16	No one would even consider it,
+765.16	because no one had a clue that it could cause respiratory failure.
+768.16	And why is that? Just lore. There's no data --
+771.16	no data to support whether it causes severe or mild disease.
+775.16	Clearly, we have a case of a healthy person that's going down.
+778.16	OK, that's one case report.
+781.16	I'm going to tell you one last thing in the last two minutes
+783.16	that's unpublished -- it's going to come out tomorrow --
+786.16	and it's an interesting case of how you might use this chip
+789.16	to find something new and open a new door.
+791.16	Prostate cancer. I don't need to give you many statistics
+795.16	about prostate cancer. Most of you already know it:
+798.16	third leading cause of cancer deaths in the U.S.
+800.16	Lots of risk factors,
+802.16	but there is a genetic predisposition to prostate cancer.
+806.16	For maybe about 10 percent of prostate cancer,
+808.16	there are folks that are predisposed to it.
+810.16	And the first gene that was mapped in association studies
+814.16	for this, early-onset prostate cancer, was this gene called RNASEL.
+818.16	What is that? It's an antiviral defense enzyme.
+821.16	So, we're sitting around and thinking,
+823.16	"""Why would men who have the mutation --"
+825.16	a defect in an antiviral defense system -- get prostate cancer?
+830.16	"It doesn't make sense -- unless, maybe, there's a virus?"""
+833.16	So, we put tumors --- and now we have over 100 tumors -- on our array.
+839.16	And we know who's got defects in RNASEL and who doesn't.
+842.16	And I'm showing you the signal from the chip here,
+845.16	and I'm showing you for the block of retroviral oligos.
+849.16	And what I'm telling you here from the signal, is
+851.16	that men who have a mutation in this antiviral defense enzyme,
+855.16	and have a tumor, often have -- 40 percent of the time --
+859.16	a signature which reveals a new retrovirus.
+863.16	OK, that's pretty wild. What is it?
+866.16	So, we clone the whole virus.
+867.16	First of all, I'll tell you that a little automated prediction told us
+871.16	it was very similar to a mouse virus.
+873.16	But that doesn't tell us too much,
+874.16	so we actually clone the whole thing.
+876.16	And the viral genome I'm showing you right here?
+878.16	It's a classic gamma retrovirus, but it's totally new;
+881.16	no one's ever seen it before.
+882.16	Its closest relative is, in fact, from mice,
+885.16	and so we would call this a xenotropic retrovirus,
+889.16	because it's infecting a species other than mice.
+892.16	And this is a little phylogenetic tree
+894.16	to see how it's related to other viruses.
+896.16	We've done it for many patients now,
+899.16	and we can say that they're all independent infections.
+902.16	They all have the same virus,
+903.16	but they're different enough that there's reason to believe
+906.16	that they've been independently acquired.
+908.16	Is it really in the tissue? And I'll end up with this: yes.
+910.16	We take slices of these biopsies of tumor tissue
+913.16	and use material to actually locate the virus,
+915.16	and we find cells here with viral particles in them.
+919.16	These guys really do have this virus.
+921.16	Does this virus cause prostate cancer?
+923.16	Nothing I'm saying here implies causality. I don't know.
+927.16	Is it a link to oncogenesis? I don't know.
+929.16	Is it the case that these guys are just more susceptible to viruses?
+933.16	Could be. And it might have nothing to do with cancer.
+936.16	But now it's a door.
+937.16	We have a strong association between the presence of this virus
+940.16	and a genetic mutation that's been linked to cancer.
+943.16	That's where we're at.
+944.16	So, it opens up more questions than it answers, I'm afraid,
+948.16	but that's what, you know, science is really good at.
+950.16	This was all done by folks in the lab --
+952.16	I cannot take credit for most of this.
+953.16	This is a collaboration between myself and Don.
+954.16	This is the guy who started the project in my lab,
+957.16	and this is the guy who's been doing prostate stuff.
+959.16	Thank you very much. (Applause)

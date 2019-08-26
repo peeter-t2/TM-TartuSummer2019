@@ -1,0 +1,192 @@
+startsecond	text
+12.903	When I was growing up, I really 
+12.903	liked playing hide-and-seek a lot.
+18.383	One time, though, I thought climbing
+18.383	a tree would lead to a great hiding spot,
+22.492	but I fell and broke my arm.
+25.395	I actually started first grade
+25.395	with a big cast all over my torso.
+30.178	It was taken off six weeks later,
+30.178	but even then, I couldn't extend my elbow,
+34.323	and I had to do physical therapy
+34.323	to flex and extend it,
+41.021	I barely did it, because
+41.021	I found it boring and painful,
+44.063	and as a result, it took me
+44.063	another six weeks to get better.
+48.684	Many years later, my mom
+48.684	developed frozen shoulder,
+51.548	which leads to pain
+51.548	and stiffness in the shoulder.
+56.044	The person I believed for half of my life
+56.044	to have superpowers
+59.155	suddenly needed help
+59.155	to get dressed or to cut food.
+63.474	She went each week to physical therapy,
+63.474	but just like me,
+66.283	she barely followed the home treatment,
+68.187	and it took her
+68.187	over five months to feel better.
+71.848	Both my mom and I
+71.848	required physical therapy,
+74.503	a process of doing a suite
+74.503	of repetitive exercises
+77.266	in order to regain the range of movement
+77.266	lost due to an accident or injury.
+81.794	At first, a physical therapist
+81.794	works with patients,
+84.171	but then it's up to the patients
+84.171	to do their exercises at home.
+87.134	But patients find physical therapy
+87.134	boring, frustrating, confusing
+90.923	and lengthy before seeing results.
+93.844	Sadly, patient noncompliance
+93.844	can be as high as 70 percent.
+98.837	This means the majority of patients
+98.837	don't do their exercises
+102.226	and therefore take
+102.226	a lot longer to get better.
+106.011	All physical therapists agree
+106.011	that special exercises
+108.797	reduce the time needed for recovery,
+110.957	but patients lack
+110.957	the motivation to do them.
+114.393	So together with three friends,
+114.393	all of us software geeks,
+118.898	we asked ourselves,
+120.987	wouldn't it be interesting if patients
+120.987	could play their way to recovery?
+125.585	We started building MIRA,
+125.585	A P.C. software platform
+128.441	that uses this Kinect device,
+128.441	a motion capture camera,
+131.339	to transform traditional exercises
+131.339	into video games.
+135.702	My physical therapist has already set up
+135.702	a schedule for my particular therapy.
+140.364	Let's see how this looks.
+145.867	The first game asks me
+145.867	to fly a bee up and down
+148.746	to gather pollen to deposit in beehives,
+151.277	all while avoiding the other bugs.
+153.738	I control the bee by doing
+153.738	elbow extension and flexion,
+156.964	just like when I was seven years old
+156.964	after the cast was taken off.
+161.865	When designing a game,
+161.865	we speak to physical therapists at first
+164.929	to understand what movement
+164.929	patients need to do.
+167.856	We then make that a video game
+169.527	to give patients simple,
+169.527	motivating objectives to follow.
+173.312	But the software is very customizable,
+175.239	and physical therapists can also
+175.239	create their own exercises.
+179.192	Using the software, my physical therapist
+181.183	recorded herself performing
+181.183	a shoulder abduction,
+183.471	which is one of the movements
+183.471	my mom had to do
+185.664	when she had frozen shoulder.
+187.361	I can follow my therapist's example
+187.361	on the left side of the screen,
+190.819	while on the right, I see myself
+190.819	doing the recommended movement.
+194.511	I feel more engaged and confident,
+196.554	as I'm exercising alongside my therapist
+199.015	with the exercises my therapist
+199.015	thinks are best for me.
+202.87	This basically extends the application
+202.87	for physical therapists
+205.795	to create whatever exercises
+205.795	they think are best.
+210.323	This is an auction house game
+210.323	for preventing falls,
+213.574	designed to strengthen muscles
+213.574	and improve balance.
+216.569	As a patient, I need to do
+216.569	sit and stand movements,
+219.564	and when I stand up,
+221.422	I bid for the items I want to buy.
+223.767	(Laughter)
+225.88	In two days, my grandmother
+225.88	will be 82 years old,
+228.875	and there's a 50 percent chance
+228.875	for people over 80
+231.29	to fall at least once per year,
+233.171	which could lead to a broken hip
+233.171	or even worse.
+236.259	Poor muscle tone and impaired balance
+236.259	are the number one cause of falls,
+240.415	so reversing these problems
+240.415	through targeted exercise
+243.526	will help keep older people
+243.526	like my grandmother
+246.196	safer and independent for longer.
+249.029	When my schedule ends,
+249.029	MIRA briefly shows me
+251.514	how I progressed throughout my session.
+255.553	I have just shown you
+255.553	three different games
+257.62	for kids, adults and seniors.
+260.113	These can be used with orthopedic
+260.113	or neurologic patients,
+262.942	but we'll soon have options
+262.942	for children with autism,
+265.886	mental health or speech therapy.
+268.661	My physical therapist
+268.661	can go back to my profile
+270.999	and see the data gathered
+270.999	during my sessions.
+273.99	She can see how much I moved,
+273.99	how many points I scored,
+276.66	with what speed I moved my joints,
+278.61	and so on.
+279.841	My physical therapist can use all of this
+279.841	to adapt my treatment.
+283.881	I'm so pleased this version is now in use
+285.947	in over 10 clinics
+285.947	across Europe and the U.S.,
+289.244	and we're working on the home version.
+291.197	We want to enable physical therapists
+291.197	to prescribe this digital treatment
+295.67	and help patients play their way
+295.67	to recovery at home.
+300.03	If my mom or I had a tool like this
+300.03	when we needed physical therapy,
+303.473	then we would have been more successful
+303.473	following the treatment,
+306.519	and perhaps gotten better a lot sooner.
+310.049	Thank you.
+311.651	(Applause)
+314.031	Tom Rielly: So Cosmin, tell me
+314.031	what hardware is this
+317.607	that they're rapidly putting away?
+319.47	What is that made of,
+319.47	and how much does it cost?
+321.71	Cosmin Milhau: So it's
+321.71	a Microsoft Surface Pro 3 for the demo,
+324.789	but you just need a computer
+324.789	and a Kinect, which is 120 dollars.
+328.534	TR: Right, and the Kinect is the thing
+328.534	that people use for their Xboxes
+331.981	to do 3D games, right?
+333.052	CM: Exactly, but you don't need the Xbox,
+333.052	you only need a camera.
+336.113	TR: Right, so this is less
+336.113	than a $1,000 solution.
+338.875	CM: Definitely, 400 dollars,
+338.875	you can definitely use it.
+341.458	TR: So right now, you're doing
+341.458	clinical trials in clinics.
+344.254	CM: Yes.
+344.993	TR: And then the hope is to get it
+344.993	so it's a home version
+347.713	and I can do my exercise remotely,
+349.392	and the therapist at the clinic
+349.392	can see how I'm doing and stuff like that.
+352.922	CM: Exactly.
+353.989	TR: Cool. Thanks so much.
+353.989	CM: Thank you.
+355.843	(Applause)

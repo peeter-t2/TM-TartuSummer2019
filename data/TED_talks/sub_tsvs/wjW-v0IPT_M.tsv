@@ -1,0 +1,100 @@
+startsecond	text
+16.26	I'm Dr. David Hanson, and I build robots with character.
+19.26	And by that, I mean
+21.26	that I develop robots that are characters,
+23.26	but also robots that will eventually
+26.26	come to empathize with you.
+28.26	So we're starting with a variety of technologies
+30.26	that have converged into these conversational character robots
+34.26	that can see faces, make eye contact with you,
+36.26	make a full range of facial expressions, understand speech
+39.26	and begin to model how you're feeling
+43.26	and who you are, and build a relationship with you.
+46.26	I developed a series of technologies
+48.26	that allowed the robots to make more realistic facial expressions
+51.26	than previously achieved, on lower power,
+53.26	which enabled the walking biped robots, the first androids.
+57.26	So, it's a full range of facial expressions
+59.26	simulating all the major muscles in the human face,
+61.26	running on very small batteries,
+63.26	extremely lightweight.
+65.26	The materials that allowed the battery-operated facial expressions
+68.26	is a material that we call Frubber,
+70.26	and it actually has three major innovations
+72.26	in the material that allow this to happen.
+74.26	One is hierarchical pores,
+76.26	and the other is a macro-molecular nanoscale porosity in the material.
+80.26	There he's starting to walk.
+83.26	This is at the Korean Advanced Institute of Science and Technology.
+86.26	I built the head. They built the body.
+90.26	So the goal here is to achieve sentience in machines,
+93.26	and not just sentience, but empathy.
+97.26	We're working with the Machine Perception Laboratory
+99.26	at the U.C. San Diego.
+101.26	They have this really remarkable facial expression technology
+104.26	that recognizes facial expressions,
+106.26	what facial expressions you're making.
+108.26	It also recognizes where you're looking, your head orientation.
+111.26	We're emulating all the major facial expressions,
+113.26	and then controlling it with the software
+115.26	that we call the Character Engine.
+117.26	And here is a little bit of the technology that's involved in that.
+121.26	In fact, right now -- plug it from here, and then plug it in here,
+129.26	and now let's see if it gets my facial expressions.
+132.26	Okay. So I'm smiling.
+137.26	(Laughter)
+139.26	Now I'm frowning.
+141.26	And this is really heavily backlit.
+145.26	Okay, here we go.
+147.26	Oh, it's so sad.
+149.26	Okay, so you smile, frowning.
+152.26	So his perception of your emotional states
+154.26	is very important for machines to effectively become empathetic.
+158.26	Machines are becoming devastatingly capable
+161.26	of things like killing. Right?
+165.26	Those machines have no place for empathy.
+167.26	And there is billions of dollars being spent on that.
+169.26	Character robotics could plant the seed
+171.26	for robots that actually have empathy.
+173.26	So, if they achieve human level intelligence
+175.26	or, quite possibly, greater than human levels of intelligence,
+179.26	this could be the seeds of hope for our future.
+182.26	So, we've made 20 robots in the last eight years, during the course of getting my Ph.D.
+186.26	And then I started Hanson Robotics,
+188.26	which has been developing these things for mass manufacturing.
+192.26	This is one of our robots
+194.26	that we showed at Wired NextFest a couple of years ago.
+196.26	And it sees multiple people in a scene,
+199.26	remembers where individual people are,
+201.26	and looks from person to person, remembering people.
+205.26	So, we're involving two things.
+207.26	One, the perception of people,
+209.26	and two, the natural interface,
+213.26	the natural form of the interface,
+215.26	so that it's more intuitive for you to interact with the robot.
+218.26	You start to believe that it's alive and aware.
+221.26	So one of my favorite projects was bringing all this stuff together
+224.26	in an artistic display of an android portrait
+227.26	of science-fiction writer Philip K. Dick,
+229.26	"who wrote great works like, ""Do Androids Dream of Electric Sheep?"""
+232.26	"which was the basis of the movie ""Bladerunner."""
+234.26	In these stories, robots often think
+237.26	that they're human, and they sort of come to life.
+239.26	So we put his writings, letters,
+242.26	his interviews, correspondences,
+245.26	into a huge database of thousands of pages,
+247.26	and then used some natural language processing
+249.26	to allow you to actually have a conversation with him.
+251.26	And it was kind of spooky, because he would say these things
+253.26	that just sounded like they really understood you.
+256.26	And this is one of the most exciting projects that we're developing,
+259.26	which is a little character that's a spokesbot
+262.26	for friendly artificial intelligence, friendly machine intelligence.
+265.26	And we're getting this mass-manufactured.
+267.26	We specked it out to actually be doable
+270.26	with a very, very low-cost bill of materials,
+273.26	so that it can become a childhood companion for kids.
+277.26	Interfacing with the Internet, it gets smarter over the years.
+280.26	As artificial intelligence evolves, so does his intelligence.
+283.26	Chris Anderson: Thank you so much. That's incredible.
+285.26	(Applause)

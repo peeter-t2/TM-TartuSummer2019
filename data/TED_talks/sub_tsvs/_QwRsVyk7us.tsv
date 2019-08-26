@@ -1,0 +1,189 @@
+startsecond	text
+0	Translator: Joseph Geni
+0	Reviewer: Morton Bast
+15.91	I have a friend in Portugal
+18.158	whose grandfather built a vehicle out of a bicycle
+20.582	and a washing machine so he could transport his family.
+23.734	He did it because he couldn't afford a car,
+26.278	but also because he knew how to build one.
+29.182	There was a time when we understood how things worked
+32.318	and how they were made, so we could build and repair them,
+36.15	or at the very least
+37.277	make informed decisions about what to buy.
+40.757	Many of these do-it-yourself practices
+43.149	were lost in the second half of the 20th century.
+46.358	But now, the maker community and the open-source model
+50.03	are bringing this kind of knowledge about how things work
+53.178	and what they're made of back into our lives,
+56.373	and I believe we need to take them to the next level,
+59.397	to the components things are made of.
+62.365	For the most part, we still know
+64.517	what traditional materials like paper and textiles are made of
+68.039	and how they are produced.
+70.068	But now we have these amazing, futuristic composites --
+74.131	plastics that change shape,
+76.334	paints that conduct electricity,
+78.686	pigments that change color, fabrics that light up.
+83.102	Let me show you some examples.
+89.429	So conductive ink allows us to paint circuits
+93.145	instead of using the traditional
+95.088	printed circuit boards or wires.
+97.686	In the case of this little example I'm holding,
+100.075	we used it to create a touch sensor that reacts to my skin
+103.956	by turning on this little light.
+106.671	Conductive ink has been used by artists,
+109.766	but recent developments indicate that we will soon be able
+113.141	to use it in laser printers and pens.
+117.636	And this is a sheet of acrylic infused
+119.966	with colorless light-diffusing particles.
+122.762	What this means is that, while regular acrylic
+125.379	only diffuses light around the edges,
+127.727	this one illuminates across the entire surface
+130.997	when I turn on the lights around it.
+133.91	Two of the known applications for this material
+136.212	include interior design and multi-touch systems.
+141.325	And thermochromic pigments
+143.326	change color at a given temperature.
+145.939	So I'm going to place this on a hot plate
+148.725	that is set to a temperature only slightly higher than ambient
+152.23	and you can see what happens.
+158.076	So one of the principle applications for this material
+160.836	is, amongst other things, in baby bottles,
+164.078	so it indicates when the contents are cool enough to drink.
+169.432	So these are just a few of what are commonly known
+172.188	as smart materials.
+174.097	In a few years, they will be in many of the objects
+177.037	and technologies we use on a daily basis.
+180.396	We may not yet have the flying cars science fiction promised us,
+184.61	but we can have walls that change color
+186.979	depending on temperature,
+188.741	keyboards that roll up,
+190.635	and windows that become opaque at the flick of a switch.
+195.067	So I'm a social scientist by training,
+197.572	so why am I here today talking about smart materials?
+201.429	Well first of all, because I am a maker.
+204.142	I'm curious about how things work
+206.548	and how they are made,
+208.175	but also because I believe we should have a deeper understanding
+211.483	of the components that make up our world,
+214.304	and right now, we don't know enough about
+216.784	these high-tech composites our future will be made of.
+220.473	Smart materials are hard to obtain in small quantities.
+223.998	There's barely any information available on how to use them,
+228.038	and very little is said about how they are produced.
+231.935	So for now, they exist mostly in this realm
+234.602	of trade secrets and patents
+237.314	only universities and corporations have access to.
+241.426	So a little over three years ago, Kirsty Boyle and I
+244.275	started a project we called Open Materials.
+247.492	It's a website where we,
+249.299	and anyone else who wants to join us,
+251.811	share experiments, publish information,
+254.867	encourage others to contribute whenever they can,
+258.067	and aggregate resources such as research papers
+262.076	and tutorials by other makers like ourselves.
+265.416	We would like it to become a large,
+268.038	collectively generated database
+270.576	of do-it-yourself information on smart materials.
+274.869	But why should we care
+277.089	how smart materials work and what they are made of?
+280.852	First of all, because we can't shape what we don't understand,
+285.03	and what we don't understand and use
+287.382	ends up shaping us.
+289.59	The objects we use, the clothes we wear,
+292.342	the houses we live in, all have a profound impact
+295.906	on our behavior, health and quality of life.
+299.489	So if we are to live in a world made of smart materials,
+302.63	we should know and understand them.
+305.989	Secondly, and just as important,
+308.333	innovation has always been fueled by tinkerers.
+311.693	So many times, amateurs, not experts,
+315.078	have been the inventors and improvers
+317.397	of things ranging from mountain bikes
+319.877	to semiconductors, personal computers,
+323.189	airplanes.
+326.128	The biggest challenge is that material science is complex
+330.157	and requires expensive equipment.
+332.653	But that's not always the case.
+334.821	Two scientists at University of Illinois understood this
+338.409	when they published a paper on a simpler method
+341.009	for making conductive ink.
+343.429	Jordan Bunker, who had had
+345.341	no experience with chemistry until then,
+348.301	read this paper and reproduced the experiment
+351.088	at his maker space using only off-the-shelf substances
+355.477	and tools.
+357.069	He used a toaster oven,
+358.67	and he even made his own vortex mixer,
+361.636	based on a tutorial by another scientist/maker.
+365.671	Jordan then published his results online,
+368.423	including all the things he had tried and didn't work,
+371.911	so others could study and reproduce it.
+375.055	So Jordan's main form of innovation
+377.727	was to take an experiment created in a well-equipped lab
+381.606	at the university
+383.108	and recreate it in a garage in Chicago
+386.295	using only cheap materials and tools he made himself.
+390.556	And now that he published this work,
+392.829	others can pick up where he left
+394.553	and devise even simpler processes and improvements.
+399.097	Another example I'd like to mention
+401.313	is Hannah Perner-Wilson's Kit-of-No-Parts.
+404.978	Her project's goal is to highlight
+407.858	the expressive qualities of materials
+410.33	while focusing on the creativity and skills of the builder.
+415.354	Electronics kits are very powerful
+417.794	in that they teach us how things work,
+420.346	but the constraints inherent in their design
+423.322	influence the way we learn.
+425.482	So Hannah's approach, on the other hand,
+427.97	is to formulate a series of techniques
+431.186	for creating unusual objects
+433.885	that free us from pre-designed constraints
+436.69	by teaching us about the materials themselves.
+440.101	So amongst Hannah's many impressive experiments,
+442.834	this is one of my favorites.
+444.804	"[""Paper speakers""]"
+448.221	What we're seeing here is just a piece of paper
+451.499	with some copper tape on it connected to an mp3 player
+455.941	and a magnet.
+457.594	"(Music: ""Happy Together"")"
+468.191	So based on the research by Marcelo Coelho from MIT,
+472.027	Hannah created a series of paper speakers
+474.81	out of a wide range of materials
+477.213	from simple copper tape to conductive fabric and ink.
+481.488	Just like Jordan and so many other makers,
+484.224	Hannah published her recipes
+485.851	and allows anyone to copy and reproduce them.
+490.985	But paper electronics is one of the most promising branches
+494.189	of material science
+495.996	in that it allows us to create cheaper and flexible electronics.
+500.198	So Hannah's artisanal work,
+502.754	and the fact that she shared her findings,
+505.002	opens the doors to a series of new possibilities
+508.822	that are both aesthetically appealing and innovative.
+514.262	So the interesting thing about makers
+517.167	is that we create out of passion and curiosity,
+520.21	and we are not afraid to fail.
+522.289	We often tackle problems from unconventional angles,
+526.177	and, in the process, end up discovering alternatives
+529.166	or even better ways to do things.
+531.598	So the more people experiment with materials,
+535.366	the more researchers are willing to share their research,
+538.842	and manufacturers their knowledge,
+541.282	the better chances we have to create technologies
+544.122	that truly serve us all.
+547.06	So I feel a bit as Ted Nelson must have
+549.553	when, in the early 1970s, he wrote,
+553.264	"""You must understand computers now."""
+556.262	Back then, computers were these large mainframes
+560.116	only scientists cared about,
+562.246	and no one dreamed of even having one at home.
+564.966	So it's a little strange that I'm standing here and saying,
+567.942	"""You must understand smart materials now."""
+570.982	Just keep in mind that acquiring preemptive knowledge
+574.718	about emerging technologies
+576.982	is the best way to ensure that we have a say
+579.379	in the making of our future.
+581.542	Thank you.
+584.013	(Applause)

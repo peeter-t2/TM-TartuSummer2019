@@ -1,0 +1,367 @@
+startsecond	text
+15.26	Does anybody know when the stethoscope was invented?
+20.26	Any guesses? 1816.
+23.26	And what I can say is, in 2016,
+26.26	doctors aren't going to be walking around with stethoscopes.
+28.26	There's a whole lot better technology coming,
+30.26	and that's part of the change in medicine.
+33.26	What has changed our society
+36.26	has been wireless devices.
+38.26	But the future are digital medical wireless devices, OK?
+43.26	So, let me give you some examples of this
+45.26	to kind of make this much more concrete.
+48.26	This is the first one. This is an electrocardiogram.
+51.26	And, as a cardiologist, to think that you could see in real time
+54.26	a patient, an individual, anywhere in the world
+57.26	on your smartphone,
+59.26	watching your rhythm -- that's incredible,
+61.26	and it's with us today.
+63.26	But that's just the beginning.
+66.26	You check your email while you're sitting here.
+69.26	In the future you're going to be checking all your vital signs,
+73.26	all your vital signs: your heart rhythm,
+75.26	your blood pressure, your oxygen, your temperature, etc.
+79.26	This is already available today.
+81.26	This is AirStrip Technologies.
+83.26	It's now wired -- or I should say, wireless --
+87.26	by taking the aggregate of these signals
+89.26	in the hospital, in the intensive care unit,
+91.26	and putting it on a smartphone for physicians.
+94.26	If you're an expectant parent,
+96.26	what about the ability to monitor, continuously,
+99.26	fetal heart rate, or intrauterine contractions,
+102.26	and not having to worry so much that things are
+105.26	fine as the pregnancy,
+107.26	and moving over into the time of delivery?
+110.26	And then as we go further,
+113.26	today we have continuous glucose sensors.
+115.26	Right now, they are under the skin,
+117.26	but in the future, they won't have to be implanted.
+121.26	And of course, the desired range -- trying to keep glucose
+123.26	between 75 and less than 200,
+127.26	checking it every five minutes in a continuous glucose sensor --
+130.26	you'll see how that can impact diabetes.
+132.26	And what about sleep?
+134.26	We're going to zoom in on that a little bit.
+136.26	We're supposed to spend a third of our life in sleep.
+138.26	What if, on your phone,
+140.26	which will be available in the next few weeks,
+142.26	you had every minute of your sleep displayed?
+145.26	And this is, of course, as you can see, the awake is the orange.
+148.26	The REM sleep, rapid eye movement,
+150.26	dream state, is in light green;
+152.26	and light is gray, light sleep;
+154.26	and deep sleep, the best restorative sleep,
+156.26	is that dark green.
+158.26	How about counting every calorie?
+160.26	And this is ability, in real time, to actually take
+163.26	measurements of caloric intake
+165.26	as well as expenditure, through a Band-Aid.
+168.26	Now, what I've talked about are physiologic metrics.
+171.26	But what I want to get to, the next frontier,
+174.26	very quickly, and why the stethoscope
+176.26	is on its way out,
+178.26	is because we can transcend listening to the valve sounds,
+182.26	and the breath sounds, because now,
+184.26	introduced by G.E. is a handheld ultra-sound.
+187.26	Why is this important? Because this is so much more sensitive.
+190.26	Here is an example of an abdominal ultrasound,
+193.26	and also a cardiac echo, which can be sent wireless,
+197.26	and then there's an example of fetal monitoring on your smartphone.
+201.26	So, we're not just talking about physiologic metrics --
+204.26	the key measurements of vital signs,
+207.26	and all those things in physiology -- but also all the imaging
+210.26	that one could look at in your smartphone.
+212.26	Now, this is an example of another obsolete technology,
+216.26	soon to be buried: the Holter Monitor.
+218.26	Twenty-four hour recording, lots of wires.
+220.26	This is now a little tiny patch.
+222.26	You can put it on for two weeks
+224.26	and send it in the mail.
+227.26	Now, how does this work? Well,
+229.26	there is these smart Band-Aids or these sensors
+231.26	that one would put on, on a shoe or on the wrist.
+234.26	And this sends a signal
+237.26	and it creates a body area network to a gateway.
+241.26	Gateway could be a smartphone or it could be a dedicated gateway,
+244.26	as today many of these things are dedicated gateways,
+246.26	because they are not so well integrated.
+248.26	That signal goes to the web, the cloud,
+251.26	and then it can be processed and sent anywhere:
+253.26	to a caregiver, to a physician,
+255.26	back to the patient, etc.
+257.26	So, that's basically very simplistic technology
+260.26	of how this works.
+262.26	Now, I have this device on.
+264.26	I didn't want to take my shirt off to show you, but I can tell you it's on.
+267.26	This is a device that not only measures cardiac rhythm,
+271.26	as you saw already,
+273.26	but it also goes well beyond that.
+276.26	This is me now. And you can see the ECG.
+279.26	Below that's the actual heart rate and the trend;
+282.26	to the right of that is a bioconductant.
+284.26	That's the fluid status,
+286.26	fluid status, that's really important
+288.26	if you're monitoring somebody with heart failure.
+290.26	And below that's temperature,
+292.26	and respiration, and oxygen,
+294.26	and then the position activity.
+296.26	So, this is really striking, because this device
+299.26	measures seven things
+301.26	that are very much vital signs
+304.26	for monitoring someone with heart failure. OK?
+308.26	And why is this important? Well,
+310.26	this is the most expensive bed.
+313.26	What if we could reduce the need for hospital beds?
+316.26	Well, we can. First of all, heart failure
+318.26	is the number one reason
+321.26	for hospital admissions and readmissions in this country.
+324.26	The cost of heart failure is 37 billion dollars a year,
+329.26	which is 80 percent related to hospitalization.
+332.26	And in the course of 30 days after a hospital stay
+335.26	for a Medicare greater than 65 years or older,
+338.26	is -- 27 percent are readmitted in 30 days,
+341.26	and by six months, over 56 percent are readmitted.
+345.26	So, can we improve that? Well the idea is
+347.26	we take this device that I'm wearing,
+349.26	and we put it on 600 patients with heart failure,
+353.26	randomly assigned, versus 600 patients
+355.26	who don't have active monitoring,
+357.26	and see whether we can reduce heart failure readmissions,
+360.26	and that's exciting. And we'll start that trial,
+362.26	and you'll hear more about how we're going to do that,
+364.26	but that's a type of wireless device trial
+367.26	that could change medicine in the years ahead.
+370.26	Why now? Why has this all of a sudden become
+373.26	a reality, an exciting direction in the future of medicine?
+377.26	What we have is, in a way, a perfect positive storm.
+381.26	This sets up consumer-driven healthcare.
+383.26	That's where this is all starting.
+385.26	Let me just give you specifics about why this is
+388.26	a big movement if you're not aware of it:
+390.26	1.2 million Americans
+392.26	have gotten a Nike shoe, which is a body-area network
+395.26	that connects the shoe, the sole of the shoe to the iPhone, or an iPod.
+399.26	And this Wired Magazine cover article
+401.26	really captured a lot of this; it talked a lot about the Nike shoe
+404.26	and how quickly that's been adopted to monitor exercise physiology
+407.26	and energy expenditure.
+409.26	Here are some things, the principles
+411.26	that are guiding principles to keep in mind:
+413.26	"""A data-driven health revolution"
+415.26	promises to make us all
+417.26	"better, faster, and stronger. Living by numbers."""
+420.26	And this one, which is really telling,
+422.26	this was from July, this cover article:
+425.26	"""The personal metrics movement goes way beyond"
+428.26	diet and exercise. It's about tracking every facet
+431.26	of life, from sleep to mood to pain,
+436.26	Well, I tried this device.
+439.26	A lot of you have gotten that Phillips Direct Life.
+442.26	I didn't have one of those,
+444.26	but I got the Fitbit.
+446.26	That looks like this.
+448.26	It's like a wireless accelerometer, pedometer.
+451.26	And I want to just give you the results of that testing,
+453.26	because I wanted to understand about the consumer movement.
+456.26	I hope the, by the way, the Phillips Direct Life works better --
+458.26	I hope so.
+460.26	But this monitors food, it monitors activity and tracks weight.
+464.26	However you have to put in most of this stuff.
+466.26	The only thing it really tracks by itself is activity,
+469.26	and even then, it's not complete.
+471.26	So, you exercise and it picks up the exercise.
+474.26	You put in your height and weight, it calculates BMI,
+477.26	and of course it tells you how many calories you're expending
+480.26	from the exercise, and how many you took in,
+483.26	if you go in and enter all the foods.
+484.26	But it really wants you to enter all your activity.
+487.26	And so I went to this,
+490.26	and of course I was gratified that it picked up
+492.26	the 42 minutes of exercise, elliptical exercise I did,
+496.26	but then it wants more information.
+498.26	"So, it says, ""You want to log sexual activity."
+501.26	"How long did you do it for?"""
+503.26	(Laughter)
+506.26	"And it says, ""How hard was it?"""
+509.26	(Laughter)
+510.26	"Furthermore it says, ""Start time."""
+513.26	Now, this doesn't appear -- this just doesn't work,
+515.26	I mean, this just doesn't work.
+517.26	So, now I want to move to sleep.
+519.26	Who would ever have thought you could have your own EEG
+522.26	at your home, tagged to a very nice alarm clock, by the way?
+525.26	This is the headband that goes with this alarm clock.
+528.26	It monitors your brainwaves continuously, when you're sleeping.
+531.26	So, I did this thing for seven days
+533.26	getting ready for TEDMed.
+535.26	This is an important part of our life, one-third you're supposed to be sleeping.
+538.26	Of course how many here
+540.26	have any problems with sleeping?
+544.26	It's usually 90 percent. So, you tell me you sleep better than expected.
+547.26	Okay, well this was a week of
+550.26	my life in sleeping,
+552.26	and you get a Z.Q. score. Instead of an I.Q. score,
+555.26	you get a Z.Q. score when you wake up.
+557.26	"You say, ""Oh, OK."" And a Z.Q. score"
+559.26	is adjusted to age,
+561.26	and you want to get as high as you possibly can.
+564.26	So this is the moment-by-moment,
+566.26	or minute-by-minute sleep.
+568.26	And you see that Z.Q. there was 80-odd.
+571.26	And the wake time is in orange.
+574.26	And this can be a problem, as I learned.
+577.26	Because it not only helps you with quantifying
+579.26	your sleep,
+581.26	but also tells others you're awake.
+584.26	So, when my wife came in and she
+587.26	could tell you're awake.
+589.26	"""Eric, I want to talk. I want to talk."""
+591.26	And I'm trying to play possum.
+593.26	This thing is very, very impressive.
+596.26	OK. So, that's the first night.
+599.26	And this one is now 67,
+601.26	and that's not a good score.
+603.26	And this tells you, of course, how much you had in REM sleep,
+605.26	in deep sleep, and all this sort of thing.
+607.26	This was really fascinating because
+609.26	this gave that quantitation
+611.26	about all the different phases of sleep.
+613.26	So, it also then tells you how you do compared to your age group.
+616.26	It's like a managed competition of sleep.
+619.26	And really interesting stuff.
+623.26	"Look at this thing and say, ""Well, I didn't think I was a very good sleeper,"
+626.26	"but actually I did better than average in 50 to 60 year olds."" OK?"
+631.26	And the key thing was, what I didn't know,
+633.26	was that I was a really good dreamer.
+635.26	OK. Now let's move from sleep to diseases.
+640.26	Eighty percent of Americans have chronic disease,
+643.26	or 80 percent of age greater than 65 have
+646.26	two or more chronic disease,
+650.26	have one or more chronic disease,
+652.26	and 80 percent of our 1.5, whatever, trillion
+657.26	expenditures are related to chronic disease.
+659.26	Now, diabetes is one of the big ones.
+661.26	Almost 24 million people have diabetes.
+664.26	And here is the latest map. It was published
+666.26	just a little more than a week ago in the New York Times,
+669.26	and it isn't looking good.
+671.26	That is, for men, 29 percent
+674.26	in the country over 60 have Type II diabetes,
+677.26	and women, although it's less, it's terribly high.
+680.26	But of course we have a way to measure that now
+682.26	on a continuous basis,
+684.26	with a sensor that detects blood glucose,
+686.26	and it's important because we could detect
+688.26	hyperglycemia that otherwise wouldn't be known,
+690.26	and also hypoglycemia.
+692.26	And you can see the red dots, in this particular patient's case,
+695.26	were finger sticks, which would have missed both ends.
+698.26	But by continuous monitoring,
+700.26	it captures all that vital information.
+702.26	The future of this though,
+704.26	is being able to move this to a Band-Aid type phenomenon,
+706.26	and that's not so far away.
+709.26	So, let me just give you, very quickly,
+713.26	All these things are possible --
+715.26	some of them are very close,
+717.26	or already, as you heard,
+719.26	are available today, in some way or form.
+721.26	Alzheimer's disease:
+723.26	there's five million people affected, and you can check
+725.26	vital signs, activity, balance.
+727.26	Asthma: large number, we could detect things like
+730.26	pollen count, air quality, respiratory rate. Breast cancer,
+733.26	I'll show you an example of that real quickly.
+736.26	Chronic obstructive pulmonary disease.
+739.26	Depression, there's a great approach to that in mood disorders.
+742.26	Diabetes I've just mentioned. Heart failure we already talked about. Hypertension:
+748.26	to come up with much better management and prevention.
+753.26	And obesity we already talked about, the ways to get to that.
+756.26	And sleep disorders.
+758.26	This is effective around the world. The access to smartphones
+761.26	and cell phones today is extraordinary.
+764.26	And this article from The Economist summed it up beautifully
+767.26	about the opportunities in health across the developing world:
+769.26	"""Mobile phones made a bigger difference to the lives of more people,"
+772.26	"more quickly, than any previous technology."""
+775.26	And that's before we got going on the m-health world.
+778.26	Aging: The problem is enormous,
+783.26	but the solutions are extraordinary,
+786.26	and they include so many different things.
+788.26	One of the ones I just wanted to mention:
+790.26	The iShoe is another example of a sensor that
+793.26	improves proprioception among the elderly
+796.26	to prevent falling.
+797.26	One of many different techniques using wireless sensors.
+800.26	So, we can change medicine across the continuum of care,
+803.26	across the ages from premies or unborn children
+807.26	to seniors; the pharmaceutical arena changes;
+810.26	the full spectrum of disease -- I hope I've given you a sense of that --
+813.26	across the globe.
+815.26	There are two things that can really accelerate this whole process.
+818.26	One of them -- we're very fortunate -- is to develop a dedicated institute
+822.26	and that's work that started with the work that Scripps with Qualcomm ...
+828.26	and then the great fortune of meeting up with Gary and Mary West,
+831.26	to get behind this wireless health institute.
+834.26	San Diego is an extraordinary place for this.
+836.26	There's over 650 wireless companies,
+842.26	It's the number one source of commerce, and interestingly
+845.26	it dovetails beautifully with over 500 life science companies.
+848.26	The wireless institute,
+851.26	the West Wireless Health Institute,
+853.26	is really the outgrowth of two extraordinary people
+857.26	who are here this evening:
+859.26	Gary and Mary West. And I'd like to give it up for them for getting behind this.
+862.26	(Applause)
+866.26	Their fantastic philanthropic investment made this possible,
+869.26	and this is really a nonprofit education center
+872.26	which is just about to open. It looks like this,
+875.26	this whole building dedicated.
+878.26	And what it's trying to do is accelerate this era:
+880.26	to take unmet medical needs, to work and innovate --
+883.26	and we just appointed the chief engineer, Mehran Mehregany,
+886.26	it was announced on Monday --
+888.26	then to move up with development,
+890.26	clinical trial validation and then changing medical practice,
+893.26	the most challenging thing of all,
+896.26	requiring attention to reimbursement, healthcare policy, healthcare economics.
+899.26	The other big thing, besides having this fantastic
+902.26	institute to catalyze this process
+905.26	is guidance,
+908.26	and that's of course relying on the fact that medicine goes digital.
+911.26	If we understand biology from genomics and omics
+915.26	and wireless through physiologic phenotyping, that's big.
+919.26	Because what it does is allow a convergence like we've never had before.
+922.26	Over 80 major diseases have been cracked at the genomic level,
+927.26	but this is quite extraordinary: More has been learned about
+930.26	the underpinnings of disease in the last two and a half years
+932.26	than in the history of man.
+934.26	And when you put that together with, for example,
+936.26	now an app for the iPhone with your genotype
+939.26	to guide drug therapy ...
+941.26	but, the future -- we can now tell who's going to get Type II diabetes
+945.26	from all the common variants,
+947.26	and that's going to get filled in more
+949.26	with low-frequency variants in the future.
+951.26	We can tell who's going to get breast cancer
+953.26	from the various genes.
+955.26	We can also know who's likely to get atrial fibrillation.
+958.26	And finally, another example: sudden cardiac death.
+961.26	Each of these has a sensor.
+963.26	We can give glucose a sensor for diabetes to prevent it.
+967.26	We can prevent, or have the earliest detection possible,
+970.26	for breast cancer with an ultrasound device
+973.26	given to the patient.
+975.26	An iPatch, iRhythm, for atrial fibrillation.
+978.26	And vital-signs monitoring to prevent sudden cardiac death.
+982.26	We lose 700,000 people a year in the U.S. from sudden cardiac death.
+985.26	So, I hope I've convinced you of this,
+988.26	of the impact on hospital clinic resources is profound
+992.26	and then the impact on diseases is equally impressive
+995.26	across all these different diseases and more.
+998.26	It's really taking individualized medicine to a new height
+1002.26	and it's hyper-innovative,
+1005.26	and I think it represents the black swan of medicine.
+1009.26	Thanks for your attention.
+1012.26	(Applause)

@@ -1,0 +1,324 @@
+startsecond	text
+12.556	Our emotions influence
+12.556	every aspect of our lives,
+16.573	from our health and how we learn,
+16.573	to how we do business and make decisions,
+20.149	big ones and small.
+22.672	Our emotions also influence
+22.672	how we connect with one another.
+27.132	We've evolved to live
+27.132	in a world like this,
+31.108	but instead, we're living
+31.108	more and more of our lives like this --
+35.427	this is the text message
+35.427	from my daughter last night --
+38.561	in a world that's devoid of emotion.
+41.301	So I'm on a mission to change that.
+43.252	I want to bring emotions
+43.252	back into our digital experiences.
+48.223	I started on this path 15 years ago.
+51.3	I was a computer scientist in Egypt,
+53.366	and I had just gotten accepted to
+53.366	a Ph.D. program at Cambridge University.
+57.871	So I did something quite unusual
+59.984	for a young newlywed Muslim Egyptian wife:
+65.599	With the support of my husband,
+65.599	who had to stay in Egypt,
+68.598	I packed my bags and I moved to England.
+71.616	At Cambridge, thousands of miles
+71.616	away from home,
+74.844	I realized I was spending
+74.844	more hours with my laptop
+78.257	than I did with any other human.
+80.486	Yet despite this intimacy, my laptop
+80.486	had absolutely no idea how I was feeling.
+85.339	It had no idea if I was happy,
+88.55	having a bad day, or stressed, confused,
+91.538	and so that got frustrating.
+95.6	Even worse, as I communicated
+95.6	online with my family back home,
+101.421	I felt that all my emotions
+101.421	disappeared in cyberspace.
+104.703	I was homesick, I was lonely,
+104.703	and on some days I was actually crying,
+109.858	but all I had to communicate
+109.858	these emotions was this.
+114.786	(Laughter)
+116.806	Today's technology
+116.806	has lots of I.Q., but no E.Q.;
+121.78	lots of cognitive intelligence,
+121.78	but no emotional intelligence.
+124.956	So that got me thinking,
+127.153	what if our technology
+127.153	could sense our emotions?
+130.777	What if our devices could sense
+130.777	how we felt and reacted accordingly,
+134.853	just the way an emotionally
+134.853	intelligent friend would?
+138.666	Those questions led me and my team
+142.23	to create technologies that can read
+142.23	and respond to our emotions,
+146.607	and our starting point was the human face.
+150.577	So our human face happens to be
+150.577	one of the most powerful channels
+153.75	that we all use to communicate
+153.75	social and emotional states,
+157.766	everything from enjoyment, surprise,
+160.776	empathy and curiosity.
+164.979	In emotion science, we call each
+164.979	facial muscle movement an action unit.
+169.907	So for example, action unit 12,
+172.832	it's not a Hollywood blockbuster,
+174.87	it is actually a lip corner pull,
+174.87	which is the main component of a smile.
+178.312	Try it everybody. Let's get
+178.312	some smiles going on.
+181.3	Another example is action unit 4.
+181.3	It's the brow furrow.
+183.954	It's when you draw your eyebrows together
+186.192	and you create all
+186.192	these textures and wrinkles.
+188.459	We don't like them, but it's
+188.459	a strong indicator of a negative emotion.
+192.754	So we have about 45 of these action units,
+194.96	and they combine to express
+194.96	hundreds of emotions.
+198.35	Teaching a computer to read
+198.35	these facial emotions is hard,
+202.251	because these action units,
+202.251	they can be fast, they're subtle,
+205.223	and they combine in many different ways.
+207.777	So take, for example,
+207.777	the smile and the smirk.
+211.515	They look somewhat similar,
+211.515	but they mean very different things.
+215.268	(Laughter)
+216.986	So the smile is positive,
+219.99	a smirk is often negative.
+221.26	Sometimes a smirk
+221.26	can make you become famous.
+225.136	But seriously, it's important
+225.136	for a computer to be able
+227.96	to tell the difference
+227.96	between the two expressions.
+230.815	So how do we do that?
+232.627	We give our algorithms
+234.414	tens of thousands of examples
+234.414	of people we know to be smiling,
+238.524	from different ethnicities, ages, genders,
+241.589	and we do the same for smirks.
+244.4	And then, using deep learning,
+245.954	the algorithm looks for all these
+245.954	textures and wrinkles
+248.81	and shape changes on our face,
+251.39	and basically learns that all smiles
+251.39	have common characteristics,
+254.592	all smirks have subtly
+254.592	different characteristics.
+257.773	And the next time it sees a new face,
+260.141	it essentially learns that
+262.44	this face has the same
+262.44	characteristics of a smile,
+265.473	"and it says, ""Aha, I recognize this."
+265.473	"This is a smile expression."""
+270.381	So the best way to demonstrate
+270.381	how this technology works
+273.181	is to try a live demo,
+275.317	so I need a volunteer,
+275.317	preferably somebody with a face.
+279.23	(Laughter)
+281.564	Cloe's going to be our volunteer today.
+285.325	So over the past five years, we've moved
+285.325	from being a research project at MIT
+289.783	to a company,
+290.939	where my team has worked really hard
+290.939	to make this technology work,
+294.131	as we like to say, in the wild.
+296.54	And we've also shrunk it so that
+296.54	the core emotion engine
+299.21	works on any mobile device
+299.21	with a camera, like this iPad.
+302.53	So let's give this a try.
+306.756	As you can see, the algorithm
+306.756	has essentially found Cloe's face,
+310.68	so it's this white bounding box,
+312.372	and it's tracking the main
+312.372	feature points on her face,
+314.943	so her eyebrows, her eyes,
+314.943	her mouth and her nose.
+317.799	The question is,
+317.799	can it recognize her expression?
+320.786	So we're going to test the machine.
+322.457	So first of all, give me your poker face.
+322.457	Yep, awesome. (Laughter)
+326.643	And then as she smiles,
+326.643	this is a genuine smile, it's great.
+329.456	So you can see the green bar
+329.456	go up as she smiles.
+331.756	Now that was a big smile.
+332.978	Can you try a subtle smile
+332.978	to see if the computer can recognize?
+336.021	It does recognize subtle smiles as well.
+338.352	We've worked really hard
+338.352	to make that happen.
+340.477	And then eyebrow raised,
+340.477	indicator of surprise.
+343.439	Brow furrow, which is
+343.439	an indicator of confusion.
+347.688	Frown. Yes, perfect.
+351.695	So these are all the different
+351.695	action units. There's many more of them.
+355.188	This is just a slimmed-down demo.
+357.22	But we call each reading
+357.22	an emotion data point,
+360.368	and then they can fire together
+360.368	to portray different emotions.
+363.337	So on the right side of the demo --
+363.337	look like you're happy.
+367.99	So that's joy. Joy fires up.
+369.444	And then give me a disgust face.
+371.371	Try to remember what it was like
+371.371	when Zayn left One Direction.
+375.643	(Laughter)
+377.153	Yeah, wrinkle your nose. Awesome.
+381.495	And the valence is actually quite
+381.495	negative, so you must have been a big fan.
+385.226	So valence is how positive
+385.226	or negative an experience is,
+387.926	and engagement is how
+387.926	expressive she is as well.
+390.712	So imagine if Cloe had access
+390.712	to this real-time emotion stream,
+394.126	and she could share it
+394.126	with anybody she wanted to.
+396.935	Thank you.
+399.858	(Applause)
+405.749	So, so far, we have amassed
+411.019	It's the largest emotion
+411.019	database in the world.
+413.63	We've collected it
+413.63	from 2.9 million face videos,
+416.593	people who have agreed
+416.593	to share their emotions with us,
+419.193	and from 75 countries around the world.
+422.398	It's growing every day.
+424.603	It blows my mind away
+426.67	that we can now quantify something
+426.67	as personal as our emotions,
+429.865	and we can do it at this scale.
+432.1	So what have we learned to date?
+435.057	Gender.
+437.388	Our data confirms something
+437.388	that you might suspect.
+441.034	Women are more expressive than men.
+442.891	Not only do they smile more,
+442.891	their smiles last longer,
+445.574	and we can now really quantify
+445.574	what it is that men and women
+448.478	respond to differently.
+450.614	Let's do culture: So in the United States,
+452.904	women are 40 percent
+452.904	more expressive than men,
+456.108	but curiously, we don't see any difference
+456.108	in the U.K. between men and women.
+459.753	(Laughter)
+463.296	Age: People who are 50 years and older
+467.323	are 25 percent more emotive
+467.323	than younger people.
+471.899	Women in their 20s smile a lot more
+471.899	than men the same age,
+475.751	perhaps a necessity for dating.
+479.59	But perhaps what surprised us
+479.59	the most about this data
+482.207	is that we happen
+482.207	to be expressive all the time,
+485.41	even when we are sitting
+485.41	in front of our devices alone,
+488.243	and it's not just when we're watching
+488.243	cat videos on Facebook.
+492.217	We are expressive when we're emailing,
+492.217	texting, shopping online,
+495.227	or even doing our taxes.
+497.527	Where is this data used today?
+499.919	In understanding how we engage with media,
+502.682	so understanding virality
+502.682	and voting behavior;
+505.166	and also empowering
+505.166	or emotion-enabling technology,
+507.906	and I want to share some examples
+507.906	that are especially close to my heart.
+513.197	Emotion-enabled wearable glasses
+513.197	can help individuals
+516.265	who are visually impaired
+516.265	read the faces of others,
+519.493	and it can help individuals
+519.493	on the autism spectrum interpret emotion,
+523.68	something that they really struggle with.
+527.918	In education, imagine
+527.918	if your learning apps
+530.777	sense that you're confused and slow down,
+533.587	or that you're bored, so it's sped up,
+535.444	just like a great teacher
+535.444	would in a classroom.
+539.043	What if your wristwatch tracked your mood,
+541.644	or your car sensed that you're tired,
+544.337	or perhaps your fridge
+544.337	knows that you're stressed,
+546.885	so it auto-locks to prevent you
+546.885	from binge eating. (Laughter)
+552.951	I would like that, yeah.
+555.668	What if, when I was in Cambridge,
+557.595	I had access to my real-time
+557.595	emotion stream,
+559.908	and I could share that with my family
+559.908	back home in a very natural way,
+563.437	just like I would've if we were all
+563.437	in the same room together?
+567.408	I think five years down the line,
+570.55	all our devices are going
+570.55	to have an emotion chip,
+572.887	and we won't remember what it was like
+572.887	when we couldn't just frown at our device
+576.951	"and our device would say, ""Hmm,"
+576.951	"you didn't like that, did you?"""
+581.2	Our biggest challenge is that there are
+581.2	so many applications of this technology,
+584.961	my team and I realize that we can't
+584.961	build them all ourselves,
+587.864	so we've made this technology available
+587.864	so that other developers
+591.36	can get building and get creative.
+593.474	We recognize that
+593.474	there are potential risks
+597.56	and potential for abuse,
+599.627	but personally, having spent
+599.627	many years doing this,
+602.576	I believe that the benefits to humanity
+605.548	from having emotionally
+605.548	intelligent technology
+607.823	far outweigh the potential for misuse.
+611.399	And I invite you all to be
+611.399	part of the conversation.
+613.93	The more people who know
+613.93	about this technology,
+616.484	the more we can all have a voice
+616.484	in how it's being used.
+621.081	So as more and more
+621.081	of our lives become digital,
+625.655	we are fighting a losing battle
+625.655	trying to curb our usage of devices
+629.153	in order to reclaim our emotions.
+632.622	So what I'm trying to do instead
+632.622	is to bring emotions into our technology
+636.536	and make our technologies more responsive.
+638.765	So I want those devices
+638.765	that have separated us
+641.435	to bring us back together.
+643.897	And by humanizing technology,
+643.897	we have this golden opportunity
+648.485	to reimagine how we
+648.485	connect with machines,
+651.782	and therefore, how we, as human beings,
+656.263	connect with one another.
+658.167	Thank you.
+660.327	(Applause)

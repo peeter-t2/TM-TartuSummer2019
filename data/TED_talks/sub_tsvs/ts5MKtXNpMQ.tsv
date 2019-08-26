@@ -1,0 +1,386 @@
+startsecond	text
+18.33	What I'm going to try to do is explain to you
+21.33	quickly how to predict,
+23.33	and illustrate it with some predictions
+25.33	about what Iran is going to do in the next couple of years.
+30.33	In order to predict effectively,
+33.33	we need to use science.
+36.33	And the reason that we need to use science
+39.33	is because then we can reproduce what we're doing;
+41.33	it's not just wisdom or guesswork.
+44.33	And if we can predict,
+47.33	then we can engineer the future.
+49.33	So if you are concerned to influence energy policy,
+53.33	or you are concerned to influence national security policy,
+58.33	or health policy, or education,
+61.33	science -- and a particular branch of science -- is a way to do it,
+65.33	not the way we've been doing it,
+67.33	which is seat-of-the-pants wisdom.
+69.33	Now before I get into how to do it
+71.33	let me give you a little truth in advertising,
+74.33	because I'm not engaged in the business of magic.
+77.33	There are lots of thing that the approach I take can predict,
+81.33	and there are some that it can't.
+83.33	It can predict complex negotiations
+86.33	or situations involving coercion --
+89.33	that is in essence everything that has to do with politics,
+93.33	much of what has to do with business,
+95.33	but sorry, if you're looking to speculate in the stock market,
+101.33	I don't predict stock markets -- OK,
+103.33	it's not going up any time really soon.
+106.33	But I'm not engaged in doing that.
+109.33	I'm not engaged in predicting random number generators.
+112.33	I actually get phone calls from people
+114.33	who want to know what lottery numbers are going to win.
+117.33	I don't have a clue.
+120.33	I engage in the use of game theory, game theory is a branch of mathematics
+124.33	and that means, sorry, that even in the study of politics,
+128.33	math has come into the picture.
+131.33	We can no longer pretend that we just speculate about politics,
+135.33	we need to look at this in a rigorous way.
+138.33	Now, what is game theory about?
+141.33	It assumes that people are looking out for what's good for them.
+146.33	That doesn't seem terribly shocking --
+148.33	although it's controversial for a lot of people --
+150.33	that we are self-interested.
+154.33	In order to look out for what's best for them
+156.33	or what they think is best for them,
+158.33	people have values -- they identify what they want, and what they don't want.
+162.33	And they have beliefs about what other people want,
+165.33	and what other people don't want, how much power other people have,
+168.33	how much those people could get in the way of whatever it is that you want.
+172.33	And they face limitations, constraints,
+176.33	they may be weak, they may be located in the wrong part of the world,
+179.33	they may be Einstein, stuck away farming
+182.33	someplace in a rural village in India not being noticed,
+186.33	as was the case for Ramanujan for a long time,
+189.33	a great mathematician but nobody noticed.
+192.33	Now who is rational?
+194.33	A lot of people are worried about what is rationality about?
+197.33	You know, what if people are rational?
+199.33	Mother Theresa, she was rational.
+202.33	Terrorists, they're rational.
+206.33	Pretty much everybody is rational.
+209.33	I think there are only two exceptions that I'm aware of --
+212.33	two-year-olds, they are not rational,
+214.33	they have very fickle preferences,
+217.33	they switch what they think all the time,
+219.33	and schizophrenics are probably not rational,
+222.33	but pretty much everybody else is rational.
+224.33	That is, they are just trying to do
+226.33	what they think is in their own best interest.
+231.33	Now in order to work out what people are going to do
+233.33	to pursue their interests,
+235.33	we have to think about who has influence in the world.
+237.33	If you're trying to influence corporations to change their behavior,
+242.33	with regard to producing pollutants,
+245.33	one approach, the common approach,
+247.33	is to exhort them to be better,
+249.33	to explain to them what damage they're doing to the planet.
+252.33	And many of you may have noticed that doesn't have
+254.33	as big an effect, as perhaps you would like it to have.
+258.33	But if you show them that it's in their interest,
+261.33	then they're responsive.
+263.33	So, we have to work out who influences problems.
+266.33	If we're looking at Iran, the president of the United States
+268.33	we would like to think, may have some influence --
+271.33	certainly the president in Iran has some influence --
+275.33	but we make a mistake if we just pay attention
+278.33	to the person at the top of the power ladder
+281.33	because that person doesn't know much about Iran,
+284.33	or about energy policy,
+286.33	or about health care,
+288.33	or about any particular policy.
+290.33	That person surrounds himself or herself with advisers.
+295.33	If we're talking about national security problems,
+297.33	maybe it's the Secretary of State,
+299.33	maybe it's the Secretary of Defense,
+301.33	the Director of National Intelligence,
+303.33	maybe the ambassador to the United Nations, or somebody else
+305.33	who they think is going to know more about the particular problem.
+309.33	But let's face it, the Secretary of State doesn't know much about Iran.
+312.33	The secretary of defense doesn't know much about Iran.
+315.33	Each of those people in turn
+318.33	has advisers who advise them,
+320.33	so they can advise the president.
+323.33	There are lots of people shaping decisions
+326.33	and so if we want to predict correctly
+328.33	we have to pay attention to everybody
+331.33	who is trying to shape the outcome,
+333.33	not just the people at the pinnacle
+336.33	of the decision-making pyramid.
+340.33	Unfortunately, a lot of times we don't do that.
+342.33	There's a good reason that we don't do that,
+344.33	and there's a good reason that using game theory and computers,
+347.33	we can overcome the limitation
+350.33	of just looking at a few people.
+352.33	Imagine a problem with just five decision-makers.
+356.33	Imagine for example
+358.33	that Sally over here,
+360.33	wants to know what Harry, and Jane,
+363.33	and George and Frank are thinking,
+366.33	and sends messages to those people.
+368.33	Sally's giving her opinion to them,
+370.33	and they're giving their opinion to Sally.
+373.33	But Sally also wants to know
+375.33	what Harry is saying to these three,
+378.33	and what they're saying to Harry.
+380.33	And Harry wants to know
+382.33	what each of those people are saying to each other, and so on,
+385.33	and Sally would like to know what Harry thinks those people are saying.
+388.33	That's a complicated problem; that's a lot to know.
+391.33	With five decision-makers
+394.33	there are a lot of linkages --
+398.33	if you remember your factorials.
+400.33	Five factorial is 120.
+402.33	Now you may be surprised to know
+404.33	that smart people can keep 120 things straight
+407.33	in their head.
+409.33	Suppose we double the number of influencers
+411.33	from five to 10.
+413.33	Does that mean we've doubled the number of pieces of information
+417.33	we need to know, from 120 to 240?
+419.33	No. How about 10 times?
+421.33	To 1,200? No.
+424.33	We've increased it to 3.6 million.
+427.33	Nobody can keep that straight in their head.
+429.33	But computers,
+432.33	they can. They don't need coffee breaks,
+435.33	they don't need vacations,
+438.33	they don't need to go to sleep at night,
+440.33	they don't ask for raises either.
+443.33	They can keep this information straight
+445.33	and that means that we can process the information.
+448.33	So I'm going to talk to you about how to process it,
+450.33	and I'm going to give you some examples out of Iran,
+453.33	and you're going to be wondering,
+455.33	"""Why should we listen to this guy?"
+457.33	"Why should we believe what he's saying?"""
+460.33	So I'm going to show you a factoid.
+464.33	This is an assessment by the Central Intelligence Agency
+467.33	of the percentage of time
+469.33	that the model I'm talking about
+471.33	is right in predicting things whose outcome is not yet known,
+474.33	when the experts who provided the data inputs
+478.33	got it wrong.
+480.33	That's not my claim, that's a CIA claim -- you can read it,
+483.33	it was declassified a while ago. You can read it in a volume edited by
+486.33	H. Bradford Westerfield, Yale University Press.
+489.33	So, what do we need to know
+491.33	in order to predict?
+493.33	You may be surprised to find out we don't need to know very much.
+496.33	We do need to know who has a stake
+499.33	in trying to shape the outcome of a decision.
+504.33	We need to know what they say they want,
+507.33	not what they want in their heart of hearts,
+510.33	not what they think they can get,
+512.33	but what they say they want, because that is a strategically chosen position,
+515.33	and we can work backwards from that
+517.33	to draw inferences about important features of their decision-making.
+521.33	We need to know how focused they are
+523.33	on the problem at hand.
+525.33	That is, how willing are they to drop what they're doing when the issue comes up,
+528.33	and attend to it instead of something else that's on their plate --
+532.33	how big a deal is it to them?
+534.33	And how much clout could they bring to bear
+537.33	if they chose to engage on the issue?
+542.33	If we know those things
+544.33	we can predict their behavior by assuming that everybody
+547.33	cares about two things on any decision.
+552.33	They care about the outcome. They'd like an outcome as close to
+554.33	what they are interested in as possible.
+557.33	They're careerists, they also care about getting credit --
+560.33	there's ego involvement,
+562.33	they want to be seen as important in shaping the outcome,
+566.33	or as important, if it's their druthers, to block an outcome.
+571.33	And so we have to figure out how they balance those two things.
+574.33	Different people trade off
+576.33	between standing by their outcome,
+579.33	faithfully holding to it, going down in a blaze of glory,
+582.33	or giving it up, putting their finger in the wind,
+585.33	and doing whatever they think is going to be a winning position.
+588.33	Most people fall in between, and if we can work out where they fall
+591.33	we can work out how to negotiate with them
+593.33	to change their behavior.
+595.33	So with just that little bit of input
+598.33	we can work out what the choices are that people have,
+601.33	what the chances are that they're willing to take,
+604.33	what they're after, what they value, what they want,
+607.33	and what they believe about other people.
+610.33	You might notice what we don't need to know:
+614.33	there's no history in here.
+616.33	How they got to where they are
+618.33	may be important in shaping the input information,
+620.33	but once we know where they are
+622.33	we're worried about where they're going to be headed in the future.
+625.33	How they got there turns out not to be terribly critical in predicting.
+629.33	I remind you of that 90 percent accuracy rate.
+633.33	So where are we going to get this information?
+635.33	We can get this information
+638.33	from the Internet, from The Economist,
+641.33	The Financial Times, The New York Times,
+644.33	U.S. News and World Report, lots of sources like that,
+647.33	or we can get it from asking experts
+649.33	who spend their lives studying places and problems,
+652.33	because those experts know this information.
+655.33	If they don't know, who are the people trying to influence the decision,
+658.33	how much clout do they have,
+660.33	how much they care about this issue, and what do they say they want,
+663.33	are they experts? That's what it means to be an expert,
+666.33	that's the basic stuff an expert needs to know.
+670.33	Alright, lets turn to Iran.
+672.33	Let me make three important predictions --
+675.33	you can check this out, time will tell.
+678.33	What is Iran going to do about its nuclear weapons program?
+686.33	How secure is the theocratic regime in Iran?
+689.33	What's its future?
+691.33	And everybody's best friend,
+694.33	Ahmadinejad. How are things going for him?
+697.33	How are things going to be working out for him in the next year or two?
+703.33	You take a look at this, this is not based on statistics.
+706.33	I want to be very clear here. I'm not projecting some past data into the future.
+711.33	I've taken inputs on positions and so forth,
+714.33	run it through a computer model
+716.33	that had simulated the dynamics of interaction,
+719.33	and these are the simulated dynamics,
+721.33	the predictions about the path of policy.
+724.33	So you can see here on the vertical axis,
+727.33	I haven't shown it all the way down to zero,
+729.33	there are lots of other options, but here I'm just showing you the prediction,
+732.33	so I've narrowed the scale.
+734.33	"Up at the top of the axis, ""Build the Bomb."""
+737.33	At 130, we start somewhere above 130,
+741.33	between building a bomb, and making enough weapons-grade fuel
+744.33	so that you could build a bomb.
+746.33	That's where, according to my analyses,
+749.33	the Iranians were at the beginning of this year.
+752.33	And then the model makes predictions down the road.
+755.33	At 115 they would only produce enough weapons grade fuel
+759.33	to show that they know how, but they wouldn't build a weapon:
+761.33	they would build a research quantity.
+763.33	It would achieve some national pride,
+765.33	but not go ahead and build a weapon.
+768.33	And down at 100 they would build civilian nuclear energy,
+770.33	which is what they say is their objective.
+774.33	The yellow line shows us the most likely path.
+777.33	The yellow line includes an analysis
+778.33	of 87 decision makers in Iran,
+781.33	and a vast number of outside influencers
+784.33	trying to pressure Iran into changing its behavior,
+787.33	various players in the United States, and Egypt,
+790.33	and Saudi Arabia, and Russia, European Union,
+792.33	Japan, so on and so forth.
+794.33	The white line reproduces the analysis
+798.33	if the international environment
+800.33	just left Iran to make its own internal decisions,
+803.33	under its own domestic political pressures.
+805.33	That's not going to be happening,
+807.33	but you can see that the line comes down faster
+811.33	if they're not put under international pressure,
+814.33	if they're allowed to pursue their own devices.
+816.33	But in any event, by the end of this year,
+819.33	beginning of next year, we get to a stable equilibrium outcome.
+822.33	And that equilibrium is not what the United States would like,
+826.33	but it's probably an equilibrium that the United States can live with,
+829.33	and that a lot of others can live with.
+831.33	And that is that Iran will achieve that nationalist pride
+835.33	by making enough weapons-grade fuel, through research,
+839.33	so that they could show that they know how to make weapons-grade fuel,
+843.33	but not enough to actually build a bomb.
+848.33	How is this happening?
+850.33	Over here you can see this is the distribution
+854.33	of power in favor of civilian nuclear energy today,
+859.33	this is what that power block is predicted to be like
+862.33	by the late parts of 2010, early parts of 2011.
+868.33	Just about nobody supports research on weapons-grade fuel today,
+872.33	but by 2011 that gets to be a big block,
+875.33	and you put these two together, that's the controlling influence in Iran.
+879.33	Out here today, there are a bunch of people --
+882.33	Ahmadinejad for example --
+884.33	who would like not only to build a bomb,
+886.33	but test a bomb.
+888.33	That power disappears completely;
+890.33	nobody supports that by 2011.
+893.33	These guys are all shrinking,
+895.33	the power is all drifting out here,
+898.33	so the outcome is going to be the weapons-grade fuel.
+901.33	Who are the winners and who are the losers in Iran?
+904.33	Take a look at these guys, they're growing in power,
+907.33	and by the way, this was done a while ago
+910.33	before the current economic crisis,
+912.33	and that's probably going to get steeper.
+914.33	These folks are the moneyed interests in Iran,
+916.33	the bankers, the oil people, the bazaaries.
+920.33	They are growing in political clout,
+923.33	as the mullahs are isolating themselves --
+926.33	with the exception of one group of mullahs,
+928.33	who are not well known to Americans.
+930.33	That's this line here, growing in power,
+932.33	these are what the Iranians call the quietists.
+936.33	These are the Ayatollahs, mostly based in Qom,
+939.33	who have great clout in the religious community,
+943.33	have been quiet on politics and are going to be getting louder,
+946.33	because they see Iran going in an unhealthy direction,
+948.33	a direction contrary
+950.33	to what Khomeini had in mind.
+954.33	Here is Mr. Ahmadinejad.
+956.33	Two things to notice: he's getting weaker,
+959.33	and while he gets a lot of attention in the United States,
+961.33	he is not a major player in Iran.
+963.33	He is on the way down.
+965.33	OK, so I'd like you to take a little away from this.
+969.33	Everything is not predictable: the stock market
+971.33	is, at least for me, not predictable,
+974.33	but most complicated negotiations are predictable.
+979.33	Again, whether we're talking health policy, education,
+983.33	environment, energy,
+986.33	litigation, mergers,
+988.33	all of these are complicated problems
+990.33	that are predictable,
+992.33	that this sort of technology can be applied to.
+996.33	And the reason that being able to predict those things is important,
+1001.33	is not just because you might run a hedge fund and make money off of it,
+1004.33	but because if you can predict what people will do,
+1007.33	you can engineer what they will do.
+1010.33	And if you engineer what they do you can change the world,
+1012.33	you can get a better result.
+1014.33	I would like to leave you with one thought, which is
+1017.33	for me, the dominant theme of this gathering,
+1022.33	and is the dominant theme of this way of thinking about the world.
+1025.33	When people say to you,
+1028.33	"""That's impossible,"""
+1030.33	you say back to them,
+1032.33	"""When you say 'That's impossible,'"
+1034.33	you're confused with,
+1036.33	"'I don't know how to do it.'"""
+1039.33	Thank you.
+1041.33	(Applause)
+1045.33	Chris Anderson: One question for you.
+1047.33	That was fascinating.
+1050.33	I love that you put it out there.
+1053.33	I got very nervous halfway through the talk though,
+1055.33	just panicking whether you'd included in your model, the possibility that
+1058.33	putting this prediction out there might change the result.
+1062.33	We've got 800 people in Tehran who watch TEDTalks.
+1065.33	Bruce Bueno de Mesquita: I've thought about that,
+1067.33	and since I've done a lot of work for the intelligence community,
+1071.33	they've also pondered that.
+1073.33	It would be a good thing if
+1076.33	people paid more attention, took seriously,
+1079.33	and engaged in the same sorts of calculations,
+1081.33	because it would change things. But it would change things in two beneficial ways.
+1085.33	It would hasten how quickly people arrive at an agreement,
+1091.33	and so it would save everybody a lot of grief and time.
+1094.33	And, it would arrive at an agreement that everybody was happy with,
+1098.33	without having to manipulate them so much --
+1101.33	which is basically what I do, I manipulate them.
+1104.33	So it would be a good thing.
+1106.33	"CA: So you're kind of trying to say, ""People of Iran, this is your destiny, lets go there."""
+1110.33	BBM: Well, people of Iran, this is what many of you are going to evolve to want,
+1116.33	and we could get there a lot sooner,
+1118.33	and you would suffer a lot less trouble from economic sanctions,
+1121.33	and we would suffer a lot less fear of the use of military force on our end,
+1127.33	and the world would be a better place.
+1129.33	CA: Here's hoping they hear it that way. Thank you very much Bruce.
+1132.33	BBM: Thank you.
+1134.33	(Applause)

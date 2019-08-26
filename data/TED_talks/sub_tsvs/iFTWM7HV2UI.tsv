@@ -1,0 +1,578 @@
+startsecond	text
+12.76	So when people voice fears
+12.76	of artificial intelligence,
+16.32	very often, they invoke images
+16.32	of humanoid robots run amok.
+20.32	You know? Terminator?
+22.4	You know, that might be
+22.4	something to consider,
+24.76	but that's a distant threat.
+26.64	Or, we fret about digital surveillance
+30.12	with metaphors from the past.
+31.92	"""1984,"" George Orwell's ""1984,"""
+34.6	it's hitting the bestseller lists again.
+37.96	It's a great book,
+39.4	but it's not the correct dystopia
+39.4	for the 21st century.
+44.08	What we need to fear most
+45.52	is not what artificial intelligence
+45.52	will do to us on its own,
+50.32	but how the people in power
+50.32	will use artificial intelligence
+55.08	to control us and to manipulate us
+57.92	in novel, sometimes hidden,
+61.08	subtle and unexpected ways.
+64.12	Much of the technology
+66	that threatens our freedom
+66	and our dignity in the near-term future
+70.36	is being developed by companies
+72.24	in the business of capturing
+72.24	and selling our data and our attention
+77.2	to advertisers and others:
+79.48	Facebook, Google, Amazon,
+82.92	Alibaba, Tencent.
+86.04	Now, artificial intelligence has started
+86.04	bolstering their business as well.
+91.56	And it may seem
+91.56	like artificial intelligence
+93.68	is just the next thing after online ads.
+96.56	It's not.
+97.8	It's a jump in category.
+100.28	It's a whole different world,
+102.88	and it has great potential.
+105.52	It could accelerate our understanding
+105.52	of many areas of study and research.
+113.12	But to paraphrase
+113.12	a famous Hollywood philosopher,
+116.64	"""With prodigious potential"
+116.64	"comes prodigious risk."""
+121.12	Now let's look at a basic fact
+121.12	of our digital lives, online ads.
+125.08	Right? We kind of dismiss them.
+128	They seem crude, ineffective.
+130	We've all had the experience
+130	of being followed on the web
+134.28	by an ad based on something
+134.28	we searched or read.
+137.08	You know, you look up a pair of boots
+138.96	and for a week, those boots are following
+138.96	you around everywhere you go.
+142.36	Even after you succumb and buy them,
+142.36	they're still following you around.
+146.04	We're kind of inured to that kind
+146.04	of basic, cheap manipulation.
+149.08	We roll our eyes and we think,
+149.08	"""You know what? These things don't work."""
+153.72	Except, online,
+155.84	the digital technologies are not just ads.
+160.24	Now, to understand that,
+160.24	let's think of a physical world example.
+163.84	You know how, at the checkout counters
+163.84	at supermarkets, near the cashier,
+168.52	there's candy and gum
+168.52	at the eye level of kids?
+172.8	That's designed to make them
+172.8	whine at their parents
+176.32	just as the parents
+176.32	are about to sort of check out.
+180.04	Now, that's a persuasion architecture.
+183.16	It's not nice, but it kind of works.
+186.28	That's why you see it
+186.28	in every supermarket.
+188.72	Now, in the physical world,
+190.44	such persuasion architectures
+190.44	are kind of limited,
+192.96	because you can only put
+192.96	so many things by the cashier. Right?
+197.8	And the candy and gum,
+197.8	it's the same for everyone,
+202.12	even though it mostly works
+203.6	only for people who have
+203.6	whiny little humans beside them.
+209.16	In the physical world,
+209.16	we live with those limitations.
+214.28	In the digital world, though,
+216.24	persuasion architectures
+216.24	can be built at the scale of billions
+221.84	and they can target, infer, understand
+225.72	and be deployed at individuals
+228.64	one by one
+229.88	by figuring out your weaknesses,
+232.04	and they can be sent
+232.04	to everyone's phone private screen,
+237.68	so it's not visible to us.
+239.96	And that's different.
+241.24	And that's just one of the basic things
+241.24	that artificial intelligence can do.
+244.84	Now, let's take an example.
+246.2	Let's say you want to sell
+246.2	plane tickets to Vegas. Right?
+248.92	So in the old world, you could think
+248.92	of some demographics to target
+252.44	based on experience
+252.44	and what you can guess.
+255.56	You might try to advertise to, oh,
+258.4	men between the ages of 25 and 35,
+260.92	or people who have
+260.92	a high limit on their credit card,
+264.88	or retired couples. Right?
+266.28	That's what you would do in the past.
+268.12	With big data and machine learning,
+271.04	that's not how it works anymore.
+273.32	So to imagine that,
+275.52	think of all the data
+275.52	that Facebook has on you:
+279.4	every status update you ever typed,
+281.96	every Messenger conversation,
+284	every place you logged in from,
+288.4	all your photographs
+288.4	that you uploaded there.
+291.6	If you start typing something
+291.6	and change your mind and delete it,
+295.4	Facebook keeps those
+295.4	and analyzes them, too.
+299.16	Increasingly, it tries
+299.16	to match you with your offline data.
+303.12	It also purchases
+303.12	a lot of data from data brokers.
+306.32	It could be everything
+306.32	from your financial records
+309.76	to a good chunk of your browsing history.
+312.36	Right? In the US,
+312.36	such data is routinely collected,
+317.8	collated and sold.
+320.32	In Europe, they have tougher rules.
+323.68	So what happens then is,
+326.92	by churning through all that data,
+326.92	these machine-learning algorithms --
+330.96	that's why they're called
+330.96	learning algorithms --
+333.88	they learn to understand
+333.88	the characteristics of people
+338	who purchased tickets to Vegas before.
+341.76	When they learn this from existing data,
+345.32	they also learn
+345.32	how to apply this to new people.
+349.16	So if they're presented with a new person,
+352.24	they can classify whether that person
+352.24	is likely to buy a ticket to Vegas or not.
+357.72	Fine. You're thinking,
+357.72	an offer to buy tickets to Vegas.
+363.2	I can ignore that.
+364.68	But the problem isn't that.
+366.92	The problem is,
+368.52	we no longer really understand
+368.52	how these complex algorithms work.
+372.68	We don't understand
+372.68	how they're doing this categorization.
+376.16	It's giant matrices,
+376.16	thousands of rows and columns,
+380.6	maybe millions of rows and columns,
+383.32	and not the programmers
+386.76	and not anybody who looks at it,
+389.44	even if you have all the data,
+390.96	understands anymore
+390.96	how exactly it's operating
+395.6	any more than you'd know
+395.6	what I was thinking right now
+399.4	if you were shown
+399.4	a cross section of my brain.
+404.36	It's like we're not programming anymore,
+406.96	we're growing intelligence
+406.96	that we don't truly understand.
+412.52	And these things only work
+412.52	if there's an enormous amount of data,
+416.52	so they also encourage
+416.52	deep surveillance on all of us
+421.64	so that the machine learning
+421.64	algorithms can work.
+424	That's why Facebook wants
+424	to collect all the data it can about you.
+427.2	The algorithms work better.
+428.8	So let's push that Vegas example a bit.
+431.52	What if the system
+431.52	that we do not understand
+436.2	was picking up that it's easier
+436.2	to sell Vegas tickets
+441.36	to people who are bipolar
+441.36	and about to enter the manic phase.
+445.64	Such people tend to become
+445.64	overspenders, compulsive gamblers.
+451.28	They could do this, and you'd have no clue
+451.28	that's what they were picking up on.
+455.76	I gave this example
+455.76	to a bunch of computer scientists once
+459.4	and afterwards, one of them came up to me.
+461.48	He was troubled and he said,
+461.48	"""That's why I couldn't publish it."""
+465.6	"I was like, ""Couldn't publish what?"""
+467.8	He had tried to see whether you can indeed
+467.8	figure out the onset of mania
+473.68	from social media posts
+473.68	before clinical symptoms,
+476.92	and it had worked,
+478.72	and it had worked very well,
+480.8	and he had no idea how it worked
+480.8	or what it was picking up on.
+486.84	Now, the problem isn't solved
+486.84	if he doesn't publish it,
+491.28	because there are already companies
+493.2	that are developing
+493.2	this kind of technology,
+495.76	and a lot of the stuff
+495.76	is just off the shelf.
+499.24	This is not very difficult anymore.
+501.84	Do you ever go on YouTube
+501.84	meaning to watch one video
+505.32	and an hour later you've watched 27?
+508.76	You know how YouTube
+508.76	has this column on the right
+511.28	"that says, ""Up next"""
+513.52	and it autoplays something?
+515.36	It's an algorithm
+516.6	picking what it thinks
+516.6	that you might be interested in
+520.24	and maybe not find on your own.
+521.8	It's not a human editor.
+523.08	It's what algorithms do.
+524.52	It picks up on what you have watched
+524.52	and what people like you have watched,
+529.28	and infers that that must be
+529.28	what you're interested in,
+533.52	what you want more of,
+534.799	and just shows you more.
+536.159	It sounds like a benign
+536.159	and useful feature,
+539.28	except when it isn't.
+541.64	So in 2016, I attended rallies
+541.64	of then-candidate Donald Trump
+549.84	to study as a scholar
+549.84	the movement supporting him.
+553.2	I study social movements,
+553.2	so I was studying it, too.
+556.68	And then I wanted to write something
+556.68	about one of his rallies,
+560.04	so I watched it a few times on YouTube.
+563.24	YouTube started recommending to me
+566.36	and autoplaying to me
+566.36	white supremacist videos
+570.64	in increasing order of extremism.
+573.32	If I watched one,
+575.16	it served up one even more extreme
+578.16	and autoplayed that one, too.
+580.32	If you watch Hillary Clinton
+580.32	or Bernie Sanders content,
+584.88	YouTube recommends
+584.88	and autoplays conspiracy left,
+589.6	and it goes downhill from there.
+592.48	Well, you might be thinking,
+592.48	this is politics, but it's not.
+595.56	This isn't about politics.
+596.84	This is just the algorithm
+596.84	figuring out human behavior.
+599.96	I once watched a video
+599.96	about vegetarianism on YouTube
+604.76	and YouTube recommended
+604.76	and autoplayed a video about being vegan.
+609.72	It's like you're never
+609.72	hardcore enough for YouTube.
+612.76	(Laughter)
+614.36	So what's going on?
+616.52	Now, YouTube's algorithm is proprietary,
+620.08	but here's what I think is going on.
+623.36	The algorithm has figured out
+625.48	that if you can entice people
+629.2	into thinking that you can
+629.2	show them something more hardcore,
+632.96	they're more likely to stay on the site
+635.4	watching video after video
+635.4	going down that rabbit hole
+639.84	while Google serves them ads.
+643.76	Now, with nobody minding
+643.76	the ethics of the store,
+647.72	these sites can profile people
+653.68	who are Jew haters,
+656.36	who think that Jews are parasites
+660.32	and who have such explicit
+660.32	anti-Semitic content,
+666.08	and let you target them with ads.
+669.2	They can also mobilize algorithms
+672.76	to find for you look-alike audiences,
+675.92	people who do not have such explicit
+675.92	anti-Semitic content on their profile
+681.52	but who the algorithm detects
+681.52	may be susceptible to such messages,
+687.72	and lets you target them with ads, too.
+690.68	Now, this may sound
+690.68	like an implausible example,
+693.44	but this is real.
+695.48	ProPublica investigated this
+697.64	and found that you can indeed
+697.64	do this on Facebook,
+701.28	and Facebook helpfully
+701.28	offered up suggestions
+703.72	on how to broaden that audience.
+706.72	BuzzFeed tried it for Google,
+706.72	and very quickly they found,
+709.76	yep, you can do it on Google, too.
+711.52	And it wasn't even expensive.
+713.24	The ProPublica reporter
+713.24	spent about 30 dollars
+717.68	to target this category.
+722.6	So last year, Donald Trump's
+722.6	social media manager disclosed
+727.92	that they were using Facebook dark posts
+727.92	to demobilize people,
+733.28	not to persuade them,
+734.68	but to convince them not to vote at all.
+738.52	And to do that,
+738.52	they targeted specifically,
+742.12	for example, African-American men
+742.12	in key cities like Philadelphia,
+746.04	and I'm going to read
+746.04	exactly what he said.
+748.52	I'm quoting.
+749.76	"They were using ""nonpublic posts"
+752.8	whose viewership the campaign controls
+755	so that only the people
+755	we want to see it see it.
+758.8	We modeled this.
+760.04	It will dramatically affect her ability
+760.04	"to turn these people out."""
+765.72	What's in those dark posts?
+768.48	We have no idea.
+770.16	Facebook won't tell us.
+772.48	So Facebook also algorithmically
+772.48	arranges the posts
+776.88	that your friends put on Facebook,
+776.88	or the pages you follow.
+780.64	It doesn't show you
+780.64	everything chronologically.
+782.88	It puts the order in the way
+782.88	that the algorithm thinks will entice you
+787.72	to stay on the site longer.
+791.04	Now, so this has a lot of consequences.
+794.44	You may be thinking
+794.44	somebody is snubbing you on Facebook.
+798.8	The algorithm may never
+798.8	be showing your post to them.
+802.08	The algorithm is prioritizing
+802.08	some of them and burying the others.
+809.32	Experiments show
+810.64	that what the algorithm picks to show you
+810.64	can affect your emotions.
+816.6	But that's not all.
+818.28	It also affects political behavior.
+821.36	So in 2010, in the midterm elections,
+826.04	Facebook did an experiment
+826.04	on 61 million people in the US
+831.96	that was disclosed after the fact.
+833.88	So some people were shown,
+833.88	"""Today is election day,"""
+837.32	the simpler one,
+838.72	and some people were shown
+838.72	the one with that tiny tweak
+842.64	with those little thumbnails
+844.76	"of your friends who clicked on ""I voted."""
+849	This simple tweak.
+851.52	OK? So the pictures were the only change,
+855.84	and that post shown just once
+859.12	turned out an additional 340,000 voters
+865.2	in that election,
+866.92	according to this research
+868.64	as confirmed by the voter rolls.
+872.92	A fluke? No.
+874.6	Because in 2012,
+874.6	they repeated the same experiment.
+880.84	And that time,
+882.6	that civic message shown just once
+885.92	turned out an additional 270,000 voters.
+891.16	For reference, the 2016
+891.16	US presidential election
+896.4	was decided by about 100,000 votes.
+901.36	Now, Facebook can also
+901.36	very easily infer what your politics are,
+906.12	even if you've never
+906.12	disclosed them on the site.
+908.4	Right? These algorithms
+908.4	can do that quite easily.
+911.96	What if a platform with that kind of power
+915.88	decides to turn out supporters
+915.88	of one candidate over the other?
+921.68	How would we even know about it?
+925.56	Now, we started from someplace
+925.56	seemingly innocuous --
+929.72	online adds following us around --
+931.96	and we've landed someplace else.
+935.48	As a public and as citizens,
+937.96	we no longer know
+937.96	if we're seeing the same information
+941.4	or what anybody else is seeing,
+943.68	and without a common basis of information,
+946.28	little by little,
+947.92	public debate is becoming impossible,
+951.16	and we're just at
+951.16	the beginning stages of this.
+954.16	These algorithms can quite easily infer
+957.64	things like your people's ethnicity,
+960.92	religious and political views,
+960.92	personality traits,
+963.28	intelligence, happiness,
+963.28	use of addictive substances,
+966.68	parental separation, age and genders,
+969.84	just from Facebook likes.
+973.44	These algorithms can identify protesters
+977.52	even if their faces
+977.52	are partially concealed.
+981.72	These algorithms may be able
+981.72	to detect people's sexual orientation
+988.36	just from their dating profile pictures.
+993.56	Now, these are probabilistic guesses,
+996.2	so they're not going
+996.2	to be 100 percent right,
+999.12	but I don't see the powerful resisting
+999.12	the temptation to use these technologies
+1004.04	just because there are
+1004.04	some false positives,
+1006.24	which will of course create
+1006.24	a whole other layer of problems.
+1009.52	Imagine what a state can do
+1012.48	with the immense amount of data
+1012.48	it has on its citizens.
+1016.68	China is already using
+1016.68	face detection technology
+1021.48	to identify and arrest people.
+1025.28	And here's the tragedy:
+1027.44	we're building this infrastructure
+1027.44	of surveillance authoritarianism
+1033	merely to get people to click on ads.
+1037.24	And this won't be
+1037.24	Orwell's authoritarianism.
+1039.839	"This isn't ""1984."""
+1041.76	Now, if authoritarianism
+1041.76	is using overt fear to terrorize us,
+1046.359	we'll all be scared, but we'll know it,
+1049.28	we'll hate it and we'll resist it.
+1052.88	But if the people in power
+1052.88	are using these algorithms
+1057.319	to quietly watch us,
+1060.72	to judge us and to nudge us,
+1063.72	to predict and identify
+1063.72	the troublemakers and the rebels,
+1067.92	to deploy persuasion
+1067.92	architectures at scale
+1071.84	and to manipulate individuals one by one
+1076	using their personal, individual
+1076	weaknesses and vulnerabilities,
+1082.72	and if they're doing it at scale
+1086.08	through our private screens
+1087.84	so that we don't even know
+1089.52	what our fellow citizens
+1089.52	and neighbors are seeing,
+1093.56	that authoritarianism
+1093.56	will envelop us like a spider's web
+1098.4	and we may not even know we're in it.
+1102.44	So Facebook's market capitalization
+1105.4	is approaching half a trillion dollars.
+1108.72	It's because it works great
+1108.72	as a persuasion architecture.
+1113.76	But the structure of that architecture
+1116.6	is the same whether you're selling shoes
+1119.84	or whether you're selling politics.
+1122.36	The algorithms do not know the difference.
+1126.24	The same algorithms set loose upon us
+1129.56	to make us more pliable for ads
+1132.76	are also organizing our political,
+1132.76	personal and social information flows,
+1139.52	and that's what's got to change.
+1142.24	Now, don't get me wrong,
+1144.56	we use digital platforms
+1144.56	because they provide us with great value.
+1149.12	I use Facebook to keep in touch
+1149.12	with friends and family around the world.
+1154	I've written about how crucial
+1154	social media is for social movements.
+1159.8	I have studied how
+1159.8	these technologies can be used
+1162.84	to circumvent censorship around the world.
+1167.28	But it's not that the people who run,
+1167.28	you know, Facebook or Google
+1173.72	are maliciously and deliberately trying
+1176.44	to make the country
+1176.44	or the world more polarized
+1180.92	and encourage extremism.
+1183.44	I read the many
+1183.44	well-intentioned statements
+1187.44	that these people put out.
+1191.6	But it's not the intent or the statements
+1191.6	people in technology make that matter,
+1197.68	it's the structures
+1197.68	and business models they're building.
+1202.36	And that's the core of the problem.
+1204.48	Either Facebook is a giant con
+1204.48	of half a trillion dollars
+1210.2	and ads don't work on the site,
+1212.12	it doesn't work
+1212.12	as a persuasion architecture,
+1214.84	or its power of influence
+1214.84	is of great concern.
+1220.56	It's either one or the other.
+1222.36	It's similar for Google, too.
+1224.88	So what can we do?
+1227.36	This needs to change.
+1229.32	Now, I can't offer a simple recipe,
+1231.92	because we need to restructure
+1234.2	the whole way our
+1234.2	digital technology operates.
+1237.24	Everything from the way
+1237.24	technology is developed
+1241.36	to the way the incentives,
+1241.36	economic and otherwise,
+1245.24	are built into the system.
+1248.48	We have to face and try to deal with
+1251.96	the lack of transparency
+1251.96	created by the proprietary algorithms,
+1256.64	the structural challenge
+1256.64	of machine learning's opacity,
+1260.48	all this indiscriminate data
+1260.48	that's being collected about us.
+1265	We have a big task in front of us.
+1268.16	We have to mobilize our technology,
+1271.76	our creativity
+1273.36	and yes, our politics
+1276.24	so that we can build
+1276.24	artificial intelligence
+1278.92	that supports us in our human goals
+1282.8	but that is also constrained
+1282.8	by our human values.
+1287.6	And I understand this won't be easy.
+1290.36	We might not even easily agree
+1290.36	on what those terms mean.
+1294.92	But if we take seriously
+1298.24	how these systems that we
+1298.24	depend on for so much operate,
+1304.24	I don't see how we can postpone
+1304.24	this conversation anymore.
+1309.2	These structures
+1311.76	are organizing how we function
+1315.88	and they're controlling
+1318.2	what we can and we cannot do.
+1320.84	And many of these ad-financed platforms,
+1323.32	they boast that they're free.
+1324.92	In this context, it means
+1324.92	that we are the product that's being sold.
+1330.84	We need a digital economy
+1333.6	where our data and our attention
+1337.12	is not for sale to the highest-bidding
+1337.12	authoritarian or demagogue.
+1343.16	(Applause)
+1350.48	So to go back to
+1350.48	that Hollywood paraphrase,
+1353.76	we do want the prodigious potential
+1357.52	of artificial intelligence
+1357.52	and digital technology to blossom,
+1361.4	but for that, we must face
+1361.4	this prodigious menace,
+1366.36	open-eyed and now.
+1368.32	Thank you.
+1369.56	(Applause)
